@@ -10,7 +10,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
     name: { de: "Mount Assiniboine", hu: "Mount Assiniboine", ro: "Muntele Assiniboine", en: "Mount Assiniboine" },
     description: {
       de: "Das Matterhorn der Rocky Mountains besticht durch seine markante Pyramidenform an der Grenze zwischen British Columbia und Alberta.",
-      hu: "A Sziklás-hegység egyik leglátványosabb csúcsa Brit Columbia és Alberta határán, amelyet alakja miatt \"Kanada Matterhornjának\" is neveznek.",
+      hu: "A Sziklás-hegység egyik leglátványosabb csúcsa Brit Columbia és Alberta határán, amelyet alakja miatt \"Kanada Matterhornjának\" is nevezik.",
       ro: "Supranumit „Matterhorn-ul Americii de Nord” datorită formei sale piramidale spectaculoase, acest vârf domină peisajul Alpilor Canadieni.",
       en: "Known as the Matterhorn of the Rockies, this striking peak is a landmark of the Canadian Cordillera."
     },
@@ -19,6 +19,11 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Magassága 3618 méter.", "A csúcsot George Mercer Dawson nevezte el 1885-ben.", "A kanadai Sziklás-hegység része, British Columbia és Alberta határán.", "A Magog-tó népszerű kiindulópont a túrákhoz.", "Piramis alakú formája a gleccserek eróziójának köszönhető.", "A park 1922 óta védett terület."]
+    },
+    facts: {
+      hu: ["Magassága 3618 méter", "A kanadai Matterhornként is ismert", "Piramis alakú csúcsa gleccserformálta", "A Brit Columbia és Alberta határán áll"],
+      de: ["Bekannt als 'Matterhorn der Rocky Mountains'", "Höhe von 3.618 Metern", "Markante Pyramidenform durch Gletschererosion", "UNESCO-Welterbe-Gebiet"],
+      ro: ["Supranumit Matterhorn-ul Munților Stâncoși", "Altitudine maximă de 3.618 metri", "Situat la granița dintre BC și Alberta", "Face parte din patrimoniul mondial UNESCO"]
     }, image: "/poi-images/mount-assiniboine-nature-v2.webp"},
   {
     id: "south-nahanni-river-nature-v2",
@@ -37,6 +42,11 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["A Virginia-vízesés 96 méter magas.", "A folyó teljes hossza megközelítőleg 540 km.", "1978-ban lett UNESCO világörökségi helyszín.", "A terület a Dene nép ősi földje.", "Híres a kiterjedt karsztvidékéről és barlangjairól.", "A park területe több mint 30 000 km²."]
+    },
+    facts: {
+      hu: ["Az UNESCO Világörökség része", "Itt található a hatalmas Virginia-vízesés", "Mély kanyonok és hőforrások jellemzik", "A Dene őslakosok szent helye"],
+      de: ["UNESCO-Weltnaturerbe seit 1978", "Heimat der gewaltigen Virginia Falls", "Fließt durch vier tiefe Canyons", "Beliebtes Ziel für Wildwasser-Expeditionen"],
+      ro: ["Inima Parcului Național Nahanni", "Cascadele Virginia sunt de două ori mai înalte ca Niagara", "Patru canioane spectaculoase de 1.200 metri adâncime", "Primul sit natural UNESCO din lume (1978)"]
     }, image: "/poi-images/south-nahanni-river-nature-v2.webp"},
   {
     id: "great-slave-lake-nature-v2",
@@ -51,10 +61,15 @@ export const poiExtraCanadaNatureV2: POI[] = [
       en: "The deepest lake in North America and the second-largest lake in the Northwest Territories."
     },
     descriptionAdvanced: {
-      hu: "A Nagy-Rabszolga-tó Kanada második legnagyobb tava, amely az Északnyugati területeken található. Ez Észak-Amerika legmélyebb tava, amelynek maximális mélysége eléri a 614 métert, ami különleges hatással van a környező éghajlatra. A tó partján fekszik Yellowknife, a terület fővárosa, amely az 1930-as évekbeli aranyláz idején kezdett jelentősen fejlődni. Télen a tó vize teljesen befagy, ami lehetővé teszi a híres jégutak használatát a közlekedésben. A tó vize kristálytiszta, és jelentős élőhelyet biztosít különböző halfajoknak, mint a pisztráng és a süllő. Földrajz K7 — tavak és mélységek."
+      hu: "A Nagy-Rabszolga-tó Kanada második legnagyobb tava, amely az Északnyugati területeken található. Ez Észak-Amerika legmélyebb tava, amelynen maximális mélysége eléri a 614 métert, ami különleges hatással van a környező éghajlatra. A tó partján fekszik Yellowknife, a terület fővárosa, amely az 1930-as évekbeli aranyláz idején kezdett jelentősen fejlődni. Télen a tó vize teljesen befagy, ami lehetővé teszi a híres jégutak használatát a közlekedésben. A tó vize kristálytiszta, és jelentős élőhelyet biztosít különböző halfajoknak, mint a pisztráng és a süllő. Földrajz K7 — tavak és mélységek."
     },
     factsAdvanced: {
       hu: ["Legnagyobb mélysége 614 méter.", "Területe kb. 27 200 km².", "Kanada második legnagyobb tava.", "Yellowknife a tó északi partján helyezkedik el.", "A tó vize a Mackenzie folyón keresztül jut el a Jeges-tengerig.", "Télen jégutakat alakítanak ki a tavon."]
+    },
+    facts: {
+      hu: ["Észak-Amerika legmélyebb tava", "Maximális mélysége 614 méter", "Télen jégutakat alakítanak ki rajta", "Partján fekszik Yellowknife városa"],
+      de: ["Tiefster See in Nordamerika (614 m)", "Zweitgrößter See in den Northwest Territories", "Yellowknife liegt an seinem Nordufer", "Bekannt für spektakuläre Nordlichter"],
+      ro: ["Cel mai adânc lac din America de Nord (614 metri)", "Al doilea cel mai mare lac din Teritoriile de Nord-Vest", "Numele provine de la poporul indigen Slavey", "Drumurile de gheață sunt vitale pe timpul iernii"]
     }, image: "/poi-images/great-slave-lake-nature-v2.webp"},
   {
     id: "haida-gwaii-islands-nature-v2",
@@ -73,6 +88,11 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["A szigetcsoport több mint 150 szigetből áll.", "A legnagyobb szigetek a Graham-sziget és a Moresby-sziget.", "A Haida nép évezredek óta él ezen a területen.", "Gwaii Haanas Nemzeti Park a szigetek déli részén található.", "Az óceáni éghajlat miatt sok csapadék esik.", "Számos endemikus állatfaj él itt."]
+    },
+    facts: {
+      hu: ["\"Kanada Galápagosának\" is nevezik", "Gazdag Haida őslakos kulturális örökség", "Egyedülálló, endemikus állatfajok", "Totemoszlopok és ősi falvak helyszíne"],
+      de: ["Oft als 'Galápagos des Nordens' bezeichnet", "Heimat der indigenen Haida-Kultur", "Einzigartige, endemische Tier- und Pflanzenwelt", "Standort des Gwaii-Haanas-Nationalparks"],
+      ro: ["Arhipelag cunoscut drept Galápagos-ul Nordului", "Centru al culturii poporului indigen Haida", "Păduri tropicale temperate cu arbori seculari", "Situl SGang Gwaay este patrimoniu UNESCO"]
     }, image: "/poi-images/haida-gwaii-islands-nature-v2.webp"},
   {
     id: "pacific-rim-national-park-forest-nature-v2",

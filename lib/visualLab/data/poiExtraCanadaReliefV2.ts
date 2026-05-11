@@ -10,7 +10,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
     name: { de: "Coast Mountains", hu: "Parti-hegység", ro: "Munții Coastei", en: "Coast Mountains" },
     description: { 
       de: "Die Coast Mountains erstrecken sich entlang der Pazifikküste Kanadas und bilden eine imposante Barriere aus Gipfeln und Fjorden.", 
-      hu: "Brit Columbia nyugati partja mentén húzódó hatalmas hegylánc, amely sűrű erdőkkel és gleccserekkel tarkított.", 
+      hu: "Brit Columbia nyugati partja mentén húzódik hatalmas hegylánc, amely sűrű erdőkkel és gleccserekkel tarkított.", 
       ro: "Un lanț muntos masiv care se întinde de-a lungul coastei Pacificului, caracterizat prin vârfuri acoperite de ghețari și fiorduri adânci.", 
       en: "A vast mountain range along the Pacific coast, home to Canada's largest temperate ice fields."
     },
@@ -19,6 +19,11 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Gebirgskette entlang der Küste von British Columbia", "Beherbergt den größten temperierten Gletscher der Welt", "Wichtige Barriere für pazifische Feuchtigkeit", "Höchster Gipfel: Mount Waddington", "Präsentiert tiefe Fjorde und steile Täler", "Entstanden durch tektonische Aktivitäten"]
+    },
+    facts: {
+      hu: ["Kanada nyugati partja mentén húzódik", "Hatalmas jégmezők és gleccserek", "Mély fjordok tagolják a partvidéket", "Legmagasabb pontja a Mount Waddington"],
+      de: ["Größter Gebirgszug in British Columbia", "Beheimatet massive Gletscher und Eisfelder", "Tief einschneidende Fjorde entlang der Küste", "Höchster Gipfel ist der Mount Waddington"],
+      ro: ["Lanț muntos de-a lungul coastei Pacificului", "Include Muntele Waddington, cel mai înalt din BC", "Găzduiește mari câmpuri de gheață temperate", "Se întinde pe o lungime de peste 1.600 kilometri"]
     }, image: "/poi-images/coast-mountains-relief-v2.webp"},
   {
     id: "laurentian-mountains-relief-v2",
@@ -37,6 +42,11 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Eines der ältesten Gebirge der Welt", "Standort: Zentral-Québec", "Tief erodiertes präkambrisches Schild", "Dichte boreale Nadelwälder", "Zahlreiche Seen in den Tälern", "Bedeutsam für das Ökosystem von Québec"]
+    },
+    facts: {
+      hu: ["A világ egyik legöregebb hegysége", "Dél-Québec népszerű üdülőövezete", "Lekerekített csúcsok és sok tó", "Híres az őszi lombhullás színeiről"],
+      de: ["Eines der ältesten Gebirge der Erde", "Beliebtes Skigebiet Mont Tremblant", "Bekannt für die Farbenpracht im Indian Summer", "Teil des präkambrischen Kanadischen Schilds"],
+      ro: ["Printre cele mai vechi lanțuri muntoase din lume", "Formate în Precambrian, acum un miliard de ani", "Principală destinație de schi din Quebec", "Vârful cel mai înalt este Mont Raoul-Blanchard"]
     }, image: "/poi-images/laurentian-mountains-relief-v2.webp"},
   {
     id: "columbia-icefield-relief-v2",
@@ -55,6 +65,11 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Größtes Eisfeld der südlichen Rocky Mountains", "Speist mehrere große Flusssysteme", "Standort: Grenze Alberta/British Columbia", "Schrumpft aufgrund klimatischer Veränderungen", "Bildet ein beeindruckendes alpines Reservoir", "Wichtige Touristenattraktion"]
+    },
+    facts: {
+      hu: ["A Sziklás-hegység legnagyobb jégmezője", "Hat hatalmas gleccsert táplál", "Vize három különböző óceánba jut el", "Az Icefields Parkway mentén található"],
+      de: ["Größte Eismasse in den südlichen Rocky Mountains", "Speist Flüsse, die in drei Ozeane fließen", "Umfasst acht große Gletscher", "Direkt am Icefields Parkway gelegen"],
+      ro: ["Cea mai mare masă de gheață din Munții Stâncoși", "Alimentează șase mari ghețari, inclusiv Athabasca", "Apa se scurge spre trei oceane diferite", "Grosimea gheții ajunge până la 365 de metri"]
     }, image: "/poi-images/columbia-icefield-relief-v2.webp"},
   {
     id: "mackenzie-mountains-relief-v2",
@@ -73,6 +88,11 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Teil der kanadischen Kordilleren", "Befinden sich in den Nordwest-Territorien und Yukon", "Raues und unberührtes Wildnisgebiet", "Hohe Niederschlagsmengen in den Gipfellagen", "Wenig erschlossene Hochgebirgsregion", "Wichtiger Lebensraum für Bergschafe"]
+    },
+    facts: {
+      hu: ["Yukon és az Északnyugati területek határán fekszik", "Érintetlen északi vadon", "Fontos élőhelye a vadjuhoknak", "Kevésbé kiépített, kalandos vidék"],
+      de: ["Unberührte Wildnis im Norden Kanadas", "Wichtiges Habitat für Bergschafe und Karibus", "Grenzt an Yukon und die Northwest Territories", "Kaum durch Straßen erschlossen"],
+      ro: ["Graniță naturală între Yukon și Teritoriile de Nord-Vest", "Cel mai înalt vârf este Muntele Keele (2.972 metri)", "Regiune sălbatică, accesibilă în principal cu avionul", "Rezervația Nahanni acoperă o parte din acești munți"]
     }, image: "/poi-images/mackenzie-mountains-relief-v2.webp"},
   {
     id: "torngat-mountains-relief-v2",
@@ -91,6 +111,11 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Arktisches Gebirge auf der Labrador-Halbinsel", "Name bedeutet 'Ort der Geister' auf Inuktitut", "Spektakuläre Küstenlandschaft am Atlantik", "Eisgeformte Gipfel und Täler", "Teil eines Nationalparks", "Extreme klimatische Bedingungen"]
+    },
+    facts: {
+      hu: ["Labrador északi részén található", "Neve inuktitut nyelven \"szellemek helyét\" jelenti", "Meredek sziklafalak és fjordok", "Kanada egyik legzordabb arktikus vidéke"],
+      de: ["Name bedeutet 'Ort der Geister' (Inuktitut)", "Höchste Gipfel Kanadas östlich der Rockies", "Beeindruckende arktische Fjordlandschaft", "Teil des Torngat-Mountains-Nationalparks"],
+      ro: ["Munți arctici situați în peninsula Labrador", "Numele provine din inuktitut (Locul Spiritelor)", "Cele mai vechi roci de pe Pământ se găsesc aici", "Formează Parcul Național Munții Torngat"]
     }, image: "/poi-images/torngat-mountains-relief-v2.webp"},
   {
     id: "mont-tremblant-relief-v2",

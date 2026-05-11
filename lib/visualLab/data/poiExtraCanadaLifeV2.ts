@@ -19,6 +19,11 @@ export const poiExtraCanadaLifeV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Größter Zoo Kanadas", "Beherbergt über 5.000 Tiere", "Fokus auf Naturschutz und Forschung", "Eröffnet im Jahr 1974", "Wichtige Programme für bedrohte Arten", "Großes Areal mit verschiedenen Gehegen"]
+    },
+    facts: {
+      hu: ["Kanada legnagyobb állatkertje", "Több mint 5000 állat otthona", "Hét földrajzi régióra osztva", "Fontos természetvédelmi kutatóközpont"],
+      de: ["Größter Zoo in Kanada", "Über 5.000 Tiere aus 450 Arten", "Sieben zoogeographische Regionen", "Bedeutendes Naturschutzzentrum"],
+      ro: ["Cea mai mare grădină zoologică din Canada", "Peste 5.000 de animale și 450 de specii", "Șapte regiuni geografice diferite", "Deschisă oficial în anul 1974"]
     }, image: "/poi-images/toronto-zoo-life-v2.webp"},
   {
     id: "calgary-zoo-life-v2",
@@ -37,6 +42,11 @@ export const poiExtraCanadaLifeV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Einer der meistbesuchten Zoos Nordamerikas", "Spezialisiert auf kanadische Tierarten", "Bekanntes Pinguin-Gehege", "Engagement für den Schutz des Schreikranichs", "Standort: St. George's Island, Calgary", "Große Vielfalt exotischer Tiere"]
+    },
+    facts: {
+      hu: ["A St. George's Islanden található", "Híres a pingvin-bemutatójáról", "Kanadai vadon és afrikai szavanna részlegek", "Észak-Amerika egyik leglátogatottabb állatkertje"],
+      de: ["Auf der St. George's Island gelegen", "Bekannt für das Pinguin-Plunge-Gehege", "Fokus auf kanadische Wildnis", "Einer der meistbesuchten Zoos Kanadas"],
+      ro: ["Situată pe insula St. George din râul Bow", "Grădină botanică și parc preistoric incluse", "Programe majore de conservare a speciilor", "A doua cea mai mare grădină zoo din Canada"]
     }, image: "/poi-images/calgary-zoo-life-v2.webp"},
   {
     id: "granby-zoo-life-v2",
@@ -55,6 +65,11 @@ export const poiExtraCanadaLifeV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Populärer Zoo in der Provinz Québec", "Kombination aus Tiergarten und Wasserpark", "Wichtig für Umweltbildung", "Heimat vieler exotischer Arten", "Engagement für den Schutz seltener Tiere", "Jährlich über eine halbe Million Besucher"]
+    },
+    facts: {
+      hu: ["Québec tartomány legfontosabb állatkertje", "Saját víziparkkal rendelkezik", "Több mint 1500 állat él itt", "Népszerű családi úti cél"],
+      de: ["Wichtigster Zoo in der Provinz Québec", "Beherbergt über 1.500 Tiere", "Integrierter Wasserpark Amazoo", "Starkes Engagement für den Artenschutz"],
+      ro: ["Cel mai mare parc zoologic din Quebec", "Include un parc acvatic numit Amazoo", "Peste 1.500 de animale din toată lumea", "Fondată în anul 1953"]
     }, image: "/poi-images/granby-zoo-life-v2.webp"},
   {
     id: "vancouver-aquarium-life-v2",
@@ -73,6 +88,11 @@ export const poiExtraCanadaLifeV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Standort: Stanley Park, Vancouver", "Führend in mariner Forschung und Schutz", "Rettungszentrum für Meeresbewohner", "Schwerpunkt: Ökosystem Pazifischer Ozean", "Eröffnet 1956", "Bildungsprogramme für alle Altersstufen"]
+    },
+    facts: {
+      hu: ["A Stanley Park szívében található", "Tengerbiológiai kutatóközpont", "Sérült tengeri állatok mentésével is foglalkozik", "1956-ben nyílt meg"],
+      de: ["Im Herzen des Stanley Parks gelegen", "Zentrum für Meeresforschung und Rettung", "Erstes öffentliches Aquarium Kanadas", "Über 50.000 Meeresbewohner"],
+      ro: ["Situat în celebrul Stanley Park din Vancouver", "Primul acvariu public deschis în Canada (1956)", "Centru de cercetare și reabilitare marină", "Peste 65.000 de animale marine expuse"]
     }, image: "/poi-images/vancouver-aquarium-life-v2.webp"},
   {
     id: "ripleys-aquarium-canada-life-v2",
@@ -91,6 +111,11 @@ export const poiExtraCanadaLifeV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Standort: Toronto, nahe dem CN Tower", "Einer der längsten Unterwassertunnel Nordamerikas", "Beherbergt rund 20.000 Wassertiere", "Interaktive Ausstellungen für Besucher", "Großer Fokus auf Haie und Rochen", "Moderne Einrichtung zur Meereskunde"]
+    },
+    facts: {
+      hu: ["Toronto belvárosában fekszik", "Hosszú vízalatti cápaalagút", "Körülbelül 20 000 tengeri élőlény", "Interaktív rája-simogató"],
+      de: ["Befindet sich am Fuße des CN Towers", "Über 20.000 exotische Wassertiere", "Einer der längsten Unterwassertunnel Nordamerikas", "Interaktive Rochen-Becken"],
+      ro: ["Situat în centrul orașului Toronto, lângă Turnul CN", "Cel mai lung tunel subacvatic din America de Nord", "Peste 20.000 de specimene de animale marine", "Rezervoare interactive cu pisici de mare și rechini"]
     }, image: "/poi-images/ripleys-aquarium-canada-life-v2.webp"},
   {
     id: "african-lion-safari-life-v2",
