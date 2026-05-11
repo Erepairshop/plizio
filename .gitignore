@@ -55,3 +55,11 @@ supabase/.temp/
 public/poi-images/
 __pycache__/
 *.pyc
+
+# Local SEO and script artifacts
+lib/visualLab/.seo_tmp/
+generate_seo_batch*.py
+tsfiles.txt
+*.bak
+*_old.ts
+lib/visualLab/data/basic-poi-*.json
