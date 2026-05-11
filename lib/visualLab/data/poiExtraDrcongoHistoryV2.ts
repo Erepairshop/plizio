@@ -35,7 +35,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       de: ["Hauptstadt des Yeke-Reiches um 1881", "von K?nig Msiri aufgebaut", "lag im Raum Katanga, heute Haut-Katanga", "wichtiger Handelsplatz f?r Kupfer und Elfenbein", "politisches Machtzentrum des 19. Jahrhunderts", "verknüpfte Karawanenhandel und Herrschaft"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru bunkeya-yeke-capital", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Founded around 1881.", "Former power center in Katanga.", "Known for copper processing.", "The historical capital of the Yeke Kingdom, founded in the 19th century by King Msiri, was a major trading center for copper and ivory.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The historical capital of the Yeke Kingdom, founded in the 19th century by King Msiri, was a major trading center for copper and ivory.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -68,10 +68,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Nsheng (Kuba Capital) is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Nsheng, also known as Mushenge, was the center of the Kuba Kingdom, famous for its complex art, textiles, and mask carving. Center of the Kuba Empire. Famous for Kasai velvet. Historical royal seat. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Zentrum des Kuba-Reiches", "auch als Nsheng bekannt", "liegt im Kasai-Raum", "berühmt f?r Kasai-Samt", "Sitz eines historischen K?nigtums", "wichtiger Bezugspunkt f?r Hofkunst und Masken"],
+      de: ["auch als Nsheng bekannt", "liegt im Kasai-Raum", "Sitz eines historischen K?nigtums", "wichtiger Bezugspunkt f?r Hofkunst und Masken"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mushenge-kuba-capital", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Center of the Kuba Empire.", "Famous for Kasai velvet.", "Historical royal seat.", "Nsheng, also known as Mushenge, was the center of the Kuba Kingdom, famous for its complex art, textiles, and mask carving.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["Nsheng, also known as Mushenge, was the center of the Kuba Kingdom, famous for its complex art, textiles, and mask carving.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -104,10 +104,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Nyangwe is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Nyangwe was one of the most important Swahili-Arab trading towns on the Lualaba River in the late 19th century before being conquered by the Congo Free State. Founded around 1860. Important outpost for ivory. Visited by David Livingstone. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Handelsstadt am Lualaba im 19. Jahrhundert", "wichtiger swahili-arabischer Stützpunkt", "gegründet um 1860", "mit dem Elfenbeinhandel verbunden", "von David Livingstone besucht", "später vom Kongo-Freistaat erobert"],
+      de: ["Handelsstadt am Lualaba im 19. Jahrhundert", "wichtiger swahili-arabischer Stützpunkt", "mit dem Elfenbeinhandel verbunden", "von David Livingstone besucht", "später vom Kongo-Freistaat erobert"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru nyangwe-swahili-arab-post", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Founded around 1860.", "Important outpost for ivory.", "Visited by David Livingstone.", "Nyangwe was one of the most important Swahili-Arab trading towns on the Lualaba River in the late 19th century before being conquered by the Congo Free State.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["Nyangwe was one of the most important Swahili-Arab trading towns on the Lualaba River in the late 19th century before being conquered by the Congo Free State.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -140,10 +140,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Kasongo is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Kasongo served as the capital of the trading empire of Tippu Tip, a powerful Zanzibari merchant, in the eastern Congo of the 19th century. Capital of Tippu Tip. Important trade center. Site of the Congo-Arab War. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Hauptstadt von Tippu Tip", "wichtiger Handelsort im heutigen Maniema", "mit dem Kongo-Araber-Krieg verbunden", "Teil der Machtzone von Zanzibari-H?ndlern", "bedeutend f?r den Elfenbeinhandel", "steht f?r die Konflikte des 19. Jahrhunderts im Osten"],
+      de: ["wichtiger Handelsort im heutigen Maniema", "mit dem Kongo-Araber-Krieg verbunden", "Teil der Machtzone von Zanzibari-H?ndlern", "bedeutend f?r den Elfenbeinhandel", "steht f?r die Konflikte des 19. Jahrhunderts im Osten"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kasongo-tippu-tip", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Capital of Tippu Tip.", "Important trade center.", "Site of the Congo-Arab War.", "Kasongo served as the capital of the trading empire of Tippu Tip, a powerful Zanzibari merchant, in the eastern Congo of the 19th century.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["Kasongo served as the capital of the trading empire of Tippu Tip, a powerful Zanzibari merchant, in the eastern Congo of the 19th century.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -176,10 +176,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Boma (Former Capital) is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Boma was the first capital of the Congo Free State and later the Belgian Congo from 1886 until the capital was moved to Léopoldville in 1926. First colonial capital. Significant port on the Congo. Preserves colonial architecture. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["erste Kolonialhauptstadt ab 1886", "Hauptstadt bis 1926", "liegt am Kongo-Fluss", "wichtiger Hafen und Verwaltungsort", "bewahrt koloniale Architektur", "mit der Verlegung nach L?opoldville verknüpft"],
+      de: ["erste Kolonialhauptstadt ab 1886", "Hauptstadt bis 1926", "liegt am Kongo-Fluss", "wichtiger Hafen und Verwaltungsort", "mit der Verlegung nach L?opoldville verknüpft"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru boma-first-capital", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["First colonial capital.", "Significant port on the Congo.", "Preserves colonial architecture.", "Boma was the first capital of the Congo Free State and later the Belgian Congo from 1886 until the capital was moved to Léopoldville in 1926.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["Boma was the first capital of the Congo Free State and later the Belgian Congo from 1886 until the capital was moved to Léopoldville in 1926.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -212,10 +212,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Vivi is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Vivi was founded by Henry Morton Stanley in 1879 and was effectively the first administrative center for King Leopold II's interests in the Congo. Founded in 1879. Stanley's first headquarters. Located near Matadi. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["1879 von Henry Morton Stanley gegründet", "erstes Hauptquartier von Stanley in der Region", "nahe Matadi gelegen", "frühes administratives Zentrum", "mit den Interessen Leopolds II. verbunden", "wichtig f?r die Kontrolle des Unterkongo"],
+      de: ["1879 von Henry Morton Stanley gegründet", "erstes Hauptquartier von Stanley in der Region", "frühes administratives Zentrum", "mit den Interessen Leopolds II. verbunden", "wichtig f?r die Kontrolle des Unterkongo"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru vivi-stanley-outpost", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Founded in 1879.", "Stanley's first headquarters.", "Located near Matadi.", "Vivi was founded by Henry Morton Stanley in 1879 and was effectively the first administrative center for King Leopold II's interests in the Congo.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["Vivi was founded by Henry Morton Stanley in 1879 and was effectively the first administrative center for King Leopold II's interests in the Congo.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -248,10 +248,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Fort de Shinkakasa is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A fort built in Boma in 1891 to defend access to the Congo River against other colonial powers, particularly the Portuguese. Completed in 1891. Fortress on the Congo River. Site of a mutiny in 1900. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["1891 in Boma fertiggestellt", "diente der Verteidigung des Kongo-Zugangs", "gegen?ber den Portugiesen ausgerichtet", "Festungsanlage am Unterkongo", "Ort einer Meuterei im Jahr 1900", "Teil der kolonialen Milit?rstrategie"],
+      de: ["1891 in Boma fertiggestellt", "diente der Verteidigung des Kongo-Zugangs", "gegen?ber den Portugiesen ausgerichtet", "Festungsanlage am Unterkongo", "Teil der kolonialen Milit?rstrategie"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru fort-de-shinkakasa", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Completed in 1891.", "Fortress on the Congo River.", "Site of a mutiny in 1900.", "A fort built in Boma in 1891 to defend access to the Congo River against other colonial powers, particularly the Portuguese.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A fort built in Boma in 1891 to defend access to the Congo River against other colonial powers, particularly the Portuguese.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -287,7 +287,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       de: ["Schauplatz der Belagerung von 1961", "heute Likasi genannt", "ehemalige Minenstadt in Katanga", "Teil des katangischen Kupferg?rtels", "mit Kupfer und Kobalt verbunden", "Name Jadotville stammt aus der Kolonialzeit"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru jadotville-likasi", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Site of the 1961 siege.", "Former mining town.", "Center of Katanga.", "Likasi, formerly Jadotville, was the site of the famous 1961 Siege of Jadotville, where Irish UN troops fought Katangese secessionists.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["Likasi, formerly Jadotville, was the site of the famous 1961 Siege of Jadotville, where Irish UN troops fought Katangese secessionists.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -302,13 +302,13 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Shinkolobwe Uranium Mine"
     },
     description: {
-      de: "Die Shinkolobwe-Mine lieferte das hochgradige Uran, das im Manhattan-Projekt für die ersten Atombomben im Zweiten Weltkrieg verwendet wurde.",
+      de: "Die Shinkolobwe-Mine erlangte historische Berühmtheit, da sie das Uran für die ersten Atombomben des Manhattan-Projekts lieferte.",
       hu: "A Shinkolobwe bánya biztosította azt a kiváló minőségű uránt, amelyet a Manhattan-tervben a második világháború első atombombáihoz használtak.",
       ro: "Mina Shinkolobwe a furnizat uraniul de înaltă calitate folosit în Proiectul Manhattan pentru primele bombe atomice din timpul celui de-al Doilea Război Mondial.",
       en: "The Shinkolobwe mine supplied the high-grade uranium used in the Manhattan Project for the first atomic bombs during World War II."
     },
     facts: {
-      de: ["1915 entdeckt.", "Lieferte Uran für 1945.", "Seit 2004 offiziell geschlossen."],
+      de: ["Historische Uranmine", "Quelle für das Manhattan-Projekt", "In der Provinz Haut-Katanga"],
       hu: ["1915-ben fedezték fel.", "Uránt szállított 1945-ben.", "2004 óta hivatalosan zárva van."],
       ro: ["Descoperită în 1915.", "A furnizat uraniu pentru 1945.", "Închisă oficial din 2004."],
       en: ["Discovered in 1915.", "Supplied uranium for 1945.", "Officially closed since 2004."]
@@ -320,10 +320,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Shinkolobwe Uranium Mine is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The Shinkolobwe mine supplied the high-grade uranium used in the Manhattan Project for the first atomic bombs during World War II. Discovered in 1915. Supplied uranium for 1945. Officially closed since 2004. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["1915 entdeckt", "lieferte Uranerz f?r 1945", "seit 2004 offiziell geschlossen", "liegt in Haut-Katanga", "mit der Bergbaufirma Union Mini?re verbunden", "eine der bekanntesten Uranminen des Kongo"],
+      de: ["liegt in Haut-Katanga", "mit der Bergbaufirma Union Mini?re verbunden", "eine der bekanntesten Uranminen des Kongo"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru shinkolobwe-mine", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Discovered in 1915.", "Supplied uranium for 1945.", "Officially closed since 2004.", "The Shinkolobwe mine supplied the high-grade uranium used in the Manhattan Project for the first atomic bombs during World War II.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The Shinkolobwe mine supplied the high-grade uranium used in the Manhattan Project for the first atomic bombs during World War II.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -356,10 +356,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Ishango Archaeological Site is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. At Ishango on Lake Edward, the famous Ishango bone was found, an over 20,000-year-old mathematical artifact with incised markings. Site of the Ishango bone. Over 20,000 years old. Earliest traces of mathematics. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Fundort des Ishango-Knochens", "mehr als 20.000 Jahre alt", "wichtiger Hinweis auf frühe Mathematik", "arch?ologische St?tte im Osten des Kongo", "verbunden mit Steinzeitforschung", "Teil der Urgeschichte der Region"],
+      de: ["mehr als 20.000 Jahre alt", "wichtiger Hinweis auf frühe Mathematik", "arch?ologische St?tte im Osten des Kongo", "verbunden mit Steinzeitforschung", "Teil der Urgeschichte der Region"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru ishango-archaeological-site", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Site of the Ishango bone.", "Over 20,000 years old.", "Earliest traces of mathematics.", "At Ishango on Lake Edward, the famous Ishango bone was found, an over 20,000-year-old mathematical artifact with incised markings.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["At Ishango on Lake Edward, the famous Ishango bone was found, an over 20,000-year-old mathematical artifact with incised markings.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -392,10 +392,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Sanga Burial Site is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The archaeological site of Sanga on Lake Kisale revealed richly equipped graves from the 8th to 9th centuries, pointing to early Luba culture. Includes hundreds of graves. Finds of copper crosses. Part of the Upemba Depression. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["umfasst hunderte Gr?ber", "liegt in der Upemba-Senke", "Funde von Kupferkreuzen", "wichtige arch?ologische Zone in Katanga", "zeigt soziale Hierarchien in frühen Gesellschaften", "Teil der Forschung zur Geschichte des Luba-Raums"],
+      de: ["liegt in der Upemba-Senke", "wichtige arch?ologische Zone in Katanga", "zeigt soziale Hierarchien in frühen Gesellschaften", "Teil der Forschung zur Geschichte des Luba-Raums"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru sanga-kisale-graves", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Includes hundreds of graves.", "Finds of copper crosses.", "Part of the Upemba Depression.", "The archaeological site of Sanga on Lake Kisale revealed richly equipped graves from the 8th to 9th centuries, pointing to early Luba culture.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The archaeological site of Sanga on Lake Kisale revealed richly equipped graves from the 8th to 9th centuries, pointing to early Luba culture.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -428,10 +428,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Kolwezi (1978 Battle) is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The mining town of Kolwezi was captured by rebels in 1978 during the Shaba invasion and freed by an intervention of French Foreign Legionnaires. Site of the Shaba II crisis. Deployment of French paratroopers. Important cobalt center. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Schauplatz der Shaba-II-Krise", "Krise von 1978", "Einsatz franz?sischer Fallschirmj?ger", "wichtige Kobalt- und Kupferstadt", "gehört zum Bergbaugebiet von Katanga", "international wegen der Evakuierungsoperation bekannt"],
+      de: ["Krise von 1978", "wichtige Kobalt- und Kupferstadt", "gehört zum Bergbaugebiet von Katanga", "international wegen der Evakuierungsoperation bekannt"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kolwezi-battle-1978", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Site of the Shaba II crisis.", "Deployment of French paratroopers.", "Important cobalt center.", "The mining town of Kolwezi was captured by rebels in 1978 during the Shaba invasion and freed by an intervention of French Foreign Legionnaires.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The mining town of Kolwezi was captured by rebels in 1978 during the Shaba invasion and freed by an intervention of French Foreign Legionnaires.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -467,7 +467,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       de: ["1883 gegründet", "von Henry Morton Stanley angelegt", "Ursprung des heutigen Kisangani", "historisches Handelszentrum am Kongo", "nahe den Boyoma-F?llen gelegen", "wichtiger Flussposten im oberen Kongo"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru stanley-falls-station", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Founded in 1883.", "Historical trading center.", "Origin of Kisangani.", "The station at the Boyoma Falls was founded by H.M. Stanley in 1883 and was a central scene in the war against Arab slave traders.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The station at the Boyoma Falls was founded by H.M. Stanley in 1883 and was a central scene in the war against Arab slave traders.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -500,10 +500,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Coquilhatville (Mbandaka) is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Originally founded as Équateurville in 1883 and later named after Camille Coquilhat, this city was an important colonial administrative post. Located on the Equator. Founded by Stanley. Important river port. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["liegt am ?quator", "früher Coquilhatville genannt", "wichtiger Flusshafen am Kongo", "mit Stanley und der Kolonialzeit verbunden", "heute Mbandaka genannt", "Bedeutung als Verwaltungs- und Handelsort"],
+      de: ["früher Coquilhatville genannt", "wichtiger Flusshafen am Kongo", "mit Stanley und der Kolonialzeit verbunden", "heute Mbandaka genannt", "Bedeutung als Verwaltungs- und Handelsort"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mbandaka-coquilhatville", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Located on the Equator.", "Founded by Stanley.", "Important river port.", "Originally founded as Équateurville in 1883 and later named after Camille Coquilhat, this city was an important colonial administrative post.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["Originally founded as Équateurville in 1883 and later named after Camille Coquilhat, this city was an important colonial administrative post.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -518,13 +518,13 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Lovanium University"
     },
     description: {
-      de: "Die 1954 in der Nähe von Kinshasa gegründete Lovanium war die erste Universität im Belgisch-Kongo und besaß den ersten Kernreaktor Afrikas (TRICO I).",
+      de: "Die Lovanium-Universität auf dem Berg Amba bei Kinshasa war die erste Universität Zentralafrikas und beherbergte den ersten Forschungsreaktor des Kontinents.",
       hu: "Az 1954-ben Kinshasa közelében alapított Lovanium volt az első egyetem a Belga Kongóban, és itt működött Afrika első atomreaktora (TRICO I).",
       ro: "Fondată în 1954 lângă Kinshasa, Lovanium a fost prima universitate din Congo-ul Belgian și a găzduit primul reactor nuclear din Africa (TRICO I).",
       en: "Founded in 1954 near Kinshasa, Lovanium was the first university in the Belgian Congo and housed Africa's first nuclear reactor (TRICO I)."
     },
     facts: {
-      de: ["Eröffnet 1954.", "Erster Atomreaktor Afrikas (1959).", "Heute Universität von Kinshasa."],
+      de: ["Erste Universität Zentralafrikas", "Gegründet 1954", "Standort des Kernforschungsreaktors TRICO I"],
       hu: ["1954-ben nyílt meg.", "Afrika első atomreaktora (1959).", "Ma a Kinshasai Egyetem."],
       ro: ["Deschisă în 1954.", "Primul reactor nuclear din Africa (1959).", "Astăzi Universitatea din Kinshasa."],
       en: ["Opened in 1954.", "Africa's first nuclear reactor (1959).", "Today the University of Kinshasa."]
@@ -539,7 +539,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       de: ["1954 eröffnet", "1959 mit dem ersten Atomreaktor Afrikas verbunden", "heute Teil der Universit?t von Kinshasa", "wichtiger Hochschulstandort in Kinshasa", "von katholischen Akteuren getragen", "steht f?r Wissenschafts- und Bildungsgeschichte im Kongo"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru lovanium-university-site", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Opened in 1954.", "Africa's first nuclear reactor (1959).", "Today the University of Kinshasa.", "Founded in 1954 near Kinshasa, Lovanium was the first university in the Belgian Congo and housed Africa's first nuclear reactor (TRICO I).", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["Founded in 1954 near Kinshasa, Lovanium was the first university in the Belgian Congo and housed Africa's first nuclear reactor (TRICO I).", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -572,10 +572,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Baudouinville (Moba) is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Baudouinville was founded in 1893 by White Fathers missionaries on Lake Tanganyika and served as a refuge for freed slaves. Founded by White Fathers. Catholic mission. Located on Lake Tanganyika. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["von den Wei?en V?tern gegründet", "katholische Missionsstation", "liegt am Tanganjikasee", "früher Baudouinville genannt", "heute Moba", "Teil der Missionsgeschichte im Osten des Kongo"],
+      de: ["von den Wei?en V?tern gegründet", "katholische Missionsstation", "früher Baudouinville genannt", "heute Moba", "Teil der Missionsgeschichte im Osten des Kongo"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru baudouinville-moba", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Founded by White Fathers.", "Catholic mission.", "Located on Lake Tanganyika.", "Baudouinville was founded in 1893 by White Fathers missionaries on Lake Tanganyika and served as a refuge for freed slaves.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["Baudouinville was founded in 1893 by White Fathers missionaries on Lake Tanganyika and served as a refuge for freed slaves.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -590,16 +590,16 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Albertville (Kalemie)"
     },
     description: {
-      de: "Das 1892 als militärischer Vorposten gegründete Albertville spielte eine wichtige Rolle bei den Kampagnen des Kongo-Freistaats gegen den ostafrikanischen Sklavenhandel.",
-      hu: "Az 1892-ben katonai előretolt helyőrségként alapított Albertville fontos szerepet játszott a Kongói Szabadállam kelet-afrikai rabszolga-kereskedelem elleni hadjárataiban.",
+      de: "Unter dem Namen Albertville war die heutige Stadt Kalemie ein strategischer Stützpunkt während der Kolonialzeit und ein Schlüsselort im Ersten Weltkrieg.",
+      hu: "Kalemie városának gyarmati neve, amelyet I. Albert belga királyról neveztek el.",
       ro: "Fondat în 1892 ca avanpost militar, Albertville a jucat un rol important în campaniile Statului Independent Congo împotriva comerțului cu sclavi din Africa de Est.",
-      en: "Founded in 1892 as a military outpost, Albertville played an important role in the Congo Free State campaigns against the East African slave trade."
+      en: "Albertville was the colonial name of Kalemie, established as a military post and later becoming a major port on Lake Tanganyika."
     },
     facts: {
-      de: ["1892 gegründet.", "Strategischer Posten am See.", "Heute Kalemie."],
-      hu: ["1892-ben alapították.", "Stratégiai poszt a tónál.", "Ma Kalemie."],
+      de: ["Kolonialname von Kalemie", "Gegründet 1892", "Schauplatz im Ersten Weltkrieg"],
+      hu: ["Fontos katonai és kereskedelmi bázis volt a Tanganyika-tónál", "A belga gyarmati adminisztráció egyik regionális központja", "A név 1966-ig volt hivatalos használatban"],
       ro: ["Fondată în 1892.", "Post strategic pe lac.", "Astăzi Kalemie."],
-      en: ["Founded in 1892.", "Strategic post on the lake.", "Today Kalemie."]
+      en: ["Founded in 1892", "Named after Prince Albert of Belgium", "Strategic rail-to-lake hub"]
     }, image: "/poi-images/albertville-kalemie.webp",
     descriptionAdvanced: {
       de: "Albertville, das heutige Kalemie, wurde 1892 als strategischer Posten am Tanganjikasee gegründet und war ein wichtiger Punkt f?r Verkehr und Kontrolle im Osten des Kongo. Die Lage am See machte den Ort zu einem natürlichen Umschlagplatz f?r Handel, Verwaltung und militärische Präsenz. Der heutige Name Kalemie erinnert an die spätere Entwicklung der Stadt, doch die koloniale Gründung bleibt zentral. F?r den Unterricht ist der Ort gut geeignet, um Seeverbindungen, Grenzräume und die Entstehung einer Hafenstadt zu erklären.",
@@ -608,10 +608,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Albertville (Kalemie) is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Founded in 1892 as a military outpost, Albertville played an important role in the Congo Free State campaigns against the East African slave trade. Founded in 1892. Strategic post on the lake. Today Kalemie. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["1892 gegründet", "früher Albertville genannt", "heute Kalemie", "strategischer Posten am Tanganjikasee", "wichtiger Hafen- und Verwaltungsort", "Teil der kolonialen Präsenz im Osten"],
+      de: ["früher Albertville genannt", "strategischer Posten am Tanganjikasee", "wichtiger Hafen- und Verwaltungsort", "Teil der kolonialen Präsenz im Osten"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru albertville-kalemie", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Founded in 1892.", "Strategic post on the lake.", "Today Kalemie.", "Founded in 1892 as a military outpost, Albertville played an important role in the Congo Free State campaigns against the East African slave trade.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["Founded in 1892 as a military outpost, Albertville played an important role in the Congo Free State campaigns against the East African slave trade.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -629,13 +629,13 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       de: "Uvira wurde in den 1840er Jahren als Vorposten der Swahili-Araber etabliert und entwickelte sich zu einem wichtigen Knotenpunkt für Elfenbein- und Sklavenhandel.",
       hu: "Uvirát az 1840-es években szuahéli-arab előretolt helyőrségként alapították, és fontos elefántcsont- és rabszolga-kereskedelmi csomóponttá fejlődött.",
       ro: "Uvira a fost înființată în anii 1840 ca avanpost swahili-arab și s-a dezvoltat într-un nod important pentru comerțul cu fildeș și sclavi.",
-      en: "Uvira was established in the 1840s as a Swahili-Arab outpost and developed into an important hub for ivory and slave trading."
+      en: "Uvira historically served as an important Swahili-Arab trading post for ivory and slaves before the colonial era."
     },
     facts: {
       de: ["Arabischer Außenposten.", "Wichtiger Hafen am Kivusee.", "Ort früher Konflikte."],
       hu: ["Arab előretolt helyőrség.", "Fontos kikötő a Kivu-tónál.", "Korai konfliktusok helyszíne."],
       ro: ["Avanpost arab.", "Port important pe Lacul Kivu.", "Locul unor conflicte timpurii."],
-      en: ["Arab outpost.", "Important port on Lake Kivu.", "Site of early conflicts."]
+      en: ["Pre-colonial trade hub", "Focus on ivory and goods", "Link to East African trade routes"]
     }, image: "/poi-images/uvira-swahili-post.webp",
     descriptionAdvanced: {
       de: "Uvira war ein swahilisch-arabischer Au?enposten und entwickelte sich wegen seiner Lage am Nordufer des Tanganjikasees zu einem wichtigen Handels- und Verkehrsort. Der Platz zeigt, wie eng Seehandel, regionale Konflikte und kulturelle ?bergänge im Osten des Kongo verbunden waren. Uvira ist damit mehr als ein Hafenname: Der Ort steht f?r Netzwerke zwischen Küsten-, See- und Binnenhandel. F?r Geschichte K7 und K8 eignet sich der Ort, weil er den Einfluss von Karawanen, Handelsgruppen und späteren Machtverschiebungen sichtbar macht.",
@@ -644,10 +644,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Historical Uvira is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Uvira was established in the 1840s as a Swahili-Arab outpost and developed into an important hub for ivory and slave trading. Arab outpost. Important port on Lake Kivu. Site of early conflicts. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["swahilisch-arabischer Au?enposten", "am Nordufer des Tanganjikasees gelegen", "wichtiger Hafen im Osten des Kongo", "mit dem Seehandel verbunden", "Ort früher Konflikte", "Teil der Handelsnetze zwischen See und Binnenland"],
+      de: ["swahilisch-arabischer Au?enposten", "am Nordufer des Tanganjikasees gelegen", "wichtiger Hafen im Osten des Kongo", "mit dem Seehandel verbunden", "Teil der Handelsnetze zwischen See und Binnenland"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru uvira-swahili-post", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Arab outpost.", "Important port on Lake Kivu.", "Site of early conflicts.", "Uvira was established in the 1840s as a Swahili-Arab outpost and developed into an important hub for ivory and slave trading.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["Uvira was established in the 1840s as a Swahili-Arab outpost and developed into an important hub for ivory and slave trading.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -680,10 +680,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Banza-Manteke Mission is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Banza-Manteke was the site of one of the first mass conversions to Christianity in the Congo in the 1880s, led by Protestant missionaries. Center of the 1886 revival. Protestant mission. Historical church building. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Zentrum der Erweckung 1886", "protestantische Mission", "wichtiger historischer Kirchenbau", "liegt im Kongo Central", "mit Bildungsarbeit verbunden", "Teil der protestantischen Missionsgeschichte"],
+      de: ["wichtiger historischer Kirchenbau", "liegt im Kongo Central", "mit Bildungsarbeit verbunden", "Teil der protestantischen Missionsgeschichte"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru banza-manteke-mission", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Center of the 1886 revival.", "Protestant mission.", "Historical church building.", "Banza-Manteke was the site of one of the first mass conversions to Christianity in the Congo in the 1880s, led by Protestant missionaries.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["Banza-Manteke was the site of one of the first mass conversions to Christianity in the Congo in the 1880s, led by Protestant missionaries.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -716,10 +716,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Kamina Military Base is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The military base in Kamina, built by Belgium after World War II, was one of the largest in Africa and served to strategically control the region. Built in the 1950s. Former Belgian base. Strategic center. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["in den 1950er Jahren gebaut", "ehemalige belgische Basis", "strategisches Zentrum im Landesinneren", "mit Luft- und Milit?rinfrastruktur verbunden", "wichtiger Standort in Katanga bzw. Haut-Lomami", "Teil der kolonialen Sicherheitsarchitektur"],
+      de: ["strategisches Zentrum im Landesinneren", "mit Luft- und Milit?rinfrastruktur verbunden", "wichtiger Standort in Katanga bzw. Haut-Lomami", "Teil der kolonialen Sicherheitsarchitektur"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kamina-military-base", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Built in the 1950s.", "Former Belgian base.", "Strategic center.", "The military base in Kamina, built by Belgium after World War II, was one of the largest in Africa and served to strategically control the region.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The military base in Kamina, built by Belgium after World War II, was one of the largest in Africa and served to strategically control the region.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -752,10 +752,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Matupi Cave is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The Matupi Cave in Ituri has provided some of the oldest archaeological evidence of human settlement in the African tropical forest about 40,000 years ago. Stone Age finds. Evidence of microliths. 40,000-year-old settlement. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["steinzeitliche Funde", "Belege f?r Mikrolithen", "Besiedlung vor rund 40.000 Jahren", "wichtige pr?historische Fundst?tte", "liefert Daten zur frühen Werkzeugtechnik", "Teil der Archäologie des ?stlichen Kongo"],
+      de: ["Belege f?r Mikrolithen", "Besiedlung vor rund 40.000 Jahren", "wichtige pr?historische Fundst?tte", "liefert Daten zur frühen Werkzeugtechnik", "Teil der Archäologie des ?stlichen Kongo"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru matupi-cave", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Stone Age finds.", "Evidence of microliths.", "40,000-year-old settlement.", "The Matupi Cave in Ituri has provided some of the oldest archaeological evidence of human settlement in the African tropical forest about 40,000 years ago.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The Matupi Cave in Ituri has provided some of the oldest archaeological evidence of human settlement in the African tropical forest about 40,000 years ago.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -788,10 +788,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Dimba Cave is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The Dimba Cave in Kongo Central contains significant prehistoric artifacts and rock paintings that document the early settlement of the region. Prehistoric site. Ancient rock art. Significant for Kongo Central. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["pr?historische Fundst?tte", "mit alter Felskunst verbunden", "wichtig f?r Kongo Central", "liefert Hinweise auf frühe Besiedlung", "Teil der arch?ologischen Forschung im Westen", "zeigt die Tiefe der regionalen Urgeschichte"],
+      de: ["mit alter Felskunst verbunden", "wichtig f?r Kongo Central", "liefert Hinweise auf frühe Besiedlung", "Teil der arch?ologischen Forschung im Westen", "zeigt die Tiefe der regionalen Urgeschichte"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru dimba-cave", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Prehistoric site.", "Ancient rock art.", "Significant for Kongo Central.", "The Dimba Cave in Kongo Central contains significant prehistoric artifacts and rock paintings that document the early settlement of the region.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The Dimba Cave in Kongo Central contains significant prehistoric artifacts and rock paintings that document the early settlement of the region.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -807,13 +807,13 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
     },
     description: {
       de: "Dieser Berg nahe Kinshasa ist eine historische und spirituelle Pilgerstätte, auf der sich zahlreiche christliche Kreuze befinden und regelmäßig Gebete stattfinden.",
-      hu: "Ez a Kinshasa közelében található hegy történelmi és spirituális zarándokhely, ahol számos keresztény kereszt található, és rendszeresen tartanak imákat.",
+      hu: "Szentként tisztelt hegycsúcs Kinshasa közelében, amely népszerű zarándokhely.",
       ro: "Acest munte de lângă Kinshasa este un loc de pelerinaj istoric și spiritual cu numeroase cruci creștine, unde se țin rugăciuni regulate.",
       en: "This mountain near Kinshasa is a historical and spiritual pilgrimage site featuring numerous Christian crosses and regular prayer gatherings."
     },
     facts: {
       de: ["Spiritueller Pilgerort.", "Überragt Kinshasa.", "Ort des Gebets."],
-      hu: ["Spirituális zarándokhely.", "Kinshasa fölé magasodik.", "Az ima helye."],
+      hu: ["A hegy tetejéről lenyűgöző kilátás nyílik a fővárosra", "Számos vallási felekezet tart itt imádságokat", "Fontos spirituális és turisztikai célpont"],
       ro: ["Loc de pelerinaj spiritual.", "Domină Kinshasa.", "Loc de rugăciune."],
       en: ["Spiritual pilgrimage site.", "Overlooks Kinshasa.", "Place of prayer."]
     }, image: "/poi-images/mount-mangengenge.webp",
@@ -824,10 +824,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Mount Mangengenge is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. This mountain near Kinshasa is a historical and spiritual pilgrimage site featuring numerous Christian crosses and regular prayer gatherings. Spiritual pilgrimage site. Overlooks Kinshasa. Place of prayer. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["spiritueller Pilgerort", "?berragt Kinshasa", "wichtiger Ort des Gebets", "mit christlicher Fr?mmigkeit verbunden", "Teil der religiösen Landschaft der Hauptstadt", "bekannter Wallfahrtsort in der Region"],
+      de: ["wichtiger Ort des Gebets", "mit christlicher Fr?mmigkeit verbunden", "Teil der religiösen Landschaft der Hauptstadt", "bekannter Wallfahrtsort in der Region"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mount-mangengenge", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Spiritual pilgrimage site.", "Overlooks Kinshasa.", "Place of prayer.", "This mountain near Kinshasa is a historical and spiritual pilgrimage site featuring numerous Christian crosses and regular prayer gatherings.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["This mountain near Kinshasa is a historical and spiritual pilgrimage site featuring numerous Christian crosses and regular prayer gatherings.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -860,10 +860,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Kongo-Dia-Vwa is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A historical site in Bas-Congo deeply rooted in the traditions of the Kongo people, serving as a memorial for the ancestors. Traditional memorial. Sacred site of the Bakongo. Cultural heritage. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["heilige St?tte der Bakongo", "traditionelle Gedenkst?tte", "mit m?ndlicher ?berlieferung verbunden", "Teil des kulturellen Erbes von Kongo Central", "Ort f?r Rituale und Erinnerung", "wichtiger Bezugspunkt bakongischer Identit?t"],
+      de: ["heilige St?tte der Bakongo", "mit m?ndlicher ?berlieferung verbunden", "Teil des kulturellen Erbes von Kongo Central", "Ort f?r Rituale und Erinnerung", "wichtiger Bezugspunkt bakongischer Identit?t"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kongo-dia-vwa", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Traditional memorial.", "Sacred site of the Bakongo.", "Cultural heritage.", "A historical site in Bas-Congo deeply rooted in the traditions of the Kongo people, serving as a memorial for the ancestors.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A historical site in Bas-Congo deeply rooted in the traditions of the Kongo people, serving as a memorial for the ancestors.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -896,10 +896,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Yumbi (Historical Trade Post) is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Yumbi on the Congo River was historically a significant local trading hub for fish and agricultural products among various ethnic groups. River trade center. Crossroads of cultures. Historical marketplace. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["historisches Flusshandelszentrum", "liegt am Kongoflussraum", "Kreuzungspunkt von Kulturen", "historischer Marktplatz", "wichtig f?r regionale Mobilit?t", "Teil der Handelsgeschichte im Westen des Kongo"],
+      de: ["historisches Flusshandelszentrum", "liegt am Kongoflussraum", "wichtig f?r regionale Mobilit?t", "Teil der Handelsgeschichte im Westen des Kongo"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru yumbi-historical-trade", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["River trade center.", "Crossroads of cultures.", "Historical marketplace.", "Yumbi on the Congo River was historically a significant local trading hub for fish and agricultural products among various ethnic groups.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["Yumbi on the Congo River was historically a significant local trading hub for fish and agricultural products among various ethnic groups.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -935,7 +935,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       de: ["Bildungszentrum im Kongo Central", "historisches Krankenhaus am Missionsort", "mit medizinischer Mission verbunden", "Teil protestantischer bzw. kirchlicher Arbeit", "wichtig f?r Schul- und Gesundheitsgeschichte", "prägt die Missionslandschaft der Region"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kimpese-mission", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Educational center.", "Historical hospital.", "Center of medical mission.", "Kimpese was an important center of Protestant mission and education, known for the early founded Institut Médical Évangélique.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["Kimpese was an important center of Protestant mission and education, known for the early founded Institut Médical Évangélique.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -968,10 +968,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Businga Colonial Post is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Businga served as a remote but important administrative and military outpost during Belgian colonial rule in the north of the country. Military outpost. Northern border region. Historical administrative center. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["militärischer Au?enposten", "im Norden des Landes gelegen", "Teil der kolonialen Verwaltung", "wichtig f?r Grenzräume und Kontrolle", "historisches Zentrum der Präsenzpolitik", "mit dem Norden des ehemaligen Kongo verbunden"],
+      de: ["im Norden des Landes gelegen", "Teil der kolonialen Verwaltung", "wichtig f?r Grenzräume und Kontrolle", "historisches Zentrum der Präsenzpolitik", "mit dem Norden des ehemaligen Kongo verbunden"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru businga-colonial-post", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Military outpost.", "Northern border region.", "Historical administrative center.", "Businga served as a remote but important administrative and military outpost during Belgian colonial rule in the north of the country.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["Businga served as a remote but important administrative and military outpost during Belgian colonial rule in the north of the country.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -1007,7 +1007,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       de: ["alte Handelsroute im Talraum", "mit Eisenverarbeitung verbunden", "Ort kulturellen Austauschs", "Teil eines Flusssystems mit regionaler Bedeutung", "wichtige Verkehrsachse der Vergangenheit", "zeigt die Verbindung von Landschaft und Geschichte"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru ruvubu-valley-historical", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Ancient trade route.", "Iron forging culture.", "Cultural exchange.", "The valley region in the east of the country was an ancient migration and trade route between the Great Lakes, used for the exchange of iron tools.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The valley region in the east of the country was an ancient migration and trade route between the Great Lakes, used for the exchange of iron tools.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -1024,13 +1024,13 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
     description: {
       de: "Die Uvira-Küste am nördlichen Tanganjikasee war ein strategischer Ausgangspunkt für Expeditionen ins Landesinnere im 19. Jahrhundert.",
       hu: "Az északi Tanganyika-tó partján fekvő Uvira-partvidék stratégiai kiindulópont volt a 19. századi belső expedíciók számára.",
-      ro: "Coasta Uvira de pe nordul Lacului Tanganyika a fost un punct de plecare strategic pentru expedițiile interioare în secolul al XIX-lea.",
+      ro: "Valea râului Ruvubu, zonă cu importanță arheologică și istorică legată de migrațiile timpurii.",
       en: "The Uvira coast on the northern Lake Tanganyika was a strategic starting point for inland expeditions in the 19th century."
     },
     facts: {
       de: ["Ausgangspunkt von Expeditionen.", "Strategische Lage am See.", "Historischer Hafen."],
       hu: ["Expedíciók kiindulópontja.", "Stratégiai fekvés a tónál.", "Történelmi kikötő."],
-      ro: ["Punct de plecare al expedițiilor.", "Locație strategică pe lac.", "Port istoric."],
+      ro: ["Situl unor așezări antice", "Biodiversitate și peisaj istoric", "Cercetări asupra epocii fierului"],
       en: ["Starting point for expeditions.", "Strategic lake location.", "Historical port."]
     }, image: "/poi-images/ruvubu-valley-historical-2.webp",
     descriptionAdvanced: {
@@ -1040,10 +1040,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Uvira Coast is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The Uvira coast on the northern Lake Tanganyika was a strategic starting point for inland expeditions in the 19th century. Starting point for expeditions. Strategic lake location. Historical port. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Ausgangspunkt von Expeditionen", "strategische Lage am Seeufer bzw. Talrand", "historischer Hafen- und Verbindungsort", "wichtig f?r Reise- und Transportwege", "Teil regionaler Netzwerke", "zeigt die Bedeutung von Lage und Route"],
+      de: ["strategische Lage am Seeufer bzw. Talrand", "historischer Hafen- und Verbindungsort", "wichtig f?r Reise- und Transportwege", "Teil regionaler Netzwerke", "zeigt die Bedeutung von Lage und Route"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru ruvubu-valley-historical-2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Starting point for expeditions.", "Strategic lake location.", "Historical port.", "The Uvira coast on the northern Lake Tanganyika was a strategic starting point for inland expeditions in the 19th century.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The Uvira coast on the northern Lake Tanganyika was a strategic starting point for inland expeditions in the 19th century.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -1076,10 +1076,10 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       en: "Historical Zongo Falls is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The Zongo Falls were an important natural obstacle and a landmark for early explorers and traders traveling through the interior of Bas-Congo. Early landmark. Natural barrier. Spiritual significance for locals. This site holds particular significance in the history of the Democratic Republic of the Congo, from precolonial kingdoms through Belgian colonial rule to independence in 1960. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["früher Orientierungspunkt am Fluss", "natürliche Barriere im Gelände", "geistige Bedeutung f?r Einheimische", "mit dem Ort Zongo verbunden", "Teil der Wasserlandschaft am Ubangi", "wichtig f?r historische Orientierung und Wege"],
+      de: ["früher Orientierungspunkt am Fluss", "natürliche Barriere im Gelände", "mit dem Ort Zongo verbunden", "Teil der Wasserlandschaft am Ubangi", "wichtig f?r historische Orientierung und Wege"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru zongo-falls-historical", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Early landmark.", "Natural barrier.", "Spiritual significance for locals.", "The Zongo Falls were an important natural obstacle and a landmark for early explorers and traders traveling through the interior of Bas-Congo.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The Zongo Falls were an important natural obstacle and a landmark for early explorers and traders traveling through the interior of Bas-Congo.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   }
 ];

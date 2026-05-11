@@ -25,7 +25,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Provinz Lualaba", "Kupfer und Kobalt", "Kongolesischer Kupfergürtel", "Nähe zu Fungurume", "Tagebau im Süden des Landes", "Bergbau als Exportmotor"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-tenke-fungurume-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Produces copper and cobalt.", "Located in the Katanga region.", "Major economic driver.", "One of the world's largest copper and cobalt mines in the Lualaba Province.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["One of the world's largest copper and cobalt mines in the Lualaba Province.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -51,7 +51,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Provinz Haut-Uele", "Goldförderung", "Nordosten der DR Kongo", "Kibali Gold Mine", "Großbergbau", "Internationale Rohstoffmärkte"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-kibali-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["One of Africa's largest gold mines.", "Located in Haut-Uele province.", "Uses automated systems.", "A highly modern and productive gold mine in the northeast of the Democratic Republic of Congo.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A highly modern and productive gold mine in the northeast of the Democratic Republic of Congo.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -60,9 +60,9 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     parent: "CD-HK",
     coords: [27.5333, -11.6333],
     name: { de: "Ruashi-Mine", hu: "Ruashi bánya", ro: "Mina Ruashi", en: "Ruashi Mine" },
-    description: { de: "Ein bedeutender Tagebau für Kupfer und Kobalt in der Nähe von Lubumbashi.", hu: "Jelentős külszíni réz- és kobaltbánya Lubumbashi közelében.", ro: "O importantă mină la suprafață de cupru și cobalt lângă Lubumbashi.", en: "A significant open-pit copper and cobalt mine near Lubumbashi." },
+    description: { de: "Die Ruashi-Mine bei Lubumbashi ist ein bedeutendes Tagebau-Projekt zur Gewinnung von Kupfer und Kobalt.", hu: "Jelentős külszíni réz- és kobaltbánya Lubumbashi közelében.", ro: "O importantă mină la suprafață de cupru și cobalt lângă Lubumbashi.", en: "A significant open-pit copper and cobalt mine near Lubumbashi." },
     facts: {
-      de: ["Nahe der Stadt Lubumbashi", "Tagebaubetrieb", "Fördert Kupfer und Kobalt"],
+      de: ["Kupfer- und Kobaltförderung", "Tagebau bei Lubumbashi", "Wichtiger Exportfaktor"],
       hu: ["Lubumbashi városa közelében", "Külszíni fejtés", "Rezet és kobaltot bányásznak"],
       ro: ["Aproape de orașul Lubumbashi", "Exploatare la suprafață", "Extrage cupru și cobalt"],
       en: ["Near the city of Lubumbashi", "Open-pit operation", "Mines copper and cobalt"]
@@ -74,10 +74,10 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: "Ruashi Mine is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A significant open-pit copper and cobalt mine near Lubumbashi. Near the city of Lubumbashi. Open-pit operation. Mines copper and cobalt. This location plays an important role in the economy of the DR Congo, a country known worldwide for its wealth of cobalt, copper, and diamonds. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Nähe zu Lubumbashi", "Provinz Haut-Katanga", "Kupfer und Kobalt", "Tagebaubetrieb", "Südlicher Rohstoffgürtel", "Wirtschaftsraum um Lubumbashi"],
+      de: ["Nähe zu Lubumbashi", "Provinz Haut-Katanga", "Kupfer und Kobalt", "Südlicher Rohstoffgürtel", "Wirtschaftsraum um Lubumbashi"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-ruashi-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Near the city of Lubumbashi.", "Open-pit operation.", "Mines copper and cobalt.", "A significant open-pit copper and cobalt mine near Lubumbashi.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A significant open-pit copper and cobalt mine near Lubumbashi.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -103,7 +103,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Provinz Lualaba", "Kobaltproduktion", "Kupfer als Nebenprodukt", "Mutanda Mine", "Weltmarkt für Batterierohstoffe", "Südlicher Kongo"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-mutanda-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["World-leading cobalt production.", "Copper extraction as a byproduct.", "Owned by Glencore.", "One of the most productive cobalt mines in the world, operated in the Lualaba region.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["One of the most productive cobalt mines in the world, operated in the Lualaba region.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -112,10 +112,10 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     parent: "CD-LU",
     coords: [25.4333, -10.7167],
     name: { de: "Kamoto-Kupfermine", hu: "Kamoto rézbánya", ro: "Mina de cupru Kamoto", en: "Kamoto Copper Mine" },
-    description: { de: "Ein großer Untertage- und Tagebaubetrieb im kongolesischen Kupfergürtel.", hu: "Nagy földalatti és külszíni bányászati művelet a kongói rézövben.", ro: "O mare operațiune minieră subterană și de suprafață în centura de cupru congoleză.", en: "A large underground and open-pit mining operation in the Congolese copper belt." },
+    description: { de: "Ein großer Untertage- und Tagebaubetrieb im kongolesischen Kupfergürtel.", hu: "A világ egyik legnagyobb külszíni és földalatti réz- és kobaltbányája Kolwezi közelében.", ro: "O mare operațiune minieră subterană și de suprafață în centura de cupru congoleză.", en: "A large underground and open-pit mining operation in the Congolese copper belt." },
     facts: {
       de: ["Teil des Kupfergürtels", "Untertage- und Tagebau", "Produziert Kupferkathoden"],
-      hu: ["A rézöv része", "Földalatti és külszíni bánya", "Rézkatódokat állít elő"],
+      hu: ["A globális kobaltellátás egyik kulcsfontosságú lelőhelye", "Modern technológiával felszerelt bányászati komplexum", "Jelentős szerepet játszik az ország exportbevételeiben"],
       ro: ["Parte a centurii de cupru", "Mină subterană și de suprafață", "Produce catozi de cupru"],
       en: ["Part of the copper belt", "Underground and open-pit", "Produces copper cathodes"]
     }, image: "/poi-images/cd-mine-kamoto-economic-v2.webp",
@@ -126,10 +126,10 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: "Kamoto Copper Mine is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A large underground and open-pit mining operation in the Congolese copper belt. Part of the copper belt. Underground and open-pit. Produces copper cathodes. This location plays an important role in the economy of the DR Congo, a country known worldwide for its wealth of cobalt, copper, and diamonds. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Kongolesischer Kupfergürtel", "Untertage- und Tagebau", "Provinz Lualaba", "Region Katanga", "Kamoto Copper Mine", "Kupferkathoden"],
+      de: ["Kongolesischer Kupfergürtel", "Provinz Lualaba", "Region Katanga", "Kamoto Copper Mine", "Kupferkathoden"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-kamoto-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Part of the copper belt.", "Underground and open-pit.", "Produces copper cathodes.", "A large underground and open-pit mining operation in the Congolese copper belt.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A large underground and open-pit mining operation in the Congolese copper belt.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -138,12 +138,12 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     parent: "CD-LU",
     coords: [25.3167, -10.9],
     name: { de: "Kamoa-Kakula-Mine", hu: "Kamoa-Kakula bánya", ro: "Mina Kamoa-Kakula", en: "Kamoa-Kakula Mine" },
-    description: { de: "Ein massives und schnell wachsendes Kupferminenprojekt mit hohem Erzgehalt.", hu: "Hatalmas és gyorsan növekvő rézbánya-projekt magas ércminőséggel.", ro: "Un proiect masiv și cu creștere rapidă de extracție a cuprului, cu minereu de înaltă calitate.", en: "A massive and fast-growing copper mining project with high-grade ore." },
+    description: { de: "Ein massives und schnell wachsendes Kupferminenprojekt mit hohem Erzgehalt.", hu: "Hatalmas és gyorsan növekvő rézbánya-projekt magas ércminőséggel.", ro: "Una dintre cele mai mari și mai bogate mine de cupru în curs de dezvoltare din lume, situată în provincia Lualaba.", en: "Kamoa-Kakula is a major copper mining complex in Lualaba Province, set to become one of the world's largest copper producers." },
     facts: {
       de: ["Extrem hoher Kupfergehalt", "Grüne Energieversorgung geplant", "Riesige Reserven"],
       hu: ["Rendkívül magas réztartalom", "Zöld energiaellátás tervezve", "Hatalmas tartalékok"],
-      ro: ["Conținut extrem de ridicat de cupru", "Sursă de energie verde planificată", "Rezerve uriașe"],
-      en: ["Extremely high copper grade", "Green energy supply planned", "Huge reserves"]
+      ro: ["Zăcăminte de cupru de înaltă puritate", "Parteneriat internațional major", "Tehnologie minieră sustenabilă"],
+      en: ["High-grade copper deposit", "Underground mining operations", "Located near Kolwezi"]
     }, image: "/poi-images/cd-mine-kamoa-kakula-economic-v2.webp",
     descriptionAdvanced: {
       de: "Der Kamoa-Kakula-Komplex gilt als einer der modernsten Kupferstandorte der DR Kongo. Zwischen Kamoa und Kakula entsteht in Lualaba ein industrieller Raum, in dem Geologie, Aufbereitung und globale Lieferketten direkt zusammenlaufen. Die Anlage ist ein gutes Beispiel dafür, wie neue Großprojekte das Profil eines Rohstofflandes verändern können. Für den Plizio-Unterricht passt der Ort sehr gut zu Geografie K7 - Rohstoffe und Wirtschaftsräume sowie zu globalen Wertschöpfungsketten.",
@@ -155,7 +155,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Provinz Lualaba", "Kamoa und Kakula", "Kupferförderung", "Kamoa Copper SA", "Ivanhoe Mines", "Zijin Mining"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-kamoa-kakula-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Extremely high copper grade.", "Green energy supply planned.", "Huge reserves.", "A massive and fast-growing copper mining project with high-grade ore.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A massive and fast-growing copper mining project with high-grade ore.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -181,7 +181,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Nähe zu Lubumbashi", "Provinz Haut-Katanga", "Zink und Kupfer", "Kipushi Corporation", "Untertagebergbau", "Südlicher Bergbauraum"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-kipushi-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Rich in zinc and copper.", "Near the border with Zambia.", "Historic mining site.", "A historic zinc and copper mine near the Zambian border that has been modernized.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A historic zinc and copper mine near the Zambian border that has been modernized.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -190,12 +190,12 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     parent: "CD-HK",
     coords: [27.5667, -11.3667],
     name: { de: "Kinsevere-Mine", hu: "Kinsevere bánya", ro: "Mina Kinsevere", en: "Kinsevere Mine" },
-    description: { de: "Eine bedeutende Kupfermine im Kongo, bekannt für ihre fortschrittlichen Verarbeitungsanlagen.", hu: "Jelentős rézbánya Kongóban, fejlett feldolgozó létesítményeiről ismert.", ro: "O mină de cupru importantă în Congo, cunoscută pentru instalațiile sale avansate de procesare.", en: "A significant copper mine in Congo known for its advanced processing facilities." },
+    description: { de: "Eine bedeutende Kupfermine im Kongo, bekannt für ihre fortschrittlichen Verarbeitungsanlagen.", hu: "Jelentős rézbánya Kongóban, fejlett feldolgozó létesítményeiről ismert.", ro: "O mină de cupru importantă în Congo, cunoscută pentru instalațiile sale avansate de procesare.", en: "Kinsevere is a significant copper mine located near Lubumbashi in the Upper Katanga Province." },
     facts: {
       de: ["Fokus auf Kupferförderung", "Fortschrittliche Technologie", "Wichtiger Arbeitgeber"],
       hu: ["Fókuszban a rézbányászat", "Fejlett technológia", "Fontos munkaadó"],
       ro: ["Concentrată pe extracția cuprului", "Tehnologie avansată", "Angajator important"],
-      en: ["Focus on copper extraction", "Advanced technology", "Major employer"]
+      en: ["Major copper cathode producer", "Open-pit mining operation", "Operated by MMG Limited"]
     }, image: "/poi-images/cd-mine-kinsevere-economic-v2.webp",
     descriptionAdvanced: {
       de: "Die Kinsevere-Mine zeigt den industriellen Charakter des Bergbaus im Raum Lubumbashi besonders deutlich. Hier stehen Kupferkonzentrat, Aufbereitung und die Nähe zu wichtigen Verkehrswegen im Mittelpunkt. Der Ort macht sichtbar, dass Bergbau im Kongo nicht nur aus dem Abbau selbst besteht, sondern auch aus Logistik, Stromversorgung und Exportketten. Für den Plizio-Unterricht eignet sich Kinsevere für Geografie K7 - Rohstoffe und Wirtschaftsräume und für die Analyse von Industrie- und Rohstoffräumen.",
@@ -207,7 +207,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Nähe zu Lubumbashi", "Provinz Haut-Katanga", "Kupfermine", "Kinsevere Mine", "Aufbereitung und Export", "Industrieller Bergbauraum"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-kinsevere-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Focus on copper extraction.", "Advanced technology.", "Major employer.", "A significant copper mine in Congo known for its advanced processing facilities.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A significant copper mine in Congo known for its advanced processing facilities.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -233,7 +233,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Provinz Nord-Kivu", "Zinnbergbau", "Bisie Mine", "Abgelegene Lage", "Rohstoffraum im Nordosten", "Wald- und Hügellandschaft"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-bisie-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Produces high-quality tin.", "Located in North Kivu.", "Reduces conflict mineral trade.", "One of the largest tin mines in the world, located deep in the forests of North Kivu.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["One of the largest tin mines in the world, located deep in the forests of North Kivu.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -242,12 +242,12 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     parent: "CD-KE",
     coords: [23.6, -6.1333],
     name: { de: "MIBA-Diamantenmine", hu: "MIBA gyémántbánya", ro: "Mina de diamante MIBA", en: "MIBA Diamond Mine" },
-    description: { de: "Eine historische Diamantenmine im Zentrum der kongolesischen Diamantenindustrie bei Mbuji-Mayi.", hu: "Történelmi gyémántbánya a kongói gyémántipar központjában, Mbuji-Mayi közelében.", ro: "O mină istorică de diamante în centrul industriei congoleze de diamante de lângă Mbuji-Mayi.", en: "A historic diamond mine at the center of the Congolese diamond industry near Mbuji-Mayi." },
+    description: { de: "Eine historische Diamantenmine im Zentrum der kongolesischen Diamantenindustrie bei Mbuji-Mayi.", hu: "Történelmi gyémántbánya a kongói gyémántipar központjában, Mbuji-Mayi közelében.", ro: "O mină istorică de diamante în centrul industriei congoleze de diamante de lângă Mbuji-Mayi.", en: "MIBA is the main industrial diamond mining operation in the Mbuji-Mayi region of Kasai-Oriental Province." },
     facts: {
       de: ["Zentrum der Diamantenförderung", "Befindet sich bei Mbuji-Mayi", "Staatlich verwaltet"],
       hu: ["A gyémántbányászat központja", "Mbuji-Mayi mellett található", "Állami irányítású"],
       ro: ["Centrul extracției de diamante", "Situată lângă Mbuji-Mayi", "Administrată de stat"],
-      en: ["Center of diamond mining", "Located near Mbuji-Mayi", "State-managed"]
+      en: ["Industrial diamond focus", "Operated by Minière de Bakwanga", "Key economic driver for the region"]
     }, image: "/poi-images/cd-mine-miba-mbuji-mayi-economic-v2.webp",
     descriptionAdvanced: {
       de: "MIBA in Mbuji-Mayi steht für die lange Diamantengeschichte der DR Kongo. Der Name ist mit Bakwanga, der Stadt Mbuji-Mayi und dem industriellen Diamantenabbau in Kasai-Oriental verbunden. Der Ort zeigt, wie sehr ein Rohstoffzentrum die Entwicklung einer ganzen Stadt prägen kann - von Arbeitsplätzen bis zu Verkehrsachsen. Im Plizio-Unterricht ist MIBA ein sehr gutes Beispiel für Geografie K7 - Rohstoffe und Wirtschaftsräume und für die Rolle von Diamanten im Landesinneren.",
@@ -259,7 +259,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Mbuji-Mayi", "Provinz Kasai-Oriental", "Société Minière de Bakwanga", "Diamanten", "Bakwanga", "Industriegeschichte des Kongo"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-miba-mbuji-mayi-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Center of diamond mining.", "Located near Mbuji-Mayi.", "State-managed.", "A historic diamond mine at the center of the Congolese diamond industry near Mbuji-Mayi.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A historic diamond mine at the center of the Congolese diamond industry near Mbuji-Mayi.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -268,12 +268,12 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     parent: "CD-KS",
     coords: [20.8, -6.4167],
     name: { de: "Diamantenminen von Tshikapa", hu: "Tshikapa gyémántbányái", ro: "Minele de diamante din Tshikapa", en: "Tshikapa Diamond Mines" },
-    description: { de: "Die Region um Tshikapa ist berühmt für ihre alluvialen Diamantenvorkommen entlang der Flüsse.", hu: "Tshikapa régiója híres a folyók menti alluviális gyémántlelőhelyeiről.", ro: "Regiunea din jurul orașului Tshikapa este renumită pentru zăcămintele sale aluvionare de diamante de-a lungul râurilor.", en: "The region around Tshikapa is famous for its alluvial diamond deposits along the rivers." },
+    description: { de: "Die Region Tshikapa ist das Herz der kongolesischen Diamantenförderung, wo Diamanten meist im handwerklichen Abbau aus Flussbetten gewonnen werden.", hu: "Tshikapa régiója híres a folyók menti alluviális gyémántlelőhelyeiről.", ro: "Regiunea din jurul orașului Tshikapa este renumită pentru zăcămintele sale aluvionare de diamante de-a lungul râurilor.", en: "Tshikapa is the center of alluvial diamond mining in the Kasai Province, with widespread artisanal and industrial activities." },
     facts: {
-      de: ["Alluviale Diamanten", "Provinz Kasai", "Wichtige Einnahmequelle"],
+      de: ["Zentrum der Diamantenförderung", "Handwerklicher Bergbau", "In der Provinz Kasaï"],
       hu: ["Alluviális gyémántok", "Kasai tartomány", "Fontos bevételi forrás"],
       ro: ["Diamante aluvionare", "Provincia Kasai", "Sursă importantă de venit"],
-      en: ["Alluvial diamonds", "Kasai province", "Major source of income"]
+      en: ["Focus on alluvial diamond deposits", "Economic heart of Kasai Province", "Located at the Kasai River"]
     },
     descriptionAdvanced: {
       de: "Tshikapa ist einer der wichtigsten Diamantorte im Westen des Kongo und verbindet Handel, Alluvialabbau und regionale Mobilität. Die Stadt in der Provinz Kasaï zeigt, wie Rohstoffe lokale Märkte formen und wie sich daraus ein ganz eigener urbaner Raum entwickelt. Hier stehen Diamanten, Flussnähe und der Austausch mit anderen Teilen des Landes im Mittelpunkt. Für Plizio Geografie K7 - Rohstoffe und Wirtschaftsräume ist Tshikapa ein besonders greifbares Beispiel für Ressourcenstädte.",
@@ -282,10 +282,10 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: "Tshikapa Diamond Mines is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The region around Tshikapa is famous for its alluvial diamond deposits along the rivers. Alluvial diamonds. Kasai province. Major source of income. This location plays an important role in the economy of the DR Congo, a country known worldwide for its wealth of cobalt, copper, and diamonds. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Provinz Kasaï", "Diamantenhandel", "Tshikapa", "Alluvialbergbau", "Regionale Marktstadt", "Landesinneres"],
+      de: ["Diamantenhandel", "Tshikapa", "Alluvialbergbau", "Regionale Marktstadt", "Landesinneres"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-tshikapa-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Alluvial diamonds.", "Kasai province.", "Major source of income.", "The region around Tshikapa is famous for its alluvial diamond deposits along the rivers.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The region around Tshikapa is famous for its alluvial diamond deposits along the rivers.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -311,7 +311,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Muanda", "Atlantikküste", "Offshore-Förderung", "Perenco Congo", "Kongo Central", "Energie- und Exportsektor"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-oil-perenco-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Oil production in Congo.", "Located near Muanda.", "Only coastal province.", "The center of Congolese oil production on the narrow Atlantic coast near Muanda.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The center of Congolese oil production on the narrow Atlantic coast near Muanda.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -334,10 +334,10 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: "Inga Dams is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Two gigantic hydroelectric power plants on the lower reaches of the Congo River generating vast amounts of electricity. Inga I and II in operation. Huge hydroelectric potential. Supplies power for mines. This location plays an important role in the economy of the DR Congo, a country known worldwide for its wealth of cobalt, copper, and diamonds. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Kongo-Fluss", "Inga I", "Inga II", "Provinz Kongo Central", "Wasserkraft", "Nationales Stromnetz"],
+      de: ["Kongo-Fluss", "Inga I", "Provinz Kongo Central", "Wasserkraft", "Nationales Stromnetz"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-dam-inga-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Inga I and II in operation.", "Huge hydroelectric potential.", "Supplies power for mines.", "Two gigantic hydroelectric power plants on the lower reaches of the Congo River generating vast amounts of electricity.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["Two gigantic hydroelectric power plants on the lower reaches of the Congo River generating vast amounts of electricity.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -346,12 +346,12 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     parent: "CD-KN",
     coords: [16.5167, -4.0167],
     name: { de: "Stahlwerk Maluku", hu: "Maluku acélmű", ro: "Oțelăria Maluku", en: "Maluku Steel Plant" },
-    description: { de: "Ein historisches Industriegebiet in der Provinz Kinshasa zur Stahlproduktion.", hu: "Történelmi iparterület Kinshasa tartományban acélgyártás céljából.", ro: "O zonă industrială istorică din provincia Kinshasa pentru producția de oțel.", en: "A historic industrial area in the Kinshasa province for steel production." },
+    description: { de: "Das Industriegebiet von Maluku bei Kinshasa beherbergt wichtige Fabriken, darunter ein bedeutendes Stahlwerk zur Versorgung des lokalen Marktes.", hu: "Történelmi iparterület Kinshasa tartományban acélgyártás céljából.", ro: "O zonă industrială istorică din provincia Kinshasa pentru producția de oțel.", en: "The Maluku industrial area in Kinshasa is home to a major steel mill and other heavy industrial facilities." },
     facts: {
-      de: ["Industrielle Anlage", "Nahe Kinshasa", "Ehemaliges Prestigeprojekt"],
+      de: ["Industriezone bei Kinshasa", "Standort eines Stahlwerks", "Strategischer Wirtschaftspunkt"],
       hu: ["Ipari létesítmény", "Kinshasa közelében", "Egykori presztízsprojekt"],
       ro: ["Instalație industrială", "Aproape de Kinshasa", "Fost proiect de prestigiu"],
-      en: ["Industrial facility", "Near Kinshasa", "Former prestige project"]
+      en: ["Strategic industrial zone", "Focus on steel production", "Located on the Congo River"]
     }, image: "/poi-images/cd-industry-maluku-economic-v2.webp",
     descriptionAdvanced: {
       de: "Maluku am Rand von Kinshasa steht für ein industrielles und logistisches Vorfeld der Hauptstadt. Die Lage am Kongo-Fluss macht den Ort für Lagerung, Verarbeitung und Verkehr interessant, weil städtische Nachfrage und Flussanbindung hier zusammenkommen. Der Raum zeigt, wie Industrie in der DR Kongo oft an Flussufern wächst und sich an die Metropole Kinshasa anbindet. Für Plizio Geografie K7 - Stadtwirtschaft und Verkehr ist Maluku ein sehr anschauliches Beispiel.",
@@ -363,7 +363,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Kinshasa", "Maluku", "Kongo-Fluss", "Industriezone", "Stadtnahe Logistik", "Metropolraum Kinshasa"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-industry-maluku-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Industrial facility.", "Near Kinshasa.", "Former prestige project.", "A historic industrial area in the Kinshasa province for steel production.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A historic industrial area in the Kinshasa province for steel production.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -372,12 +372,12 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     parent: "CD-KC",
     coords: [14.4833, -5.5167],
     name: { de: "CILU-Zementfabrik", hu: "CILU cementgyár", ro: "Fabrica de ciment CILU", en: "CILU Cement Plant" },
-    description: { de: "Die Zementfabrik Lukala (CILU) ist ein wichtiger Produzent von Baumaterialien für das Land.", hu: "A Lukala cementgyár (CILU) az ország fontos építőanyag-gyártója.", ro: "Fabrica de ciment Lukala (CILU) este un important producător de materiale de construcție pentru țară.", en: "The Lukala Cement Plant (CILU) is a major producer of building materials for the country." },
+    description: { de: "Die CILU-Zementfabrik in Lukala ist einer der wichtigsten Produzenten von Baumaterialien für die Infrastrukturprojekte des Landes.", hu: "Az ország egyik legnagyobb cementgyára, amely Lukala városában található.", ro: "Fabrica de ciment Lukala, un pilon al industriei de construcții din RDC, situată în Kongo Central.", en: "CILU is a large cement factory located in Lukala, Kongo Central, providing essential materials for national construction." },
     facts: {
-      de: ["Zementproduktion", "Stadt Lukala", "Wichtig für Infrastruktur"],
-      hu: ["Cementgyártás", "Lukala városa", "Fontos az infrastruktúra szempontjából"],
-      ro: ["Producția de ciment", "Orașul Lukala", "Important pentru infrastructură"],
-      en: ["Cement production", "City of Lukala", "Important for infrastructure"]
+      de: ["Große Zementfabrik", "In der Provinz Kongo Central", "Wichtig für die Bauwirtschaft"],
+      hu: ["A hazai építőipar egyik legfontosabb alapanyag-beszállítója", "Több évtizedes múltra visszatekintő ipari létesítmény", "Saját mészkőbányával rendelkezik a gyártáshoz"],
+      ro: ["Principal producător de ciment", "Fondată în perioada colonială", "Esențială pentru infrastructura națională"],
+      en: ["Major cement producer", "Located in Lukala", "Essential for infrastructure development"]
     }, image: "/poi-images/cd-industry-cilu-economic-v2.webp",
     descriptionAdvanced: {
       de: "CILU steht für die Zementproduktion in Lukala und damit für einen wichtigen Baustoffstandort in Kongo Central. Die Fabrik zeigt, wie Industrien dort entstehen, wo Verkehr, Absatzmärkte und Rohstoffe zusammenpassen. Zement ist in der Hauptstadtregion und im Süden des Landes stark gefragt, weshalb der Standort eine klare regionale Funktion besitzt. Für Plizio Geografie K7 - Industrie und Versorgung ist CILU ein gutes Beispiel für schwerindustrielle Standortlogik.",
@@ -386,10 +386,10 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: "CILU Cement Plant is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The Lukala Cement Plant (CILU) is a major producer of building materials for the country. Cement production. City of Lukala. Important for infrastructure. This location plays an important role in the economy of the DR Congo, a country known worldwide for its wealth of cobalt, copper, and diamonds. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Lukala", "Provinz Kongo Central", "CILU", "Zementproduktion", "Baustoffindustrie", "Versorgung der Hauptstadtregion"],
+      de: ["Lukala", "Provinz Kongo Central", "CILU", "Baustoffindustrie", "Versorgung der Hauptstadtregion"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-industry-cilu-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Cement production.", "City of Lukala.", "Important for infrastructure.", "The Lukala Cement Plant (CILU) is a major producer of building materials for the country.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The Lukala Cement Plant (CILU) is a major producer of building materials for the country.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -415,7 +415,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Matadi", "Provinz Kongo Central", "Kongo-Fluss", "Handels- und Umschlaghafen", "Verbindung zur Hauptstadtregion", "Fluss- und Landverkehr"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-port-matadi-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Largest port in the country.", "Connects Congo to the ocean.", "Most important trading base.", "The most important seaport of the Democratic Republic of Congo, located on the lower reaches of the Congo River.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The most important seaport of the Democratic Republic of Congo, located on the lower reaches of the Congo River.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -424,9 +424,9 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     parent: "CD-KC",
     coords: [12.4, -6.0167],
     name: { de: "Hafen von Banana", hu: "Banana kikötője", ro: "Portul Banana", en: "Port of Banana" },
-    description: { de: "Ein wichtiger Tiefwasserhafen an der Mündung des Kongo-Flusses in den Atlantischen Ozean.", hu: "Fontos mélyvízi kikötő a Kongó folyó atlanti-óceáni torkolatánál.", ro: "Un important port de apă adâncă la gura râului Congo în Oceanul Atlantic.", en: "An important deep-water port at the mouth of the Congo River into the Atlantic Ocean." },
+    description: { de: "Banana ist der einzige Tiefseehafen der Demokratischen Republik Kongo und liegt strategisch günstig an der Mündung des Kongo-Flusses in den Atlantik.", hu: "Fontos mélyvízi kikötő a Kongó folyó atlanti-óceáni torkolatánál.", ro: "Un important port de apă adâncă la gura râului Congo în Oceanul Atlantic.", en: "An important deep-water port at the mouth of the Congo River into the Atlantic Ocean." },
     facts: {
-      de: ["Tiefwasserhafen", "An der Atlantikküste", "Ölexportpunkt"],
+      de: ["Einziger Tiefseehafen des Landes", "An der Atlantikküste", "Ausbau zum Großhafen geplant"],
       hu: ["Mélyvízi kikötő", "Az atlanti partvidéken", "Olajexport pont"],
       ro: ["Port de apă adâncă", "Pe coasta Atlanticului", "Punct de export al petrolului"],
       en: ["Deep water port", "On the Atlantic coast", "Oil export point"]
@@ -441,7 +441,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Atlantikküste", "Mündung des Kongo", "Banana", "Provinz Kongo Central", "Seehandel", "Küstenraum des Landes"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-port-banana-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Deep water port.", "On the Atlantic coast.", "Oil export point.", "An important deep-water port at the mouth of the Congo River into the Atlantic Ocean.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["An important deep-water port at the mouth of the Congo River into the Atlantic Ocean.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -450,12 +450,12 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     parent: "CD-KC",
     coords: [13.05, -5.85],
     name: { de: "Hafen von Boma", hu: "Boma kikötője", ro: "Portul Boma", en: "Port of Boma" },
-    description: { de: "Der zweitgrößte Seehafen des Landes, der für den Export von tropischem Holz und landwirtschaftlichen Gütern genutzt wird.", hu: "Az ország második legnagyobb tengeri kikötője, trópusi fa és mezőgazdasági termékek exportjára használják.", ro: "Al doilea cel mai mare port maritim al țării, utilizat pentru exportul de lemn tropical și produse agricole.", en: "The country's second largest seaport, used for exporting tropical timber and agricultural goods." },
+    description: { de: "Der zweitgrößte Seehafen des Landes, der für den Export von tropischem Holz und landwirtschaftlichen Gütern genutzt wird.", hu: "Történelmi és stratégiai folyami kikötő a Kongó-folyó torkolatánál.", ro: "Al doilea cel mai mare port maritim al țării, utilizat pentru exportul de lemn tropical și produse agricole.", en: "The Port of Boma is one of DR Congo's key maritime outlets, handling timber, agricultural exports, and vehicle imports." },
     facts: {
       de: ["Export von Holz", "Liegt am Kongo-Fluss", "Historische Bedeutung"],
-      hu: ["Faexport", "A Kongó folyón fekszik", "Történelmi jelentőségű"],
+      hu: ["Fontos szerepet játszik a konténeres áruszállításban", "A tengerjáró hajók egyik legbelső megállója a folyón", "Kiemelt vámszolgáltatási és logisztikai központ"],
       ro: ["Exportul de lemn", "Situat pe râul Congo", "Semnificație istorică"],
-      en: ["Export of wood", "Located on the Congo River", "Historical significance"]
+      en: ["Deep-water maritime port", "Located on the Congo River", "Historic gateway for international trade"]
     }, image: "/poi-images/cd-port-boma-economic-v2.webp",
     descriptionAdvanced: {
       de: "Boma ist ein historisch gewachsener Flusshafen, der eng mit der frühen Handels- und Verwaltungsgeschichte des Kongo verbunden ist. Die Stadt in Kongo Central liegt an einer wichtigen Wasserroute und zeigt, wie alte Hafenorte bis heute eine wirtschaftliche Funktion behalten. Zwischen Flusstransport, regionalem Handel und städtischer Entwicklung entsteht hier ein Raum mit langer Kontinuität. Für Plizio Geografie K7 - Verkehr und Handel ist Boma sehr gut geeignet.",
@@ -467,7 +467,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Boma", "Provinz Kongo Central", "Kongo-Fluss", "Historischer Hafen", "Regionaler Handel", "Koloniale Handelsgeschichte"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-port-boma-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Export of wood.", "Located on the Congo River.", "Historical significance.", "The country's second largest seaport, used for exporting tropical timber and agricultural goods.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The country's second largest seaport, used for exporting tropical timber and agricultural goods.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -493,7 +493,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Kinshasa", "Pool Malebo", "Kongo-Fluss", "Binnenhafen", "Hauptstadtversorgung", "Gegenüber von Brazzaville"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-port-kinshasa-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Connection to the inland.", "Located on the Pool Malebo.", "Center of river navigation.", "A bustling river port connecting the interior with the capital via the Congo River.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A bustling river port connecting the interior with the capital via the Congo River.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -519,7 +519,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Kisangani", "Provinz Tshopo", "Kongo-Fluss", "Flusshafen", "Nordöstlicher Handelsknoten", "Binnenland-Verkehr"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-port-kisangani-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["End point of navigation.", "Near the Boyoma Falls.", "Important for Eastern Congo.", "The most important transshipment point in the northeastern interior, where navigation ends due to rapids.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["The most important transshipment point in the northeastern interior, where navigation ends due to rapids.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -528,11 +528,11 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     parent: "CD-KA",
     coords: [20.5833, -4.3333],
     name: { de: "Flusshafen Ilebo", hu: "Ilebo folyami kikötője", ro: "Portul fluvial Ilebo", en: "Ilebo River Port" },
-    description: { de: "Ein bedeutender Hafen am Kasai-Fluss, der als Verbindungspunkt zwischen Fluss- und Schienentransport dient.", hu: "Jelentős kikötő a Kasai folyón, amely a folyami és a vasúti szállítás közötti összekötő pontként szolgál.", ro: "Un port important pe râul Kasai care servește drept punct de legătură între transportul fluvial și cel feroviar.", en: "A major port on the Kasai River that serves as a connecting point between river and rail transport." },
+    description: { de: "Der Hafen von Ilebo am Kasai-Fluss ist ein zentraler Umschlagplatz für Waren, die per Bahn aus dem Süden kommen und per Schiff nach Kinshasa gehen.", hu: "Fontos logisztikai csomópont és folyami kikötő a Kasaï-folyó partján.", ro: "Port fluvial strategic pe râul Kasai, servind drept punct de legătură între sudul minier și capitala Kinshasa.", en: "A major port on the Kasai River that serves as a connecting point between river and rail transport." },
     facts: {
-      de: ["Am Kasai-Fluss", "Verbindung zur Eisenbahn", "Zentraler Umschlagplatz"],
-      hu: ["A Kasai folyón", "Kapcsolat a vasúttal", "Központi átrakodóhely"],
-      ro: ["Pe râul Kasai", "Legătură cu calea ferată", "Punct central de transbordare"],
+      de: ["Strategischer Binnenhafen", "Anschluss an das Bahnnetz", "Umschlagplatz für Agrarprodukte"],
+      hu: ["Összeköti a déli vasútvonalat a főváros felé tartó folyami úttal", "A mezőgazdasági termékek és ásványkincsek egyik fő rakodóhelye", "A belső országrész kereskedelmének egyik motorja"],
+      ro: ["Nod de transport multimodal", "Terminal feroviar conex", "Vital pentru exportul de minerale"],
       en: ["On the Kasai River", "Connection to the railway", "Central transshipment point"]
     }, image: "/poi-images/cd-port-ilebo-economic-v2.webp",
     descriptionAdvanced: {
@@ -542,10 +542,10 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: "Ilebo River Port is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A major port on the Kasai River that serves as a connecting point between river and rail transport. On the Kasai River. Connection to the railway. Central transshipment point. This location plays an important role in the economy of the DR Congo, a country known worldwide for its wealth of cobalt, copper, and diamonds. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Ilebo", "Provinz Kasaï", "Kasai-Fluss", "Fluss-Bahn-Umschlag", "Binnenhafen", "Logistischer Knotenpunkt"],
+      de: ["Ilebo", "Provinz Kasaï", "Fluss-Bahn-Umschlag", "Binnenhafen", "Logistischer Knotenpunkt"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-port-ilebo-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["On the Kasai River.", "Connection to the railway.", "Central transshipment point.", "A major port on the Kasai River that serves as a connecting point between river and rail transport.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A major port on the Kasai River that serves as a connecting point between river and rail transport.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -568,10 +568,10 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: "Port of Kalemie is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A port on Lake Tanganyika that connects the east of the country with Tanzania via lake trade. On Lake Tanganyika. Trade with Tanzania. Important inland port. This location plays an important role in the economy of the DR Congo, a country known worldwide for its wealth of cobalt, copper, and diamonds. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Kalemie", "Tanganjikasee", "Provinz Tanganyika", "Seehafen", "Fischerei und Handel", "Regionale Verkehrsdrehscheibe"],
+      de: ["Kalemie", "Provinz Tanganyika", "Seehafen", "Fischerei und Handel", "Regionale Verkehrsdrehscheibe"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-port-kalemie-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["On Lake Tanganyika.", "Trade with Tanzania.", "Important inland port.", "A port on Lake Tanganyika that connects the east of the country with Tanzania via lake trade.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A port on Lake Tanganyika that connects the east of the country with Tanzania via lake trade.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -597,7 +597,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Zongo", "Provinz Kongo Central", "Wasserkraft", "Energieversorgung", "Flussstandort", "Industrielle Strombasis"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-zongo-ii-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Located on the Inkisi River.", "Generates renewable energy.", "Supports Kinshasa.", "A large hydroelectric power project on the Inkisi River supporting the power supply of the capital Kinshasa.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A large hydroelectric power project on the Inkisi River supporting the power supply of the capital Kinshasa.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -623,7 +623,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Provinz Süd-Kivu", "Goldbergbau", "Kamituga", "Ostkongolesischer Rohstoffraum", "Regionale Handelswege", "Kleinbergbau"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-kamituga-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["South Kivu province.", "Artisanal mining.", "Rich in gold deposits.", "A historic gold mining area in the South Kivu province, characterized by artisanal mining.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A historic gold mining area in the South Kivu province, characterized by artisanal mining.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -649,7 +649,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Kinshasa", "Bralima", "Getränkeindustrie", "Primus", "Städtischer Konsummarkt", "Heineken-Gruppe"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-industry-bralima-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Produces Primus beer.", "Traditional company.", "Located in Kinshasa.", "One of the largest and oldest breweries in Congo, maker of the famous Primus beer.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["One of the largest and oldest breweries in Congo, maker of the famous Primus beer.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -675,7 +675,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Provinz Haut-Katanga", "Uranerz", "Shinkolobwe Mine", "Belgisch-Kongo", "20. Jahrhundert", "Geopolitische Bedeutung"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-industry-shinkolobwe-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Former uranium mine.", "Historical significance.", "Officially closed.", "A now-closed uranium mine that provided the material for the first atomic bombs during World War II.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A now-closed uranium mine that provided the material for the first atomic bombs during World War II.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -684,12 +684,12 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     parent: "CD-SK",
     coords: [28.75, -2.8667],
     name: { de: "Twangiza-Goldmine", hu: "Twangiza aranybánya", ro: "Mina de aur Twangiza", en: "Twangiza Gold Mine" },
-    description: { de: "Eine moderne kommerzielle Goldmine im rohstoffreichen Osten der Demokratischen Republik Kongo.", hu: "Modern kereskedelmi aranybánya a Kongói Demokratikus Köztársaság nyersanyagokban gazdag keleti részén.", ro: "O mină comercială modernă de aur în estul bogat în resurse al Republicii Democrate Congo.", en: "A modern commercial gold mine in the resource-rich east of the Democratic Republic of Congo." },
+    description: { de: "Twangiza ist eine moderne Goldmine in der Provinz Sud-Kivu, die Gold im Tagebauverfahren für den Weltmarkt fördert.", hu: "Modern kereskedelmi aranybánya a Kongói Demokratikus Köztársaság nyersanyagokban gazdag keleti részén.", ro: "Exploatare auriferă situată în provincia Sud-Kivu, prima mină de aur industrială modernă din estul țării.", en: "Twangiza is an open-pit gold mine in the South Kivu Province, representing a major industrial investment in the region." },
     facts: {
-      de: ["Liegt in Süd-Kivu", "Kommerzieller Bergbau", "Fördert Gold"],
+      de: ["Industrielle Goldmine", "In der Provinz Sud-Kivu", "Wichtiger Arbeitgeber"],
       hu: ["Dél-Kivuban található", "Kereskedelmi bányászat", "Aranyat bányászik"],
-      ro: ["Situată în Kivu de Sud", "Minerit comercial", "Extrage aur"],
-      en: ["Located in South Kivu", "Commercial mining", "Mines gold"]
+      ro: ["Exploatare la suprafață", "Bogat în resurse de aur", "Impact economic regional major"],
+      en: ["First industrial gold mine in Kivu", "Located south of Bukavu", "Significant gold ore reserves"]
     }, image: "/poi-images/cd-mine-twangiza-economic-v2.webp",
     descriptionAdvanced: {
       de: "Twangiza ist eine moderne Goldmine im Osten der DR Kongo und zeigt sehr deutlich die wirtschaftliche Rolle von Süd-Kivu. Der Standort liegt in einer Region, in der Bergbau, Verkehrswege und die Nähe zu den Großen Seen eng zusammenhängen. Twangiza steht damit für den Übergang von regionalem Goldabbau zu einem industriell organisierten Rohstoffprojekt. Für Plizio Geografie K7 - Rohstoffe und Wirtschaftsräume eignet sich der Ort sehr gut als Beispiel für den ostkongolesischen Goldsektor.",
@@ -701,7 +701,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       de: ["Provinz Süd-Kivu", "Goldmine Twangiza", "Moderne kommerzielle Förderung", "Region der Großen Seen", "Ostkongolesischer Bergbau", "Rohstoffexport"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-twangiza-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Located in South Kivu.", "Commercial mining.", "Mines gold.", "A modern commercial gold mine in the resource-rich east of the Democratic Republic of Congo.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A modern commercial gold mine in the resource-rich east of the Democratic Republic of Congo.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -710,12 +710,12 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     parent: "CD-MA",
     coords: [27.5667, -4.0],
     name: { de: "Namoya-Goldmine", hu: "Namoya aranybánya", ro: "Mina de aur Namoya", en: "Namoya Gold Mine" },
-    description: { de: "Eine offene Goldmine in der Provinz Maniema, die für ihre reiche Goldader bekannt ist.", hu: "Nyitott aranybánya Maniema tartományban, amely gazdag aranyeréről ismert.", ro: "O mină deschisă de aur în provincia Maniema, cunoscută pentru filonul său bogat de aur.", en: "An open-pit gold mine in the Maniema province known for its rich gold vein." },
+    description: { de: "Die Namoya-Mine liegt in der Provinz Maniema und ist Teil eines wichtigen Goldgürtels im Osten des Landes.", hu: "Jelentős aranybánya Maniema tartományban, az ország keleti részén.", ro: "O mină deschisă de aur în provincia Maniema, cunoscută pentru filonul său bogat de aur.", en: "Namoya is a gold mine located in Maniema Province, forming part of a significant gold belt in eastern DR Congo." },
     facts: {
-      de: ["Tagebau-Mine", "Provinz Maniema", "Erhebliches Goldvorkommen"],
-      hu: ["Külszíni bánya", "Maniema tartomány", "Jelentős aranykészlet"],
+      de: ["Goldförderung", "In der Provinz Maniema", "Teil des Maniema-Goldgürtels"],
+      hu: ["Modern ipari aranykitermelés folyik itt", "Fontos munkáltató a távoli, vidéki régióban", "A kitermelt aranyat nemzetközi piacokon értékesítik"],
       ro: ["Mină de suprafață", "Provincia Maniema", "Zăcăminte semnificative de aur"],
-      en: ["Open-pit mine", "Maniema province", "Significant gold deposits"]
+      en: ["Major gold extraction site", "Located in the Namoya region", "Key contributor to Maniema's economy"]
     }, image: "/poi-images/cd-mine-namoya-economic-v2.webp",
     descriptionAdvanced: {
       de: "Namoya liegt in Maniema und gehört zu den Goldstandorten, die den Rohstoffreichtum des zentralen Ostkongo sichtbar machen. Der Ort ist ein gutes Beispiel dafür, wie sich selbst abgelegene Landesteile durch Bergbau in regionale Wirtschaftsnetze einbinden. Goldförderung, Transport und lokale Arbeitsmärkte bilden hier eine enge Einheit. Für den Plizio-Unterricht ist Namoya ideal für Geografie K7 - Rohstoffe und Wirtschaftsräume sowie für die Analyse von Binnenlage und Erschließung.",
@@ -724,10 +724,10 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: "Namoya Gold Mine is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. An open-pit gold mine in the Maniema province known for its rich gold vein. Open-pit mine. Maniema province. Significant gold deposits. This location plays an important role in the economy of the DR Congo, a country known worldwide for its wealth of cobalt, copper, and diamonds. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Provinz Maniema", "Goldmine Namoya", "Binnenlage", "Ost- und Zentralraum", "Bergbauwirtschaft", "Regionale Erschließung"],
+      de: ["Goldmine Namoya", "Binnenlage", "Ost- und Zentralraum", "Bergbauwirtschaft", "Regionale Erschließung"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-namoya-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Open-pit mine.", "Maniema province.", "Significant gold deposits.", "An open-pit gold mine in the Maniema province known for its rich gold vein.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["An open-pit gold mine in the Maniema province known for its rich gold vein.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -750,10 +750,10 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: "Mbandaka River Port is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A strategically important inland port at the equator where the Congo River and the Ruki River meet. Right on the equator. Crossing of two rivers. Trade center of the province. This location plays an important role in the economy of the DR Congo, a country known worldwide for its wealth of cobalt, copper, and diamonds. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Mbandaka", "Direkt am Äquator", "Kongo-Fluss", "Ruki-Fluss", "Provinz Équateur", "Flusshafen"],
+      de: ["Mbandaka", "Kongo-Fluss", "Ruki-Fluss", "Provinz Équateur", "Flusshafen"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-port-mbandaka-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Right on the equator.", "Crossing of two rivers.", "Trade center of the province.", "A strategically important inland port at the equator where the Congo River and the Ruki River meet.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A strategically important inland port at the equator where the Congo River and the Ruki River meet.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   },
   {
@@ -762,10 +762,10 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
     parent: "CD-HK",
     coords: [27.4667, -11.5167],
     name: { de: "Luiswishi-Mine", hu: "Luiswishi bánya", ro: "Mina Luiswishi", en: "Luiswishi Mine" },
-    description: { de: "Eine hochgradige Kupfer- und Kobaltmine unweit von Lubumbashi im ressourcenreichen Süden.", hu: "Magas minőségű réz- és kobaltbánya Lubumbashi közelében, a nyersanyagokban gazdag délen.", ro: "O mină de cupru și cobalt de înaltă calitate, nu departe de Lubumbashi, în sudul bogat în resurse.", en: "A high-grade copper and cobalt mine not far from Lubumbashi in the resource-rich south." },
+    description: { de: "Luiswishi ist eine traditionsreiche Mine in der Nähe von Lubumbashi, die seit Jahrzehnten Kupfer und Kobalt liefert.", hu: "Réz- és kobaltbánya Lubumbashi közelében, Katanga tartományban.", ro: "O mină de cupru și cobalt de înaltă calitate, nu departe de Lubumbashi, în sudul bogat în resurse.", en: "A high-grade copper and cobalt mine not far from Lubumbashi in the resource-rich south." },
     facts: {
-      de: ["Kupfer und Kobalt", "Nähe zu Lubumbashi", "Tagebaubetrieb"],
-      hu: ["Réz és kobalt", "Lubumbashi közelsége", "Külszíni fejtés"],
+      de: ["Kupfer- und Kobaltmine", "Nahe Lubumbashi", "Langjährige Bergbautradition"],
+      hu: ["Magas ércminőségéről és hatékony kitermeléséről ismert", "Hozzájárul a régió gazdasági stabilitásához", "Szoros kapcsolatban áll a helyi feldolgozóiparral"],
       ro: ["Cupru și cobalt", "Apropiere de Lubumbashi", "Exploatare la suprafață"],
       en: ["Copper and cobalt", "Proximity to Lubumbashi", "Open-pit operation"]
     },
@@ -776,10 +776,10 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: "Luiswishi Mine is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A high-grade copper and cobalt mine not far from Lubumbashi in the resource-rich south. Copper and cobalt. Proximity to Lubumbashi. Open-pit operation. This location plays an important role in the economy of the DR Congo, a country known worldwide for its wealth of cobalt, copper, and diamonds. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Nähe zu Lubumbashi", "Provinz Haut-Katanga", "Kupfer und Kobalt", "Luiswishi Mine", "Südlicher Rohstoffgürtel", "Bergbau und Verarbeitung"],
+      de: ["Provinz Haut-Katanga", "Luiswishi Mine", "Südlicher Rohstoffgürtel", "Bergbau und Verarbeitung"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-luiswishi-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["Copper and cobalt.", "Proximity to Lubumbashi.", "Open-pit operation.", "A high-grade copper and cobalt mine not far from Lubumbashi in the resource-rich south.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
+      en: ["A high-grade copper and cobalt mine not far from Lubumbashi in the resource-rich south.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]
     }
   }
 ];
