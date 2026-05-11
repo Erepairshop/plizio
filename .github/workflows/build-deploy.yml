@@ -42,7 +42,7 @@ jobs:
       - name: Build
         env:
           NODE_OPTIONS: --max-old-space-size=14336
-        run: npx next build --webpack
+        run: npx next build
 
       - name: Pack archive
         run: tar -C out -czf ${{ env.ARCHIVE_NAME }} .
