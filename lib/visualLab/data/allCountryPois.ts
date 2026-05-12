@@ -2595,6 +2595,11 @@ import { vaticanLifeV2 } from "./poiExtraVaticanLifeV2";
 import { vaticanNatureV2 } from "./poiExtraVaticanNatureV2";
 import { vaticanReliefV2 } from "./poiExtraVaticanReliefV2";
 import { ukraineCitiesV2 } from "./poiExtraUkraineCitiesV2";
+import { croatiaEconomicV2 } from "./poiExtraCroatiaEconomicV2";
+import { luxembourgLifeV2 } from "./poiExtraLuxembourgLifeV2";
+import { luxembourgNatureV2 } from "./poiExtraLuxembourgNatureV2";
+import { slovakiaHistoryV2 } from "./poiExtraSlovakiaHistoryV2";
+import { sloveniaLifeV2 } from "./poiExtraSloveniaLifeV2";
 export const ALL_DE_EXTRA_POIS: POI[] = [
   ...poiExtraDe1,
   ...poiExtraDe2,

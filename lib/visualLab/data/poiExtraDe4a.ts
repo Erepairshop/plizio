@@ -1,12 +1,275 @@
-// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDe4a: POI[] = [
   // ─── DE-TH Thüringen (+15) ──────────────────────────────────────────────────
 
+  {
+    id: "city-erfurt-extra",
+    type: "state-capital",
+    parent: "DE-TH",
+    coords: [11.0299, 50.9787],
+    name: { de: "Erfurt", hu: "Erfurt", ro: "Erfurt", en: "Erfurt" },
+    description: {
+      de: "Erfurt ist die Landeshauptstadt Thüringens und eine der ältesten Städte Deutschlands. Die mittelalterliche Altstadt mit dem Dom und der Krämerbrücke zieht Besucher aus aller Welt an.",
+      hu: "Erfurt Türingia tartomány fővárosa és Németország egyik legrégebbi városa. A középkori óváros a dómmal és a Krämerbrückével a világ minden tájáról vonzza a látogatókat.",
+      ro: "Erfurt este capitala landului Turingia și unul dintre cele mai vechi orașe din Germania. Centrul istoric medieval cu catedrala și Krämerbrücke atrage vizitatori din toată lumea.",
+      en: "Erfurt is the state capital of Thuringia and one of Germany's oldest cities. The medieval old town with its cathedral and Krämerbrücke bridge attracts visitors from around the world.",
+    },
+    facts: {
+      de: [
+        "Die Krämerbrücke ist Europas längste komplett bebaute und bewohnte Brücke.",
+        "Martin Luther studierte und wurde an der Universität Erfurt zum Priester ordiniert.",
+        "Der Erfurter Dom (Dom St. Marien) überragt die Stadt auf einem Felssporn.",
+        "Erfurt war ein wichtiges Handelszentrum des Mittelalters für den Waidhandel.",
+        "Die Egapark Erfurt ist einer der größten Gartenbauparks Deutschlands.",
+      ],
+      hu: [
+        "A Krämerbrücke Európa leghosszabb, teljesen beépített és lakott hídja.",
+        "Luther Márton az Erfurti Egyetemen tanult, majd ott szentelték pappá.",
+        "Az Erfurti Dóm (Mariendom) egy sziklán magasodik a város fölé.",
+        "Erfurt a középkorban a festőnövény-kereskedelem fontos kereskedelmi központja volt.",
+        "Az Egapark Erfurt Németország egyik legnagyobb kertészeti parkja.",
+      ],
+      ro: [
+        "Krämerbrücke este cel mai lung pod complet construit și locuit din Europa.",
+        "Martin Luther a studiat la Universitatea din Erfurt și a fost hirotonit preot acolo.",
+        "Catedrala din Erfurt (Dom St. Marien) domină orașul de pe un pinten stâncos.",
+        "Erfurt a fost un important centru comercial medieval pentru comerțul cu vaid.",
+        "Egapark Erfurt este unul dintre cele mai mari parcuri horticole din Germania.",
+      ],
+      en: [
+        "The Krämerbrücke is Europe's longest fully built and inhabited bridge.",
+        "Martin Luther studied and was ordained as a priest at the University of Erfurt.",
+        "The Erfurt Cathedral (Dom St. Marien) towers over the city on a rocky spur.",
+        "Erfurt was an important medieval trading center for woad trade.",
+        "The Egapark Erfurt is one of Germany's largest horticultural parks.",
+      ],
+    },
+    descriptionAdvanced: { de: "Erfurt, die historische Landeshauptstadt Thüringens, ist eine der ältesten und am besten erhaltenen mittelalterlichen Großstädte Deutschlands. Gegründet im Jahr 742 durch den heiligen Bonifatius, entwickelte sich die Stadt im Mittelalter dank des Handels mit Waid (einer blauen Färberpflanze) zu einem blühenden Wirtschaftszentrum. Das Stadtbild wird vom monumentalen Ensemble des Erfurter Doms St. Marien und der Severikirche dominiert, die majestätisch auf dem Domberg thronen. Die weltberühmte Krämerbrücke, die längste durchgehend mit Häusern bebaute und bewohnte Brücke Europas, spannt sich malerisch über die Gera. Erfurt ist auch tief mit Martin Luther verbunden, der hier an der 1392 gegründeten Universität studierte und im Augustinerkloster als Mönch lebte. Heute ist die Stadt ein wichtiges administratives, kulturelles und wirtschaftliches Zentrum in der Mitte Deutschlands.", hu: "Erfurt, Türingia történelmi tartományi fővárosa, Németország egyik legrégebbi és legjobb állapotban fennmaradt középkori nagyvárosa. A 742-ben Szent Bonifác által alapított város a középkorban a csülleng (egy kék festőnövény) kereskedelmének köszönhetően virágzó gazdasági központtá fejlődött. A városképet a Szűz Mária-dóm és a Severi-templom monumentális együttese uralja, amelyek fenségesen magasodnak a Domberg hegyén. A világhírű Krämerbrücke (Kalmárhíd), Európa leghosszabb, folyamatosan házakkal beépített és lakott hídja, festőien ível át a Gera folyón. Erfurt szorosan kötődik Luther Mártonhoz is, aki az 1392-ben alapított egyetemen tanult, és az Ágoston-rendi kolostorban élt szerzetesként. Ma a város fontos közigazgatási, kulturális és gazdasági központ Németország szívében.", ro: "", en: "Erfurt, the capital of Thuringia, is one of the best-preserved medieval cities in Germany, often called the 'Rome of Thuringia' for its incredible wealth of churches and monasteries. Its heart is the ensemble of Erfurt Cathedral and St. Severus' Church, which rise majestically over the massive cathedral square. The city is world-famous for the Krämerbrücke (Merchants' Bridge), the longest inhabited bridge in Europe, lined with charming half-timbered shops. Erfurt was a major center for trade and learning in the Middle Ages – it was here that Martin Luther studied at the university and lived as a monk in the Augustinian Monastery. Today, the city is a vibrant cultural hub and a center for the media and horticultural industries, blending its deep spiritual history with a modern, garden-city atmosphere. Geschichte K8 – Medieval urbanism and the life of Martin Luther." },
+    factsAdvanced: {
+      de: [
+      "Erfurt ist mit rund 214.000 Einwohnern die größte Stadt Thüringens.",
+      "Die Universität Erfurt, gegründet 1392, ist eine der ältesten Universitäten Deutschlands.",
+      "Die Gloriosa im Erfurter Dom ist die größte freischwingende mittelalterliche Glocke der Welt.",
+      "Der egapark in Erfurt ist einer der größten und schönsten Blumen- und Gartenparks Deutschlands.",
+      "Die Zitadelle Petersberg ist die einzige weitgehend erhaltene barocke Stadtfestung Mitteleuropas.",
+      "Martin Luther bezeichnete die Universität Erfurt einst als \'seine Mutter\'.",
+      "Auf der Krämerbrücke befinden sich heute 32 (ursprünglich 62) Fachwerkhäuser."
+    ],
+      hu: [
+      "Erfurt mintegy 214 000 lakosával Türingia legnagyobb városa.",
+      "Az 1392-ben alapított Erfurti Egyetem Németország egyik legrégebbi egyeteme.",
+      "Az erfurti dómban található Gloriosa a világ legnagyobb szabadon lengő középkori harangja.",
+      "Az erfurti egapark Németország egyik legnagyobb és legszebb virág- és kertparkja.",
+      "A Petersberg fellegvár Közép-Európa egyetlen nagyrészt fennmaradt barokk városi erődítménye.",
+      "Luther Márton egykor az Erfurti Egyetemet \'anyjának\' nevezte.",
+      "A Krämerbrückén (Kalmárhídon) ma 32 (eredetileg 62) favázas ház található."
+    ],
+      ro: [],
+      en: ["Home to the Krämerbrücke, the longest bridge in Europe with inhabited houses.", "The state capital of Thuringia and a major medieval trade center.", "Martin Luther studied at the University of Erfurt and entered the monastery here.", "The Erfurt Cathedral houses the 'Gloriosa', the world's largest free-swinging medieval bell.", "Features the 'Old Synagogue', the oldest synagogue building in Europe.", "Known as a pioneer of commercial horticulture and seed production."],
+    },
+  },
 
+  {
+    id: "city-weimar-extra",
+    type: "city",
+    parent: "DE-TH",
+    coords: [11.3283, 50.9795],
+    name: { de: "Weimar", hu: "Weimar", ro: "Weimar", en: "Weimar" },
+    description: {
+      de: "Weimar ist eine Kulturstadt von Weltrang in Thüringen. Hier wirkten Goethe und Schiller, das Bauhaus wurde gegründet, und die erste deutsche Demokratie – die Weimarer Republik – trägt den Namen der Stadt.",
+      hu: "Weimar világszerte ismert kultúrváros Türingiában. Itt alkotott Goethe és Schiller, itt alapították a Bauhaustot, és az első német demokrácia – a Weimari Köztársaság – a városról kapta a nevét.",
+      ro: "Weimar este un oraș cultural de renume mondial din Turingia. Aici au activat Goethe și Schiller, a fost fondată școala Bauhaus, iar prima democrație germană – Republica de la Weimar – poartă numele orașului.",
+      en: "Weimar is a world-renowned cultural city in Thuringia. Goethe and Schiller worked here, the Bauhaus was founded here, and the first German democracy – the Weimar Republic – bears the city's name.",
+    },
+    facts: {
+      de: [
+        "Goethes Wohnhaus am Frauenplan und sein Gartenhaus im Park an der Ilm sind UNESCO-Welterbe.",
+        "Das Bauhaus wurde 1919 von Walter Gropius in Weimar gegründet.",
+        "Friedrich Schiller lebte von 1799 bis 1805 in Weimar.",
+        "Die Herzogin Anna Amalia Bibliothek besitzt über eine Million Bücher.",
+        "Die Weimarer Klassik prägte die deutsche Literatur nachhaltig.",
+      ],
+      hu: [
+        "Goethe Frauenplan téri lakóháza és nyaralóháza az Ilm-park mellett UNESCO világörökség.",
+        "A Bauhaustot 1919-ben alapította Walter Gropius Weimarban.",
+        "Friedrich Schiller 1799-től 1805-ig élt Weimarban.",
+        "Az Anna Amália Hercegnő Könyvtár több mint egymillió kötetet őriz.",
+        "A weimari klasszika tartósan formálta a német irodalmat.",
+      ],
+      ro: [
+        "Casa lui Goethe de pe Frauenplan și căsuța sa din Parcul Ilm sunt Patrimoniu UNESCO.",
+        "Bauhaus a fost fondată în 1919 de Walter Gropius la Weimar.",
+        "Friedrich Schiller a locuit la Weimar din 1799 până în 1805.",
+        "Biblioteca Ducesă Anna Amalia deține peste un milion de volume.",
+        "Clasicismul weimarez a modelat durabil literatura germană.",
+      ],
+      en: [
+        "Goethe's house on Frauenplan and his garden house in the Ilm Park are UNESCO World Heritage.",
+        "The Bauhaus was founded in 1919 by Walter Gropius in Weimar.",
+        "Friedrich Schiller lived in Weimar from 1799 to 1805.",
+        "The Duchess Anna Amalia Library holds over one million books.",
+        "Weimar Classicism had a lasting influence on German literature.",
+      ],
+    },
+    descriptionAdvanced: { de: "Weimar, oft als die kulturelle Herzkammer Deutschlands bezeichnet, ist eine idyllische Stadt an der Ilm, deren historisches Erbe von beispielloser globaler Bedeutung ist. Ende des 18. und Anfang des 19. Jahrhunderts war die Stadt das Zentrum der 'Weimarer Klassik', in der Geistesgrößen wie Johann Wolfgang von Goethe, Friedrich Schiller und Johann Gottfried Herder lebten und wirkten. Dieses intellektuelle Erbe wird im Goethe-Nationalmuseum und in Schillers Wohnhaus lebendig gehalten. Im Jahr 1919 wurde hier das Bauhaus von Walter Gropius gegründet, eine Kunstschule, die Design und Architektur weltweit revolutionierte. Im selben Jahr trat im Deutschen Nationaltheater die Nationalversammlung zusammen und gründete die erste deutsche Demokratie, die Weimarer Republik. Aufgrund dieser dichten kulturellen und historischen Konzentration gehören viele Stätten der Stadt zum UNESCO-Weltkulturerbe.", hu: "Weimar, amelyet gyakran Németország kulturális szívének is neveznek, egy idilli város az Ilm folyó partján, amelynek történelmi öröksége páratlan globális jelentőséggel bír. A 18. század végén és a 19. század elején a város a 'weimari klasszicizmus' központja volt, ahol olyan szellemi nagyságok éltek és alkottak, mint Johann Wolfgang von Goethe, Friedrich Schiller és Johann Gottfried Herder. Ezt a szellemi örökséget a Goethe Nemzeti Múzeum és Schiller lakóháza tartja életben. 1919-ben itt alapította meg Walter Gropius a Bauhaust, azt a művészeti iskolát, amely világszerte forradalmasította a formatervezést és az építészetet. Ugyanebben az évben a Német Nemzeti Színházban ült össze a Nemzetgyűlés, és megalapította az első német demokráciát, a weimari köztársaságot. E sűrű kulturális és történelmi koncentráció miatt a város számos helyszíne az UNESCO világörökség része.", ro: "", en: "Weimar is the intellectual heart of Germany, a city of global significance that served as the cradle of German Classicism and modern design. It was here that Goethe and Schiller lived and worked, transforming the small residence into a European cultural center. Weimar is also the birthplace of the Bauhaus movement, founded by Walter Gropius in 1919, and the site where the first democratic constitution of Germany was adopted, giving the 'Weimar Republic' its name. The city's silhouette is a masterpiece of UNESCO-listed heritage, featuring elegant palaces, the Duchess Anna Amalia Library, and the lush Park on the Ilm. Weimar remains a place of intense cultural energy and historical reflection, bridging the heights of humanism with the complexities of 20th-century history. Geschichte K8 – German Classicism and the birth of the Bauhaus." },
+    factsAdvanced: {
+      de: [
+      "Weimar war der Gründungsort der ersten demokratischen Republik Deutschlands im Jahr 1919.",
+      "Das \'Klassische Weimar\' umfasst 11 verschiedene Denkmäler auf der UNESCO-Welterbeliste.",
+      "Goethe lebte über 50 Jahre in Weimar, von 1775 bis zu seinem Tod 1832.",
+      "Die Herzogin Anna Amalia Bibliothek beherbergt über eine Million historische Bände.",
+      "Das Bauhaus wurde 1919 von Walter Gropius in Weimar gegründet.",
+      "Der berühmte Zwiebelmarkt findet seit 1653 jedes Jahr im Oktober statt.",
+      "Die Stadt war 1999 Kulturhauptstadt Europas."
+    ],
+      hu: [
+      "Weimar volt az első német demokratikus köztársaság alapítási helye 1919-ben.",
+      "A \'Klasszikus Weimar\' 11 különböző műemléket foglal magában az UNESCO világörökségi listáján.",
+      "Goethe több mint 50 évig, 1775-től 1832-ben bekövetkezett haláláig élt Weimarban.",
+      "Anna Amalia hercegnő könyvtára (Herzogin Anna Amalia Bibliothek) több mint egymillió történelmi kötetet őriz.",
+      "A Bauhaust Walter Gropius alapította Weimarban 1919-ben.",
+      "A híres Hagymavásárt (Zwiebelmarkt) 1653 óta minden év októberében megrendezik.",
+      "A város 1999-ben Európa Kulturális Fővárosa volt."
+    ],
+      ro: [],
+      en: ["UNESCO World Heritage site for 'Classical Weimar' and 'Bauhaus' sites.", "The primary home and workplace of Johann Wolfgang von Goethe for over 50 years.", "Birthplace of the Bauhaus school of design, founded in 1919.", "Site of the National Assembly that founded the first German democracy.", "Home to the Anna Amalia Library, which holds over one million volumes.", "The Weimar Classicism era defined the golden age of German literature."],
+    },
+  },
 
+  {
+    id: "city-jena-extra",
+    type: "city",
+    parent: "DE-TH",
+    coords: [11.5869, 50.9274],
+    name: { de: "Jena", hu: "Jéna", ro: "Jena", en: "Jena" },
+    description: {
+      de: "Jena ist ein bedeutendes Wissenschafts- und Technologiezentrum in Thüringen. Die Friedrich-Schiller-Universität und Weltkonzerne wie Zeiss und Schott prägen die Stadt.",
+      hu: "Jéna Türingia fontos tudomány- és technológiai központja. A Friedrich Schiller Egyetem és a Zeiss, Schott világcégek határozzák meg a városképet.",
+      ro: "Jena este un important centru de știință și tehnologie din Turingia. Universitatea Friedrich Schiller și corporații globale precum Zeiss și Schott domină orașul.",
+      en: "Jena is an important science and technology center in Thuringia. The Friedrich Schiller University and global companies such as Zeiss and Schott define the city.",
+    },
+    facts: {
+      de: [
+        "Carl Zeiss gründete 1846 seine optische Werkstatt in Jena.",
+        "Die Friedrich-Schiller-Universität gehört zu den ältesten Deutschlands.",
+        "Ernst Abbe und Otto Schott entwickelten in Jena moderne Glasherstellung.",
+        "Das Zeiss-Planetarium ist eines der ältesten noch betriebenen Planetarien der Welt.",
+        "Jena liegt im Saaletal und ist von beeindruckenden Kalkfelsen umgeben.",
+      ],
+      hu: [
+        "Carl Zeiss 1846-ban alapította optikai műhelyét Jénában.",
+        "A Friedrich Schiller Egyetem Németország egyik legrégebbi felsőoktatási intézménye.",
+        "Ernst Abbe és Otto Schott Jénában fejlesztette ki a modern üveggyártást.",
+        "A Zeiss-planetárium a világ egyik legrégebbi még működő planetáriumja.",
+        "Jéna a Saale-völgyben fekszik, és lenyűgöző mészkősziklák veszik körül.",
+      ],
+      ro: [
+        "Carl Zeiss și-a fondat atelierul optic în Jena în 1846.",
+        "Universitatea Friedrich Schiller este una dintre cele mai vechi din Germania.",
+        "Ernst Abbe și Otto Schott au dezvoltat la Jena producția modernă de sticlă.",
+        "Planetariul Zeiss este unul dintre cele mai vechi planetarii încă funcționale din lume.",
+        "Jena este situată în Valea Saale, înconjurată de impresionante stânci calcaroase.",
+      ],
+      en: [
+        "Carl Zeiss founded his optical workshop in Jena in 1846.",
+        "The Friedrich Schiller University is one of Germany's oldest universities.",
+        "Ernst Abbe and Otto Schott developed modern glass manufacturing in Jena.",
+        "The Zeiss Planetarium is one of the oldest still-operating planetariums in the world.",
+        "Jena is located in the Saale valley surrounded by impressive limestone cliffs.",
+      ],
+    },
+    descriptionAdvanced: { de: "Jena, eingebettet in die malerischen Muschelkalkhänge des mittleren Saaletals, ist die zweitgrößte Stadt Thüringens und ein pulsierendes Zentrum für Wissenschaft und Hochtechnologie. Die 1558 gegründete Friedrich-Schiller-Universität war um 1800 ein Zentrum der deutschen Frühromantik und des philosophischen Idealismus. Die moderne Identität Jenas wurde jedoch im späten 19. Jahrhundert geprägt, als Carl Zeiss, Ernst Abbe und Otto Schott den Grundstein für die optische und feinmechanische Industrie legten. Aus dieser Zusammenarbeit entstanden Weltkonzerne, die Jena den Titel 'Lichtstadt' einbrachten. Das Stadtbild ist geprägt von einer faszinierenden Mischung aus historischer Architektur, wie dem mittelalterlichen Johannistor, und modernen Hochhäusern wie dem JenTower, der an ein Fernglas erinnern soll. Jena ist heute eine junge, dynamische Studentenstadt mit hoher Lebensqualität und exzellenten Forschungseinrichtungen.", hu: "Jena, amely a középső Saale-völgy festői kagylómészkő lejtőibe ágyazódik, Türingia második legnagyobb városa, és a tudomány, valamint a csúcstechnológia lüktető központja. Az 1558-ban alapított Friedrich Schiller Egyetem 1800 körül a német korai romantika és a filozófiai idealizmus központja volt. Jena modern identitását azonban a 19. század végén kapta, amikor Carl Zeiss, Ernst Abbe és Otto Schott megvetették az optikai és finommechanikai ipar alapjait. Ebből az együttműködésből olyan világcégek jöttek létre, amelyek meghozták Jenának a 'Fény városa' (Lichtstadt) címet. A városképet a történelmi építészet – mint például a középkori János-kapu (Johannistor) – és a modern felhőkarcolók, mint a távcsőre emlékeztető JenTower lenyűgöző keveréke jellemzi. Jena ma egy fiatal, dinamikus diákváros, amely magas életminőséggel és kiváló kutatóintézetekkel rendelkezik.", ro: "", en: "Jena is Germany's 'City of Light,' a world-class center for optics, photonics, and precision engineering nestled in the scenic Saale valley. Its history was transformed in the 19th century by the 'Triple Alliance' of Carl Zeiss, Ernst Abbe, and Otto Schott, who established Jena as the global leader in optical technology. The city is also home to the Friedrich Schiller University, where giants of philosophy like Hegel and Fichte once taught. Jena's unique skyline is dominated by the 'Jentower,' the tallest building in the state, contrasting with the narrow medieval streets of the old town. It is a dynamic 'science city' where high-tech industry and academic excellence drive a vibrant, forward-looking economy in the heart of Thuringia. Földrajz K7 – High-tech clusters and the optical industry." },
+    factsAdvanced: {
+      de: [
+      "Jena ist die Wiege der modernen Optikindustrie, begründet von Carl Zeiss im Jahr 1846.",
+      "Der JenTower ist mit 144,5 Metern das höchste Bürogebäude in den neuen Bundesländern.",
+      "Das Zeiss-Planetarium in Jena, eröffnet 1926, ist das älteste noch in Betrieb befindliche Planetarium der Welt.",
+      "Etwa jeder vierte Einwohner der Stadt ist Student an der Universität oder Fachhochschule.",
+      "Die Schlacht bei Jena und Auerstedt (1806) markierte eine verheerende Niederlage Preußens gegen Napoleon.",
+      "Das Optische Museum Jena beherbergt eine der bedeutendsten Sammlungen optischer Instrumente.",
+      "Der Botanische Garten Jena ist der zweitälteste seiner Art in Deutschland."
+    ],
+      hu: [
+      "Jena a modern optikai ipar bölcsője, amelyet Carl Zeiss alapított 1846-ban.",
+      "A JenTower a maga 144,5 méterével a legmagasabb irodaépület a volt keletnémet tartományokban.",
+      "Az 1926-ban megnyílt jénai Zeiss-Planetárium a világ legrégebbi, még mindig működő planetáriuma.",
+      "A város lakosságának körülbelül minden negyedik tagja egyetemi vagy főiskolai hallgató.",
+      "A jénai és auerstedti csata (1806) Poroszország megsemmisítő vereségét hozta Napóleon ellen.",
+      "A jénai Optikai Múzeum az optikai műszerek egyik legjelentősebb gyűjteményének ad otthont.",
+      "A jénai Botanikus Kert a második legrégebbi a maga nemében Németországban."
+    ],
+      ro: [],
+      en: ["Global headquarters and historic birthplace of the ZEISS and SCHOTT brands.", "Home to the world's oldest continuously operating planetarium (1926).", "The Friedrich Schiller University was founded in the year 1558.", "Known as the 'City of Light' (Lichtstadt) due to its optical heritage.", "Features the 'JenTower', the tallest office building in East Germany (144m).", "Site of the historic Battle of Jena-Auerstedt against Napoleon in 1806."],
+    },
+  },
 
+  {
+    id: "castle-wartburg-extra",
+    type: "historical",
+    parent: "DE-TH",
+    coords: [10.3056, 50.9660],
+    name: { de: "Wartburg", hu: "Wartburg", ro: "Castelul Wartburg", en: "Wartburg Castle" },
+    description: {
+      de: "Die Wartburg bei Eisenach ist eine der bedeutendsten mittelalterlichen Burgen Deutschlands und UNESCO-Weltkulturerbe. Hier übersetzte Martin Luther das Neue Testament ins Deutsche.",
+      hu: "Az eisenachi Wartburg Németország egyik legjelentősebb középkori vára és UNESCO világörökségi helyszín. Luther Márton itt fordította le az Újszövetséget németre.",
+      ro: "Castelul Wartburg de lângă Eisenach este unul dintre cele mai importante castele medievale din Germania și Patrimoniu Mondial UNESCO. Aici Martin Luther a tradus Noul Testament în germană.",
+      en: "The Wartburg near Eisenach is one of Germany's most significant medieval castles and a UNESCO World Heritage Site. Here Martin Luther translated the New Testament into German.",
+    },
+    facts: {
+      de: [
+        "UNESCO-Weltkulturerbe seit 1999.",
+        "Martin Luther lebte hier 1521–1522 unter dem Namen 'Junker Jörg' im Exil.",
+        "Die Minnesänger-Tradition des Sängerkrieges wird mit der Wartburg verbunden.",
+        "1817 fand das erste Wartburgfest der deutschen Studentenschaft statt.",
+        "Elisabeth von Thüringen lebte im 13. Jahrhundert auf der Wartburg.",
+      ],
+      hu: [
+        "1999 óta UNESCO világörökség.",
+        "Luther Márton 1521–1522 között élt itt száműzetésben 'Junker Jörg' név alatt.",
+        "A Wartburg a középkori minnesänger-hagyomány és az Énekesek harca helyszíne.",
+        "1817-ben tartották itt a német diákság első Wartburg-ünnepét.",
+        "Türingiai Erzsébet a 13. században élt a Wartburgban.",
+      ],
+      ro: [
+        "Patrimoniu Mondial UNESCO din 1999.",
+        "Martin Luther a trăit aici în exil din 1521–1522, sub numele 'Junker Jörg'.",
+        "Wartburg este asociat cu tradiția minnesängerilor și Războiul Cântăreților.",
+        "În 1817 a avut loc aici prima sărbătoare Wartburg a studenților germani.",
+        "Elisabeta din Turingia a locuit pe Wartburg în secolul al XIII-lea.",
+      ],
+      en: [
+        "UNESCO World Heritage Site since 1999.",
+        "Martin Luther lived here in exile from 1521–1522 under the name 'Junker Jörg'.",
+        "The Wartburg is associated with the Minnesänger tradition and the Singers' War.",
+        "The first Wartburg Festival of German students took place here in 1817.",
+        "Elizabeth of Thuringia lived at the Wartburg in the 13th century.",
+      ],
+    },
+    descriptionAdvanced: { de: "Die Wartburg, die auf einem steilen Felsplateau über der Stadt Eisenach thront, ist zweifellos die berühmteste Burg Deutschlands und eng mit entscheidenden Ereignissen der deutschen Geschichte verknüpft. Gegründet im Jahr 1067 von Ludwig dem Springer, erlebte die Burg im Mittelalter als Sitz der Landgrafen von Thüringen ihre erste Blütezeit und war Schauplatz des legendären 'Sängerkrieges'. Die größte historische Strahlkraft erhielt die Burg jedoch 1521/1522, als der Reformator Martin Luther hier unter dem Decknamen 'Junker Jörg' Schutz fand und das Neue Testament in nur elf Wochen aus dem Griechischen ins Deutsche übersetzte. Im Jahr 1817 fand hier das Wartburgfest statt, eine wegweisende Demonstration von Studenten für einen einheitlichen deutschen Nationalstaat. Aufgrund ihrer herausragenden Bedeutung als 'ideale Burg' des Mittelalters wurde sie 1999 zum UNESCO-Weltkulturerbe erklärt.", hu: "Wartburg vára, amely egy meredek sziklafennsíkon magasodik Eisenach városa fölött, kétségtelenül Németország leghíresebb vára, és szorosan kötődik a német történelem sorsdöntő eseményeihez. Az 1067-ben Ugró Lajos által alapított vár a középkorban, a türingiai tartománygrófok székhelyeként élte első virágkorát, és itt zajlott a legendás 'Dalnokverseny' is. Legnagyobb történelmi kisugárzását azonban 1521/1522-ben nyerte el, amikor a reformátor Luther Márton 'Junker Jörg' álnéven itt talált menedéket, és mindössze tizenegy hét alatt ógörögből németre fordította az Újszövetséget. 1817-ben itt rendezték meg a Wartburgi Ünnepet (Wartburgfest), a diákok úttörő tüntetését az egységes német nemzetállamért. A középkor 'ideális váraként' betöltött kiemelkedő jelentősége miatt 1999-ben az UNESCO világörökség részévé nyilvánították.", ro: "", en: "The Wartburg Castle, perched majestically on a cliff above Eisenach, is the most German of all castles and a UNESCO World Heritage site since 1999. Founded in 1067, it has been at the center of pivotal moments in European history. It was the residence of Saint Elizabeth of Hungary and the site of the legendary 'Sängerkrieg' (Minstrels' Contest). Most significantly, it served as a secret refuge for Martin Luther in 1521, where he translated the New Testament into German, laying the foundations of the modern German language. The castle's architecture is a stunning mix of Romanesque, Gothic, and 19th-century Romanticism. It stands as a powerful symbol of German unity, faith, and cultural identity. Geschichte K8 – Martin Luther and the history of the Holy Roman Empire." },
+    factsAdvanced: {
+      de: [
+      "Die Wartburg wurde der Legende nach im Jahr 1067 gegründet.",
+      "Martin Luther übersetzte in der Burg das Neue Testament in nur elf Wochen ins Deutsche.",
+      "Die Heilige Elisabeth von Thüringen lebte im 13. Jahrhundert auf der Wartburg.",
+      "Das Palasgebäude (Landgrafenhaus) ist einer der besterhaltenen romanischen Profanbauten nördlich der Alpen.",
+      "Das Wartburgfest von 1817 forderte erstmals öffentlich einen deutschen Nationalstaat.",
+      "Im 19. Jahrhundert wurde die Burg stark im romantisierenden Stil restauriert und erweitert.",
+      "Die Burg inspirierte Richard Wagner zu seiner berühmten Oper \'Tannhäuser\'."
+    ],
+      hu: [
+      "A legenda szerint Wartburg várát 1067-ben alapították.",
+      "Luther Márton a várban mindössze tizenegy hét alatt fordította le az Újszövetséget németre.",
+      "Türingiai Szent Erzsébet a 13. században élt Wartburg várában.",
+      "A palotaszárny (tartománygrófi ház) az Alpoktól északra fekvő egyik legjobb állapotban fennmaradt román kori világi épület.",
+      "Az 1817-es Wartburgi Ünnepen követeltek először nyilvánosan német nemzetállamot.",
+      "A 19. században a várat erőteljesen romantizáló stílusban restaurálták és kibővítették.",
+      "A vár inspirálta Richard Wagnert híres \'Tannhäuser\' című operájának megírására."
+    ],
+      ro: [],
+      en: ["UNESCO World Heritage site and the site where Luther translated the Bible.", "Founded in 1067 by Ludwig the Springer of the Ludowingian dynasty.", "Home to Saint Elizabeth of Hungary in the early 13th century.", "The setting for the legendary 'Minstrels' Contest' (Sängerkrieg).", "Host of the Wartburg Festival of 1817, a key event for German unity.", "The Romanesque Palace (Palas) is one of the best-preserved of its kind."],
+    },
+  },
 
   {
     id: "mountain-grosser-beerberg-extra",
@@ -57,8 +320,8 @@ export const poiExtraDe4a: POI[] = [
       "Das Gestein des Berges besteht hauptsächlich aus Quarzporphyr, einem vulkanischen Gestein.",
       "Das Beerbergmoor auf dem Gipfel steht unter strengem Naturschutz (Betreten verboten).",
       "Der Gipfel liegt direkt am Rennsteig, dem bekanntesten Weitwanderweg Deutschlands.",
-      "Der Aussichtspunkt \\'Plänckners Aussicht\\' wurde nach einem Kartografen des Rennsteigs benannt.",
-      "Zwischen dem Großen Beerberg und dem benachbarten Schneekopf liegt das tiefe Tal der \\'Schmücke\\'.",
+      "Der Aussichtspunkt \'Plänckners Aussicht\' wurde nach einem Kartografen des Rennsteigs benannt.",
+      "Zwischen dem Großen Beerberg und dem benachbarten Schneekopf liegt das tiefe Tal der \'Schmücke\'.",
       "Aufgrund der flachen Kuppe ist der höchste Punkt im Wald oft schwer genau zu erkennen."
     ],
       hu: [
@@ -66,14 +329,15 @@ export const poiExtraDe4a: POI[] = [
       "A hegy kőzete főként kvarcporfírból, egy vulkáni kőzetből áll.",
       "A csúcson található Beerbergmoor dagadóláp szigorú természetvédelem alatt áll (belépni tilos).",
       "A csúcs közvetlenül a Rennsteig, Németország legismertebb hosszú távú túraútvonala mentén található.",
-      "A \\'Plänckners Aussicht\\' kilátót a Rennsteig egyik térképészéről nevezték el.",
-      "A Großer Beerberg és a szomszédos Schneekopf között fekszik a \\'Schmücke\\' mély völgye.",
+      "A \'Plänckners Aussicht\' kilátót a Rennsteig egyik térképészéről nevezték el.",
+      "A Großer Beerberg és a szomszédos Schneekopf között fekszik a \'Schmücke\' mély völgye.",
       "A lapos csúcs miatt az erdőben gyakran nehéz pontosan felismerni a legmagasabb pontot."
     ],
       ro: [],
       en: ["The highest point in the state of Thuringia at 982 meters altitude.", "Home to the Beerbergmoor, the highest-altitude moor in the region.", "Located directly on the historic Rennsteig long-distance hiking trail.", "Formed from ancient volcanic porphyry rock over 250 million years ago.", "The summit is a strictly protected nature zone (Core zone).", "Features the 'Plänckners Aussicht', offering the best views in the forest."],
     },
-    elevation: 982, image: "/poi-images/mountain-grosser-beerberg-extra.webp"},
+    elevation: 982,
+  },
 
   {
     id: "forest-thueringer-wald-extra",
@@ -139,7 +403,8 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["Known as the 'Green Heart of Germany' for its vast forest cover.", "Home to the Rennsteig, Germany's most famous hiking trail (169 km).", "A major center for glassblowing and the creation of Christmas ornaments.", "Includes the town of Oberhof, a global hub for biathlon and luge.", "Highest peak is the Großer Beerberg at 982 meters.", "Contains two UNESCO Biosphere Reserves (Vessertal and Rhön)."],
-    }, image: "/poi-images/forest-thueringer-wald-extra.webp"},
+    },
+  },
 
   {
     id: "river-saale-th-extra",
@@ -206,7 +471,8 @@ export const poiExtraDe4a: POI[] = [
       ro: [],
       en: ["The most important tributary of the Elbe river in Thuringia.", "Forms the 'Thuringian Sea', a massive system of five reservoirs.", "Flows past the spectacular Dornburg Palaces and the city of Jena.", "The Saale-Unstrut wine region is the northernmost in Germany.", "Stretches for 413 kilometers from the Fichtelgebirge to the Elbe.", "A major European destination for recreational canoeing and cycling."],
     },
-    length: 427, image: "/poi-images/river-saale-th-extra.webp"},
+    length: 427,
+  },
 
   {
     id: "lake-bleilochtalsperre-extra",
@@ -257,8 +523,8 @@ export const poiExtraDe4a: POI[] = [
       "Die Staumauer ist eine 65 Meter hohe und 212 Meter lange Schwergewichtsmauer aus Gussbeton.",
       "Der Bau dauerte fünf Jahre (1927–1932) und bot tausenden Arbeitslosen während der Weltwirtschaftskrise Arbeit.",
       "Das Kraftwerk am Fuß der Staumauer hat eine Leistung von 80 Megawatt.",
-      "Das Festival \\'SonneMondSterne\\' zieht jährlich bis zu 40.000 Besucher an die Talsperre.",
-      "Der Name \\'Bleiloch\\' stammt von alten Blei-Bergbauschächten, die vor dem Einstauen in diesem Tal lagen.",
+      "Das Festival \'SonneMondSterne\' zieht jährlich bis zu 40.000 Besucher an die Talsperre.",
+      "Der Name \'Bleiloch\' stammt von alten Blei-Bergbauschächten, die vor dem Einstauen in diesem Tal lagen.",
       "Das Staugebiet windet sich in unzähligen Schleifen durch das Tal und wirkt wie ein skandinavischer Fjord."
     ],
       hu: [
@@ -266,14 +532,15 @@ export const poiExtraDe4a: POI[] = [
       "A gát egy 65 méter magas és 212 méter hosszú, öntött betonból készült súlygát.",
       "Az építkezés öt évig (1927–1932) tartott, és munkanélküliek ezreinek adott munkát a nagy gazdasági világválság idején.",
       "A gát lábánál lévő erőmű 80 megawatt teljesítményű.",
-      "A \\'SonneMondSterne\\' fesztivál évente akár 40 000 látogatót is vonz a víztározóhoz.",
-      "A \\'Bleiloch\\' név a völgyben a duzzasztás előtt fekvő régi ólombányászati aknákból származik.",
+      "A \'SonneMondSterne\' fesztivál évente akár 40 000 látogatót is vonz a víztározóhoz.",
+      "A \'Bleiloch\' név a völgyben a duzzasztás előtt fekvő régi ólombányászati aknákból származik.",
       "A felduzzasztott terület számtalan kanyarral kanyarog a völgyön keresztül, és úgy néz ki, mint egy skandináv fjord."
     ],
       ro: [],
       en: ["Germany's largest reservoir by water volume (215 million m³).", "The dam wall is 205 meters long and 65 meters high.", "Part of the 'Saale Cascade', a system of five large reservoirs.", "Constructed between 1926 and 1932 as a major job creation project.", "A world-class venue for motorboat racing and sailing regattas.", "The lake's shoreline stretches for over 100 kilometers."],
     },
-    area: 9.2, image: "/poi-images/lake-bleilochtalsperre-extra.webp"},
+    area: 9.2,
+  },
 
   {
     id: "city-eisenach-extra",
@@ -339,7 +606,8 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["The birthplace of Johann Sebastian Bach, the master of Baroque music (1685).", "Home to the Wartburg Castle, a UNESCO World Heritage site.", "Martin Luther attended school here and later lived at the Wartburg.", "Historically the production site of the 'Wartburg' car during the GDR era.", "Features the Bach House, the world's first museum dedicated to the composer.", "A gateway to the Rennsteig, Germany's most famous hiking trail."],
-    }, image: "/poi-images/city-eisenach-extra.webp"},
+    },
+  },
 
   {
     id: "historical-buchenwald-extra",
@@ -405,8 +673,75 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["A major Nazi concentration camp where 56,000 people were murdered.", "The camp was liberated by the U.S. Army on April 11, 1945.", "Located on the Ettersberg, overlooking the 'City of Poets' Weimar.", "Served as Soviet Special Camp No. 2 from 1945 to 1950.", "The memorial includes a massive 50-meter high monument tower.", "Features the permanent exhibition 'Buchenwald. Ostracism and Violence'."],
-    }, image: "/poi-images/historical-buchenwald-extra.webp"},
+    },
+  },
 
+  {
+    id: "city-gera-extra",
+    type: "city",
+    parent: "DE-TH",
+    coords: [12.0810, 50.8807],
+    name: { de: "Gera", hu: "Gera", ro: "Gera", en: "Gera" },
+    description: {
+      de: "Gera ist die drittgrößte Stadt Thüringens und ein regionales Zentrum im Osten des Landes. Die Stadt ist bekannt als Geburtsort des Malers Otto Dix.",
+      hu: "Gera Türingia harmadik legnagyobb városa és az ország keleti részének regionális központja. A város Otto Dix festőművész szülővárosaként ismert.",
+      ro: "Gera este al treilea oraș ca mărime din Turingia și un centru regional în estul țării. Orașul este cunoscut ca locul nașterii pictorului Otto Dix.",
+      en: "Gera is the third-largest city in Thuringia and a regional center in the east of the state. The city is known as the birthplace of painter Otto Dix.",
+    },
+    facts: {
+      de: [
+        "Geburtsstadt des expressionistischen Malers Otto Dix (1891).",
+        "Das Kunstmuseum Gera zeigt Werke von Otto Dix und anderen Künstlern.",
+        "Die Geraer Altstadt weist eine historische Substanz aus dem 16./17. Jahrhundert auf.",
+        "Gera liegt an der Weißen Elster und gehört zum thüringischen Vogtland.",
+        "Der Botanische Garten und der Tierpark sind beliebte Ausflugsziele.",
+      ],
+      hu: [
+        "Otto Dix expresszionista festő szülővárosa (1891).",
+        "A Gera Képzőművészeti Múzeum Otto Dix és más művészek alkotásait mutatja be.",
+        "Gera óvárosában a 16–17. századi épített örökség megőrződött.",
+        "Gera a Fehér Elster folyón fekszik, és a türingiai Vogtlandhoz tartozik.",
+        "A botanikus kert és az állatkert kedvelt kirándulóhelyek.",
+      ],
+      ro: [
+        "Orașul natal al pictorului expresionist Otto Dix (1891).",
+        "Muzeul de Artă din Gera expune lucrări ale lui Otto Dix și ale altor artiști.",
+        "Centrul vechi al Gerei prezintă un patrimoniu construit din secolele XVI-XVII.",
+        "Gera este situată pe Weisse Elster și face parte din Vogtland turingian.",
+        "Grădina botanică și grădina zoologică sunt destinații populare de excursie.",
+      ],
+      en: [
+        "Birthplace of expressionist painter Otto Dix (1891).",
+        "The Gera Art Museum features works by Otto Dix and other artists.",
+        "Gera's old town has a historic building stock from the 16th/17th century.",
+        "Gera is located on the White Elster river and belongs to the Thuringian Vogtland.",
+        "The botanical garden and the zoo are popular excursion destinations.",
+      ],
+    },
+    descriptionAdvanced: { de: "Gera, idyllisch in die Hügellandschaft des Weiße-Elster-Tals eingebettet, ist die drittgrößte Stadt Thüringens. Im 19. Jahrhundert erlebte Gera durch die Textilindustrie, insbesondere den florierenden Stoff- und Tuchhandel, einen beispiellosen wirtschaftlichen Aufstieg. Aus dieser Glanzzeit stammt der Beiname 'Reußische Residenzstadt', da Gera lange Zeit Hauptresidenz der Fürsten Reuß jüngerer Linie war. Den einstigen Reichtum der Industriellen spiegeln heute die zahlreichen prachtvollen, architektonisch wertvollen Stadtvillen wider, die das Stadtbild prägen. Kulturell ist die Stadt eng mit Otto Dix verbunden; das Geburtshaus des berühmten Malers der 'Neuen Sachlichkeit' ist heute ein bedeutendes Museum. Zu den faszinierendsten Besonderheiten Geras gehören die 'Geraer Höhler', ein ausgedehntes, labyrinthartiges System historischer Tiefkeller, die seit dem 16. Jahrhundert zur Lagerung des legendären Geraer Bieres genutzt wurden.", hu: "A Weiße Elster (Fehér-Elster) völgyének dombvidékébe idillien beágyazódó Gera Türingia harmadik legnagyobb városa. A 19. században Gera a textiliparnak, különösen a virágzó szövet- és posztókereskedelemnek köszönhetően példátlan gazdasági fellendülést élt át. Ebből a fénykorból származik a 'Reussi rezidenciaváros' (Reußische Residenzstadt) becenév, mivel Gera sokáig a Reuss hercegek ifjabb ágának főrezidenciája volt. A gyárosok egykori gazdagságát ma is tükrözi az a számos pompás, építészetileg értékes városi villa, amely meghatározza a városképet. Kulturális szempontból a város szorosan kötődik Otto Dixhez; az 'Új Tárgyilagosság' (Neue Sachlichkeit) híres festőjének szülőháza ma fontos múzeum. Gera leglenyűgözőbb különlegességei közé tartoznak a 'Geraer Höhler'-ek, a történelmi mélypincék kiterjedt, labirintusszerű rendszere, amelyet a 16. század óta a legendás gerai sör tárolására használtak.", ro: "", en: "Gera is the largest city in eastern Thuringia, known for its proud industrial history and its surprising wealth of Art Nouveau and Bauhaus architecture. During the 19th century, it was one of the wealthiest cities in Germany due to its world-class textile industry, a legacy reflected in the grand 'Gera Villas' and the historic city center. The city is world-famous as the birthplace of the artist Otto Dix, whose work is celebrated in a prestigious museum housed in his childhood home. Gera's unique 'Höhler' – a network of medieval beer cellars beneath the city streets – offers a fascinating look at its historic brewing culture. Today, the city is a vibrant center for culture and the service economy, rebuilding itself as a modern, green metropolis in the White Elster valley. Földrajz K7 – Industrial heritage and urban transformation." },
+    factsAdvanced: {
+      de: [
+      "Gera war von 1848 bis 1918 die Hauptstadt des Fürstentums Reuß jüngerer Linie.",
+      "Die Textilindustrie brachte der Stadt im 19. Jahrhundert enormen Reichtum, was ihr den Namen \'Klein-Leipzig\' einbrachte.",
+      "Das Otto-Dix-Haus zeigt eine ständige Ausstellung von Werken des in Gera geborenen Künstlers.",
+      "Das System der \'Geraer Höhler\' umfasst insgesamt fast neun Kilometer historische unterirdische Gänge.",
+      "Die Orangerie in Gera beherbergt heute die renommierte städtische Kunstsammlung.",
+      "Im Jahr 2007 war Gera Austragungsort der Bundesgartenschau (BUGA), die den Hofwiesenpark nachhaltig verschönerte.",
+      "Das prachtvolle Geraer Rathaus am Marktplatz zeichnet sich durch ein reich verziertes Renaissanceportal aus."
+    ],
+      hu: [
+      "Gera 1848 és 1918 között a Reuss Hercegség (ifjabb ág) fővárosa volt.",
+      "A textilipar a 19. században hatalmas gazdagságot hozott a városnak, ami a \'Kis-Lipcse\' (Klein-Leipzig) nevet is eredményezte.",
+      "Az Otto Dix-házban a Gerában született művész alkotásaiból látható állandó kiállítás.",
+      "A \'Geraer Höhler\' nevű pincerendszer összesen közel kilenc kilométer hosszú történelmi földalatti folyosót foglal magában.",
+      "A gerai Orangerie ma a neves városi művészeti gyűjteménynek ad otthont.",
+      "2007-ben Gera volt a házigazdája a Szövetségi Kertészeti Kiállításnak (BUGA), amely tartósan megszépítette a Hofwiesenparkot.",
+      "A piactéren található pompás gerai városházát egy gazdagon díszített reneszánsz portál ékesíti."
+    ],
+      ro: [],
+      en: ["The birthplace of the world-renowned expressionist painter Otto Dix (1891).", "Known for its 'Gera Höhler', a 9-kilometer network of medieval cellars.", "Historically a global center for the textile and machine industry.", "Home to the 'Haus Schulenburg', a masterpiece by architect Henry van de Velde.", "The third-largest city in Thuringia, located on the White Elster river.", "Hosted the Federal Horticultural Show (BUGA) in 2007."],
+    },
+  },
 
   {
     id: "landmark-kraemerbrue-erfurt-extra",
@@ -458,7 +793,7 @@ export const poiExtraDe4a: POI[] = [
       "Von den ursprünglich 62 Häusern auf der Brücke sind durch Zusammenlegungen heute noch 32 erhalten.",
       "Fast alle Gebäude auf der Brücke gehören heute der Stadt Erfurt und werden zur Förderung des Kunsthandwerks vermietet.",
       "Auf der Brücke darf laut städtischer Satzung nur traditionelles Gewerbe (kein Fast-Food oder Ramsch) ansässig sein.",
-      "Das jährlich im Juni stattfindende \\'Krämerbrückenfest\\' ist das größte Altstadtfest Thüringens.",
+      "Das jährlich im Juni stattfindende \'Krämerbrückenfest\' ist das größte Altstadtfest Thüringens.",
       "An beiden Enden der Brücke befanden sich früher Brückenköpfe mit Kirchen; heute steht nur noch die Ägidienkirche."
     ],
       hu: [
@@ -467,12 +802,13 @@ export const poiExtraDe4a: POI[] = [
       "A hídon lévő eredeti 62 házból az összevonások révén ma 32 maradt fenn.",
       "Ma a hídon lévő szinte összes épület Erfurt városának tulajdonában van, és a kézművesség népszerűsítése érdekében adják bérbe őket.",
       "A városi rendelet szerint a hídon csak hagyományos kereskedelem (nem gyorsétterem vagy bóvli) telepedhet le.",
-      "A minden év júniusában megrendezésre kerülő \\'Krämerbrückenfest\\' (Kalmárhíd-ünnep) Türingia legnagyobb óvárosi fesztiválja.",
+      "A minden év júniusában megrendezésre kerülő \'Krämerbrückenfest\' (Kalmárhíd-ünnep) Türingia legnagyobb óvárosi fesztiválja.",
       "A híd mindkét végén egykor hídfők álltak templomokkal; ma már csak az Ägidienkirche (Egyed-templom) áll."
     ],
       ro: [],
       en: ["The longest inhabited bridge in Europe (79 meters).", "Features 32 historic half-timbered houses with residential and commercial use.", "Originally built in 1325 after several fires destroyed previous wooden bridges.", "Spans the Gera river in the heart of Erfurt's medieval old town.", "Home to the 'Krämerbrückenfest', Thuringia's largest old town festival.", "The bridge was part of the 'Via Regia', a vital European trade route."],
-    }, image: "/poi-images/landmark-kraemerbrue-erfurt-extra.webp"},
+    },
+  },
 
   {
     id: "river-werra-th-extra",
@@ -520,26 +856,27 @@ export const poiExtraDe4a: POI[] = [
     factsAdvanced: {
       de: [
       "Die Werra hat eine Gesamtlänge von 299,6 Kilometern.",
-      "Es gibt einen Streit um die \\'echte\\' Werraquelle; offiziell gibt es zwei anerkannte Quellen bei Eisfeld und Siegmundsburg.",
+      "Es gibt einen Streit um die \'echte\' Werraquelle; offiziell gibt es zwei anerkannte Quellen bei Eisfeld und Siegmundsburg.",
       "Der Fluss bildete während der deutschen Teilung über viele Kilometer den Grenzverlauf zwischen BRD und DDR.",
       "Der Werratal-Radweg ist über 300 Kilometer lang und einer der beliebtesten Radfernwege Deutschlands.",
       "Der Kalibergbau im Werratal sorgte jahrzehntelang für eine starke Versalzung des Flusses.",
-      "Bei Vacha ragt die mittelalterliche Werrabrücke (die \\'Brücke der Einheit\\') über den Fluss.",
+      "Bei Vacha ragt die mittelalterliche Werrabrücke (die \'Brücke der Einheit\') über den Fluss.",
       "Die Werra vereinigt sich in Hann. Münden mit der Fulda zur Weser."
     ],
       hu: [
       "A Werra teljes hossza 299,6 kilométer.",
-      "Vita van az \\'igazi\\' Werra-forrásról; hivatalosan két elismert forrás létezik Eisfeld és Siegmundsburg közelében.",
+      "Vita van az \'igazi\' Werra-forrásról; hivatalosan két elismert forrás létezik Eisfeld és Siegmundsburg közelében.",
       "A folyó a német megosztottság idején sok kilométeren át a határon folyt az NSZK és az NDK között.",
       "A Werra-völgyi kerékpárút (Werratal-Radweg) több mint 300 kilométer hosszú, és Németország egyik legnépszerűbb távolsági kerékpárútja.",
       "A Werra-völgyi káliumbányászat évtizedekig a folyó erős elsósodását okozta.",
-      "Vachánál a középkori Werra-híd (az \\'Egység hídja\\') ível át a folyón.",
+      "Vachánál a középkori Werra-híd (az \'Egység hídja\') ível át a folyón.",
       "A Werra Hann. Mündennél egyesül a Fuldával, és létrehozza a Wesert."
     ],
       ro: [],
       en: ["A 300-kilometer long river and one of the two sources of the Weser.", "Historically defined the border between Hesse and Thuringia.", "Flows past the iconic Wartburg Castle in Eisenach.", "The Werra Valley is a leading region for potash and salt mining.", "A key part of the European 'Green Belt' nature conservation area.", "The river has two separate sources (Werra 1 and Werra 2) in the mountains."],
     },
-    length: 292, image: "/poi-images/river-werra-th-extra.webp"},
+    length: 292,
+  },
 
   {
     id: "city-gotha-extra",
@@ -588,7 +925,7 @@ export const poiExtraDe4a: POI[] = [
       de: [
       "Schloss Friedenstein in Gotha ist die größte frühbarocke Schlossanlage Deutschlands.",
       "Das im Schloss befindliche Ekhof-Theater besitzt die älteste noch funktionierende Bühnenmaschinerie der Welt.",
-      "Der Gothaische Hofkalender (der \\'Gotha\\') war ab dem 18. Jahrhundert das wichtigste Handbuch des europäischen Adels.",
+      "Der Gothaische Hofkalender (der \'Gotha\') war ab dem 18. Jahrhundert das wichtigste Handbuch des europäischen Adels.",
       "Das britische Königshaus Windsor stammt in direkter Linie vom Haus Sachsen-Coburg und Gotha ab.",
       "Der Gothaer Justus Perthes Verlag war ein weltweit führender Verlag für geografische Atlanten und Karten.",
       "Gotha gilt als die Geburtsstätte des deutschen Versicherungswesens (Gothaer Versicherungsbank, 1820).",
@@ -597,7 +934,7 @@ export const poiExtraDe4a: POI[] = [
       hu: [
       "A gothai Friedenstein-kastély Németország legnagyobb kora barokk kastélyegyüttese.",
       "A kastélyban található Ekhof Színház a világ legrégebbi, még mindig működő színpadtechnikájával rendelkezik.",
-      "A Gothai Udvari Naptár (a \\'Gotha\\') a 18. századtól az európai nemesség legfontosabb kézikönyve volt.",
+      "A Gothai Udvari Naptár (a \'Gotha\') a 18. századtól az európai nemesség legfontosabb kézikönyve volt.",
       "A brit királyi Windsor-ház egyenes ágon a Szász-Coburg és Gotha-házból származik.",
       "A gothai Justus Perthes Kiadó a világ egyik vezető kiadója volt a földrajzi atlaszok és térképek terén.",
       "Gothát a német biztosítási ipar szülőhelyének tartják (Gothaer Versicherungsbank, 1820).",
@@ -605,7 +942,8 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["Home to Friedenstein Castle, the largest early-Baroque palace in Germany.", "Historically the seat of the House of Saxe-Coburg and Gotha.", "The birthplace of modern insurance and world-class cartography (Perthes).", "Features the Ekhof Theatre, the world's oldest active Baroque theater.", "The city's 'Perthes-Forum' is a primary site for geographic research.", "The Royal House of Windsor originated from the Gotha dynasty."],
-    }, image: "/poi-images/city-gotha-extra.webp"},
+    },
+  },
 
   {
     id: "mountain-inselsberg-extra",
@@ -672,7 +1010,8 @@ export const poiExtraDe4a: POI[] = [
       ro: [],
       en: ["A 916-meter high peak and a primary landmark of Western Thuringia.", "Offers views of up to 100 kilometers on exceptionally clear days.", "Historically a divided mountain between two German states until 1920.", "Home to a 126-meter high telecommunications tower built in 1974.", "A popular destination for winter sports and summer alpine slides.", "Located directly on the Rennsteig, Germany's oldest hiking trail."],
     },
-    elevation: 916, image: "/poi-images/mountain-inselsberg-extra.webp"},
+    elevation: 916,
+  },
 
   // ─── DE-HB Bremen (+15) ──────────────────────────────────────────────────────
 
@@ -727,7 +1066,7 @@ export const poiExtraDe4a: POI[] = [
       "In der Oberen Rathaushalle hängen detailreiche Modelle historischer Kriegsschiffe an der Decke.",
       "Der Bremer Ratskeller beherbergt die größte Sammlung deutscher Weine auf der ganzen Welt.",
       "Das Rathaus ist bis heute der Amtssitz des Bremer Bürgermeisters und des Senats.",
-      "Im Festsaal (der \\'Güldenkammer\\') finden die traditionellen Schaffermahlzeiten statt."
+      "Im Festsaal (der \'Güldenkammer\') finden die traditionellen Schaffermahlzeiten statt."
     ],
       hu: [
       "A brémai városháza 2004 óta az UNESCO világörökség része.",
@@ -736,7 +1075,7 @@ export const poiExtraDe4a: POI[] = [
       "A Felső Városházi Terem mennyezetén történelmi hadihajók részletgazdag modelljei lógnak.",
       "A brémai Városházi Pince (Ratskeller) a világ legnagyobb német borgyűjteményének ad otthont.",
       "A városháza a mai napig Bréma polgármesterének és szenátusának hivatalos székhelye.",
-      "A díszteremben (a \\'Güldenkammer\\'-ben) tartják a hagyományos tengerészek vacsoráját (Schaffermahlzeit)."
+      "A díszteremben (a \'Güldenkammer\'-ben) tartják a hagyományos tengerészek vacsoráját (Schaffermahlzeit)."
     ],
       ro: [],
       en: ["UNESCO World Heritage site and a pinnacle of Weser Renaissance art.", "The only medieval town hall in Europe never destroyed or significantly altered.", "Home to the Bremer Ratskeller, featuring the world's largest German wine list.", "Construction began in 1405 as a Gothic structure.", "The 17th-century facade is a masterclass in Baroque and Renaissance fusion.", "Houses the 'Rose Cask', containing the oldest drinkable wine in Germany (1653)."],
@@ -789,25 +1128,26 @@ export const poiExtraDe4a: POI[] = [
     factsAdvanced: {
       de: [
       "Der Bremer Roland ist die älteste erhaltene Rolandstatue in ganz Deutschland.",
-      "Der Abstand zwischen Rolands Knien beträgt exakt eine \\'Bremer Elle\\' (55,3 Zentimeter).",
+      "Der Abstand zwischen Rolands Knien beträgt exakt eine \'Bremer Elle\' (55,3 Zentimeter).",
       "Während des Zweiten Weltkriegs wurde die Figur durch eine dicke Mauer aus Sandsäcken vor Bomben geschützt.",
       "Der Schild des Rolands trägt das Wappen des Heiligen Römischen Reiches und nicht das der Stadt Bremen.",
-      "Unter den Füßen des Rolands ist ein \\'Krüppel\\' abgebildet, ein Sinnbild für die Unterwerfung von Feinden.",
+      "Unter den Füßen des Rolands ist ein \'Krüppel\' abgebildet, ein Sinnbild für die Unterwerfung von Feinden.",
       "Der Roland wurde zusammen mit dem Bremer Rathaus 2004 zum UNESCO-Weltkulturerbe ernannt.",
       "Gerüchten zufolge lagert in einem geheimen Kellergewölbe eine exakte Nachbildung als Ersatz."
     ],
       hu: [
       "A brémai Roland a legrégebbi fennmaradt Roland-szobor egész Németországban.",
-      "Roland térdei közötti távolság pontosan egy \\'brémai rőf\\' (55,3 centiméter).",
+      "Roland térdei közötti távolság pontosan egy \'brémai rőf\' (55,3 centiméter).",
       "A második világháború alatt a szobrot homokzsákokból épített vastag fallal védték a bombáktól.",
       "Roland pajzsa a Német-római Birodalom címerét viseli, és nem Bréma városáét.",
-      "Roland lábai alatt egy \\'nyomorék\\' látható, ami az ellenség leigázásának szimbóluma.",
+      "Roland lábai alatt egy \'nyomorék\' látható, ami az ellenség leigázásának szimbóluma.",
       "A Rolandot a brémai városházával együtt 2004-ben az UNESCO világörökség részévé nyilvánították.",
       "A pletykák szerint egy titkos pincében egy pontos másolatot tárolnak csereként."
     ],
       ro: [],
       en: ["UNESCO World Heritage site and the largest Roland statue in Germany.", "Erected in 1404 to replace a wooden predecessor.", "Stands 5.47 meters tall, or 10.21 meters including the canopy.", "Symbolizes the independence and market rights of the city of Bremen.", "The distance between his knees was the official 'Bremen Ell' measurement.", "One of the best-preserved and most authentic medieval monuments in Europe."],
-    }, image: "/poi-images/landmark-roland-bremen-extra.webp"},
+    },
+  },
 
   {
     id: "port-bremerhaven-extra",
@@ -873,7 +1213,8 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["One of the world's leading ports for automotive exports and imports.", "Features the longest continuous container terminal in the world (approx. 5 km).", "Founded in 1827 by the city of Bremen to secure access to the ocean.", "A primary hub for the North Sea wind energy industry.", "Home to the 'Havenwelten' cultural district and a massive fishing port.", "Processes over 50 million tons of diverse cargo every year."],
-    }, image: "/poi-images/port-bremerhaven-extra.webp"},
+    },
+  },
 
   {
     id: "river-weser-hb-extra",
@@ -922,25 +1263,26 @@ export const poiExtraDe4a: POI[] = [
       de: [
       "Die Weser ist der einzige Strom Deutschlands, dessen Einzugsgebiet fast vollständig im Inland liegt.",
       "In Bremen ist die Weser durch das Weserwehr in Gezeiten (Unterweser) und Binnengewässer (Mittelweser) getrennt.",
-      "Die Weserpromenade \\'Schlachte\\' war historisch der Umschlagplatz für Koggen der Hanse.",
+      "Die Weserpromenade \'Schlachte\' war historisch der Umschlagplatz für Koggen der Hanse.",
       "Der Tidenhub (Unterschied zwischen Ebbe und Flut) in Bremen beträgt durch Flussbegradigungen heute über 4 Meter.",
-      "Das Segelschiff \\'Alexander von Humboldt\\', bekannt durch die Beck\\'s-Werbung, lagert oft an der Schlachte.",
-      "Eine kleine Personenfähre namens \\'Hal över\\' bringt Fußgänger und Radfahrer traditionell über den Fluss.",
+      "Das Segelschiff \'Alexander von Humboldt\', bekannt durch die Beck\'s-Werbung, lagert oft an der Schlachte.",
+      "Eine kleine Personenfähre namens \'Hal över\' bringt Fußgänger und Radfahrer traditionell über den Fluss.",
       "Der Flussabschnitt bis Bremerhaven ist künstlich tief ausgebaggert, um Seeschiffe aufzunehmen."
     ],
       hu: [
       "A Weser az egyetlen olyan folyó Németországban, amelynek vízgyűjtő területe szinte teljesen belföldön található.",
       "Brémában a Wesert a Weser-gát választja el árapályos (Unterweser) és belföldi vizekre (Mittelweser).",
-      "A \\'Schlachte\\' parti sétány történelmileg a Hanza koggék (teherhajók) rakodóhelye volt.",
+      "A \'Schlachte\' parti sétány történelmileg a Hanza koggék (teherhajók) rakodóhelye volt.",
       "Az árapálykülönbség (apadás és dagály közötti különbség) Brémában a folyószabályozás miatt ma már meghaladja a 4 métert.",
-      "Az \\'Alexander von Humboldt\\' vitorláshajó, amely a Beck\\'s sörreklámokból ismert, gyakran a Schlachtén horgonyoz.",
-      "Egy kis személyszállító komp, a \\'Hal över\\' hagyományosan szállítja át a gyalogosokat és a kerékpárosokat a folyón.",
+      "Az \'Alexander von Humboldt\' vitorláshajó, amely a Beck\'s sörreklámokból ismert, gyakran a Schlachtén horgonyoz.",
+      "Egy kis személyszállító komp, a \'Hal över\' hagyományosan szállítja át a gyalogosokat és a kerékpárosokat a folyón.",
       "A Bremerhavenig tartó folyószakaszt mesterségesen mélyre kotorták, hogy képes legyen tengerjáró hajókat fogadni."
     ],
       ro: [],
       en: ["The primary waterway connecting the city of Bremen with the world's oceans.", "The 'Schlachte' is the city's historic harbor and current main promenade.", "Historically the primary center for the German coffee and cotton trade.", "A vital lifeline for the local shipbuilding and aerospace industries.", "The river is tidal in Bremen, with a difference of up to 4 meters.", "Host of the historic 'Admiral von Schneider' and other traditional ships."],
     },
-    length: 452, image: "/poi-images/river-weser-hb-extra.webp"},
+    length: 452,
+  },
 
   {
     id: "district-altstadt-bremen-extra",
@@ -988,19 +1330,19 @@ export const poiExtraDe4a: POI[] = [
     factsAdvanced: {
       de: [
       "Die Altstadt wird von den Bremer Wallanlagen, den ältesten öffentlichen Parkanlagen Deutschlands, umrahmt.",
-      "Der Marktplatz der Altstadt wird wegen seiner Form und Funktion oft als die \\'gute Stube\\' Bremens bezeichnet.",
+      "Der Marktplatz der Altstadt wird wegen seiner Form und Funktion oft als die \'gute Stube\' Bremens bezeichnet.",
       "Der St.-Petri-Dom auf dem Marktplatz verfügt über einen Bleikeller, in dem natürlich mumifizierte Leichen ruhen.",
       "Nahe dem Marktplatz befindet sich die berühmte Bronzestatue der Bremer Stadtmusikanten.",
-      "Der \\'Spuckstein\\' am Domplatz erinnert an die Hinrichtung der Giftmörderin Gesche Gottfried im Jahr 1831.",
+      "Der \'Spuckstein\' am Domplatz erinnert an die Hinrichtung der Giftmörderin Gesche Gottfried im Jahr 1831.",
       "Die Schütting, das traditionsreiche Gildehaus der Kaufleute, liegt direkt gegenüber dem Rathaus.",
       "Die Bremer Baumwollbörse, einst weltweites Handelszentrum, hat ihren Sitz ebenfalls in der Altstadt."
     ],
       hu: [
       "Az óvárost a brémai sáncok (Wallanlagen) veszik körül, amelyek Németország legrégebbi nyilvános parkjai.",
-      "Az óváros piacterét formája és funkciója miatt gyakran Bréma \\'jó szobájának\\' (gute Stube) is nevezik.",
+      "Az óváros piacterét formája és funkciója miatt gyakran Bréma \'jó szobájának\' (gute Stube) is nevezik.",
       "A piactéren álló Szent Péter-dómnak van egy ólompincéje (Bleikeller), ahol természetes módon mumifikálódott holttestek nyugszanak.",
       "A piactér közelében található a brémai muzsikusok (Bremer Stadtmusikanten) híres bronzszobra.",
-      "A dóm téren található \\'Spuckstein\\' (köpködő kő) az 1831-ben kivégzett méregkeverő, Gesche Gottfried kivégzésére emlékeztet.",
+      "A dóm téren található \'Spuckstein\' (köpködő kő) az 1831-ben kivégzett méregkeverő, Gesche Gottfried kivégzésére emlékeztet.",
       "A Schütting, a kereskedők nagy hagyományokkal rendelkező céhruháza közvetlenül a városházával szemben található.",
       "A brémai pamuttőzsde, amely egykor világméretű kereskedelmi központ volt, szintén az óvárosban található."
     ],
@@ -1009,8 +1351,206 @@ export const poiExtraDe4a: POI[] = [
     },
   },
 
+  {
+    id: "landmark-stadtmusikanten-extra",
+    type: "kid-landmark",
+    parent: "DE-HB",
+    coords: [8.8062, 53.0752],
+    name: { de: "Bremer Stadtmusikanten", hu: "Brémai Muzsikusok", ro: "Muzicanții din Bremen", en: "Town Musicians of Bremen" },
+    description: {
+      de: "Die Bronzestatue der Bremer Stadtmusikanten steht vor dem Rathaus und ist das bekannteste Wahrzeichen Bremens. Das Märchen der Brüder Grimm macht Esel, Hund, Katze und Hahn weltberühmt.",
+      hu: "A brémai muzsikusok bronzszobra a városháza előtt áll, és Bréma legismertebb jelképe. A Grimm-testvérek meséje tette világhíressé a szamarat, a kutyát, a macskát és a kakast.",
+      ro: "Statuia din bronz a Muzicanților din Bremen se află în fața Primăriei și este cel mai cunoscut simbol al Bremei. Povestea fraților Grimm a făcut faimoși în toată lumea măgarul, câinele, pisica și cocoșul.",
+      en: "The bronze statue of the Town Musicians of Bremen stands in front of the City Hall and is Bremen's most famous landmark. The fairy tale by the Brothers Grimm made the donkey, dog, cat and rooster world-famous.",
+    },
+    facts: {
+      de: [
+        "Geschaffen vom Bildhauer Gerhard Marcks und 1953 aufgestellt.",
+        "Die Stadtmusikanten sind das Wappentier Bremens im übertragenen Sinne.",
+        "Es ist Volksbrauch, die Vorderbeine des Esels für Glück zu berühren.",
+        "Eine kleinere Kopie steht in der Partnerstadt Tel Aviv.",
+        "Das Märchen wurde von den Brüdern Jacob und Wilhelm Grimm gesammelt.",
+      ],
+      hu: [
+        "Gerhard Marcks szobrász alkotta; 1953-ban állították fel.",
+        "A muzsikusok átvitt értelemben Bréma jelképévé váltak.",
+        "Népi szokás szerint a szamár mellső lábát meg kell érinteni a szerencse érdekében.",
+        "Egy kisebb másolat áll a testvérvárosban, Tel-Avivban.",
+        "A mesét Jacob és Wilhelm Grimm testvérek gyűjtötték össze.",
+      ],
+      ro: [
+        "Creată de sculptorul Gerhard Marcks și instalată în 1953.",
+        "Muzicanții sunt, în sens figurat, animalul heraldic al Bremei.",
+        "Un obicei popular cere atingerea picioarelor din față ale măgarului pentru noroc.",
+        "O copie mai mică se află în orașul partener Tel Aviv.",
+        "Povestea a fost colectată de frații Jacob și Wilhelm Grimm.",
+      ],
+      en: [
+        "Created by sculptor Gerhard Marcks and erected in 1953.",
+        "The musicians have in a figurative sense become the heraldic animal of Bremen.",
+        "A folk custom requires touching the front legs of the donkey for good luck.",
+        "A smaller copy stands in the partner city of Tel Aviv.",
+        "The fairy tale was collected by brothers Jacob and Wilhelm Grimm.",
+      ],
+    },
+    descriptionAdvanced: { de: "Die Bronzestatue der Bremer Stadtmusikanten, versteckt an der Westseite des Bremer Rathauses, ist die wohl bekannteste und meistfotografierte Sehenswürdigkeit der Hansestadt. Geschaffen im Jahr 1953 vom Bildhauer Gerhard Marcks, stellt die Skulptur die Hauptfiguren des weltberühmten Märchens der Gebrüder Grimm dar: Ein Esel, darauf ein Hund, eine Katze und ein Hahn. Das Märchen handelt von vier alt gewordenen, verstoßenen Tieren, die gemeinsam ausziehen, um im fernen Bremen ein neues Leben in Freiheit zu beginnen und Stadtmusikanten zu werden. Obwohl sie Bremen im Märchen nie erreichen, sind sie das ultimative Symbol für Solidarität, Mut und den Neustart geworden. Touristen aus aller Welt berühren traditionell mit beiden Händen die Vorderbeine des Esels, da dies der Legende nach eine Extraportion Glück für die Zukunft bringt.", hu: "A brémai muzsikusok bronzszobra, amely a brémai városháza nyugati oldalán rejtőzik, valószínűleg a Hanza-város legismertebb és legtöbbet fényképezett látványossága. Az 1953-ban Gerhard Marcks szobrászművész által készített szobor a Grimm fivérek világhírű meséjének főszereplőit ábrázolja: egy szamarat, rajta egy kutyát, egy macskát és egy kakast. A mese négy megöregedett, kitaszított állatról szól, akik együtt indulnak útnak, hogy a távoli Brémában új, szabad életet kezdjenek, és városi muzsikusokká váljanak. Bár a mesében soha nem jutnak el Brémába, a szolidaritás, a bátorság és az újrakezdés végső szimbólumává váltak. A világ minden tájáról érkező turisták hagyományosan mindkét kezükkel megérintik a szamár mellső lábait, mivel a legenda szerint ez extra adag szerencsét hoz a jövőre nézve.", ro: "", en: "The Bremen Town Musicians (Die Bremer Stadtmusikanten) is the ultimate symbol of the city and its most beloved landmark. Based on the world-famous fairy tale by the Brothers Grimm, the bronze statue by Gerhard Marcks depicts the donkey, dog, cat, and rooster standing on top of each other. The story of the four aging animals who set out for Bremen to find a better life as musicians is a powerful tale of solidarity and hope. Today, visitors from all over the world come to the market square to touch the donkey's golden legs, which is said to bring good luck. The statue stands as a testament to the city's cultural heritage and its welcoming spirit, reminding everyone that 'you can always find something better than death.' Geschichte K5 – German fairy tales and the Brothers Grimm." },
+    factsAdvanced: {
+      de: [
+      "Die Skulptur wurde 1953 vom renommierten deutschen Bildhauer Gerhard Marcks gefertigt.",
+      "Die Beine und die Schnauze des Esels glänzen golden, weil Millionen Touristen sie als Glücksbringer reiben.",
+      "Wer nur mit einer Hand reibt, von dem sagt der Volksmund in Bremen: \'Dann reibt ein Esel dem anderen die Hand.\'",
+      "Das Märchen wurde 1819 in der zweiten Auflage der Kinder- und Hausmärchen der Brüder Grimm veröffentlicht.",
+      "Es gibt weltweit mehrere Kopien der Statue, unter anderem in Riga (Lettland), der Partnerstadt Bremens.",
+      "Die Bremer Stadtmusikanten gelten als ein internationales Symbol für den Mut zur Migration und Hoffnung.",
+      "Nahe der Statue gibt es ein unterirdisches Kanalgitter, das Münzen schluckt und dann die Tierstimmen abspielt."
+    ],
+      hu: [
+      "A szobrot 1953-ban Gerhard Marcks, a neves német szobrász készítette.",
+      "A szamár lábai és orra aranyszínben csillognak, mert turisták milliói dörzsölik meg szerencsehozóként.",
+      "Aki csak egy kézzel dörzsöli, arról a brémai népnyelv azt tartja: \'Akkor az egyik szamár a másik szamár kezét dörzsöli.\'",
+      "A mese 1819-ben jelent meg a Grimm fivérek Gyermek- és családi meséinek második kiadásában.",
+      "A szobornak világszerte több másolata is van, többek között Rigában (Lettország), Bréma testvérvárosában.",
+      "A brémai muzsikusokat a migrációhoz való bátorság és a remény nemzetközi szimbólumának tekintik.",
+      "A szobor közelében van egy földalatti csatornarács, amely érméket nyel el, majd lejátssza az állatok hangját."
+    ],
+      ro: [],
+      en: ["The most famous bronze sculpture in Bremen, created in 1953.", "Designed by the renowned artist Gerhard Marcks.", "Based on the Brothers Grimm fairy tale first published in 1819.", "Touching the donkey's front legs is said to bring good luck and return to Bremen.", "The animals never actually reached Bremen in the story, but the city became their symbol.", "A quintessential icon of solidarity and the 'Bremen Spirit'."],
+    },
+  },
 
+  {
+    id: "district-schnoorviertel-extra",
+    type: "historical",
+    parent: "DE-HB",
+    coords: [8.8100, 53.0740],
+    name: { de: "Schnoorviertel", hu: "Schnoor-negyed", ro: "Cartierul Schnoor", en: "Schnoor Quarter" },
+    description: {
+      de: "Das Schnoorviertel ist das älteste Stadtviertel Bremens mit engen, kopfsteingepflasterten Gassen und kleinen Fachwerkhäusern aus dem 15. und 16. Jahrhundert. Es ist eines der best erhaltenen mittelalterlichen Quartiere Norddeutschlands.",
+      hu: "A Schnoor-negyed Bréma legrégebbi városnegyede, szűk macskakőves utcácskákkal és a 15–16. századi kis favázas házakkal. Észak-Németország egyik legjobb állapotban megőrzött középkori negyede.",
+      ro: "Cartierul Schnoor este cel mai vechi cartier din Bremen, cu ulițe înguste pavate cu piatră cubică și casele mici cu structură din lemn din secolele XV-XVI. Este unul dintre cartierele medievale cel mai bine conservate din nordul Germaniei.",
+      en: "The Schnoor Quarter is Bremen's oldest neighborhood with narrow cobblestone lanes and small half-timbered houses from the 15th and 16th centuries. It is one of the best-preserved medieval quarters in northern Germany.",
+    },
+    facts: {
+      de: [
+        "Einst Wohnviertel einfacher Fischer und Handwerker.",
+        "Heute beherbergt es Galerien, Boutiquen, Cafés und Restaurants.",
+        "Die engen Gassen sind für den Autoverkehr gesperrt.",
+        "Einige Häuser sind nur 2–3 Meter breit.",
+        "Das Viertel überstand den Zweiten Weltkrieg weitgehend unbeschadet.",
+      ],
+      hu: [
+        "Egykor egyszerű halászok és kézművesek lakóhelye volt.",
+        "Ma galériák, butikkok, kávézók és éttermek találhatók itt.",
+        "A szűk utcácskák le vannak zárva az autóforgalom előtt.",
+        "Egyes házak mindössze 2–3 méter szélesek.",
+        "A negyed a második világháborút nagyrészt sértetlenül vészelte át.",
+      ],
+      ro: [
+        "Odinioară cartier rezidențial pentru pescari simpli și meșteșugari.",
+        "Astăzi găzduiește galerii, buticuri, cafenele și restaurante.",
+        "Ulițele înguste sunt închise traficului auto.",
+        "Unele case au doar 2-3 metri lățime.",
+        "Cartierul a supraviețuit celui de-al Doilea Război Mondial în mare parte intact.",
+      ],
+      en: [
+        "Once a residential area for simple fishermen and craftsmen.",
+        "Today it houses galleries, boutiques, cafes and restaurants.",
+        "The narrow lanes are closed to car traffic.",
+        "Some houses are only 2–3 metres wide.",
+        "The quarter survived World War II largely undamaged.",
+      ],
+    },
+    descriptionAdvanced: { de: "Das Schnoorviertel, liebevoll auch 'der Schnoor' genannt, ist das älteste und urigste Quartier der Hansestadt Bremen, verborgen unweit der Weserpromenade. Der Name leitet sich vom niederdeutschen Wort für 'Schnur' ab, was treffend die winzigen, dicht aneinandergereihten Häuschen beschreibt, die in den verwinkelten Gassen wie Perlen auf einer Schnur aufgefädelt sind. Früher war dies das raue Viertel der Fischer, Fluss-Schiffer und Seiler. Einige der schiefen und bunt bemalten Fachwerk- und Giebelhäuser stammen aus dem 15. und 16. Jahrhundert. In den 1950er Jahren vor dem Verfall gerettet, ist das charmante Quartier heute eine autofreie Oase voller kleiner Boutiquen, Kunsthandwerksstätten, Antiquariate und gemütlicher Cafés. Mit seinen winzigen Gassen, die oft so schmal sind, dass man die Häuserwände auf beiden Seiten gleichzeitig berühren kann, gleicht der Schnoor einem lebendigen Freilichtmuseum.", hu: "A Schnoor-negyed (Schnoorviertel), amelyet szeretetteljesen 'a Schnoor'-nak is neveznek, Bréma Hanza-város legősibb és legérdekesebb negyede, amely a Weser sétánya közelében rejtőzik. A név az alnémet 'zsinór' (Schnur) szóból származik, amely találóan írja le az apró, szorosan egymás mellé épült házikókat, amelyek a kanyargós utcákban úgy sorakoznak, mint gyöngyszemek a zsinóron. Korábban ez volt a halászok, folyami hajósok és kötélverők zord negyede. A ferde és színesre festett favázas és oromzatos házak egy része a 15. és 16. századból származik. Az 1950-es években a pusztulástól megmentett hangulatos negyed ma egy autómentes oázis, tele apró butikokkal, kézműves műhelyekkel, antikváriumokkal és hangulatos kávézókkal. Apró utcácskáival, amelyek gyakran olyan szűkek, hogy egyszerre lehet megérinteni mindkét oldalukon a házfalakat, a Schnoor egy élő szabadtéri múzeumhoz hasonlít.", ro: "", en: "The Schnoor is Bremen's oldest and most picturesque district, a narrow maze of tiny 15th and 16th-century houses that feel like a journey back to the Middle Ages. Its name, meaning 'String,' refers to the way the houses are strung together like beads on a wire. Historically, this was the quarter of fishermen, rope-makers, and artisans, located just steps from the Weser river. Today, the Schnoor is a vibrant cultural enclave, filled with artisan workshops, galleries, and tiny cafes that preserve its authentic, cozy atmosphere. Every corner of the district offers a new discovery, from the 'narrowest house' to the historic St. John's Church. It remains the most atmospheric part of Bremen, where the gritty maritime past has been transformed into a charming urban treasure. Geschichte K8 – Medieval urban life and artisan quarters." },
+    factsAdvanced: {
+      de: [
+      "Das Schnoorviertel ist das einzige Quartier Bremens, in dem eine mittelalterliche Bebauung vollständig erhalten ist.",
+      "Das älteste Haus des Viertels, das \'Haus Schnoor 15\', stammt aus dem Jahr 1402.",
+      "Die kleinste Gasse im Schnoor ist an ihrer engsten Stelle kaum einen halben Meter breit.",
+      "Früher lebten hier die Seiler, die Takelagen und Seile (\'Schnüre\') für die Segelschiffe herstellten.",
+      "Die im Quartier stehende Propsteikirche St. Johann ist die älteste katholische Kirche Bremens.",
+      "Das Haus \'Packhaus\' im Schnoor beherbergt das kleinste Hotel Deutschlands (mit nur einem Zimmer).",
+      "Es gibt im Schnoor ein Katzencafé und ein ganzjährig geöffnetes Weihnachtsartikel-Geschäft."
+    ],
+      hu: [
+      "A Schnoor-negyed az egyetlen negyed Brémában, ahol a középkori beépítettség teljes mértékben fennmaradt.",
+      "A negyed legrégebbi háza, a \'Haus Schnoor 15\' 1402-ből származik.",
+      "A Schnoor legkisebb sikátora a legszűkebb pontján alig fél méter széles.",
+      "Korábban kötélverők éltek itt, akik a vitorláshajók kötélzetét és köteleit (\'Schnüre\') készítették.",
+      "A negyedben található St. Johann prépostsági templom Bréma legrégebbi katolikus temploma.",
+      "A Schnoorban lévő \'Packhaus\' épület ad otthont Németország legkisebb szállodájának (mindössze egy szobával).",
+      "A Schnoorban található egy macskakávézó és egy egész évben nyitva tartó karácsonyi cikkeket árusító üzlet is."
+    ],
+      ro: [],
+      en: ["The oldest residential district of Bremen, dating back to the 13th century.", "Name derived from 'Schnur' (string), reflecting the narrow layout.", "Historically the home of the city's river fishermen and sailors.", "Features houses built as early as the year 1402.", "The district survived World War II with minimal damage.", "Now a major center for arts, crafts, and traditional gastronomy."],
+    },
+  },
 
+  {
+    id: "district-bremerhaven-city-extra",
+    type: "city",
+    parent: "DE-HB",
+    coords: [8.5800, 53.5400],
+    name: { de: "Bremerhaven", hu: "Bremerhaven", ro: "Bremerhaven", en: "Bremerhaven" },
+    description: {
+      de: "Bremerhaven ist die zweite Stadtgemeinde des Landes Bremen und liegt an der Wesermündung. Als wichtiger Hafen- und Fischereistandort hat die Stadt eine bewegte maritime Geschichte.",
+      hu: "Bremerhaven Bréma tartomány második városközössége, és a Weser torkolatánál fekszik. Fontos kikötő- és halászati helyként a városnak mozgalmas tengeri múltja van.",
+      ro: "Bremerhaven este a doua comună urbană a landului Bremen, situată la gura de vărsare a Weserului. Ca important port și centru de pescuit, orașul are o istorie maritimă agitată.",
+      en: "Bremerhaven is the second city municipality of the state of Bremen, located at the mouth of the Weser. As an important port and fishing location, the city has a turbulent maritime history.",
+    },
+    facts: {
+      de: [
+        "1827 vom Bürgermeister Johann Smidt als Vorhafen gegründet.",
+        "Deutsches Auswandererhaus erinnert an Millionen Auswanderer, die hier Europa verließen.",
+        "Das Deutsche Schifffahrtsmuseum ist das größte seiner Art in Deutschland.",
+        "Bremerhaven beherbergt eine bedeutende Fischverarbeitungsindustrie.",
+        "Das Klimahaus 8° Ost ist ein innovatives Klimaerlebnis-Museum.",
+      ],
+      hu: [
+        "1827-ben Johann Smidt polgármester alapította előkikötőként.",
+        "A Német Kivándorlók Háza emléket állít a millió kivándorlónak, aki innen hagyta el Európát.",
+        "A Német Hajózási Múzeum a maga nemében Németország legnagyobb múzeuma.",
+        "Bremerhaven fontos halfeldolgozó-iparnak ad otthont.",
+        "A Klimahaus 8° Ost innovatív klímaélmény-múzeum.",
+      ],
+      ro: [
+        "Fondată în 1827 de primarul Johann Smidt ca port avansat.",
+        "Casa Emigranților Germani comemocrează milioanele de emigranți care au plecat din Europa de aici.",
+        "Muzeul German de Navigație este cel mai mare de acest fel din Germania.",
+        "Bremerhaven găzduiește o industrie importantă de prelucrare a peștelui.",
+        "Klimahaus 8° Ost este un muzeu inovator al experienței climatice.",
+      ],
+      en: [
+        "Founded in 1827 by Mayor Johann Smidt as an outer port.",
+        "The German Emigration Center commemorates millions of emigrants who left Europe from here.",
+        "The German Maritime Museum is the largest of its kind in Germany.",
+        "Bremerhaven hosts an important fish processing industry.",
+        "The Klimahaus 8° Ost is an innovative climate experience museum.",
+      ],
+    },
+    descriptionAdvanced: { de: "Bremerhaven, die faszinierende Seestadt an der Nordsee, ist die zweite Stadt des Zwei-Städte-Staates Bremen. Im Jahr 1827 vom Bremer Bürgermeister Johann Smidt auf einem günstig gelegenen Stück Land an der Wesermündung gegründet, hat sich die Stadt stets immer wieder neu erfunden. Vom einstigen Vorhafen für den Auswanderer-Boom in die Neue Welt entwickelte sich die Hafenstadt zum Zentrum des Hochseefischfangs und der Schiffbauindustrie. Nach einem schweren wirtschaftlichen Strukturwandel in den späten 1980er Jahren wandelte sich Bremerhaven zu einem hochmodernen Hafen-, Forschungs- und Tourismusstandort. Die spektakuläre Meile der Havenwelten am Weserdeich ist das glänzende Symbol dieses Wandels: Hier reihen sich Weltklasse-Erlebnismuseen wie das Klimahaus (in Form eines gigantischen Glasbootes), das Deutsche Auswandererhaus und das Deutsche Schifffahrtsmuseum aneinander und ziehen jährlich hunderttausende Gäste an.", hu: "Bremerhaven, az Északi-tenger partján fekvő lenyűgöző tengerparti város, Bréma kétvárosos államának második városa. Johann Smidt brémai polgármester alapította 1827-ben egy kedvező fekvésű földdarabon a Weser torkolatánál, és a város azóta is folyamatosan újra feltalálja önmagát. Az Újvilágba irányuló kivándorlási bumm egykori előkikötőjéből a kikötőváros a mélytengeri halászat és a hajóépítő ipar központjává fejlődött. Az 1980-as évek végének súlyos gazdasági szerkezetváltása után Bremerhaven egy ultramodern kikötői, kutatási és turisztikai központtá alakult át. A Weser gátja mentén található látványos 'Havenwelten' (Kikötővilágok) ennek a változásnak a ragyogó szimbóluma: itt sorakoznak az olyan világszínvonalú élménymúzeumok, mint a Klimahaus (Klímaház) (egy gigantikus üveghajó formájában), a Német Kivándorlási Ház és a Német Tengerészeti Múzeum, amelyek évente százezreket vonzanak.", ro: "", en: "Bremerhaven City is a dynamic and modern waterfront district that reflects the city's role as a major maritime center. After undergoing a massive transformation, it is now home to the 'Havenwelten' (Harbor Worlds), a spectacular ensemble of architecture and science museums. The district's skyline is dominated by the 'Atlantic Hotel Sail City,' a sail-shaped skyscraper that offers panoramic views over the ports and the Weser estuary. Here, visitors can explore the German Emigration Center and the Klimahaus 8° Ost, reflecting the city's deep connection to the world and the environment. Bremerhaven City is a place where the energy of a working port meets high-end cultural tourism, creating a vibrant urban environment that is unique on the German coast. Földrajz K8 – Urban renewal and maritime tourism." },
+    factsAdvanced: {
+      de: [
+      "Bremerhaven ist die einzige deutsche Großstadt direkt am offenen Meer.",
+      "Die Stadt wurde 1827 offiziell gegründet und erlebte durch den Auswanderer-Boom ein rasantes Wachstum.",
+      "Das Klimahaus Bremerhaven 8° Ost ermöglicht Besuchern eine Reise durch alle Klimazonen der Erde.",
+      "Bremerhaven beheimatet das renommierte Alfred-Wegener-Institut (AWI) für Polar- und Meeresforschung.",
+      "Im Schaufenster Fischereihafen wird noch immer Fisch umgeschlagen und in historischen Backsteingebäuden verkauft.",
+      "Das höchste Gebäude der Stadt ist das Atlantic Hotel Sail City, das wie ein geblähtes Segel aussieht.",
+      "Der Zoo am Meer in Bremerhaven ist spezialisiert auf Eisbären, Pinguine und Meeressäuger."
+    ],
+      hu: [
+      "Bremerhaven az egyetlen német nagyváros, amely közvetlenül a nyílt tenger mellett fekszik.",
+      "A várost 1827-ben alapították hivatalosan, és a kivándorlási bumm révén gyors növekedést élt át.",
+      "A Klimahaus Bremerhaven 8° Ost (Keleti 8°) lehetővé teszi a látogatók számára, hogy a Föld összes éghajlati övezetén keresztül utazzanak.",
+      "Bremerhavenben található a neves Alfred Wegener Sark- és Tengerkutató Intézet (AWI).",
+      "A \'Schaufenster Fischereihafen\' (Halászkikötő Kirakat) nevű részen még mindig folyik a halak átrakodása és árusítása a történelmi téglaépületekben.",
+      "A város legmagasabb épülete az Atlantic Hotel Sail City, amely egy dagadó vitorlára hasonlít.",
+      "A bremerhaveni tengeri állatkert (Zoo am Meer) jegesmedvékre, pingvinekre és tengeri emlősökre specializálódott."
+    ],
+      ro: [],
+      en: ["Home to the 'Havenwelten', one of Germany's most successful urban renewal projects.", "Features the sail-shaped Atlantic Hotel, a modern city landmark.", "Location of the Klimahaus 8° Ost, a world-unique climate museum.", "The German Emigration Center is Europe's largest museum of its kind.", "A central hub for cruise ship passengers arriving in Germany.", "Offers a unique view of the massive 'Kaiserschleuse' lock system."],
+    },
+  },
 
   {
     id: "landmark-dom-bremen-extra",
@@ -1060,7 +1600,7 @@ export const poiExtraDe4a: POI[] = [
       "Die beiden Türme des Bremer Doms sind beeindruckende 92,31 Meter hoch.",
       "Im Inneren ruhen die Reste von Bischöfen und Erzbischöfen in prachtvollen Steinsarkophagen.",
       "Der Dom war ursprünglich katholisch, ist aber seit der Reformation eine evangelische Kirche.",
-      "Die sogenannte \\'Bibel aus Stein\\' an der Fassade zeigt komplexe Sandsteinreliefs mit christlichen Motiven.",
+      "Die sogenannte \'Bibel aus Stein\' an der Fassade zeigt komplexe Sandsteinreliefs mit christlichen Motiven.",
       "Im Dom-Museum werden seltene mittelalterliche Textilien und Reliquien aus alten Bischofsgräbern ausgestellt.",
       "Der Nordturm stürzte im 17. Jahrhundert unerwartet ein und wurde erst 200 Jahre später wieder aufgebaut.",
       "Im legendären Bleikeller lagerten einst Bleischmelzen für die Kirchendächer, woraus der Name entstand."
@@ -1069,14 +1609,15 @@ export const poiExtraDe4a: POI[] = [
       "A brémai dóm két tornya lenyűgöző 92,31 méter magas.",
       "Belsejében püspökök és érsekek maradványai nyugszanak pompás kőszarkofágokban.",
       "A dóm eredetileg katolikus volt, de a reformáció óta evangélikus templom.",
-      "A homlokzaton lévő úgynevezett \\'Kőből készült Biblia\\' összetett homokkő domborműveket mutat be keresztény motívumokkal.",
+      "A homlokzaton lévő úgynevezett \'Kőből készült Biblia\' összetett homokkő domborműveket mutat be keresztény motívumokkal.",
       "A dóm múzeumában régi püspöksírokból származó ritka középkori textíliákat és ereklyéket állítanak ki.",
       "Az északi torony a 17. században váratlanul összeomlott, és csak 200 évvel később építették újjá.",
       "A legendás Ólompincében egykor ólomolvasztókat tároltak a templomtetőkhöz, innen ered a név."
     ],
       ro: [],
       en: ["A massive twin-spired cathedral with a history dating back to 789 AD.", "The current structure is a mix of Romanesque and Gothic styles.", "Home to the 'Bleikeller', famous for its eight naturally preserved mummies.", "The cathedral's towers reach a height of approximately 89 meters.", "Features a world-class collection of medieval artifacts in the Dom-Museum.", "The primary burial site for the Archbishops of Bremen."],
-    }, image: "/poi-images/landmark-dom-bremen-extra.webp"},
+    },
+  },
 
   {
     id: "industry-airbus-bremen-extra",
@@ -1125,24 +1666,25 @@ export const poiExtraDe4a: POI[] = [
       de: [
       "Am Standort Bremen sind rund 4.500 hochqualifizierte Mitarbeiter für Airbus tätig.",
       "Jeder Tragflügel eines zivilen Airbus-Flugzeugs durchläuft in der Planung oder Fertigung die Bremer Hallen.",
-      "Das in Bremen gebaute Weltraumlabor \\'Columbus\\' ist seit 2008 Teil der internationalen Raumstation ISS.",
+      "Das in Bremen gebaute Weltraumlabor \'Columbus\' ist seit 2008 Teil der internationalen Raumstation ISS.",
       "In Bremen werden die gewaltigen Oberstufen für die europäische Trägerrakete Ariane 5 und Ariane 6 gefertigt.",
       "Historisch wurde in Bremen 1936 der erste funktionierende Hubschrauber der Welt (Focke-Wulf Fw 61) entwickelt.",
-      "Die Transportflugzeuge \\'Beluga\\' fliegen riesige Tragflächenteile aus Bremen zu den Endmontagelinien in Toulouse.",
+      "Die Transportflugzeuge \'Beluga\' fliegen riesige Tragflächenteile aus Bremen zu den Endmontagelinien in Toulouse.",
       "Das Werk besitzt eine der modernsten Anlagen für die Entwicklung von klimaschonendem Fliegen (Zero-Emission)."
     ],
       hu: [
       "A brémai telephelyen az Airbus mintegy 4500 magasan képzett munkatársat foglalkoztat.",
       "Minden civil Airbus repülőgép szárnya áthalad a brémai csarnokokon a tervezés vagy a gyártás során.",
-      "A Brémában épített \\'Columbus\\' űrlaboratórium 2008 óta a Nemzetközi Űrállomás (ISS) része.",
+      "A Brémában épített \'Columbus\' űrlaboratórium 2008 óta a Nemzetközi Űrállomás (ISS) része.",
       "Brémában gyártják az európai Ariane 5 és Ariane 6 hordozórakéták hatalmas felső fokozatait.",
       "Történelmileg 1936-ban Brémában fejlesztették ki a világ első működő helikopterét (Focke-Wulf Fw 61).",
-      "A \\'Beluga\\' szállító repülőgépek hatalmas szárnyalkatrészeket repítenek Brémából a toulouse-i végszerelő sorokra.",
+      "A \'Beluga\' szállító repülőgépek hatalmas szárnyalkatrészeket repítenek Brémából a toulouse-i végszerelő sorokra.",
       "A gyár az egyik legmodernebb létesítménnyel rendelkezik a klímabarát (kibocsátásmentes) repülés fejlesztésére."
     ],
       ro: [],
       en: ["The second-largest Airbus production site in Germany.", "A global center for wing assembly and flight control systems.", "Home to the production of the service module for NASA's Orion spacecraft.", "A major center for the assembly of the Ariane rocket stages.", "Employs approximately 4,500 highly specialized workers.", "Includes a unique 'Visitor Centre' for space and aviation enthusiasts."],
-    }, image: "/poi-images/industry-airbus-bremen-extra.webp"},
+    },
+  },
 
   {
     id: "district-boettcherstr-extra",
@@ -1192,23 +1734,24 @@ export const poiExtraDe4a: POI[] = [
       "Die Böttcherstraße ist genau 110 Meter lang und steht seit 1973 als Gesamtanlage unter Denkmalschutz.",
       "Das Lichtbringer-Relief von Bernhard Hoetger aus purem Gold ziert den markanten Eingang zur Straße.",
       "Das Paula Modersohn-Becker Museum wurde 1927 eröffnet und ist das älteste Museum für eine Künstlerin weltweit.",
-      "Ludwig Roselius finanzierte den Bau durch den Erfolg seines \\'Kaffee HAG\\' (erster entkoffeinierter Kaffee).",
+      "Ludwig Roselius finanzierte den Bau durch den Erfolg seines \'Kaffee HAG\' (erster entkoffeinierter Kaffee).",
       "Das Glockenspiel besteht aus 30 handgefertigten Glocken aus echtem Meißner Porzellan.",
-      "Die Architektur war den Nationalsozialisten zu modern; sie nannten es \\'entartete Kunst\\', ließen es aber stehen.",
+      "Die Architektur war den Nationalsozialisten zu modern; sie nannten es \'entartete Kunst\', ließen es aber stehen.",
       "Im Roselius-Haus finden sich wertvolle Kunstwerke aus dem Mittelalter und der Renaissance."
     ],
       hu: [
       "A Böttcherstraße pontosan 110 méter hosszú, és 1973 óta teljes egészként műemlékvédelem alatt áll.",
       "Az utca jellegzetes bejáratát Bernhard Hoetger tiszta aranyból készült Fényhozó-domborműve díszíti.",
       "A Paula Modersohn-Becker Múzeum 1927-ben nyílt meg, és a világ legrégebbi női művésznek szentelt múzeuma.",
-      "Ludwig Roselius a \\'Kaffee HAG\\' (az első koffeinmentes kávé) sikeréből finanszírozta az építkezést.",
+      "Ludwig Roselius a \'Kaffee HAG\' (az első koffeinmentes kávé) sikeréből finanszírozta az építkezést.",
       "A harangjáték 30 darab, valódi meisseni porcelánból készült, kézzel formált harangból áll.",
-      "Az építészet túl modern volt a nemzetiszocialisták számára; \\'elfajzott művészetnek\\' bélyegezték, de meghagyták.",
+      "Az építészet túl modern volt a nemzetiszocialisták számára; \'elfajzott művészetnek\' bélyegezték, de meghagyták.",
       "A Roselius-házban a középkorból és a reneszánsz korból származó értékes műalkotások találhatók."
     ],
       ro: [],
       en: ["A 100-meter long street and a unique ensemble of Brick Expressionism.", "Commissioned by Ludwig Roselius, the founder of Kaffee HAG.", "Features a carillon with 30 bells made of world-famous Meissen porcelain.", "Home to the Paula Modersohn-Becker Museum, the first dedicated to a female artist.", "The street was declared a protected monument in the year 1973.", "Includes the 'Haus des Glockenspiels' and the 'Robinson Crusoe House'."],
-    }, image: "/poi-images/district-boettcherstr-extra.webp"},
+    },
+  },
 
   {
     id: "port-container-bremerhaven-extra",
@@ -1260,7 +1803,7 @@ export const poiExtraDe4a: POI[] = [
       "Die größten Containerbrücken der Welt stehen hier; sie können Schiffe mit bis zu 24 Containerreihen be- und entladen.",
       "Bremerhaven ist über den direkten Hinterlandverkehr mit hunderten Güterzügen pro Woche vernetzt.",
       "Das Terminal wird vom Unternehmen EUROGATE betrieben und gehört zu den modernsten Anlagen Europas.",
-      "Vom Aussichtsturm \\'Container-Aussichtsturm\\' haben Besucher einen perfekten Panoramablick auf den laufenden Betrieb.",
+      "Vom Aussichtsturm \'Container-Aussichtsturm\' haben Besucher einen perfekten Panoramablick auf den laufenden Betrieb.",
       "Im Gegensatz zu Hamburg müssen die Schiffe hier nicht tideabhängig lange Flüsse hinauffahren."
     ],
       hu: [
@@ -1269,12 +1812,13 @@ export const poiExtraDe4a: POI[] = [
       "A világ legnagyobb konténerdarujai állnak itt; akár 24 konténersorral rendelkező hajókat is be- és ki tudnak rakodni.",
       "Bremerhaven közvetlen hátországi forgalom révén hetente több száz tehervonattal van összeköttetésben.",
       "A terminált az EUROGATE vállalat üzemelteti, és Európa legmodernebb létesítményei közé tartozik.",
-      "A \\'Konténer-kilátótoronyból\\' (Container-Aussichtsturm) a látogatók tökéletes panorámát élvezhetnek a folyamatban lévő műveletekre.",
+      "A \'Konténer-kilátótoronyból\' (Container-Aussichtsturm) a látogatók tökéletes panorámát élvezhetnek a folyamatban lévő műveletekre.",
       "Hamburggal ellentétben itt a hajóknak nem kell árapálytól függően hosszú folyókon felfelé haladniuk."
     ],
       ro: [],
       en: ["The fourth-largest container terminal in Europe.", "Features a continuous quay wall of 4,930 meters in length.", "Handles over 5.5 million TEU (standard containers) annually.", "Capable of servicing the world's largest container mega-vessels.", "Operated by Eurogate, a leading European container terminal operator.", "A primary hub for the export of German industrial and consumer goods."],
-    }, image: "/poi-images/port-container-bremerhaven-extra.webp"},
+    },
+  },
 
   {
     id: "landmark-universum-bremen-extra",
@@ -1325,8 +1869,8 @@ export const poiExtraDe4a: POI[] = [
       "Die Außenhaut besteht aus genau 40.000 handgefertigten Edelstahlschindeln, die in der Sonne glänzen.",
       "Das Universum Bremen hat seit seiner Eröffnung im Jahr 2000 über 8 Millionen Besucher angezogen.",
       "Die Ausstellungsfläche umfasst rund 4.000 Quadratmeter drinnen sowie einen großen Außenbereich.",
-      "Im Themenbereich \\'Natur\\' können Besucher in einem Raum ein Erdbeben der Stärke 6 spüren.",
-      "Das Zentrum folgt dem \\'Hands-on\\'-Prinzip, das heißt, fast alles darf und soll angefasst werden.",
+      "Im Themenbereich \'Natur\' können Besucher in einem Raum ein Erdbeben der Stärke 6 spüren.",
+      "Das Zentrum folgt dem \'Hands-on\'-Prinzip, das heißt, fast alles darf und soll angefasst werden.",
       "Ein 27 Meter hoher Turm im Außenpark bietet Experimente rund um das Thema Wind und Wetter."
     ],
       hu: [
@@ -1334,13 +1878,14 @@ export const poiExtraDe4a: POI[] = [
       "A külső burkolat pontosan 40 000, kézzel készített rozsdamentes acélzsindelyből áll, amelyek csillognak a napon.",
       "Az Universum Bremen a 2000-es megnyitása óta több mint 8 millió látogatót vonzott.",
       "A kiállítási terület körülbelül 4000 négyzetmétert foglal magában beltéren, valamint egy nagy külső területet.",
-      "A \\'Természet\\' tematikus részen a látogatók egy 6-os erősségű földrengést érezhetnek át egy szobában.",
-      "A központ a \\'Hands-on\\' (fogd meg) elvet követi, ami azt jelenti, hogy szinte mindent meg szabad és meg is kell érinteni.",
+      "A \'Természet\' tematikus részen a látogatók egy 6-os erősségű földrengést érezhetnek át egy szobában.",
+      "A központ a \'Hands-on\' (fogd meg) elvet követi, ami azt jelenti, hogy szinte mindent meg szabad és meg is kell érinteni.",
       "A külső parkban lévő 27 méter magas torony a szél és az időjárás témájához kínál kísérleteket."
     ],
       ro: [],
       en: ["An interactive science center with over 300 hands-on exhibits.", "The spectacular building is covered in 40,000 stainless steel shingles.", "Divided into three major themes: Mankind, Earth, and Cosmos.", "Located in the Technology Park near the University of Bremen.", "Attracts over 450,000 visitors annually since its opening in 2000.", "Features a 27-meter high 'Turm der Lüfte' observation tower."],
-    }, image: "/poi-images/landmark-universum-bremen-extra.webp"},
+    },
+  },
 
   {
     id: "district-viertel-bremen-extra",
@@ -1392,7 +1937,7 @@ export const poiExtraDe4a: POI[] = [
     },
     factsAdvanced: {
       de: [
-      "Das Viertel verdankt seinen architektonischen Charme den sogenannten \\'Bremer Häusern\\', die oft einen kleinen Vorgarten und Wintergarten haben.",
+      "Das Viertel verdankt seinen architektonischen Charme den sogenannten \'Bremer Häusern\', die oft einen kleinen Vorgarten und Wintergarten haben.",
       "In den 1970er Jahren verhinderten Proteste der Anwohner, dass das Viertel abgerissen und durch eine Stadtautobahn ersetzt wurde.",
       "Die Kunsthalle Bremen am Rand des Viertels beherbergt Kunstwerke aus sieben Jahrhunderten.",
       "Es ist das absolute Zentrum der Bremer Kneipen-, Club- und Kulturszene.",
@@ -1401,7 +1946,7 @@ export const poiExtraDe4a: POI[] = [
       "Der Ostertorsteinweg war früher Teil einer wichtigen historischen Handelsroute nach Osten."
     ],
       hu: [
-      "A Viertel építészeti varázsát az úgynevezett \\'brémai házaknak\\' köszönheti, amelyek gyakran kis előkerttel és télikerttel rendelkeznek.",
+      "A Viertel építészeti varázsát az úgynevezett \'brémai házaknak\' köszönheti, amelyek gyakran kis előkerttel és télikerttel rendelkeznek.",
       "Az 1970-es években a helyi lakosok tiltakozásai akadályozták meg, hogy a negyedet lerombolják, és egy városi autópályával helyettesítsék.",
       "A Viertel szélén található brémai Kunsthalle (Műcsarnok) hét évszázad művészeti alkotásainak ad otthont.",
       "Ez a brémai kocsma-, klub- és kulturális élet abszolút központja.",
@@ -1411,6 +1956,6 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["Bremen's most diverse district, known for its creative and alternative scene.", "Features the unique 'Bremer Haus' style of urban architecture.", "Home to the Kunsthalle Bremen, one of Germany's top art museums.", "The district has the highest density of bars and cafes in the city.", "Historically a rebellious and socially active neighborhood.", "A major center for street art and independent galleries."]
-    }, image: "/poi-images/district-viertel-bremen-extra.webp"},
+    },
+  },
 ];
-

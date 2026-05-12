@@ -47,9 +47,20 @@ function geographicFacts(poi: POI) {
 }
 
 export function generateStaticParams() {
+  // Csak az indexálható (gazdag tartalmú) POI-knak generálunk static page-et.
+  // Üres POI = nincs sitemap-bejegyzés + robots:noindex, így page sem kell.
+  // Ez dramatikusan csökkenti a build-időt (~27k POI × 4 lang ≪ csak az
+  // indexálhatók × 4).
   return SUPPORTED_LANGS.flatMap((lang) =>
     pois
-      .filter((poi) => poi && poi.parent && poi.type !== "region" && poi.type !== "country")
+      .filter(
+        (poi) =>
+          poi &&
+          poi.parent &&
+          poi.type !== "region" &&
+          poi.type !== "country" &&
+          hasIndexableContent(poi),
+      )
       .map((poi) => {
         const country = countrySlugFor(lang, getCountryId(poi.parent!));
         const statePath = buildStatePath(lang, poi.parent!).split("/").filter(Boolean);

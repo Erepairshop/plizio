@@ -1,7 +1,4 @@
-// @ts-nocheck
 import type { POI } from "./poi";
-import { monacoHistory } from "./poiExtraMonacoHistory";
-import { poiExtraMonacoOther } from "./poiExtraMonacoOther";
 
 export const monacoCountry: POI = {
   id: "country-monaco",
@@ -90,7 +87,8 @@ export const monacoDistricts: POI[] = [
       hu: ["1866-ban alapították", "A luxusturizmus központja", "Itt található a híres kaszinó", "A Forma-1-es pálya része"],
       ro: ["Fondat în 1866", "Centrul turismului de lux", "Găzduiește celebrul cazinou", "Parte a circuitului de Formula 1"],
       en: ["Founded in 1866", "Center of luxury tourism", "Home to the famous Casino", "Part of the Formula 1 circuit"]
-    }, image: "/poi-images/district-monte-carlo.webp"},
+    }
+  },
   {
     id: "district-fontvieille",
     type: "city",
@@ -108,7 +106,8 @@ export const monacoDistricts: POI[] = [
       hu: ["Az 1970-es években épült", "Itt található a II. Lajos Stadion", "Modern jachtkikötő", "Itt van a Grace hercegnő rózsakert"],
       ro: ["Construit în anii 1970", "Găzduiește Stadionul Louis II", "Port de iahturi modern", "Grădina de trandafiri Princess Grace se află aici"],
       en: ["Built in the 1970s", "Home to Louis II Stadium", "Modern yacht harbor", "Princess Grace Rose Garden is located here"]
-    }, image: "/poi-images/district-fontvieille.webp"},
+    }
+  },
   {
     id: "district-la-condamine",
     type: "city",
@@ -126,11 +125,31 @@ export const monacoDistricts: POI[] = [
       hu: ["A Port Hercules központja", "Hagyományos Condamine piac", "A nagydíj rajt-cél egyenese", "Változatos vásárlási lehetőségek"],
       ro: ["Centrul Portului Hercules", "Piața tradițională Condamine", "Linia de start-sosire a Marelui Premiu", "Opțiuni diverse de cumpărături"],
       en: ["Center of Port Hercules", "Traditional Condamine Market", "Start-finish line of the Grand Prix", "Diverse shopping options"]
-    }, image: "/poi-images/district-la-condamine.webp"}
+    }
+  }
 ];
 
 export const monacoLandmarks: POI[] = [
-    {
+  {
+    id: "landmark-princes-palace",
+    type: "landmark",
+    parent: "country-monaco",
+    coords: [7.4201, 43.7312],
+    name: { de: "Fürstenpalast", hu: "Hercegi palota", ro: "Palatul Princiar", en: "Prince's Palace" },
+    description: {
+      de: "Die offizielle Residenz des Fürsten von Monaco, ursprünglich im Jahr 1191 erbaut.",
+      hu: "Monaco hercegének hivatalos rezidenciája, eredetileg 1191-ben épült.",
+      ro: "Reședința oficială a Prințului de Monaco, construită inițial în 1191.",
+      en: "The official residence of the Prince of Monaco, originally built in 1191."
+    },
+    facts: {
+      de: ["Wachablösung täglich um 11:55 Uhr", "Frühere Festung der Genuesen", "Staatsgemächer sind für Besucher geöffnet", "Sitz der Familie Grimaldi"],
+      hu: ["Őrségváltás naponta 11:55-kor", "Egykori genovai erőd", "Az állami termek látogathatók", "A Grimaldi-család székhelye"],
+      ro: ["Schimbarea gărzii zilnic la 11:55", "Fostă fortăreață genoveză", "Apartamentele de stat sunt deschise vizitatorilor", "Sediul familiei Grimaldi"],
+      en: ["Changing of the Guard daily at 11:55", "Former Genoese fortress", "State apartments are open to visitors", "Seat of the Grimaldi family"]
+    }
+  },
+  {
     id: "landmark-casino-monte-carlo",
     type: "landmark",
     parent: "country-monaco",
@@ -166,8 +185,28 @@ export const monacoLandmarks: POI[] = [
       hu: ["I. Albert herceg alapította", "Jacques-Yves Cousteau sokáig az igazgatója volt", "Nagy akvárium az alagsorban", "Barokk építészet"],
       ro: ["Fondat de Prințul Albert I", "Jacques-Yves Cousteau a fost director mult timp", "Acvariu mare la subsol", "Arhitectură barocă"],
       en: ["Founded by Prince Albert I", "Jacques-Yves Cousteau was director for a long time", "Large aquarium in the basement", "Baroque architecture"]
-    }, image: "/poi-images/landmark-oceanographic-museum.webp"},
-    {
+    }
+  },
+  {
+    id: "landmark-monaco-cathedral",
+    type: "landmark",
+    parent: "country-monaco",
+    coords: [7.4226, 43.7301],
+    name: { de: "Kathedrale von Monaco", hu: "Monacói katedrális", ro: "Catedrala din Monaco", en: "Monaco Cathedral" },
+    description: {
+      de: "Die Kathedrale des Heiligen Nikolaus, in der viele Mitglieder der Grimaldi-Familie begraben sind.",
+      hu: "Szent Miklós-katedrális, ahol a Grimaldi-család számos tagja nyugszik.",
+      ro: "Catedrala Sfântul Nicolae, unde sunt înmormântați mulți membri ai familiei Grimaldi.",
+      en: "Saint Nicholas Cathedral, where many members of the Grimaldi family are buried."
+    },
+    facts: {
+      de: ["Grabstätte von Fürstin Gracia Patricia", "Erbaut im neoromanischen Stil", "Enthält Retabel von Ludovico Brea", "Ort für große kirchliche Zeremonien"],
+      hu: ["Grace Kelly nyughelye", "Neoromán stílusban épült", "Ludovico Brea szárnyasoltárát őrzi", "Nagy egyházi ceremóniák helyszíne"],
+      ro: ["Locul de odihnă al Prințesei Grace", "Construită în stil neoromanic", "Conține un retablu de Ludovico Brea", "Locul ceremoniilor religioase majore"],
+      en: ["Resting place of Princess Grace", "Built in Neo-Romanesque style", "Contains retable by Ludovico Brea", "Location for major religious ceremonies"]
+    }
+  },
+  {
     id: "landmark-jardin-exotique",
     type: "landmark",
     parent: "country-monaco",
@@ -184,7 +223,8 @@ export const monacoLandmarks: POI[] = [
       hu: ["1933-ban nyílt meg", "Panorámás kilátást nyújt a hercegségre", "Itt található az Obszervatórium-barlang", "Ritka sivatagi növények gyűjteménye"],
       ro: ["Deschisă în 1933", "Oferă vedere panoramică asupra principatului", "Grotte de l'Observatoire se află aici", "Colecție de plante rare de deșert"],
       en: ["Opened in 1933", "Offers panoramic views of the Principality", "Grotte de l'Observatoire is located here", "Collection of rare desert plants"]
-    }, image: "/poi-images/landmark-jardin-exotique.webp"},
+    }
+  },
   {
     id: "landmark-port-hercules",
     type: "landmark",
@@ -202,7 +242,8 @@ export const monacoLandmarks: POI[] = [
       hu: ["Monaco egyetlen mélyvízi kikötője", "Az ókor óta használják", "A Monaco Yacht Show helyszíne", "A nagydíj eseményeinek központja"],
       ro: ["Singurul port cu apă adâncă din Monaco", "Folosit încă din antichitate", "Locul de desfășurare a Monaco Yacht Show", "Centrul activităților Marelui Premiu"],
       en: ["Monaco's only deep-water port", "Used since ancient times", "Site of the Monaco Yacht Show", "Center of Grand Prix activity"]
-    }, image: "/poi-images/landmark-port-hercules.webp"},
+    }
+  },
   {
     id: "landmark-larvotto-beach",
     type: "landmark",
@@ -239,7 +280,8 @@ export const monacoLandmarks: POI[] = [
       hu: ["Yasuo Beppu tervezte", "Vízesést és koi-pontyos tavat is tartalmaz", "Több mint 7000 négyzetméter", "Hivatalos átadás 1994-ben"],
       ro: ["Proiectată de Yasuo Beppu", "Include o cascadă și un iaz cu pești koi", "Peste 7.000 de metri pătrați", "Inaugurată oficial în 1994"],
       en: ["Designed by Yasuo Beppu", "Features a waterfall and a koi pond", "Over 7,000 square meters", "Officially inaugurated in 1994"]
-    }, image: "/poi-images/landmark-japanese-garden.webp"},
+    }
+  },
   {
     id: "landmark-grimaldi-forum",
     type: "landmark",
@@ -257,8 +299,47 @@ export const monacoLandmarks: POI[] = [
       hu: ["UEFA sorsolások helyszíne", "Nagy nyári művészeti kiállítások", "Környezetbarát épület", "Nagyrészt a föld alatt épült"],
       ro: ["Locul desfășurării tragerilor la sorți UEFA", "Mari expoziții de artă vara", "Clădire ecologică", "Construită în mare parte subteran"],
       en: ["Venue for UEFA draws", "Large art exhibitions in summer", "Eco-friendly building", "Mostly built underground"]
-    }, image: "/poi-images/landmark-grimaldi-forum.webp"},
-      {
+    }
+  },
+  {
+    id: "landmark-saint-devote-chapel",
+    type: "landmark",
+    parent: "country-monaco",
+    coords: [7.4195, 43.7371],
+    name: { de: "Sainte-Dévote Kapelle", hu: "Szent Dévote kápolna", ro: "Capela Sainte-Dévote", en: "Sainte-Dévote Chapel" },
+    description: {
+      de: "Eine kleine Kapelle gewidmet der Schutzpatronin von Monaco.",
+      hu: "Kis kápolna Monaco védőszentjének szentelve.",
+      ro: "O mică chapelă dedicată patroanei spirituale a Monaco.",
+      en: "A small chapel dedicated to the patron saint of Monaco."
+    },
+    facts: {
+      de: ["Liegt in einer Senke des Grand Prix Kurses", "Sainte-Dévote ist die Schutzpatronin", "Ort der traditionellen Verbrennung eines Bootes am 26. Januar", "Erste Kurve der F1-Rennstrecke"],
+      hu: ["A nagydíj pálya egyik mélyedésében fekszik", "Szent Dévote a védőszent", "Január 26-án itt égetnek el hagyományosan egy csónakot", "A Forma-1-es pálya első kanyarja"],
+      ro: ["Situată într-o depresiune a circuitului de Mare Premiu", "Sainte-Dévote este patroana spirituală", "Locul tradiționalei arderi a unei bărci pe 26 ianuarie", "Prima curbă a circuitului de F1"],
+      en: ["Located in a dip of the Grand Prix course", "Sainte-Dévote is the patron saint", "Site of traditional boat burning on Jan 26", "First corner of the F1 circuit"]
+    }
+  },
+  {
+    id: "landmark-fort-antoine",
+    type: "landmark",
+    parent: "country-monaco",
+    coords: [7.4271, 43.7311],
+    name: { de: "Fort Antoine", hu: "Fort Antoine", ro: "Fort Antoine", en: "Fort Antoine" },
+    description: {
+      de: "Eine Festung aus dem 18. Jahrhundert, die heute als Freilichttheater genutzt wird.",
+      hu: "18. századi erődítmény, amelyet ma szabadtéri színházként használnak.",
+      ro: "O fortăreață din secolul al XVIII-lea, folosită astăzi ca teatru în aer liber.",
+      en: "An 18th-century fortress now used as an open-air theater."
+    },
+    facts: {
+      de: ["Erbaut von Fürst Antoine I.", "Blick auf das Mittelmeer", "Im Zweiten Weltkrieg zerstört und später wieder aufgebaut", "Bietet Platz für 350 Zuschauer"],
+      hu: ["I. Antoine herceg építtette", "Kilátás a Földközi-tengerre", "A második világháborúban elpusztult, később újjáépítették", "350 néző befogadására alkalmas"],
+      ro: ["Construit de Prințul Antoine I", "Vedere spre Marea Mediterană", "Distrus în al Doilea Război Mondial și reconstruit ulterior", "Capacitate de 350 de spectatori"],
+      en: ["Built by Prince Antoine I", "Overlooks the Mediterranean", "Destroyed in WWII and later rebuilt", "Accommodates 350 spectators"]
+    }
+  },
+  {
     id: "landmark-louis-ii-stadium",
     type: "landmark",
     parent: "country-monaco",
@@ -275,7 +356,8 @@ export const monacoLandmarks: POI[] = [
       hu: ["1985-ben adták át", "Mesterséges területen fekszik", "Kilenc jellegzetes ív", "Itt található egy úszóközpont is"],
       ro: ["Inaugurat în 1985", "Situat pe teren recuperat", "Nouă arcade distinctive", "Găzduiește și un centru de natație"],
       en: ["Inaugurated in 1985", "Located on reclaimed land", "Nine distinctive arches", "Also houses a swimming center"]
-    }, image: "/poi-images/landmark-louis-ii-stadium.webp"},
+    }
+  },
   {
     id: "landmark-top-cars-collection",
     type: "landmark",
@@ -293,7 +375,8 @@ export const monacoLandmarks: POI[] = [
       hu: ["Több mint 100 jármű látható", "Forma-1-es autókat is tartalmaz", "A hercegi család különleges hintói", "Fontvieille-ben található"],
       ro: ["Peste 100 de vehicule expuse", "Include mașini de Formula 1", "Trăsuri speciale ale familiei princiare", "Situată în Fontvieille"],
       en: ["Over 100 vehicles on display", "Includes Formula 1 cars", "Special carriages of the princely family", "Located in Fontvieille"]
-    }, image: "/poi-images/landmark-top-cars-collection.webp"},
+    }
+  },
   {
     id: "landmark-princess-grace-rose-garden",
     type: "landmark",
@@ -311,7 +394,8 @@ export const monacoLandmarks: POI[] = [
       hu: ["Több mint 300 rózsafajta", "1984-ben nyílt meg", "Szív alakú kialakítás", "A hercegnő bronzszobra"],
       ro: ["Peste 300 de soiuri de trandafiri", "Deschisă în 1984", "Design în formă de inimă", "Statuia de bronz a Prințesei"],
       en: ["Over 300 varieties of roses", "Opened in 1984", "Heart-shaped design", "Bronze statue of the Princess"]
-    }, image: "/poi-images/landmark-princess-grace-rose-garden.webp"},
+    }
+  },
   {
     id: "landmark-nmnm",
     type: "landmark",
@@ -329,7 +413,8 @@ export const monacoLandmarks: POI[] = [
       hu: ["Két helyszín: Villa Paloma és Villa Sauber", "Fókuszban a kortárs örökség", "Váltakozó kiállítások", "Fontos kulturális intézmény"],
       ro: ["Două locații: Villa Paloma și Villa Sauber", "Focus pe patrimoniul contemporan", "Expoziții temporare", "Instituție culturală importantă"],
       en: ["Two locations: Villa Paloma and Villa Sauber", "Focus on contemporary heritage", "Rotating exhibitions", "Key cultural institution"]
-    }, image: "/poi-images/landmark-nmnm.webp"},
+    }
+  },
   {
     id: "landmark-metropole-shopping",
     type: "landmark",
@@ -347,7 +432,8 @@ export const monacoLandmarks: POI[] = [
       hu: ["Kristálycsillárjairól ismert", "Luxusmárkák", "A Kaszinó tér közelében", "Különleges atmoszféra"],
       ro: ["Cunoscut pentru lustrele de cristal", "Branduri de lux", "Lângă Piața Cazinoului", "Ambianță deosebită"],
       en: ["Known for crystal chandeliers", "Luxury brands", "Near Casino Square", "Unique atmosphere"]
-    }, image: "/poi-images/landmark-metropole-shopping.webp"},
+    }
+  },
   {
     id: "landmark-opera-monte-carlo",
     type: "landmark",
@@ -365,7 +451,8 @@ export const monacoLandmarks: POI[] = [
       hu: ["1879-ben avatták fel", "Salle Garnier-nek is hívják", "Pompás aranyozás", "Kiváló akusztika"],
       ro: ["Inaugurată în 1879", "Numită și Salle Garnier", "Poleială somptuoasă", "Acustică excelentă"],
       en: ["Inaugurated in 1879", "Also called Salle Garnier", "Lavish gilding", "Excellent acoustics"]
-    }, image: "/poi-images/landmark-opera-monte-carlo.webp"},
+    }
+  },
   {
     id: "landmark-yacht-club",
     type: "landmark",
@@ -421,7 +508,8 @@ export const monacoLandmarks: POI[] = [
       hu: ["Híres játékosok lábnyomai", "A Grimaldi Forum közelében", "A Golden Foot Awards díjazottjai", "2003-ban adták át"],
       ro: ["Amprentele picioarelor unor jucători celebri", "Lângă Grimaldi Forum", "Acordate prin Golden Foot Awards", "Inaugurată în 2003"],
       en: ["Footprints of famous players", "Near the Grimaldi Forum", "Awarded via Golden Foot Awards", "Inaugurated in 2003"]
-    }, image: "/poi-images/landmark-champions-promenade.webp"},
+    }
+  },
   {
     id: "landmark-zoological-garden",
     type: "landmark",
@@ -439,8 +527,28 @@ export const monacoLandmarks: POI[] = [
       hu: ["III. Rainier herceg alapította 1954-ben", "Illegális kereskedelemből mentett vagy ajándékozott állatok", "Kilátás Fontvieille kikötőjére", "Egzotikus madarakra és főemlősökre szakosodott"],
       ro: ["Fondată în 1954 de Prințul Rainier III", "Găzduiește animale provenite din trafic ilegal sau donații", "Vedere spre portul Fontvieille", "Specializată pe păsări exotice și primate"],
       en: ["Founded in 1954 by Prince Rainier III", "Houses animals rescued from illegal trade or donations", "Overlooks Fontvieille harbor", "Specializes in exotic birds and primates"]
-    }, image: "/poi-images/landmark-zoological-garden.webp"},
-    {
+    }
+  },
+  {
+    id: "landmark-museum-prehistoric",
+    type: "landmark",
+    parent: "country-monaco",
+    coords: [7.4141, 43.7331],
+    name: { de: "Museum für prähistorische Anthropologie", hu: "Őstörténeti Antropológiai Múzeum", ro: "Muzeul de Antropologie Preistorică", en: "Museum of Prehistoric Anthropology" },
+    description: {
+      de: "Ein Museum, das die prähistorische Geschichte der Region dokumentiert.",
+      hu: "A régió őstörténetét dokumentáló múzeum.",
+      ro: "Un muzeu care documentează istoria preistorică a regiunii.",
+      en: "A museum documenting the prehistoric history of the region."
+    },
+    facts: {
+      de: ["Gegründet 1902", "Beinhaltet Funde aus lokalen Höhlen", "Čltestes Forschungsinstitut des Fürstentums", "Befindet sich im Exotischen Garten"],
+      hu: ["1902-ben alapították", "Helyi barlangokból származó leletek", "A hercegség legrégebbi kutatóintézete", "Az Egzotikus kertben található"],
+      ro: ["Fondat în 1902", "Conține descoperiri din peșterile locale", "Cea mai veche instituție de cercetare a principatului", "Situat în Grădina Exotică"],
+      en: ["Founded in 1902", "Includes finds from local caves", "Principality's oldest research institute", "Located in the Exotic Garden"]
+    }
+  },
+  {
     id: "landmark-place-du-casino",
     type: "landmark",
     parent: "country-monaco",
@@ -495,7 +603,8 @@ export const monacoLandmarks: POI[] = [
       hu: ["Télen korcsolyapálya", "Kilátás a szuperjachtokra", "A nagydíj pálya része", "Olimpiai méretű"],
       ro: ["Patinoar pe timp de iarnă", "Vedere spre super-iahturi", "Parte a circuitului de Mare Premiu", "Dimensiuni olimpice"],
       en: ["Ice rink in winter", "Views of superyachts", "Part of the Grand Prix course", "Olympic dimensions"]
-    }, image: "/poi-images/landmark-stade-nautique.webp"},
+    }
+  },
   {
     id: "landmark-stamp-museum",
     type: "landmark",
@@ -513,7 +622,8 @@ export const monacoLandmarks: POI[] = [
       hu: ["Ritka monacói bélyegek", "Érmék 1640-től kezdve", "Fontvieille-ben található", "1996-ban alapították"],
       ro: ["Timbre rare din Monaco", "Monede din 1640", "Situat în Fontvieille", "Fondat în 1996"],
       en: ["Rare Monaco stamps", "Coins dating back to 1640", "Located in Fontvieille", "Founded in 1996"]
-    }, image: "/poi-images/landmark-stamp-museum.webp"},
+    }
+  },
   {
     id: "landmark-theatre-princess-grace",
     type: "landmark",
@@ -531,7 +641,8 @@ export const monacoLandmarks: POI[] = [
       hu: ["1981-ben avatták fel", "A Boulevard d'Italie-n található", "Változatos program", "Egykor Cinema des Beaux-Arts"],
       ro: ["Inaugurat în 1981", "Situat pe Boulevard d'Italie", "Program diversificat", "Fostul Cinema des Beaux-Arts"],
       en: ["Inaugurated in 1981", "Located on Boulevard d'Italie", "Diverse programming", "Formerly Cinema des Beaux-Arts"]
-    }, image: "/poi-images/landmark-theatre-princess-grace.webp"},
+    }
+  },
   {
     id: "landmark-chapelle-misericorde",
     type: "landmark",
@@ -549,7 +660,8 @@ export const monacoLandmarks: POI[] = [
       hu: ["A 17. században épült", "A Place de la Mairie-n található", "Fontos vallási körmenetek", "Barokk belső tér"],
       ro: ["Construită în secolul al XVII-lea", "Situată în Place de la Mairie", "Procesiuni religioase importante", "Interior baroc"],
       en: ["Built in the 17th century", "Located on Place de la Mairie", "Important religious processions", "Baroque interior"]
-    }, image: "/poi-images/landmark-chapelle-misericorde.webp"},
+    }
+  },
   {
     id: "landmark-heliport",
     type: "landmark",
@@ -567,7 +679,8 @@ export const monacoLandmarks: POI[] = [
       hu: ["Közvetlenül a tengerparton Fontvieille-ben", "Repülési idő Nizzába kb. 7 perc", "Monaco egyetlen 'repülőtere'", "Rendszeres menetrend szerinti járatok"],
       ro: ["Direct pe malul mării în Fontvieille", "Timp de zbor spre Nisa aprox. 7 minute", "Singurul 'aeroport' din Monaco", "Zboruri regulate de linie"],
       en: ["Directly on the seafront in Fontvieille", "Flight time to Nice approx. 7 mins", "Monaco's only 'airport'", "Regular scheduled flights"]
-    }, image: "/poi-images/landmark-heliport.webp"}
+    }
+  }
 ];
 
 export const monacoRegionsPoi: POI[] = [
@@ -661,8 +774,9 @@ export const monacoRegionsPoi: POI[] = [
   }
 ];
 
-export const monacoAllPoi: POI[] = [monacoCountry,
+export const monacoAllPoi: POI[] = [
+  monacoCountry,
   ...monacoDistricts,
   ...monacoLandmarks,
-  ...monacoRegionsPoi, ...monacoHistory, ...poiExtraMonacoOther];
-
+  ...monacoRegionsPoi
+];

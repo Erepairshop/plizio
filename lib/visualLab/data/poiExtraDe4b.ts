@@ -1,9 +1,74 @@
-// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDe4b: POI[] = [
   // ─── DE-HH Hamburg (+15) ─────────────────────────────────────────────────────
 
+  {
+    id: "landmark-elbphilharmonie-hh-extra",
+    type: "landmark",
+    parent: "DE-HH",
+    coords: [9.9842, 53.5413],
+    name: { de: "Elbphilharmonie", hu: "Elbphilharmonie", ro: "Elbphilharmonie", en: "Elbphilharmonie" },
+    description: {
+      de: "Die Elbphilharmonie ist Hamburgs spektakulärstes Wahrzeichen, ein Konzerthaus auf einem historischen Kaispeicher im Hafen, das 2017 eröffnet wurde.",
+      hu: "Az Elbphilharmonie Hamburg leglátványosabb jelképe, egy 2017-ben megnyílt hangversenyterem egy történelmi kikötői raktár tetején.",
+      ro: "Elbphilharmonie este cel mai spectaculos simbol al Hamburgului, o sală de concerte deschisă în 2017, construită pe un depozit istoric din port.",
+      en: "The Elbphilharmonie is Hamburg's most spectacular landmark, a concert hall opened in 2017 atop a historic port warehouse.",
+    },
+    facts: {
+      de: [
+        "Die Fassade besteht aus 1.100 geschwungenen Glasscheiben.",
+        "Der Große Saal fasst 2.100 Zuschauer.",
+        "Das Gebäude ist 110 Meter hoch und thront über der Elbe.",
+        "Architekten waren Herzog & de Meuron aus der Schweiz.",
+        "Die Plaza in 37 Metern Höhe ist kostenlos zugänglich.",
+      ],
+      hu: [
+        "A homlokzat 1100 ívelt üvegtáblából áll.",
+        "A nagy terem 2100 nézőt fogad be.",
+        "Az épület 110 méter magas, és az Elba felett magasodik.",
+        "A tervezők a svájci Herzog & de Meuron irodából kerültek ki.",
+        "A 37 méter magasan lévő Plaza szabadon látogatható.",
+      ],
+      ro: [
+        "Fațada este formată din 1.100 de panouri de sticlă curbate.",
+        "Marea Sală are o capacitate de 2.100 de locuri.",
+        "Clădirea are 110 metri înălțime și domină Elba.",
+        "Arhitecții provin de la biroul elvețian Herzog & de Meuron.",
+        "Plaza de la 37 de metri înălțime este accesibilă gratuit.",
+      ],
+      en: [
+        "The façade consists of 1,100 curved glass panels.",
+        "The Grand Hall seats 2,100 visitors.",
+        "The building stands 110 metres tall above the Elbe.",
+        "Architects were the Swiss firm Herzog & de Meuron.",
+        "The Plaza at 37 metres elevation is freely accessible.",
+      ],
+    },
+    descriptionAdvanced: { de: "Die Elbphilharmonie, von den Hamburgern liebevoll 'Elphi' genannt, ist das unumstrittene neue architektonische und kulturelle Wahrzeichen der Hansestadt. Spektakulär am westlichen Punkt der HafenCity direkt an der Elbe gelegen, vereint das Gebäude historische Industriekultur mit modernster Architektur. Der Unterbau besteht aus dem historischen Kaispeicher A, einem massiven Backsteinbau von 1963, auf den ein atemberaubender, gläserner Neubau gesetzt wurde, dessen geschwungene Dachlandschaft an Wellen erinnert. Entworfen vom renommierten Schweizer Architekturbüro Herzog & de Meuron, wurde das Konzerthaus nach langer Bauzeit im Januar 2017 eröffnet. Das Herzstück ist der Große Saal, der nach dem Weinberg-Prinzip gestaltet wurde und dank der 'Weißen Haut' – einer speziellen Wandverkleidung aus 10.000 individuell gefrästen Gipsfaserplatten – eine weltweit einzigartige, brillante Akustik bietet.", hu: "Az Elbphilharmonie, amelyet a hamburgiak szeretetteljesen csak 'Elphi'-nek hívnak, a Hanza-város vitathatatlan új építészeti és kulturális jelképe. A HafenCity nyugati csücskén, közvetlenül az Elba partján látványosan elhelyezkedő épület a történelmi ipari kultúrát a legmodernebb építészettel ötvözi. Az alapzat a történelmi 'Kaispeicher A'-ból, egy 1963-as masszív téglaépületből áll, amelyre egy lélegzetelállító, üvegezett új épületet húztak fel, melynek ívelt tetőkiképzése hullámokra emlékeztet. A neves svájci Herzog & de Meuron építésziroda által tervezett koncerttermet hosszú építkezés után, 2017 januárjában nyitották meg. Központja a Nagyterem, amelyet a szőlőhegy-elv alapján alakítottak ki, és a 'Fehér bőr' (Weiße Haut) – egy 10 000 egyedileg mart gipszrostlemezből álló különleges falburkolat – révén világszerte egyedülálló, briliáns akusztikát kínál.", ro: "", en: "The Elbphilharmonie, affectionately known as 'Elphi,' is a spectacular concert hall and the modern architectural icon of Hamburg. Designed by Herzog & de Meuron, it perches like a shimmering glass wave atop a historic brick warehouse (Kaispeicher A) in the heart of the Port of Hamburg. Since its opening in 2017, it has become one of the most acoustically advanced venues in the world, featuring a Grand Hall designed on the 'vineyard' principle. The building is more than just a music venue; it is a city within a city, including a hotel, apartments, and the 'Plaza' – a public observation deck that offers breathtaking 360-degree views of the city and the Elbe. It stands as a symbol of Hamburg's maritime heritage fused with 21st-century innovation. Földrajz K8 – Urban renewal and modern architecture." },
+    factsAdvanced: {
+      de: [
+      "Die Elbphilharmonie ist an ihrer höchsten Stelle der geschwungenen Dachkonstruktion 110 Meter hoch.",
+      "Die frei zugängliche \'Plaza\' auf 37 Metern Höhe bietet einen 360-Grad-Panoramablick über Hamburg.",
+      "Der Bau verschlang letztendlich rund 866 Millionen Euro (ursprünglich geplant waren 77 Millionen).",
+      "Die Rolltreppe (die \'Tube\') zur Plaza ist 82 Meter lang und Europas längste gebogene Rolltreppe.",
+      "Die Glasfassade besteht aus 1.100 bedruckten und teils gebogenen Fensterelementen.",
+      "Die Akustik im Großen Saal wurde vom weltberühmten japanischen Akustiker Yasuhisa Toyota entworfen.",
+      "Neben den Konzertsälen beherbergt das Gebäude ein Luxushotel, exklusive Wohnungen und Restaurants."
+    ],
+      hu: [
+      "Az Elbphilharmonie az ívelt tetőszerkezetének legmagasabb pontján 110 méter magas.",
+      "A 37 méteres magasságban lévő, szabadon látogatható \'Plaza\' 360 fokos panorámát nyújt Hamburgra.",
+      "Az építkezés végül mintegy 866 millió eurót emésztett fel (eredetileg 77 milliót terveztek).",
+      "A Plazához vezető mozgólépcső (a \'Tube\') 82 méter hosszú, és Európa leghosszabb ívelt mozgólépcsője.",
+      "Az üveghomlokzat 1100 nyomtatott és részben hajlított ablakelemből áll.",
+      "A Nagyterem akusztikáját a világhírű japán akusztikus, Toyota Jaszuhisza tervezte.",
+      "A koncerttermek mellett az épületben egy luxusszálloda, exkluzív lakások és éttermek is helyet kaptak."
+    ],
+      ro: [],
+      en: ["A 110-meter high architectural masterpiece designed by Herzog & de Meuron.", "Built on top of a historic 1960s warehouse used for cocoa and coffee.", "The Grand Hall features 10,000 uniquely shaped gypsum fiber plates for acoustics.", "The Plaza observation deck is located at a height of 37 meters.", "Features the world's first curved escalator, measuring 82 meters.", "Completed in 2017 after a decade of construction and significant cost increases."],
+    },
+  },
 
   {
     id: "historical-speicherstadt-hh-extra",
@@ -69,8 +134,75 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["UNESCO World Heritage site and the largest warehouse complex globally.", "Built on thousands of oak piles in the Elbe river marsh.", "Features a unique 'Brick Gothic' (Backsteingotik) architectural style.", "The district spans an area of approximately 26 hectares.", "Historically the primary center for the global trade of coffee and spices.", "Home to the Miniatur Wunderland, the world's largest model railway."],
-    }, image: "/poi-images/historical-speicherstadt-hh-extra.webp"},
+    },
+  },
 
+  {
+    id: "port-hamburger-hafen-extra",
+    type: "port",
+    parent: "DE-HH",
+    coords: [9.9600, 53.5380],
+    name: { de: "Hamburger Hafen", hu: "Hamburgi kikötő", ro: "Portul Hamburg", en: "Port of Hamburg" },
+    description: {
+      de: "Der Hamburger Hafen ist der drittgrößte Containerhafen Europas und das wirtschaftliche Herzstück der Stadt, gelegen an der Tideelbe.",
+      hu: "A hamburgi kikötő Európa harmadik legnagyobb konténerkikötője és a város gazdasági magja, amely az ár-apály hatásának kitett Elbán helyezkedik el.",
+      ro: "Portul Hamburg este al treilea port de containere ca mărime din Europa și nucleul economic al orașului, situat pe Elba cu maree.",
+      en: "The Port of Hamburg is Europe's third-largest container port and the city's economic heartbeat, located on the tidal Elbe.",
+    },
+    facts: {
+      de: [
+        "Gegründet im Jahr 1189, hat er über 830 Jahre Geschichte.",
+        "Jährlich werden rund 130 Millionen Tonnen Güter umgeschlagen.",
+        "Der Hafen beschäftigt direkt und indirekt über 150.000 Menschen.",
+        "Das Hamburger Hafengeburtstag ist das weltgrößte Hafenfest.",
+        "Hamburg gilt als 'Tor zur Welt' aufgrund seiner globalen Handelsverbindungen.",
+      ],
+      hu: [
+        "1189-ben alapítva, több mint 830 év történelemmel rendelkezik.",
+        "Évente körülbelül 130 millió tonna árut kezelnek itt.",
+        "A kikötő közvetve és közvetlenül több mint 150 000 embert foglalkoztat.",
+        "A Hamburger Hafengeburtstag a világ legnagyobb kikötőfesztiválja.",
+        "Hamburg 'a világ kapujaként' ismert globális kereskedelmi kapcsolatai miatt.",
+      ],
+      ro: [
+        "Fondat în 1189, are o istorie de peste 830 de ani.",
+        "Anual se manipulează circa 130 de milioane de tone de mărfuri.",
+        "Portul angajează direct și indirect peste 150.000 de oameni.",
+        "Hamburger Hafengeburtstag este cel mai mare festival portuor din lume.",
+        "Hamburg este cunoscut drept 'Poarta către lume' datorită legăturilor comerciale globale.",
+      ],
+      en: [
+        "Founded in 1189, it has over 830 years of history.",
+        "Around 130 million tonnes of goods are handled annually.",
+        "The port employs over 150,000 people directly and indirectly.",
+        "The Hamburger Hafengeburtstag is the world's largest port festival.",
+        "Hamburg is known as 'Gateway to the World' for its global trade links.",
+      ],
+    },
+    descriptionAdvanced: { de: "Der Hamburger Hafen, oft stolz als das 'Tor zur Welt' bezeichnet, ist der größte Seehafen Deutschlands und der drittgrößte in Europa. Obwohl Hamburg über 100 Kilometer von der offenen Nordsee entfernt liegt, können dank der tief ausgebaggerten Fahrrinne der Elbe die größten Containerschiffe der Welt an den modernen Terminals anlegen. Der 1189 durch einen angeblichen Freibrief von Kaiser Friedrich Barbarossa gegründete Hafen war der entscheidende Motor für Hamburgs Aufstieg zur wohlhabenden Hansestadt. Heute ist er ein gigantischer, hochmoderner Logistik-Knotenpunkt, der eine Fläche von rund 7.100 Hektar umfasst – das entspricht etwa einem Zehntel des gesamten Hamburger Stadtgebiets. Neben den riesigen Containerbrücken und Kreuzfahrtterminals prägen historische Museumsschiffe wie die 'Rickmer Rickmers' und die St. Pauli-Landungsbrücken, von wo aus die beliebten Hafenrundfahrten starten, das maritime Flair der Elbmetropole.", hu: "A hamburgi kikötő, amelyet gyakran büszkén a 'Világ kapujának' is neveznek, Németország legnagyobb és Európa harmadik legnagyobb tengeri kikötője. Bár Hamburg több mint 100 kilométerre fekszik a nyílt Északi-tengertől, az Elba mélyre kotort hajózóútjának köszönhetően a világ legnagyobb konténerszállító hajói is kiköthetnek a modern terminálokon. Az 1189-ben állítólag Barbarossa Frigyes császár kiváltságlevele révén alapított kikötő volt a döntő mozgatórugója Hamburg gazdag Hanza-várossá válásának. Ma egy gigantikus, ultramodern logisztikai csomópont, amely mintegy 7100 hektáros területet foglal el – ez nagyjából a teljes hamburgi városterület egytizedének felel meg. A hatalmas konténerdaruk és hajóterminálok mellett a történelmi múzeumhajók, mint a 'Rickmer Rickmers', és a St. Pauli-Landungsbrücken (kikötőhidak) – ahonnan a népszerű kikötői sétahajózások indulnak – adják az Elba-parti metropolisz tengeri hangulatát.", ro: "", en: "The Port of Hamburg is Germany's 'Gateway to the World' and one of the largest and most efficient maritime hubs in Europe. Located on the Elbe river, approximately 100 kilometers from the North Sea, it has been the city's economic heart since the 12th century. The port is a titan of global trade, handling over 8 million containers every year at its high-tech terminals like Altenwerder and Burchardkai. Visitors can experience the intense energy of the harbor on a 'Barkassen' boat tour, passing giant container ships, historic sailing vessels, and the massive Blohm+Voss shipyards. The port's unique mix of historic maritime tradition and futuristic logistics makes it a defining feature of the North German landscape and a vital engine for the European economy. Földrajz K7 – Global trade routes and river ports." },
+    factsAdvanced: {
+      de: [
+      "Der Hafen erstreckt sich über ein Zehntel der Gesamtfläche Hamburgs (7.145 Hektar).",
+      "Hamburg ist der drittgrößte Containerhafen Europas nach Rotterdam und Antwerpen.",
+      "Jährlich werden hier rund 8 Millionen Standardcontainer (TEU) und 110 Millionen Tonnen Fracht umgeschlagen.",
+      "Der Hamburger Hafengeburtstag wird jedes Jahr im Mai gefeiert und zieht über eine Million Besucher an.",
+      "Das Containerterminal Altenwerder (CTA) gilt als eines der modernsten und am höchsten automatisierten der Welt.",
+      "Rund 150.000 Arbeitsplätze in der Metropolregion hängen direkt oder indirekt vom Hafen ab.",
+      "Durch den Hafen führen drei Unterwassertunnel: der alte (1911) und der neue Elbtunnel sowie ein dritter für Fernwärme."
+    ],
+      hu: [
+      "A kikötő Hamburg teljes területének egytizedére terjed ki (7145 hektár).",
+      "Hamburg Európa harmadik legnagyobb konténerkikötője Rotterdam és Antwerpen után.",
+      "Évente mintegy 8 millió szabványos konténert (TEU) és 110 millió tonna rakományt raknak itt át.",
+      "A hamburgi kikötő születésnapját minden év májusában ünneplik, és több mint egymillió látogatót vonz.",
+      "Az Altenwerder konténerterminált (CTA) a világ egyik legmodernebb és legautomatizáltabb termináljának tartják.",
+      "A metropoliszrégióban mintegy 150 000 munkahely függ közvetlenül vagy közvetve a kikötőtől.",
+      "A kikötő alatt három víz alatti alagút vezet át: a régi (1911) és az új Elba-alagút, valamint egy harmadik a távfűtéshez."
+    ],
+      ro: [],
+      en: ["Germany's largest seaport and the third-busiest in Europe.", "Located 110 kilometers inland from the North Sea on the Elbe river.", "Handles approximately 130 million tons of cargo annually.", "The port area covers roughly 10% of the entire city-state of Hamburg.", "Founded in 1189 by Emperor Frederick Barbarossa.", "Home to the Köhlbrand Bridge, a spectacular 3.6-kilometer long landmark."],
+    },
+  },
 
   {
     id: "historical-rathaus-hamburg-extra",
@@ -120,7 +252,7 @@ export const poiExtraDe4b: POI[] = [
       "Das Rathaus verfügt über genau 647 Zimmer und ist damit größer als der Londoner Buckingham Palace.",
       "Es ruht im weichen Boden nahe der Alster auf rund 4.000 Eichenpfählen.",
       "Die Fassade zeigt 20 Bronzestatuen deutscher Kaiser, doch darüber thronen Figuren, die die bürgerlichen Tugenden darstellen.",
-      "Über dem Hauptportal steht der lateinische Spruch: \\'Die Freiheit, die die Vorfahren errangen, möge die Nachwelt würdig erhalten\\'.",
+      "Über dem Hauptportal steht der lateinische Spruch: \'Die Freiheit, die die Vorfahren errangen, möge die Nachwelt würdig erhalten\'.",
       "Der prunkvolle Große Festsaal ist 46 Meter lang und mit gigantischen Wandgemälden der Hamburger Geschichte verziert.",
       "Der Rathaus-Turm ist 112 Meter hoch und damit eines der höchsten Gebäude der Altstadt.",
       "Im Innenhof befindet sich der Hygieia-Brunnen, der an die verheerende Cholera-Epidemie von 1892 erinnert."
@@ -129,14 +261,15 @@ export const poiExtraDe4b: POI[] = [
       "A városháza pontosan 647 szobával rendelkezik, így nagyobb, mint a londoni Buckingham-palota.",
       "Az Alsterhez közeli puha talajban mintegy 4000 tölgyfacölöpön nyugszik.",
       "A homlokzaton 20 német császár bronzszobra látható, de felettük a polgári erényeket megjelenítő alakok trónolnak.",
-      "A főportál felett ez a latin mondás áll: \\'A szabadságot, melyet az ősök kivívtak, az utókor őrizze meg méltóan\\'.",
+      "A főportál felett ez a latin mondás áll: \'A szabadságot, melyet az ősök kivívtak, az utókor őrizze meg méltóan\'.",
       "A pompás Nagy Díszterem 46 méter hosszú, és Hamburg történetét ábrázoló gigantikus falfestmények díszítik.",
       "A városháza tornya 112 méter magas, ezzel az óváros egyik legmagasabb épülete.",
       "A belső udvaron található a Hygieia-kút, amely az 1892-es pusztító kolerajárványra emlékeztet."
     ],
       ro: [],
       en: ["The seat of the Hamburg Parliament and the Senate since 1897.", "Features a 112-meter high central tower and 647 rooms.", "Built on over 4,000 oak piles to stabilize it on the marshy soil.", "The facade displays 20 statues representing the German Emperors.", "The Grand Ballroom is 46 meters long and decorated with historic murals.", "Includes a spectacular courtyard with the Hygieia Fountain."],
-    }, image: "/poi-images/historical-rathaus-hamburg-extra.webp"},
+    },
+  },
 
   {
     id: "landmark-reeperbahn-hh-extra",
@@ -189,7 +322,7 @@ export const poiExtraDe4b: POI[] = [
       "Die Herbertstraße ist eine Seitenstraße, die durch Sichtblenden abgesperrt ist; der Zutritt für Frauen und Minderjährige ist verboten.",
       "Die Straße war ursprünglich ein reines Gewerbegebiet für die Seil- und Taufabrikation.",
       "Jedes Jahr im September findet das Reeperbahn Festival statt, Europas größtes Clubfestival.",
-      "Der Beatles-Platz an der Einmündung zur Großen Freiheit erinnert mit Stahlskulpturen an die \\'Fab Four\\'."
+      "Der Beatles-Platz an der Einmündung zur Großen Freiheit erinnert mit Stahlskulpturen an die \'Fab Four\'."
     ],
       hu: [
       "A Reeperbahn pontosan 930 méter hosszú, és a Millerntortól a Nobistorig húzódik.",
@@ -198,11 +331,12 @@ export const poiExtraDe4b: POI[] = [
       "A Herbertstraße egy mellékutca, amelyet paravánokkal zártak el; a nők és kiskorúak belépése tilos.",
       "Az utca eredetileg egy tisztán kereskedelmi/ipari terület volt a kötélgyártás számára.",
       "Minden év szeptemberében rendezik meg a Reeperbahn Fesztivált, Európa legnagyobb klubfesztiválját.",
-      "A Große Freiheit torkolatánál található Beatles tér (Beatles-Platz) acélszobrokkal emlékezik a \\'Fab Four\\'-ra."
+      "A Große Freiheit torkolatánál található Beatles tér (Beatles-Platz) acélszobrokkal emlékezik a \'Fab Four\'-ra."
     ],
       ro: [],
       en: ["The world-famous nightlife and red-light district of Hamburg-St. Pauli.", "The site where The Beatles began their rise to global fame in 1960.", "Home to the Davidwache, the most famous police station in Germany.", "Host of the Reeperbahn Festival, a major event for the international music industry.", "The name derives from 'Reepschläger' (rope-makers) who worked here.", "Features the Hans-Albers-Platz and the historic Star-Club site."],
-    }, image: "/poi-images/landmark-reeperbahn-hh-extra.webp"},
+    },
+  },
 
   {
     id: "river-alster-hh-extra",
@@ -253,7 +387,7 @@ export const poiExtraDe4b: POI[] = [
       "Die Außenalster ist rund 1,6 Quadratkilometer groß und meist nur etwa 2,5 Meter tief.",
       "Mitten in der Binnenalster sprudelt die 60 Meter hohe Alsterfontäne, ein Wahrzeichen der Innenstadt.",
       "Der Rundweg um die Außenalster ist genau 7,4 Kilometer lang und Hamburgs beliebteste Joggingstrecke.",
-      "Im Winter kann die Alster manchmal so stark zufrieren, dass das berühmte \\'Alstereisvergnügen\\' stattfindet (zuletzt 2012).",
+      "Im Winter kann die Alster manchmal so stark zufrieren, dass das berühmte \'Alstereisvergnügen\' stattfindet (zuletzt 2012).",
       "Auf der Alster gilt ein generelles Verbot für Motorboote (ausgenommen Polizei, Feuerwehr und Alsterdampfer).",
       "Ursprünglich wurde der Fluss im Jahr 1190 aufgestaut, um eine große Wassermühle anzutreiben."
     ],
@@ -262,13 +396,14 @@ export const poiExtraDe4b: POI[] = [
       "Az Außenalster (Külső-Alster) területe mintegy 1,6 négyzetkilométer, mélysége többnyire csak kb. 2,5 méter.",
       "A Binnenalster közepén csobog a 60 méter magas Alster-szökőkút, amely a belváros egyik jelképe.",
       "Az Außenalster körüli sétaút pontosan 7,4 kilométer hosszú, és ez Hamburg legnépszerűbb futóútvonala.",
-      "Télen az Alster néha olyan erősen befagyhat, hogy megrendezik a híres \\'Alstereisvergnügen\\' (Alsteri jégünnep) eseményt (legutóbb 2012-ben).",
+      "Télen az Alster néha olyan erősen befagyhat, hogy megrendezik a híres \'Alstereisvergnügen\' (Alsteri jégünnep) eseményt (legutóbb 2012-ben).",
       "Az Alsteren általános tilalom van érvényben a motorcsónakokra (kivéve a rendőrséget, a tűzoltóságot és az Alster-gőzhajókat).",
       "A folyót eredetileg 1190-ben duzzasztották fel egy nagy vízimalom meghajtására."
     ],
       ro: [],
       en: ["A 56-kilometer long tributary of the Elbe river.", "The Outer Alster lake covers an area of 164 hectares.", "The Alster Fountain in the Inner Alster can reach a height of 60 meters.", "Surrounded by a 7.4-kilometer long popular jogging and walking path.", "Home to the historic 'Alsterdampfer' white fleet of passenger boats.", "A central hub for traditional German sailing and rowing clubs."],
-    }, image: "/poi-images/river-alster-hh-extra.webp"},
+    },
+  },
 
   {
     id: "city-altona-hh-extra",
@@ -316,7 +451,7 @@ export const poiExtraDe4b: POI[] = [
     factsAdvanced: {
       de: [
       "Altona war über 200 Jahre lang eine dänische Stadt und genoss eine sehr liberale Verfassung.",
-      "Der Name \\'Altona\\' stammt der Legende nach von einem Hamburger Wirt, dem der Konkurrent \\'all to nah\\' (allzu nah) war.",
+      "Der Name \'Altona\' stammt der Legende nach von einem Hamburger Wirt, dem der Konkurrent \'all to nah\' (allzu nah) war.",
       "Das Altonaer Rathaus ist ein prachtvoller klassizistischer Bau, der ursprünglich als Bahnhof diente.",
       "Der Altonaer Fischmarkt findet seit 1703 traditionell jeden Sonntagmorgen statt.",
       "Der alte Elbtunnel von 1911 verbindet Altona direkt mit dem Hafengebiet auf der anderen Elbseite.",
@@ -325,7 +460,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       hu: [
       "Altona több mint 200 évig dán város volt, és nagyon liberális alkotmányt élvezett.",
-      "Az \\'Altona\\' név a legenda szerint egy hamburgi fogadóshoz fűződik, akinek a versenytárs \\'all to nah\\' (túl közel) volt.",
+      "Az \'Altona\' név a legenda szerint egy hamburgi fogadóshoz fűződik, akinek a versenytárs \'all to nah\' (túl közel) volt.",
       "Az Altonai Városháza egy pompás klasszicista épület, amely eredetileg vasútállomásként szolgált.",
       "Az Altonai Halpiacot 1703 óta hagyományosan minden vasárnap reggel megrendezik.",
       "Az 1911-ből származó régi Elba-alagút közvetlenül köti össze Altonát a folyó túlpartján lévő kikötőterülettel.",
@@ -334,7 +469,8 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["Founded as a fishing village and was an independent Danish city until 1867.", "Home to the Altona Fish Market, a world-famous Sunday morning tradition.", "The Altonaer Rathaus is one of the most beautiful administrative buildings in Germany.", "Features the Palmaille, a historic boulevard inspired by the game of pall-mall.", "A major European center for the alternative and creative industries.", "Includes the spectacular 'Altonaer Balkon' viewpoint over the Elbe."],
-    }, image: "/poi-images/city-altona-hh-extra.webp"},
+    },
+  },
 
   {
     id: "historical-hafencity-hh-extra",
@@ -393,14 +529,15 @@ export const poiExtraDe4b: POI[] = [
       "A HafenCity 40 százalékkal növeli Hamburg belvárosának hasznosítható területét.",
       "A végső befejezésig (várhatóan 2030 körül) körülbelül 15 000 ember számára épülnek lakások.",
       "A projekt területe mintegy 157 hektár, amelyből 127 hektár tisztán szárazföld.",
-      "Minden új épületet rendkívül árvízbiztosan, \\'Warft\\'-okon (mesterséges dombokon) építenek fel, nyolc méterrel a tengerszint felett.",
+      "Minden új épületet rendkívül árvízbiztosan, \'Warft\'-okon (mesterséges dombokon) építenek fel, nyolc méterrel a tengerszint felett.",
       "A negyedet az újonnan épült U4-es metróvonal köti be tökéletesen a közlekedési hálózatba.",
       "A Cruise Center HafenCity Hamburg három nagy tengerjáró hajótermináljának egyike.",
       "A HafenCityben található Unilever székház épületét a leginnovatívabb és legökológiaibb irodaházak egyikének tartják."
     ],
       ro: [],
       en: ["Europe's largest inner-city urban development project.", "Increases the area of Hamburg's city center by approximately 40%.", "Home to the Elbphilharmonie and the International Maritime Museum.", "Built to be flood-proof with buildings constructed on elevated mounds (Warften).", "Includes the 'Lohsepark', a major green central park for the district.", "A premier example of sustainable architecture and integrated urban design."],
-    }, image: "/poi-images/historical-hafencity-hh-extra.webp"},
+    },
+  },
 
   {
     id: "landmark-michaelis-hh-extra",
@@ -452,7 +589,7 @@ export const poiExtraDe4b: POI[] = [
       "Die Krypta unter der Kirche beherbergt die Gräber von über 2.000 Menschen, darunter Carl Philipp Emanuel Bach.",
       "Eine Plattform auf 82 Metern Höhe kann über 452 Stufen (oder per Fahrstuhl) erreicht werden.",
       "Über dem Hauptportal befindet sich eine gewaltige Bronzestatue des Erzengels Michael, der den Teufel besiegt.",
-      "Der Michel wurde in seiner Geschichte dreimal aufgebaut; der aktuelle Bau ist der \\'dritte Michel\\'.",
+      "Der Michel wurde in seiner Geschichte dreimal aufgebaut; der aktuelle Bau ist der \'dritte Michel\'.",
       "Die fünf Orgeln in der Kirche können über einen zentralen Zentralspieltisch von einem einzigen Organisten gespielt werden."
     ],
       hu: [
@@ -461,12 +598,13 @@ export const poiExtraDe4b: POI[] = [
       "A templom alatti kripta több mint 2000 ember sírját rejti, köztük Carl Philipp Emanuel Bachét is.",
       "A 82 méter magasan lévő kilátót 452 lépcsőfokon (vagy lifttel) lehet elérni.",
       "A főportál felett található Mihály arkangyal hatalmas bronzszobra, amint legyőzi az ördögöt.",
-      "A Michelt története során háromszor építették fel; a jelenlegi épület a \\'harmadik Michel\\'.",
+      "A Michelt története során háromszor építették fel; a jelenlegi épület a \'harmadik Michel\'.",
       "A templomban lévő öt orgonát egyetlen orgonista tudja megszólaltatni egy központi játszóasztalról."
     ],
       ro: [],
       en: ["The most significant Baroque church in Northern Germany.", "Features a 132-meter high spire with Germany's largest tower clock.", "The observation platform at 82 meters offers panoramic views of the Port.", "Home to a 1.5-meter high bronze statue of the Archangel Michael.", "The church can accommodate more than 2,500 people.", "Burial place of the composer Carl Philipp Emanuel Bach."],
-    }, image: "/poi-images/landmark-michaelis-hh-extra.webp"},
+    },
+  },
 
   {
     id: "city-bergedorf-hh-extra",
@@ -517,7 +655,7 @@ export const poiExtraDe4b: POI[] = [
       "Bergedorf wurde über 400 Jahre (1420 bis 1867) gemeinsam von den Städten Hamburg und Lübeck verwaltet.",
       "Der Bezirk Bergedorf macht etwa ein Fünftel der gesamten Hamburger Stadtfläche aus.",
       "Die Sternwarte Bergedorf auf dem Gojenberg war um 1912 eines der modernsten Observatorien Europas.",
-      "Die Region Vierlande und Marschlande ist seit Jahrhunderten der \\'Gemüsegarten\\' Hamburgs.",
+      "Die Region Vierlande und Marschlande ist seit Jahrhunderten der \'Gemüsegarten\' Hamburgs.",
       "Die Kirche St. Petri und Pauli besitzt einen massiven, wehrhaften Holzturm aus dem Jahr 1501.",
       "Bergedorf wurde erst 1937 durch das Groß-Hamburg-Gesetz Teil von Hamburg."
     ],
@@ -526,13 +664,14 @@ export const poiExtraDe4b: POI[] = [
       "Bergedorfot több mint 400 évig (1420-tól 1867-ig) Hamburg és Lübeck városa közösen irányította.",
       "A bergedorfi kerület Hamburg teljes területének körülbelül egyötödét teszi ki.",
       "A Gojenbergen lévő bergedorfi csillagvizsgáló 1912 körül Európa egyik legmodernebb obszervatóriuma volt.",
-      "A Vierlande és Marschlande régió évszázadok óta Hamburg \\'konyhakertje\\'.",
+      "A Vierlande és Marschlande régió évszázadok óta Hamburg \'konyhakertje\'.",
       "A Szent Péter és Pál-templom (St. Petri und Pauli) egy masszív, erődítményszerű, 1501-ből származó fatoronnyal rendelkezik.",
       "Bergedorfot csak 1937-ben csatolták Hamburghoz a Nagy-Hamburg-törvény révén."
     ],
       ro: [],
       en: ["Home to the only preserved medieval castle in the city-state of Hamburg.", "Historically a 'condominium' jointly ruled by Hamburg and Lübeck for 400 years.", "Located in the heart of the fertile Vierlande and Marschlande region.", "Features the Hamburg Observatory (Sternwarte), a major scientific monument.", "The Bergedorf Castle was first mentioned in a document in 1310.", "A leading center for traditional horticulture and greenhouse farming."],
-    }, image: "/poi-images/city-bergedorf-hh-extra.webp"},
+    },
+  },
 
   {
     id: "island-neuwerk-hh-extra",
@@ -598,7 +737,8 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["Part of the city-state of Hamburg since the year 1299.", "Home to the oldest building in Hamburg: the 1310 lighthouse.", "Accessible by horse-drawn carriage through the mudflats during low tide.", "The island has a permanent population of only about 30 people.", "Part of the UNESCO World Heritage site of the Wadden Sea.", "Features the 'Graveyard of the Nameless' for shipwreck victims."],
-    }, image: "/poi-images/island-neuwerk-hh-extra.webp"},
+    },
+  },
 
   {
     id: "historical-krameramtsstuben-hh-extra",
@@ -650,7 +790,7 @@ export const poiExtraDe4b: POI[] = [
       "Das Haus C ist als historisches Museum eingerichtet und zeigt die Wohnkultur um 1850.",
       "Die Häuser überstanden sowohl den Großen Brand von 1842 als auch die schweren Bombardierungen im Zweiten Weltkrieg.",
       "Die Fachwerkhäuser sind durch die engen Platzverhältnisse auf nur wenigen Quadratmetern Grundfläche mehrstöckig gebaut.",
-      "Die Anlage befand sich fast 300 Jahre im Besitz der \\'Kramercompanie\\', bis sie 1933 an die Stadt ging.",
+      "Die Anlage befand sich fast 300 Jahre im Besitz der \'Kramercompanie\', bis sie 1933 an die Stadt ging.",
       "Heute beherbergen die Gassen kleine Kunsthandwerksläden, Antiquariate und ein gemütliches Restaurant."
     ],
       hu: [
@@ -659,12 +799,13 @@ export const poiExtraDe4b: POI[] = [
       "A C házat történelmi múzeumként rendezték be, és az 1850 körüli lakáskultúrát mutatja be.",
       "A házak túlélték az 1842-es nagy tűzvészt és a második világháború súlyos bombázásait is.",
       "A szűkös helyviszonyok miatt a favázas házak mindössze néhány négyzetméternyi alapterületen, több emelet magasra épültek.",
-      "A komplexum közel 300 évig a \\'Kramercompanie\\' (kereskedőtársaság) tulajdonában volt, amíg 1933-ban a városé nem lett.",
+      "A komplexum közel 300 évig a \'Kramercompanie\' (kereskedőtársaság) tulajdonában volt, amíg 1933-ban a városé nem lett.",
       "Ma a sikátorokban kis kézműves boltok, antikváriumok és egy hangulatos étterem található."
     ],
       ro: [],
       en: ["The last remaining 17th-century courtyard ensemble in Hamburg.", "Built between 1620 and 1676 for the widows of the Grocers' Guild.", "Located in the historic district beneath St. Michael's Church.", "One of the apartments is preserved as a museum with original 1850s furniture.", "A rare example of early social welfare provided by trade guilds.", "The narrow alleyway is a favorite location for historic photography."],
-    }, image: "/poi-images/historical-krameramtsstuben-hh-extra.webp"},
+    },
+  },
 
   {
     id: "city-harburg-hh-extra",
@@ -730,7 +871,8 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["Historically an independent city until its merger with Hamburg in 1937.", "Home to the Hamburg University of Technology (TUHH), founded in 1978.", "Features the Harburg Inland Port, a leading example of modern waterfront renewal.", "The Harburg Town Hall is a majestic masterpiece of the Neo-Renaissance.", "A major center for the global rubber and palm oil processing industries.", "Connected to the city center by the spectacular Köhlbrand Bridge."],
-    }, image: "/poi-images/city-harburg-hh-extra.webp"},
+    },
+  },
 
   {
     id: "landmark-miniaturwunderland-hh-extra",
@@ -780,7 +922,7 @@ export const poiExtraDe4b: POI[] = [
       "Das Wunderland hält den Guinness-Weltrekord für die größte Modelleisenbahnanlage der Welt.",
       "Mehr als 16 Kilometer Gleise sind in den Ausstellungsräumen verlegt.",
       "Über 280.000 Figuren wurden per Hand in die detaillierten Szenen eingeklebt.",
-      "Der Bau des Miniaturflughafens \\'Knuffingen Airport\\' dauerte sechs Jahre und kostete fast 4 Millionen Euro.",
+      "Der Bau des Miniaturflughafens \'Knuffingen Airport\' dauerte sechs Jahre und kostete fast 4 Millionen Euro.",
       "Ein spezielles Kamerasystem für Google Street View ermöglicht virtuelle Spaziergänge durch die Miniaturwelt.",
       "In der Anlage sind rund 400.000 LEDs verbaut, die die Nachtsimulation erst möglich machen.",
       "Die Ausstellung wird kontinuierlich erweitert; es entstanden Brücken zwischen den Gebäuden für neue Abschnitte."
@@ -789,14 +931,15 @@ export const poiExtraDe4b: POI[] = [
       "A Wunderland tartja a világ legnagyobb modellvasútjának Guinness-rekordját.",
       "Több mint 16 kilométernyi vágányt fektettek le a kiállítótermekben.",
       "Több mint 280 000 figurát ragasztottak be kézzel a részletes jelenetekbe.",
-      "A \\'Knuffingen Airport\\' miniatűr repülőtér építése hat évig tartott, és majdnem 4 millió euróba került.",
+      "A \'Knuffingen Airport\' miniatűr repülőtér építése hat évig tartott, és majdnem 4 millió euróba került.",
       "A Google Street View egy speciális kamerarendszere lehetővé teszi a virtuális sétákat a miniatűr világban.",
       "A létesítménybe mintegy 400 000 LED-et építettek be, amelyek egyáltalán lehetővé teszik az éjszaka szimulációját.",
       "A kiállítást folyamatosan bővítik; az új szakaszokhoz hidakat építettek az épületek között."
     ],
       ro: [],
       en: ["The world's largest model railway with over 1,000 trains and 16,000m of track.", "Features a fully functional miniature airport (Knuffingen) with takeoff and landing.", "Located in the UNESCO World Heritage site of the Speicherstadt.", "The project has required over 1,000,000 working hours to build.", "Includes over 280,000 tiny human figures in meticulously detailed scenes.", "Attracts more than 1.4 million visitors annually to Hamburg."],
-    }, image: "/poi-images/landmark-miniaturwunderland-hh-extra.webp"},
+    },
+  },
 
   {
     id: "forest-volksdorf-hh-extra",
@@ -843,30 +986,163 @@ export const poiExtraDe4b: POI[] = [
     descriptionAdvanced: { de: "Der Volksdorfer Wald, auch liebevoll als 'Volksdorfer Tannen' bezeichnet, ist ein weitläufiges und malerisches Waldgebiet im nordöstlichen Hamburger Bezirk Wandsbek. Mit seiner Fläche von rund 90 Hektar ist er die grüne Lunge der sogenannten Walddörfer und ein äußerst beliebtes Naherholungsgebiet für die Hamburger. Entstanden aus einem ehemaligen Gutswald, zeichnet sich das Gebiet heute durch einen herrlichen Mischbestand aus knorrigen Eichen, imposanten Buchen und alten Kiefern aus. Der Wald bietet ein dichtes Netz an gepflegten Spazier-, Wander- und Reitwegen, die zu jeder Jahreszeit Ruhe und Entspannung fernab der Großstadthektik garantieren. Kleine Teiche, Feuchtbiotope und Lichtungen machen den Wald zu einem wichtigen Lebensraum für heimische Vogelarten und Amphibien. Der Wald ist ein perfektes Beispiel für die grüne Vielfalt, die die Metropole Hamburg zu bieten hat.", hu: "A Volksdorfi-erdő (Volksdorfer Wald), amelyet szeretetteljesen 'Volksdorfi Fenyőknek' (Volksdorfer Tannen) is neveznek, egy kiterjedt és festői erdőterület az északkelet-hamburgi Wandsbek kerületben. Mintegy 90 hektáros területével az úgynevezett erdőfalvak (Walddörfer) zöld tüdeje, és rendkívül népszerű rekreációs terület a hamburgiak számára. Az egykori uradalmi erdőből kialakult területet ma a göcsörtös tölgyek, impozáns bükkök és öreg fenyők csodálatos vegyes állománya jellemzi. Az erdő a gondozott séta-, túra- és lovasútvonalak sűrű hálózatát kínálja, amelyek az év minden szakában nyugalmat és kikapcsolódást garantálnak, távol a nagyvárosi nyüzsgéstől. A kis tavak, vizes élőhelyek és tisztások az erdőt a helyi madárfajok és kétéltűek fontos élőhelyévé teszik. Az erdő tökéletes példája annak a zöld sokszínűségnek, amelyet Hamburg metropolisza kínál.", ro: "", en: "The Volksdorfer Wald is a lush and historic forest area in the northeastern district of Wandsbek, serving as a vital 'green lung' for the city of Hamburg. This ancient woodland is characterized by its magnificent stands of beech and oak trees and its unique glacial terrain, featuring small ponds and 'kettle holes' formed during the last Ice Age. The forest is home to the 'Museumsdorf Volksdorf,' an open-air museum that preserves traditional North German farm life with its historic thatched-roof buildings and livestock. For residents, it is a premier destination for hiking, forest education, and nature observation, offering a tranquil escape into the wild heart of the 'Walddörfer' (Forest Villages). It is a symbol of Hamburg's commitment to preserving urban forests and traditional rural culture. Földrajz K7 – Urban forests and traditional landscapes." },
     factsAdvanced: {
       de: [
-      "Der Volksdorfer Wald gehört zu den Hamburger \\'Walddörfern\\', die 1937 nach Hamburg eingemeindet wurden.",
+      "Der Volksdorfer Wald gehört zu den Hamburger \'Walddörfern\', die 1937 nach Hamburg eingemeindet wurden.",
       "Er ist bekannt für seine historischen Eichen- und Buchenbestände, von denen einige über 200 Jahre alt sind.",
       "Im Zentrum des Waldes liegt der malerische Kletterteich, ein beliebtes Ziel für Spaziergänger.",
-      "Ein Hochseilgarten (\\'Kletterwald Hamburg\\') ist harmonisch in den alten Baumbestand integriert.",
+      "Ein Hochseilgarten (\'Kletterwald Hamburg\') ist harmonisch in den alten Baumbestand integriert.",
       "Das Waldgebiet wird im Norden von der Trasse der historischen U-Bahn-Linie U1 begrenzt.",
       "Neben Erholung dient der Wald der Forstwirtschaft und wird nachhaltig nach FSC-Kriterien bewirtschaftet.",
       "Im angrenzenden Museumsdorf Volksdorf wird historische Landwirtschaft anschaulich demonstriert."
     ],
       hu: [
-      "A Volksdorfi-erdő a hamburgi \\'erdőfalvakhoz\\' (Walddörfer) tartozik, amelyeket 1937-ben csatoltak Hamburghoz.",
+      "A Volksdorfi-erdő a hamburgi \'erdőfalvakhoz\' (Walddörfer) tartozik, amelyeket 1937-ben csatoltak Hamburghoz.",
       "Történelmi tölgy- és bükkállományairól ismert, amelyek közül néhány több mint 200 éves.",
       "Az erdő közepén található a festői Kletterteich (Mászó-tó), a sétálók kedvelt célpontja.",
-      "Egy kalandpark (\\'Kletterwald Hamburg\\') harmonikusan illeszkedik az idős faállományba.",
+      "Egy kalandpark (\'Kletterwald Hamburg\') harmonikusan illeszkedik az idős faállományba.",
       "Az erdőterületet északon a történelmi U1-es metróvonal nyomvonala határolja.",
       "A kikapcsolódás mellett az erdő erdőgazdálkodási célokat is szolgál, és az FSC kritériumai alapján fenntarthatóan művelik.",
       "A szomszédos Volksdorfi Múzeumfaluban a történelmi mezőgazdaságot mutatják be szemléletesen."
     ],
       ro: [],
       en: ["A primary part of the historic 'Walddörfer' (Forest Villages) of Hamburg.", "Characterized by ancient beech forests and glacial kettle ponds.", "Home to the Museumsdorf Volksdorf, an authentic living history site.", "A vital habitat for woodpeckers, hawks, and numerous bat species.", "The forest covers approximately 100 hectares of the district.", "Historically used as a timber resource for the growing Hanseatic city."],
-    }, image: "/poi-images/forest-volksdorf-hh-extra.webp"},
+    },
+  },
 
   // ─── DE-SL Saarland (+15) ────────────────────────────────────────────────────
 
+  {
+    id: "state-capital-saarbruecken-sl-extra",
+    type: "state-capital",
+    parent: "DE-SL",
+    coords: [6.9969, 49.2354],
+    name: { de: "Saarbrücken", hu: "Saarbrücken", ro: "Saarbrücken", en: "Saarbrücken" },
+    description: {
+      de: "Saarbrücken ist die Landeshauptstadt des Saarlandes, eine mittelgroße Stadt an der Saar nahe der französischen Grenze mit einer lebendigen Innenstadt.",
+      hu: "Saarbrücken a Saar-vidék tartomány fővárosa, egy közepes méretű város a Saar folyónál a francia határ közelében, pezsgő belvárossal.",
+      ro: "Saarbrücken este capitala landului Saarland, un oraș de mărime medie pe râul Saar lângă granița franceză, cu un centru animat.",
+      en: "Saarbrücken is the state capital of Saarland, a medium-sized city on the Saar River near the French border with a lively city centre.",
+    },
+    facts: {
+      de: [
+        "Landeshauptstadt und größte Stadt des Saarlandes mit rund 180.000 Einwohnern.",
+        "Das Saarbrücker Schloss ist das Wahrzeichen der Stadt.",
+        "Liegt nur wenige Kilometer von der französischen Stadt Forbach entfernt.",
+        "Die Universität des Saarlandes ist einer der größten Arbeitgeber der Region.",
+        "Die St. Johanner Markt ist das historische und gesellschaftliche Zentrum.",
+      ],
+      hu: [
+        "A Saar-vidék fővárosa és legnagyobb városa, kb. 180 000 lakossal.",
+        "A Saarbrückeni kastély a város jelképe.",
+        "Csak néhány kilométerre van a francia Forbach várostól.",
+        "A Saar-vidéki Egyetem a régió egyik legnagyobb munkáltatója.",
+        "A St. Johanner Markt a történelmi és társadalmi centrum.",
+      ],
+      ro: [
+        "Capitala și cel mai mare oraș al Saarlandului, cu aproximativ 180.000 de locuitori.",
+        "Castelul Saarbrücken este simbolul orașului.",
+        "Se află la doar câțiva kilometri de orașul francez Forbach.",
+        "Universitatea din Saarland este unul dintre cei mai mari angajatori ai regiunii.",
+        "St. Johanner Markt este centrul istoric și social.",
+      ],
+      en: [
+        "State capital and largest city of Saarland with around 180,000 inhabitants.",
+        "Saarbrücken Castle is the city's landmark.",
+        "Located just a few kilometres from the French city of Forbach.",
+        "Saarland University is one of the region's largest employers.",
+        "St. Johanner Markt is the historic and social centre.",
+      ],
+    },
+    descriptionAdvanced: { de: "Saarbrücken, die malerisch an der Saar gelegene Landeshauptstadt des kleinsten deutschen Flächenlandes, ist das unumstrittene politische, wirtschaftliche und kulturelle Zentrum des Saarlandes. Die unmittelbare Nähe zu Frankreich (nur wenige Kilometer bis zur Grenze) verleiht der Stadt ein unverwechselbares, frankophiles und entspanntes Flair, das sich besonders auf dem belebten St. Johanner Markt mit seinen unzähligen Straßencafés und Bistros zeigt. Historisch wurde Saarbrücken stark durch die Ära der Fürsten von Nassau-Saarbrücken im 18. Jahrhundert geprägt. Ihr Hofbaumeister Friedrich Joachim Stengel hinterließ der Stadt bedeutende barocke Meisterwerke, darunter das prächtige Saarbrücker Schloss, die filigrane Ludwigskirche und die Friedenskirche. Die moderne Geschichte der Stadt ist eng mit dem Kohlebergbau und der Stahlindustrie verknüpft, was sich in der Architektur und der ehrlichen, bodenständigen Mentalität der Einwohner widerspiegelt.", hu: "A Saar folyó partján festői környezetben fekvő Saarbrücken Németország legkisebb (területi) tartományának fővárosa, és a Saar-vidék vitathatatlan politikai, gazdasági és kulturális központja. A Franciaországhoz való közvetlen közelsége (mindössze néhány kilométer a határtól) összetéveszthetetlen, frankofón és laza hangulatot kölcsönöz a városnak, ami különösen a nyüzsgő St. Johanner Markton mutatkozik meg számtalan utcai kávézójával és bisztrójával. Történelmileg Saarbrückent erősen meghatározta a Nassau-Saarbrücken hercegek 18. századi korszaka. Udvari építőmesterük, Friedrich Joachim Stengel jelentős barokk remekműveket hagyott a városra, köztük a pompás saarbrückeni kastélyt, a filigrán Lajos-templomot (Ludwigskirche) és a Béke-templomot (Friedenskirche). A város modern történelme szorosan összefonódik a szénbányászattal és az acéliparral, ami tükröződik az építészetben és a lakosok őszinte, földhözragadt mentalitásában.", ro: "", en: "Saarbrücken, the capital of Saarland, is a vibrant border city that has switched between German and French control several times in its turbulent history. Located on the banks of the Saar river, it is famous for its Mediterranean-style flair and its rich Baroque heritage, designed by the master architect Friedrich Joachim Stengel. The city's heart is the Ludwigsplatz, dominated by the Ludwigskirche, one of the most significant Protestant Baroque churches in Germany. Beneath the city streets lies a fascinating hidden world: the Saarbrücken Casemates, the underground ruins of a massive Renaissance fortress. Today, Saarbrücken is a dynamic university town and a center for high-tech research, serving as a vital bridge between the cultures and economies of Germany and France. Geschichte K8 – European border history and Baroque urban design." },
+    factsAdvanced: {
+      de: [
+      "Saarbrücken wurde im Jahr 1909 durch den Zusammenschluss der Städte Saarbrücken, St. Johann und Malstatt-Burbach zur Großstadt.",
+      "Die Stadt liegt unmittelbar an der französischen Grenze zur Region Grand Est (Lothringen).",
+      "Die Ludwigskirche gilt als eine der stilistisch reinsten und schönsten barocken evangelischen Kirchen in Deutschland.",
+      "Das Saarbrücker Schloss wurde auf den Grundmauern einer mittelalterlichen Burg und eines Renaissanceschlosses errichtet.",
+      "Die Universität des Saarlandes in Saarbrücken ist besonders für ihre Forschung im Bereich der Informatik bekannt.",
+      "Der \'St. Johanner Markt\' ist das Herz der Stadt und komplett als Fußgängerzone ausgewiesen.",
+      "Die Saarbrücker Altstadt wurde im Zweiten Weltkrieg fast vollständig zerstört und anschließend neu aufgebaut."
+    ],
+      hu: [
+      "Saarbrücken 1909-ben vált nagyvárossá Saarbrücken, St. Johann és Malstatt-Burbach városok egyesülésével.",
+      "A város közvetlenül a francia határon fekszik, a Grand Est (Lotaringia) régió szomszédságában.",
+      "A Lajos-templomot (Ludwigskirche) stilisztikailag az egyik legtisztább és legszebb barokk evangélikus templomnak tartják Németországban.",
+      "A saarbrückeni kastélyt egy középkori vár és egy reneszánsz kastély alapfalaira építették.",
+      "A saarbrückeni Saar-vidéki Egyetem különösen az informatikai kutatásairól ismert.",
+      "A \'St. Johanner Markt\' a város szíve, és teljes egészében sétálóutcává van nyilvánítva.",
+      "A saarbrückeni óváros a második világháborúban szinte teljesen elpusztult, majd ezt követően újjáépítették."
+    ],
+      ro: [],
+      en: ["The state capital of Saarland, located directly on the French border.", "Home to the Ludwigskirche, a masterpiece of Baroque architecture.", "The city changed sovereignty eight times in the last 200 years.", "Features the Saarbrücken Casemates, an underground fortress museum.", "Known for its 'Savoir-vivre' lifestyle and French-influenced cuisine.", "A major European center for artificial intelligence and IT research."],
+    },
+  },
 
+  {
+    id: "historical-voelklinger-huette-sl-extra",
+    type: "industry",
+    parent: "DE-SL",
+    coords: [6.8450, 49.2506],
+    name: { de: "Völklinger Hütte", hu: "Völklingeni Vasmű", ro: "Uzina Siderurgică Völklingen", en: "Völklingen Ironworks" },
+    description: {
+      de: "Die Völklinger Hütte ist ein UNESCO-Weltkulturerbe, ein historisches Eisenwerk aus dem 19. Jahrhundert, das die Industriegeschichte des Saarlandes verkörpert.",
+      hu: "A Völklingeni Vasmű UNESCO Kulturális Világörökség, egy 19. századi történelmi vasgyár, amely a Saar-vidék ipartörténetét testesíti meg.",
+      ro: "Uzina Siderurgică Völklingen este Patrimoniu Cultural UNESCO, o uzină siderurgică istorică din secolul al XIX-lea, care întruchipează istoria industrială a Saarlandului.",
+      en: "The Völklingen Ironworks is a UNESCO World Cultural Heritage site, a historic 19th-century iron works embodying the industrial history of Saarland.",
+    },
+    facts: {
+      de: [
+        "1994 als erstes Industriedenkmal weltweit zum UNESCO-Weltkulturerbe erklärt.",
+        "Die Hütte war von 1873 bis 1986 in Betrieb.",
+        "Das Gelände umfasst über 6 Hektar historische Industrieanlagen.",
+        "Heute ein Kulturzentrum mit Ausstellungen, Events und Konzerten.",
+        "Das Schmelzgebläse ist ein weltweit einzigartiges erhaltenes Hochofengebläse.",
+      ],
+      hu: [
+        "1994-ben az első ipari műemléket világszerte UNESCO Kulturális Örökséggé nyilvánították.",
+        "A vasmű 1873 és 1986 között működött.",
+        "A terület több mint 6 hektárnyi történelmi ipari létesítményt foglal magában.",
+        "Ma kulturális centrum kiállításokkal, rendezvényekkel és koncertekkel.",
+        "A nagyolvasztó-fúvógép világszerte egyedülálló, fennmaradt nagyolvasztó-fúvatógép.",
+      ],
+      ro: [
+        "Prima industrie declarată Patrimoniu Cultural UNESCO în 1994.",
+        "Uzina a funcționat din 1873 până în 1986.",
+        "Teritoriul cuprinde peste 6 hectare de instalații industriale istorice.",
+        "Astăzi un centru cultural cu expoziții, evenimente și concerte.",
+        "Suflanta furnalului este o suflantă de furnal unicat în lume.",
+      ],
+      en: [
+        "In 1994, the first industrial monument worldwide to be declared a UNESCO World Cultural Heritage site.",
+        "The ironworks was in operation from 1873 to 1986.",
+        "The site covers over 6 hectares of historic industrial facilities.",
+        "Today a cultural centre with exhibitions, events, and concerts.",
+        "The blast furnace blower is a uniquely preserved blast furnace blower worldwide.",
+      ],
+    },
+    descriptionAdvanced: { de: "Die Völklinger Hütte ist ein gewaltiges industrielles Denkmal und eine Ikone der europäischen Schwerindustrie. Das 1873 gegründete Eisenwerk war über ein Jahrhundert lang das pulsierende Herz der saarländischen Stahlproduktion und zeitweise der größte Eisenträgerhersteller Deutschlands. Tausende Arbeiter schufteten hier unter extremen Bedingungen, um Roheisen zu erzeugen. 1986 wurde die Produktion aufgrund der weltweiten Stahlkrise endgültig eingestellt. Um diese einzigartige, komplett erhaltene Hochofenanlage für die Nachwelt zu bewahren, wurde die Völklinger Hütte 1994 als erstes Industriedenkmal der Epoche der Industrialisierung überhaupt in die UNESCO-Welterbeliste aufgenommen. Heute ist der rostige, stählerne Koloss ein faszinierender Kultur- und Themenpark. Besucher können tief in die Eingeweide der Anlage hinabsteigen, die gigantische Gebläsehalle bestaunen oder über einen speziellen Steg in über 40 Metern Höhe bis zu den Gichtbühnen der Hochöfen klettern.", hu: "A Völklinger Hütte egy hatalmas ipari műemlék és az európai nehézipar ikonja. Az 1873-ban alapított vasmű több mint egy évszázadon át a Saar-vidéki acéltermelés lüktető szíve volt, egy időben pedig Németország legnagyobb vasgerendagyártója. Munkások ezrei robotoltak itt extrém körülmények között a nyersvas előállításáért. A termelést a globális acélválság miatt 1986-ban végleg leállították. Hogy ezt az egyedülálló, teljes egészében fennmaradt nagyolvasztó-rendszert megőrizzék az utókor számára, a Völklinger Hüttét 1994-ben az iparosodás korának első ipari műemlékeként vették fel az UNESCO világörökségi listájára. Ma a rozsdás, acélos kolosszus egy lenyűgöző kulturális és tematikus park. A látogatók mélyen leereszkedhetnek a létesítmény gyomrába, megcsodálhatják a gigantikus fúvócsarnokot, vagy egy speciális járdán, több mint 40 méteres magasságban egészen a nagyolvasztók adagolószintjéig (Gichtbühne) mászhatnak fel.", ro: "", en: "The Völklingen Ironworks (Völklinger Hütte) is a world-class industrial monument and a UNESCO World Heritage site since 1994. It is the only intact ironworks from the golden age of the iron and steel industry in the world. For over a century, this massive complex of blast furnaces, coking plants, and sintering facilities defined the skyline and economy of the Saar region. Following its closure in 1986, it was preserved as a giant industrial time capsule, where nature is now slowly reclaiming the rusted steel structures. Today, the 'Hütte' is a unique cultural venue, hosting world-class art exhibitions and concerts among the titanic machines. It stands as a powerful testament to the skill and labor of generations of steelworkers and the birth of modern industry. Geschichte K8 – Industrialization and the history of steel." },
+    factsAdvanced: {
+      de: [
+      "Die Völklinger Hütte wurde 1994 als weltweit erstes Industriedenkmal in das UNESCO-Weltkulturerbe aufgenommen.",
+      "Das riesige Gelände des Eisenwerks erstreckt sich über eine Fläche von mehr als 600.000 Quadratmetern.",
+      "In der Blütezeit der Hütte, während des Baubooms der 1960er Jahre, arbeiteten hier über 17.000 Menschen.",
+      "Die sechs gigantischen Hochöfen der Anlage sind bis heute vollständig erhalten geblieben.",
+      "Die Gebläsehalle beherbergt riesige, von Gasmaschinen angetriebene Windmaschinen, die einst die Luft für die Hochöfen erzeugten.",
+      "Die Natur erobert sich Teile des rostigen Industriekomplexes in sogenannten \'Paradies\'-Gärten langsam zurück.",
+      "Die Völklinger Hütte dient heute als spektakuläre Kulisse für hochkarätige Kunstausstellungen und Konzerte."
+    ],
+      hu: [
+      "A Völklinger Hüttét 1994-ben a világ első ipari műemlékeként vették fel az UNESCO világörökségi listájára.",
+      "A vasmű hatalmas területe több mint 600 000 négyzetmétert tesz ki.",
+      "A kohó virágkorában, az 1960-as évek építési fellendülése idején több mint 17 000 ember dolgozott itt.",
+      "A létesítmény hat gigantikus nagyolvasztója a mai napig teljes épségben fennmaradt.",
+      "A fúvócsarnok hatalmas, gázgépek által hajtott szélgépeknek ad otthont, amelyek egykor a nagyolvasztók levegőjét termelték.",
+      "A természet az úgynevezett \'Paradicsom\'-kertekben lassan visszahódítja a rozsdás ipari komplexum bizonyos részeit.",
+      "A Völklinger Hütte ma színvonalas művészeti kiállítások és koncertek látványos kulisszájaként szolgál."
+    ],
+      ro: [],
+      en: ["The first industrial plant worldwide to be named a UNESCO World Heritage site.", "The only fully preserved ironworks from the peak of the industrial era.", "Home to six massive blast furnaces and a unique sintering plant.", "The site covers an area of approximately 600,000 square meters.", "Operated continuously for over 100 years from 1873 to 1986.", "Features the 'Paradise' garden, where industrial ruins meet wild nature."],
+    },
+  },
 
   {
     id: "river-saar-sl-extra",
@@ -917,7 +1193,7 @@ export const poiExtraDe4b: POI[] = [
       "Der Fluss mündet bei Konz, in der Nähe von Trier in Rheinland-Pfalz, in die Mosel.",
       "Der Saar-Kohlen-Kanal (Canal des houillères de la Sarre) verbindet die Saar in Frankreich mit dem Rhein-Marne-Kanal.",
       "Die Saar wurde bis 1987 für das Befahren mit sogenannten Europaschiffen (bis 1.350 Tonnen) ausgebaut.",
-      "Die Landeshauptstadt Saarbrücken wurde nach einer Brücke über die Saar (\\'Sarabrucca\\') benannt.",
+      "Die Landeshauptstadt Saarbrücken wurde nach einer Brücke über die Saar (\'Sarabrucca\') benannt.",
       "Entlang der Saar verlaufen idyllische, flache Radwege, die bis zur Mosel und in Richtung Frankreich führen.",
       "Trotz der starken industriellen Nutzung hat sich die Wasserqualität der Saar in den letzten Jahrzehnten drastisch verbessert."
     ],
@@ -926,14 +1202,81 @@ export const poiExtraDe4b: POI[] = [
       "A folyó Konznál, a Rajna-vidék-Pfalz tartománybeli Trier közelében ömlik a Moselbe.",
       "A Saar-széncsatorna (Canal des houillères de la Sarre) összeköti a franciaországi Saart a Rajna-Marne csatornával.",
       "A Saart 1987-ig úgy építették ki, hogy az úgynevezett Európa-hajók (1350 tonnáig) is hajózhassanak rajta.",
-      "A tartományi főváros, Saarbrücken a Saar felett átívelő hídról (\\'Sarabrucca\\') kapta a nevét.",
+      "A tartományi főváros, Saarbrücken a Saar felett átívelő hídról (\'Sarabrucca\') kapta a nevét.",
       "A Saar mentén idilli, sík kerékpárutak haladnak, amelyek a Moselig és Franciaország irányába vezetnek.",
       "Az erős ipari használat ellenére a Saar vízminősége az elmúlt évtizedekben drasztikusan javult."
     ],
       ro: [],
       en: ["A 235-kilometer long river that flows through France and Germany.", "Gives its name to the German federal state of Saarland.", "Famous for the Saarschleife, a dramatic U-bend near Mettlach.", "Historically the main artery for the coal and steel trade.", "Features a system of high-performance locks for international shipping.", "The Saar Cycle Path is a premier cross-border route to France."],
-    }, image: "/poi-images/river-saar-sl-extra.webp"},
+    },
+  },
 
+  {
+    id: "landmark-saarschleife-sl-extra",
+    type: "landmark",
+    parent: "DE-SL",
+    coords: [6.5805, 49.4898],
+    name: { de: "Saarschleife", hu: "Saarschleife (Saar-kanyar)", ro: "Saarschleife", en: "Saarschleife (Saar Loop)" },
+    description: {
+      de: "Die Saarschleife bei Mettlach ist das bekannteste Naturdenkmal des Saarlandes, wo der Fluss Saar eine spektakuläre Hufeisenform bildet.",
+      hu: "A mettlachi Saarschleife a Saar-vidék legismertebb természeti látványossága, ahol a Saar folyó látványos patkó alakú kanyarulatt alkot.",
+      ro: "Saarschleife de lângă Mettlach este cel mai faimos monument natural al Saarlandului, unde râul Saar formează o spectaculoasă buclă în formă de potcoavă.",
+      en: "The Saarschleife at Mettlach is Saarland's most famous natural monument, where the Saar River forms a spectacular horseshoe bend.",
+    },
+    facts: {
+      de: [
+        "Vom Aussichtspunkt Cloef bietet sich ein spektakulärer Blick auf die Schleife.",
+        "Die Schleife entstand durch die Flusserosion über Jahrmillionen.",
+        "Der Nationalpark Saarschleife-Wald schützt das umliegende Waldgebiet.",
+        "Im Herbst lockt das Farbspektakel der Laubwälder viele Besucher an.",
+        "Wanderwege und ein Baumwipfelpfad machen die Region erlebbar.",
+      ],
+      hu: [
+        "A Cloef kilátóból látványos panoráma nyílik a kanyarulatra.",
+        "A kanyarulat a folyó millió éves eróziójával alakult ki.",
+        "A Saarschleife-erdő nemzeti park védi a környező erdőterületet.",
+        "Ősszel a lomberdők színpompás látványa sok látogatót vonz.",
+        "Gyalogösvények és egy fakorona-sétány teszik megtapasztalhatóvá a térséget.",
+      ],
+      ro: [
+        "De la punctul de observație Cloef se deschide o priveliște spectaculoasă a buclei.",
+        "Bucla s-a format prin eroziunea râului de-a lungul milioanelor de ani.",
+        "Parcul Național Saarschleife-Wald protejează zona forestieră din jur.",
+        "Toamna, spectacolul cromatic al pădurilor de foioase atrage mulți vizitatori.",
+        "Trasee de drumeție și un parcurs pe vârfurile copacilor fac accesibilă regiunea.",
+      ],
+      en: [
+        "From the Cloef viewpoint, there is a spectacular view of the loop.",
+        "The loop was formed by river erosion over millions of years.",
+        "The Saarschleife Forest National Park protects the surrounding woodland.",
+        "In autumn, the colourful spectacle of the deciduous forests attracts many visitors.",
+        "Hiking trails and a treetop walkway make the region accessible.",
+      ],
+    },
+    descriptionAdvanced: { de: "Die Saarschleife ist das unangefochtene Wahrzeichen und das berühmteste Fotomotiv des Saarlandes. Westlich von Mettlach vollführt der Fluss Saar auf engstem Raum eine spektakuläre 180-Grad-Kehre und hat sich dabei im Laufe von Millionen Jahren tief in das harte Quarzitgestein des Taunusquarzits eingegraben. Eingebettet in steile, dicht bewaldete Hänge, bietet die von der Natur geformte Flussschleife einen atemberaubenden Anblick. Den besten und berühmtesten Blick auf dieses Naturwunder hat man vom Aussichtspunkt 'Cloef' im Ortsteil Orscholz, der 180 Meter senkrecht über dem Fluss thront. Im Jahr 2016 wurde hier zudem ein 1.250 Meter langer Baumwipfelpfad eröffnet, der zu einem 42 Meter hohen Aussichtsturm führt, dessen hölzerne Architektur sich harmonisch in den Wald einfügt. Im Zentrum der von Wasser umspülten Halbinsel liegen die Ruinen der historischen Burg Montclair.", hu: "A Saarschleife (Saar-kanyar) a Saar-vidék vitathatatlan jelképe és leghíresebb fotótémája. Mettlachtól nyugatra a Saar folyó nagyon szűk helyen egy látványos, 180 fokos kanyart tesz, és évmilliók során mélyen belevájta magát a Taunus-kvarcit kemény kőzetébe. A meredek, sűrűn erdős lejtők közé ágyazott, természet által formált folyókanyarulat lélegzetelállító látványt nyújt. A legjobb és leghíresebb kilátás erre a természeti csodára az Orscholz városrészben lévő 'Cloef' kilátópontról nyílik, amely 180 méterrel emelkedik függőlegesen a folyó fölé. 2016-ban itt nyílt meg egy 1250 méter hosszú lombkoronasétány is, amely egy 42 méter magas kilátóhoz vezet, melynek fa építészete harmonikusan illeszkedik az erdőbe. A víz által körülmosott félsziget közepén a történelmi Montclair-vár romjai találhatók.", ro: "", en: "The Saarschleife (Saar Loop) near Mettlach is the most iconic natural landmark of Saarland and one of the most famous river views in Germany. Here, the Saar river performs a dramatic 180-degree turn through a deep, forested gorge carved into the hard quartzite rock over millions of years. The classic panoramic view is found at the 'Cloef' viewpoint in Orscholz, which towers 180 meters above the river level. Recently, the site was enhanced by a spectacular treetop walk and a 42-meter high observation tower, offering breathtaking views of the entire loop and the surrounding Saar-Hunsrück Nature Park. It is a place of intense natural power and quiet beauty, drawing visitors from all over the world to witness this masterpiece of river erosion. Földrajz K7 – River erosion and landmark observation." },
+    factsAdvanced: {
+      de: [
+      "Der Aussichtspunkt Cloef liegt in Orscholz auf einer Höhe von etwa 320 Metern über dem Meeresspiegel.",
+      "Die Saarschleife windet sich um den bewaldeten Bergrücken, auf dem die Reste der mittelalterlichen Burg Montclair liegen.",
+      "Der 2016 eröffnete hölzerne Baumwipfelpfad an der Saarschleife zieht jährlich hunderttausende Besucher an.",
+      "Die Schleife ist eine sogenannte \'Talmäander\', bei der sich der Fluss aktiv in den felsigen Untergrund einschneidet.",
+      "Historische Persönlichkeiten wie König Friedrich Wilhelm IV. von Preußen und Victor Hugo besuchten den Aussichtspunkt.",
+      "Um die Halbinsel führt ein flacher Wander- und Radweg direkt am Ufer der Saar entlang.",
+      "Eine kleine, nur von Hand gezogene Passagierfähre namens \'Welles\' bringt Wanderer über den Fluss zur Burg Montclair."
+    ],
+      hu: [
+      "A Cloef kilátópont Orscholzban, körülbelül 320 méteres tengerszint feletti magasságban található.",
+      "A Saarschleife akörül az erdős hegyhát körül kanyarog, amelyen a középkori Montclair-vár romjai fekszenek.",
+      "A Saarschleifénél 2016-ban megnyílt fa lombkoronasétány évente százezreket vonz.",
+      "A kanyarulat egy úgynevezett \'völgymeander\', amelynél a folyó aktívan bevágja magát a sziklás altalajba.",
+      "Olyan történelmi személyiségek látogatták meg a kilátópontot, mint IV. Frigyes Vilmos porosz király és Victor Hugo.",
+      "A félsziget körül egy sík túra- és kerékpárút vezet, közvetlenül a Saar partján.",
+      "Egy kis, csak kézzel húzott utasszállító komp, a \'Welles\' viszi át a túrázókat a folyón a Montclair-várhoz."
+    ],
+      ro: [],
+      en: ["A spectacular 180-degree horseshoe bend in the Saar river.", "The 'Cloef' viewpoint in Orscholz offers the most famous panorama.", "Towers approximately 180 meters above the river bed.", "Home to a 1.2-kilometer long treetop walk with an observation tower.", "The loop was formed by the river cutting through hard quartzite rock.", "A symbol of Saarland, visited by world leaders like De Gaulle and Merkel."],
+    },
+  },
 
   {
     id: "mountain-hohe-warte-sl-extra",
@@ -984,7 +1327,7 @@ export const poiExtraDe4b: POI[] = [
       "Der höchste Punkt liegt exakt auf der Grenze zwischen dem Saarland und Rheinland-Pfalz.",
       "Die Erhebung ist vollständig bewaldet, weshalb es vom direkten Gipfel keinen weiten Panoramablick gibt.",
       "Die Region rund um die Hohe Warte gehört zum 1980 gegründeten Naturpark Saar-Hunsrück.",
-      "Wanderer nutzen oft den Premiumwanderweg \\'Saar-Hunsrück-Steig\\', der durch diese idyllische Mittelgebirgslandschaft führt.",
+      "Wanderer nutzen oft den Premiumwanderweg \'Saar-Hunsrück-Steig\', der durch diese idyllische Mittelgebirgslandschaft führt.",
       "In der Umgebung finden sich Reste alter keltischer Fluchtburgen, wie der Keltische Ringwall in Nonnweiler-Otzenhausen.",
       "Aufgrund der Höhenlage liegt hier im Winter oft wochenlang eine geschlossene Schneedecke."
     ],
@@ -993,13 +1336,14 @@ export const poiExtraDe4b: POI[] = [
       "A legmagasabb pont pontosan a Saar-vidék és Rajna-vidék-Pfalz határán található.",
       "A magaslat teljesen erdősült, ezért a közvetlen csúcsról nincs széles panoráma.",
       "A Hohe Warte körüli régió az 1980-ban alapított Saar-Hunsrück Natúrparkhoz tartozik.",
-      "A túrázók gyakran használják a \\'Saar-Hunsrück-Steig\\' nevű prémium túraútvonalat, amely ezen az idilli középhegységi tájon halad keresztül.",
+      "A túrázók gyakran használják a \'Saar-Hunsrück-Steig\' nevű prémium túraútvonalat, amely ezen az idilli középhegységi tájon halad keresztül.",
       "A környéken régi kelta menedékvárak maradványai találhatók, mint például a kelta körsánc Nonnweiler-Otzenhausenben.",
       "A tengerszint feletti magasság miatt télen gyakran hetekig összefüggő hótakaró borítja a tájat."
     ],
       ro: [],
       en: ["A 403-meter high peak and a primary landmark of the Saargau region.", "Offers views of the Saar valley and the French Vosges mountains.", "Located near the historic border between Germany and France.", "Home to the 'Hohe Warte' refuge hut, a popular destination for hikers.", "The mountain consists of variegated sandstone (Buntsandstein).", "A vital recreational area for the city of Saarbrücken."],
-    }, image: "/poi-images/mountain-hohe-warte-sl-extra.webp"},
+    },
+  },
 
   {
     id: "city-neunkirchen-sl-extra",
@@ -1048,25 +1392,92 @@ export const poiExtraDe4b: POI[] = [
       de: [
       "Neunkirchen ist nach Saarbrücken die zweitgrößte Stadt im Saarland.",
       "Das alte Neunkircher Eisenwerk prägte fast 400 Jahre lang (seit 1593) das wirtschaftliche Leben der Stadt.",
-      "Der Wasserturm des alten Eisenwerks (\\'Neunkircher Wasserturm\\') dient heute als Veranstaltungsort und Kino.",
+      "Der Wasserturm des alten Eisenwerks (\'Neunkircher Wasserturm\') dient heute als Veranstaltungsort und Kino.",
       "Der Strukturwandel der Stadt gilt als eines der erfolgreichsten Beispiele im Saarland.",
       "In Neunkirchen wurde der ehemalige DDR-Staatsratsvorsitzende Erich Honecker geboren (1912).",
-      "Der \\'Neunkircher Hüttenweg\\' ist ein ausgeschilderter Rundweg, der Touristen die erhaltenen Industrierelikte erklärt.",
+      "Der \'Neunkircher Hüttenweg\' ist ein ausgeschilderter Rundweg, der Touristen die erhaltenen Industrierelikte erklärt.",
       "Der Neunkircher Zoo, gegründet 1926, beherbergt über 500 Tiere und ist ein wichtiges lokales Naherholungsziel."
     ],
       hu: [
       "Neunkirchen Saarbrücken után a második legnagyobb város a Saar-vidéken.",
       "A régi neunkircheni vasmű majdnem 400 éven át (1593-tól) határozta meg a város gazdasági életét.",
-      "A régi vasmű víztornya (\\'Neunkircher Wasserturm\\') ma rendezvényhelyszínként és moziként szolgál.",
+      "A régi vasmű víztornya (\'Neunkircher Wasserturm\') ma rendezvényhelyszínként és moziként szolgál.",
       "A város szerkezetváltását a Saar-vidék egyik legsikeresebb példájának tartják.",
       "Neunkirchenben született az NDK egykori Államtanácsának elnöke, Erich Honecker (1912-ben).",
-      "A \\'Neunkircher Hüttenweg\\' (Neunkircheni kohóút) egy kitáblázott körút, amely elmagyarázza a turistáknak a fennmaradt ipari emlékeket.",
+      "A \'Neunkircher Hüttenweg\' (Neunkircheni kohóút) egy kitáblázott körút, amely elmagyarázza a turistáknak a fennmaradt ipari emlékeket.",
       "Az 1926-ban alapított neunkircheni állatkert több mint 500 állatnak ad otthont, és fontos helyi rekreációs célpont."
     ],
       ro: [],
       en: ["The second-largest city in Saarland and a former steel capital.", "Home to the 'Stummsche Kirch', a historic monument to industrial wealth.", "Features the Saarpark-Center, the largest shopping mall in the region.", "The former ironworks site is now a major center for culture and leisure.", "Known for its high-quality zoo, which focuses on Asian animals.", "Historically the primary power base of the Stumm industrial dynasty."],
-    }, image: "/poi-images/city-neunkirchen-sl-extra.webp"},
+    },
+  },
 
+  {
+    id: "city-homburg-sl-extra",
+    type: "city",
+    parent: "DE-SL",
+    coords: [7.3381, 49.3188],
+    name: { de: "Homburg (Saar)", hu: "Homburg (Saar)", ro: "Homburg (Saar)", en: "Homburg (Saar)" },
+    description: {
+      de: "Homburg ist eine saarländische Stadt, bekannt für die Homburger Schlossberg-Höhlen, die größten Sandsteinhöhlen Europas, und als Universitätsstadt.",
+      hu: "Homburg egy saar-vidéki város, amelyet a Homburgi Schlossberghöhlék – Európa legnagyobb homokkőbarlangjai – és az egyetemi városi jellege tesz ismertté.",
+      ro: "Homburg este un oraș din Saarland, cunoscut pentru Peșterile Schlossberg din Homburg, cele mai mari peșteri de gresie din Europa, și ca oraș universitar.",
+      en: "Homburg is a Saarland city known for the Homburg Schlossberg Caves, the largest sandstone caves in Europe, and as a university town.",
+    },
+    facts: {
+      de: [
+        "Die Schlossberg-Höhlen umfassen ein Netz von rund 2 km Länge.",
+        "Die Höhlen wurden im 2. Weltkrieg als Schutzraum genutzt.",
+        "Das Universitätsklinikum des Saarlandes in Homburg ist eines der größten in Deutschland.",
+        "Homburg ist eine der größten Städte des Saarlandes mit rund 40.000 Einwohnern.",
+        "Die Reste der Festung Karlsberg zeigen die bedeutsame Geschichte der Stadt.",
+      ],
+      hu: [
+        "A Schlossberghöhlék kb. 2 km hosszú barlangrendszert alkotnak.",
+        "A barlangokat a 2. világháborúban bunkerként használták.",
+        "A Homburgi Saar-vidéki Egyetemi Klinika az egyik legnagyobb Németországban.",
+        "Homburg a Saar-vidék egyik legnagyobb városa, kb. 40 000 lakossal.",
+        "A Karlsberg erőd maradványai a város jelentős történetét mutatják.",
+      ],
+      ro: [
+        "Peșterile Schlossberg formează o rețea de circa 2 km lungime.",
+        "Peșterile au fost folosite ca adăpost în al 2-lea Război Mondial.",
+        "Clinica Universitară a Saarlandului din Homburg este una dintre cele mai mari din Germania.",
+        "Homburg este unul dintre cele mai mari orașe din Saarland, cu circa 40.000 de locuitori.",
+        "Rămășițele Fortăreței Karlsberg arată istoria semnificativă a orașului.",
+      ],
+      en: [
+        "The Schlossberg Caves form a network of around 2 km in length.",
+        "The caves were used as a shelter in World War 2.",
+        "The Saarland University Medical Centre in Homburg is one of the largest in Germany.",
+        "Homburg is one of Saarland's largest cities with around 40,000 inhabitants.",
+        "The remains of the Karlsberg Fortress show the city's significant history.",
+      ],
+    },
+    descriptionAdvanced: { de: "Homburg, die drittgrößte Stadt des Saarlandes und Universitätsstadt, besticht durch eine außergewöhnliche Mischung aus Wissenschaft, Industriegeschichte und spektakulären Naturdenkmälern. Weit über die Landesgrenzen hinaus bekannt ist Homburg für die faszinierenden Schlossberghöhlen. Im Mittelalter legte man unter der Hohenburg künstliche Gänge an, um den roten, quarzhaltigen Buntsandstein abzubauen, der zur Glasherstellung benötigt wurde. So entstanden die größten von Menschenhand geschaffenen Buntsandsteinhöhlen Europas, deren verwinkelte, rötlich schimmernde Gänge ein beliebtes und mystisches Ausflugsziel sind. Wirtschaftlich ist die Stadt durch das riesige Reifenwerk von Michelin und die Bosch-Werke stark geprägt. Zudem beherbergt Homburg den medizinischen Campus der Universität des Saarlandes sowie das angesehene Universitätsklinikum, was der Stadt eine bedeutende Rolle in der Spitzenmedizin und Forschung verleiht.", hu: "Homburg, a Saar-vidék harmadik legnagyobb városa és egyetemi városa a tudomány, az ipartörténet és a látványos természeti emlékek kivételes keverékével bűvöli el a látogatókat. Homburg a tartomány határain túl is ismert a lenyűgöző Schlossberg-barlangokról (Schlossberghöhlen). A középkorban a Hohenburg vár alatt mesterséges folyosókat alakítottak ki, hogy kitermeljék az üveggyártáshoz szükséges vörös, kvarctartalmú tarkahomokkövet. Így jöttek létre Európa legnagyobb, ember által alkotott tarkahomokkő barlangjai, amelyek kanyargós, vörösen csillogó folyosói népszerű és misztikus kirándulóhelyek. Gazdaságilag a várost erősen meghatározza a Michelin hatalmas gumiabroncsgyára és a Bosch-gyárak. Ezenkívül Homburg ad otthont a Saar-vidéki Egyetem orvosi kampuszának, valamint a tekintélyes egyetemi klinikának, ami jelentős szerepet biztosít a városnak a csúcsorvoslásban és a kutatásban.", ro: "", en: "Homburg is a city where underground wonders meet modern industrial excellence, situated in the eastern Saarland. It is globally famous for the Schlossberghöhlen, Europe's largest man-made buntsandstein (variegated sandstone) caves, which wind their way through 12 levels beneath the ruins of Homburg Castle. These spectacular yellow and red caves were originally created through mining and later served as a refuge for the local population. Above ground, Homburg is a powerhouse of the German economy, hosting global giants like Bosch, Schaeffler, and the Karlsberg brewery. The city is also a leading center for medicine, home to the prestigious Saarland University Hospital. Its mix of mysterious subterranean history and high-tech manufacturing makes it a unique node in the region. Geschichte K5 – Sandstone mining and historical shelters." },
+    factsAdvanced: {
+      de: [
+      "Die Homburger Schlossberghöhlen erstrecken sich über unglaubliche zwölf Stockwerke tief in den Berg.",
+      "Es sind die größten von Menschen geschaffenen Buntsandsteinhöhlen in Europa.",
+      "Der hier abgebaute Quarzsand wurde in der frühen Neuzeit zur Glasherstellung bis nach Frankreich exportiert.",
+      "Die Ruinen der Hohenburg auf dem Schlossberg stammen aus dem 12. Jahrhundert und dominieren das Stadtbild.",
+      "Der medizinische Campus (Universitätsklinikum) macht Homburg zum wichtigsten Gesundheitsstandort im Saarland.",
+      "In Homburg befindet sich die Karlsberg Brauerei, eine der größten Privatbrauereien in Deutschland.",
+      "Während der NS-Zeit wurden die Höhlen ausgebaut, um der Bevölkerung als Luftschutzbunker zu dienen."
+    ],
+      hu: [
+      "A homburgi Schlossberg-barlangok elképesztő módon, tizenkét emelet mélységben nyúlnak be a hegybe.",
+      "Ezek Európa legnagyobb, ember által alkotott tarkahomokkő barlangjai.",
+      "Az itt bányászott kvarchomokot a kora újkorban üveggyártás céljából egészen Franciaországig exportálták.",
+      "A Schlossbergen található Hohenburg vár romjai a 12. századból származnak, és uralják a városképet.",
+      "Az orvosi kampusz (Egyetemi Klinika) Homburgot a Saar-vidék legfontosabb egészségügyi központjává teszi.",
+      "Homburgban található a Karlsberg Sörfőzde, Németország egyik legnagyobb magánsörfőzdéje.",
+      "A náci korszakban a barlangokat kibővítették, hogy légvédelmi óvóhelyként szolgáljanak a lakosság számára."
+    ],
+      ro: [],
+      en: ["Home to the Schlossberghöhlen, Europe's largest sandstone caves.", "Site of the Saarland University Hospital, a leading medical center.", "Host of the global Karlsberg Brewery, one of Germany's largest.", "Features the ruins of the Hohenburg fortress on the Schlossberg hill.", "The caves consist of 12 distinct levels of colorful sandstone.", "A major industrial hub with thousands of workers in the automotive sector."],
+    },
+  },
 
   {
     id: "river-blies-sl-extra",
@@ -1132,7 +1543,8 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["The longest and most important tributary of the Saar river.", "The heart of the Bliesgau UNESCO Biosphere Reserve.", "Stretches for approximately 100 kilometers through Germany and France.", "Famous for the 'Bliesgau' landscape, known as the 'Tuscany of the Saar'.", "Provides a vital habitat for rare species like the little owl.", "Flows past the Roman open-air museum in Schwarzenacker."],
-    }, image: "/poi-images/river-blies-sl-extra.webp"},
+    },
+  },
 
   {
     id: "historical-blieskastel-sl-extra",
@@ -1183,22 +1595,23 @@ export const poiExtraDe4b: POI[] = [
       "Die Grafen von der Leyen flüchteten 1793 während der Französischen Revolution vor den Revolutionstruppen aus der Stadt.",
       "Das ehemalige Schloss der Grafen wurde von revolutionären Truppen geplündert und vollständig niedergebrannt.",
       "Der Gollenstein bei Blieskastel ist rund 4.000 Jahre alt und mit 6,58 Metern der höchste Menhir Mitteleuropas.",
-      "Auf dem Paradeplatz findet man den \\'Schlangenbrunnen\\', ein weiteres wichtiges barockes Element.",
+      "Auf dem Paradeplatz findet man den \'Schlangenbrunnen\', ein weiteres wichtiges barockes Element.",
       "In Blieskastel wurde die Gräfin Marianne von der Leyen wegen ihrer klugen, aufgeklärten Herrschaft hochverehrt.",
-      "Das Klosterkastel (Franziskanerkloster) auf dem Berg beinhaltet den Gnadenaltar \\'Unsere Liebe Frau\\'."
+      "Das Klosterkastel (Franziskanerkloster) auf dem Berg beinhaltet den Gnadenaltar \'Unsere Liebe Frau\'."
     ],
       hu: [
       "Blieskastel történelmi városképét több mint 60, a 18. századból származó barokk épület határozza meg.",
       "A Von der Leyen grófok 1793-ban, a francia forradalom alatt menekültek el a városból a forradalmi csapatok elől.",
       "A grófok egykori kastélyát a forradalmi csapatok kifosztották és teljesen porig égették.",
       "A Blieskastel melletti Gollenstein körülbelül 4000 éves, és 6,58 méterével Közép-Európa legmagasabb menhírje.",
-      "A Paradeplatzon található a \\'Schlangenbrunnen\\' (Kígyós-kút), egy másik fontos barokk elem.",
+      "A Paradeplatzon található a \'Schlangenbrunnen\' (Kígyós-kút), egy másik fontos barokk elem.",
       "Blieskastelben Marianne von der Leyen grófnőt okos, felvilágosult uralkodása miatt nagy tisztelet övezte.",
-      "A hegyen található kolostor (ferences kolostor) rejti a \\'Miasszonyunk\\' kegyoltárt."
+      "A hegyen található kolostor (ferences kolostor) rejti a \'Miasszonyunk\' kegyoltárt."
     ],
       ro: [],
       en: ["A perfectly preserved Baroque residence city from the 18th century.", "Home to the Gollenstein, Central Europe's largest menhir (6.6m).", "The Castle Church (Schlosskirche) is a pinnacle of local Baroque art.", "Former seat of the Imperial Counts of von der Leyen.", "The heart of the Bliesgau UNESCO Biosphere Reserve.", "Features the historic 'Orange House' and grand countly palaces."],
-    }, image: "/poi-images/historical-blieskastel-sl-extra.webp"},
+    },
+  },
 
   {
     id: "mountain-schaumberg-sl-extra",
@@ -1251,7 +1664,7 @@ export const poiExtraDe4b: POI[] = [
       "Tholey, am Fuß des Berges, beherbergt das Benediktinerkloster St. Mauritius, das als ältestes Kloster auf deutschem Boden gilt.",
       "In den 2020er Jahren wurde die Benediktinerabtei durch die von Gerhard Richter gestalteten Kirchenfenster weltweit bekannt.",
       "Ein barrierefreier Höhenrundweg (Herzweg) führt um die Kuppe des Schaumbergs.",
-      "Im Mittelalter befand sich auf dem Gipfel die \\'Schaumburg\\', eine wehrhafte Burg, die heute nicht mehr existiert."
+      "Im Mittelalter befand sich auf dem Gipfel die \'Schaumburg\', eine wehrhafte Burg, die heute nicht mehr existiert."
     ],
       hu: [
       "A Schaumberg 568,2 méter magas, és vulkáni eredetű (főként magmás kőzetből, toleiitből áll).",
@@ -1260,12 +1673,79 @@ export const poiExtraDe4b: POI[] = [
       "A hegy lábánál fekvő Tholey ad otthont a Szent Mauritius bencés apátságnak, amely a legrégebbi német földön lévő kolostornak számít.",
       "A 2020-as években a bencés apátság világszerte ismertté vált a Gerhard Richter által tervezett templomablakoknak köszönhetően.",
       "A Schaumberg csúcsa körül egy akadálymentesített magaslati körút (Herzweg) vezet.",
-      "A középkorban a csúcson állt a \\'Schaumburg\\', egy erős vár, amely ma már nem létezik."
+      "A középkorban a csúcson állt a \'Schaumburg\', egy erős vár, amely ma már nem létezik."
     ],
       ro: [],
       en: ["Known as the 'Hausberg' of Saarland, standing at 568 meters.", "The Schaumbergturm is a 37-meter high observation tower.", "Site of a historic Celtic 'Refuge Fortress' and a Roman station.", "The tower serves as a monument to German-French cooperation.", "Offers views of over 200 towns and villages across three countries.", "Located above the Tholey Abbey, founded in the 7th century."],
-    }, image: "/poi-images/mountain-schaumberg-sl-extra.webp"},
+    },
+  },
 
+  {
+    id: "lake-bostalsee-sl-extra",
+    type: "lake",
+    parent: "DE-SL",
+    coords: [7.0600, 49.5630],
+    name: { de: "Bostalsee", hu: "Bostalsee", ro: "Bostalsee", en: "Bostalsee" },
+    description: {
+      de: "Der Bostalsee ist der größte Freizeitsee des Saarlandes und ein beliebtes Naherholungsgebiet mit Wassersport, Camping und Strandmöglichkeiten.",
+      hu: "A Bostalsee a Saar-vidék legnagyobb szabadidős tava és kedvelt pihenőhely vízisportokkal, kemping lehetőségekkel és strandokkal.",
+      ro: "Bostalsee este cel mai mare lac de agrement din Saarland și o destinație populară de recreere cu sporturi nautice, camping și plaje.",
+      en: "The Bostalsee is Saarland's largest leisure lake and a popular recreation area with water sports, camping, and beach opportunities.",
+    },
+    facts: {
+      de: [
+        "Der Bostalsee wurde in den 1970er Jahren als Freizeitprojekt angelegt.",
+        "Die Fläche des Sees beträgt rund 122 Hektar.",
+        "Segeln, Surfen, Kanu und Radfahren sind beliebte Aktivitäten am See.",
+        "Das Center Parcs Bostalsee ist ein bekannter Ferienpark in der Nähe.",
+        "Der See liegt im Naturpark Saar-Hunsrück.",
+      ],
+      hu: [
+        "A Bostalsee-t az 1970-es években szabadidős projektként hozták létre.",
+        "A tó területe kb. 122 hektár.",
+        "A vitorlázás, szörfözés, kajakozás és kerékpározás kedvelt tevékenységek a tónál.",
+        "A közeli Center Parcs Bostalsee egy ismert üdülőpark.",
+        "A tó a Saar-Hunsrück Természeti Parkban fekszik.",
+      ],
+      ro: [
+        "Bostalsee a fost creat în anii 1970 ca proiect de agrement.",
+        "Suprafața lacului este de circa 122 de hectare.",
+        "Vela, surf-ul, caiacul și ciclismul sunt activități populare la lac.",
+        "Center Parcs Bostalsee din apropiere este un parc de vacanță cunoscut.",
+        "Lacul se află în Parcul Natural Saar-Hunsrück.",
+      ],
+      en: [
+        "The Bostalsee was created in the 1970s as a leisure project.",
+        "The lake covers an area of around 122 hectares.",
+        "Sailing, surfing, canoeing, and cycling are popular activities at the lake.",
+        "The nearby Center Parcs Bostalsee is a well-known holiday park.",
+        "The lake lies within the Saar-Hunsrück Nature Park.",
+      ],
+    },
+    descriptionAdvanced: { de: "Der Bostalsee, eingebettet in die sanft hügelige, bewaldete Landschaft des Naturparks Saar-Hunsrück im nördlichen Saarland, ist der größte Freizeit- und Stausee der Region. Er wurde Ende der 1970er Jahre (1979 eingestaut) künstlich angelegt, um die touristische Attraktivität der Region St. Wendeler Land zu steigern und gleichzeitig ein großes Regenrückhaltebecken für die kleinen Flüsse Bos und Dästerbach zu schaffen. Mit einer Wasserfläche von 120 Hektar ist er heute das unumstrittene Mekka für Wassersportler im Südwesten Deutschlands. Segler, Windsurfer, Stand-Up-Paddler und Tretbootfahrer schätzen den See wegen seiner guten Windverhältnisse. Zwei große künstlich angelegte Sandstrände locken im Sommer Familien zum sicheren Baden. Ein bestens ausgebauter Rad- und Wanderweg umschließt das Gewässer und verbindet die zahlreichen Freizeitanlagen, Campingplätze und das moderne Feriendorf von Center Parcs harmonisch miteinander.", hu: "A Bostalsee, amely a Saar-vidék északi részén, a Saar-Hunsrück Natúrpark enyhén dombos, erdős tájába ágyazódik, a régió legnagyobb szabadidős és víztározó tava. Az 1970-es évek végén (1979-ben duzzasztották fel) mesterségesen hozták létre, hogy növeljék a St. Wendeler Land régió turisztikai vonzerejét, és egyúttal egy nagy csapadékvíz-tározót hozzanak létre a Bos és Dästerbach kis folyók számára. 120 hektáros vízfelületével ma a vízisportok szerelmeseinek vitathatatlan mekkája Délnyugat-Németországban. A vitorlázók, szörfösök, állószörfösök (SUP) és vízibiciklizők jó szélviszonyai miatt értékelik a tavat. Nyáron két nagy, mesterségesen kialakított homokos strand vonzza a családokat a biztonságos fürdőzésre. A vizet egy kiválóan kiépített kerékpár- és túraút veszi körül, amely harmonikusan összeköti a számos szabadidős létesítményt, kempinget és a Center Parcs modern üdülőfaluját.", ro: "", en: "Lake Bostalsee is the largest recreational reservoir in Southwestern Germany and the vibrant heart of tourism in northern Saarland. Created in the 1970s by damming the Bos river, it spans 120 hectares and offers a wide range of water sports, from sailing and windsurfing to diving and fishing. The lake is surrounded by the lush, rolling hills of the Sankt Wendeler Land and features two large sandy beaches that attract thousands of visitors every summer. Beyond recreation, Bostalsee is a center for art and culture, hosting the BOSENER MÜHLE art center and various international sporting events. It is a prime example of how modern landscape planning can create a high-quality leisure environment while providing a vital habitat for water birds. Földrajz K7 – Artificial lakes and tourism development." },
+    factsAdvanced: {
+      de: [
+      "Der Bostalsee hat eine Wasseroberfläche von 1,2 Quadratkilometern (120 Hektar).",
+      "Er ist mit einer maximalen Tiefe von etwa 18 Metern relativ tief.",
+      "Der See wurde 1979 offiziell für die Nutzung durch Wassersportler und Badegäste freigegeben.",
+      "Der Rundweg um den See (für Spaziergänger und Radfahrer) hat eine Länge von 6,8 Kilometern.",
+      "Auf dem Bostalsee herrscht ein striktes Verbot für Boote mit Verbrennungsmotoren zum Schutz der Natur.",
+      "Im Seeuferbereich wurde ein großes \'Center Parcs\'-Feriendorf errichtet, das die Region belebt.",
+      "Ein Skulpturenpark (\'Straße des Friedens\') säumt das Ufer und integriert moderne Kunst in die Natur."
+    ],
+      hu: [
+      "A Bostalsee vízfelülete 1,2 négyzetkilométer (120 hektár).",
+      "Körülbelül 18 méteres maximális mélységével viszonylag mélynek számít.",
+      "A tavat 1979-ben nyitották meg hivatalosan a vízisportolók és a fürdőzők számára.",
+      "A tó körüli sétány (gyalogosok és kerékpárosok számára) hossza 6,8 kilométer.",
+      "A természet védelme érdekében a Bostalseen szigorú tilalom vonatkozik a belső égésű motoros csónakokra.",
+      "A tó partján épült fel egy nagy \'Center Parcs\' üdülőfalu, amely fellendíti a régiót.",
+      "A partot egy szoborpark (\'A Béke Útja\' / Straße des Friedens) szegélyezi, amely a modern művészetet a természetbe integrálja."
+    ],
+      ro: [],
+      en: ["The largest recreational lake in Southwestern Germany (120 hectares).", "Created in 1979 specifically for tourism and nature protection.", "The lake has a maximum depth of approximately 18 meters.", "Home to a world-class sailing and windsurfing center.", "Features a 6.8-kilometer long paved circular path for hikers.", "Host of the 'Center Parcs Park Nordseeküste' (regional equivalent)."],
+    },
+  },
 
   {
     id: "industry-bergwerk-duhamel-sl-extra",
@@ -1318,7 +1798,7 @@ export const poiExtraDe4b: POI[] = [
       "Nebenan steht der historische, sechseckige Hindenburgturm (Aussichtsturm), der an ein altes Förderturm-Konzept erinnert.",
       "Das Saar-Kohlen-Revier zählte einst zu den wichtigsten Montanregionen ganz Europas.",
       "Bergmannstraditionen wie die Barbarafeier (am 4. Dezember) sind im Saarland bis heute lebendig.",
-      "Ehemalige Bergleute (\\'Kumpel\\') führen Besucher oft als Experten durch das Museum."
+      "Ehemalige Bergleute (\'Kumpel\') führen Besucher oft als Experten durch das Museum."
     ],
       hu: [
       "A kőszénbányászat hivatalosan 2012 nyarán ért véget a Saar-vidéken, mintegy 250 év után.",
@@ -1327,7 +1807,7 @@ export const poiExtraDe4b: POI[] = [
       "A múzeum mellett áll a történelmi, hatszögletű Hindenburg-torony (kilátótorony), amely egy régi aknatorony-koncepcióra emlékeztet.",
       "A Saar-vidéki szénmedence egykor egész Európa egyik legfontosabb bányaipari régiója volt.",
       "A bányászhagyományok, mint például a Borbála-napi ünnepség (december 4-én), a mai napig élnek a Saar-vidéken.",
-      "A múzeumban gyakran egykori bányászok (\\'Kumpel\\' / bajtársak) vezetik szakértőként a látogatókat."
+      "A múzeumban gyakran egykori bányászok (\'Kumpel\' / bajtársak) vezetik szakértőként a látogatókat."
     ],
       ro: [],
       en: ["Site of the last active coal mine in Saarland, closed in 2012.", "Home to the 'Saar Polygon', a 30-meter high steel monument.", "The mine's waste heap rises 150 meters above the surrounding valley.", "Represents over 250 years of Saarland's deep-mining tradition.", "The Saar Polygon's shape changes dynamically as you walk around it.", "The site is a key node on the 'Industrial Heritage Trail'."],
@@ -1398,8 +1878,75 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["A cross-border forest area covering roughly 50 square kilometers.", "Historically a primary resource for the Saarland glass industry.", "Home to the Karlsbrunn Wildlife Park and historic hunting lodge.", "The name 'Warndt' likely derives from an old word for 'forbidden forest'.", "A vital habitat for the European wildcat and rare amphibian species.", "Contains the 'Warndtheide', a unique heathland formed on sandy soil."],
-    }, image: "/poi-images/forest-warndt-sl-extra.webp"},
+    },
+  },
 
+  {
+    id: "city-saarlouis-sl-extra",
+    type: "city",
+    parent: "DE-SL",
+    coords: [6.7517, 49.3134],
+    name: { de: "Saarlouis", hu: "Saarlouis", ro: "Saarlouis", en: "Saarlouis" },
+    description: {
+      de: "Saarlouis ist eine Festungsstadt im Saarland, gegründet 1680 von König Ludwig XIV. von Frankreich als strategische Garnisonsstadt an der Saar.",
+      hu: "Saarlouis egy erőd-város a Saar-vidéken, amelyet 1680-ban XIV. Lajos francia király alapított stratégiai garnizonvárosként a Saar folyón.",
+      ro: "Saarlouis este un oraș-fortăreață din Saarland, fondat în 1680 de regele Ludovic al XIV-lea al Franței ca oraș de garnizoană strategic pe râul Saar.",
+      en: "Saarlouis is a fortified city in Saarland, founded in 1680 by King Louis XIV of France as a strategic garrison town on the Saar River.",
+    },
+    facts: {
+      de: [
+        "Die Stadtanlage folgt dem klassischen Sterngrundriß des Festungsbauers Vauban.",
+        "Napoleons Marschall Michel Ney wurde 1769 in Saarlouis geboren.",
+        "Das Ford-Werk Saarlouis ist einer der größten Arbeitgeber des Saarlandes.",
+        "Die historischen Wälle und Bastionen sind teilweise erhalten.",
+        "Saarlouis hat rund 35.000 Einwohner.",
+      ],
+      hu: [
+        "A városszerkezet a Vauban erődítménytervező klasszikus csillag-alaprajzát követi.",
+        "Napóleon marsallja, Michel Ney 1769-ben született Saarlouisban.",
+        "A saarlouisi Ford-gyár a Saar-vidék egyik legnagyobb munkáltatója.",
+        "A történelmi sáncok és bástyák részben fennmaradtak.",
+        "Saarlouisnak kb. 35 000 lakosa van.",
+      ],
+      ro: [
+        "Structura urbană urmează planul clasic în formă de stea al constructorului de fortărețe Vauban.",
+        "Marechalul lui Napoleon, Michel Ney, s-a născut în 1769 la Saarlouis.",
+        "Uzina Ford Saarlouis este unul dintre cei mai mari angajatori din Saarland.",
+        "Valurile și bastionele istorice sunt parțial conservate.",
+        "Saarlouis are circa 35.000 de locuitori.",
+      ],
+      en: [
+        "The city layout follows the classic star-shaped ground plan of fortress builder Vauban.",
+        "Napoleon's Marshal Michel Ney was born in Saarlouis in 1769.",
+        "The Saarlouis Ford plant is one of Saarland's largest employers.",
+        "The historic ramparts and bastions are partially preserved.",
+        "Saarlouis has around 35,000 inhabitants.",
+      ],
+    },
+    descriptionAdvanced: { de: "Saarlouis, oftmals als die 'heimliche Hauptstadt' des Saarlandes bezeichnet, besticht durch ein ganz besonderes, fast schon französisches Ambiente. Das hat historische Gründe: Die Stadt wurde 1680 vom französischen Sonnenkönig Ludwig XIV. (Louis XIV) als Festungsstadt zum Schutz der Ostgrenze Frankreichs gegründet. Der berühmte Festungsbaumeister Sébastien Le Prestre de Vauban entwarf die symmetrische, sternförmige Anlage, deren Umrisse – mit Wällen, Bastionen und Festungsgräben – das Stadtbild bis heute eindrucksvoll prägen. Der sechseckige Große Markt im Zentrum, einst ein Exerzierplatz, ist heute das lebendige Herzstück der Stadt und umgeben von charmanten Restaurants und Cafés. Die Altstadtgassen rund um die Festungsruinen gelten mit ihrer hohen Kneipendichte als die längste Theke des Saarlandes. Die tief verwurzelte französische Lebensart (Savoir-vivre) ist in Saarlouis an jeder Ecke spürbar.", hu: "Saarlouis, amelyet gyakran a Saar-vidék 'titkos fővárosaként' is emlegetnek, egy egészen különleges, szinte franciás hangulattal bűvöli el az ide látogatókat. Ennek történelmi okai vannak: a várost 1680-ban a francia Napkirály, XIV. Lajos alapította erődvárosként, Franciaország keleti határának védelmére. A híres erődítményépítő, Sébastien Le Prestre de Vauban tervezte a szimmetrikus, csillag alakú létesítményt, amelynek körvonalai – sáncokkal, bástyákkal és várárkokkal – a mai napig lenyűgözően meghatározzák a városképet. A központban található hatszögletű Nagy Piac (Großer Markt), amely egykor gyakorlótér volt, ma a város lüktető szíve, és hangulatos éttermek, kávézók veszik körül. Az erődromok körüli óvárosi utcácskákat a nagy kocsmasűrűség miatt a Saar-vidék leghosszabb bárpultjának (längste Theke) tartják. A mélyen gyökerező francia életmód (Savoir-vivre) Saarlouis minden sarkán érezhető.", ro: "", en: "Saarlouis, the 'Sun King's City,' is a unique piece of French history on German soil. Founded in 1680 by Louis XIV of France, it was designed by the legendary military engineer Vauban as a perfect hexagonal fortress to protect the French northern border. The city's layout still reflects this military precision, with its wide plazas and symmetrical streets. Even after becoming Prussian in 1815, Saarlouis retained its French flair and its reputation as a center of elegance and trade. Today, the city is a vibrant cultural hub, famous for its 'Old Town' nightlife and its role as a major center for the automotive and chocolate industries. Saarlouis remains a living symbol of the deep, intertwined history of Germany and France. Geschichte K8 – Vauban's fortifications and the age of Louis XIV." },
+    factsAdvanced: {
+      de: [
+      "Saarlouis wurde 1680 auf Befehl von König Ludwig XIV. von Frankreich gegründet.",
+      "Die Grundform der Innenstadt ist ein perfektes Sechseck, entworfen vom Star-Architekten Vauban.",
+      "Teile der Festungsanlagen, wie Gräben und Wälle, wurden im 20. Jahrhundert zu städtischen Parks (\'Saaraltarm\') umgebaut.",
+      "In Saarlouis wurde der Marschall von Frankreich, Michel Ney, 1769 geboren.",
+      "Der Große Markt misst 10.000 Quadratmeter und wird heute als Markt- und Parkplatz genutzt.",
+      "Aufgrund der Geschichte ist Saarlouis die saarländische Stadt mit der stärksten Affinität zur französischen Lebensart.",
+      "Die alte Kasematten (bombensichere unterirdische Gewölbe) der Festung beherbergen heute Restaurants und Lokale."
+    ],
+      hu: [
+      "Saarlouist 1680-ban alapították XIV. Lajos francia király parancsára.",
+      "A belváros alapformája egy tökéletes hatszög, amelyet Vauban sztárépítész tervezett.",
+      "Az erődítmény egyes részeit, például az árkokat és a sáncokat a 20. században városi parkokká (\'Saaraltarm\') alakították át.",
+      "Saarlouisban született 1769-ben Franciaország marsallja, Michel Ney.",
+      "A Nagy Piac (Großer Markt) 10 000 négyzetméter, és ma piacként, valamint parkolóként használják.",
+      "A történelem miatt Saarlouis a francia életmódhoz leginkább kötődő Saar-vidéki város.",
+      "Az erőd régi kazamatái (bombabiztos földalatti boltozatok) ma éttermeknek és kocsmáknak adnak otthont."
+    ],
+      ro: [],
+      en: ["Founded in 1680 by King Louis XIV and named in his honor.", "Designed by Vauban as a perfect hexagonal 'fortress of the sun'.", "The city's symbol is the 'Marshal Ney', a local-born hero of France.", "Home to the Ford Saarlouis plant, a major European car factory.", "Features the 'Great Market' (Großer Markt), the former parade ground.", "Remained a French enclave until the Congress of Vienna in 1815."],
+    },
+  },
 
   {
     id: "historical-mettlach-abbey-sl-extra",
@@ -1451,25 +1998,25 @@ export const poiExtraDe4b: POI[] = [
     },
     factsAdvanced: {
       de: [
-      "Der \\'Alte Turm\\' der Abtei stammt aus der Zeit um das Jahr 990 und ist das älteste Bauwerk des Saarlandes.",
+      "Der \'Alte Turm\' der Abtei stammt aus der Zeit um das Jahr 990 und ist das älteste Bauwerk des Saarlandes.",
       "Die Architektur des oktogonalen Baus ist von der karolingischen Pfalzkapelle in Aachen inspiriert.",
       "Die Benediktinerabtei wurde bereits im Jahr 676 von Sankt Lutwinus, einem fränkischen Bischof, gegründet.",
       "Die Ruinen der Abtei wurden 1809 zur Zentrale des Keramikunternehmens Villeroy & Boch.",
-      "In der barocken Abteikirche befindet sich heute das \\'Erlebniszentrum Villeroy & Boch\\'.",
+      "In der barocken Abteikirche befindet sich heute das \'Erlebniszentrum Villeroy & Boch\'.",
       "Der Alte Turm wurde im 19. Jahrhundert dank des Eingreifens des preußischen Königs Friedrich Wilhelm IV. vor dem Abriss bewahrt.",
       "Der Turm diente einst als Grabkapelle für den Gründer der Abtei, Lutwinus."
     ],
       hu: [
-      "Az apátság \\'Öreg Tornya\\' (Alter Turm) 990 körülről származik, és a Saar-vidék legrégebbi építménye.",
+      "Az apátság \'Öreg Tornya\' (Alter Turm) 990 körülről származik, és a Saar-vidék legrégebbi építménye.",
       "A nyolcszögletű épület építészetét az aacheni Karoling-kori palotakápolna ihlette.",
       "A bencés apátságot már 676-ban megalapította Szent Lutwinus frank püspök.",
       "Az apátság romjai 1809-ben a Villeroy & Boch kerámiaipari vállalat központjává váltak.",
-      "A barokk apátsági templomban ma a \\'Villeroy & Boch Élményközpont\\' található.",
+      "A barokk apátsági templomban ma a \'Villeroy & Boch Élményközpont\' található.",
       "Az Öreg Tornyot a 19. században IV. Frigyes Vilmos porosz király beavatkozásának köszönhetően mentették meg a lebontástól.",
       "A torony egykor sírkápolnaként szolgált az apátság alapítója, Lutwinus számára."
     ],
       ro: [],
       en: ["Global headquarters of Villeroy & Boch since the year 1809.", "Home to the 'Old Tower' (Alter Turm), built around 990 AD.", "Founded as a Benedictine monastery in the late 7th century.", "The current main building is a masterpiece of Rhenish Baroque.", "Features the 'Discovery Center', a high-tech ceramics museum.", "Located directly on the banks of the Saar near the Saarschleife."]
-    }, image: "/poi-images/historical-mettlach-abbey-sl-extra.webp"},
+    },
+  },
 ];
-
