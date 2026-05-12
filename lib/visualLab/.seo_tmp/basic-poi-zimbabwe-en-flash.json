@@ -1,67 +1,309 @@
 {
   "lang": "en",
   "country": "zimbabwe",
-  "files": ["lib/visualLab/data/poiExtraZimbabweCitiesV2.ts"],
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweCitiesV2.ts"
+  ],
   "items": [
-    { "id": "harare-cities-v2", "description": "The capital and largest city of Zimbabwe, serving as the nation's political and financial center.", "facts": ["Population over 2 million", "Located on the highveld", "Established in 1890", "Primary gateway city"] },
-    { "id": "bulawayo-cities-v2", "description": "Zimbabwe's second-largest city, known for its industrial heritage and wide, grid-pattern streets.", "facts": ["Founded in 1894", "Industrial hub", "Near Matobo National Park", "Rich railway history"] },
-    { "id": "chitungwiza-cities-v2", "description": "A major dormitory town located near Harare, known for its rapid population growth.", "facts": ["Population center", "Near Harare", "Rapidly expanded since 1970", "Residential hub"] },
-    { "id": "mutare-cities-v2", "description": "A scenic city located in the eastern highlands near the border with Mozambique.", "facts": ["Gateway to Eastern Highlands", "Gateway to Mozambique", "Founded in 1897", "Mountainous surroundings"] },
-    { "id": "gweru-cities-v2", "description": "An important commercial and educational center situated in the heart of the country.", "facts": ["Midlands capital", "Founded in 1894", "Railway junction", "Agricultural hub"] },
-    { "id": "kwekwe-cities-v2", "description": "A significant mining and industrial town famous for its gold production history.", "facts": ["Gold mining legacy", "Midlands region", "Founded in 1899", "Industrial center"] },
-    { "id": "kadoma-cities-v2", "description": "A town known historically for its gold mining operations and cotton industry.", "facts": ["Mining center", "Cotton industry", "Founded in 1901", "Midlands location"] },
-    { "id": "masvingo-cities-v2", "description": "A historic town that serves as the gateway to the ancient Great Zimbabwe ruins.", "facts": ["Gateway to Great Zimbabwe", "Oldest colonial town", "Founded in 1890", "Provincial center"] },
-    { "id": "chinhoyi-cities-v2", "description": "The administrative center of Mashonaland West, famous for its nearby limestone caves.", "facts": ["Gateway to Chinhoyi Caves", "Provincial capital", "Agricultural hub", "Founded in 1906"] },
-    { "id": "norton-cities-v2", "description": "A rapidly growing town serving as a residential and commercial center near Harare.", "facts": ["Near Harare", "Expanding industry", "Transit location", "Growing population"] },
-    { "id": "marondera-cities-v2", "description": "An agricultural trade center located in a productive farming district in Mashonaland East.", "facts": ["Agricultural center", "Provincial capital", "Timber and tobacco", "Founded in 1890"] },
-    { "id": "ruwa-cities-v2", "description": "A thriving commuter town on the eastern outskirts of Harare.", "facts": ["Harare satellite", "Residential growth", "Commercial expansion", "Infrastructure hub"] },
-    { "id": "chegutu-cities-v2", "description": "A town established as a gold mining camp that evolved into an agricultural center.", "facts": ["Gold mining origins", "Agriculture-focused", "Midlands corridor", "Historic settlement"] },
-    { "id": "zvishavane-cities-v2", "description": "A mining town in the Midlands, historically known for its asbestos production.", "facts": ["Asbestos mining legacy", "Midlands location", "Education hub", "Mining center"] },
-    { "id": "bindura-cities-v2", "description": "The administrative center of Mashonaland Central, known for its gold and nickel mines.", "facts": ["Provincial capital", "Mining hub", "Founded in 1901", "Agricultural region"] },
-    { "id": "beitbridge-cities-v2", "description": "A vital border town connecting Zimbabwe to South Africa via the Limpopo River bridge.", "facts": ["Border city", "Limpopo River", "Major trade route", "Strategic location"] },
-    { "id": "redcliff-cities-v2", "description": "A specialized town known for its heavy steel and iron industry.", "facts": ["Steel production site", "Iron industry", "Industrial town", "Near Kwekwe"] },
-    { "id": "victoria-falls-cities-v2", "description": "A major tourism hub located next to the world-famous waterfall on the Zambezi River.", "facts": ["Tourist hub", "Zambezi River", "World Heritage proximity", "Gateway to national park"] },
-    { "id": "hwange-cities-v2", "description": "A town built around large-scale coal mining and adjacent to the largest national park in Zimbabwe.", "facts": ["Coal mining center", "Near Hwange Nat. Park", "Industrial hub", "Gateway to wildlife"] },
-    { "id": "rusape-cities-v2", "description": "An agricultural service center in the Manicaland province.", "facts": ["Manicaland district", "Farm service hub", "Mid-way location", "Agricultural trade"] },
-    { "id": "chiredzi-cities-v2", "description": "A major center for the sugar cane industry in the southeastern lowveld.", "facts": ["Sugar cane industry", "Lowveld hub", "Irrigation-based economy", "Agricultural zone"] },
-    { "id": "kariba-cities-v2", "description": "A resort and hydroelectric town situated on the shores of Lake Kariba.", "facts": ["Kariba Dam site", "Hydroelectric hub", "Tourism location", "Zambezi river area"] },
-    { "id": "karoi-cities-v2", "description": "A productive town in the Mashonaland West province known for its tobacco farming.", "facts": ["Tobacco farming hub", "Agricultural area", "Transit center", "Regional trade"] },
-    { "id": "chipinge-cities-v2", "description": "A town in the eastern highlands known for tea and coffee plantations.", "facts": ["Tea and coffee region", "Eastern Highlands", "Agricultural center", "High rainfall area"] },
-    { "id": "gokwe-cities-v2", "description": "A large rural service center in the Midlands province, key to local agriculture.", "facts": ["Agricultural hub", "Cotton production", "Midlands province", "Regional market"] },
-    { "id": "shurugwi-cities-v2", "description": "A mining town set in a hilly region, famous for its chrome and gold deposits.", "facts": ["Mining hub", "Chrome production", "Hilly landscape", "Midlands town"] },
-    { "id": "gwanda-cities-v2", "description": "The capital of Matabeleland South, serving as a hub for livestock and mining.", "facts": ["Provincial capital", "Livestock farming", "Mining area", "Regional center"] },
-    { "id": "mashava-cities-v2", "description": "A former mining settlement known primarily for its asbestos industry.", "facts": ["Asbestos mining history", "Industrial history", "Midlands location", "Small town"] },
-    { "id": "mutoko-cities-v2", "description": "A significant rural center in the Mashonaland East province.", "facts": ["Agricultural center", "Granite mining area", "Market town", "Mashonaland East"] },
-    { "id": "epworth-cities-v2", "description": "A high-density residential suburb of Harare known for its unique balancing rocks.", "facts": ["Harare suburb", "Balancing rocks", "Dense residential area", "Commuter hub"] },
-    { "id": "mvuma-cities-v2", "description": "A small town in the Midlands province primarily serving as an agricultural outpost.", "facts": ["Agricultural outpost", "Midlands region", "Transit point", "Local commerce"] },
-    { "id": "shamva-cities-v2", "description": "A town in Mashonaland Central known for its long history of gold mining.", "facts": ["Gold mining area", "Mashonaland Central", "Agricultural base", "Industrial site"] },
-    { "id": "glendale-cities-v2", "description": "An agricultural town in the Mazowe valley focused on farming production.", "facts": ["Agricultural hub", "Mazowe valley", "Farming center", "Regional trade"] },
-    { "id": "mvurwi-cities-v2", "description": "A farming town in the Mashonaland Central province, famous for tobacco.", "facts": ["Tobacco growing area", "Agricultural center", "Mazowe region", "Small town"] },
-    { "id": "mount-darwin-cities-v2", "description": "A town in the northeast, historically an important administrative and farming center.", "facts": ["Agricultural hub", "Administrative center", "Northeastern Zimbabwe", "Trading center"] },
-    { "id": "plumtree-cities-v2", "description": "A border town on the western edge, serving as a vital link to Botswana.", "facts": ["Botswana border", "Customs point", "Transit hub", "Railway location"] },
-    { "id": "chivhu-cities-v2", "description": "An important agricultural market town situated on the Harare to Masvingo highway.", "facts": ["Market town", "Transit center", "Highway location", "Agricultural base"] },
-    { "id": "triangle-cities-v2", "description": "A company town built around extensive sugar cane estates and processing.", "facts": ["Sugar cane industry", "Company town", "Agricultural hub", "Lowveld region"] },
-    { "id": "centenary-cities-v2", "description": "A small agricultural town in the northern part of Zimbabwe.", "facts": ["Agricultural center", "Northern Zimbabwe", "Farming district", "Local commerce"] },
-    { "id": "banket-cities-v2", "description": "A farming town situated in a fertile agricultural district of Mashonaland West.", "facts": ["Fertile farmlands", "Mashonaland West", "Crop production", "Small trade hub"] },
-    { "id": "dete-cities-v2", "description": "A small settlement that serves as an entry point to Hwange National Park.", "facts": ["Gateway to Hwange", "Tourist stopover", "Small trade center", "Wildlife area"] },
-    { "id": "nkayi-cities-v2", "description": "A district center in Matabeleland North supporting local farming communities.", "facts": ["District capital", "Matabeleland North", "Agricultural hub", "Local trade"] },
-    { "id": "mberengwa-cities-v2", "description": "A significant mineral-rich district in the Midlands province.", "facts": ["Mineral rich area", "Midlands province", "Mining focus", "Regional hub"] },
-    { "id": "tsholotsho-cities-v2", "description": "A rural district center in Matabeleland North, important for regional administration.", "facts": ["Administrative center", "Matabeleland North", "Rural trade", "Local base"] },
-    { "id": "binga-cities-v2", "description": "A remote district center on the southern shores of Lake Kariba.", "facts": ["Lake Kariba shore", "Remote area", "Tourism and fishing", "Binga district"] },
-    { "id": "filabusi-cities-v2", "description": "A small mining and agricultural center in the Matabeleland South province.", "facts": ["Mining center", "Matabeleland South", "Agricultural area", "Local commerce"] },
-    { "id": "inyati-cities-v2", "description": "A historic settlement in the Matabeleland North area.", "facts": ["Historic settlement", "Matabeleland North", "Farming district", "Small trade center"] },
-    { "id": "lupane-cities-v2", "description": "The administrative center of Matabeleland North, serving the surrounding rural regions.", "facts": ["Provincial capital", "Matabeleland North", "Administrative hub", "Local commerce"] },
-    { "id": "guruve-cities-v2", "description": "A key farming area in Mashonaland Central province.", "facts": ["Farming hub", "Mashonaland Central", "Agricultural region", "Local commerce"] },
-    { "id": "rushinga-cities-v2", "description": "A rural service center located in the northeastern part of Zimbabwe.", "facts": ["Rural trade center", "Northeastern region", "Local administration", "Agricultural hub"] },
-    { "id": "chimanimani-cities-v2", "description": "A mountain town known for its dramatic landscapes and access to the Chimanimani mountains.", "facts": ["Mountainous region", "Hiking destination", "Scenic town", "Eastern Highlands"] },
-    { "id": "nyanga-cities-v2", "description": "A picturesque town in the Eastern Highlands popular for tourism and trout fishing.", "facts": ["Eastern Highlands", "Tourism hub", "High altitude", "Trout fishing area"] },
-    { "id": "penhalonga-cities-v2", "description": "A historic gold mining town nestled in a valley near Mutare.", "facts": ["Gold mining legacy", "Near Mutare", "Valley location", "Historic site"] },
-    { "id": "headlands-cities-v2", "description": "An agricultural trade center located on the main road between Harare and Mutare.", "facts": ["Highway location", "Agricultural area", "Trade hub", "Eastern Zimbabwe"] },
-    { "id": "concession-cities-v2", "description": "A farming town in the Mazowe valley of Mashonaland Central.", "facts": ["Farming valley", "Mashonaland Central", "Agricultural production", "Regional trade"] },
-    { "id": "murehwa-cities-v2", "description": "A large rural trading and administrative center in Mashonaland East.", "facts": ["Administrative center", "Mashonaland East", "Trade hub", "Agricultural district"] },
-    { "id": "wedza-cities-v2", "description": "A small agricultural center located in the Mashonaland East province.", "facts": ["Agricultural center", "Mashonaland East", "Local market", "Regional trade"] },
-    { "id": "goromonzi-cities-v2", "description": "A rural district town near Harare, known for its farming and local commerce.", "facts": ["Near Harare", "Rural district", "Agricultural area", "Commuter base"] },
-    { "id": "chakari-cities-v2", "description": "A small town primarily associated with the mining industry in the Midlands.", "facts": ["Mining town", "Midlands province", "Industrial history", "Regional base"] },
-    { "id": "shangani-cities-v2", "description": "A small rural center in the Midlands province associated with history and agriculture.", "facts": ["Rural center", "Midlands province", "Agricultural area", "Historic location"] }
+    {
+      "id": "harare-cities-v2",
+      "description": "Harare is the vibrant capital of Zimbabwe, serving as the country's primary political, economic, and cultural hub. It is a modern metropolis characterized by its wide, tree-lined avenues and a blend of colonial and contemporary architecture.",
+      "facts": ["Founded in 1890 as Fort Salisbury", "Elevation of approximately 1,483 meters", "Known for its beautiful jacaranda trees", "Home to the University of Zimbabwe", "Major center for tobacco trade", "Subtropical highland climate"]
+    },
+    {
+      "id": "bulawayo-cities-v2",
+      "description": "Bulawayo is Zimbabwe's second-largest city and is widely known as the 'City of Kings' due to its rich Ndebele heritage. The city features a distinctive grid-like layout with exceptionally wide streets originally designed to turn a full team of oxen.",
+      "facts": ["Established as a town in 1894", "Former capital of the Ndebele Kingdom", "Gateway to Matobo National Park", "Major industrial and railway hub", "Home to the Natural History Museum", "Located in the Matabeleland region"]
+    },
+    {
+      "id": "chitungwiza-cities-v2",
+      "description": "Chitungwiza is a large, rapidly growing dormitory town located just south of Harare. It was established in 1978 and has since become one of the most densely populated urban areas in Zimbabwe, serving many who commute to the capital.",
+      "facts": ["Formed from three former townships", "Located 30 km south of Harare", "Known for a vibrant arts and music scene", "Third most populous urban area", "Rapid urban expansion since 1980", "Major residential center for workers"]
+    },
+    {
+      "id": "mutare-cities-v2",
+      "description": "Mutare is a picturesque city nestled within the Eastern Highlands, acting as a vital trade gateway to the Mozambican port of Beira. It is surrounded by lush green mountains and offers a cooler, more temperate climate than much of the country.",
+      "facts": ["Capital of Manicaland Province", "Zimbabwe's most easterly city", "Founded in 1897 near the border", "Proximity to Vumba and Nyanga mountains", "Key center for timber and tea trade", "Surrounded by the Christmas Pass"]
+    },
+    {
+      "id": "gweru-cities-v2",
+      "description": "Gweru is the administrative capital of the Midlands Province and a significant industrial and educational center in central Zimbabwe. It is strategically located at a major railway junction, facilitating trade between the country's north and south.",
+      "facts": ["Founded in 1894 as a military post", "Home to Midlands State University", "Center for cattle ranching and dairy", "Host to a major military airbase", "Strategic railway and logistics hub", "Fifth largest city in Zimbabwe"]
+    },
+    {
+      "id": "kwekwe-cities-v2",
+      "description": "Kwekwe is a prominent mining and industrial town located halfway between Harare and Bulawayo. It is historically famous for its gold production and continues to be a major center for steel and chemical manufacturing in Zimbabwe.",
+      "facts": ["Founded in 1899 as a mining camp", "Located in the Midlands Province", "Home to the Globe and Phoenix Mine", "Major center for gold and iron ore", "Site of large-scale steel works", "Named after the nearby Kwekwe River"]
+    },
+    {
+      "id": "kadoma-cities-v2",
+      "description": "Kadoma is a key mining and agricultural town in the Mashonaland West Province, known for its gold, copper, and nickel deposits. It also serves as a central hub for the country's cotton industry, including processing and textile manufacturing.",
+      "facts": ["Founded in 1901 as Gatooma", "Located in Mashonaland West", "Major center for cotton ginning", "Rich in gold and nickel resources", "Important agricultural trade hub", "Surrounded by fertile farming land"]
+    },
+    {
+      "id": "masvingo-cities-v2",
+      "description": "Masvingo is the oldest colonial-era settlement in Zimbabwe and is famous for being the gateway to the Great Zimbabwe ruins. It is a major tourism and administrative center located in the southeastern part of the country.",
+      "facts": ["Founded in 1890 as Fort Victoria", "Capital of Masvingo Province", "Located near Lake Mutirikwi", "Gateway to Great Zimbabwe UNESCO site", "Oldest town in Zimbabwe", "Significant agricultural trade center"]
+    },
+    {
+      "id": "chinhoyi-cities-v2",
+      "description": "Chinhoyi is the administrative capital of Mashonaland West and is world-renowned for the stunning Chinhoyi Caves. The town is a busy agricultural center located on the main highway leading towards the Zambian border.",
+      "facts": ["Founded in 1906 as Sinoia", "Known for the Sleeping Pool caves", "Capital of Mashonaland West", "Located on the A1 highway to Zambia", "Hub for maize and tobacco farming", "Home to Chinhoyi University of Technology"]
+    },
+    {
+      "id": "norton-cities-v2",
+      "description": "Norton is a thriving industrial and residential town located just west of Harare along the main road to Bulawayo. It has grown rapidly as a satellite city, offering industrial services and housing for the expanding metropolitan population.",
+      "facts": ["Located 40 km west of Harare", "Expanding industrial center", "Situated near Lake Manyame", "Major residential commuter hub", "Known for paper and plastic industry", "Growing population and infrastructure"]
+    },
+    {
+      "id": "marondera-cities-v2",
+      "description": "Marondera is the capital of Mashonaland East and one of Zimbabwe's highest-altitude cities, offering a temperate climate. It is a premier center for agriculture, particularly known for its tobacco, timber, and high-quality educational institutions.",
+      "facts": ["Highest town in Zimbabwe", "Capital of Mashonaland East", "Founded in 1890 as Marandellas", "Major center for tobacco and grapes", "Home to several elite boarding schools", "Located on the main road to Mutare"]
+    },
+    {
+      "id": "ruwa-cities-v2",
+      "description": "Ruwa is a dynamic and fast-growing town located on the eastern edge of Harare. Once a small rural outpost, it has expanded into a major residential and industrial hub that supports the capital's eastern growth corridor.",
+      "facts": ["Located 22 km east of Harare", "Rapid growth since the 1980s", "Hub for small and medium industries", "Major commuter residential area", "Part of Mashonaland East Province", "Modern urban infrastructure"]
+    },
+    {
+      "id": "chegutu-cities-v2",
+      "description": "Chegutu is a significant agricultural and trading center in the Mashonaland West Province. It was established near gold deposits but evolved into a vital hub for cotton, maize, and livestock production in the fertile Midlands corridor.",
+      "facts": ["Formerly known as Hartley", "Located 100 km west of Harare", "Center for large-scale grain storage", "Major cotton and textile hub", "Gold mining history and legacy", "Situated on the main Bulawayo highway"]
+    },
+    {
+      "id": "zvishavane-cities-v2",
+      "description": "Zvishavane is a vibrant mining town in the Midlands Province, historically famous for its world-class asbestos deposits. Today, it has diversified into a major center for platinum and gold mining, supporting a growing urban population.",
+      "facts": ["Historically known for asbestos", "Major center for platinum mining", "Railway link to Maputo, Mozambique", "Home to a campus of MSU", "Located in the southern Midlands", "Vibrant commercial and mining hub"]
+    },
+    {
+      "id": "bindura-cities-v2",
+      "description": "Bindura is the administrative capital of Mashonaland Central and a major mining hub located in the fertile Mazowe Valley. The town is particularly noted for its significant nickel and gold mines, as well as its agricultural productivity.",
+      "facts": ["Capital of Mashonaland Central", "Major center for nickel mining", "Home to Bindura University of Science", "Located in the productive Mazowe Valley", "Founded in 1901 as a mining camp", "Key center for tobacco and maize"]
+    },
+    {
+      "id": "beitbridge-cities-v2",
+      "description": "Beitbridge is Zimbabwe's most critical border town, serving as the primary gateway to South Africa across the Limpopo River. It is one of the busiest inland border crossings in Africa, facilitating a massive volume of regional trade and transit.",
+      "facts": ["Southernmost town in Zimbabwe", "Located on the Limpopo River", "Busiest border post in the region", "Key link on the Cape-to-Cairo route", "Hot and arid semi-desert climate", "Strategic hub for regional logistics"]
+    },
+    {
+      "id": "redcliff-cities-v2",
+      "description": "Redcliff is an industrial town located near Kwekwe that was specifically built to support Zimbabwe's iron and steel industry. Its identity is deeply tied to the ZISCO steelworks and the rich iron ore deposits found in the surrounding red-earthed hills.",
+      "facts": ["Center of the iron and steel industry", "Located in the Midlands Province", "Named after the local red iron ore", "Established for industrial workers", "Adjacent to the city of Kwekwe", "Major site for heavy metallurgy"]
+    },
+    {
+      "id": "victoria-falls-cities-v2",
+      "description": "Victoria Falls is Zimbabwe's premier tourism destination, located on the Zambezi River next to the world-famous waterfall of the same name. It is a vibrant, international hub for adventure travel, wildlife safaris, and cross-border trade.",
+      "facts": ["Named after the iconic waterfall", "UNESCO World Heritage site nearby", "Known as the adventure capital", "On the border with Zambia", "Hosts a major international airport", "Gateway to several national parks"]
+    },
+    {
+      "id": "hwange-cities-v2",
+      "description": "Hwange is the center of Zimbabwe's coal mining industry and serves as the nation's primary energy hub. Located in the northwest, it is also the gateway to the country's largest and most famous wildlife reserve, Hwange National Park.",
+      "facts": ["Largest coal mining district", "Home to the Hwange Power Station", "Gateway to Hwange National Park", "Key railway and industrial center", "Located in Matabeleland North", "Major employer in the energy sector"]
+    },
+    {
+      "id": "rusape-cities-v2",
+      "description": "Rusape is a key agricultural and commercial town in the Manicaland Province, located on the main road and rail line between Harare and Mutare. It serves as a vital service center for a productive district specializing in tobacco and maize.",
+      "facts": ["Administrative center of Makoni district", "Midway point between Harare and Mutare", "Major center for tobacco farming", "Strategic railway and transit stop", "Founded in 1894 as a trade post", "Important regional market town"]
+    },
+    {
+      "id": "chiredzi-cities-v2",
+      "description": "Chiredzi is the main town in the southeastern Lowveld and is synonymous with Zimbabwe's massive sugar cane industry. Its economy is built on vast irrigated estates that have transformed the arid landscape into a productive agricultural powerhouse.",
+      "facts": ["Heart of the sugar cane industry", "Located in the southeastern Lowveld", "Known for its hot, tropical climate", "Proximity to Gonarezhou National Park", "Economy based on large-scale irrigation", "Home to the Hippo Valley estates"]
+    },
+    {
+      "id": "kariba-cities-v2",
+      "description": "Kariba is a scenic town built on the shores of Lake Kariba, famous for its massive hydroelectric dam and its role as a major tourist resort. It is a unique location where wildlife often wanders freely through the town's hilly residential areas.",
+      "facts": ["Site of the Kariba Dam wall", "Major source of hydroelectric power", "Resort town on Lake Kariba", "Important commercial fishing hub", "Located on the border with Zambia", "Known for its tiger fishing tournaments"]
+    },
+    {
+      "id": "karoi-cities-v2",
+      "description": "Karoi is a prosperous agricultural town in the Mashonaland West Province, renowned as one of Zimbabwe's most productive tobacco-growing districts. It serves as a major commercial hub for the surrounding commercial and communal farming areas.",
+      "facts": ["Premier tobacco farming center", "Located on the road to Lake Kariba", "Major agricultural service hub", "Part of Mashonaland West Province", "Derived from the local Karoi River", "Center for regional trade and grain"]
+    },
+    {
+      "id": "chipinge-cities-v2",
+      "description": "Chipinge is a high-rainfall town in the southeastern Highlands, famous for its verdant landscapes and sprawling tea and coffee plantations. Its unique climate and fertile soils also support significant production of macadamia nuts and avocados.",
+      "facts": ["Famous for tea and coffee estates", "Located in the Eastern Highlands", "High annual rainfall area", "Major producer of macadamia nuts", "Proximity to Chirinda Forest Reserve", "Cool and temperate mountain climate"]
+    },
+    {
+      "id": "gokwe-cities-v2",
+      "description": "Gokwe is a large and busy rural center in the Midlands Province, serving as the primary hub for Zimbabwe's small-scale cotton farmers. It is a major administrative and trading outpost for one of the country's most expansive rural districts.",
+      "facts": ["Zimbabwe's cotton capital", "Large rural administrative center", "Located in the Midlands Province", "Major regional market for livestock", "Expanding urban and commercial center", "Hub for small-scale agriculture"]
+    },
+    {
+      "id": "shurugwi-cities-v2",
+      "description": "Shurugwi is a scenic mining town situated on the Great Dyke, known for its dramatic mountain passes and rich chrome and gold deposits. Founded in 1899, it remains a critical center for the extraction of minerals in the Midlands Province.",
+      "facts": ["Major center for chrome mining", "Located on the Great Dyke ridge", "Hilly and scenic mountain scenery", "Founded in 1899 as Selukwe", "Located 30 km south of Gweru", "Rich history in gold production"]
+    },
+    {
+      "id": "gwanda-cities-v2",
+      "description": "Gwanda is the administrative capital of Matabeleland South and serves as a major hub for cattle ranching and gold mining. It is a key stop on the route to South Africa, supporting the commercial needs of a vast, semi-arid region.",
+      "facts": ["Capital of Matabeleland South", "Major center for cattle auctions", "Rich in gold mining activities", "Situated on the Bulawayo-Beitbridge road", "Known for its semi-arid climate", "Regional administrative and trade hub"]
+    },
+    {
+      "id": "mashava-cities-v2",
+      "description": "Mashava is a historic mining settlement west of Masvingo, primarily known for its past as a major center for asbestos production. Today, it has found a new identity as an educational hub, hosting a campus of the Great Zimbabwe University.",
+      "facts": ["Historic asbestos mining center", "Located 40 km west of Masvingo", "Hosts a Great Zimbabwe University campus", "Center for local granite extraction", "Small but established industrial town", "Situated on the road to Bulawayo"]
+    },
+    {
+      "id": "mutoko-cities-v2",
+      "description": "Mutoko is a significant agricultural trading town in the northeast, famously known as the 'vegetable garden' of Harare. It is also a global source of high-quality black granite, which is quarried extensively in the surrounding hills.",
+      "facts": ["Major source of black granite", "Leading producer of vegetables", "Located on the highway to Malawi", "Agricultural hub for small farmers", "Part of Mashonaland East Province", "Named after a famous local chief"]
+    },
+    {
+      "id": "epworth-cities-v2",
+      "description": "Epworth is a high-density residential area on the southeastern outskirts of Harare, famous for its iconic balancing rock formations. It has grown from a mission station into a massive urban community with a unique geological landscape.",
+      "facts": ["Famous for the Balancing Rocks", "Densely populated Harare suburb", "Origins as a Methodist mission station", "Unique geological rock formations", "Independent local board authority", "Rapidly growing commuter settlement"]
+    },
+    {
+      "id": "mvuma-cities-v2",
+      "description": "Mvuma is a strategic transit town in the Midlands Province, located at the critical intersection of the roads connecting Harare, Bulawayo, and Masvingo. It serves as a key stopover for travelers and a service center for local farming.",
+      "facts": ["Strategic highway intersection", "Located in the Midlands Province", "Historic mining and cattle center", "Important transit stop for travelers", "Midway between Harare and Masvingo", "Center for regional agricultural trade"]
+    },
+    {
+      "id": "shamva-cities-v2",
+      "description": "Shamva is a long-standing mining town in Mashonaland Central, renowned for hosting one of Zimbabwe's oldest and most productive gold mines. The town is nestled in a scenic, hilly area that also supports diverse agricultural activities.",
+      "facts": ["Historically famous for gold mining", "Founded in 1890 as Abercorn", "Located in Mashonaland Central", "Major producer of maize and cotton", "Set in a scenic, hilly landscape", "Home to the Shamva Gold Mine"]
+    },
+    {
+      "id": "glendale-cities-v2",
+      "description": "Glendale is a prosperous agricultural town located in the heart of the fertile Mazowe Valley. It is a critical processing center for grains and tobacco, benefiting from the highly productive commercial farmlands that surround it.",
+      "facts": ["Located in the fertile Mazowe Valley", "Major center for grain processing", "Hub for the local tobacco industry", "Situated near the town of Bindura", "Strategic rail and road transit point", "Part of Mashonaland Central Province"]
+    },
+    {
+      "id": "mvurwi-cities-v2",
+      "description": "Mvurwi is a major service center for the lucrative tobacco industry in Mashonaland Central. During the auction season, the town becomes a bustling hub of activity as farmers from the surrounding high-productivity areas come to trade.",
+      "facts": ["Premier tobacco growing district", "Major agricultural service hub", "Located in Mashonaland Central", "Hosts large-scale grain storage", "Key center for regional commerce", "Surrounded by elite commercial farms"]
+    },
+    {
+      "id": "mount-darwin-cities-v2",
+      "description": "Mount Darwin is a historic administrative center in the northeast of Zimbabwe, serving a vast agricultural district. It played a significant role in the country's liberation history and remains a vital hub for regional trade and governance.",
+      "facts": ["Administrative capital of Darwin district", "Significant site in liberation history", "Major agricultural trading center", "Located in Mashonaland Central", "Named after the nearby mountain peak", "Gateway to the Zambezi Valley regions"]
+    },
+    {
+      "id": "plumtree-cities-v2",
+      "description": "Plumtree is Zimbabwe's primary western gateway, located on the border with Botswana. It is a vital transit point for international rail and road traffic, facilitating trade and movement between Bulawayo and Francistown.",
+      "facts": ["Western border town with Botswana", "Major customs and immigration post", "Located in Matabeleland South", "Home to a renowned boarding school", "Important railway transit station", "Strategic link for regional commerce"]
+    },
+    {
+      "id": "chivhu-cities-v2",
+      "description": "Chivhu is a prominent market town in the heart of Zimbabwe, situated on the main highway between the capital and the south. It is widely recognized as a center for the cattle ranching industry and a critical stop for long-distance travelers.",
+      "facts": ["Founded in 1890 as Enkeldoorn", "Major center for cattle ranching", "Located on the Harare-Masvingo road", "Key transit stop and market town", "Heart of the Mashonaland East dairy", "Significant regional agricultural hub"]
+    },
+    {
+      "id": "triangle-cities-v2",
+      "description": "Triangle is a specialized company town in the southeastern Lowveld, entirely dedicated to the production and processing of sugar cane. It is surrounded by some of the largest irrigated estates in Africa, creating an oasis of green in an arid region.",
+      "facts": ["Major center for sugar production", "Owned and run by Tongaat Hulett", "Vast network of irrigation canals", "Located in the southeastern Lowveld", "Hosts its own private airfield", "One of the largest estates in Africa"]
+    },
+    {
+      "id": "centenary-cities-v2",
+      "description": "Centenary is a dedicated agricultural settlement in northern Zimbabwe, specializing in high-yield tobacco and cotton production. It serves as a vital service outpost for the remote farming communities near the Zambezi Valley.",
+      "facts": ["Major tobacco and cotton producer", "Located in Mashonaland Central", "Service center for northern farms", "Gateway towards the Muzarabani valley", "Small but critical agricultural hub", "Known for its productive soil"]
+    },
+    {
+      "id": "banket-cities-v2",
+      "description": "Banket is a thriving farming town in the fertile Mashonaland West Province, located just south of Chinhoyi. It is a critical center for tobacco and grain storage, serving many of the country's most successful commercial farming estates.",
+      "facts": ["Located in a fertile farming belt", "Major center for tobacco and maize", "Strategic stop on the Chinhoyi road", "Home to large-scale grain silos", "Part of Mashonaland West Province", "Vital service hub for commercial farms"]
+    },
+    {
+      "id": "dete-cities-v2",
+      "description": "Dete is a strategically located settlement on the edge of Hwange National Park and along the main railway line. It serves as a key jumping-off point for tourists and a vital logistics stop for the region's coal and wildlife sectors.",
+      "facts": ["Gateway to Hwange National Park", "Important railway logistics stop", "Home to the Painted Dog conservation", "Located in Matabeleland North", "Center for wildlife-based tourism", "Key stop on the Bulawayo-Falls line"]
+    },
+    {
+      "id": "nkayi-cities-v2",
+      "description": "Nkayi is a remote but essential administrative and trading center in the heart of Matabeleland North. It supports a vast rural population with services in education, health, and agriculture, and is known for its extensive local forests.",
+      "facts": ["Capital of the Nkayi district", "Located in Matabeleland North", "Major center for local cattle trade", "Surrounded by extensive timber forests", "Important rural administrative hub", "Center for regional education"]
+    },
+    {
+      "id": "mberengwa-cities-v2",
+      "description": "Mberengwa is a mineral-rich district center in the Midlands Province, famously known for its precious emeralds and gold. The town is a melting pot of cultures and serves as a vital hub for both artisanal and corporate mining operations.",
+      "facts": ["Famed for high-quality emeralds", "Rich in gold and chrome deposits", "Located in the Midlands Province", "Diverse cultural and ethnic mix", "Regional hub for artisanal miners", "Surrounded by rugged, hilly terrain"]
+    },
+    {
+      "id": "tsholotsho-cities-v2",
+      "description": "Tsholotsho is a significant administrative and cultural hub in western Zimbabwe, located on the edge of the Kalahari sands. It is an important center for the local population and is known for its proximity to wildlife areas and unique forest management.",
+      "facts": ["District capital of Tsholotsho", "Located in Matabeleland North", "Center for San cultural heritage", "Rich in local timber and forestry", "Proximity to Hwange National Park", "Administrative and trade center"]
+    },
+    {
+      "id": "binga-cities-v2",
+      "description": "Binga is a unique district center located on the remote southern shores of Lake Kariba. It is the spiritual and cultural heart of the Tonga people and offers some of the most spectacular, off-the-beaten-path scenery and fishing in Zimbabwe.",
+      "facts": ["Cultural center of the Tonga people", "Located on the shores of Lake Kariba", "Famous for its basket-weaving art", "Home to the BaTonga Museum", "Key hub for fishing and boating", "Remote and scenic tourism destination"]
+    },
+    {
+      "id": "filabusi-cities-v2",
+      "description": "Filabusi is a small but busy mining and agricultural center in the Matabeleland South Province. It is a key hub for local gold extraction and serves the commercial needs of the surrounding cattle-ranching and farming communities.",
+      "facts": ["Administrative center of Insiza", "Rich in gold mining activities", "Located in Matabeleland South", "Surrounded by cattle ranching land", "Regional hub for small-scale miners", "Strategic stop on the Mbalabala road"]
+    },
+    {
+      "id": "inyati-cities-v2",
+      "description": "Inyati is one of the oldest modern settlements in Zimbabwe, founded in 1859 as a mission station. Located north of Bulawayo, it holds deep historical significance as a cradle of education and early cross-cultural interaction in the region.",
+      "facts": ["Site of Zimbabwe's first mission", "Founded in 1895 by the LMS", "Located in Matabeleland North", "Deeply historic educational center", "Farming and small-scale mining hub", "Located near the town of Turk Mine"]
+    },
+    {
+      "id": "lupane-cities-v2",
+      "description": "Lupane is the administrative capital of the Matabeleland North Province and a burgeoning educational center. It is strategically located on the main road to Victoria Falls and is poised for growth due to its role in governance and local timber resources.",
+      "facts": ["Capital of Matabeleland North", "Home to Lupane State University", "Major center for timber forestry", "Located on the Victoria Falls road", "Expanding administrative center", "Potential for local natural gas"]
+    },
+    {
+      "id": "guruve-cities-v2",
+      "description": "Guruve is a highly productive agricultural center in the north of Zimbabwe, known for its high-quality tobacco and chrome. It is also internationally recognized for the Tengenenge art community, where world-famous stone sculptors reside.",
+      "facts": ["Famous for Tengenenge stone art", "Major producer of tobacco and chrome", "Located in Mashonaland Central", "Set in a landscape of granite hills", "Key center for regional agriculture", "Home to traditional Shona heritage"]
+    },
+    {
+      "id": "rushinga-cities-v2",
+      "description": "Rushinga is a rural administrative and trading center located in the far northeast of Zimbabwe. It serves as a vital service hub for the local communities near the border with Mozambique, specializing in cotton and small-grain farming.",
+      "facts": ["District capital of Rushinga", "Located in the far northeast", "Key center for cotton production", "Near the border with Mozambique", "Administrates a large rural area", "Known for its hot, dry climate"]
+    },
+    {
+      "id": "chimanimani-cities-v2",
+      "description": "Chimanimani is a breathtaking mountain town nestled in the quartzite peaks of the Eastern Highlands. It is a world-renowned destination for hikers and nature lovers, offering pristine forests, dramatic waterfalls, and a cool, mist-shrouded climate.",
+      "facts": ["Gateway to Chimanimani Mountains", "Known for quartzite mountain peaks", "Premier hiking and trekking site", "Hosts unique and rare mountain flora", "Located in the Manicaland Province", "Famous for the Bridal Veil Falls"]
+    },
+    {
+      "id": "nyanga-cities-v2",
+      "description": "Nyanga is Zimbabwe's most popular highland resort town, offering an alpine landscape of rolling hills and dramatic waterfalls. It is home to the country's highest peak, Mount Nyangani, and is a favorite for trout fishing and mountain retreats.",
+      "facts": ["Highest peak, Mt Nyangani nearby", "Premier alpine tourism resort", "Famous for its trout fishing lakes", "Located in the Eastern Highlands", "Home to Zimbabwe's highest waterfall", "Rich in ancient stone terrace ruins"]
+    },
+    {
+      "id": "penhalonga-cities-v2",
+      "description": "Penhalonga is a historic and picturesque gold-mining village located in a lush valley north of Mutare. Its deep-rooted history in mining and its scenic, mountainous setting make it one of the most unique and charming settlements in the Eastern Highlands.",
+      "facts": ["Historic gold mining village", "Located in a scenic mountain valley", "Situated just north of Mutare city", "Rich pre-colonial mining history", "Surrounded by timber and tea land", "Home to the Redwing Gold Mine"]
+    },
+    {
+      "id": "headlands-cities-v2",
+      "description": "Headlands is a small but busy trading center on the main highway between Harare and Mutare. It serves as a vital collection point for the surrounding commercial tobacco and maize farms, supporting the logistics of the Manicaland trade corridor.",
+      "facts": ["Strategic stop on the Mutare road", "Major center for tobacco collection", "Located in the Manicaland Province", "Regional hub for agricultural trade", "Important rail and road transit stop", "Surrounded by large-scale farms"]
+    },
+    {
+      "id": "concession-cities-v2",
+      "description": "Concession is a historic farming and mining town located in the productive Mazowe Valley. It is a major hub for grain and tobacco production, and its identity is shaped by the successful agricultural estates and small-scale gold mines in the area.",
+      "facts": ["Located in the fertile Mazowe district", "Major tobacco and grain producer", "Rich in local gold mining activity", "Part of Mashonaland Central Province", "Strategic stop near the capital city", "Home to the Mazowe citrus estates"]
+    },
+    {
+      "id": "murehwa-cities-v2",
+      "description": "Murehwa is an important cultural and administrative center in Mashonaland East, famous for its ancient rock art. The town serves a vast rural agricultural area and is a focal point for the preservation of local traditions and heritage.",
+      "facts": ["Home to the Murehwa Cave paintings", "Administrative center of the district", "Located 75 km northeast of Harare", "Major hub for rural trading", "Center for Shona cultural traditions", "Agricultural base for small farmers"]
+    },
+    {
+      "id": "wedza-cities-v2",
+      "description": "Wedza is a picturesque rural center situated at the base of the majestic Wedza Mountain. It serves a productive agricultural district known for its diverse farming activities and its historical significance in traditional iron smelting.",
+      "facts": ["Located at the foot of Wedza Mountain", "Major producer of tobacco and maize", "Located in the Mashonaland East", "Historic center for iron production", "Important rural administrative hub", "Scenic mountainous landscape"]
+    },
+    {
+      "id": "goromonzi-cities-v2",
+      "description": "Goromonzi is a growing rural district town located near Harare, renowned for its prestigious educational institutions. It is a key agricultural area that supplies the capital with fresh produce and horticulture from its productive farmlands.",
+      "facts": ["Home to elite historic schools", "Major horticulture and farming hub", "Located just 35 km from Harare", "Rapidly growing commuter settlement", "Part of Mashonaland East Province", "Administrative center for the district"]
+    },
+    {
+      "id": "chakari-cities-v2",
+      "description": "Chakari is a traditional and established gold-mining settlement in the Mashonaland West Province. The town's economy and life are centered around its deep-level gold mines, which have supported the local community for generations.",
+      "facts": ["Established gold mining settlement", "Located in the Mashonaland West", "Home to large-scale gold mines", "Situated near the town of Kadoma", "Primarily an industrial mining town", "Strong local mining community"]
+    },
+    {
+      "id": "shangani-cities-v2",
+      "description": "Shangani is a small but historically significant settlement located along the main route between Bulawayo and Gweru. It is best known for the events of the Shangani Patrol and its role as a regional center for cattle ranching.",
+      "facts": ["Named after the nearby Shangani River", "Site of major historical battles", "Located in the Matabeleland South", "Major center for cattle ranching", "Important stop on the national rail", "Home to the Shangani memorial"]
+    }
   ]
 }

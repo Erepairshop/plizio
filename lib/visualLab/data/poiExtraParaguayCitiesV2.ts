@@ -26,7 +26,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Asunción, the capital and largest city of the Republic of Paraguay, sits on the eastern bank of the Paraguay River directly across from the Argentine Gran Chaco, serving as the political, economic and cultural heart of the nation. Founded on 15 August 1537 by Spanish conquistador Juan de Salazar y Espinosa as Fort Nuestra Señora Santa María de la Asunción, it ranks among the oldest continuously inhabited cities in South America. Because numerous colonial expeditions and the second founding of Buenos Aires departed from here, it is traditionally called the Madre de Ciudades, the Mother of Cities. The historic core is dominated by the elegant Palacio de los López presidential palace, the Panteón Nacional de los Héroes and the Casa de la Independencia, while modern office towers rise along the Costanera promenade. Roughly 525 000 people live within the city limits and more than two million in the metropolitan area, making Asunción the country's principal urban centre and primary transport hub on the Paraguay River."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gilt als eine der ältesten Städte Südamerikas.", "Bekannt als 'Mutter der Städte', da Expeditionen von hier ausgingen.", "Wichtiger Binnenhafen am Fluss Paraguay.", "Das Panteón Nacional de los Héroes ist ein bedeutendes nationales Denkmal.", "Der Palacio de los López ist der offizielle Sitz des Präsidenten.", "Beherbergt das Museo del Barro mit einer Sammlung von indigener Kunst."],
       hu: [
         "Juan de Salazar y Espinosa alapította 1537. augusztus 15-én, a Boldogasszony mennybevétele napján.",
         "A város neve spanyolul 'Mennybemenetelt' jelent, utalva az alapítás ünnepére.",
@@ -41,7 +41,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Palacio de los López este considerată una dintre cele mai emblematice clădiri guvernamentale din America de Sud.",
         "Orașul găzduiește una dintre cele mai importante arhive culturale ale limbii guarani din lume."
       ],
-      en: []
+      en: ["Considered one of the oldest cities in South America.", "Known as the 'Mother of Cities' as expeditions departed from here.", "Important inland port on the Paraguay River.", "The Panteón Nacional de los Héroes is a major national monument.", "The Palacio de los López is the official workplace of the President.", "Hosts the Museo del Barro, showcasing a collection of indigenous art."]
     }, image: "/poi-images/asuncion-cities-v2.webp"},
   {
     id: "concepcion-cities-v2",
@@ -68,7 +68,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Concepción, situated on the right bank of the Paraguay River in the north of the country, is the capital of the department of the same name and one of Paraguay's most important river ports. The city was founded in 1773 by the colonial governor Agustín Fernando de Pinedo under the name Villa Real de la Concepción, originally as a military outpost protecting the northern frontier from Portuguese encroachment from Mato Grosso. During the late nineteenth and early twentieth centuries Concepción enjoyed a golden age built on the trade in yerba mate, hardwood and cattle, leaving behind a remarkable inventory of Italian eclectic and French Beaux-Arts buildings that still line its central streets. The city functions today as a major gateway to the sparsely populated Chaco region and is home to roughly 80 000 inhabitants. Among its landmarks are the Cathedral of the Immaculate Conception, the historic river port with its weathered colonial-era warehouses, and the lively Mercado Municipal."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Wichtiger Flusshafen für den Handel mit Brasilien.", "Wurde 1773 von Gouverneur Agustín Fernando de Pinedo gegründet.", "Ein wichtiger Militärposten während des Chaco-Krieges.", "Die Kathedrale von Concepción ist ein wichtiges architektonisches Wahrzeichen.", "Die Wirtschaft basiert auf Landwirtschaft und Viehzucht.", "Bekannt für seine gut erhaltene Kolonialarchitektur."],
       hu: [
         "A várost eredetileg Villa Real de la Concepción néven alapították.",
         "A 20. század elején Concepción volt Paraguay egyik leggazdagabb városa a nemzetközi kereskedelemnek köszönhetően.",
@@ -83,7 +83,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Catedrala găzduiește o altarpiece valoroasă din secolul al XIX-lea.",
         "Este un punct important de plecare pentru expedițiile în regiunea Chaco și pentru ecoturism."
       ],
-      en: []
+      en: ["Key river port for trade with Brazil.", "Founded in 1773 by Governor Agustín Fernando de Pinedo.", "A significant military post during the Chaco War.", "The Cathedral of Concepción is a key architectural landmark.", "Its economy is based on agriculture and livestock.", "Known for its well-preserved colonial architecture."]
     }, image: "/poi-images/concepcion-cities-v2.webp"},
   {
     id: "san-pedro-ycuamandiyu-cities-v2",
@@ -110,7 +110,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "San Pedro de Ycuamandyyú, capital of the San Pedro Department in north-central Paraguay, lies on the banks of the Jejuí Guazú River roughly 330 kilometres north of Asunción. The town was founded in 1786 under Governor Pedro Melo de Portugal and named after the apostle Saint Peter combined with the Guaraní word ycuamandyyú, meaning spring of many waters. It served for centuries as an important supply station on the northern yerba mate and tobacco trade route and remained a quiet rural administrative seat dominated by large estancias and a deeply traditional way of life. Today around 32 000 people live in the town, which is known for its colonial parish church, the central Plaza de los Héroes and its proximity to vast cattle ranches. The surrounding countryside is shaped by soybean farming, cattle ranching and smallholder agriculture, while the river offers fishing and modest river commerce."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1786 von Gouverneur Joaquín Alós y Brú.", "Hauptstadt des Departements San Pedro.", "Die Wirtschaft stützt sich stark auf Landwirtschaft, insbesondere Soja und Weizen.", "Der Fluss Jejuí bietet Möglichkeiten für Fischerei und Erholung.", "Liegt in einer Region, die für ihre reiche landwirtschaftliche Produktion bekannt ist.", "Die Stadt wurde nach dem Apostel Petrus benannt."],
       hu: [
         "A várost Pedro Melo de Portugal parancsára alapította Pedro de Lugo y Navarra.",
         "Itt található a 'Casa de la Cultura', amely a régió történelmi emlékeit őrzi.",
@@ -125,7 +125,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Este renumit pentru peisajele sale frumoase și râurile din apropiere, precum Jejui Guazú.",
         "Artizanii locali sunt cunoscuți pentru produsele din piele și broderii."
       ],
-      en: []
+      en: ["Founded in 1786 by Governor Joaquín Alós y Brú.", "Capital of the San Pedro Department.", "The economy relies heavily on agriculture, especially soy and wheat.", "The Jejui River offers opportunities for fishing and recreation.", "Located in a region known for its rich agricultural output.", "The city was named after Saint Peter the Apostle."]
     }, image: "/poi-images/san-pedro-ycuamandiyu-cities-v2.webp"},
   {
     id: "caacupe-cities-v2",
@@ -152,7 +152,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Caacupé, capital of the Cordillera Department, lies about 54 kilometres east of Asunción in a hilly landscape covered in Atlantic forest and is regarded as the religious capital of Paraguay. The town is dominated by the imposing Basilica of Nuestra Señora de los Milagros de Caacupé, a sanctuary built between 1945 and 1980, crowned by a distinctive blue dome and able to accommodate around 30 000 pilgrims at once. Every year on 8 December more than two million faithful flock to the city for the Marian feast, many of them walking the final kilometres on foot in a centuries-old tradition. The devotion centres on a small wooden statue of the Virgin from the seventeenth century which, according to legend, was carved by a Christianised Guaraní craftsman. With roughly 65 000 inhabitants, Caacupé thrives on pilgrimage tourism, religious craftsmanship and an active Catholic educational scene that includes seminaries and church-run schools."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Geistiges Zentrum Paraguays und Sitz der Basilika von Caacupé.", "Jährlich am 8. Dezember findet eine massive Wallfahrt statt.", "Gegründet im Jahr 1770 von Carlos Murphy.", "Der Name 'Ka'akupe' bedeutet auf Guaraní 'hinter dem Wald'.", "Die Stadt liegt in der Cordillera-Gebirgskette.", "Die Wirtschaft wird stark vom religiösen Tourismus beeinflusst."],
       hu: [
         "A legenda szerint egy José nevű guaraní fafaragó készítette a Szűzanya első szobrát, miután megmenekült az ellenségei elől.",
         "A bazilika kupolája az egyik legnagyobb Dél-Amerikában, és lenyűgöző kilátást nyújt a környékre.",
@@ -160,8 +160,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A város környéke híres a vízeséseiről és a természetjáró útvonalairól.",
         "Caacupé hivatalos alapítási éve 1770, Carlos Murphy alezredes idejében."
       ],
-      ro: [],
-      en: []
+      ro: ["Centrul spiritual al Paraguayului, găzduind Bazilica din Caacupé.", "Un pelerinaj masiv are loc anual pe 8 decembrie.", "Fondat în 1770 de Carlos Murphy.", "Numele 'Ka'akupe' înseamnă 'în spatele pădurii' în limba guarani.", "Orașul este situat în lanțul montan Cordillera.", "Economia este puternic influențată de turismul religios."],
+      en: ["Spiritual capital of Paraguay, home to the Basilica of Caacupé.", "A massive pilgrimage takes place annually on December 8th.", "Founded in 1770 by Carlos Murphy.", "The name 'Ka'akupe' means 'behind the forest' in the Guarani language.", "The city is located in the Cordillera mountain range.", "Its economy is heavily influenced by religious tourism."]
     }, image: "/poi-images/caacupe-cities-v2.webp"},
   {
     id: "villarrica-cities-v2",
@@ -188,7 +188,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Villarrica del Espíritu Santo, capital of the Guairá Department in central Paraguay, has a turbulent founding history: established in 1570 by Spanish conquistador Ruy Díaz de Melgarejo in what is today Brazil, the settlement had to be relocated several times because of attacks by Portuguese bandeirante slave raiders before finally settling at the foot of the Ybytyruzú range in 1682. This makes it one of the oldest cities in South America and the recognised cultural heart of inland Paraguay. Villarrica is celebrated for its vibrant literary scene, which has produced major Paraguayan poets such as Manuel Ortiz Guerrero, for the Universidad Católica Nuestra Señora de la Asunción and for a strong tradition in folk music. Its roughly 65 000 residents live mainly from yerba mate cultivation, sugar-cane processing, wine making and tobacco. The cathedral, the Plaza de los Héroes and the Museo del Barro Guaireño shape the cityscape."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet 1570, eine der ältesten Siedlungen des Landes.", "Bekannt als 'Die wandernde Stadt' wegen ihrer mehrmaligen Verlegung.", "Wichtiges Zentrum für Weinproduktion und Zuckerrohranbau.", "Heimat vieler paraguayischer Künstler, Musiker und Schriftsteller.", "Die Kathedrale Santa Clara ist ein architektonisches Wahrzeichen.", "Die Stadt hat einen starken deutschen Kultureinfluss."],
       hu: [
         "A várost Ruy Díaz de Melgarejo alapította Villa Rica del Espíritu Santo néven.",
         "Villarrica az egyetlen város Paraguayban, ahol a lóvontatású 'karumbé' taxi hivatalosan engedélyezett közlekedési eszköz.",
@@ -196,8 +196,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Itt található Paraguay egyik legrégebbi és legtekintélyesebb gimnáziuma.",
         "A környékbeli Ybytyruzú-hegységben található az ország legmagasabb pontja, a Cerro Peró."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat în 1570, una dintre cele mai vechi așezări din țară.", "Cunoscut sub numele de 'Orașul rătăcitor' din cauza relocărilor sale multiple.", "Centru important pentru producția de vin și trestie de zahăr.", "A găzduit mulți artiști, muzicieni și scriitori paraguayeni.", "Catedrala Santa Clara este un reper arhitectural.", "Orașul are o puternică influență culturală germană."],
+      en: ["Founded in 1570, one of the country's oldest settlements.", "Known as 'The Wandering City' due to its multiple relocations.", "Important center for wine production and sugarcane cultivation.", "Home to many Paraguayan artists, musicians, and writers.", "The Santa Clara Cathedral is an architectural landmark.", "The city has a strong German cultural influence."]
     }, image: "/poi-images/villarrica-cities-v2.webp"},
   {
     id: "coronel-oviedo-cities-v2",
@@ -224,7 +224,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Coronel Oviedo, capital of the Caaguazú Department in central-eastern Paraguay, lies about 130 kilometres east of Asunción at the meeting point of the country's principal east-west and north-south road corridors. Because of this strategic position the city is widely known as the Encrucijada del País, the crossroads of Paraguay, since Route 2 toward Ciudad del Este intersects here with Route 8 leading south to Villarrica and Caazapá. The settlement originated in 1758 under the name Ajos and was renamed in 1944 in honour of Colonel Florentín Oviedo, who died in the Chaco War. Today around 90 000 people live in the city, making it one of the most populous inland centres in Paraguay. Its economy thrives on soybean cultivation, cattle ranching, timber processing and a dense network of trucking firms and agricultural service providers, while education is anchored by several technical institutes and a regional university campus."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1758 als 'Nuestra Señora del Rosario de Ajos'.", "Strategisch günstig an der Kreuzung wichtiger nationaler Routen gelegen.", "Ein wichtiger Handels- und Landwirtschaftsknotenpunkt.", "Umbenannt zu Ehren von Oberst Florentino Oviedo.", "Die Wirtschaft basiert auf Viehzucht, Landwirtschaft und Holzindustrie.", "Die Kathedrale Virgen del Rosario ist das wichtigste religiöse Gebäude."],
       hu: [
         "A várost Jaime de San Justo kormányzó alapította.",
         "Híres a fafeldolgozó iparáról és a nagymértékű szójatermesztésről a környéken.",
@@ -232,8 +232,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Itt található Paraguay egyik legnagyobb állategészségügyi és mezőgazdasági egyetemi kara.",
         "Minden évben októberben nagy ünnepséget rendeznek a város védőszentje, a Rózsafüzér Királynője tiszteletére."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat în 1758 ca 'Nuestra Señora del Rosario de Ajos'.", "Situat strategic la intersecția unor rute naționale importante.", "Un important centru comercial și agricol.", "Redenumit în onoarea colonelului Florentino Oviedo.", "Economia se bazează pe creșterea vitelor, agricultură și industria lemnului.", "Catedrala Virgen del Rosario este principala clădire religioasă."],
+      en: ["Founded in 1758 as 'Nuestra Señora del Rosario de Ajos'.", "Strategically located at the crossroads of major national routes.", "An important commercial and agricultural hub.", "Renamed in honor of Colonel Florentino Oviedo.", "The economy is based on livestock, agriculture, and the timber industry.", "The Virgen del Rosario Cathedral is its main religious building."]
     }, image: "/poi-images/coronel-oviedo-cities-v2.webp"},
   {
     id: "caazapa-cities-v2",
@@ -260,7 +260,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Caazapá, capital of the department of the same name in southern Paraguay, lies about 230 kilometres south-east of Asunción in a gently rolling landscape that partly forms the Caaguazú National Park. Its name comes from the Guaraní language and means roughly the forest in between. The town was founded in 1607 by Franciscan friars under Friar Luis de Bolaños as one of the first Franciscan reductions in South America. It served as an important spiritual centre for the evangelisation of the Guaraní people and still preserves a colonial church containing numerous works of seventeenth and eighteenth century sacred art. Caazapá has around 24 000 inhabitants and is surrounded by forests, creeks and small farms that mainly grow yerba mate, cassava and maize. Its rural atmosphere and strong connection to the Guaraní heritage attract visitors interested in cultural and religious history."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1607 von einem Franziskanermönch.", "Der Name bedeutet auf Guaraní 'hinter dem Wald'.", "Bekannt für den Ykua Bolaños Brunnen, eine Quelle mit lokaler Legende.", "Die Wirtschaft konzentriert sich auf Landwirtschaft, insbesondere Baumwolle und Soja.", "Die Franziskanerkirche San José ist ein historisches Wahrzeichen.", "Hauptstadt des Departements Caazapá."],
       hu: [
         "Caazapá volt az egyik első ferences redukció Paraguay területén.",
         "Az Ykuá Bolaños forrás vize a helyiek szerint ma is gyógyító és szerencsehozó erejű.",
@@ -268,8 +268,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A település fontos történeti levéltárral rendelkezik a missziós időkből.",
         "Caazapá megye Paraguay egyik legzöldebb és erdőkben leggazdagabb vidéke."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat în 1607 de către un călugăr franciscan.", "Numele său înseamnă 'dincolo de pădure' în limba guarani.", "Renumit pentru fântâna Ykua Bolaños, un izvor cu o legendă locală.", "Economia se concentrează pe agricultură, în special bumbac și soia.", "Biserica franciscană San José este un monument istoric.", "Capitala departamentului Caazapá."],
+      en: ["Founded in 1607 by a Franciscan friar.", "Its name means 'beyond the forest' in the Guarani language.", "Known for the Ykua Bolaños fountain, a spring with a local legend.", "The economy is focused on agriculture, especially cotton and soy.", "The Franciscan church of San José is a historic landmark.", "Capital of the Caazapá Department."]
     }, image: "/poi-images/caazapa-cities-v2.webp"},
   {
     id: "encarnacion-cities-v2",
@@ -296,7 +296,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Encarnación, capital of the Itapúa Department, sits on the right bank of the Paraná River directly across from the Argentine city of Posadas, to which it is connected by the Roque González de Santa Cruz international bridge. The city was founded in 1614 by the Jesuit priest Roque González as the mission of Itapúa and later grew into a major trading hub for yerba mate, hardwood and tobacco. After the construction of the Yacyretá hydroelectric dam large portions of the historic lower town were flooded, prompting an extensive modernisation that gave Encarnación its present-day Costanera, an attractive riverside promenade with sandy beaches along the Paraná. This earned the city its nickname La Perla del Sur, the Pearl of the South. With around 130 000 residents, Encarnación is famous for hosting the largest and most colourful carnival in Paraguay and for its proximity to the UNESCO-listed Jesuit ruins of Trinidad and Jesús."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Bekannt als 'Die Perle des Südens'.", "Berühmt für den größten Karneval des Landes.", "Verfügt über eine moderne Uferpromenade und Sandstrände.", "Nahe der Jesuitenmissionen La Santísima Trinidad de Paraná und Jesús de Tavarangue.", "Verbunden mit Posadas, Argentinien, durch die San-Roque-González-de-Santa-Cruz-Brücke.", "Ein wichtiges Handels- und Tourismuszentrum."],
       hu: [
         "Encarnación eredeti neve Nuestra Señora de la Anunciación de Itapúa volt.",
         "A város központját teljesen újjáépítették a Yacyretá vízerőmű gátjának építésekor bekövetkező áradások miatt.",
@@ -304,8 +304,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A város fontos mezőgazdasági exportközpont, különösen a gabona és a szója tekintetében.",
         "A Costanera sétány több mint 27 kilométer hosszú, ideális sétáláshoz és sportoláshoz."
       ],
-      ro: [],
-      en: []
+      ro: ["Cunoscut ca 'Perla Sudului'.", "Renumit pentru cel mai mare carnaval din țară.", "Dispune de o promenadă modernă pe malul apei și plaje cu nisip.", "Aproape de Misiunile Iezuite La Santísima Trinidad de Paraná și Jesús de Tavarangue.", "Conectat cu Posadas, Argentina, prin podul San Roque González de Santa Cruz.", "Un important centru comercial și turistic."],
+      en: ["Known as 'The Pearl of the South'.", "Famous for hosting the country's largest Carnival celebration.", "Features a modern waterfront promenade (Costanera) and sandy beaches.", "Close to the Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue.", "Connected to Posadas, Argentina, by the San Roque González de Santa Cruz Bridge.", "An important commercial and tourism hub."]
     }, image: "/poi-images/encarnacion-cities-v2.webp"},
   {
     id: "san-juan-bautista-cities-v2",
@@ -332,7 +332,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "San Juan Bautista de las Misiones, capital of the Misiones Department in southern Paraguay, lies about 195 kilometres south of Asunción along Route 1 in a fertile, gently rolling savanna landscape. The town was founded in 1697 by the Jesuit Pedro Barba as the reduction of San Juan Bautista and formed part of the closed system of Jesuit indigenous missions that shaped the cultural and economic life of the region until 1768. Even after the expulsion of the Jesuits the town retained its ecclesiastical importance and is today the seat of its own Roman Catholic diocese. With around 25 000 inhabitants San Juan Bautista relies primarily on cattle ranching, rice cultivation and maize, and is regarded as a quiet, tradition-minded administrative centre with well preserved historic streets. The annual patronal feast in honour of Saint John the Baptist on 24 June, featuring the famous Tata Ári Jehasa firewalking ritual, draws thousands of visitors from across the country."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Hauptstadt des Departements Misiones.", "Wichtiges Zentrum der Viehzucht in Paraguay.", "Die Stadt beherbergt das Diözesanmuseum für heilige Kunst.", "Gegründet im Jahr 1893.", "Benannt nach Johannes dem Täufer.", "In der Nähe befindet sich die historische Jesuitenreduktion von San Ignacio Guazú."],
       hu: [
         "A várost 1893-ban alapították hivatalosan Juan de la Cruz Ayala kormányzása alatt.",
         "A helyi katedrális az egyik legszebb barokk stílusú egyházi épület a régióban.",
@@ -340,8 +340,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A város minden évben megrendezi a 'Batalla de los Quesos' (Sajtok Csatája) nevű gasztronómiai eseményt.",
         "A környékbeli mocsaras vidékeken gazdag élővilággal rendelkeznek."
       ],
-      ro: [],
-      en: []
+      ro: ["Capitala departamentului Misiones.", "Un centru vital pentru creșterea vitelor în Paraguay.", "Orașul găzduiește Muzeul Diecezan de Artă Sacră.", "Fondat în anul 1893.", "Numit după Sfântul Ioan Botezătorul.", "Reducția iezuită istorică San Ignacio Guazú este în apropiere."],
+      en: ["Capital of the Misiones Department.", "A vital center for cattle ranching in Paraguay.", "The city hosts the Diocesan Museum of Sacred Art.", "Established in the year 1893.", "Named after Saint John the Baptist.", "The historical Jesuit Reduction of San Ignacio Guazú is nearby."]
     }, image: "/poi-images/san-juan-bautista-cities-v2.webp"},
   {
     id: "paraguari-cities-v2",
@@ -368,7 +368,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Paraguarí, capital of the department of the same name, lies about 65 kilometres south-east of Asunción at the foot of the dramatic Cordillera de los Altos range, whose granite peaks shape the surrounding scenery. The town was founded in 1775 by Governor Agustín Fernando de Pinedo and played a major role in the South American wars of independence: on 19 January 1811 the Battle of Paraguarí took place here, in which Paraguayan militias defeated the Argentine Army of Liberation under General Manuel Belgrano, opening the road to Paraguay's own independence. Today around 25 000 people live in the town, which is known for its colonial parish church of San Fernando, its historic railway station dating from the pioneering era of the Paraguayan railway, and the nearby rock formations of Cerro Hu, Cerro Perõ and Cerro Santo Tomás. Cattle ranching, sugar-cane processing and a steadily growing tourism sector based on hiking shape the local economy."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet 1775 durch Agustín Fernando de Pinedo.", "Bekannt als 'Wiege der nationalen Unabhängigkeit'.", "Wichtige Schlacht des paraguayischen Unabhängigkeitskrieges fand hier statt.", "Umgeben von Hügeln, die großartige Wandermöglichkeiten bieten.", "Die Wirtschaft stützt sich auf Viehzucht und Landwirtschaft.", "Historische Artillerie-Garnisonsstadt."],
       hu: [
         "A várost gyakran nevezik a 'Hegyi Bikák Városának' a környező dombok formája miatt.",
         "Itt található Paraguay egyik legrégebbi vasútállomása, amely ma múzeumként működik.",
@@ -376,8 +376,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A paraguaríi tüzérségi parancsnokság fontos katonai bázis, amelynek története messzire nyúlik vissza.",
         "A város környékén kiváló minőségű márványt bányásznak."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat în 1775 de către Agustín Fernando de Pinedo.", "Cunoscut drept 'Leagănul Independenței Naționale'.", "O bătălie cheie din războiul de independență al Paraguayului a avut loc aici.", "Înconjurat de dealuri care oferă oportunități excelente de drumeții.", "Economia se bazează pe creșterea vitelor și agricultură.", "Oraș istoric cu garnizoană de artilerie."],
+      en: ["Founded in 1775 by Agustín Fernando de Pinedo.", "Known as the 'Cradle of National Independence'.", "A key battle of Paraguay's war for independence was fought here.", "Surrounded by hills offering great hiking opportunities.", "Its economy is based on cattle ranching and agriculture.", "Historical artillery garrison town."]
     }, image: "/poi-images/paraguari-cities-v2.webp"},
   {
     id: "ciudad-del-este-cities-v2",
@@ -404,7 +404,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Ciudad del Este, capital of the Alto Paraná Department, lies in the far east of Paraguay on the Paraná River, directly across from the Brazilian city of Foz do Iguaçu, to which it is connected by the Friendship Bridge or Puente de la Amistad. The town was founded in 1957 as Puerto Presidente Stroessner and renamed Ciudad del Este in 1989 after the fall of the dictator. With around 320 000 inhabitants it is today the second-largest city in Paraguay and the country's most important commercial hub. Sitting at the triple border with Brazil and Argentina, the city has grown into a dominant regional shopping and import centre; thousands of Brazilians cross the bridge every day to buy duty-free electronics, cosmetics and clothing. Its economy is further fuelled by the nearby Itaipú hydroelectric dam, one of the largest in the world, and by proximity to the world-famous Iguazú Falls."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Drittgrößte Freihandelszone der Welt.", "Gegründet 1957 als 'Puerto Flor de Lis'.", "Ein geschäftiges Handelszentrum an der Grenze zu Brasilien und Argentinien.", "Die Freundschaftsbrücke verbindet es mit Foz do Iguaçu, Brasilien.", "Nahe am Itaipu-Staudamm, einem der größten Wasserkraftwerke der Welt.", "Hat eine vielfältige Bevölkerung mit großen libanesischen und taiwanesischen Gemeinschaften."],
       hu: [
         "Ciudad del Este kereskedelmi forgalma alapján Hongkong és Miami után a világ harmadik legfontosabb kereskedelmi központjaként volt számon tartva a 90-es években.",
         "A várost mindössze néhány évtized alatt építették fel a semmiből a dzsungel közepén.",
@@ -412,8 +412,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A Barátság híd (Puente de la Amistad) a Paraná folyó felett ível át, és az egyik legforgalmasabb határátkelő a kontinensen.",
         "A városban található a 'Museo de la Tierra Guaraní', amely a környék természetrajzát és antropológiáját mutatja be."
       ],
-      ro: [],
-      en: []
+      ro: ["A treia cea mai mare zonă de liber schimb din lume.", "Fondat în 1957 sub numele de 'Puerto Flor de Lis'.", "Un centru comercial aglomerat la granița cu Brazilia și Argentina.", "Podul Prieteniei îl leagă de Foz do Iguaçu, Brazilia.", "Aproape de barajul Itaipu, una dintre cele mai mari hidrocentrale din lume.", "Are o populație diversă, cu comunități mari libaneze și taiwaneze."],
+      en: ["Third-largest free-trade zone in the world.", "Founded in 1957 as 'Puerto Flor de Lis'.", "A bustling commercial center on the border with Brazil and Argentina.", "The Friendship Bridge connects it to Foz do Iguaçu, Brazil.", "Close to the Itaipu Dam, one of the world's largest hydroelectric plants.", "Has a diverse population with large Lebanese and Taiwanese communities."]
     }, image: "/poi-images/ciudad-del-este-cities-v2.webp"},
   {
     id: "aregua-cities-v2",
@@ -440,7 +440,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Areguá, capital of the Central Department, lies just 28 kilometres east of Asunción on the western shore of Lake Ypacaraí and is widely known as the Ciudad de las Frutillas, the strawberry city, thanks to its cobblestone streets, strawberry fields and ceramic crafts. The settlement traces its roots to a late sixteenth century Franciscan reduction; its official founding date is 1538, making Areguá one of the oldest towns in Paraguay. During the nineteenth and early twentieth centuries it became a fashionable summer retreat for wealthy families from Asunción, leaving the historic centre rich in colonial and colonial-revival villas. Today around 80 000 people live in the municipality, which is known for its lively artistic community, numerous galleries, the Centro Cultural del Lago, and an annual strawberry expo. The hilltop parish church of La Candelaria offers sweeping views over the lake and the surrounding hills."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Bekannt für seine Erdbeerproduktion und das jährliche Erdbeerfest.", "Liegt am Ufer des Ypacaraí-Sees.", "Berühmt für seine Töpferwaren und Keramikhandwerk.", "Hauptstadt des Departements Central.", "Die Architektur der Stadt zeigt den europäischen Einfluss des späten 19. Jahrhunderts.", "Ein beliebtes Sommerziel für die Einwohner von Asunción."],
       hu: [
         "Areguát 2019-ben az UNESCO a 'Kézművesség és Népművészetek Városának' választotta.",
         "Itt található a Cerro Koi, egy különleges geológiai képződmény, amelynek hatszögletű homokkő oszlopai csak három helyen léteznek a világon.",
@@ -448,8 +448,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A város temploma a központi téren áll, és az egyik legszebb kilátást nyújtja a tóra.",
         "Areguá vasútállomása fontos emlékhelye a paraguayi aranykornak."
       ],
-      ro: [],
-      en: []
+      ro: ["Cunoscut pentru producția sa de căpșuni și festivalul anual al căpșunilor.", "Situat pe malul lacului Ypacaraí.", "Renumit pentru olărit și artizanatul ceramic.", "Capitala departamentului Central.", "Arhitectura orașului reflectă influența europeană de la sfârșitul secolului al XIX-lea.", "O destinație populară de vară pentru locuitorii din Asunción."],
+      en: ["Known for its strawberry production and annual Strawberry Festival.", "Located on the shores of Lake Ypacaraí.", "Famous for its pottery and ceramic handicrafts.", "Capital of the Central Department.", "The town's architecture shows late 19th-century European influence.", "A popular summer destination for residents of Asunción."]
     }, image: "/poi-images/aregua-cities-v2.webp"},
   {
     id: "pilar-cities-v2",
@@ -476,7 +476,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Pilar, capital of the Ñeembucú Department in south-western Paraguay, lies on the left bank of the Paraguay River near its junction with the Tebicuary, opposite the Argentine province of Formosa. The town was founded in 1779 by Governor Pedro Melo de Portugal as Villa del Pilar and named after its patron, Our Lady of the Pillar. During the War of the Triple Alliance Pilar briefly served as the provisional capital of Paraguay, since the government retreated here after Asunción fell to allied forces. With around 33 000 inhabitants Pilar is today an important industrial centre, anchored above all by the Manufactura de Pilar S.A. textile mill, locally known as Manupar, which dominates the local economy. The town is further known for its carnival tradition, its well preserved colonial cityscape centred on the Cathedral of Nuestra Señora del Pilar, and for the vast surrounding wetlands, which form one of South America's richest bird habitats."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet 1779 als 'Villa del Ñeembucú'.", "Hauptstadt des Departements Ñeembucú.", "Wichtiger Hafen am Zusammenfluss der Flüsse Paraguay und Ñeembucú.", "Bekannt für seine Textilindustrie, insbesondere Baumwolle.", "Die Basilika Unserer Lieben Frau von Pilar ist ein wichtiges religiöses Gebäude.", "Die Stadt wurde durch Überschwemmungen schwer beeinträchtigt."],
       hu: [
         "Pilart gyakran nevezik az 'Oktatás és a Béke Városának'.",
         "A várost 1983-ban hatalmas áradás sújtotta, ami után modern gátrendszert építettek a védelem érdekében.",
@@ -484,8 +484,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A katedrálisban található a Pilar-i Szűz kegyszobra, amely Spanyolországból érkezett.",
         "A város környéki mocsaras vidékek (esteros) egyedülálló ökoszisztémát alkotnak."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat în 1779 ca 'Villa del Ñeembucú'.", "Capitala departamentului Ñeembucú.", "Port important la confluența râurilor Paraguay și Ñeembucú.", "Cunoscut pentru industria sa textilă, în special bumbac.", "Bazilica Maicii Domnului din Pilar este o clădire religioasă importantă.", "Orașul a fost afectat semnificativ de inundații de-a lungul istoriei."],
+      en: ["Founded in 1779 as 'Villa del Ñeembucú'.", "Capital of the Ñeembucú Department.", "Important port at the confluence of the Paraguay and Ñeembucú rivers.", "Known for its textile industry, particularly cotton.", "The Basilica of Our Lady of Pilar is a major religious building.", "The city has been significantly affected by floods throughout its history."]
     }, image: "/poi-images/pilar-cities-v2.webp"},
   {
     id: "pedro-juan-caballero-cities-v2",
@@ -512,7 +512,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Pedro Juan Caballero, capital of the Amambay Department, lies in the far north-east of Paraguay on the border with Brazil and is separated from the Brazilian city of Ponta Porã essentially only by Avenida Internacional, a so-called dry border with no river or wall. The town was founded in 1893 and named after the independence fighter Pedro Juan Caballero, one of the main protagonists of the Paraguayan revolution of 1811. With around 110 000 inhabitants it is one of the most important economic centres in the region, sustained by cross-border trade, cattle ranching and tourism. Thanks to the seamless connection with Ponta Porã and its casinos and shopping malls, large numbers of Brazilians and Argentines visit the city. The Sierra de Amambay range, with its caves, indigenous rock paintings and the Cerro Corá National Park where the War of the Triple Alliance ended in 1870, lies only a few kilometres away."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Hauptstadt des Departements Amambay.", "Liegt an der Grenze zu Ponta Porã, Brasilien.", "Die Grenze wird durch eine einzige Straße markiert.", "Ein wichtiges Handelszentrum, das oft als 'Terrasse des Landes' bezeichnet wird.", "Die Wirtschaft ist stark mit der seines brasilianischen Nachbarn verflochten.", "Benannt nach einem Helden der paraguayischen Unabhängigkeit."],
       hu: [
         "A várost eredetileg Punta Porã néven ismerték az alapítás előtt.",
         "Itt található a Cerro Corá Nemzeti Park, ahol Paraguay történetének egyik legfontosabb csatája zajlott és Mariscal López életét vesztette.",
@@ -520,8 +520,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Pedro Juan Caballero híres a multikulturális légköréről, ahol a spanyol, a guaraní és a portugál nyelv keveredik.",
         "A környékbeli kávéültetvények az ország legjobbjai közé tartoznak."
       ],
-      ro: [],
-      en: []
+      ro: ["Capitala departamentului Amambay.", "Situat la granița cu Ponta Porã, Brazilia.", "Granița este marcată de o singură stradă.", "Un important centru comercial, adesea numit 'terasa țării'.", "Economia este puternic interconectată cu cea a vecinului său brazilian.", "Numit după un erou al independenței paraguayene."],
+      en: ["Capital of the Amambay Department.", "Located on the border with Ponta Porã, Brazil.", "The border is marked by a single avenue.", "An important commercial center, often called the 'terrace of the country'.", "Its economy is heavily intertwined with its Brazilian neighbor.", "Named after a hero of Paraguayan independence."]
     }, image: "/poi-images/pedro-juan-caballero-cities-v2.webp"},
   {
     id: "salto-del-guaira-cities-v2",
@@ -548,7 +548,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Salto del Guairá, capital of the Canindeyú Department in north-eastern Paraguay, lies on the right bank of the Paraná River directly at the border with Brazil. The town takes its name from the once world-famous Seven Falls of Sete Quedas, which by sheer volume surpassed Niagara but were completely submerged in 1982 by the construction of the Itaipú reservoir. Today the city has around 25 000 inhabitants and serves as the regional administrative, commercial and logistics centre for an intensely agricultural area producing soybeans, maize and wheat. Through the bridge to Mundo Novo in Mato Grosso do Sul it is closely tied to the Brazilian market, which fuels brisk cross-border trade in electronics and consumer goods. Salto del Guairá is also the gateway to the Mbaracayú Forest Reserve, one of the last large remnants of the Atlantic Forest in Paraguay."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Hauptstadt des Departements Canindeyú.", "Gegründet 1959, eine relativ junge Stadt.", "Wuchs schnell nach dem Bau des Itaipu-Staudamms.", "Ein wichtiges Einkaufsziel für Brasilianer.", "Liegt am Ufer des Paraná-Flusses.", "Benannt nach den ehemaligen Guaíra-Wasserfällen, die vom Itaipu-See überflutet wurden."],
       hu: [
         "A várost 1959-ben alapították, eredetileg a faipar és a yerba mate kitermelésére.",
         "A Guairá-vízesés (Saltos del Guairá) hangját állítólag 20 kilométeres távolságból is hallani lehetett.",
@@ -556,8 +556,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Salto del Guairá Paraguay egyik legfontosabb adóbevételi forrása a határon átnyúló kereskedelem miatt.",
         "A város modern hídja összeköti Paraguayt a brazíliai Guaíra várossal."
       ],
-      ro: [],
-      en: []
+      ro: ["Capitala departamentului Canindeyú.", "Fondat în 1959, un oraș relativ tânăr.", "A crescut rapid după construirea barajului Itaipu.", "O destinație importantă de cumpărături pentru brazilieni.", "Situat pe malurile râului Paraná.", "Numit după fostele cascade Guaíra, scufundate de lacul Itaipu."],
+      en: ["Capital of the Canindeyú Department.", "Founded in 1959, a relatively young city.", "Grew rapidly following the construction of the Itaipu Dam.", "An important shopping destination for Brazilians.", "Located on the shores of the Paraná River.", "Named after the former Guaíra Falls, which were submerged by the Itaipu Lake."]
     }, image: "/poi-images/salto-del-guaira-cities-v2.webp"},
   {
     id: "villa-hayes-cities-v2",
@@ -584,7 +584,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Villa Hayes, capital of the Presidente Hayes Department in the Paraguayan Chaco, lies about 30 kilometres north-west of Asunción on the western bank of the Paraguay River and is the only departmental capital in the Chaco situated close to the national capital. The settlement was founded in 1786 under the name Melodía and renamed in 1879 in honour of US President Rutherford B. Hayes, who in his 1878 arbitration awarded Paraguay the disputed northern Chaco after the War of the Triple Alliance. With around 30 000 inhabitants Villa Hayes is sustained mainly by the Acepar steel mill, cattle ranching and timber. The city is connected to Asunción by the Puente Remanso bridge and forms the gateway to the sparsely populated western Chaco. Although the cityscape is austere, the central square with the statue of Hayes still recalls the diplomatic importance of the place."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Hauptstadt des Departements Presidente Hayes.", "Benannt nach US-Präsident Rutherford B. Hayes.", "Hayes schlichtete einen Grenzstreit zugunsten Paraguays.", "Ein wichtiges Industriezentrum mit Stahlwerken und Häfen.", "Liegt am Westufer des Paraguay-Flusses.", "Ursprünglich als 'Villa Occidental' bekannt."],
       hu: [
         "A várost eredetileg Villa Occidental néven alapították 1855-ben, francia telepesek bevonásával.",
         "Rutherford B. Hayes az egyetlen amerikai elnök, akiről megyét és várost neveztek el Paraguayban.",
@@ -592,8 +592,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A folyóparti sétány (Costanera) gyönyörű kilátást nyújt a Paraguay folyó.",
         "A közeli mocsaras vidékeken gazdag vízi madárvilág figyelhető meg."
       ],
-      ro: [],
-      en: []
+      ro: ["Capitala departamentului Presidente Hayes.", "Numit după președintele american Rutherford B. Hayes.", "Hayes a arbitrat o dispută de graniță în favoarea Paraguayului.", "Un centru industrial important, cu oțelării și porturi.", "Situat pe malul de vest al râului Paraguay.", "Cunoscut inițial ca 'Villa Occidental'."],
+      en: ["Capital of the Presidente Hayes Department.", "Named after U.S. President Rutherford B. Hayes.", "Hayes arbitrated a border dispute in Paraguay's favor.", "An important industrial center, with steel mills and ports.", "Located on the west bank of the Paraguay River.", "Originally known as 'Villa Occidental'."]
     }, image: "/poi-images/villa-hayes-cities-v2.webp"},
   {
     id: "fuerte-olimpo-cities-v2",
@@ -620,7 +620,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Fuerte Olimpo, capital of the Alto Paraguay Department in the far north of the Paraguayan Chaco, is one of the smallest and most remote departmental capitals in South America, with only around 5 000 inhabitants. The town sits on the western bank of the Paraguay River right on the border with Brazil and is set among three striking rocky outcrops, Cerro La Cruz, Cerro Santa Teresa and Cerro Tres Hermanos. It was founded in 1792 by Joaquín Alós as Fuerte Borbón to defend the northern frontier of Paraguay against Portuguese encroachment from Mato Grosso; during the War of the Triple Alliance it acquired its present name. Today the town lives from cattle ranching, river shipping, modest tourism and a small military garrison. Owing to its isolation it can be reached only by boat or by partially unpaved roads across the Chaco, and it offers visitors a window onto the Pantanal ecosystem of capybaras, caimans and hyacinth macaws."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Hauptstadt des Departements Alto Paraguay.", "Gegründet 1792 als Militärfestung.", "Bekannt als 'Das Tor zum Pantanal'.", "Auf drei Hügeln erbaut, die einen Panoramablick bieten.", "Die Wirtschaft basiert auf Viehzucht und Fischerei.", "Die abgelegene Lage trägt zur Erhaltung der natürlichen Umgebung bei."],
       hu: [
         "A várost gyakran nevezik a 'Pantanal Kapujának'.",
         "A katedrális teljes egészében kőből épült, és a domb tetejéről 360 fokos panoráma nyílik a folyóra és a síkságra.",
@@ -628,8 +628,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A város környékén élő őslakos közösségek (pl. Ishir) gazdag kulturális örökséggel rendelkeznek.",
         "Fuerte Olimpo az egyik legkevesebb lakosú megyeszékhely Paraguayban."
       ],
-      ro: [],
-      en: []
+      ro: ["Capitala departamentului Alto Paraguay.", "Fondat în 1792 ca o fortăreață militară.", "Cunoscut sub numele de 'Poarta către Pantanal'.", "Construit pe trei dealuri, oferind vederi panoramice.", "Economia se bazează pe creșterea vitelor și pescuit.", "Locația sa izolată contribuie la conservarea mediului natural."],
+      en: ["Capital of the Alto Paraguay Department.", "Founded in 1792 as a military fort.", "Known as 'The Gateway to the Pantanal'.", "Built on three hills, offering panoramic views.", "The economy is based on cattle ranching and fishing.", "Its remote location contributes to the preservation of the natural environment."]
     }, image: "/poi-images/fuerte-olimpo-cities-v2.webp"},
   {
     id: "filadelfia-cities-v2",
@@ -656,7 +656,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Filadelfia, capital of the Boquerón Department in the central Paraguayan Chaco, lies about 450 kilometres north-west of Asunción in a dry, semi-arid landscape dominated by thorn forests. The town was founded in 1930 by German-speaking Mennonite immigrants who, after conflicts in Russia and Canada, established in Paraguay a closed religious and economic community. Today it is the centre of the Fernheim colony and is considered the economic engine of the Paraguayan Chaco: the Cooperativa Fernheim Ltda. produces milk, meat, peanuts and sesame on an industrial scale. Filadelfia has around 16 000 inhabitants who speak Standard German and the Plautdietsch dialect and shape the city's image with neat bungalows and flowering gardens. The Jakob Unger Museum documents the history of Mennonite immigration and the life of the Nivaclé and Ayoreo peoples who originally inhabited the region."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Hauptstadt des Departements Boquerón.", "Gegründet von mennonitischen Einwanderern aus Russland.", "Das Verwaltungs- und Handelszentrum der mennonitischen Kolonien im Chaco.", "Hat ein modernes Krankenhaus und genossenschaftliche Verarbeitungsbetriebe.", "Die Region ist ein wichtiger Produzent von Milchprodukten und Erdnüssen.", "Das Schulsystem umfasst Deutsch, Spanisch und Englisch."],
       hu: [
         "Filadelfia neve görögül 'Testvéri Szeretetet' jelent.",
         "A várost eredetileg a semmi közepén alapították, távol minden más lakott településtől.",
@@ -664,8 +664,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A Fernheim szövetkezet (Cooperativa Fernheim) az ország egyik leggazdagabb és legsikeresebb gazdasági szervezete.",
         "A városban az aszfaltozott utak mellett még mindig sok a tipikus chacói vörös homokos utca."
       ],
-      ro: [],
-      en: []
+      ro: ["Capitala departamentului Boquerón.", "Fondat de imigranți menoniți din Rusia.", "Centrul administrativ și comercial al coloniilor menonite din Chaco.", "Are un spital modern și fabrici de procesare cooperatiste.", "Regiunea este un producător major de lactate și arahide.", "Sistemul școlar include germană, spaniolă și engleză."],
+      en: ["Capital of the Boquerón Department.", "Founded by Mennonite immigrants from Russia.", "The administrative and commercial center of the Mennonite colonies in the Chaco.", "Has a modern hospital and cooperative processing plants.", "The region is a major producer of dairy and peanuts.", "The school system includes German, Spanish, and English."]
     }, image: "/poi-images/filadelfia-cities-v2.webp"},
   {
     id: "san-lorenzo-cities-v2",
@@ -692,7 +692,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "San Lorenzo, one of the most populous cities of the Central Department and part of the Asunción metropolitan area, lies just about ten kilometres east of the capital and is regarded as the largest university town in Paraguay. The main campus of the National University of Asunción is located here, including its faculties of agriculture, veterinary medicine, chemistry, architecture and economics, drawing tens of thousands of commuting students from across the country. The town was founded in 1775 on the initiative of Bishop Manuel Antonio de la Torre, who relocated families from Asunción to the area. With more than 280 000 residents, San Lorenzo has grown into a dynamic commercial and educational hub; the central Avenida Mariscal López is one of the busiest shopping streets in the country. The cityscape is dominated by the neo-Gothic parish church of San Lorenzo Mártir and the historic Mercado Central."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Bekannt als die 'Universitätsstadt' wegen der Nationalen Universität von Asunción.", "Sehr belebter Handelsbereich und städtischer Markt.", "Die neugotische Kathedrale ist ein wichtiges Wahrzeichen.", "Einst durch eine Eisenbahnlinie mit Asunción verbunden.", "Teil des Ballungsraums von Asunción.", "Gegründet im Jahr 1775."],
       hu: [
         "A várost 1775-ben alapította Agustín Fernando de Pinedo kormányzó.",
         "A San Lorenzo-i katedrális az egyik kevés neogótikus stílusú templom Paraguayban.",
@@ -700,8 +700,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A város minden év augusztus 10-én hatalmas ünnepséget rendez védőszentje, Szent Lőrinc tiszteletére.",
         "San Lorenzo lakossága az elmúlt évtizedekben robbanásszerűen megnőtt a városiasodás miatt."
       ],
-      ro: [],
-      en: []
+      ro: ["Cunoscut ca 'Orașul Universitar' datorită Universității Naționale din Asunción.", "Zonă comercială și piață urbană foarte aglomerată.", "Catedrala sa neo-gotică este un punct de reper important.", "Odinioară conectat la Asunción printr-o linie de cale ferată.", "Parte a zonei metropolitane Asunción.", "Fondat în anul 1775."],
+      en: ["Known as the 'University City' for hosting the National University of Asunción's main campus.", "A very busy commercial area and city market.", "Its Neo-Gothic cathedral is a major landmark.", "Once connected to Asunción by a railway line.", "Part of the Asunción metropolitan area.", "Founded in the year 1775."]
     }, image: "/poi-images/san-lorenzo-cities-v2.webp"},
   {
     id: "luque-cities-v2",
@@ -728,7 +728,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Luque, located about ten kilometres north-east of Asunción, belongs to the Central Department and together with the capital forms a continuous urban area. The town was founded in 1635 under the name San Buenaventura de Luque and played a decisive role in Paraguayan history: during the War of the Triple Alliance (1864–1870), Luque served as the provisional capital of Paraguay from 1868 onwards, after Asunción came under threat from allied forces. Today the city has around 280 000 inhabitants. Luque is nationally famous for its traditional goldsmithing, especially fine filigree work, and for the manufacture of the typical harps and guitars that define the sound of Paraguayan folk music. The city is also home to Silvio Pettirossi International Airport, the country's principal gateway for international travel, and to the headquarters of CONMEBOL, the South American football confederation."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Bekannt als die 'Stadt der Musik' wegen ihrer reichen musikalischen Traditionen.", "Diente während des Tripel-Allianz-Krieges als Hauptstadt Paraguays.", "Heimat des Hauptsitzes des Südamerikanischen Fußballverbands (CONMEBOL).", "Berühmt für die Herstellung von Harfen und Gitarren.", "In der Nähe des internationalen Flughafens Silvio Pettirossi gelegen.", "Produziert auch feinen Filigranschmuck."],
       hu: [
         "Luque-t gyakran nevezik az 'Ékszer és a Zene Városának'.",
         "A CONMEBOL központja mellett egy látványos labdarúgó-múzeum is található a városban.",
@@ -736,8 +736,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A városban minden évben megrendezik a 'Kure Ára' (A sertés napja) nevű népszerű gasztronómiai fesztivált.",
         "Luque híres a gitárkészítő mestereiről, akiknek hangszerei a világ minden tájára eljutnak."
       ],
-      ro: [],
-      en: []
+      ro: ["Cunoscut ca 'Orașul Muzicii' pentru tradițiile sale muzicale bogate.", "A servit drept capitală a Paraguayului în timpul Războiului Triplei Alianțe.", "Găzduiește sediul Confederației Sud-Americane de Fotbal (CONMEBOL).", "Renumit pentru fabricarea de harpe și chitare.", "Situat în apropierea Aeroportului Internațional Silvio Pettirossi.", "Produce, de asemenea, bijuterii fine din filigran."],
+      en: ["Known as the 'City of Music' for its rich musical traditions.", "Served as the capital of Paraguay during the War of the Triple Alliance.", "Home to the headquarters of the South American Football Confederation (CONMEBOL).", "Famous for the manufacturing of harps and guitars.", "Located near the Silvio Pettirossi International Airport.", "Also produces fine filigree jewelry."]
     }, image: "/poi-images/luque-cities-v2.webp"},
   {
     id: "capiata-cities-v2",
@@ -764,7 +764,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Capiatá, a large city in the Central Department, lies about 20 kilometres east of Asunción along Route 2 and forms part of the capital's metropolitan area. The settlement traces back to a Franciscan indigenous reduction founded in 1640 to evangelise and administer the Guaraní population. The city grew rapidly in the twentieth century through rural-urban migration and today counts around 230 000 inhabitants, ranking among the most populous cities in Paraguay. Capiatá is known for its preserved colonial parish church from the seventeenth century with finely carved wooden altars, the Ramón Elías Mythological Museum with its unique collection of figures from Guaraní mythology, and for its football club Deportivo Capiatá. Economically the city relies on small-scale industry, handicrafts and a large commuting workforce serving Asunción."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1640 von Franziskanermissionaren.", "Bekannt für die Kirche 'La Candelaria', ein Barockjuwel.", "Einer der am dichtesten besiedelten Bezirke im Departement Central.", "Der Name leitet sich vom Guaraní-Wort für 'scharfes Gras' ab.", "Wichtiger landwirtschaftlicher Produzent in der Vergangenheit.", "Heute hauptsächlich eine Schlafstadt für Asunción."],
       hu: [
         "A Candelaria-templom főoltára a guaraní barokk művészet egyik remekműve.",
         "Itt található az ország egyik legfontosabb autóverseny-pályája, az Autódromo Rubén Dumot.",
@@ -772,8 +772,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Capiatá híres a történelmi 'mitológiai múzeumáról', ahol a guaraní legendák lényeit mutatják be.",
         "A város minden év február 2-án ünnepli védőszentjét, a Gyertyaszentelő Boldogasszonyt."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat în 1640 de către misionarii franciscani.", "Cunoscut pentru biserica sa 'La Candelaria', o bijuterie barocă.", "Unul dintre cele mai dens populate districte din Departamentul Central.", "Numele său derivă din cuvântul guarani pentru 'iarbă ascuțită'.", "Producător agricol important în trecut.", "Astăzi este în principal un oraș-dormitor pentru Asunción."],
+      en: ["Founded in 1640 by Franciscan missionaries.", "Known for its church, 'La Candelaria', a baroque gem.", "One of the most populated districts in the Central Department.", "Its name derives from the Guarani word for 'sharp grass'.", "An important agricultural producer in the past.", "Today it is mainly a dormitory town for Asunción."]
     }, image: "/poi-images/capiata-cities-v2.webp"},
   {
     id: "lambare-cities-v2",
@@ -800,7 +800,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Lambaré, an important suburb of Asunción in the Central Department, lies immediately south of the capital on the left bank of the Paraguay River and is named after the legendary cacique Lambaré, a Guaraní leader who resisted the Spanish conquistadors. The town developed from a colonial settlement and was elevated to an independent municipality in 1962. Today around 170 000 people live in Lambaré, making it one of the largest cities in the Central Department. Its landmark is Cerro Lambaré, a hill offering sweeping views over Asunción, crowned by the monumental statue of the cacique. Economically the city benefits from its proximity to the capital: commerce, banking, wholesale warehouses and industries along Avenida Cacique Lambaré form the backbone of the local economy. Cerro Lambaré Park and the Costanera Sur waterfront are also popular leisure destinations."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1766.", "Benannt nach einem berühmten Guaraní-Anführer, der gegen die Spanier kämpfte.", "Der Lambaré-Hügel bietet einen Panoramablick auf Asunción.", "Heimat des paraguayischen Yacht- und Golfclubs.", "Liegt am Ufer des Paraguay-Flusses.", "Teil des schnell wachsenden Ballungsraums von Asunción."],
       hu: [
         "A várost Lambaré kacikról (törzsfőnökről) nevezték el, aki a spanyol hódítókkal szembeni ellenállás szimbóluma.",
         "A Cerro Lambaré tetején lévő emlékmű Paraguay történelmének legfontosabb alakjait ábrázolja.",
@@ -808,8 +808,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A város 1962-ig Asunción része volt, ekkor nyerte el önállóságát.",
         "Itt található a 'Mburuvicha Róga', a paraguayi elnök hivatalos rezidenciája a közelben."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat în anul 1766.", "Numit după un faimos lider guarani care a luptat împotriva spaniolilor.", "Dealul Lambaré oferă vederi panoramice ale Asunciónului.", "Găzduiește Clubul de Yacht și Golf din Paraguay.", "Situat pe malul râului Paraguay.", "Parte a zonei metropolitane Asunción, în rapidă creștere."],
+      en: ["Founded in the year 1766.", "Named after a famous Guarani leader who fought the Spanish.", "Lambaré Hill offers a panoramic view of Asunción.", "Home to the Paraguayan Yacht and Golf Club.", "Located on the banks of the Paraguay River.", "Part of the fast-growing Asunción metropolitan area."]
     }, image: "/poi-images/lambare-cities-v2.webp"},
   {
     id: "fernando-de-la-mora-cities-v2",
@@ -836,7 +836,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Fernando de la Mora, a densely populated city in the Central Department, borders directly on Asunción and is considered an integral part of the capital metropolis. It was elevated to the status of an independent municipality in 1939 and named after Fernando de la Mora, one of the leaders of the Paraguayan independence movement of 1811 and a member of the first Junta. The city stretches along Avenida Mariscal López and Avenida Eusebio Ayala, two of Paraguay's most important traffic arteries, and is shaped by a mix of middle-class residential neighbourhoods, commercial streets and educational facilities. With around 165 000 inhabitants on only 21 square kilometres, Fernando de la Mora has one of the highest population densities in the country. It is home to several universities, the renowned Hospital de Clínicas medical complex and numerous shopping centres."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Benannt nach Fernando de la Mora, einem Gründervater Paraguays.", "Einer der am dichtesten besiedelten Bezirke des Landes.", "Wichtiges Handels- und Dienstleistungszentrum.", "Ursprünglich als 'Zavala Cué' bekannt.", "Die Stadt wurde offiziell im Jahr 1939 gegründet.", "Gilt als Teil des Großraums Asunción."],
       hu: [
         "A város minden évben megrendezi a 'Mandi'o Ára' (A manióka napja) fesztivált.",
         "Itt található az ország egyik legmodernebb magánkórháza és több neves oktatási intézmény.",
@@ -844,8 +844,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A város zászlaja és címere a hős névrokonra és a munkás hétköznapokra utal.",
         "A település két fő részre oszlik: Északi és Déli zónára, amelyeket az 2-es főút választ el."
       ],
-      ro: [],
-      en: []
+      ro: ["Numit după Fernando de la Mora, un părinte fondator al Paraguayului.", "Unul dintre cele mai dens populate districte din țară.", "Un important centru comercial și de servicii.", "Cunoscut inițial sub numele de 'Zavala Cué'.", "Orașul a fost înființat oficial în 1939.", "Considerat parte a zonei metropolitane Gran Asunción."],
+      en: ["Named after Fernando de la Mora, a founding father of Paraguay.", "One of the most densely populated districts in the country.", "An important commercial and service hub.", "Originally known as 'Zavala Cué'.", "The city was officially established in 1939.", "Considered part of the Gran Asunción metropolitan area."]
     }, image: "/poi-images/fernando-de-la-mora-cities-v2.webp"},
   {
     id: "limpio-cities-v2",
@@ -872,7 +872,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Limpio, a city in the north of the Central Department, lies about 18 kilometres north of Asunción at the confluence of the Salado and Paraguay rivers. The settlement was founded in 1785 under the name Tapua and originally housed indigenous Mbayá families who had converted to Christianity; its present name Limpio, derived from Inmaculada Concepción or Immaculate Conception, was given in honour of its patron saint. The city has experienced rapid population growth since the 1990s and today has around 130 000 inhabitants, many having migrated from the poorer neighbourhoods of Asunción, which has led to extensive suburban expansion. Economically Limpio relies on small-scale industry, brick production, river-sand extraction and a large commuter flow toward the capital. Its landmarks are the historic parish church and the hilltop Templo Cristo Rey offering broad views of the region."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1785.", "Ursprünglich bekannt als 'San José de los Campos Limpios'.", "Wichtiger Hafen am Paraguay-Fluss.", "Die Wirtschaft umfasst Landwirtschaft und Kleinindustrie.", "Bekannt für die Herstellung von Strohhüten (sombrero piri).", "In der Nähe des Salado-Flusses, einem Nebenfluss des Paraguay-Flusses."],
       hu: [
         "A város neve spanyolul 'tisztát' jelent, ami az alapításkor talált szép mezőkre utalt.",
         "A Karandáy-fonás a város legfontosabb exportterméke és kulturális öröksége.",
@@ -880,8 +880,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A város védőszentje Szent József, akinek tiszteletére minden év március 19-én nagy ünnepséget rendeznek.",
         "Limpio határában található a 'Paso de Patria', amely fontos történelmi helyszín a háborús időkből."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat în anul 1785.", "Cunoscut inițial ca 'San José de los Campos Limpios'.", "Port important pe râul Paraguay.", "Economia include agricultură și industrie la scară mică.", "Renumit pentru producția de pălării de paie (sombrero piri).", "Aproape de râul Salado, un afluent al râului Paraguay."],
+      en: ["Founded in the year 1785.", "Originally known as 'San José de los Campos Limpios'.", "Important port on the Paraguay River.", "The economy includes agriculture and small-scale industry.", "Known for the production of straw hats (sombrero piri).", "Close to the Salado River, a tributary of the Paraguay River."]
     }, image: "/poi-images/limpio-cities-v2.webp"},
   {
     id: "nemby-cities-v2",
@@ -908,7 +908,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Ñemby, a city in the Central Department and part of the Asunción metropolitan area, lies just south-east of the capital between Lambaré and San Antonio. The name comes from Guaraní and means roughly gathering place, pointing to a pre-colonial indigenous tradition. Officially incorporated as a municipality in 1956, Ñemby has since developed into a dynamic residential and industrial city and today has around 130 000 inhabitants. Characteristic of the town are central Cerro Ñemby, a hill with a viewpoint and religious sites, and the annual carnival, one of the largest popular festivals in the region. Economically the city benefits from its location along key connecting roads and hosts logistics firms, small industries and numerous traditional bakeries famous for producing the typical Chipá Guazú. Pottery craftsmanship also has a long tradition here, drawing on indigenous heritage."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1718.", "Der Name stammt von einem Guaraní-Wort, das 'endlos' bedeutet.", "Teil des Ballungsraums von Asunción.", "Wichtiger Handels- und Wohnbezirk.", "Der Hügel von Ñemby ist ein markantes geografisches Merkmal.", "Die Kirche San Lorenzo ist ein historisches Wahrzeichen."],
       hu: [
         "A Cerro Ñemby kőbányájából származó kövekből építették Asunción sok utcáját és épületét.",
         "A városban található San Lorenzo templom egy egyszerű, de elegáns építészeti emlék.",
@@ -916,8 +916,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A város népessége az elmúlt 20 évben több mint kétszeresére nőtt.",
         "A település fontos vallási központ, különösen a Nagyhét idején rendezett keresztút-járásáról (Vía Crucis)."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat în anul 1718.", "Numele provine dintr-un cuvânt guarani care înseamnă 'nesfârșit'.", "Parte a zonei metropolitane Asunción.", "District comercial și rezidențial important.", "Dealul Ñemby este o caracteristică geografică proeminentă.", "Biserica San Lorenzo este un reper istoric."],
+      en: ["Founded in the year 1718.", "The name comes from a Guarani word meaning 'endless'.", "Part of the Asunción metropolitan area.", "Important commercial and residential district.", "The Hill of Ñemby is a prominent geographical feature.", "The San Lorenzo church is a historical landmark."]
     }, image: "/poi-images/nemby-cities-v2.webp"},
   {
     id: "itaugua-cities-v2",
@@ -944,7 +944,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Itauguá, a city in the Central Department, lies about 30 kilometres east of Asunción on Route 2 and is known nationwide as the Cuna del Ñandutí, the cradle of ñandutí. This delicate filigree lace, whose name comes from Guaraní and means spider web, is one of the best-known cultural expressions of Paraguay and has been made here by generations of women using a fine hand-crafted technique. The town was officially founded in 1728 and retained its rural and tradition-conscious character for centuries. With around 110 000 inhabitants it is now developing rapidly and hosts the Hospital Nacional de Itauguá, one of the most important hospitals in Paraguay. The Ñandutí Festival is held here every July, a colourful cultural event with fashion shows, music and dance. Other highlights include the historic eighteenth-century Iglesia Virgen del Rosario and numerous handicraft shops."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1728.", "Weltberühmt für seine Ñandutí-Spitze.", "Das jährliche Ñandutí-Festival zieht viele Besucher an.", "Beherbergt das Nationale Krankenhaus, ein wichtiges medizinisches Zentrum.", "Der Name leitet sich von 'Itá', Stein, und 'guá', Ort, ab.", "Die Wirtschaft ist stark vom Kunsthandwerk und Handel geprägt."],
       hu: [
         "A 'ñandutí' szó guaraní nyelven pók hálóját jelenti.",
         "A legenda szerint egy szerelmes lány készítette az első ñandutí csipkét, hogy megmutassa kedvesének a természet szépségét.",
@@ -952,8 +952,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Itauguá fontos epertermelő vidék is, az areguáihoz hasonlóun.",
         "A város minden év júliusában ünnepli alapításának évfordulóját nagy népi mulatságokkal."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat în anul 1728.", "Renumit la nivel mondial pentru dantela sa Ñandutí.", "Festivalul anual Ñandutí atrage mulți vizitatori.", "Găzduiește Spitalul Național, un centru medical important.", "Numele derivă din 'Itá', piatră, și 'guá', loc.", "Economia este puternic modelată de artizanat și comerț."],
+      en: ["Founded in the year 1728.", "World-famous for its Ñandutí lace.", "The annual Ñandutí Festival attracts many visitors.", "Hosts the National Hospital, a major medical center.", "The name derives from 'Itá', stone, and 'guá', place.", "Its economy is heavily shaped by crafts and commerce."]
     }, image: "/poi-images/itaugua-cities-v2.webp"},
   {
     id: "mariano-roque-alonso-cities-v2",
@@ -980,7 +980,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Mariano Roque Alonso, a city in the Central Department, lies immediately north of Asunción and is regarded as the most important gateway to the Chaco, since here begins the Trans-Chaco Highway (Route 9), the main road link to the western part of the country. The town was elevated to an independent municipality in 1936 and named after Major Mariano Roque Alonso, who fell at the Battle of Boquerón as a hero of the Chaco War. Today around 110 000 people live in the city, which is famous for the annual Expo Mariano Roque Alonso — the largest agricultural, industrial and commercial fair in Paraguay, drawing hundreds of thousands of visitors every July. Economically the city relies on logistics, warehouses, wholesale trade and small-scale industry. Via the Puente Remanso bridge it is directly linked to Villa Hayes and the Chaco, reinforcing its role as a transport hub."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Benannt nach dem paraguayischen Konsul Mariano Roque Alonso.", "Heimat der größten jährlichen internationalen Messe, Expo.", "Ein wichtiges Industrie- und Handelszentrum.", "Liegt am Ufer des Paraguay-Flusses.", "Ursprünglich als 'Corumba Cué' bekannt.", "Teil des Großraums Asunción."],
       hu: [
         "A Puente Remanso híd megnyitása előtt csak kompon lehetett átkelni a folyón a Chaco felé.",
         "A városban található a paraguayi lovas tüzérség egyik legfontosabb laktanyája.",
@@ -988,8 +988,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A település az ország egyik leggyorsabban fejlődő ipari zónája.",
         "A város minden év augusztusában ünnepli védőszentjét, a Rózsafüzér Királynőjét."
       ],
-      ro: [],
-      en: []
+      ro: ["Numit după consulul paraguayan Mariano Roque Alonso.", "Găzduiește cel mai mare târg internațional anual, Expo.", "Un important centru industrial și comercial.", "Situat pe malul râului Paraguay.", "Cunoscut inițial sub numele de 'Corumba Cué'.", "Parte a zonei metropolitane Gran Asunción."],
+      en: ["Named after Paraguayan consul Mariano Roque Alonso.", "Home to the largest annual international fair, Expo.", "An important industrial and commercial hub.", "Located on the bank of the Paraguay River.", "Originally known as 'Corumba Cué'.", "Part of the Gran Asunción metropolitan area."]
     }, image: "/poi-images/mariano-roque-alonso-cities-v2.webp"},
   {
     id: "villa-elisa-cities-v2",
@@ -1016,7 +1016,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Villa Elisa, a city in the Central Department, lies immediately south of Asunción between Lambaré and San Antonio and forms part of the capital's metropolitan area. The municipality was founded in 1960 and named after Elisa Alicia Lynch, the Irish-born partner of President Francisco Solano López, who played a significant role in nineteenth century Paraguayan history. Today around 80 000 people live here, making Villa Elisa one of the more affluent residential towns of the department. Tree-lined streets, well-kept residential neighbourhoods and the Centro Cultural Solidario, which plays an important role in cultural life, are characteristic of the town. Economically Villa Elisa benefits from its proximity to the Paraguay River and hosts several industrial facilities, including an important oil refinery operated by the state-owned PETROPAR. The local port is also of growing importance for freight traffic."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet von belgischen Einwanderern im Jahr 1890.", "Benannt nach Elisa Alicia Lynch, der Partnerin von Francisco Solano López.", "Ein schnell wachsendes Wohn- und Industriegebiet.", "Heimat mehrerer großer Fabriken und Unternehmen.", "Teil des Departements Central.", "Feiert seinen Gründungstag am 22. März."],
       hu: [
         "Villa Elisa az egyetlen város Paraguayban, amelynek alapítása dán bevándorlókhoz kötődik.",
         "A város védőszentje a Carmen-i Szűz, akinek ünnepe minden júliusban nagy esemény.",
@@ -1024,8 +1024,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A városban számos emlékmű őrzi az európai telepesek emlékét.",
         "Villa Elisa parkjai (mint a Parque Serenidad) a környék legszebb zöldfelületei közé tartoznak."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat de imigranți belgieni în 1890.", "Numit după Elisa Alicia Lynch, partenera lui Francisco Solano López.", "O zonă rezidențială și industrială în creștere rapidă.", "Găzduiește mai multe fabrici și companii mari.", "Parte a Departamentului Central.", "Își sărbătorește ziua de fondare pe 22 martie."],
+      en: ["Founded by Belgian immigrants in 1890.", "Named after Elisa Alicia Lynch, partner of Francisco Solano López.", "A rapidly growing residential and industrial area.", "Home to several large factories and companies.", "Part of the Central Department.", "Celebrates its founding day on March 22nd."]
     }, image: "/poi-images/villa-elisa-cities-v2.webp"},
   {
     id: "san-antonio-cities-v2",
@@ -1052,7 +1052,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "San Antonio, a river port city in the Central Department, lies about 20 kilometres south of Asunción on the left bank of the Paraguay River and is one of the oldest towns in the country. It was founded in 1632 by Franciscans as the reduction of San Antonio de Yhaguy and served for centuries as a supply point for the capital. Today the municipality has around 60 000 inhabitants. Economically San Antonio is based on industry and shipping: it is home to the most important oil refinery in Paraguay, operated by PETROPAR, as well as numerous power plants, warehouses and freight ports that supply the country with imported goods. Playa San Antonio beach is a popular summer leisure destination for residents of Asunción. Landmarks include the historic colonial parish church dedicated to the town's patron saint and the old port facilities recalling its long-standing importance as a trading hub."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet von Nachkommen von Sklaven im Jahr 1860.", "Liegt am linken Ufer des Paraguay-Flusses.", "Bekannt für seine Fischerei und Flusshäfen.", "Wichtiger Standort für die Kühl- und Fleischverarbeitungsindustrie.", "Der Schutzpatron ist Antonius von Padua.", "Feiert sein Patronatsfest am 13. Juni."],
       hu: [
         "A várost Páduai Szent Antalról nevezték el, akinek tiszteletére júniusban tartanak búcsút.",
         "San Antonio kikötője mélyvízi adottságai miatt nagy uszályok fogadására is alkalmas.",
@@ -1060,8 +1060,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A város történelmében fontos szerepet játszottak a német és olasz bevándorlók is.",
         "A folyóparti sétányról csodálatos naplementéket láthatunk a Chaco irányában."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat de descendenți ai sclavilor în 1860.", "Situat pe malul stâng al râului Paraguay.", "Cunoscut pentru pescuit și porturile sale fluviale.", "Locație importantă pentru industria de refrigerare și prelucrare a cărnii.", "Patronul spiritual este Sfântul Anton de Padova.", "Își sărbătorește sărbătoarea patronală pe 13 iunie."],
+      en: ["Founded by descendants of slaves in 1860.", "Located on the left bank of the Paraguay River.", "Known for its fishing and river ports.", "Important location for the refrigeration and meat processing industry.", "Its patron saint is Anthony of Padua.", "Celebrates its patron saint festival on June 13th."]
     }, image: "/poi-images/san-antonio-cities-v2.webp"},
   {
     id: "ypane-cities-v2",
@@ -1088,7 +1088,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Ypané, a city in the Central Department, lies about 23 kilometres south of Asunción on the river of the same name, the Ypané, and belongs to the capital's metropolitan area. The name comes from Guaraní and means roughly branched river. The settlement first emerged at the end of the seventeenth century as a reduction and was first mentioned in 1538; it was officially recognised as an independent municipality in 1965. Today around 90 000 people live here, many of them daily commuters to Asunción. Characteristic of Ypané are its fertile clay soils, traditionally used to produce bricks and pottery, and the long sandy beaches along the Paraguay River, which are popular summer day-trip destinations for residents of the capital. Economically the town relies on small-scale industry, brick production, commuting and modest tourism. Landmarks include the old parish church of San Marcos and the annual carnival."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1538.", "Einer der Orte, an denen die Schlacht von Ytororó stattfand.", "Bekannt für die Kirche San Pedro Apóstol.", "Wichtiger landwirtschaftlicher Produzent von Gemüse und Obst.", "Der Name Ypané ist der Name eines örtlichen Flusses.", "Teil des Departements Central."],
       hu: [
         "Ypané eredeti neve San Pedro de Ypané volt.",
         "A város minden évben megemlékezik az Abay-i csata hőseiről az ott felállított emlékműnél.",
@@ -1096,8 +1096,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Itt található a paraguayi labdarúgó-válogatott hivatalos edzőközpontja, az 'AlbiRoga'.",
         "A város védőszentje Szent Péter apostol, akinek ünnepét június 29-én tartják."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat în anul 1538.", "Unul dintre locurile unde a avut loc Bătălia de la Ytororó.", "Cunoscut pentru biserica San Pedro Apóstol.", "Producător agricol important de legume și fructe.", "Numele Ypané este numele unui râu local.", "Parte a Departamentului Central."],
+      en: ["Founded in the year 1538.", "One of the locations where the Battle of Ytororó took place.", "Known for the San Pedro Apóstol church.", "Important agricultural producer of vegetables and fruits.", "The name Ypané is the name of a local river.", "Part of the Central Department."]
     }, image: "/poi-images/ypane-cities-v2.webp"},
   {
     id: "villeta-cities-v2",
@@ -1124,7 +1124,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Villeta, an important river port city in the Central Department, lies about 35 kilometres south of Asunción on the Paraguay River and is one of the oldest towns in the country. It was founded in 1714 as Villa de Nuestra Señora de la Concepción and quickly developed into a major hub for regional agriculture. Today around 35 000 people live in Villeta, but the city is of supra-national economic importance: huge volumes of soybeans, grain, maize and animal feed are shipped from its port, helping make Paraguay the third-largest soybean exporter in the world. Numerous large mills, fertilizer plants and logistics companies have established themselves along the river. Landmarks include the historic eighteenth-century parish church of Nuestra Señora de la Concepción with its distinctive bell tower and the busy port promenade. Estancia tourism with horseback rides and traditional gaucho festivals is also growing in importance."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1714.", "Wichtiger Flusshafen am Paraguay-Fluss.", "Beherbergt einen großen Zement- und einen Orangensaftproduzenten.", "Die Stadt war ein wichtiger Schauplatz im Tripel-Allianz-Krieg.", "Der Name ist eine Verkleinerungsform von 'Villa'.", "Die Wirtschaft ist stark von der Industrie geprägt."],
       hu: [
         "Villetát gyakran nevezik a 'Narancsok és az Ipar Városának'.",
         "A város kikötője kulcsszerepet játszik az ország külkereskedelmében.",
@@ -1132,8 +1132,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Villeta híres a 'Festival del Rio'-ról (Folyó Fesztivál), amelyet a part mentén rendeznek.",
         "A város minden évben megünnepli Szent Fülöp apostolt, az alapítás tiszteletére."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat în anul 1714.", "Port fluvial important pe râul Paraguay.", "Găzduiește un mare producător de ciment și unul de suc de portocale.", "Orașul a fost un teatru important în Războiul Triplei Alianțe.", "Numele este un diminutiv al cuvântului 'Villa'.", "Economia sa este puternic industrializată."],
+      en: ["Founded in the year 1714.", "Major river port on the Paraguay River.", "Home to a large cement producer and an orange juice producer.", "The city was an important theater in the War of the Triple Alliance.", "Its name is a diminutive of 'Villa'.", "Its economy is heavily industrialized."]
     }, image: "/poi-images/villeta-cities-v2.webp"},
   {
     id: "guarambare-cities-v2",
@@ -1160,7 +1160,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Guarambaré, a city in the Central Department, lies about 25 kilometres south-east of Asunción in a flat, fertile landscape known since colonial times for sugar-cane and maize cultivation. The settlement traces its origins to a Franciscan reduction founded in 1580, in which the friars settled and evangelised Guaraní families. Today around 35 000 people live in the town. Guarambaré is considered an important centre of the Paraguayan sugar industry and hosts Azucarera Paraguaya S.A. (AZPA), one of the country's largest sugar mills, which produces organic cane sugar for export to Europe and the United States. The town centre features the historic parish church of San Blas with its Baroque interior and a Casco Histórico of cobblestone streets. An annual organic-sugar festival is celebrated here. Economically the city relies on agriculture, sugar processing, distilleries and commuting to the capital."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1682.", "Bekannt für sein jährliches Zuckerrohrfestival.", "Wichtiger Produzent von Zuckerrohr und seinen Derivaten.", "Der Name ehrt einen Guaraní-Häuptling.", "Die Kirche der Geburt der Jungfrau Maria ist ein lokales Wahrzeichen.", "Die Bevölkerung ist eine Mischung aus indigenen und spanischen Nachkommen."],
       hu: [
         "A várost gyakran nevezik a 'Cukor Városának'.",
         "Itt született a híres paraguayi zenész és zeneszerző, Emiliano R. Fernández.",
@@ -1168,8 +1168,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Guarambaré cukorgyárai az ország legrégebbi folyamatosan működő üzemei közé tartoznak.",
         "A város temploma a koloniális és a neoklasszikus stílus egyedi keveréke."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat în anul 1682.", "Cunoscut pentru festivalul anual al trestiei de zahăr.", "Producător important de trestie de zahăr și derivații săi.", "Numele onorează un șef de trib guarani.", "Biserica Nașterea Fecioarei Maria este un reper local.", "Populația este un amestec de descendenți indigeni și spanioli."],
+      en: ["Founded in the year 1682.", "Known for its annual sugarcane festival.", "Important producer of sugarcane and its derivatives.", "The name honors a Guarani chieftain.", "The Church of the Nativity of the Virgin Mary is a local landmark.", "The population is a mix of indigenous and Spanish descendants."]
     }, image: "/poi-images/guarambare-cities-v2.webp"},
   {
     id: "ypacarai-cities-v2",
@@ -1196,7 +1196,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Ypacaraí, a city in the Central Department, lies about 36 kilometres east of Asunción on the south-eastern shore of Lake Ypacaraí, the best-known lake in Paraguay. The name of both the town and the lake comes from Guaraní and means roughly holy water — according to legend, the Jesuit Luis de Bolaños performed a miracle here that blessed the waters of the lake. The town was founded in 1887 along the historic Asunción-Encarnación railway and has retained a rural, easy-going character. Ypacaraí is best known abroad through the famous song Recuerdos de Ypacaraí composed by Demetrio Ortiz, which celebrates the romance of the lake. Today around 35 000 people live in the municipality. The economy is based on tourism, handicrafts, strawberry and fruit growing and weekend rentals for residents of Asunción. Highlights include the old railway station, the lakeside pier and the annual Festival del Lago."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1864.", "Liegt am Ufer des berühmten Ypacaraí-Sees.", "Bekannt als die 'Stadt der Folklore' und Musik.", "Das jährliche Festival del Lago zieht Künstler aus dem ganzen Land an.", "Historische Eisenbahnstation, die heute ein Kulturzentrum ist.", "Die Kirche San Buenaventura ist das wichtigste religiöse Gebäude."],
       hu: [
         "A várost gyakran nevezik a 'Folklór Városának'.",
         "A 'Recuerdos de Ypacaraí' dalnak szobrot is emeltek a városban.",
@@ -1204,8 +1204,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Ypacaraí híres a hagyományos kerámiáiról és hímzéseiről is.",
         "A város minden év szeptemberében nagy ünnepséget tart a Szent Szív tiszteletére."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat în anul 1864.", "Situat pe malul faimosului lac Ypacaraí.", "Cunoscut ca 'Orașul Folclorului' și al muzicii.", "Festivalul anual del Lago atrage artiști din toată țara.", "Gară istorică, acum centru cultural.", "Biserica San Buenaventura este principala clădire religioasă."],
+      en: ["Founded in the year 1864.", "Located on the shore of the famous Lake Ypacaraí.", "Known as the 'City of Folklore' and music.", "The annual Festival del Lago attracts artists from all over the country.", "Historic railway station, now a cultural center.", "The San Buenaventura church is the main religious building."]
     }, image: "/poi-images/ypacarai-cities-v2.webp"},
   {
     id: "presidente-franco-cities-v2",
@@ -1232,7 +1232,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Presidente Franco, a large city in the Alto Paraná Department, lies on the right bank of the Paraná River directly south of Ciudad del Este and belongs to the booming metropolitan area on the border with Brazil and Argentina. It was founded in 1929 as the first Paraguayan settlement on the upper Paraná and received its present name in 1962 in honour of President Rafael Franco. With around 90 000 inhabitants, the town profits from the boom shared with Ciudad del Este and the nearby Itaipú hydroelectric dam. Its best-known landmark is the Salto del Monday, a 40-metre waterfall on the Monday River that ranks among the most beautiful in Paraguay and is surrounded by an ecological park. Economically the city is based on tourism, energy, cross-border trade with Brazil and soybean processing. The Puente de la Integración bridge provides a direct link to the Argentine border zone."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1929.", "Bekannt als die 'Mutter der Städte' von Alto Paraná.", "In der Nähe des Zusammenflusses der Flüsse Paraná und Monday.", "Heimat der beeindruckenden Monday-Wasserfälle (Saltos del Monday).", "Teil des Ballungsraums der Drei Grenzen mit Brasilien und Argentinien.", "Die Wirtschaft ist eng mit Ciudad del Este verbunden."],
       hu: [
         "A Saltos del Monday vízesés több mint 40 méter magas és három fő ágból áll.",
         "A városban található a 'Hármashatár Emlékmű' (Hito de las Tres Fronteras), ahonnan belátni mindhárom ország partjait.",
@@ -1240,8 +1240,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "Itt épült fel a második híd Brazília felé (Puente de la Integración), ami tovább serkenti a fejlődést.",
         "A város minden év októberében ünnepli védőszentjét, a Fatima-i Szüzet."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat în anul 1929.", "Cunoscut ca 'Mama Orașelor' din Alto Paraná.", "Aproape de confluența râurilor Paraná și Monday.", "Găzduiește impresionantele cascade Monday (Saltos del Monday).", "Parte a zonei metropolitane a Triplei Frontiere cu Brazilia și Argentina.", "Economia sa este strâns legată de cea a Ciudad del Este."],
+      en: ["Founded in the year 1929.", "Known as the 'Mother of Cities' of Alto Paraná.", "Near the confluence of the Paraná and Monday rivers.", "Home to the impressive Monday Falls (Saltos del Monday).", "Part of the 'Triple Frontier' metropolitan area with Brazil and Argentina.", "Its economy is closely linked to Ciudad del Este."]
     }, image: "/poi-images/presidente-franco-cities-v2.webp"},
   {
     id: "minga-guazu-cities-v2",
@@ -1268,7 +1268,7 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Minga Guazú, a city in the Alto Paraná Department, lies about 25 kilometres west of Ciudad del Este along Route 7, the country's main east-west axis. The name comes from Guaraní and means roughly the great rooster. The town arose in the 1960s and 1970s as part of the state-led colonisation of the east, when the Stroessner government opened up the cleared Atlantic Forest for soybean, maize and wheat farming; in this process numerous Brazilian immigrants known as Brasiguayos arrived in the region and today make up a large share of the population. With around 75 000 inhabitants, Minga Guazú is the gateway to the agricultural highlands of Alto Paraná. Economically the city is based on soybean farming, soy and maize processing, timber and logistics. It is home to Guaraní International Airport, Paraguay's second-most-important freight hub, along with a modern cathedral."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Gegründet im Jahr 1958.", "Der Name bedeutet auf Guaraní 'große Gemeinschaftsarbeit'.", "Wichtiger Agro-Industrie-Komplex.", "Beherbergt den internationalen Flughafen Guarani.", "Bekannt für seine großen Soja- und Maisplantagen.", "Hat eine bedeutende taiwanesische Einwanderergemeinschaft."],
       hu: [
         "A várost minden év május 24-én ünneplik a Keresztények Segítsége Szűzanya napján.",
         "Minga Guazú területén található Paraguay egyik legnagyobb kukorica- és szójafeldolgozó üzeme.",
@@ -1276,8 +1276,8 @@ export const poiExtraParaguayCitiesV2: POI[] = [
         "A Guaraní nemzetközi repülőtér fontos áruszállítási csomópont a szomszédos országok felé.",
         "A városban egy hatalmas modern katedrális áll, amely a szalézi építészet egyik szép példája."
       ],
-      ro: [],
-      en: []
+      ro: ["Fondat în anul 1958.", "Numele înseamnă 'muncă comunitară mare' în limba guarani.", "Complex agro-industrial important.", "Găzduiește Aeroportul Internațional Guarani.", "Cunoscut pentru plantațiile sale mari de soia și porumb.", "Are o comunitate semnificativă de imigranți taiwanezi."],
+      en: ["Founded in the year 1958.", "The name means 'large communal work' in Guarani.", "Important agro-industrial complex.", "Hosts the Guarani International Airport.", "Known for its large soy and corn plantations.", "Has a significant Taiwanese immigrant community."]
     }, image: "/poi-images/minga-guazu-cities-v2.webp"},
   {
     id: "hernandarias-cities-v2",

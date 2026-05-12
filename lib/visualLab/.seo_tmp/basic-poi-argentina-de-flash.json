@@ -1,157 +1,157 @@
 {
   "lang": "multi4",
   "country": "argentina",
-  "files": ["poiExtraArgentinaCitiesV2.ts", "poiExtraArgentinaHistoryV2.ts"],
+  "files": ["lib/visualLab/data/poiExtraArgentinaCitiesV2.ts", "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts"],
   "items": [
     {
       "id": "ar-m-godoy-cruz-cities-v2",
-      "descriptionAdvanced": {"de": "Godoy Cruz ist eine Stadt in der Provinz Mendoza und ein bedeutendes Industriezentrum der Region. Sie liegt direkt an der Grenze zur Provinzhauptstadt Mendoza."},
-      "factsAdvanced": {"de": ["Gehört zum Großraum Mendoza", "Bekannt für Weinbau", "Industrie- und Dienstleistungszentrum"]}
+      "description": { "de": "Godoy Cruz ist eine bedeutende Stadt im Großraum Mendoza, bekannt für ihre lebendige Weinkultur und Industrie." },
+      "facts": { "de": ["Teil des Ballungsraums Mendoza", "Zentrum der Weinproduktion", "Heimat des Fußballclubs Godoy Cruz", "Wichtiger Wirtschaftsstandort"] }
     },
     {
       "id": "ar-m-lujan-de-cuyo-cities-v2",
-      "descriptionAdvanced": {"de": "Luján de Cuyo ist als das Land des Malbecs bekannt und ein wichtiges Zentrum der argentinischen Weinindustrie. Die Stadt liegt südlich von Mendoza am Fuße der Anden."},
-      "factsAdvanced": {"de": ["Zentrum des Malbec-Weinbaus", "Liegt am Andenfuß", "Wichtige touristische Weinstraße"]}
+      "description": { "de": "Luján de Cuyo gilt als das Herz der argentinischen Malbec-Produktion und liegt am Fuße der majestätischen Anden." },
+      "facts": { "de": ["Weltbekanntes Weinbaugebiet", "Spezialisiert auf Malbec-Trauben", "Nähe zur Stadt Mendoza", "Zahlreiche historische Weingüter (Bodegas)"] }
     },
     {
       "id": "ar-n-posadas-cities-v2",
-      "descriptionAdvanced": {"de": "Posadas ist die Hauptstadt der Provinz Misiones und liegt am Ufer des Río Paraná. Die Stadt ist das wichtigste wirtschaftliche Zentrum der Provinz."},
-      "factsAdvanced": {"de": ["Hauptstadt der Provinz Misiones", "Grenzt an Paraguay", "Wichtiger Hafen am Paraná"]}
+      "description": { "de": "Posadas ist die Hauptstadt der Provinz Misiones und ein wichtiges Tor zur Region am Ufer des mächtigen Paraná-Flusses." },
+      "facts": { "de": ["Hauptstadt von Misiones", "Liegt am Río Paraná", "Grenzstadt zu Paraguay", "Bedeutendes Handelszentrum"] }
     },
     {
       "id": "ar-n-obera-cities-v2",
-      "descriptionAdvanced": {"de": "Oberá ist eine Stadt in der Provinz Misiones, die durch ihre Einwanderungsgeschichte geprägt ist. Sie wird oft als Stadt der Kirchen bezeichnet."},
-      "factsAdvanced": {"de": ["Bekannt für Einwanderungstraditionen", "Stadt der Kirchen", "Liegt im Misiones-Plateau"]}
+      "description": { "de": "Oberá ist berühmt für seine kulturelle Vielfalt und beherbergt jährlich das große Nationalfest der Einwanderer." },
+      "facts": { "de": ["Zweitgrößte Stadt in Misiones", "Gegründet von europäischen Einwanderern", "Gastgeber des Fiesta Nacional del Inmigrante", "Zentrum der Tee- und Mate-Produktion"] }
     },
     {
       "id": "ar-n-eldorado-cities-v2",
-      "descriptionAdvanced": {"de": "Eldorado liegt im Norden der Provinz Misiones und ist ein wichtiges Zentrum der Holzverarbeitung. Die Stadt wurde von deutschen Siedlern gegründet."},
-      "factsAdvanced": {"de": ["Gegründet durch Siedler", "Holzwirtschaft", "Im Norden von Misiones"]}
+      "description": { "de": "Eldorado wurde von deutschen Einwanderern gegründet und ist heute ein Zentrum der Forstwirtschaft im Norden von Misiones." },
+      "facts": { "de": ["1919 von Adolfo Schwelm gegründet", "Starke deutsche kulturelle Einflüsse", "Zentrum der Holzindustrie", "Liegt im subtropischen Regenwald"] }
     },
     {
       "id": "ar-n-puerto-iguazu-cities-v2",
-      "descriptionAdvanced": {"de": "Puerto Iguazú liegt an der Grenze zu Brasilien und Paraguay nahe der weltberühmten Iguazú-Wasserfälle. Es ist der wichtigste touristische Ausgangspunkt der Region."},
-      "factsAdvanced": {"de": ["Nähe zu den Wasserfällen", "Dreiländereck", "Wichtiger Tourismusknotenpunkt"]}
+      "description": { "de": "Puerto Iguazú ist der ideale Ausgangspunkt für den Besuch der weltberühmten Iguazú-Wasserfälle im Dreiländereck." },
+      "facts": { "de": ["Tor zu den Iguazú-Wasserfällen", "Dreiländereck (Argentinien, Brasilien, Paraguay)", "Bedeutendes Tourismuszentrum", "Liegt im Nationalpark Iguazú"] }
     },
     {
       "id": "ar-q-neuquen-cities-v2",
-      "descriptionAdvanced": {"de": "Neuquén ist die Hauptstadt der gleichnamigen Provinz in Patagonien und ein Zentrum für Erdöl- und Erdgasförderung. Die Stadt liegt am Zusammenfluss von Limay und Neuquén."},
-      "factsAdvanced": {"de": ["Provinzhauptstadt", "Zentrum der Ölindustrie", "Tor zu Patagonien"]}
+      "description": { "de": "Neuquén ist die größte Stadt Patagoniens und das wirtschaftliche Zentrum der gleichnamigen Provinz, geprägt durch die Ölindustrie." },
+      "facts": { "de": ["Größte Stadt Patagoniens", "Zentrum der Energie- und Ölförderung", "Liegt am Zusammenfluss von Limay und Neuquén", "Moderne Provinzhauptstadt"] }
     },
     {
       "id": "ar-q-san-martin-de-los-andes-cities-v2",
-      "descriptionAdvanced": {"de": "San Martín de los Andes ist ein bekannter Ferienort am Lacar-See in den Anden. Er ist berühmt für seinen Zugang zum Lanín-Nationalpark."},
-      "factsAdvanced": {"de": ["Am Ufer des Lacar-Sees", "Zugang zum Lanín-Nationalpark", "Beliebt bei Wintersportlern"]}
+      "description": { "de": "Diese malerische Stadt am Ufer des Lácar-Sees ist eines der exklusivsten Reiseziele in den patagonischen Anden." },
+      "facts": { "de": ["Am Ufer des Lago Lácar gelegen", "Wichtiges Zentrum für Wintersport (Chapelco)", "Tor zum Nationalpark Lanín", "Bekannt für Architektur im Alpenstil"] }
     },
     {
       "id": "ar-q-zapala-cities-v2",
-      "descriptionAdvanced": {"de": "Zapala ist eine Stadt in der Provinz Neuquén und ein wichtiger Verkehrsknotenpunkt in der patagonischen Steppe. Sie dient als Tor zu den Anden."},
-      "factsAdvanced": {"de": ["Wichtiger Verkehrsknoten", "In der patagonischen Steppe", "Regionale Handelsstadt"]}
+      "description": { "de": "Zapala ist ein strategischer Verkehrsknotenpunkt in Zentral-Neuquén und bekannt für seine lange Bergbautradition." },
+      "facts": { "de": ["Wichtiger Eisenbahn- und Straßenknotenpunkt", "Zentrum der Zementindustrie", "Heimat des Mineralogischen Museums", "Eingangstor zur patagonischen Steppe"] }
     },
     {
       "id": "ar-q-cutral-co-cities-v2",
-      "descriptionAdvanced": {"de": "Cutral Có liegt in der Provinz Neuquén und ist eng mit der Ölförderung verbunden. Die Stadt entstand durch den Boom der Erdölindustrie."},
-      "factsAdvanced": {"de": ["Erdölförderung", "Neuquén-Provinz", "Industriell geprägt"]}
+      "description": { "de": "Cutral Có entstand mitten in der Wüste durch die Entdeckung von Erdöl und ist eng mit der argentinischen Energiegeschichte verbunden." },
+      "facts": { "de": ["Gegründet nach Ölfunden in den 1930ern", "Wirtschaftliches Zentrum der Region Comarca Petrolera", "Bekannt für sein großes Dinosaurier-Denkmal", "Wüstenklima mit starken Winden"] }
     },
     {
       "id": "ar-r-viedma-cities-v2",
-      "descriptionAdvanced": {"de": "Viedma ist die Hauptstadt der Provinz Río Negro und liegt am Ufer des gleichnamigen Flusses nahe der Atlantikküste. Sie ist eine der ältesten Städte Patagoniens."},
-      "factsAdvanced": {"de": ["Hauptstadt von Río Negro", "Nahe der Atlantikküste", "Älteste Stadt Patagoniens"]}
+      "description": { "de": "Viedma ist die historische Hauptstadt der Provinz Río Negro und bildet zusammen mit Patagones ein bedeutendes urbanes Zentrum am Fluss." },
+      "facts": { "de": ["Hauptstadt der Provinz Río Negro", "Liegt am Ufer des Río Negro", "Älteste Stadt der Region", "Einst als Bundes-Hauptstadt im Gespräch"] }
     },
     {
       "id": "ar-r-san-carlos-de-bariloche-cities-v2",
-      "descriptionAdvanced": {"de": "San Carlos de Bariloche ist das Zentrum des Tourismus im argentinischen Seenviertel. Die Stadt ist berühmt für ihre Architektur und den Nahuel-Huapi-Nationalpark."},
-      "factsAdvanced": {"de": ["Am Nahuel-Huapi-See", "Zentrum des Seenviertels", "Bekannt für Schokolade"]}
+      "description": { "de": "Bariloche ist weltbekannt für seine Schokolade, die wunderschöne Seenlandschaft und als bedeutendstes Skigebiet Südamerikas." },
+      "facts": { "de": ["Am Ufer des Lago Nahuel Huapi", "Bedeutendstes Wintersportzentrum Argentiniens", "Zentrum für High-Tech und Kernforschung", "Berühmt für handgemachte Schokolade"] }
     },
     {
       "id": "ar-r-general-roca-cities-v2",
-      "descriptionAdvanced": {"de": "General Roca liegt im Alto Valle des Río Negro und ist ein Zentrum für den Anbau von Äpfeln und Birnen. Die Stadt ist ein wichtiger landwirtschaftlicher Standort."},
-      "factsAdvanced": {"de": ["Obstanbaugebiet", "Alto Valle", "Landwirtschaftliche Bedeutung"]}
+      "description": { "de": "General Roca ist das Herz des oberen Tals des Río Negro und das wichtigste Zentrum für den Anbau von Äpfeln und Birnen." },
+      "facts": { "de": ["Zentrum des Obstbaus", "Gastgeber des Nationalen Apfelfestes", "Wichtiges Bildungszentrum der Region", "Geprägt durch Bewässerungslandwirtschaft"] }
     },
     {
       "id": "ar-r-cipolletti-cities-v2",
-      "descriptionAdvanced": {"de": "Cipolletti ist eine Stadt im Alto Valle und bildet einen Teil des Ballungsraums um Neuquén. Sie ist ein Zentrum für Obstanbau und Logistik."},
-      "factsAdvanced": {"de": ["Region Alto Valle", "Obstanbau", "Teil der Metropolregion Neuquén"]}
+      "description": { "de": "Cipolletti ist eine dynamische Stadt in Río Negro, die für ihre Obstgärten und ihre enge Verbindung zum benachbarten Neuquén bekannt ist." },
+      "facts": { "de": ["Bedeutender Produzent von Tafelobst", "Strategische Lage am Río Negro", "Enge wirtschaftliche Verflechtung mit Neuquén", "Benannt nach dem Ingenieur César Cipolletti"] }
     },
     {
       "id": "ar-a-salta-cities-v2",
-      "descriptionAdvanced": {"de": "Salta ist die Hauptstadt der gleichnamigen Provinz und berühmt für ihre gut erhaltene koloniale Architektur. Sie liegt in einem Tal der Andenregion."},
-      "factsAdvanced": {"de": ["Koloniale Architektur", "Provinzhauptstadt", "Andenregion"]}
+      "description": { "de": "Salta, die Schöne, besticht durch ihre außergewöhnlich gut erhaltene Kolonialarchitektur und ihre Lage in den grünen Lerma-Tälern." },
+      "facts": { "de": ["Eine der schönsten Kolonialstädte Argentiniens", "Hauptstadt der gleichnamigen Provinz", "Bekannt für Folkloremusik und Peñas", "Ausgangspunkt für den Zug zu den Wolken"] }
     },
     {
       "id": "ar-cueva-de-las-manos-history-v2",
-      "descriptionAdvanced": {"de": "Die Cueva de las Manos beherbergt bedeutende prähistorische Höhlenmalereien. Diese Kunstwerke stammen von frühen Jäger-und-Sammler-Kulturen Patagoniens."},
-      "factsAdvanced": {"de": ["UNESCO-Welterbe", "Höhlenmalereien", "Patagonien"]}
+      "description": { "de": "Diese faszinierende archäologische Stätte zeigt jahrtausendealte Felsmalereien in einer tiefen Schlucht Patagoniens." },
+      "facts": { "de": ["UNESCO-Welterbe seit 1999", "Berühmte Handabdrücke aus der Steinzeit", "Malereien bis zu 13.000 Jahre alt", "Gelegen in der Schlucht des Río Pinturas"] }
     },
     {
       "id": "ar-nuestra-senora-de-santa-ana-history-v2",
-      "descriptionAdvanced": {"de": "Nuestra Señora de Santa Ana ist eine der Jesuitenreduktionen in der Provinz Misiones. Die Ruinen zeugen von der Arbeit der Jesuiten unter der indigenen Bevölkerung."},
-      "factsAdvanced": {"de": ["Jesuitenreduktion", "Provinz Misiones", "UNESCO-Welterbe"]}
+      "description": { "de": "Die Ruinen von Santa Ana zeugen von der Arbeit der Jesuiten und dem kulturellen Austausch mit den Guaraní-Indigenen." },
+      "facts": { "de": ["UNESCO-Weltkulturerbe", "Ehemalige Jesuitenreduktion von 1633", "Bedeutende Reste der Missionarskirche", "Liegt im tropischen Wald von Misiones"] }
     },
     {
       "id": "ar-nuestra-senora-de-loreto-history-v2",
-      "descriptionAdvanced": {"de": "Nuestra Señora de Loreto ist eine ehemalige Jesuitenmission in Misiones. Sie wurde als Teil des Schutzsystems für die indigene Guarani-Bevölkerung gegründet."},
-      "factsAdvanced": {"de": ["Ehemalige Jesuitenmission", "Misiones", "Kulturelles Erbe"]}
+      "description": { "de": "Nuestra Señora de Loreto war einst ein intellektuelles Zentrum der Jesuitenmissionen und besaß die erste Druckerpresse der Region." },
+      "facts": { "de": ["Ort der ersten Druckerpresse Südamerikas", "Teil des UNESCO-Welterbes", "Zentrum für Bildung und Kultur", "Ruinen einer monumentalen Kirche"] }
     },
     {
       "id": "ar-santa-maria-la-mayor-history-v2",
-      "descriptionAdvanced": {"de": "Santa María la Mayor ist eine bedeutende Jesuitenreduktion in Misiones. Die architektonischen Überreste dokumentieren die religiöse Geschichte der Kolonialzeit."},
-      "factsAdvanced": {"de": ["Jesuitenreduktion", "Kulturerbe", "Misiones"]}
+      "description": { "de": "Diese ehemalige Jesuitenmission in Misiones ist für ihre gut erhaltenen Werkstätten und ihre ruhige Atmosphäre bekannt." },
+      "facts": { "de": ["Gegründet im Jahr 1626", "Teil des UNESCO-Welterbes der Jesuitenmissionen", "Bemerkenswerte Reste kolonialer Werkstätten", "Wichtiges historisches Denkmal in Misiones"] }
     },
     {
       "id": "ar-casa-historica-de-tucuman-history-v2",
-      "descriptionAdvanced": {"de": "Die Casa Histórica in San Miguel de Tucumán ist der Ort, an dem 1816 die Unabhängigkeit Argentiniens erklärt wurde. Sie ist ein nationales Symbol."},
-      "factsAdvanced": {"de": ["Unabhängigkeitserklärung 1816", "Nationales Symbol", "Tucumán"]}
+      "description": { "de": "In diesem geschichtsträchtigen Haus wurde am 9. Juli 1816 die Unabhängigkeit Argentiniens von der spanischen Krone erklärt." },
+      "facts": { "de": ["Ort der Unabhängigkeitserklärung 1816", "Nationales Heiligtum in San Miguel de Tucumán", "Historisches Museum mit Originaldokumenten", "Symbol der argentinischen Freiheit"] }
     },
     {
       "id": "ar-manzana-jesuitica-history-v2",
-      "descriptionAdvanced": {"de": "Die Jesuitenblock in Córdoba ist ein Komplex aus der Kolonialzeit, der unter anderem die älteste Universität Argentiniens umfasst. Er steht auf der UNESCO-Welterbeliste."},
-      "factsAdvanced": {"de": ["UNESCO-Welterbe", "Córdoba", "Jesuitenerbe"]}
+      "description": { "de": "Der Jesuitenblock im Zentrum von Córdoba beherbergt die älteste Universität Argentiniens und prächtige Sakralbauten." },
+      "facts": { "de": ["UNESCO-Welterbe seit 2000", "Sitz der ältesten Universität des Landes", "Beinhaltet die Jesuitenkirche und das Colegio Monserrat", "Herz der kolonialen Bildung in Argentinien"] }
     },
     {
       "id": "ar-estancia-alta-gracia-history-v2",
-      "descriptionAdvanced": {"de": "Die Estancia von Alta Gracia ist eine historische jesuitische Anlage bei Córdoba. Sie zeigt die wirtschaftliche Organisation der Jesuitenorden im 17. und 18. Jahrhundert."},
-      "factsAdvanced": {"de": ["Jesuitenerbe", "Córdoba-Provinz", "Koloniale Estancia"]}
+      "description": { "de": "Diese prachtvolle Jesuiten-Estancia umfasst eine Kirche, eine Residenz und einen historischen Stausee zur Bewässerung." },
+      "facts": { "de": ["UNESCO-Weltkulturerbe", "Ehemalige Residenz von Vizekönig Liniers", "Bekannt für das künstliche Wasserbecken El Tajamar", "Bedeutendes Museum für Kolonialgeschichte"] }
     },
     {
       "id": "ar-estancia-jesus-maria-history-v2",
-      "descriptionAdvanced": {"de": "Die Estancia von Jesús María ist ein bedeutendes Zeugnis der jesuitischen Landwirtschaft und Viehzucht in Córdoba. Sie ist Teil des jesuitischen Welterbes."},
-      "factsAdvanced": {"de": ["Jesuitische Landwirtschaft", "Córdoba", "Historisches Bauwerk"]}
+      "description": { "de": "Jesús María war ein wichtiges Zentrum der Jesuiten für den Weinbau und ist heute ein Nationalmuseum." },
+      "facts": { "de": ["UNESCO-Welterbe", "Zentrum der kolonialen Weinproduktion", "Berühmt für den Lagrimilla-Wein", "Beherbergt das Nationale Jesuitenmuseum"] }
     },
     {
       "id": "ar-estancia-santa-catalina-history-v2",
-      "descriptionAdvanced": {"de": "Die Estancia Santa Catalina in der Provinz Córdoba ist die größte der historischen Jesuitenanlagen. Sie umfasst eine Kirche und weitläufige Wirtschaftsgebäude."},
-      "factsAdvanced": {"de": ["Größte Jesuitenanlage", "Córdoba", "Koloniale Architektur"]}
+      "description": { "de": "Santa Catalina ist die größte der Jesuiten-Estancias und besticht durch ihre imposante Barockkirche in idyllischer Landschaft." },
+      "facts": { "de": ["Größte Jesuiten-Estancia in Córdoba", "Herausragende barocke Architektur", "Ehemals spezialisiert auf Maultierzucht", "In privatem Besitz, aber für Besucher zugänglich"] }
     },
     {
       "id": "ar-estancia-caroya-history-v2",
-      "descriptionAdvanced": {"de": "Die Estancia Caroya war die erste jesuitische Anlage in der Provinz Córdoba. Sie diente als landwirtschaftlicher Produktionsstandort für den Orden."},
-      "factsAdvanced": {"de": ["Erste Jesuitenanlage", "Córdoba", "Koloniales Kulturerbe"]}
+      "description": { "de": "Die Estancia Caroya diente als erste Jesuitenfarm der Versorgung des Kollegs und wurde später zur Waffenfabrik." },
+      "facts": { "de": ["Erste Estancia der Jesuiten in Córdoba", "Schauplatz der Waffenproduktion für die Unabhängigkeit", "UNESCO-Weltkulturerbe", "Zentrum der italienischen Einwanderung im 19. Jh."] }
     },
     {
       "id": "ar-estancia-la-candelaria-history-v2",
-      "descriptionAdvanced": {"de": "Die Estancia La Candelaria liegt in den Bergen von Córdoba und war ein abgelegener jesuitischer Außenposten. Sie bewahrt die Struktur einer kolonialen Farm."},
-      "factsAdvanced": {"de": ["Abgelegener Jesuitenposten", "Córdoba", "Koloniale Estancia"]}
+      "description": { "de": "Inmitten der Berge gelegen, ist La Candelaria die abgelegenste der Jesuiten-Estancias und erinnert an eine befestigte Anlage." },
+      "facts": { "de": ["Höchstgelegene Estancia auf 1.200 Metern", "UNESCO-Weltkulturerbe", "Festungsähnliche Architektur in den Sierras", "Wichtiger Viehzuchtbetrieb im 17. Jahrhundert"] }
     },
     {
       "id": "ar-monumento-bandera-history-v2",
-      "descriptionAdvanced": {"de": "Das Monumento Nacional a la Bandera in Rosario erinnert an die erste Hissung der argentinischen Flagge. Es ist ein Wahrzeichen der Stadt am Paraná-Fluss."},
-      "factsAdvanced": {"de": ["Symbol der Nationalflagge", "Rosario", "Paraná-Fluss"]}
+      "description": { "de": "Das monumentale Denkmal in Rosario ehrt die argentinische Flagge an dem Ort, wo sie zum ersten Mal gehisst wurde." },
+      "facts": { "de": ["Wichtigstes patriotisches Monument in Rosario", "Ort der ersten Flaggenhissung 1812", "70 Meter hoher Turm mit Aussichtsplattform", "Krypta des Nationalhelden Manuel Belgrano"] }
     },
     {
       "id": "ar-cayasta-ruins-history-v2",
-      "descriptionAdvanced": {"de": "Die Ruinen von Cayastá markieren den Ort des ursprünglichen Santa Fe. Es ist eine bedeutende archäologische Stätte der spanischen Besiedlung."},
-      "factsAdvanced": {"de": ["Archäologische Stätte", "Altes Santa Fe", "Kolonialgeschichte"]}
+      "description": { "de": "In Cayastá befinden sich die faszinierenden Ruinen des ursprünglichen Santa Fe, das im 17. Jahrhundert verlassen wurde." },
+      "facts": { "de": ["Archäologische Stätte des alten Santa Fe", "1573 von Juan de Garay gegründet", "Wegen Überschwemmungen im Jahr 1660 verlegt", "Bedeutendes Zeugnis früher Kolonialstädte"] }
     },
     {
       "id": "ar-shincal-quimivil-history-v2",
-      "descriptionAdvanced": {"de": "El Shincal de Quimivil ist eine bedeutende archäologische Stätte der Inka-Kultur in der Provinz Catamarca. Sie gilt als regionales Zentrum des Inka-Reiches."},
-      "factsAdvanced": {"de": ["Inka-Ruinen", "Catamarca", "Archäologischer Park"]}
+      "description": { "de": "El Shincal war ein bedeutendes administratives und religiöses Zentrum des Inka-Reiches im heutigen Catamarca." },
+      "facts": { "de": ["Wichtigste Inka-Ruinenstätte in Argentinien", "Teil des UNESCO-Welterbes Qhapaq Ñan", "Zeremonielles Zentrum mit Ushnu-Pyramide", "Strategischer Posten an der Inka-Straße"] }
     },
     {
       "id": "ar-tastil-ruins-history-v2",
-      "descriptionAdvanced": {"de": "Die Ruinen von Tastil in Salta sind die Reste einer großen präkolumbianischen Stadt. Sie liegt hoch in den Anden und war ein bedeutendes Handelszentrum."},
-      "factsAdvanced": {"de": ["Präkolumbianische Stadt", "Salta", "Handelszentrum"]}
+      "description": { "de": "Die Ruinen von Tastil sind die Reste einer der größten präkolumbischen Städte Argentiniens in der Quebrada del Toro." },
+      "facts": { "de": ["Ehemalige Stadt mit über 2.000 Einwohnern", "Prä-Inka-Siedlung der Atacama-Kultur", "UNESCO-Weltkulturerbe (Qhapaq Ñan)", "Liegt auf 3.200 Metern Höhe"] }
     }
   ]
 }

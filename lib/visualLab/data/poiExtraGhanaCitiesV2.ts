@@ -852,7 +852,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Yendi hat eine geschätzte Bevölkerung von über 52008.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-NP Ghanas."],
       hu: ["Yendi városának becsült lakossága több mint 52008 fő.", "Jelentős városközpont Ghána GH-NP régiójában."],
-      ro: ["Orașul Yendi are o populație estimată la peste 52008.", "Este un centru urban semnificativ în regiunea GH-NP din Ghana.", "en: The city of Yendi has an estimated population of over 52008.", "It is a significant urban center in the GH-NP region of Ghana."]
+      ro: ["Orașul Yendi are o populație estimată la peste 52008.", "Este un centru urban semnificativ în regiunea GH-NP din Ghana.", "en: The city of Yendi has an estimated population of over 52008.", "It is a significant urban center in the GH-NP region of Ghana."],
+      en: ["Traditional capital of the Dagbon Kingdom", "Estimated population exceeds 52,008", "Major cultural hub for the Dagomba people", "Historically significant as a stop on trade routes"]
     }, image: "/poi-images/yendi-cities-v2.webp",
     descriptionAdvanced: {
       de: "Yendi ist die traditionelle Hauptstadt des historischen Dagbon-Königreichs in der Northern Region und Sitz des Ya-Naa, des obersten Königs. Im späten 19. Jahrhundert wurde die Stadt durch den deutsch-britischen Vertrag geteilt, wovon heute noch Gräber deutscher Soldaten zeugen. Das trockene Savannenklima zwingt die mehrheitlich von der Landwirtschaft lebende Bevölkerung, sich auf den Anbau von trockenheitsresistenten Pflanzen wie Hirse, Sorghum und Yams zu konzentrieren. Geschichte K8 — das Dagbon-Königreich.",
@@ -877,7 +878,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Winneba hat eine geschätzte Bevölkerung von über 57015.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
       hu: ["Winneba városának becsült lakossága több mint 57015 fő.", "Jelentős városközpont Ghána GH-CP régiójában."],
-      ro: ["Orașul Winneba are o populație estimată la peste 57015.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Winneba has an estimated population of over 57015.", "It is a significant urban center in the GH-CP region of Ghana."]
+      ro: ["Orașul Winneba are o populație estimată la peste 57015.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Winneba has an estimated population of over 57015.", "It is a significant urban center in the GH-CP region of Ghana."],
+      en: ["Coastal town famous for the Aboakyer deer-hunting festival", "Estimated population is over 40,017", "Home to the University of Education, Winneba", "Key center for fishing and local crafts"]
     }, image: "/poi-images/winneba-cities-v2.webp",
     descriptionAdvanced: {
       de: "Winneba, lokal als Simpa bekannt, ist eine geschichtsträchtige Küstenstadt, die für ihr spektakuläres Aboakyer-Festival berühmt ist, bei dem junge Männer traditionell einen lebenden Buschbock fangen. Sie beherbergt die University of Education, die wichtigste Ausbildungsstätte für Lehrer im Land, was der Stadt ein akademisches Flair verleiht. Der Fischfang im Golf von Guinea bleibt jedoch die Lebensader für die ursprüngliche Bevölkerung, deren bunt bemalte Boote die Strände säumen. Kultur K6 — traditionelle Feste.",
@@ -898,11 +900,12 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AH",
     coords: [-1.3994, 7.0627],
     name: { de: "Mampong", hu: "Mampong", ro: "Mampong", en: "Mampong" },
-    description: { de: "Mampong in der Ashanti-Region ist ein wichtiges Zentrum für Landwirtschaft und traditionelle Führung.", hu: "Mampong az Ashanti régióban a mezőgazdaság és a hagyományos vezetés fontos központja.", ro: "Mampong în Regiunea Ashanti este un centru important pentru agricultură și conducere tradițională.", en: "Mampong in the Ashanti Region is an important center for agriculture and traditional leadership." },
+    description: { de: "Mampong in der Ashanti-Region ist ein wichtiges Zentrum für Landwirtschaft und traditionelle Führung.", hu: "Mampong az Ashanti régióban a mezőgazdaság és a hagyományos vezetés fontos központja.", ro: "Mampong în Regiunea Ashanti este un centru important pentru agricultură și conducere tradițională.", en: "Mampong is a significant town in the Ashanti Region, acting as a gateway to the north." },
     facts: {
       de: ["Die Stadt Mampong hat eine geschätzte Bevölkerung von über 42037.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
       hu: ["Mampong városának becsült lakossága több mint 42037 fő.", "Jelentős városközpont Ghána GH-AH régiójában."],
-      ro: ["Orașul Mampong are o populație estimată la peste 42037.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana.", "en: The city of Mampong has an estimated population of over 42037.", "It is a significant urban center in the GH-AH region of Ghana."]
+      ro: ["Orașul Mampong are o populație estimată la peste 42037.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana.", "en: The city of Mampong has an estimated population of over 42037.", "It is a significant urban center in the GH-AH region of Ghana."],
+      en: ["Located in the Ashanti Region with over 35,463 residents", "First site of cocoa cultivation in Ghana by Tetteh Quarshie", "Houses several notable educational institutions", "Situated on the Mampong Escarpment"]
     }, image: "/poi-images/mampong-cities-v2.webp",
     descriptionAdvanced: {
       de: "Mampong in der Ashanti-Region fungiert als administratives und erzieherisches Zentrum mit einer starken historischen Bedeutung im Ashanti-Königreich. Es ist der Sitz des Mamponghene, dem zweithöchsten Führer nach dem Asantehene, was die Stadt zu einem zentralen Ort für königliche Rituale macht. Die Region ist von fruchtbaren Böden geprägt, und die örtliche Agrarhochschule zieht Studenten aus dem ganzen Land an, um moderne Anbaumethoden für Kakao und Cashew zu erlernen. Geografie K7 — Landwirtschaft und Bildung.",
@@ -923,11 +926,12 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-UE",
     coords: [-1.0921, 10.8956],
     name: { de: "Navrongo", hu: "Navrongo", ro: "Navrongo", en: "Navrongo" },
-    description: { de: "Navrongo liegt nahe der Nordgrenze und beherbergt eine bedeutende aus Lehm erbaute katholische Kathedrale.", hu: "Navrongo az északi határ közelében található, egy jelentős sárból épült katolikus katedrálisnak ad otthonn.", ro: "Navrongo este situat în apropierea graniței de nord, adăpostind o importantă catedrală catolică construită din lut.", en: "Navrongo is situated near the northern border, home to a significant Catholic cathedral built of mud." },
+    description: { de: "Navrongo liegt nahe der Nordgrenze und beherbergt eine bedeutende aus Lehm erbaute katholische Kathedrale.", hu: "Navrongo az északi határ közelében található, egy jelentős sárból épült katolikus katedrálisnak ad otthonn.", ro: "Navrongo este situat în apropierea graniței de nord, adăpostind o importantă catedrală catolică construită din lut.", en: "Navrongo is an important town in the Upper East Region, known for its historic mud cathedral." },
     facts: {
       de: ["Die Stadt Navrongo hat eine geschätzte Bevölkerung von über 27306.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-UE Ghanas."],
       hu: ["Navrongo városának becsült lakossága több mint 27306 fő.", "Jelentős városközpont Ghána GH-UE régiójában."],
-      ro: ["Orașul Navrongo are o populație estimată la peste 27306.", "Este un centru urban semnificativ în regiunea GH-UE din Ghana.", "en: The city of Navrongo has an estimated population of over 27306.", "It is a significant urban center in the GH-UE region of Ghana."]
+      ro: ["Orașul Navrongo are o populație estimată la peste 27306.", "Este un centru urban semnificativ în regiunea GH-UE din Ghana.", "en: The city of Navrongo has an estimated population of over 27306.", "It is a significant urban center in the GH-UE region of Ghana."],
+      en: ["Major town in the Upper East Region near the Burkina Faso border", "Estimated population is over 27,306", "Known for the Cathedral of Our Lady of Seven Sorrows built in 1906", "Significant center for agricultural research and education"]
     }, image: "/poi-images/navrongo-cities-v2.webp",
     descriptionAdvanced: {
       de: "Navrongo, tief in der trockenen Upper East Region gelegen, zeichnet sich durch seine bemerkenswerte Lehmarchitektur aus. Das berühmteste Wahrzeichen ist die faszinierende Basilica of Our Lady of Seven Sorrows, eine katholische Kirche, die 1906 von französischen Priestern vollständig aus Schlamm erbaut wurde. Die Stadt profitiert maßgellich vom Tono-Staudamm, der eine ganzjährige Bewässerungslandwirtschaft in der sonst trockenen Savanne ermöglicht. Geografie K6 — Bewässerung und Architektur.",
@@ -952,7 +956,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Akim Oda hat eine geschätzte Bevölkerung von über 51231.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-EP Ghanas."],
       hu: ["Akim Oda városának becsült lakossága több mint 51231 fő.", "Jelentős városközpont Ghána GH-EP régiójában."],
-      ro: ["Orașul Akim Oda are o populație estimată la peste 51231.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana.", "en: The city of Akim Oda has an estimated population of over 51231.", "It is a significant urban center in the GH-EP region of Ghana."]
+      ro: ["Orașul Akim Oda are o populație estimată la peste 51231.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana.", "en: The city of Akim Oda has an estimated population of over 51231.", "It is a significant urban center in the GH-EP region of Ghana."],
+      en: ["Capital of the Birim Central Municipal District", "Estimated population exceeds 51,231", "Region is known for the world's largest Badi (Big Tree)", "Major center for timber and cocoa production"]
     }, image: "/poi-images/akim-oda-cities-v2.webp",
     descriptionAdvanced: {
       de: "Akim Oda ist das pulsierende Zentrum der Birim Central Municipal in der Eastern Region und historisch bekannt für den Handel mit Tropenholz und Diamanten. Der Markt in Oda ist einer der größten der Region, besonders beliebt für den Handel mit Kassava und Palmöl, die im feuchten, dichten Waldklima gedeihen. Die Stadt war jahrzehntelang Standort der größten Sägemühle Westafrikas, doch der Rückgang der Wälder hat zu einem wirtschaftlichen Umdenken in Richtung nachhaltigerer Landwirtschaft geführt. Umwelt K7 — Waldwirtschaft.",
@@ -977,7 +982,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Prestea hat eine geschätzte Bevölkerung von über 35760.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-WP Ghanas."],
       hu: ["Prestea városának becsült lakossága több mint 35760 fő.", "Jelentős városközpont Ghána GH-WP régiójában."],
-      ro: ["Orașul Prestea are o populație estimată la peste 35760.", "Este un centru urban semnificativ în regiunea GH-WP din Ghana.", "en: The city of Prestea has an estimated population of over 35760.", "It is a significant urban center in the GH-WP region of Ghana."]
+      ro: ["Orașul Prestea are o populație estimată la peste 35760.", "Este un centru urban semnificativ în regiunea GH-WP din Ghana.", "en: The city of Prestea has an estimated population of over 35760.", "It is a significant urban center in the GH-WP region of Ghana."],
+      en: ["Major gold mining town in the Western Region", "Estimated population is over 35,760", "Features deep underground and surface mining operations", "Connected by rail to the port city of Takoradi"]
     },
     descriptionAdvanced: {
       de: "Tief in der waldreichen Western Region gelegen, ist Prestea eine der traditionsreichsten Goldgräberstädte Ghanas. Seit über einem Jahrhundert wird hier tief unter der Erde Gold abgebaut, was ein riesiges Labyrinth an Minenschächten hinterlassen hat. Der Bergbau brachte einst enormen Reichtum und eine Eisenbahnanbindung 1901, aber auch schwere ökologische Schäden durch Schwermetalle und Chemikalien, die bis heute das Flusssystem der Region belasten. Wirtschaft K8 — Goldabbau und Umweltfolgen.",
@@ -998,11 +1004,12 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-WP",
     coords: [-1.7667, 4.9167],
     name: { de: "Effiakuma", hu: "Effiakuma", ro: "Effiakuma", en: "Effiakuma" },
-    description: { de: "Effiakuma ist ein geschäftiger Wohnvorort im Ballungsraum Sekondi-Takoradi.", hu: "Effiakuma egy forgalmas lakó-külváros a Sekondi-Takoradi nagyvárosi területen belül.", ro: "Effiakuma este o suburbie rezidențială aglomerată situată în zona metropolitană Sekondi-Takoradi.", en: "Effiakuma is a busy residential suburb located within the Sekondi-Takoradi metropolitan area." },
+    description: { de: "Effiakuma ist ein geschäftiger Wohnvorort im Ballungsraum Sekondi-Takoradi.", hu: "Effiakuma egy forgalmas lakó-külváros a Sekondi-Takoradi nagyvárosi területen belül.", ro: "Effiakuma este o suburbie rezidențială aglomerată situată în zona metropolitană Sekondi-Takoradi.", en: "Effiakuma is a major residential suburb in the Sekondi-Takoradi metropolis." },
     facts: {
       de: ["Die Stadt Effiakuma hat eine geschätzte Bevölkerung von über 31876.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-WP Ghanas."],
       hu: ["Effiakuma városának becsült lakossága több mint 31876 fő.", "Jelentős városközpont Ghána GH-WP régiójában."],
-      ro: ["Orașul Effiakuma are o populație estimată la peste 31876.", "Este un centru urban semnificativ în regiunea GH-WP din Ghana.", "en: The city of Effiakuma has an estimated population of over 31876.", "It is a significant urban center in the GH-WP region of Ghana."]
+      ro: ["Orașul Effiakuma are o populație estimată la peste 31876.", "Este un centru urban semnificativ în regiunea GH-WP din Ghana.", "en: The city of Effiakuma has an estimated population of over 31876.", "It is a significant urban center in the GH-WP region of Ghana."],
+      en: ["Vibrant suburb of the Sekondi-Takoradi metropolis", "Estimated population exceeds 31,858", "Known for its bustling local markets and small-scale industries", "Significant residential and commercial hub in the Western Region"]
     },
     descriptionAdvanced: {
       de: "Effiakuma ist ein dicht besiedelter Vorort innerhalb der Zwillingsstadt Sekondi-Takoradi, der ursprünglich in den 1950er Jahren als geplante Arbeitersiedlung angelegt wurde. Mit dem Boom der ghanaischen Ölindustrie wuchs das Viertel rasant, und heute ist es bekannt für seine lebendige Straßenkultur und die passionierte Unterstützung des lokalen Fußballs. Die meisten Einwohner pendeln zum nahegelegenen Hafen oder arbeiten in den Raffinerien und Fabriken der Industriebahn von Takoradi. Sozialkunde K7 — Arbeiterklasse und Industrie.",
@@ -1023,11 +1030,12 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-AH",
     coords: [-1.0833, 6.8],
     name: { de: "Agogo", hu: "Agogo", ro: "Agogo", en: "Agogo" },
-    description: { de: "Agogo ist bekannt für sein presbyterianisches Krankenhaus und fruchtbare landwirtschaftliche Flächen.", hu: "Agogo presbiteriánus kórházáról és termékeny mezőgazdasági területeiről híres.", ro: "Agogo este bine-cunoscut pentru spitalul său prezbiterian și terenurile agricole fertile.", en: "Agogo is well-known for its Presbyterian hospital and fertile agricultural lands." },
+    description: { de: "Agogo ist bekannt für sein presbyterianisches Krankenhaus und fruchtbare landwirtschaftliche Flächen.", hu: "Agogo presbiteriánus kórházáról és termékeny mezőgazdasági területeiről híres.", ro: "Agogo este bine-cunoscut pentru spitalul său prezbiterian și terenurile agricole fertile.", en: "Agogo is a prominent town in the Asante Akim North District, serving as a regional trade center." },
     facts: {
       de: ["Die Stadt Agogo hat eine geschätzte Bevölkerung von über 28271.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
       hu: ["Agogo városának becsült lakossága több mint 28271 fő.", "Jelentős városközpont Ghána GH-AH régiójában."],
-      ro: ["Orașul Agogo are o populație estimată la peste 28271.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana.", "en: The city of Agogo has an estimated population of over 28271.", "It is a significant urban center in the GH-AH region of Ghana."]
+      ro: ["Orașul Agogo are o populație estimată la peste 28271.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana.", "en: The city of Agogo has an estimated population of over 28271.", "It is a significant urban center in the GH-AH region of Ghana."],
+      en: ["Major town in the Asante Akim North District", "Estimated population is over 31,713", "Well-known for its large Presbyterian hospital", "Center for watermelon production and agriculture"]
     }, image: "/poi-images/agogo-cities-v2.webp",
     descriptionAdvanced: {
       de: "Eingebettet in ein fruchtbares Tal in der Ashanti-Region, hat sich Agogo den Ruf als Plantain-Hauptstadt Ghanas erarbeitet, da hier unglaubliche Mengen an Kochbananen angebaut werden. Die Stadt wurde in den 1930er Jahren durch das presbyterianische Krankenhaus bekannt, das noch heute zu den besten medizinischen Einrichtungen im Hinterland zählt. Durch die Ansiedlung großer Rinderherden durch Fulani-Hirten in der Region kam es jedoch in den letzten Jahren immer wieder zu Spannungen mit den lokalen Bauern. Geografie K6 — Landkonflikte.",
@@ -1048,11 +1056,12 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-CP",
     coords: [-1.7833, 5.9667],
     name: { de: "Dunkwa-on-Offin", hu: "Dunkwa-on-Offin", ro: "Dunkwa-on-Offin", en: "Dunkwa-on-Offin" },
-    description: { de: "Dunkwa-on-Offin ist ein wichtiges Zentrum für die Holzverarbeitung und den lokalen Handel.", hu: "Dunkwa-on-Offin a fafeldolgozás és a helyi kereskedelem fontos központja.", ro: "Dunkwa-on-Offin este un centru important pentru prelucrarea lemnului și comerțul local.", en: "Dunkwa-on-Offin is an important center for timber processing and local trade." },
+    description: { de: "Dunkwa-on-Offin ist ein wichtiges Zentrum für die Holzverarbeitung und den lokalen Handel.", hu: "Dunkwa-on-Offin a fafeldolgozás és a helyi kereskedelem fontos központja.", ro: "Dunkwa-on-Offin este un centru important pentru prelucrarea lemnului și comerțul local.", en: "Dunkwa-on-Offin is an important center for the mining and cocoa trade." },
     facts: {
       de: ["Die Stadt Dunkwa-on-Offin hat eine geschätzte Bevölkerung von über 26215.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
       hu: ["Dunkwa-on-Offin városának becsült lakossága több mint 26215 fő.", "Jelentős városközpont Ghána GH-CP régiójában."],
-      ro: ["Orașul Dunkwa-on-Offin are o populație estimată la peste 26215.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Dunkwa-on-Offin has an estimated population of over 26215.", "It is a significant urban center in the GH-CP region of Ghana."]
+      ro: ["Orașul Dunkwa-on-Offin are o populație estimată la peste 26215.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Dunkwa-on-Offin has an estimated population of over 26215.", "It is a significant urban center in the GH-CP region of Ghana."],
+      en: ["Located along the Offin River in the Central Region", "Estimated population exceeds 30,230", "Major hub for gold mining and cocoa trading", "Historic administrative center for the surrounding district"]
     }, image: "/poi-images/dunkwa-on-offin-cities-v2.webp",
     descriptionAdvanced: {
       de: "Am Ufer des Flusses Offin gelegen, ist Dunkwa ein entscheidender Knotenpunkt für den Kakao- und Goldbergbau in der Central Region. In den frühen 1900er Jahren florierte die Stadt dank ihrer Lage an der Eisenbahnstrecke, die riesige Holzstämme aus dem Regenwald zur Küste transportierte. Heutzutage leidet der Fluss stark unter den Auswirkungen des Galamsey (illegaler Kleinstbergbau), der das Wasser verschmutzt und die Landwirtschaft flussabwärts massiv beeinträchtigt. Umwelt K8 — illegaler Bergbau.",
@@ -1073,11 +1082,12 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-EP",
     coords: [-0.3833, 6.3833],
     name: { de: "Begoro", hu: "Begoro", ro: "Begoro", en: "Begoro" },
-    description: { de: "Begoro ist eine malerische Stadt, bekannt für ihr kühles Klima und zahlreiche Wasserfälle.", hu: "Begoro egy festői kisváros hűvös klímájáról és számos vízeséséről ismert.", ro: "Begoro este un oraș pitoresc cunoscut pentru climatul său răcoros și numeroasele cascade.", en: "Begoro is a picturesque town known for its cool climate and numerous waterfalls." },
+    description: { de: "Begoro ist eine malerische Stadt, bekannt für ihr kühles Klima und zahlreiche Wasserfälle.", hu: "Begoro egy festői kisváros hűvös klímájáról és számos vízeséséről ismert.", ro: "Begoro este un oraș pitoresc cunoscut pentru climatul său răcoros și numeroasele cascade.", en: "Begoro is a hillside town in the Eastern Region, known for its fertile lands and cool climate." },
     facts: {
       de: ["Die Stadt Begoro hat eine geschätzte Bevölkerung von über 48316.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-EP Ghanas."],
       hu: ["Begoro városának becsült lakossága több mint 48316 fő.", "Jelentős városközpont Ghána GH-EP régiójában."],
-      ro: ["Orașul Begoro are o populație estimată la peste 48316.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana.", "en: The city of Begoro has an estimated population of over 48316.", "It is a significant urban center in the GH-EP region of Ghana."]
+      ro: ["Orașul Begoro are o populație estimată la peste 48316.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana.", "en: The city of Begoro has an estimated population of over 48316.", "It is a significant urban center in the GH-EP region of Ghana."],
+      en: ["Capital of the Fanteakwa District in the Eastern Region", "Estimated population is over 28,515", "Known as a center for the Odwira festival", "Significant producer of food crops and vegetables"]
     }, image: "/poi-images/begoro-cities-v2.webp",
     descriptionAdvanced: {
       de: "Begoro liegt auf einem malerischen Plateau der Akwapim-Togo-Bergkette in der Eastern Region und zeichnet sich durch ein auffällig kühles Klima aus. Diese geografische Besonderheit macht das Gebiet zu einem der besten Orte Ghanas für den Anbau von Gemüse und Obst, die ansonsten in den Tropen schwer gedeihen. Die Wasserfälle von Osubin in der Nähe der Stadt sind eine beliebte, wenn auch schwer zugängliche Attraktion für einheimische Wanderer. Geografie K6 — Höhenklima und Flora.",
@@ -1098,11 +1108,12 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-BE",
     coords: [-1.7306, 8.0563],
     name: { de: "Kintampo", hu: "Kintampo", ro: "Kintampo", en: "Kintampo" },
-    description: { de: "Kintampo liegt zentral in Ghana und ist berühmt für die Kintampo-Wasserfälle.", hu: "Kintampo Ghána központjában helyezkedik el, és híres a Kintampo-vízesésekről.", ro: "Kintampo este situat central în Ghana și este faimos pentru cascadele Kintampo.", en: "Kintampo is centrally located in Ghana and is famous for the Kintampo Waterfalls." },
+    description: { de: "Kintampo liegt zentral in Ghana und ist berühmt für die Kintampo-Wasserfälle.", hu: "Kintampo Ghána központjában helyezkedik el, és híres a Kintampo-vízesésekről.", ro: "Kintampo este situat central în Ghana și este faimos pentru cascadele Kintampo.", en: "Kintampo is the geographical center of Ghana, famous for its waterfalls and cultural diversity." },
     facts: {
       de: ["Die Stadt Kintampo hat eine geschätzte Bevölkerung von über 49046.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-BE Ghanas."],
       hu: ["Kintampo városának becsült lakossága több mint 49046 fő.", "Jelentős városközpont Ghána GH-BE régiójában."],
-      ro: ["Orașul Kintampo are o populație estimată la peste 49046.", "Este un centru urban semnificativ în regiunea GH-BE din Ghana.", "en: The city of Kintampo has an estimated population of over 49046.", "It is a significant urban center in the GH-BE region of Ghana."]
+      ro: ["Orașul Kintampo are o populație estimată la peste 49046.", "Este un centru urban semnificativ în regiunea GH-BE din Ghana.", "en: The city of Kintampo has an estimated population of over 49046.", "It is a significant urban center in the GH-BE region of Ghana."],
+      en: ["Geographical center of Ghana located in the Bono East Region", "Estimated population exceeds 27,068", "Famous for the Kintampo Waterfalls on the Pumpum River", "Key transit point between the northern and southern regions"]
     }, image: "/poi-images/kintampo-cities-v2.webp",
     descriptionAdvanced: {
       de: "Kintampo wird oft als das exakte geografische Zentrum Ghanas bezeichnet und ist ein bedeutender historischer Knotenpunkt für Handelskarawanen, die Kola-Nüsse aus dem Süden gegen Salz aus dem Norden tauschten. Die berühmten Kintampo-Wasserfälle ziehen jährlich Tausende von Touristen an, während die Stadt gleichzeitig als Zentrum für die Erforschung der Kintampo-Kultur (ca. 2500–1400 v. Chr.) durch Archäologen bekannt ist. Geschichte K7 — prähistorische Kulturen Westafrikas.",
@@ -1123,11 +1134,12 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-TV",
     coords: [1.1917, 6.1167],
     name: { de: "Aflao", hu: "Aflao", ro: "Aflao", en: "Aflao" },
-    description: { de: "Aflao ist eine große Grenzstadt, die als Hauptgrenzübergang zwischen Ghana und Togo dient.", hu: "Aflao egy jelentős határváros, amely a Ghána és Togo közötti elsődleges átkelőhelyként szolgál.", ro: "Aflao este un important oraș de frontieră care servește drept principal punct de trecere între Ghana și Togo.", en: "Aflao is a major border town serving as the primary crossing point between Ghana and Togo." },
+    description: { de: "Aflao ist eine große Grenzstadt, die als Hauptgrenzübergang zwischen Ghana und Togo dient.", hu: "Aflao egy jelentős határváros, amely a Ghána és Togo közötti elsődleges átkelőhelyként szolgál.", ro: "Aflao este un important oraș de frontieră care servește drept principal punct de trecere între Ghana și Togo.", en: "Aflao is a major border town in the Volta Region, acting as a gateway between Ghana and Togo." },
     facts: {
       de: ["Die Stadt Aflao hat eine geschätzte Bevölkerung von über 38927.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-TV Ghanas."],
       hu: ["Aflao városának becsült lakossága több mint 38927 fő.", "Jelentős városközpont Ghána GH-TV régiójában."],
-      ro: ["Orașul Aflao are o populație estimată la peste 38927.", "Este un centru urban semnificativ în regiunea GH-TV din Ghana.", "en: The city of Aflao has an estimated population of over 38927.", "It is a significant urban center in the GH-TV region of Ghana."]
+      ro: ["Orașul Aflao are o populație estimată la peste 38927.", "Este un centru urban semnificativ în regiunea GH-TV din Ghana.", "en: The city of Aflao has an estimated population of over 38927.", "It is a significant urban center in the GH-TV region of Ghana."],
+      en: ["Major border town in the Volta Region adjacent to Lomé, Togo", "Estimated population is over 26,818", "One of the busiest land border crossings in West Africa", "Significant hub for regional trade and commerce"]
     },
     descriptionAdvanced: {
       de: "Aflao liegt direkt an der östlichen Grenze zu Togo und ist der geschäftigste Landgrenzübergang Ghanas, durch den täglich Tausende von Menschen, Fahrzeugen und Gütern pendeln. Die Wirtschaft der Stadt basiert nahezu vollständig auf dem grenzüberschreitenden Handel und den dazugehörigen Logistikdienstleistungen. Trotz des hohen Handelsvolumens ist Aflao oft Schauplatz von Schmuggelaktivitäten, was eine ständige Herausforderung für den Zoll darstellt. Wirtschaft K8 — Grenzübergänge und Zoll.",
@@ -1148,11 +1160,12 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-BE",
     coords: [-1.7, 7.5667],
     name: { de: "Nkoranza", hu: "Nkoranza", ro: "Nkoranza", en: "Nkoranza" },
-    description: { de: "Nkoranza ist ein traditionelles landwirtschaftliches Zentrum, das stark im Maisanbau engagiert ist.", hu: "Nkoranza egy hagyományos mezőgazdasági központ, amely nagyban részt vesz a kukoricatermesztésben.", ro: "Nkoranza este un centru agricol tradițional puternic implicat în cultivarea porumbului.", en: "Nkoranza is a traditional agricultural center heavily involved in maize cultivation." },
+    description: { de: "Nkoranza ist ein traditionelles landwirtschaftliches Zentrum, das stark im Maisanbau engagiert ist.", hu: "Nkoranza egy hagyományos mezőgazdasági központ, amely nagyban részt vesz a kukoricatermesztésben.", ro: "Nkoranza este un centru agricol tradițional puternic implicat în cultivarea porumbului.", en: "Nkoranza is a significant agricultural center in the Bono East Region." },
     facts: {
       de: ["Die Stadt Nkoranza hat eine geschätzte Bevölkerung von über 21715.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-BE Ghanas."],
       hu: ["Nkoranza városának becsült lakossága több mint 21715 fő.", "Jelentős városközpont Ghána GH-BE régiójában."],
-      ro: ["Orașul Nkoranza are o populație estimată la peste 21715.", "Este un centru urban semnificativ în regiunea GH-BE din Ghana.", "en: The city of Nkoranza has an estimated population of over 21715.", "It is a significant urban center in the GH-BE region of Ghana."]
+      ro: ["Orașul Nkoranza are o populație estimată la peste 21715.", "Este un centru urban semnificativ în regiunea GH-BE din Ghana.", "en: The city of Nkoranza has an estimated population of over 21715.", "It is a significant urban center in the GH-BE region of Ghana."],
+      en: ["Located in the Bono East Region with over 26,450 residents", "Major center for maize and yam production", "Home to the Nkoranza Traditional Council", "Significant agricultural and commercial hub"]
     }, image: "/poi-images/nkoranza-cities-v2.webp",
     descriptionAdvanced: {
       de: "Nkoranza liegt in der Bono East Region und spielt eine zentrale Rolle in der landwirtschaftlichen Lebensmittelversorgung des Landes, insbesondere beim Anbau von Yams und Mais. Die Region ist berühmt für ihr traditionelles Munufie-Festival, bei dem die Dorfbewohner den Geistern ihrer Vorfahren für eine erfolgreiche Ernte danken. Historisch gesehen leistete Nkoranza erbitterten Widerstand gegen die Expansion des Ashanti-Reiches im späten 19. Jahrhundert. Geschichte K6 — regionale Kriege.",
@@ -1173,11 +1186,12 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-CP",
     coords: [-0.4667, 5.5167],
     name: { de: "Oduponkpehe", hu: "Oduponkpehe", ro: "Oduponkpehe", en: "Oduponkpehe" },
-    description: { de: "Oduponkpehe ist eine aufstrebende städtische Siedlung in der Zentralregion, Teil des weiteren Awutu Senya-Gebiets.", hu: "Oduponkpehe egy feltörekvő városi település a Középső régióban, a tágabb Awutu Senya terület része.", ro: "Oduponkpehe este o așezare urbană emergentă în Regiunea Centrală, parte a zonei mai largi Awutu Senya.", en: "Oduponkpehe is an emerging urban settlement in the Central Region, part of the broader Awutu Senya area." },
+    description: { de: "Oduponkpehe ist eine aufstrebende städtische Siedlung in der Zentralregion, Teil des weiteren Awutu Senya-Gebiets.", hu: "Oduponkpehe egy feltörekvő városi település a Középső régióban, a tágabb Awutu Senya terület része.", ro: "Oduponkpehe este o așezare urbană emergentă în Regiunea Centrală, parte a zonei mai largi Awutu Senya.", en: "Oduponkpehe is a rapidly growing residential and commercial town in the Central Region." },
     facts: {
       de: ["Die Stadt Oduponkpehe hat eine geschätzte Bevölkerung von über 42000.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
       hu: ["Oduponkpehe városának becsült lakossága több mint 42000 fő.", "Jelentős városközpont Ghána GH-CP régiójában."],
-      ro: ["Orașul Oduponkpehe are o populație estimată la peste 42000.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Oduponkpehe has an estimated population of over 42000.", "It is a significant urban center in the GH-CP region of Ghana."]
+      ro: ["Orașul Oduponkpehe are o populație estimată la peste 42000.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Oduponkpehe has an estimated population of over 42000.", "It is a significant urban center in the GH-CP region of Ghana."],
+      en: ["Rapidly growing town in the Central Region", "Estimated population exceeds 26,110", "Serves as a major residential area for workers in Accra", "Known for its vibrant local markets and transport links"]
     }, image: "/poi-images/oduponkpehe-cities-v2.webp",
     descriptionAdvanced: {
       de: "Ursprünglich unter dem Namen Kasoa Zongo bekannt, hat sich Oduponkpehe zu einer riesigen Wohnstadt für Pendler entwickelt, die in Accra arbeiten, aber der Enge der Hauptstadt entfliehen wollten. Die rasante, oft ungeplante Bebauung hat zu erheblichen infrastrukturellen Herausforderungen geführt, insbesondere bei der Abfallwirtschaft und der Entwässerung während der Regenzeit. Trotzdem blüht die lokale Wirtschaft durch unzählige kleine Handwerksbetriebe und informelle Straßenmärkte auf. Geografie K7 — Zersiedelung.",
@@ -1198,11 +1212,12 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-CP",
     coords: [-1.0667, 5.2],
     name: { de: "Saltpond", hu: "Saltpond", ro: "Saltpond", en: "Saltpond" },
-    description: { de: "Saltpond hat eine bedeutende Geschichte bezüglich der Ölindustrie Ghanas und der Unabhängigkeitsbewegung.", hu: "Saltpond jelentős történelemmel bír Ghána olajipara és a függetlenségi mozgalom kapcsán.", ro: "Saltpond deține o istorie semnificativă în ceea ce privește industria petrolieră din Ghana și mișcarea de independență.", en: "Saltpond holds significant history regarding Ghana's oil industry and the independence movement." },
+    description: { de: "Saltpond hat eine bedeutende Geschichte bezüglich der Ölindustrie Ghanas und der Unabhängigkeitsbewegung.", hu: "Saltpond jelentős történelemmel bír Ghána olajipara és a függetlenségi mozgalom kapcsán.", ro: "Saltpond deține o istorie semnificativă în ceea ce privește industria petrolieră din Ghana și mișcarea de independență.", en: "Saltpond is a historic town in the Central Region, once a major center for colonial administration." },
     facts: {
       de: ["Die Stadt Saltpond hat eine geschätzte Bevölkerung von über 24689.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
       hu: ["Saltpond városának becsült lakossága több mint 24689 fő.", "Jelentős városközpont Ghána GH-CP régiójában."],
-      ro: ["Orașul Saltpond are o populație estimată la peste 24689.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Saltpond has an estimated population of over 24689.", "It is a significant urban center in the GH-CP region of Ghana."]
+      ro: ["Orașul Saltpond are o populație estimată la peste 24689.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Saltpond has an estimated population of over 24689.", "It is a significant urban center in the GH-CP region of Ghana."],
+      en: ["Historic coastal town in the Central Region", "Estimated population is over 24,960", "Birthplace of the first political party in Ghana (UGCC)", "Site of Ghana's first offshore oil discovery"]
     }, image: "/poi-images/saltpond-cities-v2.webp",
     descriptionAdvanced: {
       de: "Saltpond ist eine historische Küstenstadt in der Central Region und gilt als Geburtsort der ersten politischen Partei Ghanas (UGCC) im Jahr 1947, was sie zu einem Meilenstein der Unabhängigkeitsbewegung macht. Wie der Name andeutet, war der Ort einst ein Zentrum der Salzgewinnung, doch heute basiert die Wirtschaft vor allem auf der Küstenfischerei. Etwas vor der Küste wurde auch die erste Offshore-Ölplattform Ghanas in Betrieb genommen, wenngleich mit geringer Fördermenge. Geschichte K8 — der Weg zur Unabhängigkeit.",
@@ -1223,11 +1238,12 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-EP",
     coords: [-0.8, 6.05],
     name: { de: "Akwatia", hu: "Akwatia", ro: "Akwatia", en: "Akwatia" },
-    description: { de: "Akwatia ist ein Synonym für den Diamantenabbau in Ghana.", hu: "Akwatia szinonimája a ghánai gyémántbányászatnak.", ro: "Akwatia este sinonim cu operațiunile de exploatare a diamantelor din Ghana.", en: "Akwatia is synonymous with Ghana's diamond mining operations." },
+    description: { de: "Akwatia ist ein Synonym für den Diamantenabbau in Ghana.", hu: "Akwatia szinonimája a ghánai gyémántbányászatnak.", ro: "Akwatia este sinonim cu operațiunile de exploatare a diamantelor din Ghana.", en: "Akwatia is renowned for its diamond mining industry and its bustling market." },
     facts: {
       de: ["Die Stadt Akwatia hat eine geschätzte Bevölkerung von über 23766.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-EP Ghanas."],
       hu: ["Akwatia városának becsült lakossága több mint 23766 fő.", "Jelentős városközpont Ghána GH-EP régiójában."],
-      ro: ["Orașul Akwatia are o populație estimată la peste 23766.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana.", "en: The city of Akwatia has an estimated population of over 23766.", "It is a significant urban center in the GH-EP region of Ghana."]
+      ro: ["Orașul Akwatia are o populație estimată la peste 23766.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana.", "en: The city of Akwatia has an estimated population of over 23766.", "It is a significant urban center in the GH-EP region of Ghana."],
+      en: ["Famous for being the center of diamond mining in Ghana", "Estimated population exceeds 23,763", "Located in the Birim River basin in the Eastern Region", "Major hub for gemstone trading and processing"]
     }, image: "/poi-images/akwatia-cities-v2.webp",
     descriptionAdvanced: {
       de: "Akwatia, in der Eastern Region, ist das Herz der ghanaischen Diamantenindustrie. Die Stadt wurde in den 1920er Jahren um eine riesige Diamantenmine der Consolidated African Selection Trust herum erbaut. Mehr als ein halbes Jahrhundert lang lieferte die Mine Industrie-Diamanten in alle Welt, was der Stadt einen gewissen Wohlstand brachte. Heute ist die Mine weitgehend erschöpft, und die Bevölkerung wendet sich zunehmend dem illegalen Kleinstbergbau oder der Landwirtschaft zu. Wirtschaft K7 — Diamantenabbau.",
@@ -1248,11 +1264,12 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-CP",
     coords: [-0.7333, 5.2833],
     name: { de: "Apam", hu: "Apam", ro: "Apam", en: "Apam" },
-    description: { de: "Apam ist ein Fischerdorf, bekannt für das historische Fort Patience, das den Hafen überblickt.", hu: "Apam egy halászváros, amelyet a kikötőre néző történelmi Fort Patience erődítményéről ismernek.", ro: "Apam este un oraș pescăresc recunoscut pentru istoricul Fort Patience cu vedere la port.", en: "Apam is a fishing town recognized for the historic Fort Patience overlooking the harbor." },
+    description: { de: "Apam ist ein Fischerdorf, bekannt für das historische Fort Patience, das den Hafen überblickt.", hu: "Apam egy halászváros, amelyet a kikötőre néző történelmi Fort Patience erődítményéről ismernek.", ro: "Apam este un oraș pescăresc recunoscut pentru istoricul Fort Patience cu vedere la port.", en: "Apam is a historic coastal town known for its fishing industry and Fort Patience." },
     facts: {
       de: ["Die Stadt Apam hat eine geschätzte Bevölkerung von über 26466.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
       hu: ["Apam városának becsült lakossága több mint 26466 fő.", "Jelentős városközpont Ghána GH-CP régiójában."],
-      ro: ["Orașul Apam are o populație estimată la peste 26466.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Apam has an estimated population of over 26466.", "It is a significant urban center in the GH-CP region of Ghana."]
+      ro: ["Orașul Apam are o populație estimată la peste 26466.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Apam has an estimated population of over 26466.", "It is a significant urban center in the GH-CP region of Ghana."],
+      en: ["Coastal fishing town and capital of the Gomoa West District", "Estimated population is over 22,628", "Site of Fort Patience (Fort Lijdzaamheid) built in 1697", "Major center for traditional salt production"]
     }, image: "/poi-images/apam-cities-v2.webp",
     descriptionAdvanced: {
       de: "Das Fischerstädtchen Apam an der Küste der Central Region wird dominiert vom historischen Fort Patience, einer niederländischen Festung, die 1697 auf einem Hügel mit Blick auf den Hafen errichtet wurde. Die Wirtschaft ist stark vom saisonalen Fischfang abhängig, wobei der lokale Markt für geräucherten Fisch Händler aus dem gesamten Hinterland anlockt. Bedauerlicherweise kämpft die Stadt aufgrund ihrer niedrigen Lage zunehmend mit Küstenerosion durch den steigenden Meeresspiegel. Geografie K6 — Küstenerosion.",
@@ -1273,11 +1290,12 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-SR",
     coords: [-0.5167, 8.55],
     name: { de: "Salaga", hu: "Salaga", ro: "Salaga", en: "Salaga" },
-    description: { de: "Salaga war einst ein wichtiger Transitpunkt für die Transsahara-Sklavenhandelsrouten.", hu: "Salaga egykor a transzszaharai rabszolga-kereskedelmi útvonalak fontos tranzitpontja volt.", ro: "Salaga a fost odată un important punct de tranzit pentru rutele trans-sahariene ale comerțului cu sclavi.", en: "Salaga was once a major transit point for the trans-Saharan slave trade routes." },
+    description: { de: "Salaga war einst ein wichtiger Transitpunkt für die Transsahara-Sklavenhandelsrouten.", hu: "Salaga egykor a transzszaharai rabszolga-kereskedelmi útvonalak fontos tranzitpontja volt.", ro: "Salaga a fost odată un important punct de tranzit pentru rutele trans-sahariene ale comerțului cu sclavi.", en: "Salaga is a historic town in the Savannah Region, once a major hub for the trans-Saharan slave trade." },
     facts: {
       de: ["Die Stadt Salaga hat eine geschätzte Bevölkerung von über 25472.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-SR Ghanas."],
       hu: ["Salaga városának becsült lakossága több mint 25472 fő.", "Jelentős városközpont Ghána GH-SR régiójában."],
-      ro: ["Orașul Salaga are o populație estimată la peste 25472.", "Este un centru urban semnificativ în regiunea GH-SR din Ghana.", "en: The city of Salaga has an estimated population of over 25472.", "It is a significant urban center in the GH-SR region of Ghana."]
+      ro: ["Orașul Salaga are o populație estimată la peste 25472.", "Este un centru urban semnificativ în regiunea GH-SR din Ghana.", "en: The city of Salaga has an estimated population of over 25472.", "It is a significant urban center in the GH-SR region of Ghana."],
+      en: ["Historic town in the Savannah Region with over 22,416 residents", "Once the largest slave market hub in West Africa", "Known for its numerous historic wells used by traders", "Major center for the trans-Saharan trade routes"]
     }, image: "/poi-images/salaga-cities-v2.webp",
     descriptionAdvanced: {
       de: "In der Savannenregion gelegen, war Salaga im 18. und 19. Jahrhundert einer der größten Sklaven- und Kolanussmärkte in Westafrika, oft als Timbuktu des Südens bezeichnet. Karawanen aus dem fernen Sahelgebieten trafen hier auf Händler aus den Aschanti-Wäldern. Noch heute können Besucher die alten Sklavenmärkte und die von Baobabs gesäumten Brunnen besichtigen, die an diese dunkle Epoche erinnern. Geschichte K8 — der Transsaharahandel.",
@@ -1298,11 +1316,12 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-WN",
     coords: [-2.3333, 6.4667],
     name: { de: "Bibiani", hu: "Bibiani", ro: "Bibiani", en: "Bibiani" },
-    description: { de: "Bibiani ist eine Bergbaugemeinde in der Western North Region, umgeben von üppigen Wäldern.", hu: "Bibiani egy bányászközösség a Nyugat-Északi régióban, buja erdőkkel körülvéve.", ro: "Bibiani este o comunitate minieră situată în Regiunea de Nord-Vest, înconjurată de păduri luxuriante.", en: "Bibiani is a mining community located in the Western North Region, surrounded by lush forests." },
+    description: { de: "Bibiani ist eine Bergbaugemeinde in der Western North Region, umgeben von üppigen Wäldern.", hu: "Bibiani egy bányászközösség a Nyugat-Északi régióban, buja erdőkkel körülvéve.", ro: "Bibiani este o comunitate minieră situată în Regiunea de Nord-Vest, înconjurată de păduri luxuriante.", en: "Bibiani is a prominent gold mining and agricultural town in the Western North Region." },
     facts: {
       de: ["Die Stadt Bibiani hat eine geschätzte Bevölkerung von über 19076.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-WN Ghanas."],
       hu: ["Bibiani városának becsült lakossága több mint 19076 fő.", "Jelentős városközpont Ghána GH-WN régiójában."],
-      ro: ["Orașul Bibiani are o populație estimată la peste 19076.", "Este un centru urban semnificativ în regiunea GH-WN din Ghana.", "en: The city of Bibiani has an estimated population of over 19076.", "It is a significant urban center in the GH-WN region of Ghana."]
+      ro: ["Orașul Bibiani are o populație estimată la peste 19076.", "Este un centru urban semnificativ în regiunea GH-WN din Ghana.", "en: The city of Bibiani has an estimated population of over 19076.", "It is a significant urban center in the GH-WN region of Ghana."],
+      en: ["Major gold mining town in the Western North Region", "Estimated population exceeds 21,732", "Capital of the Bibiani-Anhwiaso-Bekwai District", "Significant center for timber and agricultural products"]
     }, image: "/poi-images/bibiani-cities-v2.webp",
     descriptionAdvanced: {
       de: "Umgeben von dichten Waldreservaten, ist Bibiani ein wichtiges Bergbauzentrum in der Western North Region. Gold- und Bauxitminen treiben die Wirtschaft der Stadt an, doch in jüngster Zeit spielt auch die Holzverarbeitung eine zentrale Rolle. Die Stadt hat oft mit den Umweltauswirkungen des Abbaus zu kämpfen, insbesondere mit der Verschmutzung der Flüsse, die das Leben in den umliegenden Dörfern beeinträchtigen. Umwelt K7 — Bergbaufolgen.",
@@ -1323,11 +1342,12 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     parent: "GH-EP",
     coords: [-0.0167, 6.1],
     name: { de: "Somanya", hu: "Somanya", ro: "Somanya", en: "Somanya" },
-    description: { de: "Somanya ist eine Agrarstadt, berühmt für ihre lebendige Perlenindustrie.", hu: "Somanya egy mezőgazdasági város, amely élénk gyöngykészítő iparáról híres.", ro: "Somanya este un oraș agricol faimos pentru industria sa vibrantă de fabricare a mărgelelor.", en: "Somanya is an agricultural town famous for its vibrant bead-making industry." },
+    description: { de: "Somanya ist eine Agrarstadt, berühmt für ihre lebendige Perlenindustrie.", hu: "Somanya egy mezőgazdasági város, amely élénk gyöngykészítő iparáról híres.", ro: "Somanya este un oraș agricol faimos pentru industria sa vibrantă de fabricare a mărgelelor.", en: "Somanya is the capital of the Yilo Krobo District, famous for its bead-making traditions." },
     facts: {
       de: ["Die Stadt Somanya hat eine geschätzte Bevölkerung von über 20596.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-EP Ghanas."],
       hu: ["Somanya városának becsült lakossága több mint 20596 fő.", "Jelentős városközpont Ghána GH-EP régiójában."],
-      ro: ["Orașul Somanya are o populație estimată la peste 20596.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana.", "en: The city of Somanya has an estimated population of over 20596.", "It is a significant urban center in the GH-EP region of Ghana."]
+      ro: ["Orașul Somanya are o populație estimată la peste 20596.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana.", "en: The city of Somanya has an estimated population of over 20596.", "It is a significant urban center in the GH-EP region of Ghana."],
+      en: ["Capital of the Yilo Krobo Municipal District", "Estimated population is over 20,596", "Famous for the production of traditional glass beads", "Center for mango and citrus farming in the Eastern Region"]
     }, image: "/poi-images/somanya-cities-v2.webp",
     descriptionAdvanced: {
       de: "Als Hauptort der Krobo-Volksgruppe in der Eastern Region, ist Somanya berühmt für seine farbenfrohen Glasperlen, die hier seit Generationen in traditionellen Brennöfen hergestellt werden. Das jährliche Ngmayem-Festival feiert den Anbau von Hirse und dient als großes Treffen der Krobo-Familien aus dem ganzen Land. Darüber hinaus beherbergt die Stadt den Campus der neuen University of Environment and Sustainable Development, was einen Wandel hin zur Akademisierung markiert. Kultur K6 — traditionelles Handwerk.",
@@ -1352,7 +1372,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Foso hat eine geschätzte Bevölkerung von über 22862.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
       hu: ["Foso városának becsült lakossága több mint 22862 fő.", "Jelentős városközpont Ghána GH-CP régiójában."],
-      ro: ["Orașul Foso are o populație estimată la peste 22862.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Foso has an estimated population of over 22862.", "It is a significant urban center in the GH-CP region of Ghana."]
+      ro: ["Orașul Foso are o populație estimată la peste 22862.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Foso has an estimated population of over 22862.", "It is a significant urban center in the GH-CP region of Ghana."],
+      en: ["Major market town and capital of the Assin North Municipal District", "Estimated population exceeds 20,541", "Key transport hub between Kumasi and Cape Coast", "Center for cocoa, timber, and agricultural trade"]
     }, image: "/poi-images/foso-cities-v2.webp",
     descriptionAdvanced: {
       de: "Oft Assin Foso genannt, ist die Stadt ein wichtiger Verkehrs- und Handelsknotenpunkt entlang der Hauptverkehrsstraße zwischen Cape Coast und Kumasi. Sie dient als wichtiges landwirtschaftliches Sammelzentrum, in dem lokale Bauern Kakao, Palmöl und Kochbananen verladen. Die örtliche Pädagogische Hochschule hat den Ruf der Stadt als Bildungszentrum im Hinterland der Central Region zementiert. Geografie K6 — Handel und Infrastruktur.",
@@ -1377,7 +1398,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Wenchi hat eine geschätzte Bevölkerung von über 39187.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-BO Ghanas."],
       hu: ["Wenchi városának becsült lakossága több mint 39187 fő.", "Jelentős városközpont Ghána GH-BO régiójában."],
-      ro: ["Orașul Wenchi are o populație estimată la peste 39187.", "Este un centru urban semnificativ în regiunea GH-BO din Ghana.", "en: The city of Wenchi has an estimated population of over 39187.", "It is a significant urban center in the GH-BO region of Ghana."]
+      ro: ["Orașul Wenchi are o populație estimată la peste 39187.", "Este un centru urban semnificativ în regiunea GH-BO din Ghana.", "en: The city of Wenchi has an estimated population of over 39187.", "It is a significant urban center in the GH-BO region of Ghana."],
+      en: ["Historic town in the Bono Region with over 20,248 residents", "Home of the Wenchi Traditional Area", "Significant producer of maize and cashew nuts", "Known for its rich cultural heritage and traditional festivals"]
     }, image: "/poi-images/wenchi-cities-v2.webp",
     descriptionAdvanced: {
       de: "Wenchi ist die historische Hauptstadt der Bono-Region und reich an kulturellem Erbe der Akan. Die Stadt ist landesweit bekannt als Geburtsort von Dr. Kofi Abrefa Busia, einem ehemaligen ghanaischen Premierminister. Wirtschaftlich stützt sich die Region stark auf die Landwirtschaft, wobei Wenchi für seinen hervorragenden Cashewanbau und den großen wöchentlichen Yams-Markt berühmt ist. Geschichte K7 — ghanaische Politiker.",
@@ -1402,7 +1424,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Mumford hat eine geschätzte Bevölkerung von über 15410.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
       hu: ["Mumford városának becsült lakossága több mint 15410 fő.", "Jelentős városközpont Ghána GH-CP régiójában."],
-      ro: ["Orașul Mumford are o populație estimată la peste 15410.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Mumford has an estimated population of over 15410.", "It is a significant urban center in the GH-CP region of Ghana."]
+      ro: ["Orașul Mumford are o populație estimată la peste 15410.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Mumford has an estimated population of over 15410.", "It is a significant urban center in the GH-CP region of Ghana."],
+      en: ["Coastal town in the Gomoa West District of the Central Region", "Estimated population exceeds 19,958", "Major center for traditional fishing and canoe building", "Known for its scenic beaches and maritime culture"]
     }, image: "/poi-images/mumford-cities-v2.webp",
     descriptionAdvanced: {
       de: "Mumford ist eine traditionelle Fischergemeinde an der Küste der Central Region, bekannt für ihre riesige Flotte aus bunten Holzkanus. Die Bevölkerung, mehrheitlich vom Volk der Fante, ist für ihre tief verwurzelten maritimen Traditionen und handwerklichen Fähigkeiten im Bootsbau bekannt. Leider leidet die Gemeinde unter der zunehmenden Überfischung durch ausländische Trawler, was das traditionelle Einkommen der Fischer massiv bedroht. Umwelt K8 — Überfischung der Ozeane.",
@@ -1427,7 +1450,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Duayaw Nkwanta hat eine geschätzte Bevölkerung von über 17476.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
       hu: ["Duayaw Nkwanta városának becsült lakossága több mint 17476 fő.", "Jelentős városközpont Ghána GH-AH régiójában."],
-      ro: ["Orașul Duayaw Nkwanta are o populație estimată la peste 17476.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana.", "en: The city of Duayaw Nkwanta has an estimated population of over 17476.", "It is a significant urban center in the GH-AH region of Ghana."]
+      ro: ["Orașul Duayaw Nkwanta are o populație estimată la peste 17476.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana.", "en: The city of Duayaw Nkwanta has an estimated population of over 17476.", "It is a significant urban center in the GH-AH region of Ghana."],
+      en: ["Capital of the Tano North Municipal District", "Estimated population is over 19,864", "Major center for cocoa and agricultural production", "Significant hub for commerce in the Ahafo Region"]
     }, image: "/poi-images/duayaw-nkwanta-cities-v2.webp",
     descriptionAdvanced: {
       de: "Duayaw Nkwanta, in der Ahafo Region gelegen, ist ein geschäftiges landwirtschaftliches Zentrum am Rande des tropischen Regenwaldes. Die Stadt profitiert von fruchtbaren Lehmböden, auf denen Kakaobohnen und Tomaten in großen Mengen für den nationalen Markt angebaut werden. Als Residenz eines einflussreichen traditionellen Königs bewahrt die Gemeinde strenge Akan-Rituale, die in regelmäßigen Abständen während des Jahres gefeiert werden. Kultur K6 — Agrargesellschaften.",
@@ -1452,7 +1476,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Bekwai hat eine geschätzte Bevölkerung von über 22670.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
       hu: ["Bekwai városának becsült lakossága több mint 22670 fő.", "Jelentős városközpont Ghána GH-AH régiójában."],
-      ro: ["Orașul Bekwai are o populație estimată la peste 22670.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana.", "en: The city of Bekwai has an estimated population of over 22670.", "It is a significant urban center in the GH-AH region of Ghana."]
+      ro: ["Orașul Bekwai are o populație estimată la peste 22670.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana.", "en: The city of Bekwai has an estimated population of over 22670.", "It is a significant urban center in the GH-AH region of Ghana."],
+      en: ["Capital of the Bekwai Municipal District in the Ashanti Region", "Estimated population exceeds 19,657", "Historically an important center for gold and timber trade", "Home to several historic colonial-era buildings"]
     },
     descriptionAdvanced: {
       de: "Bekwai ist eine der historisch einflussreichsten Städte des alten Ashanti-Reiches und liegt etwa eine Autostunde südlich von Kumasi. Zu Beginn des 20. Jahrhunderts spielte die Stadt eine Schlüsselrolle, da sie sich während des Yaa-Asantewaa-Krieges mit den Briten verbündete, um lokale Vorteile zu erlangen. Heute dominiert die Kakaowirtschaft das Leben in den umliegenden Dörfern, während Bekwai selbst als wichtiger Verwaltungssitz fungiert. Geschichte K8 — koloniale Allianzen.",
@@ -1477,7 +1502,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Bechem hat eine geschätzte Bevölkerung von über 17677.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
       hu: ["Bechem városának becsült lakossága több mint 17677 fő.", "Jelentős városközpont Ghána GH-AH régiójában."],
-      ro: ["Orașul Bechem are o populație estimată la peste 17677.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana.", "en: The city of Bechem has an estimated population of over 17677.", "It is a significant urban center in the GH-AH region of Ghana."]
+      ro: ["Orașul Bechem are o populație estimată la peste 17677.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana.", "en: The city of Bechem has an estimated population of over 17677.", "It is a significant urban center in the GH-AH region of Ghana."],
+      en: ["Capital of the Tano South District in the Ahafo Region", "Estimated population is over 18,725", "Major center for agricultural trade and cocoa production", "Known for its educational institutions and vibrant market"]
     }, image: "/poi-images/bechem-cities-v2.webp",
     descriptionAdvanced: {
       de: "Bechem, ebenfalls in der Ahafo Region, ist ein florierendes Bildungszentrum, in dem das angesehene St. Josephs College of Education viele der besten Lehrer des Landes ausbildet. Neben der Bildung ist die Wirtschaft stark von der Landwirtschaft geprägt, wobei die Region oft als eine der Brotkörbe des Landes gilt. Der Anbau von Cashewnüssen hat in den letzten Jahren rasant zugenommen und bietet den Bauern eine lukrative Alternative zum Kakao. Wirtschaft K7 — Cash Crops.",
@@ -1502,7 +1528,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Denu hat eine geschätzte Bevölkerung von über 15888.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-TV Ghanas."],
       hu: ["Denu városának becsült lakossága több mint 15888 fő.", "Jelentős városközpont Ghána GH-TV régiójában."],
-      ro: ["Orașul Denu are o populație estimată la peste 15888.", "Este un centru urban semnificativ în regiunea GH-TV din Ghana.", "en: The city of Denu has an estimated population of over 15888.", "It is a significant urban center in the GH-TV region of Ghana."]
+      ro: ["Orașul Denu are o populație estimată la peste 15888.", "Este un centru urban semnificativ în regiunea GH-TV din Ghana.", "en: The city of Denu has an estimated population of over 15888.", "It is a significant urban center in the GH-TV region of Ghana."],
+      en: ["Capital of the Ketu South Municipal District in the Volta Region", "Estimated population exceeds 18,349", "Situated near the border with Togo", "Significant center for salt production and fishing"]
     },
     descriptionAdvanced: {
       de: "Denu ist eine geschäftige Küstenstadt in der Volta-Region, die nahezu mit der Grenzstadt Aflao verschmolzen ist. Die Lage an der Hauptroute nach Togo und Nigeria macht Denu zu einem Knotenpunkt für grenzüberschreitenden Handel und Transport. Die Stadt zeichnet sich auch durch ihre ausgedehnten Kokosnussplantagen entlang der Sandstrände aus, aus denen Kopra für die Ölgewinnung produziert wird. Geografie K6 — Küstenwirtschaft.",
@@ -1527,7 +1554,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Anloga hat eine geschätzte Bevölkerung von über 20886.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-TV Ghanas."],
       hu: ["Anloga városának becsült lakossága több mint 20886 fő.", "Jelentős városközpont Ghána GH-TV régiójában."],
-      ro: ["Orașul Anloga are o populație estimată la peste 20886.", "Este un centru urban semnificativ în regiunea GH-TV din Ghana.", "en: The city of Anloga has an estimated population of over 20886.", "It is a significant urban center in the GH-TV region of Ghana."]
+      ro: ["Orașul Anloga are o populație estimată la peste 20886.", "Este un centru urban semnificativ în regiunea GH-TV din Ghana.", "en: The city of Anloga has an estimated population of over 20886.", "It is a significant urban center in the GH-TV region of Ghana."],
+      en: ["Traditional and spiritual capital of the Anlo Ewe people", "Estimated population is over 18,211", "Located on a strip of land between the Keta Lagoon and the ocean", "Major center for shallot farming and commercial agriculture"]
     },
     descriptionAdvanced: {
       de: "Anloga ist das kulturelle und spirituelle Herz des Anlo-Ewe-Volkes in der Volta-Region, wunderschön gelegen auf einem schmalen Sandstreifen zwischen der Keta-Lagune und dem Ozean. Jedes Jahr im November feiert die Stadt das berühmte Hogbetsotso-Festival, das an die legendäre Flucht der Ewe aus dem Königreich Notsie erinnert. Die Bauern in Anloga sind Meister der Schalottenzucht und nutzen hochentwickelte, intensive Anbaumethoden auf dem sandigen Boden rund um die Lagune. Kultur K7 — Ewe-Migration.",

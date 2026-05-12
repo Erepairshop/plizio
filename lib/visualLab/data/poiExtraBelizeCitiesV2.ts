@@ -1170,6 +1170,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       ro: "Capitala districtului nordic Corozal, un oraș liniștit situat pe malul golfului cu același nume.",
       en: "The administrative capital of the Corozal District, located on the beautiful emerald waters of Corozal Bay."
     },
+    facts: {
+      de: ["Verwaltungssitz des Corozal District.", "Liegt an der malerischen Corozal Bay.", "Ganz in der Nähe der mexikanischen Grenze.", "Bekannt für seine entspannte Küstenatmosphäre."],
+      hu: ["A Corozal kerület közigazgatási központja.", "A festői Corozal-öböl partján fekszik.", "A mexikói határ közvetlen közelében található.", "Nyugodt tengerparti hangulatáról ismert."]
+    },
     descriptionAdvanced: {
         en: "As an administrative center, Corozal is one of the most important organizational points in the northern region between Belize and Mexico. The city's role stems not only from its proximity to the border: the surrounding villages, the bayfront connections, and the commercial movement all converge here. The name is the same as the district's, but its local significance is far broader than a simple town name. Corozal is simultaneously a border town, an administrative center, and a quiet starting point for routes to Mexico, where the Caribbean coast, market life, and the Santa Rita ruins are tightly interwoven in the fabric of commerce and memory.",
         ro: "Ca centru administrativ, Corozal este unul dintre cele mai importante puncte de organizare din regiunea de nord dintre Belize și Mexic. Rolul orașului nu derivă doar din apropierea de graniță: satele înconjurătoare, legăturile de pe malul golfului și mișcarea comercială, toate converg aici. Numele este același cu cel al districtului, dar semnificația sa locală este mult mai largă decât un simplu nume de oraș. Corozal este simultan un oraș de frontieră, un centru administrativ și un punct de plecare liniștit pentru drumurile către Mexic, unde coasta caraibiană, viața de piață și ruinele Santa Rita sunt strâns împletite în țesătura comerțului și a memoriei.",

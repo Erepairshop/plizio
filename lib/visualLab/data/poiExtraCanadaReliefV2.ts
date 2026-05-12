@@ -12,7 +12,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       de: "Die Coast Mountains erstrecken sich entlang der Pazifikküste Kanadas und bilden eine imposante Barriere aus Gipfeln und Fjorden.", 
       hu: "Brit Columbia nyugati partja mentén húzódik hatalmas hegylánc, amely sűrű erdőkkel és gleccserekkel tarkított.", 
       ro: "Un lanț muntos masiv care se întinde de-a lungul coastei Pacificului, caracterizat prin vârfuri acoperite de ghețari și fiorduri adânci.", 
-      en: "A vast mountain range along the Pacific coast, home to Canada's largest temperate ice fields."
+      en: "A major mountain range stretching along the Pacific coast of British Columbia and Alaska."
     },
     descriptionAdvanced: {
       de: "Die Coast Mountains erstrecken sich entlang der pazifischen Küste von British Columbia und gehören zu den spektakulärsten Gebirgszügen Kanadas. Sie zeichnen sich durch tiefe Fjorde, massive Gletscher und steile Gipfel aus, die oft direkt vom Meer aus ansteigen. Geografie K7 — Gebirgsbildung und Klimazonen."
@@ -23,7 +23,8 @@ export const poiExtraCanadaReliefV2: POI[] = [
     facts: {
       hu: ["Kanada nyugati partja mentén húzódik", "Hatalmas jégmezők és gleccserek", "Mély fjordok tagolják a partvidéket", "Legmagasabb pontja a Mount Waddington"],
       de: ["Größter Gebirgszug in British Columbia", "Beheimatet massive Gletscher und Eisfelder", "Tief einschneidende Fjorde entlang der Küste", "Höchster Gipfel ist der Mount Waddington"],
-      ro: ["Lanț muntos de-a lungul coastei Pacificului", "Include Muntele Waddington, cel mai înalt din BC", "Găzduiește mari câmpuri de gheață temperate", "Se întinde pe o lungime de peste 1.600 kilometri"]
+      ro: ["Lanț muntos de-a lungul coastei Pacificului", "Include Muntele Waddington, cel mai înalt din BC", "Găzduiește mari câmpuri de gheață temperate", "Se întinde pe o lungime de peste 1.600 kilometri"],
+      en: ["Mount Waddington is highest peak", "Extends over 1,600 kilometres", "Heavily glaciated range", "Borders the Pacific Ocean"]
     }, image: "/poi-images/coast-mountains-relief-v2.webp"},
   {
     id: "laurentian-mountains-relief-v2",
@@ -35,7 +36,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       de: "Die Laurentinischen Berge in Québec gehören zu den ältesten Gebirgsketten der Welt und sind ein beliebtes Ganzjahres-Erholungsgebiet.", 
       hu: "Québec tartomány déli részén elhelyezkedő ősi hegység, amely népszerű üdülőövezet és síparadicsom.", 
       ro: "Unul dintre cele mai vechi lanțuri muntoase de pe Pământ, situat în sudul Quebecului, faimos pentru dealurile sale domoale și culorile de toamnă.", 
-      en: "One of the world's oldest mountain ranges, offering a playground for outdoor enthusiasts in Quebec."
+      en: "An ancient mountain range in southern Quebec that forms part of the Canadian Shield."
     },
     descriptionAdvanced: {
       de: "Die Laurentian Mountains in der Provinz Québec sind eines der ältesten Gebirge der Welt. Sie bestehen aus einem tief erodierten Hochland, das heute für seine dichten Wälder und zahlreiche Seen als beliebtes Erholungsgebiet dient. Geografie K6 — Geologische Zeitgeschichte."
@@ -46,7 +47,8 @@ export const poiExtraCanadaReliefV2: POI[] = [
     facts: {
       hu: ["A világ egyik legöregebb hegysége", "Dél-Québec népszerű üdülőövezete", "Lekerekített csúcsok és sok tó", "Híres az őszi lombhullás színeiről"],
       de: ["Eines der ältesten Gebirge der Erde", "Beliebtes Skigebiet Mont Tremblant", "Bekannt für die Farbenpracht im Indian Summer", "Teil des präkambrischen Kanadischen Schilds"],
-      ro: ["Printre cele mai vechi lanțuri muntoase din lume", "Formate în Precambrian, acum un miliard de ani", "Principală destinație de schi din Quebec", "Vârful cel mai înalt este Mont Raoul-Blanchard"]
+      ro: ["Printre cele mai vechi lanțuri muntoase din lume", "Formate în Precambrian, acum un miliard de ani", "Principală destinație de schi din Quebec", "Vârful cel mai înalt este Mont Raoul-Blanchard"],
+      en: ["Part of the Canadian Shield", "Popular for winter sports", "Ancient geological formation", "Includes Mont-Tremblant"]
     }, image: "/poi-images/laurentian-mountains-relief-v2.webp"},
   {
     id: "columbia-icefield-relief-v2",
@@ -58,7 +60,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       de: "Das Columbia-Eisfeld ist die größte zusammenhängende Eismasse in den Rocky Mountains südlich des Polarkreises.", 
       hu: "A Sziklás-hegység legnagyobb jégmezője Alberta és Brit Columbia határán, amely hat jelentős gleccsert táplál.", 
       ro: "Cea mai mare masă de gheață din Munții Stâncoși, situată la granița dintre parcurile Banff și Jasper, alimentând trei oceane diferite.", 
-      en: "The largest ice field in the North American Rockies, feeding multiple glaciers and major rivers."
+      en: "The largest ice field in the Rocky Mountains, feeding water into three different oceans."
     },
     descriptionAdvanced: {
       de: "Das Columbia Icefield in den Rocky Mountains ist das größte Eisfeld der südlichen Rocky Mountains. Es speist mehrere Flüsse und bildet ein beeindruckendes natürliches Reservoir für Süßwasser in einer hochalpinen Landschaft. Geografie K7 — Glaziale Prozesse."
@@ -69,7 +71,8 @@ export const poiExtraCanadaReliefV2: POI[] = [
     facts: {
       hu: ["A Sziklás-hegység legnagyobb jégmezője", "Hat hatalmas gleccsert táplál", "Vize három különböző óceánba jut el", "Az Icefields Parkway mentén található"],
       de: ["Größte Eismasse in den südlichen Rocky Mountains", "Speist Flüsse, die in drei Ozeane fließen", "Umfasst acht große Gletscher", "Direkt am Icefields Parkway gelegen"],
-      ro: ["Cea mai mare masă de gheață din Munții Stâncoși", "Alimentează șase mari ghețari, inclusiv Athabasca", "Apa se scurge spre trei oceane diferite", "Grosimea gheții ajunge până la 365 de metri"]
+      ro: ["Cea mai mare masă de gheață din Munții Stâncoși", "Alimentează șase mari ghețari, inclusiv Athabasca", "Apa se scurge spre trei oceane diferite", "Grosimea gheții ajunge până la 365 de metri"],
+      en: ["Largest in the Rockies", "Feeds three different oceans", "Straddles the Continental Divide", "Covers 325 square kilometres"]
     }, image: "/poi-images/columbia-icefield-relief-v2.webp"},
   {
     id: "mackenzie-mountains-relief-v2",
@@ -81,7 +84,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       de: "Diese wilden und abgelegenen Berge im Norden Kanadas bilden die Grenze zwischen Yukon und den Northwest Territories.", 
       hu: "Yukon és az Északnyugati területek határán húzódó vadregényes hegység, amely Kanada egyik legérintetlenebb vidéke.", 
       ro: "Un lanț muntos vast și îndepărtat din nord-vestul Canadei, oferind un habitat crucial pentru viața sălbatică și peisaje de tundră alpină.", 
-      en: "A rugged mountain range forming the watershed between the Yukon and Mackenzie River basins."
+      en: "A rugged mountain range on the border of Yukon and the Northwest Territories."
     },
     descriptionAdvanced: {
       de: "Die Mackenzie Mountains bilden einen Teil der kanadischen Kordilleren und ziehen sich durch die Nordwest-Territorien und Yukon. Sie bieten eine raue und nahezu unberührte Wildnis, die nur wenigen Menschen zugänglich ist. Geografie K7 — Gebirgsketten der Wildnis."
@@ -92,7 +95,8 @@ export const poiExtraCanadaReliefV2: POI[] = [
     facts: {
       hu: ["Yukon és az Északnyugati területek határán fekszik", "Érintetlen északi vadon", "Fontos élőhelye a vadjuhoknak", "Kevésbé kiépített, kalandos vidék"],
       de: ["Unberührte Wildnis im Norden Kanadas", "Wichtiges Habitat für Bergschafe und Karibus", "Grenzt an Yukon und die Northwest Territories", "Kaum durch Straßen erschlossen"],
-      ro: ["Graniță naturală între Yukon și Teritoriile de Nord-Vest", "Cel mai înalt vârf este Muntele Keele (2.972 metri)", "Regiune sălbatică, accesibilă în principal cu avionul", "Rezervația Nahanni acoperă o parte din acești munți"]
+      ro: ["Graniță naturală între Yukon și Teritoriile de Nord-Vest", "Cel mai înalt vârf este Muntele Keele (2.972 metri)", "Regiune sălbatică, accesibilă în principal cu avionul", "Rezervația Nahanni acoperă o parte din acești munți"],
+      en: ["Source of the Mackenzie River", "Highest peak is Keele Peak", "Rich in mineral deposits", "Borders the Yukon Territory"]
     }, image: "/poi-images/mackenzie-mountains-relief-v2.webp"},
   {
     id: "torngat-mountains-relief-v2",
@@ -104,7 +108,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       de: "Die Torngat-Berge an der Küste von Labrador sind die höchsten Gipfel Kanadas östlich der Rocky Mountains.", 
       hu: "Labrador-félsziget északi részén található hegység, amely meredek fjordjairól és kopár, fenséges csúcsairól ismert.", 
       ro: "Munți spectaculoși și izolați în nordul Labradorului, cu vârfuri ascuțite ce se ridică direct din fiordurile Oceanului Atlantic.", 
-      en: "A spectacular wilderness range in Northern Labrador, featuring some of Canada's oldest rocks."
+      en: "A remote and spectacular mountain range in northeastern Canada, known as the place of spirits."
     },
     descriptionAdvanced: {
       de: "Die Torngat Mountains auf der Labrador-Halbinsel sind ein extrem raues, arktisches Gebirge, das in den Inuit-Sprachen als 'Ort der Geister' bekannt ist. Sie bilden eine spektakuläre Grenze zwischen der Landmasse und dem Nordatlantik. Geografie K8 — Arktische Geomorphologie."
@@ -115,7 +119,8 @@ export const poiExtraCanadaReliefV2: POI[] = [
     facts: {
       hu: ["Labrador északi részén található", "Neve inuktitut nyelven \"szellemek helyét\" jelenti", "Meredek sziklafalak és fjordok", "Kanada egyik legzordabb arktikus vidéke"],
       de: ["Name bedeutet 'Ort der Geister' (Inuktitut)", "Höchste Gipfel Kanadas östlich der Rockies", "Beeindruckende arktische Fjordlandschaft", "Teil des Torngat-Mountains-Nationalparks"],
-      ro: ["Munți arctici situați în peninsula Labrador", "Numele provine din inuktitut (Locul Spiritelor)", "Cele mai vechi roci de pe Pământ se găsesc aici", "Formează Parcul Național Munții Torngat"]
+      ro: ["Munți arctici situați în peninsula Labrador", "Numele provine din inuktitut (Locul Spiritelor)", "Cele mai vechi roci de pe Pământ se găsesc aici", "Formează Parcul Național Munții Torngat"],
+      en: ["Mount Caubvick is highest peak", "Inuit name for place of spirits", "Remote Arctic landscape", "Part of the Torngat Mountains Park"]
     }, image: "/poi-images/torngat-mountains-relief-v2.webp"},
   {
     id: "mont-tremblant-relief-v2",

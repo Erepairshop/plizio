@@ -28,14 +28,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/chapultepec-zoo-life-v2.webp",
     description: {
       de: "Der größte Zoo Mexikos, gelegen im weitläufigen Chapultepec-Park in Mexiko-Stadt.",
-      hu: "",
-      ro: "",
+      hu: "Mexikóváros legrégebbi állatkertje, amely a Chapultepec park szívében található.",
+      ro: "Cea mai veche grădină zoologică din Mexic, situată în parcul istoric Chapultepec din inima capitalei.",
       en: "The oldest and most visited zoo in Mexico, located within the historic Chapultepec Park in the heart of Mexico City."
     },
     facts: {
       de: ["Eröffnet im Jahr 1923", "Berühmt für seine Großen Pandas", "Über 1.200 Tiere zu sehen"],
-      hu: [],
-      ro: [],
+      hu: ["1923-ban alapították", "Több mint 1200 állat otthona", "Ingyenesen látogatható park"],
+      ro: ["Fondată în anul 1923", "Găzduiește peste 1200 de animale", "Celebră pentru urșii panda uriași"],
       en: ["Opened in 1923", "Famous for its giant pandas", "Home to over 1,200 animals"]
     }
   },
@@ -65,14 +65,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/san-juan-de-aragon-zoo-life-v2.webp",
     description: {
       de: "Ein wichtiger Zoo im Nordosten von Mexiko-Stadt, der sich auf bedrohte Arten konzentriert.",
-      hu: "",
-      ro: "",
+      hu: "A főváros második legnagyobb állatkertje, amely elsősorban a mexikói farkas védelmére összpontosít.",
+      ro: "A doua cea mai mare grădină zoologică din Ciudad de México, axată pe specii native și conservarea lupului mexican.",
       en: "The second largest zoo in Mexico City, focused on the conservation of native and endangered species like the Mexican wolf."
     },
     facts: {
       de: ["Fokus auf mexikanische Fauna", "Zentrum für Artenschutz", "Großzügige natürliche Gehege"],
-      hu: [],
-      ro: [],
+      hu: ["1964-ben nyitották meg", "31 hektáros területen fekszik", "Különleges madárházzal rendelkezik"],
+      ro: ["Inaugurată în anul 1964", "Suprafață de 31 de hectare", "Include o replică a lacului Xochimilco"],
       en: ["Inaugurated in 1964", "Spans 31 hectares", "Includes a replica of Xochimilco"]
     }
   },
@@ -102,14 +102,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/guadalajara-zoo-life-v2.webp",
     description: {
       de: "Ein moderner Zoo in Guadalajara, der für seine innovative Tierhaltung und Forschung bekannt ist.",
-      hu: "",
-      ro: "",
+      hu: "Mexikó egyik legmodernebb állatkertje, amely a Huentitán-kanyon peremén helyezkedik el.",
+      ro: "O grădină zoologică modernă situată spectaculos pe marginea canionului Huentitán, oferind experiențe unice de safari.",
       en: "One of the most modern zoos in Latin America, spectacularly situated on the edge of the Huentitán Canyon in Jalisco."
     },
     facts: {
       de: ["Eigener Safaripark", "Spektakuläres Aquarium", "Blick in den Huentitán-Canyon"],
-      hu: [],
-      ro: [],
+      hu: ["50 hektáros terület", "Saját akváriummal rendelkezik", "Antarktiszi pingvin-bemutató"],
+      ro: ["Include un sistem de telecabină", "Găzduiește un acvariu de clasă mondială", "Expoziție rară de pinguini antarctici"],
       en: ["Features a 3.5 km cable car", "Home to a world-class aquarium", "Includes an Antarctic penguin exhibit"]
     }
   },
@@ -139,14 +139,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/acuario-inbursa-life-v2.webp",
     description: {
       de: "Eines der größten Aquarien Lateinamerikas, direkt im schicken Viertel Polanco in Mexiko-Stadt.",
-      hu: "",
-      ro: "",
+      hu: "Mexikóváros modern, föld alatti akváriuma, amely négy szinten mutatja be a tengerek élővilágát.",
+      ro: "Un acvariu subteran de ultimă generație situat în Polanco, care adăpostește mii de creaturi marine pe patru niveluri.",
       en: "A state-of-the-art subterranean aquarium in Polanco, housing thousands of marine creatures across four underground levels."
     },
     facts: {
       de: ["Unterirdische Anlage", "Über 14.000 Meeresbewohner", "Interaktive Ausstellungen"],
-      hu: [],
-      ro: [],
+      hu: ["26 méter mélyen a föld alatt", "350 különböző faj látható", "Interaktív érintőmedencék"],
+      ro: ["Situat la 26 de metri sub pământ", "Peste 14.000 de exemplare expuse", "Adăpostește pinguini Gentoo și Chinstrap"],
       en: ["Located 26 meters underground", "Features over 14,000 specimens", "Home to gentoo and chinstrap penguins"]
     }
   },
@@ -176,14 +176,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/xcaret-park-life-v2.webp",
     description: {
       de: "Ein ökologischer Themenpark an der Riviera Maya, der Natur, Kultur und Archäologie verbindet.",
-      hu: "",
-      ro: "",
+      hu: "A Riviéra Maya híres öko-régészeti parkja, ahol a maja kultúra és a természet találkozik.",
+      ro: "Un parc eco-arheologic renumit pe Riviera Maya, care celebrează cultura mexicană și frumusețea naturală prin râuri subterane.",
       en: "A premier eco-archaeological park on the Riviera Maya that celebrates Mexican culture, history, and natural beauty."
     },
     facts: {
       de: ["Unterirdische Flüsse", "Abendliche Folklore-Shows", "Zentrum für Meeresschildkröten"],
-      hu: [],
-      ro: [],
+      hu: ["Maja romok a park területén", "Hatalmas korallzátony-akvárium", "Esti folklór előadás 300 művésszel"],
+      ro: ["Găzduiește spectacole folclorice nocturne", "Include ruine arheologice mayașe", "Centru major pentru protecția țestoaselor"],
       en: ["Features underground rivers", "Famous for its nightly folklore show", "Major sea turtle nesting site"]
     }
   },
@@ -213,14 +213,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/africam-safari-life-v2.webp",
     description: {
       de: "Ein Safaripark in der Nähe von Puebla, wo Tiere in großen Freigehegen fast wie in Freiheit leben.",
-      hu: "",
-      ro: "",
+      hu: "Puebla közelében található vadaspark, ahol az állatok szabadon mozognak a hatalmas kifutókban.",
+      ro: "Un parc de viață sălbatică lângă Puebla, unde animalele trăiesc în libertate în habitate vaste explorate cu mașina.",
       en: "A renowned wildlife park near Puebla where animals roam freely in large habitats that visitors explore by car or bus."
     },
     facts: {
       de: ["Erkundung mit dem eigenen Auto", "Über 2.500 Tiere", "Engagement für den Artenschutz"],
-      hu: [],
-      ro: [],
+      hu: ["Több mint 2500 vadállat", "Sikeres elefánttenyésztési program", "Éjszakai szafari lehetőségek"],
+      ro: ["Peste 2500 de animale în semi-libertate", "Suprafață de peste 200 de hectare", "Program de succes pentru elefanții africani"],
       en: ["First safari-style park in Mexico", "Covers over 200 hectares", "Successful African elephant breeding program"]
     }
   },
@@ -250,14 +250,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/bioparque-estrella-life-v2.webp",
     description: {
       de: "Ein Erlebnispark und Safari-Zoo im Bundesstaat Mexiko, ideal für Familienausflüge.",
-      hu: "",
-      ro: "",
+      hu: "Mexikó államban fekvő szafari- és élménypark, amely interaktív állatbemutatókat kínál.",
+      ro: "Un parc tematic și rezervație naturală în statul México, oferind experiențe interactive de safari și expoziții preistorice.",
       en: "A massive theme park and safari preserve in the State of Mexico, offering interactive animal encounters and prehistoric exhibits."
     },
     facts: {
       de: ["Große Safari-Tour", "Interaktive Dino-Ausstellung", "Fokus auf Umweltbildung"],
-      hu: [],
-      ro: [],
+      hu: ["300 hektáros vadaspark", "Dinoszaurusz-kiállítás", "Zsiráfetetési lehetőség"],
+      ro: ["Include safari în stil Serengeti", "Expoziție cu dinozauri animatronici", "Peste 500 de animale din 50 de specii"],
       en: ["Includes a Serengeti-style safari", "Features life-sized animatronic dinosaurs", "Home to more than 500 animals"]
     }
   },
@@ -287,14 +287,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/monarch-butterfly-reserve-life-v2.webp",
     description: {
       de: "Ein UNESCO-Welterbe, in dem Millionen von Monarchfaltern aus Kanada überwintern.",
-      hu: "",
-      ro: "",
+      hu: "Az UNESCO világörökség része, ahol telente monarch lepkék milliói gyűlnek össze.",
+      ro: "Sanctuar natural protejat de UNESCO unde milioane de fluturi monarh migrează anual din Canada pentru iarnă.",
       en: "A UNESCO World Heritage site in the mountains of Michoacán where millions of monarch butterflies overwinter every year."
     },
     facts: {
       de: ["Gelegen in Michoacán", "Spektakuläre Massenansammlung", "Schutzgebiet in den Bergen"],
-      hu: [],
-      ro: [],
+      hu: ["UNESCO világörökségi helyszín", "2400-3600 méteres magasságban", "4000 kilométeres vándorlási útvonal"],
+      ro: ["Sit UNESCO din anul 2008", "Fluturii parcurg peste 4000 km", "Altitudine între 2400 și 3600 metri"],
       en: ["Butterflies travel over 4,000 km", "Located at high altitude (up to 3,600m)", "UNSECO site since 2008"]
     }
   },
@@ -324,14 +324,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/sian-kaan-life-v2.webp",
     description: {
       de: "Ein riesiges Biosphärenreservat an der Karibikküste, bekannt für seine Artenvielfalt und Lagunen.",
-      hu: "",
-      ro: "",
+      hu: "Hatalmas bioszféra-rezervátum a karibi tengerparton, amely trópusi erdőket és korallzátonyokat védelmez.",
+      ro: "O rezervație uriașă a biosferei pe coasta Caraibelor, protejând păduri tropicale, mangrove și recife de corali virgine.",
       en: "A vast biosphere reserve on the Caribbean coast, encompassing tropical forests, mangroves, and pristine coral reefs."
     },
     facts: {
       de: ["UNESCO-Weltnaturerbe", "Maya-Kanäle im Dschungel", "Lebensraum für Jaguare und Seekühe"],
-      hu: [],
-      ro: [],
+      hu: ["UNESCO világörökségi helyszín", "23 maja régészeti lelőhely", "A világ második legnagyobb zátonyrendszere"],
+      ro: ["Inclusă în patrimoniul UNESCO din 1987", "Conține peste 20 de situri arheologice", "Al doilea cel mai mare recif din lume"],
       en: ["UNESCO World Heritage site", "Contains over 20 archaeological sites", "Second-largest reef system in the world"]
     }
   },
@@ -361,14 +361,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/calakmul-reserve-life-v2.webp",
     description: {
       de: "Ein riesiges Tropenwaldreservat im Bundesstaat Campeche, das bedeutende Maya-Ruinen beherbergt.",
-      hu: "",
-      ro: "",
+      hu: "Campeche államban található trópusi erdőrezervátum, amely egy hatalmas maja várost rejt.",
+      ro: "Cea mai mare rezervație de pădure tropicală din Mexic, care adăpostește ruinele unei puternice metropole mayașe.",
       en: "A massive tropical forest reserve in Campeche that protects one of the most powerful ancient Maya cities ever discovered."
     },
     facts: {
       de: ["UNESCO-Weltkulturerbe", "Zentrum der Maya-Kultur", "Lebensraum für Jaguare"],
-      hu: [],
-      ro: [],
+      hu: ["700 000 hektárnyi védett erdő", "Vegyes világörökségi helyszín", "45 méter magas maja piramisok"],
+      ro: ["Sit UNESCO mixt (natură și cultură)", "Cea mai mare densitate de jaguari din țară", "Piramida principală are 45 de metri înălțime"],
       en: ["Largest tropical forest reserve in Mexico", "Highest density of jaguars in the country", "Mixed UNESCO Heritage site"]
     }
   },
@@ -398,14 +398,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/lacandon-jungle-life-v2.webp",
     description: {
       de: "Einer der letzten großen Regenwälder Nordamerikas, gelegen im Grenzgebiet zu Guatemala.",
-      hu: "",
-      ro: "",
+      hu: "Chiapas államban fekvő hatalmas esőerdő, amely a lakandon maják otthona.",
+      ro: "Una dintre ultimele păduri tropicale mari din America de Nord, cămin al poporului mayaș lacandon și al unei biodiversități uriașe.",
       en: "One of North America's largest remaining rainforests, home to the Lacandon Maya and an incredible variety of tropical wildlife."
     },
     facts: {
       de: ["Enorme Artenvielfalt", "Heimat der Lakandonen-Maya", "Bedeutende Flusssysteme"],
-      hu: [],
-      ro: [],
+      hu: ["Mexikó legnagyobb esőerdője", "Ritka hárpiasasok élőhelye", "Bonampak maja romjai a területén"],
+      ro: ["Adăpostește rari vulturi harpie", "Include ruinele mayașe de la Bonampak", "Acoperă estul statului Chiapas"],
       en: ["Covers eastern Chiapas", "Habitat for the rare harpy eagle", "Contains the ruins of Bonampak"]
     }
   },
@@ -435,14 +435,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/el-vizcaino-life-v2.webp",
     description: {
       de: "Ein riesiges Biosphärenreservat auf der Halbinsel Baja California, berühmt für seine Wüstenlandschaften.",
-      hu: "",
-      ro: "",
+      hu: "A Kaliforniai-félszigeten elterülő óriási rezervátum, amely a szürke bálnák legfontosabb szaporodóhelye.",
+      ro: "Cea mai mare zonă protejată din Mexic, celebră pentru lagunele sale de coastă unde balenele cenușii vin să nască.",
       en: "Mexico's largest protected area, famous for its coastal lagoons that serve as the primary calving grounds for gray whales."
     },
     facts: {
       de: ["UNESCO-Welterbe", "Lagunen zur Walbeobachtung", "Über 2,5 Millionen Hektar"],
-      hu: [],
-      ro: [],
+      hu: ["UNESCO világörökségi helyszín", "2,5 millió hektáros terület", "10 000 éves barlangrajzok"],
+      ro: ["Rezervație UNESCO din anul 1993", "Suprafață de peste 2,5 milioane hectare", "Include picturi rupestre preistorice"],
       en: ["UNESCO site since 1993", "Over 2.5 million hectares", "Includes prehistoric rock paintings"]
     }
   },
@@ -472,14 +472,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/celestun-flamingo-reserve-life-v2.webp",
     description: {
       de: "Ein Küstenreservat in Yucatán, das für seine riesigen Kolonien rosa Flamingos weltberühmt ist.",
-      hu: "",
-      ro: "",
+      hu: "Yucatán-félsziget nyugati partján fekvő vizes élőhely, amely a rózsás flamingók kolóniáiról híres.",
+      ro: "Zonă umedă de coastă în Yucatán, faimoasă pentru miile de flamingo roz și ecosistemele sale diverse de mangrove.",
       en: "A coastal wetland in Yucatán famous for its thousands of pink flamingos and diverse mangrove ecosystems."
     },
     facts: {
       de: ["Rosa Flamingos im Winter", "Bootstouren durch Mangroven", "Mündung des Rio Esperanza"],
-      hu: [],
-      ro: [],
+      hu: ["Akár 35 000 flamingó telente", "300-nál több madárfaj", "Tengeri teknősök fészkelőhelye"],
+      ro: ["Peste 300 de specii de păsări înregistrate", "Izvoare unice de apă dulce în mare", "Loc important de cuibărit pentru țestoase"],
       en: ["Over 300 bird species recorded", "Features unique freshwater springs", "Important sea turtle nesting area"]
     }
   },
@@ -509,14 +509,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/la-ventanilla-turtle-reserve-life-v2.webp",
     description: {
       de: "Ein ökologisches Projekt an der Küste von Oaxaca, das sich dem Schutz von Schildkröten und Krokodilen widmet.",
-      hu: "",
-      ro: "",
+      hu: "Oaxaca partjainál fekvő közösségi ökoturisztikai projekt, amely a teknősök védelmére összpontosít.",
+      ro: "Rezervație naturală gestionată de comunitate în Oaxaca, dedicată restaurării mangrovelor și protecției țestoaselor marine.",
       en: "A community-managed nature reserve in Oaxaca dedicated to the restoration of mangroves and the protection of sea turtles."
     },
     facts: {
       de: ["Gemeindebasiertes Ökoprojekt", "Lagune mit Krokodilen", "Nistplatz für Meeresschildkröten"],
-      hu: [],
-      ro: [],
+      hu: ["Közösségi kezelésű rezervátum", "Több mint 300 védett krokodil", "Olajzöld fattyúteknősök fészkelőhelye"],
+      ro: ["Administrată de familii locale", "Peste 300 de crocodili protejați", "Sanctuar pentru țestoasa măslinie"],
       en: ["Run by local families", "Home to over 300 crocodiles", "Sanctuary for olive ridley turtles"]
     }
   },
@@ -546,14 +546,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/los-tuxtlas-reserve-life-v2.webp",
     description: {
       de: "Ein Biosphärenreservat in Veracruz mit üppigen Regenwäldern, Wasserfällen und Vulkanlandschaften.",
-      hu: "",
-      ro: "",
+      hu: "Veracruz államban található bioszféra-rezervátum, ahol az esőerdő vulkanikus hegyekkel találkozik.",
+      ro: "Rezervație a biosferei în Veracruz unde pădurea tropicală întâlnește munții vulcanici și apele Golfului Mexic.",
       en: "An ecological hotspot in Veracruz where tropical rainforests meet volcanic mountains and the shores of the Gulf of Mexico."
     },
     facts: {
       de: ["Nördlichster Regenwald Amerikas", "Über 500 Vogelarten", "Sitz der Olmeken-Kultur"],
-      hu: [],
-      ro: [],
+      hu: ["Amerika legészakibb trópusi erdője", "500-nál több madárfaj", "Az olmék kultúra egykori központja"],
+      ro: ["Cea mai nordică pădure tropicală din America", "Peste 500 de specii de păsări înregistrate", "Regiune a vechii civilizații olmece"],
       en: ["Northernmost rainforest in the Americas", "Contains over 500 bird species", "Region of the ancient Olmec culture"]
     }
   },
@@ -583,14 +583,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/sierra-gorda-reserve-life-v2.webp",
     description: {
       de: "Ein ökologisch vielfältiges Gebirge in Querétaro mit tiefen Schluchten und dichten Wäldern.",
-      hu: "",
-      ro: "",
+      hu: "Querétaro állam északi részén fekvő változatos táj, amely a sivatagtól a köderdőkig terjed.",
+      ro: "Rezervație a biosferei spectaculoasă în Querétaro, variind de la deșerturi aride la păduri de nori de mare altitudine.",
       en: "A stunningly diverse biosphere reserve in Querétaro, ranging from arid deserts to lush, high-altitude cloud forests."
     },
     facts: {
       de: ["Fünf Franziskanermissionen", "Enorme Höhenunterschiede", "Schutzgebiet für den Puma"],
-      hu: [],
-      ro: [],
+      hu: ["UNESCO világörökségi missziók", "15 különböző növénytársulás", "A puma egyik fontos menedékhelye"],
+      ro: ["Include cinci misiuni franciscane UNESCO", "Ocupă o treime din statul Querétaro", "Refugiu important pentru pume"],
       en: ["Covers one-third of Querétaro", "Includes five 18th-century missions", "UNESCO site for nature and culture"]
     }
   },
@@ -620,14 +620,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/isla-holbox-life-v2.webp",
     description: {
       de: "Eine entspannte, autofreie Insel im Norden Yucatáns, bekannt für ihre Sandstraßen und Flamingos.",
-      hu: "",
-      ro: "",
+      hu: "Autómentes sziget Yucatán északi partjainál, amely homokos utcáiról és nyugodt hangulatáról ismert.",
+      ro: "O insulă liniștită fără mașini în nordul peninsulei Yucatán, cunoscută pentru străzile cu nisip și apusurile spectaculoase.",
       en: "A tranquil, car-free island in northern Yucatán known for its sandy streets, vibrant murals, and summer whale shark sightings."
     },
     facts: {
       de: ["Walhaie im Sommer", "Türkisfarbenes Wasser", "Teil des Yum Balam Reservats"],
-      hu: [],
-      ro: [],
+      hu: ["Nincsenek aszfaltozott utak", "A Yum Balam rezervátum része", "Híres a homár-pizzájáról"],
+      ro: ["Fără drumuri asfaltate pe insulă", "Loc ideal pentru înot cu rechinii balenă", "Parte a rezervației Yum Balam"],
       en: ["No paved roads on the island", "Part of Yum Balam reserve", "Famous for its lobster pizza"]
     }
   },
@@ -657,14 +657,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/isla-mujeres-life-v2.webp",
     description: {
       de: "Eine malerische Insel vor Cancún, die für ihre Traumstrände und das kristallklare Wasser geschätzt wird.",
-      hu: "",
-      ro: "",
+      hu: "Cancún közelében fekvő festői sziget, amely kristálytiszta vizéről és strandjairól híres.",
+      ro: "O insulă pitorească din Caraibe lângă Cancún, faimoasă pentru apele calme ale Playa Norte și farmecul său boem.",
       en: "A picturesque Caribbean island near Cancún, famous for the calm, turquoise waters of Playa Norte and its laid-back charm."
     },
     facts: {
       de: ["Tempel der Göttin Ixchel", "Bekannter Strand Playa Norte", "Ideal zum Schnorcheln"],
-      hu: [],
-      ro: [],
+      hu: ["7 kilométer hosszú sziget", "Víz alatti művészeti múzeum", "Ixchel maja istennő szentélye"],
+      ro: ["Punctul cel mai estic al Mexicului", "Templul zeiței Ixchel la Punta Sur", "Include un muzeu de artă subacvatic"],
       en: ["Temple of goddess Ixchel at Punta Sur", "Only 7 kilometers long", "Features an underwater art museum"]
     }
   },
@@ -694,14 +694,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/janitzio-island-life-v2.webp",
     description: {
       de: "Die berühmteste Insel im Pátzcuaro-See, bekannt für ihre Fischer und die riesige Morelos-Statue.",
-      hu: "",
-      ro: "",
+      hu: "A Pátzcuaro-tó legismertebb szigete, amely a purépecha kultúra központja.",
+      ro: "Cea mai faimoasă insulă din lacul Pátzcuaro, recunoscută pentru pescarii cu plase \"fluture\" și statuia monumentală a lui Morelos.",
       en: "The most famous island in Lake Pátzcuaro, recognized for its iconic butterfly net fishermen and monumental statue."
     },
     facts: {
       de: ["Zentrum des Tags der Toten", "Schmetterlingsfischer-Tradition", "Gigantische Statue auf der Spitze"],
-      hu: [],
-      ro: [],
+      hu: ["40 méter magas Morelos-szobor", "A halottak napja központi helyszíne", "Hagyományos purépecha közösség"],
+      ro: ["Statuia lui Morelos are 40 de metri înălțime", "Centru major pentru Ziua Morților", "Comunitate tradițională Purépecha"],
       en: ["Statue of Morelos is 40 meters high", "Heart of Day of the Dead traditions", "Purépecha cultural center"]
     }
   },
@@ -731,14 +731,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/isla-espiritu-santo-life-v2.webp",
     description: {
       de: "Eine unbewohnte, felsige Insel im Golf von Kalifornien, ein Paradies für Taucher und Kajakfahrer.",
-      hu: "",
-      ro: "",
+      hu: "Lakatlan, vörös szikláiról ismert sziget a Kaliforniai-öbölben, amely UNESCO világörökségi helyszín.",
+      ro: "Insulă deșertică nelocuită în Marea lui Cortez, celebră pentru stâncile vulcanice roșii și colonia de lei de mare prietenoși.",
       en: "An uninhabited desert island in the Sea of Cortez, celebrated for its red volcanic cliffs and friendly sea lion colony."
     },
     facts: {
       de: ["UNESCO-Weltnaturerbe", "Kolonie von Seelöwen", "Kontrast aus Wüste und Meer"],
-      hu: [],
-      ro: [],
+      hu: ["Állandó oroszlánfóka-kolónia", "UNESCO világörökségi helyszín", "Lakatlan, érintetlen terület"],
+      ro: ["Patrimoniu Mondial UNESCO din anul 1995", "Colonii permanente de lei de mare", "Numită \"Acvariul Lumii\" de Jacques Cousteau"],
       en: ["UNESCO Biosphere Reserve", "Home to a permanent sea lion colony", "Uninhabited and pristine"]
     }
   },
@@ -768,14 +768,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/isla-tiburon-life-v2.webp",
     description: {
       de: "Die größte Insel Mexikos, gelegen im Golf von Kalifornien und heiliges Land der Seri-Indianer.",
-      hu: "",
-      ro: "",
+      hu: "Mexikó legnagyobb szigete, amely a seri indiánok szent területe és védett rezervátum.",
+      ro: "Cea mai mare insulă din Mexic, menținută ca rezervație ecologică sacră de către poporul indigen Seri din Sonora.",
       en: "Mexico's largest island, maintained as a wild and sacred ecological reserve by the indigenous Seri people of Sonora."
     },
     facts: {
       de: ["Größte mexikanische Insel", "Keine dauerhafte Besiedlung", "Eigentum der Comcaac-Nation"],
-      hu: [],
-      ro: [],
+      hu: ["Mexikó legnagyobb szigete", "A seri (comcaac) nép tulajdona", "Vadon élő kanadai vadjuhok otthona"],
+      ro: ["Teritoriul ancestral al poporului Seri", "Nu are așezări umane permanente", "Refugiu pentru oile sălbatice de deșert"],
       en: ["Ancestral land of the Seri people", "Largest island in Mexico", "Refuge for desert bighorn sheep"]
     }
   },
@@ -805,14 +805,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/marietas-islands-life-v2.webp",
     description: {
       de: "Eine Gruppe kleiner, unbewohnter Inseln vor Puerto Vallarta, berühmt für den versteckten 'Hidden Beach'.",
-      hu: "",
-      ro: "",
+      hu: "Lakatlan vulkanikus szigetek Nayarit partjainál, amelyek a rejtett strandjukról híresek.",
+      ro: "Insule vulcanice mici lângă coasta Nayarit, celebre în întreaga lume pentru \"Plaja Ascunsă\" aflată în interiorul unui crater.",
       en: "Small volcanic islands off the coast of Nayarit, world-famous for the 'Hidden Beach' nestled inside a collapsed crater."
     },
     facts: {
       de: ["Nationalpark und Vogelschutz", "Berühmter Playa del Amor", "Einstiges militärisches Testgelände"],
-      hu: [],
-      ro: [],
+      hu: ["Szigorúan korlátozott látogatószám", "Kéklábú szulák fészkelőhelye", "Egykori katonai teszthelyszín"],
+      ro: ["Adăpost pentru pasărea Sula cu picioare albastre", "Acces strict limitat pentru turiști", "Fost poligon de testare militară"],
       en: ["Home to blue-footed boobies", "Access is strictly limited", "Former military testing ground"]
     }
   },
@@ -842,14 +842,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/contoy-island-life-v2.webp",
     description: {
       de: "Eine geschützte Insel nördlich von Isla Mujeres, die als eines der wichtigsten Vogelschutzgebiete gilt.",
-      hu: "",
-      ro: "",
+      hu: "Szigorúan védett nemzeti park Isla Mujeres-től északra, fontos madárfészkelő hely.",
+      ro: "Parc național strict protejat la nord de Isla Mujeres, servind drept cel mai important loc de cuibărit pentru păsările marine.",
       en: "A strictly protected national park north of Isla Mujeres, serving as the most important nesting site for seabirds in the region."
     },
     facts: {
       de: ["Nationalpark seit 1961", "Begrenzte Besucherzahl täglich", "Nistplatz für über 150 Vogelarten"],
-      hu: [],
-      ro: [],
+      hu: ["Napi 200 fős látogatói korlát", "Több mint 150 madárfaj fészkel itt", "Fontos tengeri teknős fészkelőhely"],
+      ro: ["Nelocuită de oameni", "Limită de 200 de vizitatori pe zi", "Peste 150 de specii de păsări înregistrate"],
       en: ["Known as the 'Island of Birds'", "Limited to 200 visitors per day", "Uninhabited by humans"]
     }
   },
@@ -879,14 +879,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/tequila-agave-fields-life-v2.webp",
     description: {
       de: "Die weiten, blauen Agavenfelder in Jalisco, die das Herz der Tequila-Produktion bilden.",
-      hu: "",
-      ro: "",
+      hu: "Jalisco állam kék agávé ültetvényei, amelyek az UNESCO világörökség részét képezik.",
+      ro: "Peisaj înscris în patrimoniul UNESCO în Jalisco, unde agava albastră este cultivată de secole pentru producția de tequila.",
       en: "A UNESCO World Heritage landscape in Jalisco where the blue agave has been cultivated for centuries to produce tequila."
     },
     facts: {
       de: ["UNESCO-Weltkulturerbe", "Anbau der Blauen Agave", "Vulkanische Bodenbeschaffenheit"],
-      hu: [],
-      ro: [],
+      hu: ["UNESCO világörökségi kultúrtáj", "7-10 év az agávé beérése", "Jellegzetes vörös vulkáni talaj"],
+      ro: ["Sol vulcanic roșu bogat în minerale", "Agava are nevoie de 7-10 ani pentru maturare", "Sit UNESCO din anul 2006"],
       en: ["Rich volcanic red soil", "Agave takes 7-10 years to mature", "UNSECO site since 2006"]
     }
   },
@@ -916,14 +916,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/valle-de-guadalupe-vineyards-life-v2.webp",
     description: {
       de: "Das wichtigste Weinanbaugebiet Mexikos in Baja California, bekannt für seine erstklassigen Weingüter.",
-      hu: "",
-      ro: "",
+      hu: "Mexikó legfontosabb borvidéke Alsó-Kaliforniában, a hazai bortermelés központja.",
+      ro: "Principala regiune viticolă a Mexicului situată în Baja California, producând aproape 90% din vinul țării.",
       en: "The premier wine region of Mexico, located in Baja California and producing nearly 90% of the country's wine."
     },
     facts: {
       de: ["Produziert 90% des mexikanischen Weins", "Mediterranes Mikroklima", "Zentrum der Valle-Gastronomie"],
-      hu: [],
-      ro: [],
+      hu: ["Mediterrán mikroklíma", "Több mint 150 borászat", "Mexikó gasztronómiai központja"],
+      ro: ["Microclimat de tip mediteranean", "Peste 150 de crame în regiune", "Destinație culinară de top în Mexic"],
       en: ["Mediterranean-style microclimate", "Home to over 150 wineries", "Mexico's leading culinary destination"]
     }
   },
@@ -953,14 +953,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/veracruz-coffee-farms-life-v2.webp",
     description: {
       de: "Traditionelle Kaffeeplantagen in den feuchten Bergregionen von Veracruz, bekannt für ihren Hochlandkaffee.",
-      hu: "",
-      ro: "",
+      hu: "Veracruz ködös hegyvidékein fekvő tradicionális kávéültetvények, ahol árnyékban termett kávét állítanak elő.",
+      ro: "Ferme istorice de cafea în zonele muntoase din Veracruz, unde se produce una dintre cele mai fine cafele de umbră din Mexic.",
       en: "Historic coffee-growing estates in the misty highlands of Veracruz, where some of Mexico's finest shade-grown coffee is produced."
     },
     facts: {
       de: ["Anbau in Coatepec und Xalapa", "Schattenkaffee-Tradition", "Reiche koloniale Fincas"],
-      hu: [],
-      ro: [],
+      hu: ["Coatepec a kávé fővárosa", "Mexikó első kávéültetvényei", "Magaslati, vulkanikus talaj"],
+      ro: ["Coatepec este capitala cafelei mexicane", "Primul loc din Mexic unde s-a cultivat cafea", "Cultivată la altitudini de peste 800 de metri"],
       en: ["Coatepec is the 'Coffee Capital'", "First place in Mexico to grow coffee", "Grown in the Sierra Madre Oriental"]
     }
   },
@@ -990,14 +990,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/chiapas-coffee-fincas-life-v2.webp",
     description: {
       de: "Kaffeeplantagen im Hochland von Chiapas, die für ihren qualitativ hochwertigen Bio-Kaffee geschätzt werden.",
-      hu: "",
-      ro: "",
+      hu: "Chiapas hegyvidéki kávéfarmjai, a világ egyik vezető biokávé-termelő vidéke.",
+      ro: "Moșii vaste de cafea în munții din Chiapas, lider mondial în producția de cafea organică și certificată fair-trade.",
       en: "Expansive coffee estates in the rugged mountains of Chiapas, a world leader in organic and fair-trade coffee production."
     },
     facts: {
       de: ["Größter Kaffeeproduzent Mexikos", "Fokus auf fairen Handel", "Ideal durch vulkanische Böden"],
-      hu: [],
-      ro: [],
+      hu: ["Mexikó legnagyobb kávétermelője", "Világelső a biokávé-termesztésben", "1200 méter feletti ültetvények"],
+      ro: ["Cel mai mare producător de cafea din Mexic", "Sol montan vulcanic ideal", "Lider în agricultura ecologică"],
       en: ["Largest coffee producer in Mexico", "Ideal volcanic mountain soil", "Major center for organic farming"]
     }
   },
@@ -1027,14 +1027,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/oaxaca-mezcal-agave-life-v2.webp",
     description: {
       de: "Regionen in Oaxaca, in denen verschiedene Agavenarten für die handwerkliche Herstellung von Mezcal kultiviert werden.",
-      hu: "",
-      ro: "",
+      hu: "Oaxaca vidékein termesztett különféle agávéfajok, amelyekből kézműves mezcal készül.",
+      ro: "Centrul tradițional al producției de mezcal din Oaxaca, unde diverse specii de agavă sunt recoltate pentru băuturi artizanale.",
       en: "The traditional heartland of mezcal production in Oaxaca, where diverse agave species are harvested for artisanal spirits."
     },
     facts: {
       de: ["Hauptregion des Mezcals", "Handwerkliche Destillation", "Vielfalt wilder Agavenarten"],
-      hu: [],
-      ro: [],
+      hu: ["Mezcal world fővárosa", "Több mint 30 agávéfaj használata", "Hagyományos, föld alatti pörkölés"],
+      ro: ["Oaxaca produce 90% din mezcalul mexican", "Folosește peste 30 de specii diferite de agavă", "Proces artizanal de coacere în gropi"],
       en: ["Oaxaca produces 90% of Mexico's mezcal", "Uses over 30 different agave species", "Artisanal pit-roasting process"]
     }
   },
@@ -1064,14 +1064,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }, image: "/poi-images/michoacan-avocado-orchards-life-v2.webp",
     description: {
       de: "Die weltweit größten Avocado-Anbaugebiete, die Michoacán zum globalen Zentrum dieser Frucht machen.",
-      hu: "",
-      ro: "",
+      hu: "A világ legnagyobb avokádótermelő vidéke Michoacán államban, a \"zöld arany\" hazája.",
+      ro: "Regiunea lider mondial în producția de avocado, cu livezi vaste întinse pe dealurile vulcanice fertile din Michoacán.",
       en: "The world's leading avocado-producing region, with vast orchards stretching across the fertile volcanic hills of Michoacán."
     },
     facts: {
       de: ["Weltmarktführer im Export", "Fruchtbare Vulkanerde", "Ganzjährige Ernte möglich"],
-      hu: [],
-      ro: [],
+      hu: ["A világ avokádótermelésének központja", "Egész évben zajló betakarítás", "Termékeny vulkanikus dombvidék"],
+      ro: ["Furnizează 45% din exporturile globale", "Cunoscut sub numele de \"Aurul Verde\"", "Copacii pot înflori de patru ori pe an"],
       en: ["Known as 'Green Gold'", "Supplies 45% of global exports", "Trees can bloom four times a year"]
     }
   },
@@ -1101,14 +1101,14 @@ export const poiExtraMexicoLifeV2: POI[] = [
     },
     description: {
       de: "Ausgedehnte Mango-Plantagen in Sinaloa, einer der produktivsten Agrarregionen Mexikos.",
-      hu: "",
-      ro: "",
+      hu: "Sinaloa tengerparti síkságain elterülő trópusi gyümölcsösök, Mexikó jelentős mangóexport-központja.",
+      ro: "Livezi tropicale luxuriante în câmpiile de coastă din Sinaloa, unul dintre cele mai productive centre de export de mango din Mexic.",
       en: "Lush tropical orchards in the coastal plains of Sinaloa, one of Mexico's most productive agricultural and mango-exporting hubs."
     },
     facts: {
       de: ["Wichtiger Exporteur in die USA", "Mehrere Sorten wie Ataulfo", "Tropisches Küstenklima"],
-      hu: [],
-      ro: [],
+      hu: ["Ataulfo mangó fő exportőre", "Trópusi tengerparti klíma", "Nyári csúcsszezon a betakarításkor"],
+      ro: ["Lider în exportul de mango Ataulfo", "Climă de coastă caldă și tropicală", "Vârful recoltei are loc în lunile de vară"],
       en: ["Leading exporter of Ataulfo mangoes", "Warm, tropical coastal climate", "Peak harvest in summer months"]
     }
   },

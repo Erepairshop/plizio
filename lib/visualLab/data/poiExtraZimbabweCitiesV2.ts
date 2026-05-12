@@ -10,21 +10,15 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     name: { de: "Harare", hu: "Harare", ro: "Harare", en: "Harare" },
     description: {
       "de": "Harare ist die pulsierende Hauptstadt Simbabwes und ein wichtiges wirtschaftliches Zentrum des Landes.",
-      "hu": "Harare egy jelentős város Zimbabwében.",
-      "ro": "Harare este un oraș important din Zimbabwe.",
-      "en": "The capital and largest city of Zimbabwe, serving as the nation's political and financial center."
+      "hu": "Zimbabwe fővárosa és legnépesebb városa, amely az ország politikai, gazdasági és kulturális központjaként szolgál.",
+      "ro": "Capitala și cel mai mare oraș din Zimbabwe, Harare este centrul politic, economic și cultural al națiunii.",
+      "en": "Harare is the vibrant capital of Zimbabwe, serving as the country's primary political, economic, and cultural hub. It is a modern metropolis characterized by its wide, tree-lined avenues and a blend of colonial and contemporary architecture."
     },
     facts: {
       "de": ["Hauptstadt von Simbabwe", "Liegt auf ca. 1.480 m Höhe", "Gegründet im Jahr 1890", "Wichtigstes Handelszentrum"],
-      "hu": [
-      "Harare hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Harare körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Harare contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Harare se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Population over 2 million", "Located on the highveld", "Established in 1890", "Primary gateway city"]
+      "hu": ["Az ország legfontosabb kereskedelmi csomópontja", "1890-ben alapították Fort Salisbury néven", "Tengerszint feletti magassága 1483 méter", "Számos egyetem és kutatóintézet székhelye"],
+      "ro": ["Centru economic major", "Altitudine de 1483 metri", "Fondat în 1890 ca Fort Salisbury", "Cunoscut pentru arborii de jacaranda"],
+      "en": ["Founded in 1890 as Fort Salisbury", "Elevation of approximately 1,483 meters", "Known for its beautiful jacaranda trees", "Home to the University of Zimbabwe", "Major center for tobacco trade", "Subtropical highland climate"]
     },
     descriptionAdvanced: {
       de: "Harare ist die pulsierende Hauptstadt von Simbabwe und ein bedeutendes Wirtschaftszentrum im südlichen Afrika. Gegründet im Jahr 1890 als Fort Salisbury, hat sich die Stadt zu einer modernen Metropole mit über 1,5 Millionen Einwohnern entwickelt. Harare dient als politisches Herz und Bildungszentrum des Landes, wobei Einrichtungen wie das Harare Institute of Technology eine wichtige Rolle spielen. Erdkunde K7 – urbane Räume und wirtschaftliche Knotenpunkte.",
@@ -45,22 +39,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [28.5833, -20.15],
     name: { de: "Bulawayo", hu: "Bulawayo", ro: "Bulawayo", en: "Bulawayo" },
     description: {
-      "de": "Bulawayo ist die zweitgrößte Stadt Simbabwes und bekannt für ihre breiten Alleen.",
-      "hu": "Bulawayo egy jelentős város Zimbabwében.",
-      "ro": "Bulawayo este un oraș important din Zimbabwe.",
-      "en": "Zimbabwe's second-largest city, known for its industrial heritage and wide, grid-pattern streets."
+      "de": "Bulawayo ist die zweitgrößte Stadt Simbabwes und bekannt für ihre breiten Alleen und industrielle Bedeutung.",
+      "hu": "Az ország második legnagyobb városa, amely széles sugárútjairól és gazdag ipari múltjáról ismert.",
+      "ro": "Al doilea oraș ca mărime din Zimbabwe, Bulawayo este renumit pentru moștenirea sa industrială și străzile sale largi.",
+      "en": "Bulawayo is Zimbabwe's second-largest city and is widely known as the 'City of Kings' due to its rich Ndebele heritage. The city features a distinctive grid-like layout with exceptionally wide streets originally designed to turn a full team of oxen."
     },
     facts: {
-      "de": ["Zweitgrößte Stadt", "Wichtiges Industriezentrum", "Kulturelles Herz", "Bekannt für Architektur"],
-      "hu": [
-      "Bulawayo hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Bulawayo körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Bulawayo contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Bulawayo se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Founded in 1894", "Industrial hub", "Near Matobo National Park", "Rich railway history"]
+      "de": ["Zweitgrößte Stadt des Landes", "Wichtiges Industriezentrum", "Kulturelles Herz im Südwesten", "Sitz der Eisenbahnverwaltung"],
+      "hu": ["A Matabeleland régió központja", "Fontos vasúti és közlekedési csomópont", "Közel fekszik a Matobo Nemzeti Parkhoz", "Itt található a Természettudományi Múzeum"],
+      "ro": ["Cunoscut ca Orașul Regilor", "Nod feroviar strategic", "Poartă către Parcul Național Matobo", "Găzduiește Muzeul de Istorie Naturală"],
+      "en": ["Established as a town in 1894", "Former capital of the Ndebele Kingdom", "Gateway to Matobo National Park", "Major industrial and railway hub", "Home to the Natural History Museum", "Located in the Matabeleland region"]
     },
     descriptionAdvanced: {
       de: "Bulawayo ist die zweitgrößte Stadt Simbabwes und bekannt als die 'Stadt der Könige'. Mit ihrer reichen Geschichte als ehemalige Hauptstadt des Ndebele-Königreichs unter Lobengula bewahrt sie eine einzigartige kulturelle Identität im Südwesten des Landes. Die breiten Straßen, die ursprünglich für Ochsenkarren ausgelegt waren, prägen den architektonischen Charakter der Stadt. Erdkunde K7 – historische Zentren und infrastrukturelle Erben.",
@@ -82,21 +70,15 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     name: { de: "Chitungwiza", hu: "Chitungwiza", ro: "Chitungwiza", en: "Chitungwiza" },
     description: {
       "de": "Chitungwiza ist eine schnell wachsende Satellitenstadt in der Nähe der Hauptstadt Harare.",
-      "hu": "Chitungwiza egy jelentős város Zimbabwében.",
-      "ro": "Chitungwiza este un oraș important din Zimbabwe.",
-      "en": "A major dormitory town located near Harare, known for its rapid population growth."
+      "hu": "Harare közelében fekvő, gyorsan növekvő alvóváros, amely jelentős lakóövezet az ingázók számára.",
+      "ro": "Un oraș satelit major situat la sud de Harare, Chitungwiza a cunoscut o creștere demografică rapidă.",
+      "en": "Chitungwiza is a large, rapidly growing dormitory town located just south of Harare. It was established in 1978 and has since become one of the most densely populated urban areas in Zimbabwe, serving many who commute to the capital."
     },
     facts: {
-      "de": ["Große Satellitenstadt", "Nahe Harare gelegen", "Wichtiges Wohngebiet", "Starkes Bevölkerungswachstum"],
-      "hu": [
-      "Chitungwiza hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Chitungwiza körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Chitungwiza contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Chitungwiza se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Population center", "Near Harare", "Rapidly expanded since 1970", "Residential hub"]
+      "de": ["Große Satellitenstadt", "Gegründet in den 1970ern", "Wichtiges Wohngebiet", "Starkes Bevölkerungswachstum"],
+      "hu": ["1978-ban jött létre három korábbi településből", "Az ország egyik legsűrűbben lakott területe", "Harare városközpontjától 30 km-re délre fekszik", "Saját független önkormányzattal rendelkezik"],
+      "ro": ["Înființat în 1978", "Cea mai mare suburbie dormitor", "Centru important pentru artele vizuale", "Comunitate urbană vibrantă"],
+      "en": ["Formed from three former townships", "Located 30 km south of Harare", "Known for a vibrant arts and music scene", "Third most populous urban area", "Rapid urban expansion since 1980", "Major residential center for workers"]
     }, image: "/poi-images/chitungwiza-cities-v2.webp",
     descriptionAdvanced: {
       de: "Chitungwiza ist eine schnell wachsende Satellitenstadt südlich von Harare mit einer Bevölkerung von über 350.000 Menschen. Sie entstand in den 1970er Jahren und entwickelte sich zu einem bedeutenden Wohngebiet für Pendler, die in der Hauptstadt arbeiten. Die Stadt ist bekannt für ihre lebendige Gemeinschaft und eine wachsende lokale Wirtschaft. Erdkunde K7 – Stadtentwicklung und demografischer Wandel.",
@@ -118,22 +100,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.6695, -18.9743],
     name: { de: "Mutare", hu: "Mutare", ro: "Mutare", en: "Mutare" },
     description: {
-      "de": "Mutare liegt wunderschön eingebettet in den östlichen Bergen Simbabwes.",
-      "hu": "Mutare egy jelentős város Zimbabwében.",
-      "ro": "Mutare este un oraș important din Zimbabwe.",
-      "en": "A scenic city located in the eastern highlands near the border with Mozambique."
+      "de": "Mutare liegt malerisch in den östlichen Bergen Simbabwes nahe der Grenze zu Mosambik.",
+      "hu": "A festői Keleti-felföldön elhelyezkedő város, amely Zimbabwe kapuja a mozambiki kikötők felé.",
+      "ro": "Situat în regiunea Eastern Highlands, Mutare este poarta de legătură a țării cu porturile din Mozambic.",
+      "en": "Mutare is a picturesque city nestled within the Eastern Highlands, acting as a vital trade gateway to the Mozambican port of Beira. It is surrounded by lush green mountains and offers a cooler, more temperate climate than much of the country."
     },
     facts: {
-      "de": ["Stadt der Ostberge", "Nahe Grenze Mosambik", "Hauptstadt Manicaland", "Verkehrsknotenpunkt"],
-      "hu": [
-      "Mutare hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Mutare körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Mutare contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Mutare se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Gateway to Eastern Highlands", "Gateway to Mozambique", "Founded in 1897", "Mountainous surroundings"]
+      "de": ["Hauptstadt von Manicaland", "Tor zu den Eastern Highlands", "Wichtiger Grenzhandelsort", "Eingebettet in Bergtäler"],
+      "hu": ["Manicaland tartomány közigazgatási központja", "Zimbabwe legkeletibb nagyvárosa", "Híres a környező fenyőerdőiről és hegyeiről", "Fontos kereskedelmi kapu Beira kikötője felé"],
+      "ro": ["Al patrulea oraș ca mărime", "Peisaj montan spectaculos", "Centru pentru comerțul transfrontalier", "Climat montan moderat"],
+      "en": ["Capital of Manicaland Province", "Zimbabwe's most easterly city", "Founded in 1897 near the border", "Proximity to Vumba and Nyanga mountains", "Key center for timber and tea trade", "Surrounded by the Christmas Pass"]
     }, image: "/poi-images/mutare-cities-v2.webp",
     descriptionAdvanced: {
       de: "Mutare ist die viertgrößte Stadt Simbabwes und liegt malerisch inmitten der Eastern Highlands nahe der Grenze zu Mosambik. Als wichtiger Handelsknotenpunkt profitiert die Stadt von ihrer günstigen Lage an der Route zum Hafen von Beira. Die umliegende Berglandschaft bietet atemberaubende Ausblicke und zahlreiche Möglichkeiten für Naturbeobachtungen. Erdkunde K7 – Transitrouten und Gebirgsregionen.",
@@ -155,22 +131,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.8153, -19.45],
     name: { de: "Gweru", hu: "Gweru", ro: "Gweru", en: "Gweru" },
     description: {
-      "de": "Gweru ist ein bedeutender Handelsknotenpunkt im Zentrum Simbabwes.",
-      "hu": "Gweru egy jelentős város Zimbabwében.",
-      "ro": "Gweru este un oraș important din Zimbabwe.",
-      "en": "An important commercial and educational center situated in the heart of the country."
+      "de": "Gweru ist ein bedeutender Handelsknotenpunkt und Industriestandort im Zentrum Simbabwes.",
+      "hu": "Zimbabwe középső részén fekvő ipari és oktatási központ, a Midlands tartomány fővárosa.",
+      "ro": "Situat în centrul geografic al țării, Gweru este capitala provinciei Midlands și un centru educațional cheie.",
+      "en": "Gweru is the administrative capital of the Midlands Province and a significant industrial and educational center in central Zimbabwe. It is strategically located at a major railway junction, facilitating trade between the country's north and south."
     },
     facts: {
-      "de": ["Zentrale Lage", "Wichtiger Handelsstandort", "Provinzhauptstadt Midlands", "Sitz der Universität"],
-      "hu": [
-      "Gweru hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Gweru körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Gweru contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Gweru se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Midlands capital", "Founded in 1894", "Railway junction", "Agricultural hub"]
+      "de": ["Hauptstadt der Midlands", "Zentrale logistische Lage", "Sitz der Midlands State University", "Zentrum der Viehzucht"],
+      "hu": ["Itt található a Midlands Állami Egyetem", "Jelentős katonai légibázissal rendelkezik", "A marhatenyésztés és tejipar központja", "Strategiai vasúti csomópont"],
+      "ro": ["Găzduiește Midlands State University", "Centru important de creștere a vitelor", "Nod feroviar și logistic", "Bază aeriană militară majoră"],
+      "en": ["Founded in 1894 as a military post", "Home to Midlands State University", "Center for cattle ranching and dairy", "Host to a major military airbase", "Strategic railway and logistics hub", "Fifth largest city in Zimbabwe"]
     }, image: "/poi-images/gweru-cities-v2.webp",
     descriptionAdvanced: {
       de: "Gweru ist eine zentrale Industriestadt in Simbabwe und liegt strategisch günstig in der Provinz Midlands. Mit einer gut entwickelten Infrastruktur fungiert Gweru als wichtiges logistisches Drehkreuz für den nationalen Eisenbahn- und Straßenverkehr. Die Stadt ist zudem ein bedeutender Standort für die Metallverarbeitung und die Milchwirtschaft. Erdkunde K7 – industrielle Kerne und Infrastruktur.",
@@ -192,22 +162,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.8142, -18.9281],
     name: { de: "Kwekwe", hu: "Kwekwe", ro: "Kwekwe", en: "Kwekwe" },
     description: {
-      "de": "Kwekwe ist eine Stadt mit starker historischer Verbindung zur Bergbauindustrie.",
-      "hu": "Kwekwe egy jelentős város Zimbabwében.",
-      "ro": "Kwekwe este un oraș important din Zimbabwe.",
-      "en": "A significant mining and industrial town famous for its gold production history."
+      "de": "Kwekwe ist eine bedeutende Bergbaustadt, die vor allem für ihre Gold- und Stahlproduktion bekannt ist.",
+      "hu": "Egy jelentős bányászváros Zimbabwe szívében, amely történelmileg az arany- és acélgyártásáról híres.",
+      "ro": "Kwekwe este un oraș industrial și minier strategic, situat la jumătatea distanței dintre Harare și Bulawayo.",
+      "en": "Kwekwe is a prominent mining and industrial town located halfway between Harare and Bulawayo. It is historically famous for its gold production and continues to be a major center for steel and chemical manufacturing in Zimbabwe."
     },
     facts: {
-      "de": ["Bergbaustadt", "Zentrum Stahlindustrie", "Mittlere Größe", "Günstige Verkehrslage"],
-      "hu": [
-      "Kwekwe hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Kwekwe körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Kwekwe contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Kwekwe se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Gold mining legacy", "Midlands region", "Founded in 1899", "Industrial center"]
+      "de": ["Zentrum des Goldbergbaus", "Wichtiger Stahlstandort", "Liegt in der Midlands-Provinz", "Gegründet um das Jahr 1899"],
+      "hu": ["Aranybányái a 19. század végén nyíltak", "Itt működik az ország legnagyobb acélműve", "Félúton fekszik Harare és Bulawayo között", "Nevét a közeli Kwekwe-folyóról kapta"],
+      "ro": ["Centru istoric de extracție a aurului", "Producție importantă de oțel", "Numele provine de la râul local", "Oraș bogat în resurse minerale"],
+      "en": ["Founded in 1899 as a mining camp", "Located in the Midlands Province", "Home to the Globe and Phoenix Mine", "Major center for gold and iron ore", "Site of large-scale steel works", "Named after the nearby Kwekwe River"]
     }, image: "/poi-images/kwekwe-cities-v2.webp",
     descriptionAdvanced: {
       de: "Kwekwe ist eine wichtige Bergbaustadt in der Provinz Midlands, die vor allem für ihre bedeutende Goldproduktion bekannt ist. Die Stadt entwickelte sich durch den Goldrausch und den Abbau von Erzen zu einem industriellen Schwergewicht der Region. Auch heute prägen der Bergbau und die Stahlproduktion maßgeblich das wirtschaftliche Gesicht von Kwekwe. Erdkunde K7 – Rohstoffabbau und wirtschaftliche Entwicklung.",
@@ -229,22 +193,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.9153, -18.3333],
     name: { de: "Kadoma", hu: "Kadoma", ro: "Kadoma", en: "Kadoma" },
     description: {
-      "de": "Kadoma ist eine Stadt, die durch Goldminen und Textilindustrie geprägt wurde.",
-      "hu": "Kadoma egy jelentős város Zimbabwében.",
-      "ro": "Kadoma este un oraș important din Zimbabwe.",
-      "en": "A town known historically for its gold mining operations and cotton industry."
+      "de": "Kadoma ist eine Stadt in Mashonaland West, die durch Goldminen und Textilindustrie geprägt wurde.",
+      "hu": "Bányászati és mezőgazdasági központ, amely különösen a gyapotfeldolgozásáról ismert.",
+      "ro": "Un oraș minier și agricol din Mashonaland West, Kadoma este inima industriei bumbacului din Zimbabwe.",
+      "en": "Kadoma is a key mining and agricultural town in the Mashonaland West Province, known for its gold, copper, and nickel deposits. It also serves as a central hub for the country's cotton industry, including processing and textile manufacturing."
     },
     facts: {
-      "de": ["Stadt der Goldminen", "Traditionelle Textilindustrie", "Standort Mashonaland West", "Wachsendes Zentrum"],
-      "hu": [
-      "Kadoma hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Kadoma körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Kadoma contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Kadoma se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Mining center", "Cotton industry", "Founded in 1901", "Midlands location"]
+      "de": ["Bergbauzentrum für Gold", "Standort der Textilindustrie", "Agrarwirtschaftliches Umfeld", "Wachsendes urbanes Zentrum"],
+      "hu": ["Gazdag arany-, réz- és nikkelkészletekkel bír", "A zimbabwei textilipar egyik tartópillére", "1901-ben alapították bányásztelepülésként", "Mashonaland West tartományban fekszik"],
+      "ro": ["Zonă bogată în aur și nichel", "Centru de prelucrare a bumbacului", "Fondat ca așezare minieră în 1901", "Importanță agricolă regională"],
+      "en": ["Founded in 1901 as Gatooma", "Located in Mashonaland West", "Major center for cotton ginning", "Rich in gold and nickel resources", "Important agricultural trade hub", "Surrounded by fertile farming land"]
     }, image: "/poi-images/kadoma-cities-v2.webp",
     descriptionAdvanced: {
       de: "Kadoma ist eine Stadt in der Provinz Mashonaland West, die historisch eng mit dem Goldabbau und der Baumwollverarbeitung verbunden ist. Einst ein wohlhabendes Zentrum der Landwirtschaft, hat sich die Stadt zu einem wichtigen Verarbeitungsstandort für landwirtschaftliche Erzeugnisse entwickelt. Die Umgebung ist durch ausgedehnte landwirtschaftliche Flächen geprägt. Erdkunde K7 – Agrarwirtschaft und industrielle Verarbeitung.",
@@ -266,22 +224,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.8278, -20.0744],
     name: { de: "Masvingo", hu: "Masvingo", ro: "Masvingo", en: "Masvingo" },
     description: {
-      "de": "Masvingo ist das Tor zu den weltberühmten Ruinen von Great Zimbabwe.",
-      "hu": "Masvingo egy jelentős város Zimbabwében.",
-      "ro": "Masvingo este un oraș important din Zimbabwe.",
-      "en": "A historic town that serves as the gateway to the ancient Great Zimbabwe ruins."
+      "de": "Masvingo ist die älteste Stadt Simbabwes und das Tor zu den historischen Ruinen von Great Zimbabwe.",
+      "hu": "Zimbabwe legrégebbi városa, amely a közeli Nagy-Zimbabwe romváros miatt fontos turisztikai kapu.",
+      "ro": "Masvingo este cel mai vechi oraș de origine colonială din Zimbabwe, servind drept poartă către vestigiile antice.",
+      "en": "Masvingo is the oldest colonial-era settlement in Zimbabwe and is famous for being the gateway to the Great Zimbabwe ruins. It is a major tourism and administrative center located in the southeastern part of the country."
     },
     facts: {
-      "de": ["Tor zu Great Zimbabwe", "Historisches Zentrum", "Tourismus-Knotenpunkt", "Provinzhauptstadt"],
-      "hu": [
-      "Masvingo hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Masvingo körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Masvingo contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Masvingo se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Gateway to Great Zimbabwe", "Oldest colonial town", "Founded in 1890", "Provincial center"]
+      "de": ["Älteste koloniale Siedlung", "Nahe Great Zimbabwe Ruinen", "Provinzhauptstadt", "Tourismus-Knotenpunkt"],
+      "hu": ["1890-ben alapították Fort Victoria néven", "A közeli Mutirikwi-tó fontos üdülőhely", "Turisztikai központ a romváros közelsége miatt", "Masvingo tartomány székhelye"],
+      "ro": ["Aproape de ruinele Great Zimbabwe", "Fondat în 1890 ca Fort Victoria", "Capitala provinciei Masvingo", "Centru turistic de importanță mondială"],
+      "en": ["Founded in 1890 as Fort Victoria", "Capital of Masvingo Province", "Located near Lake Mutirikwi", "Gateway to Great Zimbabwe UNESCO site", "Oldest town in Zimbabwe", "Significant agricultural trade center"]
     }, image: "/poi-images/masvingo-cities-v2.webp",
     descriptionAdvanced: {
       de: "Masvingo ist die älteste Stadt Simbabwes und ein wichtiges Tor zu den berühmten Great Zimbabwe Ruinen, einem UNESCO-Weltkulturerbe. Die Stadt dient als Ausgangspunkt für Touristen, die die historischen Überreste des mittelalterlichen Groß-Simbabwe erkunden wollen. Die lokale Wirtschaft ist stark von Tourismus und der angrenzenden Landwirtschaft geprägt. Erdkunde K7 – historisches Kulturerbe und Tourismus.",
@@ -303,22 +255,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.1472, -17.3667],
     name: { de: "Chinhoyi", hu: "Chinhoyi", ro: "Chinhoyi", en: "Chinhoyi" },
     description: {
-      "de": "Chinhoyi ist bekannt für die in der Nähe gelegenen Chinhoyi-Höhlen.",
-      "hu": "Chinhoyi egy jelentős város Zimbabwében.",
-      "ro": "Chinhoyi este un oraș important din Zimbabwe.",
-      "en": "The administrative center of Mashonaland West, famous for its nearby limestone caves."
+      "de": "Chinhoyi ist bekannt für die faszinierenden Chinhoyi-Höhlen mit ihrem tiefblauen See.",
+      "hu": "Mezőgazdasági központ, amely a látványos vízzel telt barlangrendszeréről vált világhírűvé.",
+      "ro": "Capitala provinciei Mashonaland West, Chinhoyi este faimos pentru sistemul său spectaculos de peșteri calcaroase.",
+      "en": "Chinhoyi is the administrative capital of Mashonaland West and is world-renowned for the stunning Chinhoyi Caves. The town is a busy agricultural center located on the main highway leading towards the Zambian border."
     },
     facts: {
-      "de": ["Nahe Chinhoyi-Höhlen", "Verwaltungszentrum", "Agrarregion", "Stadt im Nordwesten"],
-      "hu": [
-      "Chinhoyi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Chinhoyi körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Chinhoyi contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Chinhoyi se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Gateway to Chinhoyi Caves", "Provincial capital", "Agricultural hub", "Founded in 1906"]
+      "de": ["Hauptstadt von Mashonaland West", "Standort der Chinhoyi-Höhlen", "Wichtige Agrarregion", "An der Route nach Sambia"],
+      "hu": ["Híres a kobaltkék vizű Chinhoyi-barlangokról", "Mashonaland West tartományi székhelye", "A Zambia felé vezető főútvonal mentén fekszik", "Jelentős oktatási intézményeknek ad otthont"],
+      "ro": ["Găzduiește Peșterile Chinhoyi", "Lac subteran de un albastru cobalt", "Centru agricol și administrativ", "Situat pe ruta spre Zambia"],
+      "en": ["Founded in 1906 as Sinoia", "Known for the Sleeping Pool caves", "Capital of Mashonaland West", "Located on the A1 highway to Zambia", "Hub for maize and tobacco farming", "Home to Chinhoyi University of Technology"]
     }, image: "/poi-images/chinhoyi-cities-v2.webp",
     descriptionAdvanced: {
       de: "Chinhoyi ist das Verwaltungszentrum der Provinz Mashonaland West und liegt strategisch an einer der wichtigsten Verkehrsverbindungen in Richtung Sambia. Die Stadt ist weltbekannt für die Chinhoyi-Höhlen, ein faszinierendes Karstsystem mit einem tiefblauen Unterwassersee. Diese Naturattraktion zieht zahlreiche Touristen und Forscher an. Erdkunde K7 – geologische Phänomene und Tourismus.",
@@ -340,22 +286,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.7, -17.8833],
     name: { de: "Norton", hu: "Norton", ro: "Norton", en: "Norton" },
     description: {
-      "de": "Norton ist eine aufstrebende Stadt westlich von Harare.",
-      "hu": "Norton egy jelentős város Zimbabwében.",
-      "ro": "Norton este un oraș important din Zimbabwe.",
-      "en": "A rapidly growing town serving as a residential and commercial center near Harare."
+      "de": "Norton ist eine aufstrebende Stadt westlich von Harare mit wachsender industrieller Bedeutung.",
+      "hu": "Harare nyugati vonzáskörzetében található ipari város, amely a Manyame-tó közelében terül el.",
+      "ro": "Norton este un oraș industrial și rezidențial aflat în plină dezvoltare, situat la vest de capitala Harare.",
+      "en": "Norton is a thriving industrial and residential town located just west of Harare along the main road to Bulawayo. It has grown rapidly as a satellite city, offering industrial services and housing for the expanding metropolitan population."
     },
     facts: {
-      "de": ["Westlich von Harare", "Wachsende Wohnstadt", "Industrielle Bedeutung", "Gute Verkehrsanbindung"],
-      "hu": [
-      "Norton hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Norton körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Norton contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Norton se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Near Harare", "Expanding industry", "Transit location", "Growing population"]
+      "de": ["Vorstadt von Harare", "Wachsende Industriestadt", "Nahe dem Lake Manyame", "Wichtiges Pendlerzentrum"],
+      "hu": ["Fontos halászati és rekreációs központ", "Jelentős papír- és műanyagipari gyárak helyszíne", "Gyorsan fejlődő lakó- és kereskedelmi övezet", "Hararétól mindössze 40 km-re fekszik"],
+      "ro": ["Aproape de Lacul Manyame", "Dezvoltare industrială accelerată", "Centru de agrement și pescuit", "Hub pentru navetiștii spre Harare"],
+      "en": ["Located 40 km west of Harare", "Expanding industrial center", "Situated near Lake Manyame", "Major residential commuter hub", "Known for paper and plastic industry", "Growing population and infrastructure"]
     }, image: "/poi-images/norton-cities-v2.webp",
     descriptionAdvanced: {
       de: "Norton ist eine aufstrebende Stadt westlich von Harare, die sich durch ihre industrielle Vielfalt und als Wohnstandort für Pendler etabliert hat. Die Nähe zur Hauptstadt ermöglicht eine enge wirtschaftliche Verflechtung, während die Stadt selbst durch eine wachsende lokale Produktion geprägt ist. Die Umgebung ist zudem ein bedeutendes landwirtschaftliches Anbaugebiet. Erdkunde K7 – industrielle Randgebiete und urbane Verflechtung.",
@@ -377,22 +317,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.5519, -18.1853],
     name: { de: "Marondera", hu: "Marondera", ro: "Marondera", en: "Marondera" },
     description: {
-      "de": "Marondera ist ein landwirtschaftliches Zentrum im östlichen Hochland.",
-      "hu": "Marondera egy jelentős város Zimbabwében.",
-      "ro": "Marondera este un oraș important din Zimbabwe.",
-      "en": "An agricultural trade center located in a productive farming district in Mashonaland East."
+      "de": "Marondera ist ein bedeutendes landwirtschaftliches Zentrum im fruchtbaren Hochland Simbabwes.",
+      "hu": "Magaslati mezőgazdasági város, amely a dohánytermesztés és az oktatás egyik központja.",
+      "ro": "Situat în zonele înalte și fertile, Marondera este un centru agricol și educațional vital în Mashonaland East.",
+      "en": "Marondera is the capital of Mashonaland East and one of Zimbabwe's highest-altitude cities, offering a temperate climate. It is a premier center for agriculture, particularly known for its tobacco, timber, and high-quality educational institutions."
     },
     facts: {
-      "de": ["Agrarzentrum", "Hochlandlage", "Provinzhauptstadt", "Wichtiges Handelszentrum"],
-      "hu": [
-      "Marondera hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Marondera körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Marondera contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Marondera se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Agricultural center", "Provincial capital", "Timber and tobacco", "Founded in 1890"]
+      "de": ["Hauptstadt von Mashonaland East", "Höchstgelegene Stadt des Landes", "Zentrum für Tabak und Wein", "Wichtiger Bildungsstandort"],
+      "hu": ["Zimbabwe legmagasabban fekvő városa", "Mashonaland East tartomány közigazgatási központja", "Híres minőségi középiskoláiról", "A régió legfontosabb bor- és dohánytermelője"],
+      "ro": ["Cel mai înalt oraș din Zimbabwe", "Centru pentru producția de tutun", "Regiune viticolă importantă", "Găzduiește numeroase școli de elită"],
+      "en": ["Highest town in Zimbabwe", "Capital of Mashonaland East", "Founded in 1890 as Marandellas", "Major center for tobacco and grapes", "Home to several elite boarding schools", "Located on the main road to Mutare"]
     }, image: "/poi-images/marondera-cities-v2.webp"},
   {
     id: "ruwa-cities-v2",
@@ -401,22 +335,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.2447, -17.8897],
     name: { de: "Ruwa", hu: "Ruwa", ro: "Ruwa", en: "Ruwa" },
     description: {
-      "de": "Ruwa ist eine schnell wachsende Vorstadt von Harare.",
-      "hu": "Ruwa egy jelentős város Zimbabwében.",
-      "ro": "Ruwa este un oraș important din Zimbabwe.",
-      "en": "A thriving commuter town on the eastern outskirts of Harare."
+      "de": "Ruwa ist eine dynamisch wachsende Stadt am östlichen Rand der Metropolregion Harare.",
+      "hu": "Harare keleti szélén elhelyezkedő, dinamikusan növekvő település, amely ipari övezeteiről ismert.",
+      "ro": "Ruwa este o municipalitate dinamică aflată la periferia estică a Harare, cunoscută pentru creșterea sa rapidă.",
+      "en": "Ruwa is a dynamic and fast-growing town located on the eastern edge of Harare. Once a small rural outpost, it has expanded into a major residential and industrial hub that supports the capital's eastern growth corridor."
     },
     facts: {
-      "de": ["Vorort von Harare", "Starkes Bevölkerungswachstum", "Siedlungsgebiet", "Gute infrastrukturelle Lage"],
-      "hu": [
-      "Ruwa hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Ruwa körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Ruwa contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Ruwa se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Harare satellite", "Residential growth", "Commercial expansion", "Infrastructure hub"]
+      "de": ["Schnell wachsender Vorort", "Industrielle Entwicklung", "Beliebtes Wohngebiet", "Östlich von Harare gelegen"],
+      "hu": ["Az 1980-as évek után indult gyors fejlődésnek", "Népszerű lakóhely a fővárosi ingázók számára", "Számos kis- és középvállalkozás telephelye", "Sajátos, modern városi jellege van"],
+      "ro": ["Oraș satelit al capitalei", "Expansiune industrială și comercială", "Comunitate rezidențială modernă", "Dezvoltare infrastructură recentă"],
+      "en": ["Located 22 km east of Harare", "Rapid growth since the 1980s", "Hub for small and medium industries", "Major commuter residential area", "Part of Mashonaland East Province", "Modern urban infrastructure"]
     }, image: "/poi-images/ruwa-cities-v2.webp"},
   {
     id: "chegutu-cities-v2",
@@ -425,22 +353,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.1492, -18.1303],
     name: { de: "Chegutu", hu: "Chegutu", ro: "Chegutu", en: "Chegutu" },
     description: {
-      "de": "Chegutu ist ein kleines städtisches Zentrum in einer produktiven landwirtschaftlichen Region.",
-      "hu": "Chegutu egy jelentős város Zimbabwében.",
-      "ro": "Chegutu este un oraș important din Zimbabwe.",
-      "en": "A town established as a gold mining camp that evolved into an agricultural center."
+      "de": "Chegutu ist ein Handelszentrum in einer produktiven Agrarregion in Mashonaland West.",
+      "hu": "Egykori bányásztelepülésből fejlődött mezőgazdasági várossá, amely a gyapottermesztés egyik pillére.",
+      "ro": "Chegutu este un important nod agricol situat în câmpiile fertile din Mashonaland West.",
+      "en": "Chegutu is a significant agricultural and trading center in the Mashonaland West Province. It was established near gold deposits but evolved into a vital hub for cotton, maize, and livestock production in the fertile Midlands corridor."
     },
     facts: {
-      "de": ["Agrarregion", "Kleinere Stadt", "Handelsort", "Zentral gelegen"],
-      "hu": [
-      "Chegutu hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Chegutu körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Chegutu contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Chegutu se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Gold mining origins", "Agriculture-focused", "Midlands corridor", "Historic settlement"]
+      "de": ["Landwirtschaftlicher Knotenpunkt", "Ehemals als Hartley bekannt", "Zentrum für Baumwollanbau", "An der Hauptstraße nach Bulawayo"],
+      "hu": ["Eredeti neve Hartley volt", "Jelentős gabonatároló kapacitással bír", "A Bulawayo felé vezető főút mentén fekszik", "Pamutfeldolgozó üzemei meghatározóak"],
+      "ro": ["Fost oraș minier (Hartley)", "Centru de depozitare a cerealelor", "Industrie textilă locală", "Situat pe coridorul rutier principal"],
+      "en": ["Formerly known as Hartley", "Located 100 km west of Harare", "Center for large-scale grain storage", "Major cotton and textile hub", "Gold mining history and legacy", "Situated on the main Bulawayo highway"]
     }, image: "/poi-images/chegutu-cities-v2.webp"},
   {
     id: "zvishavane-cities-v2",
@@ -449,22 +371,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.0665, -20.3267],
     name: { de: "Zvishavane", hu: "Zvishavane", ro: "Zvishavane", en: "Zvishavane" },
     description: {
-      "de": "Zvishavane ist eine Stadt, die durch Bergbauaktivitäten bekannt wurde.",
-      "hu": "Zvishavane egy jelentős város Zimbabwében.",
-      "ro": "Zvishavane este un oraș important din Zimbabwe.",
-      "en": "A mining town in the Midlands, historically known for its asbestos production."
+      "de": "Zvishavane ist eine bekannte Bergbaustadt im Süden der Provinz Midlands.",
+      "hu": "Bányászváros a Midlands tartományban, amely évtizedekig az azbesztbányászat központja volt.",
+      "ro": "Zvishavane este un oraș minier vibrant din Midlands, recunoscut pentru rezervele sale de azbest și platină.",
+      "en": "Zvishavane is a vibrant mining town in the Midlands Province, historically famous for its world-class asbestos deposits. Today, it has diversified into a major center for platinum and gold mining, supporting a growing urban population."
     },
     facts: {
-      "de": ["Bergbaugeschichte", "Asbestproduktion", "Zentrum Midlands", "Wachsende Gemeinde"],
-      "hu": [
-      "Zvishavane hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Zvishavane körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Zvishavane contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Zvishavane se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Asbestos mining legacy", "Midlands location", "Education hub", "Mining center"]
+      "de": ["Zentrum des Asbestbergbaus", "Bedeutende Platinvorkommen", "Wichtiger Eisenbahnknoten", "Wachsende Universitätstadt"],
+      "hu": ["Ma már a platina- és aranybányászat is jelentős", "Vasúti összeköttetése van Maputo kikötőjével", "Itt található a Midlands Állami Egyetem egyik kampusza", "Dinamikusan bővülő kereskedelmi szektorral bír"],
+      "ro": ["Centru minier multimineral", "Nod feroviar spre Mozambic", "Comunitate universitară în creștere", "Economie bazată pe resurse naturale"],
+      "en": ["Historically known for asbestos", "Major center for platinum mining", "Railway link to Maputo, Mozambique", "Home to a campus of MSU", "Located in the southern Midlands", "Vibrant commercial and mining hub"]
     }, image: "/poi-images/zvishavane-cities-v2.webp"},
   {
     id: "bindura-cities-v2",
@@ -473,22 +389,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.3306, -17.3019],
     name: { de: "Bindura", hu: "Bindura", ro: "Bindura", en: "Bindura" },
     description: {
-      "de": "Bindura ist die Hauptstadt der Provinz Mashonaland Central.",
-      "hu": "Bindura egy jelentős város Zimbabwében.",
-      "ro": "Bindura este un oraș important din Zimbabwe.",
-      "en": "The administrative center of Mashonaland Central, known for its gold and nickel mines."
+      "de": "Bindura ist das administrative Zentrum von Mashonaland Central und bekannt für seinen Bergbau.",
+      "hu": "Mashonaland Central tartomány székhelye, amely nikkel- és aranybányászatáról híres.",
+      "ro": "Bindura este capitala administrativă a Mashonaland Central, având o economie bazată pe minerit și agricultură.",
+      "en": "Bindura is the administrative capital of Mashonaland Central and a major mining hub located in the fertile Mazowe Valley. The town is particularly noted for its significant nickel and gold mines, as well as its agricultural productivity."
     },
     facts: {
-      "de": ["Hauptstadt Mashonaland Central", "Bergbauzentrum", "Handelsort", "Regionale Verwaltung"],
-      "hu": [
-      "Bindura hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Bindura körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Bindura contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Bindura se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Provincial capital", "Mining hub", "Founded in 1901", "Agricultural region"]
+      "de": ["Hauptstadt von Mashonaland Central", "Nickel- und Goldbergbau", "Agrarwirtschaftliches Zentrum", "Sitz einer technischen Universität"],
+      "hu": ["A Mazowe-völgy szélén helyezkedik el", "Itt működik a Bindura Természettudományi Egyetem", "Jelentős mezőgazdasági háttérországgal bír", "A 20. század elején indult fejlődésnek"],
+      "ro": ["Centru de extracție a nichelului", "Găzduiește o universitate tehnică", "Situat în Valea Mazowe", "Importanță administrativă regională"],
+      "en": ["Capital of Mashonaland Central", "Major center for nickel mining", "Home to Bindura University of Science", "Located in the productive Mazowe Valley", "Founded in 1901 as a mining camp", "Key center for tobacco and maize"]
     },
   },
   {
@@ -498,22 +408,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.9875, -22.2167],
     name: { de: "Beitbridge", hu: "Beitbridge", ro: "Beitbridge", en: "Beitbridge" },
     description: {
-      "de": "Beitbridge ist der wichtigste Grenzort zwischen Simbabwe und Südafrika.",
-      "hu": "Beitbridge egy jelentős város Zimbabwében.",
-      "ro": "Beitbridge este un oraș important din Zimbabwe.",
-      "en": "A vital border town connecting Zimbabwe to South Africa via the Limpopo River bridge."
+      "de": "Beitbridge ist der wichtigste Grenzort zwischen Simbabwe und Südafrika am Limpopo-Fluss.",
+      "hu": "Zimbabwe legfontosabb határvárosa a Limpopo-folyónál, a Dél-afrikai Köztársaság kapuja.",
+      "ro": "Beitbridge este cel mai aglomerat punct de trecere a frontierei din Zimbabwe, legând țara de Africa de Sud.",
+      "en": "Beitbridge is Zimbabwe's most critical border town, serving as the primary gateway to South Africa across the Limpopo River. It is one of the busiest inland border crossings in Africa, facilitating a massive volume of regional trade and transit."
     },
     facts: {
-      "de": ["Grenzstadt", "An südafrikanischer Grenze", "Wichtigster Transitpunkt", "Hohes Verkehrsaufkommen"],
-      "hu": [
-      "Beitbridge hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Beitbridge körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Beitbridge contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Beitbridge se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Border city", "Limpopo River", "Major trade route", "Strategic location"]
+      "de": ["Wichtigster Transitpunkt", "Grenze zu Südafrika", "Hohes Handelsaufkommen", "Brücke über den Limpopo"],
+      "hu": ["Földrészünk egyik legforgalmasabb határátkelője", "A Limpopo-folyón átívelő híd köti össze Dél-Afrikával", "Strategiai jelentőségű tranzitszállító pont", "Különleges, forró és száraz éghajlat jellemzi"],
+      "ro": ["Situat pe râul Limpopo", "Nod comercial strategic", "Climat arid și fierbinte", "Portal logistic pentru Africa Australă"],
+      "en": ["Southernmost town in Zimbabwe", "Located on the Limpopo River", "Busiest border post in the region", "Key link on the Cape-to-Cairo route", "Hot and arid semi-desert climate", "Strategic hub for regional logistics"]
     }, image: "/poi-images/beitbridge-cities-v2.webp"},
   {
     id: "redcliff-cities-v2",
@@ -522,22 +426,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.7833, -19.0333],
     name: { de: "Redcliff", hu: "Redcliff", ro: "Redcliff", en: "Redcliff" },
     description: {
-      "de": "Redcliff ist eng mit der Stahlindustrie verbunden.",
-      "hu": "Redcliff egy jelentős város Zimbabwében.",
-      "ro": "Redcliff este un oraș important din Zimbabwe.",
-      "en": "A specialized town known for its heavy steel and iron industry."
+      "de": "Redcliff ist eine spezialisierte Industriestadt, die historisch eng mit der Stahlproduktion verbunden ist.",
+      "hu": "Ipari város Kwekwe közelében, amely az ország acélgyártásának központjaként épült ki.",
+      "ro": "Redcliff este un oraș industrial situat lângă Kwekwe, cunoscut istoric pentru producția masivă de oțel.",
+      "en": "Redcliff is an industrial town located near Kwekwe that was specifically built to support Zimbabwe's iron and steel industry. Its identity is deeply tied to the ZISCO steelworks and the rich iron ore deposits found in the surrounding red-earthed hills."
     },
     facts: {
-      "de": ["Stahlindustriestadt", "Nahe Kwekwe", "Spezialisierter Standort", "Industrielle Geschichte"],
-      "hu": [
-      "Redcliff hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Redcliff körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Redcliff contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Redcliff se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Steel production site", "Iron industry", "Industrial town", "Near Kwekwe"]
+      "de": ["Zentrum der Stahlindustrie", "Nahe der Stadt Kwekwe", "Industrielle Architektur", "Bedeutende Erzvorkommen"],
+      "hu": ["A név a környéken található vörös vasércre utal", "A zimbabwei vas- és acélipar fellegvára", "Közvetlen vasúti kapcsolata van a bányákkal", "Városi szerkezetét az ipari igények határozták meg"],
+      "ro": ["Centrul industriei siderurgice", "Bogat în zăcăminte de fier", "Oraș creat pentru muncitorii din oțel", "Numele provine de la solul roșu"],
+      "en": ["Center of the iron and steel industry", "Located in the Midlands Province", "Named after the local red iron ore", "Established for industrial workers", "Adjacent to the city of Kwekwe", "Major site for heavy metallurgy"]
     }, image: "/poi-images/redcliff-cities-v2.webp"},
   {
     id: "victoria-falls-cities-v2",
@@ -546,22 +444,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [25.8333, -17.9333],
     name: { de: "Victoria Falls", hu: "Victoria Falls", ro: "Victoria Falls", en: "Victoria Falls" },
     description: {
-      "de": "Victoria Falls ist das Tor zu den gleichnamigen Wasserfällen.",
-      "hu": "Victoria Falls egy jelentős város Zimbabwében.",
-      "ro": "Victoria Falls este un oraș important din Zimbabwe.",
-      "en": "A major tourism hub located next to the world-famous waterfall on the Zambezi River."
+      "de": "Victoria Falls ist ein weltweit bekanntes Tourismuszentrum an den spektakulären Viktoriafällen.",
+      "hu": "Világhírű turisztikai központ a Zambézi-folyó partján, közvetlenül a Viktória-vízesés mellett.",
+      "ro": "Situat lângă una dintre cele mai mari cascade din lume, acest oraș este inima turismului din Zimbabwe.",
+      "en": "Victoria Falls is Zimbabwe's premier tourism destination, located on the Zambezi River next to the world-famous waterfall of the same name. It is a vibrant, international hub for adventure travel, wildlife safaris, and cross-border trade."
     },
     facts: {
-      "de": ["Zentrum am Wasserfall", "Großes Tourismuszentrum", "An sambischer Grenze", "Internationale Bedeutung"],
-      "hu": [
-      "Victoria Falls hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Victoria Falls körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Victoria Falls contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Victoria Falls se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Tourist hub", "Zambezi River", "World Heritage proximity", "Gateway to national park"]
+      "de": ["Tor zum Weltnaturerbe", "Abenteuer-Hauptstadt Afrikas", "Am Sambesi-Fluss gelegen", "Internationaler Flughafen"],
+      "hu": ["UNESCO Világörökségi helyszín közvetlen szomszédja", "Afrika kalandturisztikai fővárosának tekintik", "Saját nemzetközi repülőtérrel rendelkezik", "A turizmus a város elsődleges bevételi forrása"],
+      "ro": ["Lângă cascada Mosi-oa-Tunya", "Capitala aventurii din Africa", "Patrimoniu Mondial UNESCO", "Poartă către safariuri pe Zambezi"],
+      "en": ["Named after the iconic waterfall", "UNESCO World Heritage site nearby", "Known as the adventure capital", "On the border with Zambia", "Hosts a major international airport", "Gateway to several national parks"]
     }, image: "/poi-images/victoria-falls-cities-v2.webp"},
   {
     id: "hwange-cities-v2",
@@ -570,22 +462,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [26.5, -18.3667],
     name: { de: "Hwange", hu: "Hwange", ro: "Hwange", en: "Hwange" },
     description: {
-      "de": "Hwange ist für seine ausgedehnten Kohleminen und den Nationalpark bekannt.",
-      "hu": "Hwange egy jelentős város Zimbabwében.",
-      "ro": "Hwange este un oraș important din Zimbabwe.",
-      "en": "A town built around large-scale coal mining and adjacent to the largest national park in Zimbabwe."
+      "de": "Hwange ist das Herz des simbabwischen Kohlebergbaus und liegt nahe dem größten Nationalpark.",
+      "hu": "Zimbabwe szénbányászati központja, amely az ország legnagyobb hőerőművének ad otthont.",
+      "ro": "Hwange este centrul energetic al națiunii, găzduind mine de cărbune vaste și o centrală termoelectrică majoră.",
+      "en": "Hwange is the center of Zimbabwe's coal mining industry and serves as the nation's primary energy hub. Located in the northwest, it is also the gateway to the country's largest and most famous wildlife reserve, Hwange National Park."
     },
     facts: {
-      "de": ["Kohlebergbauzentrum", "Nahe Hwange-Nationalpark", "Industrielle Bedeutung", "Stadt im Westen"],
-      "hu": [
-      "Hwange hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Hwange körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Hwange contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Hwange se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Coal mining center", "Near Hwange Nat. Park", "Industrial hub", "Gateway to wildlife"]
+      "de": ["Zentrum der Kohleförderung", "Wichtiges Kraftwerk", "Nahe Hwange-Nationalpark", "Industrielle Prägung"],
+      "hu": ["Itt található az ország legnagyobb kőszénkészlete", "A közeli nemzeti park Afrika egyik legnagyobbja", "Fontos energetikai csomópont az ország számára", "A bányászat határozza meg a város arculatát"],
+      "ro": ["Cel mai mare bazin carbonifer", "Lângă Parcul Național Hwange", "Industrie grea dominantă", "Hub pentru observarea faunei sălbatice"],
+      "en": ["Largest coal mining district", "Home to the Hwange Power Station", "Gateway to Hwange National Park", "Key railway and industrial center", "Located in Matabeleland North", "Major employer in the energy sector"]
     }, image: "/poi-images/hwange-cities-v2.webp"},
   {
     id: "rusape-cities-v2",
@@ -594,22 +480,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.1284, -18.5278],
     name: { de: "Rusape", hu: "Rusape", ro: "Rusape", en: "Rusape" },
     description: {
-      "de": "Rusape ist ein wichtiger Zwischenstopp zwischen Harare und Mutare.",
-      "hu": "Rusape egy jelentős város Zimbabwében.",
-      "ro": "Rusape este un oraș important din Zimbabwe.",
-      "en": "An agricultural service center in the Manicaland province."
+      "de": "Rusape ist ein wichtiger Handels- und Verkehrsknotenpunkt in der Provinz Manicaland.",
+      "hu": "Mezőgazdasági kereskedőváros a Manicaland tartományban, a Harare-Mutare főút mentén.",
+      "ro": "Rusape este un centru comercial și de servicii esențial pentru fermierii din provincia Manicaland.",
+      "en": "Rusape is a key agricultural and commercial town in the Manicaland Province, located on the main road and rail line between Harare and Mutare. It serves as a vital service center for a productive district specializing in tobacco and maize."
     },
     facts: {
-      "de": ["Wichtiger Handelsort", "Zwischen Harare/Mutare", "Agrarregion", "Gute Verkehrslage"],
-      "hu": [
-      "Rusape hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Rusape körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Rusape contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Rusape se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Manicaland district", "Farm service hub", "Mid-way location", "Agricultural trade"]
+      "de": ["Handelsort für Agrarprodukte", "An der Straße Harare-Mutare", "Regionales Verwaltungszentrum", "Historische Siedlung"],
+      "hu": ["Fontos állomása a keletre tartó vasútvonalnak", "A környező farmok elsődleges szolgáltató központja", "Jelentős dohány- és kukoricatermelő körzet", "Történelmileg fontos pihenőhely az utazók számára"],
+      "ro": ["Nod de transport în est", "Centru de colectare a tutunului", "Situat pe ruta spre Mutare", "Localitate cu istorie agricolă"],
+      "en": ["Administrative center of Makoni district", "Midway point between Harare and Mutare", "Major center for tobacco farming", "Strategic railway and transit stop", "Founded in 1894 as a trade post", "Important regional market town"]
     }, image: "/poi-images/rusape-cities-v2.webp"},
   {
     id: "chiredzi-cities-v2",
@@ -618,22 +498,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.6667, -21.05],
     name: { de: "Chiredzi", hu: "Chiredzi", ro: "Chiredzi", en: "Chiredzi" },
     description: {
-      "de": "Chiredzi ist das Zentrum des Zuckerrohranbaus in der Region Lowveld.",
-      "hu": "Chiredzi egy jelentős város Zimbabwében.",
-      "ro": "Chiredzi este un oraș important din Zimbabwe.",
-      "en": "A major center for the sugar cane industry in the southeastern lowveld."
+      "de": "Chiredzi ist das Zentrum der Zuckerrohrindustrie im südöstlichen Lowveld Simbabwes.",
+      "hu": "A délkeleti Lowveld régió központja, amely hatalmas cukornádültetvényeiről híres.",
+      "ro": "Chiredzi este principalul oraș din sud-estul Lowveld, dominat de plantații imense de trestie de zahăr.",
+      "en": "Chiredzi is the main town in the southeastern Lowveld and is synonymous with Zimbabwe's massive sugar cane industry. Its economy is built on vast irrigated estates that have transformed the arid landscape into a productive agricultural powerhouse."
     },
     facts: {
-      "de": ["Zuckerrohrzentrum", "Lage im Lowveld", "Agrarwirtschaft", "Regionales Zentrum"],
-      "hu": [
-      "Chiredzi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Chiredzi körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Chiredzi contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Chiredzi se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Sugar cane industry", "Lowveld hub", "Irrigation-based economy", "Agricultural zone"]
+      "de": ["Hauptort des Lowvelds", "Zentrum für Zuckeranbau", "Nahe dem Gonarezhou-Nationalpark", "Heißes, trockenes Klima"],
+      "hu": ["Gazdasága az öntözéses cukornádtermesztésre épül", "Itt található az ország egyik legnagyobb cukorgyára", "Közel fekszik a Gonarezhou Nemzeti Parkhoz", "Trópusi jellegű, forró klíma jellemzi"],
+      "ro": ["Inima producției de zahăr", "Climat tropical umed", "Aproape de Parcul Gonarezhou", "Economie bazată pe irigații"],
+      "en": ["Heart of the sugar cane industry", "Located in the southeastern Lowveld", "Known for its hot, tropical climate", "Proximity to Gonarezhou National Park", "Economy based on large-scale irrigation", "Home to the Hippo Valley estates"]
     }, image: "/poi-images/chiredzi-cities-v2.webp"},
   {
     id: "kariba-cities-v2",
@@ -642,22 +516,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [28.8, -16.5167],
     name: { de: "Kariba", hu: "Kariba", ro: "Kariba", en: "Kariba" },
     description: {
-      "de": "Kariba ist die Heimat des großen Stausees und für Fischerei bekannt.",
-      "hu": "Kariba egy jelentős város Zimbabwében.",
-      "ro": "Kariba este un oraș important din Zimbabwe.",
-      "en": "A resort and hydroelectric town situated on the shores of Lake Kariba."
+      "de": "Kariba ist eine Stadt am Ufer des riesigen Kariba-Stausees, bekannt für Wasserkraft und Tourismus.",
+      "hu": "A Kariba-tó partján fekvő üdülőváros, amely a hatalmas vízerőmű gátjának építésekor jött létre.",
+      "ro": "Kariba este un oraș situat pe malul unuia dintre cele mai mari lacuri artificiale din lume, fiind un hub pentru energie.",
+      "en": "Kariba is a scenic town built on the shores of Lake Kariba, famous for its massive hydroelectric dam and its role as a major tourist resort. It is a unique location where wildlife often wanders freely through the town's hilly residential areas."
     },
     facts: {
-      "de": ["Am Kariba-Stausee", "Tourismus-Hotspot", "Wichtig für Fischerei", "Wasserkraft-Bedeutung"],
-      "hu": [
-      "Kariba hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Kariba körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Kariba contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Kariba se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Kariba Dam site", "Hydroelectric hub", "Tourism location", "Zambezi river area"]
+      "de": ["Standort der Kariba-Talsperre", "Wichtig für Energieerzeugung", "Zentrum für Fischerei", "Beliebtes Touristenziel"],
+      "hu": ["A Kariba-gát látja el árammal Zimbabwe nagy részét", "Népszerű horgász- és vízi turisztikai célpont", "Gyakran láthatók vadállatok a város utcáin is", "A Zambézi-folyó völgyében, a határ mentén fekszik"],
+      "ro": ["Locația barajului Kariba", "Sursă majoră de hidroenergie", "Destinație populară pentru pescuit", "Faună sălbatică prezentă în oraș"],
+      "en": ["Site of the Kariba Dam wall", "Major source of hydroelectric power", "Resort town on Lake Kariba", "Important commercial fishing hub", "Located on the border with Zambia", "Known for its tiger fishing tournaments"]
     }, image: "/poi-images/kariba-cities-v2.webp"},
   {
     id: "karoi-cities-v2",
@@ -666,22 +534,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.6925, -16.8099],
     name: { de: "Karoi", hu: "Karoi", ro: "Karoi", en: "Karoi" },
     description: {
-      "de": "Karoi ist ein landwirtschaftlich geprägter Handelsort im Nordwesten.",
-      "hu": "Karoi egy jelentős város Zimbabwében.",
-      "ro": "Karoi este un oraș important din Zimbabwe.",
-      "en": "A productive town in the Mashonaland West province known for its tobacco farming."
+      "de": "Karoi ist ein bedeutendes landwirtschaftliches Handelszentrum im Nordwesten des Landes.",
+      "hu": "Mezőgazdasági központ Mashonaland West tartományban, az ország egyik legjobb dohánytermő vidéke.",
+      "ro": "Karoi este un oraș agricol prosper din Mashonaland West, renumit pentru fermele sale productive de tutun.",
+      "en": "Karoi is a prosperous agricultural town in the Mashonaland West Province, renowned as one of Zimbabwe's most productive tobacco-growing districts. It serves as a major commercial hub for the surrounding commercial and communal farming areas."
     },
     facts: {
-      "de": ["Agrarhandelsort", "Zentral im Nordwesten", "Handelszentrum", "Günstige Lage"],
-      "hu": [
-      "Karoi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Karoi körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Karoi contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Karoi se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Tobacco farming hub", "Agricultural area", "Transit center", "Regional trade"]
+      "de": ["Zentrum für Tabakanbau", "Wichtiger Versorgungsort", "An der Fernstraße nach Kariba", "Agrarisch geprägte Gemeinde"],
+      "hu": ["A Kariba felé vezető főútvonal mentén fekszik", "Gazdaságának motorja a dohány- és gabonatermesztés", "Fontos regionális kereskedelmi és piaci helyszín", "A város neve a helyi folyótól származik"],
+      "ro": ["Centru agricol regional", "Renumit pentru calitatea tutunului", "Situat pe drumul spre Lacul Kariba", "Nod comercial pentru fermieri"],
+      "en": ["Premier tobacco farming center", "Located on the road to Lake Kariba", "Major agricultural service hub", "Part of Mashonaland West Province", "Derived from the local Karoi River", "Center for regional trade and grain"]
     },
   },
   {
@@ -691,22 +553,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.6236, -20.1883],
     name: { de: "Chipinge", hu: "Chipinge", ro: "Chipinge", en: "Chipinge" },
     description: {
-      "de": "Chipinge ist bekannt für Tee- und Kaffeeplantagen.",
-      "hu": "Chipinge egy jelentős város Zimbabwében.",
-      "ro": "Chipinge este un oraș important din Zimbabwe.",
-      "en": "A town in the eastern highlands known for tea and coffee plantations."
+      "de": "Chipinge liegt im fruchtbaren Südosten and ist berühmt für seine Tee- und Kaffeeplantagen.",
+      "hu": "A Keleti-felföld délkeleti részén fekvő város, amely tea- és kávéültetvényeiről nevezetes.",
+      "ro": "Situat în zonele muntoase din sud-est, Chipinge este faimos pentru peisajele sale verzi și plantațiile de cafea.",
+      "en": "Chipinge is a high-rainfall town in the southeastern Highlands, famous for its verdant landscapes and sprawling tea and coffee plantations. Its unique climate and fertile soils also support significant production of macadamia nuts and avocados."
     },
     facts: {
-      "de": ["Tee- und Kaffeeregion", "Bergiges Gebiet", "Agrarzentrum", "Grüne Umgebung"],
-      "hu": [
-      "Chipinge hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Chipinge körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Chipinge contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Chipinge se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Tea and coffee region", "Eastern Highlands", "Agricultural center", "High rainfall area"]
+      "de": ["Tee- und Kaffeeregion", "Hohe Niederschlagsraten", "Bergige Landschaft", "Agrarwirtschaftlicher Fokus"],
+      "hu": ["Itt a legmagasabb az évi csapadékmennyiség", "Hűvösebb, hegyvidéki klíma jellemzi", "Jelentős makadámdió- és avokádótermelés is folyik", "Közel található a Chirinda-erdőrezervátum"],
+      "ro": ["Producție de ceai și cafea", "Regiunea cu cele mai multe ploi", "Plantații de nuci macadamia", "Aproape de pădurea Chirinda"],
+      "en": ["Famous for tea and coffee estates", "Located in the Eastern Highlands", "High annual rainfall area", "Major producer of macadamia nuts", "Proximity to Chirinda Forest Reserve", "Cool and temperate mountain climate"]
     },
   },
   {
@@ -716,22 +572,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [28.9349, -18.2048],
     name: { de: "Gokwe", hu: "Gokwe", ro: "Gokwe", en: "Gokwe" },
     description: {
-      "de": "Gokwe ist ein Handelszentrum in der Provinz Midlands.",
-      "hu": "Gokwe egy jelentős város Zimbabwében.",
-      "ro": "Gokwe este un oraș important din Zimbabwe.",
-      "en": "A large rural service center in the Midlands province, key to local agriculture."
+      "de": "Gokwe ist ein großes ländliches Handelszentrum, das für seinen Baumwollanbau bekannt ist.",
+      "hu": "Hatalmas vidéki központ a Midlands tartományban, a zimbabwei gyapottermesztés szíve.",
+      "ro": "Gokwe este un centru rural întins în provincia Midlands, având un rol crucial în producția de bumbac.",
+      "en": "Gokwe is a large and busy rural center in the Midlands Province, serving as the primary hub for Zimbabwe's small-scale cotton farmers. It is a major administrative and trading outpost for one of the country's most expansive rural districts."
     },
     facts: {
-      "de": ["Zentral Midlands", "Handelsort", "Regionale Anbindung", "Agrarregion"],
-      "hu": [
-      "Gokwe hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Gokwe körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Gokwe contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Gokwe se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Agricultural hub", "Cotton production", "Midlands province", "Regional market"]
+      "de": ["Zentrum des Baumwollanbaus", "Großes ländliches Einzugsgebiet", "Wichtiger Marktplatz", "In der Midlands-Provinz"],
+      "hu": ["Zimbabwe egyik legnagyobb vidéki piaci települése", "A kisparaszti gyapottermelés elsődleges központja", "Fontos közigazgatási és oktatási szereppel bír", "A terület korábban vadonban gazdag régió volt"],
+      "ro": ["Baza bumbacului din Zimbabwe", "Centru administrativ de district", "Piață agricolă rurală majoră", "Comunitate vastă de mici fermieri"],
+      "en": ["Zimbabwe's cotton capital", "Large rural administrative center", "Located in the Midlands Province", "Major regional market for livestock", "Expanding urban and commercial center", "Hub for small-scale agriculture"]
     }, image: "/poi-images/gokwe-cities-v2.webp"},
   {
     id: "shurugwi-cities-v2",
@@ -740,22 +590,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.0058, -19.6702],
     name: { de: "Shurugwi", hu: "Shurugwi", ro: "Shurugwi", en: "Shurugwi" },
     description: {
-      "de": "Shurugwi ist eine Stadt mit Bergbautradition in bergiger Landschaft.",
-      "hu": "Shurugwi egy jelentős város Zimbabwében.",
-      "ro": "Shurugwi este un oraș important din Zimbabwe.",
-      "en": "A mining town set in a hilly region, famous for its chrome and gold deposits."
+      "de": "Shurugwi ist eine malerisch in den Bergen gelegene Stadt mit einer langen Bergbautradition.",
+      "hu": "Hegyvidéki bányászváros, amely különösen gazdag króm- és aranylelőhelyeiről ismert.",
+      "ro": "Shurugwi este o așezare minieră pitorească situată pe creasta Great Dyke, cunoscută pentru extracția cromului.",
+      "en": "Shurugwi is a scenic mining town situated on the Great Dyke, known for its dramatic mountain passes and rich chrome and gold deposits. Founded in 1899, it remains a critical center for the extraction of minerals in the Midlands Province."
     },
     facts: {
-      "de": ["Bergbaugeschichte", "Bergige Region", "Provinz Midlands", "Historischer Ort"],
-      "hu": [
-      "Shurugwi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Shurugwi körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Shurugwi contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Shurugwi se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Mining hub", "Chrome production", "Hilly landscape", "Midlands town"]
+      "de": ["Chrom- und Goldbergbau", "Bergige Umgebung", "Historische Bergbaustadt", "Südlich von Gweru gelegen"],
+      "hu": ["1899-ben alapították bányászati célból", "Látványos hegyi szerpentinek veszik körül", "A zimbabwei krómbányászat egyik központja", "Gweru városától délre helyezkedik el"],
+      "ro": ["Zăcăminte bogate de crom și aur", "Relief muntos și pasuri spectaculoase", "Oraș fondat în 1899", "Situat la sud de orașul Gweru"],
+      "en": ["Major center for chrome mining", "Located on the Great Dyke ridge", "Hilly and scenic mountain scenery", "Founded in 1899 as Selukwe", "Located 30 km south of Gweru", "Rich history in gold production"]
     },
   },
   {
@@ -765,22 +609,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29, -20.9333],
     name: { de: "Gwanda", hu: "Gwanda", ro: "Gwanda", en: "Gwanda" },
     description: {
-      "de": "Gwanda ist die Hauptstadt der Provinz Matabeleland South.",
-      "hu": "Gwanda egy jelentős város Zimbabwében.",
-      "ro": "Gwanda este un oraș important din Zimbabwe.",
-      "en": "The capital of Matabeleland South, serving as a hub for livestock and mining."
+      "de": "Gwanda ist die Hauptstadt von Matabeleland South und ein Zentrum für Bergbau und Viehzucht.",
+      "hu": "Matabeleland South tartomány székhelye, amely az állattenyésztés és az aranybányászat központja.",
+      "ro": "Capitala provinciei Matabeleland South, Gwanda este un hub pentru creșterea vitelor și minerit de aur.",
+      "en": "Gwanda is the administrative capital of Matabeleland South and serves as a major hub for cattle ranching and gold mining. It is a key stop on the route to South Africa, supporting the commercial needs of a vast, semi-arid region."
     },
     facts: {
-      "de": ["Provinzhauptstadt", "Matabeleland South", "Handelsort", "Verwaltungszentrum"],
-      "hu": [
-      "Gwanda hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Gwanda körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Gwanda contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Gwanda se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Provincial capital", "Livestock farming", "Mining area", "Regional center"]
+      "de": ["Hauptstadt von Matabeleland South", "Zentrum für Goldgewinnung", "Wichtig für Rinderzucht", "Regionales Handelszentrum"],
+      "hu": ["A régió legfontosabb marhavásárainak helyszíne", "Számos kisebb aranybánya működik a környékén", "A Dél-Afrikába vezető vasútvonal mentén fekszik", "Száraz, félsivatagi éghajlat jellemzi"],
+      "ro": ["Centru administrativ provincial", "Piață majoră de vite", "Regiune bogată în mine de aur", "Climat semiarid specific sudului"],
+      "en": ["Capital of Matabeleland South", "Major center for cattle auctions", "Rich in gold mining activities", "Situated on the Bulawayo-Beitbridge road", "Known for its semi-arid climate", "Regional administrative and trade hub"]
     }, image: "/poi-images/gwanda-cities-v2.webp"},
   {
     id: "mashava-cities-v2",
@@ -789,22 +627,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.4667, -20.0333],
     name: { de: "Mashava", hu: "Mashava", ro: "Mashava", en: "Mashava" },
     description: {
-      "de": "Mashava ist ein kleiner Ort, historisch vom Asbestbergbau abhängig.",
-      "hu": "Mashava egy jelentős város Zimbabwében.",
-      "ro": "Mashava este un oraș important din Zimbabwe.",
-      "en": "A former mining settlement known primarily for its asbestos industry."
+      "de": "Mashava ist eine traditionelle Bergbausiedlung westlich von Masvingo.",
+      "hu": "Masvingo közelében fekvő bányásztelepülés, amely történelmileg azbesztbányáiról volt híres.",
+      "ro": "Mashava este o localitate minieră istorică situată la vest de Masvingo, legată de industria azbestului.",
+      "en": "Mashava is a historic mining settlement west of Masvingo, primarily known for its past as a major center for asbestos production. Today, it has found a new identity as an educational hub, hosting a campus of the Great Zimbabwe University."
     },
     facts: {
-      "de": ["Bergbaugeschichte", "Asbestquelle", "Provinz Masvingo", "Ruhige Umgebung"],
-      "hu": [
-      "Mashava hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Mashava körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Mashava contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Mashava se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Asbestos mining history", "Industrial history", "Midlands location", "Small town"]
+      "de": ["Ehemals Asbestbergbau", "Sitz eines Universitäts-Campus", "Kleiner Bergbauort", "Nahe der Stadt Masvingo"],
+      "hu": ["Ma a Nagy-Zimbabwe Egyetem egyik kampuszának ad otthont", "Jelentős ipari múlttal rendelkező kistelepülés", "A Bulawayo és Masvingo közötti úton fekszik", "Környékén gránitbányászat is folyik"],
+      "ro": ["Fost centru de extracție a azbestului", "Găzduiește un campus universitar", "Industrie bazată pe granit", "Așezare rural-industrială mică"],
+      "en": ["Historic asbestos mining center", "Located 40 km west of Masvingo", "Hosts a Great Zimbabwe University campus", "Center for local granite extraction", "Small but established industrial town", "Situated on the road to Bulawayo"]
     }, image: "/poi-images/mashava-cities-v2.webp"},
   {
     id: "mutoko-cities-v2",
@@ -813,22 +645,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.2269, -17.397],
     name: { de: "Mutoko", hu: "Mutoko", ro: "Mutoko", en: "Mutoko" },
     description: {
-      "de": "Mutoko ist ein Handelsort in einer produktiven Gegend.",
-      "hu": "Mutoko egy jelentős város Zimbabwében.",
-      "ro": "Mutoko este un oraș important din Zimbabwe.",
-      "en": "A significant rural center in the Mashonaland East province."
+      "de": "Mutoko ist ein wichtiger landwirtschaftlicher Versorgungsort im Nordosten Simbabwes.",
+      "hu": "Mezőgazdasági kereskedőváros az ország északkeleti részén, a zöldség- és gyümölcstermesztés központja.",
+      "ro": "Mutoko este un centru rural strategic în Mashonaland East, faimos pentru exportul de granit negru și legume.",
+      "en": "Mutoko is a significant agricultural trading town in the northeast, famously known as the 'vegetable garden' of Harare. It is also a global source of high-quality black granite, which is quarried extensively in the surrounding hills."
     },
     facts: {
-      "de": ["Handelsort", "Agrarregion", "Mashonaland East", "Regionale Bedeutung"],
-      "hu": [
-      "Mutoko hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Mutoko körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Mutoko contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Mutoko se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Agricultural center", "Granite mining area", "Market town", "Mashonaland East"]
+      "de": ["Zentrum für Obst und Gemüse", "Bekannt für schwarzen Granit", "Wichtiger Marktplatz", "In Mashonaland East"],
+      "hu": ["Híres a fekete gránit bányászatáról", "A Malawi felé vezető főútvonal mentén fekszik", "A környező közösségek legfontosabb piaca", "Fontos dohány- és paradicsomtermelő vidék"],
+      "ro": ["Sursă de granit negru de calitate", "Grădina de legume a Harare", "Situat pe drumul spre Malawi", "Cultură locală tradițională bogată"],
+      "en": ["Major source of black granite", "Leading producer of vegetables", "Located on the highway to Malawi", "Agricultural hub for small farmers", "Part of Mashonaland East Province", "Named after a famous local chief"]
     },
   },
   {
@@ -838,22 +664,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.1475, -17.89],
     name: { de: "Epworth", hu: "Epworth", ro: "Epworth", en: "Epworth" },
     description: {
-      "de": "Epworth ist ein Vorort von Harare mit Granitformationen.",
-      "hu": "Epworth egy jelentős város Zimbabwében.",
-      "ro": "Epworth este un oraș important din Zimbabwe.",
-      "en": "A high-density residential suburb of Harare known for its unique balancing rocks."
+      "de": "Epworth ist ein dicht besiedelter Vorort von Harare, bekannt für seine beeindruckenden Felsformationen.",
+      "hu": "Harare délkeleti határában fekvő sűrűn lakott település, amely különleges sziklaképződményeiről ismert.",
+      "ro": "O zonă rezidențială densă de lângă Harare, Epworth este renumită pentru formațiunile sale stâncoase unice.",
+      "en": "Epworth is a high-density residential area on the southeastern outskirts of Harare, famous for its iconic balancing rock formations. It has grown from a mission station into a massive urban community with a unique geological landscape."
     },
     facts: {
-      "de": ["Vorort von Harare", "Granitformationen", "Dichte Bebauung", "Wachsende Wohnstadt"],
-      "hu": [
-      "Epworth hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Epworth körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Epworth contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Epworth se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Harare suburb", "Balancing rocks", "Dense residential area", "Commuter hub"]
+      "de": ["Nahe der Hauptstadt Harare", "Bekannt für Balancing Rocks", "Dicht besiedeltes Wohngebiet", "Traditionelle Gemeinschaft"],
+      "hu": ["Itt láthatók a híres Epworth-i egyensúlyozó sziklák", "Az ország egyik legnagyobb önkormányzati területe", "Eredetileg metodista missziós birtokként indult", "Lakossága nagyobbrészt a fővárosban dolgozik"],
+      "ro": ["Celebrele stânci echilibrate", "Suburbie în creștere rapidă", "Origini ca stație de misiune", "Peisaj geologic distinctiv"],
+      "en": ["Famous for the Balancing Rocks", "Densely populated Harare suburb", "Origins as a Methodist mission station", "Unique geological rock formations", "Independent local board authority", "Rapidly growing commuter settlement"]
     }, image: "/poi-images/epworth-cities-v2.webp"},
   {
     id: "mvuma-cities-v2",
@@ -862,22 +682,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.5283, -19.2792],
     name: { de: "Mvuma", hu: "Mvuma", ro: "Mvuma", en: "Mvuma" },
     description: {
-      "de": "Mvuma ist eine kleine Siedlung an einem wichtigen Verkehrsknotenpunkt.",
-      "hu": "Mvuma egy jelentős város Zimbabwében.",
-      "ro": "Mvuma este un oraș important din Zimbabwe.",
-      "en": "A small town in the Midlands province primarily serving as an agricultural outpost."
+      "de": "Mvuma ist ein historischer Verkehrsknotenpunkt in den Midlands, strategisch günstig an der Hauptstraße gelegen.",
+      "hu": "Kereskedelmi csomópont a Midlands tartományban, a Masvingo és Harare közötti út mentén.",
+      "ro": "Mvuma este un nod de tranzit situat în inima țării, la intersecția unor drumuri naționale importante.",
+      "en": "Mvuma is a strategic transit town in the Midlands Province, located at the critical intersection of the roads connecting Harare, Bulawayo, and Masvingo. It serves as a key stopover for travelers and a service center for local farming."
     },
     facts: {
-      "de": ["Verkehrsknotenpunkt", "Kleine Stadt", "Provinz Midlands", "Zwischen Masvingo/Gweru"],
-      "hu": [
-      "Mvuma hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Mvuma körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Mvuma contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Mvuma se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Agricultural outpost", "Midlands region", "Transit point", "Local commerce"]
+      "de": ["Wichtiger Transitort", "Liegt in der Midlands-Provinz", "Zentrum für Viehhandel", "An der Route Harare-Masvingo"],
+      "hu": ["Strategiai fekvése miatt fontos pihenőhely", "A környék marhatenyésztésének központja", "Korábban fontos bányászati szerepe is volt", "A vasúti és közúti forgalom találkozási pontja"],
+      "ro": ["Centru de tranzit și logistică", "Punct de colectare a vitelor", "Oraș mic cu istorie minieră", "Localizat în provincia Midlands"],
+      "en": ["Strategic highway intersection", "Located in the Midlands Province", "Historic mining and cattle center", "Important transit stop for travelers", "Midway between Harare and Masvingo", "Center for regional agricultural trade"]
     },
   },
   {
@@ -887,22 +701,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.5667, -17.3167],
     name: { de: "Shamva", hu: "Shamva", ro: "Shamva", en: "Shamva" },
     description: {
-      "de": "Shamva ist eine Stadt, bekannt durch Goldbergbau.",
-      "hu": "Shamva egy jelentős város Zimbabwében.",
-      "ro": "Shamva este un oraș important din Zimbabwe.",
-      "en": "A town in Mashonaland Central known for its long history of gold mining."
+      "de": "Shamva ist eine bedeutende Bergbaustadt in Mashonaland Central mit einer langen Geschichte der Goldgewinnung.",
+      "hu": "Bányászváros Mashonaland Central tartományban, ahol az ország egyik legrégebbi aranybányája működik.",
+      "ro": "Shamva este un oraș cu o lungă tradiție minieră, situat în solul fertil din Mashonaland Central.",
+      "en": "Shamva is a long-standing mining town in Mashonaland Central, renowned for hosting one of Zimbabwe's oldest and most productive gold mines. The town is nestled in a scenic, hilly area that also supports diverse agricultural activities."
     },
     facts: {
-      "de": ["Goldbergbau", "Mashonaland Central", "Kleinstadt", "Industrielle Bedeutung"],
-      "hu": [
-      "Shamva hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Shamva körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Shamva contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Shamva se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Gold mining area", "Mashonaland Central", "Agricultural base", "Industrial site"]
+      "de": ["Bedeutender Goldbergbau", "In Mashonaland Central", "Agrarwirtschaftliches Umfeld", "Historische Minensiedlung"],
+      "hu": ["Nevét eredetileg Abercorn néven kapta", "A gyapot- és kukoricatermelés is jelentős a környéken", "Hararétól északkeletre, dombos vidéken fekszik", "Aranybányája már a 19. század végén nyílt"],
+      "ro": ["Istorie bogată în minerit de aur", "Zonă de producție a bumbacului", "Fondat inițial ca Abercorn", "Economie mixtă minier-agricolă"],
+      "en": ["Historically famous for gold mining", "Founded in 1890 as Abercorn", "Located in Mashonaland Central", "Major producer of maize and cotton", "Set in a scenic, hilly landscape", "Home to the Shamva Gold Mine"]
     }, image: "/poi-images/shamva-cities-v2.webp"},
   {
     id: "glendale-cities-v2",
@@ -911,22 +719,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.0667, -17.3833],
     name: { de: "Glendale", hu: "Glendale", ro: "Glendale", en: "Glendale" },
     description: {
-      "de": "Glendale ist ein landwirtschaftlicher Ort in Mashonaland Central.",
-      "hu": "Glendale egy jelentős város Zimbabwében.",
-      "ro": "Glendale este un oraș important din Zimbabwe.",
-      "en": "An agricultural town in the Mazowe valley focused on farming production."
+      "de": "Glendale ist ein landwirtschaftliches Zentrum im fruchtbaren Mazowe-Tal, spezialisiert auf den Ackerbau.",
+      "hu": "A termékeny Mazowe-völgyben fekvő mezőgazdasági város, Zimbabwe éléskamrájának része.",
+      "ro": "Situat în inima Văii Mazowe, Glendale este un centru agricol renumit pentru productivitatea sa ridicată.",
+      "en": "Glendale is a prosperous agricultural town located in the heart of the fertile Mazowe Valley. It is a critical processing center for grains and tobacco, benefiting from the highly productive commercial farmlands that surround it."
     },
     facts: {
-      "de": ["Agrarregion", "Mashonaland Central", "Kleinstadt", "Lokale Bedeutung"],
-      "hu": [
-      "Glendale hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Glendale körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Glendale contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Glendale se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Agricultural hub", "Mazowe valley", "Farming center", "Regional trade"]
+      "de": ["Zentrum im Mazowe-Tal", "Fokus auf Landwirtschaft", "Nahe der Stadt Bindura", "Wichtiger Handelsort"],
+      "hu": ["Főleg gabonafélék és dohány termesztésére szakosodott", "Fontos állomása a bindurai vasútvonalnak", "Jelentős élelmiszer-feldolgozó kapacitással bír", "Kellemes, mérsékelt klímája van"],
+      "ro": ["Producție intensivă de cereale", "Industrie de procesare a alimentelor", "Situat într'o zonă foarte fertilă", "Nod feroviar regional"],
+      "en": ["Located in the fertile Mazowe Valley", "Major center for grain processing", "Hub for the local tobacco industry", "Situated near the town of Bindura", "Strategic rail and road transit point", "Part of Mashonaland Central Province"]
     }, image: "/poi-images/glendale-cities-v2.webp"},
   {
     id: "mvurwi-cities-v2",
@@ -935,22 +737,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.85, -17.0333],
     name: { de: "Mvurwi", hu: "Mvurwi", ro: "Mvurwi", en: "Mvurwi" },
     description: {
-      "de": "Mvurwi ist ein kleines landwirtschaftliches Handelszentrum.",
-      "hu": "Mvurwi egy jelentős város Zimbabwében.",
-      "ro": "Mvurwi este un oraș important din Zimbabwe.",
-      "en": "A farming town in the Mashonaland Central province, famous for tobacco."
+      "de": "Mvurwi ist ein wichtiges Handelszentrum für die florierende Tabakindustrie in Mashonaland Central.",
+      "hu": "Dinamikusan fejlődő mezőgazdasági település, amely az ország egyik legfontosabb dohánytermő vidéke.",
+      "ro": "Mvurwi este un pol de atracție pentru industria tutunului din Zimbabwe, situat în provincia Mashonaland Central.",
+      "en": "Mvurwi is a major service center for the lucrative tobacco industry in Mashonaland Central. During the auction season, the town becomes a bustling hub of activity as farmers from the surrounding high-productivity areas come to trade."
     },
     facts: {
-      "de": ["Agrarregion", "Kleinstadt", "Mashonaland Central", "Mazowe-Tal"],
-      "hu": [
-      "Mvurwi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Mvurwi körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Mvurwi contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Mvurwi se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Tobacco growing area", "Agricultural center", "Mazowe region", "Small town"]
+      "de": ["Zentrum für Tabakanbau", "Landwirtschaftlicher Marktplatz", "In Mashonaland Central", "Regionaler Versorgungsort"],
+      "hu": ["A dohányaukciós szezonban rendkívül forgalmas", "Mashonaland Central tartomány északi részén fekszik", "Számos farmgazdaság szolgáltatási központja", "Jelentős gabonatárolókkal rendelkezik"],
+      "ro": ["Oraș dedicat licitațiilor de tutun", "Productivitate agricolă ridicată", "Hub pentru fermierii regionali", "Dezvoltare economică sezonieră"],
+      "en": ["Premier tobacco growing district", "Major agricultural service hub", "Located in Mashonaland Central", "Hosts large-scale grain storage", "Key center for regional commerce", "Surrounded by elite commercial farms"]
     },
   },
   {
@@ -960,22 +756,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.5833, -16.7833],
     name: { de: "Mount Darwin", hu: "Mount Darwin", ro: "Mount Darwin", en: "Mount Darwin" },
     description: {
-      "de": "Mount Darwin ist ein regionales Verwaltungszentrum im Nordosten.",
-      "hu": "Mount Darwin egy jelentős város Zimbabwében.",
-      "ro": "Mount Darwin este un oraș important din Zimbabwe.",
-      "en": "A town in the northeast, historically an important administrative and farming center."
+      "de": "Mount Darwin ist ein administratives Zentrum im Nordosten Simbabwes mit einer reichen Geschichte.",
+      "hu": "Történelmi jelentőségű település az ország északkeleti részén, Mashonaland Central tartományban.",
+      "ro": "Un centru administrativ istoric situat în nord-est, Mount Darwin are rădăcini adânci în istoria țării.",
+      "en": "Mount Darwin is a historic administrative center in the northeast of Zimbabwe, serving a vast agricultural district. It played a significant role in the country's liberation history and remains a vital hub for regional trade and governance."
     },
     facts: {
-      "de": ["Verwaltungszentrum", "Nordosten Simbabwes", "Agrarregion", "Handelsort"],
-      "hu": [
-      "Mount Darwin hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Mount Darwin körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Mount Darwin contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Mount Darwin se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Agricultural hub", "Administrative center", "Northeastern Zimbabwe", "Trading center"]
+      "de": ["Administratives Zentrum", "Im Nordosten des Landes", "Wichtiger Agrarstandort", "Historisch bedeutender Ort"],
+      "hu": ["Fontos adminisztratív központ a határ közelében", "A zimbabwei felszabadítási harc egyik kulcshelyszíne", "Mezőgazdasági szempontból jelentős régió", "A név a közeli hegycsúcsra utal"],
+      "ro": ["Centru administrativ de district", "Loc istoric al eliberării", "Comunitate agricolă rurală", "Nume preluat de la muntele vecin"],
+      "en": ["Administrative capital of Darwin district", "Significant site in liberation history", "Major agricultural trading center", "Located in Mashonaland Central", "Named after the nearby mountain peak", "Gateway to the Zambezi Valley regions"]
     }, image: "/poi-images/mount-darwin-cities-v2.webp"},
   {
     id: "plumtree-cities-v2",
@@ -984,22 +774,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [27.8, -20.4833],
     name: { de: "Plumtree", hu: "Plumtree", ro: "Plumtree", en: "Plumtree" },
     description: {
-      "de": "Plumtree ist eine Grenzstadt zu Botswana.",
-      "hu": "Plumtree egy jelentős város Zimbabwében.",
-      "ro": "Plumtree este un oraș important din Zimbabwe.",
-      "en": "A border town on the western edge, serving as a vital link to Botswana."
+      "de": "Plumtree ist eine wichtige Grenzstadt zu Botswana und ein zentraler Transitpunkt im Westen Simbabwes.",
+      "hu": "Zimbabwe nyugati határvárosa, a Botswanába tartó vasúti és közúti forgalom kapuja.",
+      "ro": "Plumtree este poarta de ieșire spre Botswana, fiind un punct strategic pentru comerțul internațional.",
+      "en": "Plumtree is Zimbabwe's primary western gateway, located on the border with Botswana. It is a vital transit point for international rail and road traffic, facilitating trade and movement between Bulawayo and Francistown."
     },
     facts: {
-      "de": ["Grenzstadt", "Zu Botswana", "Verkehrsknotenpunkt", "Matabeleland South"],
-      "hu": [
-      "Plumtree hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Plumtree körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Plumtree contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Plumtree se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Botswana border", "Customs point", "Transit hub", "Railway location"]
+      "de": ["Grenzübergang zu Botswana", "Wichtiger Eisenbahnknoten", "In Matabeleland South", "Handels- und Zollstation"],
+      "hu": ["Fontos vám- és bevándorlási ellenőrző pont", "Itt található az ország egyik neves középiskolája", "A területen elsősorban állattenyésztés folyik", "Strategiai tranzitpont Bulawayo és Francistown között"],
+      "ro": ["Punct de frontieră major", "Nod feroviar spre vest", "Găzduiește o școală celebră", "Centru de servicii vamale"],
+      "en": ["Western border town with Botswana", "Major customs and immigration post", "Located in Matabeleland South", "Home to a renowned boarding school", "Important railway transit station", "Strategic link for regional commerce"]
     }, image: "/poi-images/plumtree-cities-v2.webp"},
   {
     id: "chivhu-cities-v2",
@@ -1008,22 +792,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.8922, -19.0211],
     name: { de: "Chivhu", hu: "Chivhu", ro: "Chivhu", en: "Chivhu" },
     description: {
-      "de": "Chivhu ist ein Verkehrsknotenpunkt zwischen Harare und Masvingo.",
-      "hu": "Chivhu egy jelentős város Zimbabwében.",
-      "ro": "Chivhu este un oraș important din Zimbabwe.",
-      "en": "An important agricultural market town situated on the Harare to Masvingo highway."
+      "de": "Chivhu ist ein bedeutender Marktplatz and Verkehrsknotenpunkt im Herzen von Mashonaland East.",
+      "hu": "Mezőgazdasági központ Zimbabwe szívében, amely fontos közúti csomópont a főváros felé.",
+      "ro": "Chivhu este un centru comercial și agricol vital, situat la jumătatea drumului dintre Harare și Masvingo.",
+      "en": "Chivhu is a prominent market town in the heart of Zimbabwe, situated on the main highway between the capital and the south. It is widely recognized as a center for the cattle ranching industry and a critical stop for long-distance travelers."
     },
     facts: {
-      "de": ["Verkehrsknotenpunkt", "Zwischen Harare/Masvingo", "Handelsort", "Mashonaland East"],
-      "hu": [
-      "Chivhu hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Chivhu körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Chivhu contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Chivhu se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Market town", "Transit center", "Highway location", "Agricultural base"]
+      "de": ["Zentraler Marktplatz", "Wichtiger Straßenknoten", "Zentrum der Rinderzucht", "Früher als Enkeldoorn bekannt"],
+      "hu": ["Eredeti neve Enkeldoorn volt", "A zimbabwei marhatenyésztés egyik fellegvára", "Harare és Masvingo között félúton található", "A város körül kiterjedt erdőültetvények vannak"],
+      "ro": ["Cunoscut anterior ca Enkeldoorn", "Inima creșterii vitelor", "Popas rutier foarte frecventat", "Nod comercial în Mashonaland East"],
+      "en": ["Founded in 1890 as Enkeldoorn", "Major center for cattle ranching", "Located on the Harare-Masvingo road", "Key transit stop and market town", "Heart of the Mashonaland East dairy", "Significant regional agricultural hub"]
     }, image: "/poi-images/chivhu-cities-v2.webp"},
   {
     id: "triangle-cities-v2",
@@ -1032,22 +810,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.4667, -21.0333],
     name: { de: "Triangle", hu: "Triangle", ro: "Triangle", en: "Triangle" },
     description: {
-      "de": "Triangle ist Zentrum der Zuckerrohrverarbeitung in der Lowveld-Region.",
-      "hu": "Triangle egy jelentős város Zimbabwében.",
-      "ro": "Triangle este un oraș important din Zimbabwe.",
-      "en": "A company town built around extensive sugar cane estates and processing."
+      "de": "Triangle ist eine spezialisierte Stadt im Lowveld, die vollständig um die Zuckerrohrindustrie herum gewachsen ist.",
+      "hu": "Kifejezetten a cukoriparra épült vállalati város a Lowveld régióban, hatalmas csatornarendszerekkel.",
+      "ro": "Triangle este un oraș industrial privat, creat exclusiv pentru a susține producția de zahăr din Lowveld.",
+      "en": "Triangle is a specialized company town in the southeastern Lowveld, entirely dedicated to the production and processing of sugar cane. It is surrounded by some of the largest irrigated estates in Africa, creating an oasis of green in an arid region."
     },
     facts: {
-      "de": ["Zuckerrohrverarbeitung", "Lowveld-Region", "Agrarstandort", "Spezialisierter Ort"],
-      "hu": [
-      "Triangle hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Triangle körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Triangle contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Triangle se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Sugar cane industry", "Company town", "Agricultural hub", "Lowveld region"]
+      "de": ["Zentrum der Zuckerindustrie", "Lage im Lowveld", "Große Bewässerungsanlagen", "Industrielle Werkssiedlung"],
+      "hu": ["Hatalmas cukornádültetvények veszik körül", "Gazdaságát a Tongaat Hulett vállalat uralja", "Az ország egyik legfontosabb agráripari központja", "Saját repülőtérrel rendelkezik az üzemi forgalomhoz"],
+      "ro": ["Oraș de companie (sugar town)", "Sistem vast de irigații", "Centru de procesare a trestiei", "Localizat în provincia Masvingo"],
+      "en": ["Major center for sugar production", "Owned and run by Tongaat Hulett", "Vast network of irrigation canals", "Located in the southeastern Lowveld", "Hosts its own private airfield", "One of the largest estates in Africa"]
     }, image: "/poi-images/triangle-cities-v2.webp"},
   {
     id: "centenary-cities-v2",
@@ -1056,22 +828,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.1167, -16.7333],
     name: { de: "Centenary", hu: "Centenary", ro: "Centenary", en: "Centenary" },
     description: {
-      "de": "Centenary ist eine kleine Stadt in einer Agrarregion des Nordens.",
-      "hu": "Centenary egy jelentős város Zimbabwében.",
-      "ro": "Centenary este un oraș important din Zimbabwe.",
-      "en": "A small agricultural town in the northern part of Zimbabwe."
+      "de": "Centenary ist eine landwirtschaftlich geprägte Siedlung im Norden Simbabwes, bekannt für den Tabakanbau.",
+      "hu": "Mezőgazdasági település Zimbabwe északi részén, amely a dohány- és gyapottermesztéséről ismert.",
+      "ro": "O așezare agricolă liniștită din nordul țării, Centenary este centrată pe producția de tutun.",
+      "en": "Centenary is a dedicated agricultural settlement in northern Zimbabwe, specializing in high-yield tobacco and cotton production. It serves as a vital service outpost for the remote farming communities near the Zambezi Valley."
     },
     facts: {
-      "de": ["Agrarregion", "Norden Simbabwes", "Kleinstadt", "Regionale Bedeutung"],
-      "hu": [
-      "Centenary hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Centenary körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Centenary contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Centenary se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Agricultural center", "Northern Zimbabwe", "Farming district", "Local commerce"]
+      "de": ["Agrarzentrum im Norden", "Fokus auf Tabakproduktion", "In Mashonaland Central", "Regionales Handelsdorf"],
+      "hu": ["Mashonaland Central tartományban található", "A Muzarabani-völgy felé vezető út mentén fekszik", "Számos kisparaszti gazdaság központja", "Környékén jelentős vadvédelmi területek vannak"],
+      "ro": ["Centru agricol din Mashonaland Central", "Producție de tutun și bumbac", "Zonă cu biodiversitate bogată", "Servicii rurale locale"],
+      "en": ["Major tobacco and cotton producer", "Located in Mashonaland Central", "Service center for northern farms", "Gateway towards the Muzarabani valley", "Small but critical agricultural hub", "Known for its productive soil"]
     }, image: "/poi-images/centenary-cities-v2.webp"},
   {
     id: "banket-cities-v2",
@@ -1080,22 +846,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.4, -17.3833],
     name: { de: "Banket", hu: "Banket", ro: "Banket", en: "Banket" },
     description: {
-      "de": "Banket ist ein landwirtschaftliches Handelszentrum westlich von Harare.",
-      "hu": "Banket egy jelentős város Zimbabwében.",
-      "ro": "Banket este un oraș important din Zimbabwe.",
-      "en": "A farming town situated in a fertile agricultural district of Mashonaland West."
+      "de": "Banket ist ein wichtiger Versorgungsort für die umliegenden Farmen in der Provinz Mashonaland West.",
+      "hu": "Mezőgazdasági szolgáltató város a termékeny Mashonaland West tartományban, közel Chinhoyi-hoz.",
+      "ro": "Banket este un hub de servicii pentru fermierii din districtele productive ale provinciei Mashonaland West.",
+      "en": "Banket is a thriving farming town in the fertile Mashonaland West Province, located just south of Chinhoyi. It is a critical center for tobacco and grain storage, serving many of the country's most successful commercial farming estates."
     },
     facts: {
-      "de": ["Agrarregion", "Handelsort", "Westlich von Harare", "Mashonaland West"],
-      "hu": [
-      "Banket hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Banket körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Banket contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Banket se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Fertile farmlands", "Mashonaland West", "Crop production", "Small trade hub"]
+      "de": ["Landwirtschaftlicher Versorgungsort", "An der Straße nach Chinhoyi", "In Mashonaland West", "Zentrum für Getreideanbau"],
+      "hu": ["A dohány- és gabonatermesztés egyik központja", "Fontos vasúti rakodóhely a termények számára", "A Harare-Chinhoyi főút mentén fekszik", "Szolgáltatásokkal látja el a környező nagybirtokokat"],
+      "ro": ["Oraș în regiune agricolă fertilă", "Lângă orașul Chinhoyi", "Punct de încărcare a cerealelor", "Ferme comerciale extinse"],
+      "en": ["Located in a fertile farming belt", "Major center for tobacco and maize", "Strategic stop on the Chinhoyi road", "Home to large-scale grain silos", "Part of Mashonaland West Province", "Vital service hub for commercial farms"]
     }, image: "/poi-images/banket-cities-v2.webp"},
   {
     id: "dete-cities-v2",
@@ -1104,22 +864,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [26.8667, -18.6167],
     name: { de: "Dete", hu: "Dete", ro: "Dete", en: "Dete" },
     description: {
-      "de": "Dete ist Tor zum Hwange-Nationalpark und Eisenbahnknotenpunkt.",
-      "hu": "Dete egy jelentős város Zimbabwében.",
-      "ro": "Dete este un oraș important din Zimbabwe.",
-      "en": "A small settlement that serves as an entry point to Hwange National Park."
+      "de": "Dete ist eine kleine Siedlung am Rand des Hwange-Nationalparks und ein wichtiger Stopp für Bahnfahrende.",
+      "hu": "Kis település a Hwange Nemzeti Park szélén, amely fontos turisztikai és vasúti állomás.",
+      "ro": "Dete este un punct de acces cheie pentru turiștii care vizitează Parcul Național Hwange.",
+      "en": "Dete is a strategically located settlement on the edge of Hwange National Park and along the main railway line. It serves as a key jumping-off point for tourists and a vital logistics stop for the region's coal and wildlife sectors."
     },
     facts: {
-      "de": ["Tor zum Nationalpark", "Eisenbahnknotenpunkt", "Nahe Hwange", "Touristische Bedeutung"],
-      "hu": [
-      "Dete hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Dete körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Dete contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Dete se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Gateway to Hwange", "Tourist stopover", "Small trade center", "Wildlife area"]
+      "de": ["Tor zum Hwange-Nationalpark", "Wichtiger Eisenbahnstopp", "Touristische Basisstation", "Nahe Wildschutzgebieten"],
+      "hu": ["Kapu a Hwange Nemzeti Park vadvilágához", "Fontos vasúti csomópont a szénszállítás számára", "Itt található a festett kutyák védelmi központja", "A turizmus és a vasút határozza meg a gazdaságát"],
+      "ro": ["Portal spre safariuri", "Nod feroviar important", "Conservarea câinilor sălbatici", "Aproape de rezervații naturale"],
+      "en": ["Gateway to Hwange National Park", "Important railway logistics stop", "Home to the Painted Dog conservation", "Located in Matabeleland North", "Center for wildlife-based tourism", "Key stop on the Bulawayo-Falls line"]
     }, image: "/poi-images/dete-cities-v2.webp"},
   {
     id: "nkayi-cities-v2",
@@ -1128,22 +882,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [28.9, -19],
     name: { de: "Nkayi", hu: "Nkayi", ro: "Nkayi", en: "Nkayi" },
     description: {
-      "de": "Nkayi ist ein ländliches Handelszentrum in Matabeleland North.",
-      "hu": "Nkayi egy jelentős város Zimbabwében.",
-      "ro": "Nkayi este un oraș important din Zimbabwe.",
-      "en": "A district center in Matabeleland North supporting local farming communities."
+      "de": "Nkayi ist ein ländliches Verwaltungszentrum in der Provinz Matabeleland North.",
+      "hu": "Matabeleland North tartomány egyik elszigeteltebb, de fontos közigazgatási és oktatási központja.",
+      "ro": "Nkayi este centrul administrativ al unui district rural vast din provincia Matabeleland North.",
+      "en": "Nkayi is a remote but essential administrative and trading center in the heart of Matabeleland North. It supports a vast rural population with services in education, health, and agriculture, and is known for its extensive local forests."
     },
     facts: {
-      "de": ["Ländlicher Handelsort", "Matabeleland North", "Regionale Anbindung", "Agrarregion"],
-      "hu": [
-      "Nkayi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Nkayi körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Nkayi contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Nkayi se caracterizează prin diversitatea sa."
-      ],
-      "en": ["District capital", "Matabeleland North", "Agricultural hub", "Local trade"]
+      "de": ["Distrikt-Hauptort", "In Matabeleland North", "Ländliches Handelszentrum", "Zentrum für lokale Verwaltung"],
+      "hu": ["A régió egyik legfontosabb vidéki piaca", "Jelentős faipari és erdészeti területek veszik körül", "Fontos szerepet tölt be a helyi oktatásban", "Szarvasmarha-tenyésztés jellemzi a környékét"],
+      "ro": ["Sediul administrării districtuale", "Comunitate de mici fermieri", "Zonă bogată în silvicultură", "Piață rurală săptămânală"],
+      "en": ["Capital of the Nkayi district", "Located in Matabeleland North", "Major center for local cattle trade", "Surrounded by extensive timber forests", "Important rural administrative hub", "Center for regional education"]
     }, image: "/poi-images/nkayi-cities-v2.webp"},
   {
     id: "mberengwa-cities-v2",
@@ -1152,22 +900,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.9167, -20.4833],
     name: { de: "Mberengwa", hu: "Mberengwa", ro: "Mberengwa", en: "Mberengwa" },
     description: {
-      "de": "Mberengwa ist ein ländliches Verwaltungszentrum in bergiger Region.",
-      "hu": "Mberengwa egy jelentős város Zimbabwében.",
-      "ro": "Mberengwa este un oraș important din Zimbabwe.",
-      "en": "A significant mineral-rich district in the Midlands province."
+      "de": "Mberengwa ist ein mineralreiches Gebiet in der Provinz Midlands mit einer starken Bergbautradition.",
+      "hu": "Ásványkincsekben rendkívül gazdag körzet a Midlands tartományban, a kisüzemi bányászat központja.",
+      "ro": "Mberengwa este un district renumit pentru resursele sale minerale prețioase și diversitatea culturală.",
+      "en": "Mberengwa is a mineral-rich district center in the Midlands Province, famously known for its precious emeralds and gold. The town is a melting pot of cultures and serves as a vital hub for both artisanal and corporate mining operations."
     },
     facts: {
-      "de": ["Ländlicher Ort", "Provinz Midlands", "Bergiges Gelände", "Verwaltungszentrum"],
-      "hu": [
-      "Mberengwa hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Mberengwa körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Mberengwa contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Mberengwa se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Mineral rich area", "Midlands province", "Mining focus", "Regional hub"]
+      "de": ["Mineralreiche Region", "In der Midlands-Provinz", "Zentrum für Kleinbergbau", "Ländliches Versorgungszentrum"],
+      "hu": ["Híres a smaragd- és aranylelőhelyeiről", "Sokszínű etnikai összetétel jellemzi a várost", "Környékén számos történelmi rom található", "Fontos mezőgazdasági és kereskedelmi bázis"],
+      "ro": ["Bogat în smaralde și aur", "Zonă cu tradiții minerale", "Relief diversificat", "District rural în Midlands"],
+      "en": ["Famed for high-quality emeralds", "Rich in gold and chrome deposits", "Located in the Midlands Province", "Diverse cultural and ethnic mix", "Regional hub for artisanal miners", "Surrounded by rugged, hilly terrain"]
     }, image: "/poi-images/mberengwa-cities-v2.webp"},
   {
     id: "tsholotsho-cities-v2",
@@ -1176,22 +918,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [27.7667, -19.7667],
     name: { de: "Tsholotsho", hu: "Tsholotsho", ro: "Tsholotsho", en: "Tsholotsho" },
     description: {
-      "de": "Tsholotsho ist eine ländliche Gemeinde in Matabeleland North.",
-      "hu": "Tsholotsho egy jelentős város Zimbabwében.",
-      "ro": "Tsholotsho este un oraș important din Zimbabwe.",
-      "en": "A rural district center in Matabeleland North, important for regional administration."
+      "de": "Tsholotsho ist ein bedeutendes ländliches Zentrum im Westen Simbabwes mit einer starken lokalen Kultur.",
+      "hu": "Matabeleland North tartomány egyik kulturális központja, a Kalahári-homokvidék szélén.",
+      "ro": "Tsholotsho este un important punct de referință cultural și administrativ în vestul Zimbabwe.",
+      "en": "Tsholotsho is a significant administrative and cultural hub in western Zimbabwe, located on the edge of the Kalahari sands. It is an important center for the local population and is known for its proximity to wildlife areas and unique forest management."
     },
     facts: {
-      "de": ["Ländliche Gemeinde", "Matabeleland North", "Region im Westen", "Regionale Bedeutung"],
-      "hu": [
-      "Tsholotsho hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Tsholotsho körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Tsholotsho contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Tsholotsho se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Administrative center", "Matabeleland North", "Rural trade", "Local base"]
+      "de": ["Distrikthauptort", "In Matabeleland North", "Kulturelles Zentrum", "Wichtige Agrarstation"],
+      "hu": ["Fontos adminisztratív és oktatási szereppel bír", "A terület híres a San népcsoport kulturális örökségéről", "Kiterjedt erdőgazdálkodás folyik a környékén", "Bulawayótól északnyugatra fekszik"],
+      "ro": ["Centru administrativ districtual", "Moștenire culturală San", "Economie bazată pe agricultură", "Situat în Matabeleland North"],
+      "en": ["District capital of Tsholotsho", "Located in Matabeleland North", "Center for San cultural heritage", "Rich in local timber and forestry", "Proximity to Hwange National Park", "Administrative and trade center"]
     }, image: "/poi-images/tsholotsho-cities-v2.webp"},
   {
     id: "binga-cities-v2",
@@ -1200,22 +936,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [27.3414, -17.6203],
     name: { de: "Binga", hu: "Binga", ro: "Binga", en: "Binga" },
     description: {
-      "de": "Binga liegt am Kariba-Stausee und ist Zentrum der Tonga-Kultur.",
-      "hu": "Binga egy jelentős város Zimbabwében.",
-      "ro": "Binga este un oraș important din Zimbabwe.",
-      "en": "A remote district center on the southern shores of Lake Kariba."
+      "de": "Binga am Südufer des Kariba-Sees ist das kulturelle Herz des Tonga-Volkes.",
+      "hu": "A Kariba-tó partján fekvő város, amely a Tonga nép kulturális és spirituális központja.",
+      "ro": "Binga este inima culturii Tonga, fiind situat pe țărmul sudic al pitorescului lac Kariba.",
+      "en": "Binga is a unique district center located on the remote southern shores of Lake Kariba. It is the spiritual and cultural heart of the Tonga people and offers some of the most spectacular, off-the-beaten-path scenery and fishing in Zimbabwe."
     },
     facts: {
-      "de": ["Am Kariba-Stausee", "Tonga-Kulturzentrum", "Fischerei", "Touristische Bedeutung"],
-      "hu": [
-      "Binga hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Binga körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Binga contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Binga se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Lake Kariba shore", "Remote area", "Tourism and fishing", "Binga district"]
+      "de": ["Am Kariba-See gelegen", "Zentrum der Tonga-Kultur", "Fischerei und Tourismus", "Abgelegene, reizvolle Lage"],
+      "hu": ["Fontos halászati kikötővel rendelkezik a tavon", "Itt található a Tonga Múzeum", "Híres a különleges kosárfonó művészetéről", "Turisztikai szempontból is fejlődő régió"],
+      "ro": ["Centru al poporului Tonga", "Pescuit și artizanat local", "Destinație turistică izolată", "Acces la plaje pe lac"],
+      "en": ["Cultural center of the Tonga people", "Located on the shores of Lake Kariba", "Famous for its basket-weaving art", "Home to the BaTonga Museum", "Key hub for fishing and boating", "Remote and scenic tourism destination"]
     }, image: "/poi-images/binga-cities-v2.webp"},
   {
     id: "filabusi-cities-v2",
@@ -1224,22 +954,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.2833, -20.5333],
     name: { de: "Filabusi", hu: "Filabusi", ro: "Filabusi", en: "Filabusi" },
     description: {
-      "de": "Filabusi ist ein kleiner Handelsort in Matabeleland South.",
-      "hu": "Filabusi egy jelentős város Zimbabwében.",
-      "ro": "Filabusi este un oraș important din Zimbabwe.",
-      "en": "A small mining and agricultural center in the Matabeleland South province."
+      "de": "Filabusi ist ein kleiner Bergbau- und Agrarort im Herzen der Provinz Matabeleland South.",
+      "hu": "Bányászati és mezőgazdasági központ Matabeleland South tartományban, Bulawayótól délkeletre.",
+      "ro": "Filabusi este un centru minier și agricol mic, dar esențial, situat în provincia Matabeleland South.",
+      "en": "Filabusi is a small but busy mining and agricultural center in the Matabeleland South Province. It is a key hub for local gold extraction and serves the commercial needs of the surrounding cattle-ranching and farming communities."
     },
     facts: {
-      "de": ["Handelsort", "Matabeleland South", "Provinz", "Kleinstadt"],
-      "hu": [
-      "Filabusi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Filabusi körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Filabusi contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Filabusi se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Mining center", "Matabeleland South", "Agricultural area", "Local commerce"]
+      "de": ["Goldbergbau-Zentrum", "In Matabeleland South", "Regionales Handelszentrum", "Ländliche Umgebung"],
+      "hu": ["Számos működő aranybánya található a környékén", "Az Insiza körzet adminisztratív székhelye", "Jelentős marhatenyésztő vidék veszi körül", "Fontos regionális kereskedelmi pont"],
+      "ro": ["Extracție locală de aur", "Creșterea vitelor în regiune", "Nod administrativ local", "Comunitate rurală minieră"],
+      "en": ["Administrative center of Insiza", "Rich in gold mining activities", "Located in Matabeleland South", "Surrounded by cattle ranching land", "Regional hub for small-scale miners", "Strategic stop on the Mbalabala road"]
     }, image: "/poi-images/filabusi-cities-v2.webp"},
   {
     id: "inyati-cities-v2",
@@ -1248,22 +972,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [28.8475, -19.6758],
     name: { de: "Inyati", hu: "Inyati", ro: "Inyati", en: "Inyati" },
     description: {
-      "de": "Inyati ist eine historische Siedlung in Matabeleland North.",
-      "hu": "Inyati egy jelentős város Zimbabwében.",
-      "ro": "Inyati este un oraș important din Zimbabwe.",
-      "en": "A historic settlement in the Matabeleland North area."
+      "de": "Inyati ist eine historisch bedeutende Missionsstation und Siedlung in Matabeleland North.",
+      "hu": "Zimbabwe egyik legrégebbi európai települése, amely eredetileg missziós állomásként jött létre.",
+      "ro": "Inyati este o așezare cu o mare importanță istorică, fiind locul primei misiuni creștine din regiune.",
+      "en": "Inyati is one of the oldest modern settlements in Zimbabwe, founded in 1859 as a mission station. Located north of Bulawayo, it holds deep historical significance as a cradle of education and early cross-cultural interaction in the region."
     },
     facts: {
-      "de": ["Historischer Ort", "Matabeleland North", "Ländliche Region", "Regionale Anbindung"],
-      "hu": [
-      "Inyati hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Inyati körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Inyati contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Inyati se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Historic settlement", "Matabeleland North", "Farming district", "Small trade center"]
+      "de": ["Älteste Missionsstation", "Historisch bedeutsam", "In Matabeleland North", "Ländliches Zentrum"],
+      "hu": ["1859-ben alapította a Londoni Missziós Társaság", "A zimbabwei kereszténység egyik bölcsője", "Matabeleland North tartományban fekszik", "Történelmi jelentőségű iskola működik itt"],
+      "ro": ["Misiune fondată în 1859", "Leagănul creștinismului local", "Centru educațional istoric", "Situat în Matabeleland North"],
+      "en": ["Site of Zimbabwe's first mission", "Founded in 1895 by the LMS", "Located in Matabeleland North", "Deeply historic educational center", "Farming and small-scale mining hub", "Located near the town of Turk Mine"]
     },
   },
   {
@@ -1273,22 +991,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [27.8333, -18.9333],
     name: { de: "Lupane", hu: "Lupane", ro: "Lupane", en: "Lupane" },
     description: {
-      "de": "Lupane ist das administrative Zentrum von Matabeleland North.",
-      "hu": "Lupane egy jelentős város Zimbabwében.",
-      "ro": "Lupane este un oraș important din Zimbabwe.",
-      "en": "The administrative center of Matabeleland North, serving the surrounding rural regions."
+      "de": "Lupane ist die Hauptstadt von Matabeleland North und Sitz der staatlichen Universität der Provinz.",
+      "hu": "Matabeleland North tartomány közigazgatási székhelye, amely fontos oktatási központtá fejlődött.",
+      "ro": "Lupane este capitala în curs de dezvoltare a Matabeleland North, devenind un centru universitar major.",
+      "en": "Lupane is the administrative capital of the Matabeleland North Province and a burgeoning educational center. It is strategically located on the main road to Victoria Falls and is poised for growth due to its role in governance and local timber resources."
     },
     facts: {
-      "de": ["Administratives Zentrum", "Matabeleland North", "Regionale Bedeutung", "Wachsende Stadt"],
-      "hu": [
-      "Lupane hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Lupane körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Lupane contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Lupane se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Provincial capital", "Matabeleland North", "Administrative hub", "Local commerce"]
+      "de": ["Hauptstadt von Matabeleland North", "Sitz der Lupane State University", "Administratives Zentrum", "Wachsende Bildungsstadt"],
+      "hu": ["Itt található a Lupane Állami Egyetem", "A terület gazdag földgázkészletekkel rendelkezik", "A Bulawayo és Viktória-vízesés közötti út mentén fekszik", "Jelentős erdészeti tevékenység folyik a környéken"],
+      "ro": ["Găzduiește Lupane State University", "Capitala provinciei", "Zonă cu potențial de gaz metan", "Nod administrativ în expansiune"],
+      "en": ["Capital of Matabeleland North", "Home to Lupane State University", "Major center for timber forestry", "Located on the Victoria Falls road", "Expanding administrative center", "Potential for local natural gas"]
     }, image: "/poi-images/lupane-cities-v2.webp"},
   {
     id: "guruve-cities-v2",
@@ -1297,22 +1009,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.7, -16.65],
     name: { de: "Guruve", hu: "Guruve", ro: "Guruve", en: "Guruve" },
     description: {
-      "de": "Guruve ist ein landwirtschaftliches Zentrum in Mashonaland Central.",
-      "hu": "Guruve egy jelentős város Zimbabwében.",
-      "ro": "Guruve este un oraș important din Zimbabwe.",
-      "en": "A key farming area in Mashonaland Central province."
+      "de": "Guruve ist ein fruchtbares landwirtschaftliches Gebiet, das für seine Bildhauerkunst und den Ackerbau bekannt ist.",
+      "hu": "Mezőgazdasági központ az ország északi részén, amely különösen a művészetéről híres.",
+      "ro": "Guruve este cunoscut internațional pentru comunitatea sa de artiști și pentru solurile sale productive.",
+      "en": "Guruve is a highly productive agricultural center in the north of Zimbabwe, known for its high-quality tobacco and chrome. It is also internationally recognized for the Tengenenge art community, where world-famous stone sculptors reside."
     },
     facts: {
-      "de": ["Agrarregion", "Mashonaland Central", "Regionales Zentrum", "Handelsort"],
-      "hu": [
-      "Guruve hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Guruve körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Guruve contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Guruve se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Farming hub", "Mashonaland Central", "Agricultural region", "Local commerce"]
+      "de": ["Zentrum für Kunsthandwerk", "In Mashonaland Central", "Bedeutende Agrarregion", "Zentrum für Tabakanbau"],
+      "hu": ["Híres a Tengenenge szobrászművész közösségről", "Fontos dohány-, króm- és gyapottermelő vidék", "Környékén látványos sziklaképződmények találhatók", "A Zambézi-völgy felső szélén helyezkedik el"],
+      "ro": ["Sculptură în piatră Tengenenge", "Producție de tutun și bumbac", "Situat în Mashonaland Central", "Tradiții artistice profunde"],
+      "en": ["Famous for Tengenenge stone art", "Major producer of tobacco and chrome", "Located in Mashonaland Central", "Set in a landscape of granite hills", "Key center for regional agriculture", "Home to traditional Shona heritage"]
     },
   },
   {
@@ -1322,22 +1028,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.0667, -16.5167],
     name: { de: "Rushinga", hu: "Rushinga", ro: "Rushinga", en: "Rushinga" },
     description: {
-      "de": "Rushinga ist ein ländliches Verwaltungszentrum im Norden.",
-      "hu": "Rushinga egy jelentős város Zimbabwében.",
-      "ro": "Rushinga este un oraș important din Zimbabwe.",
-      "en": "A rural service center located in the northeastern part of Zimbabwe."
+      "de": "Rushinga ist ein ländliches Verwaltungszentrum im äußersten Nordosten Simbabwes.",
+      "hu": "Adminisztratív és kereskedelmi központ Zimbabwe északkeleti határvidékén.",
+      "ro": "Rushinga este un centru de servicii rurale aflat la granița de nord-est, legând Zimbabwe de Mozambic.",
+      "en": "Rushinga is a rural administrative and trading center located in the far northeast of Zimbabwe. It serves as a vital service hub for the local communities near the border with Mozambique, specializing in cotton and small-grain farming."
     },
     facts: {
-      "de": ["Ländlicher Ort", "Norden Simbabwes", "Mashonaland Central", "Regionale Bedeutung"],
-      "hu": [
-      "Rushinga hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Rushinga körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Rushinga contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Rushinga se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Rural trade center", "Northeastern region", "Local administration", "Agricultural hub"]
+      "de": ["Nordöstlicher Grenzdistrikt", "Ländliches Handelszentrum", "Administrativer Hauptort", "Agrarwirtschaftlich geprägt"],
+      "hu": ["Fontos tranzitpont a mozambiki határ felé", "Gazdaságának alapja a gyapot és a gabona", "Különleges, félszáraz éghajlat jellemzi", "Mashonaland Central tartomány keleti részén fekszik"],
+      "ro": ["Nod de tranzit transfrontalier", "Centru administrativ rural", "Climat cald și uscat", "Agricultură de subzistență"],
+      "en": ["District capital of Rushinga", "Located in the far northeast", "Key center for cotton production", "Near the border with Mozambique", "Administrates a large rural area", "Known for its hot, dry climate"]
     }, image: "/poi-images/rushinga-cities-v2.webp"},
   {
     id: "chimanimani-cities-v2",
@@ -1346,22 +1046,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.8667, -19.8],
     name: { de: "Chimanimani", hu: "Chimanimani", ro: "Chimanimani", en: "Chimanimani" },
     description: {
-      "de": "Chimanimani ist für seine Berglandschaften im Osten bekannt.",
-      "hu": "Chimanimani egy jelentős város Zimbabwében.",
-      "ro": "Chimanimani este un oraș important din Zimbabwe.",
-      "en": "A mountain town known for its dramatic landscapes and access to the Chimanimani mountains."
+      "de": "Chimanimani ist ein idyllischer Bergort, der als Ausgangspunkt für Wanderungen im Chimanimani-Gebirge dient.",
+      "hu": "Festői hegyi város a mozambiki határnál, az ország egyik legszebb túraútvonalának kiindulópontja.",
+      "ro": "Situat în inima munților cu același nume, acest oraș este paradisul iubitorilor de drumeții.",
+      "en": "Chimanimani is a breathtaking mountain town nestled in the quartzite peaks of the Eastern Highlands. It is a world-renowned destination for hikers and nature lovers, offering pristine forests, dramatic waterfalls, and a cool, mist-shrouded climate."
     },
     facts: {
-      "de": ["Bergregion", "Östliches Hochland", "Wanderziel", "Naturraum"],
-      "hu": [
-      "Chimanimani hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Chimanimani körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Chimanimani contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Chimanimani se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Mountainous region", "Hiking destination", "Scenic town", "Eastern Highlands"]
+      "de": ["Zentrum der Chimanimani-Berge", "Beliebtes Wanderziel", "Einzigartige Flora und Fauna", "Spektakuläre Berglandschaften"],
+      "hu": ["Zimbabwe egyik legmagasabb hegycsúcsa mellett fekszik", "Híres a vízeséseiről és érintetlen erdőiről", "Egyedülálló növény- és állatvilág él a környéken", "Kellemes, hűvös és csapadékos klíma jellemzi"],
+      "ro": ["Munți spectaculoși de cuarțit", "Cascade și păduri tropicale", "Climat montan revigorant", "Biodiversitate unică în est"],
+      "en": ["Gateway to Chimanimani Mountains", "Known for quartzite mountain peaks", "Premier hiking and trekking site", "Hosts unique and rare mountain flora", "Located in the Manicaland Province", "Famous for the Bridal Veil Falls"]
     }, image: "/poi-images/chimanimani-cities-v2.webp"},
   {
     id: "nyanga-cities-v2",
@@ -1370,22 +1064,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.7483, -18.2144],
     name: { de: "Nyanga", hu: "Nyanga", ro: "Nyanga", en: "Nyanga" },
     description: {
-      "de": "Nyanga ist Zentrum des höchsten Berglandes und beliebtes Ausflugsziel.",
-      "hu": "Nyanga egy jelentős város Zimbabwében.",
-      "ro": "Nyanga este un oraș important din Zimbabwe.",
-      "en": "A picturesque town in the Eastern Highlands popular for tourism and trout fishing."
+      "de": "Nyanga ist ein erstklassiges Touristenziel in den Eastern Highlands, bekannt für seine kühle Luft und Wasserfälle.",
+      "hu": "Zimbabwe legnépszerűbb hegyvidéki üdülőhelye, amely vízeséseiről és kőpöttyös tájairól ismert.",
+      "ro": "Nyanga este una dintre cele mai populare destinații de vacanță din Zimbabwe, oferind peisaje alpine unice.",
+      "en": "Nyanga is Zimbabwe's most popular highland resort town, offering an alpine landscape of rolling hills and dramatic waterfalls. It is home to the country's highest peak, Mount Nyangani, and is a favorite for trout fishing and mountain retreats."
     },
     facts: {
-      "de": ["Höchstes Bergland", "Tourismus-Hotspot", "Östliche Highlands", "Naturgebiet"],
-      "hu": [
-      "Nyanga hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Nyanga körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Nyanga contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Nyanga se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Eastern Highlands", "Tourism hub", "High altitude", "Trout fishing area"]
+      "de": ["Höchstgelegene Ferienregion", "Vielzahl an Wasserfällen", "Bekannt für Forellenzucht", "Kühles Hochlandklima"],
+      "hu": ["Itt található az ország legmagasabb pontja, az Inyangani-hegy", "Híres a pisztrángos tavairól és a gyümölcstermesztésről", "A legrégebbi nemzeti parkok egyikének ad otthont", "Fontos régészeti lelőhelyek találhatók a környéken"],
+      "ro": ["Cel mai înalt vârf (Inyangani)", "Faimos pentru păstrăvării", "Cea mai veche așezare de munte", "Zonă cu livezi de pomi fructiferi"],
+      "en": ["Highest peak, Mt Nyangani nearby", "Premier alpine tourism resort", "Famous for its trout fishing lakes", "Located in the Eastern Highlands", "Home to Zimbabwe's highest waterfall", "Rich in ancient stone terrace ruins"]
     }, image: "/poi-images/nyanga-cities-v2.webp"},
   {
     id: "penhalonga-cities-v2",
@@ -1394,22 +1082,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.7, -18.8833],
     name: { de: "Penhalonga", hu: "Penhalonga", ro: "Penhalonga", en: "Penhalonga" },
     description: {
-      "de": "Penhalonga ist eine historische Goldgräbersiedlung nahe Mutare.",
-      "hu": "Penhalonga egy jelentős város Zimbabwében.",
-      "ro": "Penhalonga este un oraș important din Zimbabwe.",
-      "en": "A historic gold mining town nestled in a valley near Mutare."
+      "de": "Penhalonga ist ein malerisches Tal nahe Mutare mit einer reichen Geschichte des Goldbergbaus.",
+      "hu": "Egy festői völgyben elhelyezkedő város Mutare közelében, amely az aranybányászatáról híres.",
+      "ro": "Penhalonga este o vale pitorească lângă Mutare, având o istorie îndelungată în exploatarea aurului.",
+      "en": "Penhalonga is a historic and picturesque gold-mining village located in a lush valley north of Mutare. Its deep-rooted history in mining and its scenic, mountainous setting make it one of the most unique and charming settlements in the Eastern Highlands."
     },
     facts: {
-      "de": ["Goldgräbergeschichte", "Historischer Ort", "Nahe Mutare", "Bergige Lage"],
-      "hu": [
-      "Penhalonga hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Penhalonga körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Penhalonga contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Penhalonga se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Gold mining legacy", "Near Mutare", "Valley location", "Historic site"]
+      "de": ["Historisches Goldgräbertal", "Nahe der Stadt Mutare", "Bergiges, grünes Umland", "Ländliche Industriegeschichte"],
+      "hu": ["Már a gyarmatosítás előtt is bányásztak itt aranyat", "Az ország egyik legszebb fekvésű települése", "Híres a régi bányászházairól és történelmi hangulatáról", "Fontos mezőgazdasági és erdészeti terület"],
+      "ro": ["Istorie minieră precolonială", "Peisaj deluros și împădurit", "Aproape de granița cu Mozambic", "Comunitate mică și liniștită"],
+      "en": ["Historic gold mining village", "Located in a scenic mountain valley", "Situated just north of Mutare city", "Rich pre-colonial mining history", "Surrounded by timber and tea land", "Home to the Redwing Gold Mine"]
     }, image: "/poi-images/penhalonga-cities-v2.webp"},
   {
     id: "headlands-cities-v2",
@@ -1418,22 +1100,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.05, -18.2833],
     name: { de: "Headlands", hu: "Headlands", ro: "Headlands", en: "Headlands" },
     description: {
-      "de": "Headlands ist eine landwirtschaftliche Siedlung in den östlichen Bezirken.",
-      "hu": "Headlands egy jelentős város Zimbabwében.",
-      "ro": "Headlands este un oraș important din Zimbabwe.",
-      "en": "An agricultural trade center located on the main road between Harare and Mutare."
+      "de": "Headlands ist ein kleiner Handelsort an der strategisch wichtigen Route zwischen Harare und Mutare.",
+      "hu": "Kereskedelmi település a Harare-Mutare főút mentén, a Manicaland tartomány kapujában.",
+      "ro": "Headlands este un punct de oprire important și un centru de colectare agricolă pe drumul spre Mutare.",
+      "en": "Headlands is a small but busy trading center on the main highway between Harare and Mutare. It serves as a vital collection point for the surrounding commercial tobacco and maize farms, supporting the logistics of the Manicaland trade corridor."
     },
     facts: {
-      "de": ["Agrarsiedlung", "Östliche Region", "Handelsort", "Manicaland"],
-      "hu": [
-      "Headlands hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Headlands körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Headlands contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Headlands se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Highway location", "Agricultural area", "Trade hub", "Eastern Zimbabwe"]
+      "de": ["Wichtiger Transitort", "An der A3-Fernstraße", "In Manicaland gelegen", "Zentrum für Tabakfarmen"],
+      "hu": ["A környező dohány- és gabonafarmok központja", "Fontos vasúti és közúti rakodóhely", "A város neve a környék domborzatára utal", "Jelentős állattenyésztési tevékenység folyik itt"],
+      "ro": ["Nod de transport rutier", "Regiune productivă de tutun", "Localizat în provincia Manicaland", "Stație de servicii agricole"],
+      "en": ["Strategic stop on the Mutare road", "Major center for tobacco collection", "Located in the Manicaland Province", "Regional hub for agricultural trade", "Important rail and road transit stop", "Surrounded by large-scale farms"]
     }, image: "/poi-images/headlands-cities-v2.webp"},
   {
     id: "concession-cities-v2",
@@ -1442,22 +1118,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.95, -17.3833],
     name: { de: "Concession", hu: "Concession", ro: "Concession", en: "Concession" },
     description: {
-      "de": "Concession ist ein landwirtschaftlicher Ort nördlich von Harare.",
-      "hu": "Concession egy jelentős város Zimbabwében.",
-      "ro": "Concession este un oraș important din Zimbabwe.",
-      "en": "A farming town in the Mazowe valley of Mashonaland Central."
+      "de": "Concession ist eine historische Bergbau- und Agrarsiedlung im fruchtbaren Mazowe-Distrikt.",
+      "hu": "Mezőgazdasági és bányászati város a Mazowe-völgyben, a fővárostól északra.",
+      "ro": "Situat în Valea Mazowe, Concession este un centru vechi care îmbină mineritul cu agricultura intensivă.",
+      "en": "Concession is a historic farming and mining town located in the productive Mazowe Valley. It is a major hub for grain and tobacco production, and its identity is shaped by the successful agricultural estates and small-scale gold mines in the area."
     },
     facts: {
-      "de": ["Agrarregion", "Nördlich von Harare", "Mashonaland Central", "Kleinstadt"],
-      "hu": [
-      "Concession hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Concession körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Concession contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Concession se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Farming valley", "Mashonaland Central", "Agricultural production", "Regional trade"]
+      "de": ["Zentrum im Mazowe-Distrikt", "Mischung aus Bergbau und Agrar", "Nördlich von Harare", "Regionales Handelszentrum"],
+      "hu": ["Híres a környékén zajló króm- és aranybányászatról", "Fontos állomása a regionális mezőgazdasági szállításnak", "A település eredetileg bányászati engedélyről kapta a nevét", "Sűrűn lakott, produktív mezőgazdasági vidék"],
+      "ro": ["Valea agricolă Mazowe", "Minerit de aur și crom", "Aproape de capitala Harare", "Sursă importantă de cereale"],
+      "en": ["Located in the fertile Mazowe district", "Major tobacco and grain producer", "Rich in local gold mining activity", "Part of Mashonaland Central Province", "Strategic stop near the capital city", "Home to the Mazowe citrus estates"]
     }, image: "/poi-images/concession-cities-v2.webp"},
   {
     id: "murehwa-cities-v2",
@@ -1466,22 +1136,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.7833, -17.65],
     name: { de: "Murehwa", hu: "Murehwa", ro: "Murehwa", en: "Murehwa" },
     description: {
-      "de": "Murehwa ist ein ländliches Handelszentrum in Mashonaland East.",
-      "hu": "Murehwa egy jelentős város Zimbabwében.",
-      "ro": "Murehwa este un oraș important din Zimbabwe.",
-      "en": "A large rural trading and administrative center in Mashonaland East."
+      "de": "Murehwa ist ein bedeutendes kulturelles und administratives Zentrum im Osten von Mashonaland.",
+      "hu": "Kulturális és adminisztratív központ Zimbabwe keleti részén, amely híres sziklarajzairól.",
+      "ro": "Murehwa este un centru cultural renumit pentru siturile sale arheologice și picturile rupestre antice.",
+      "en": "Murehwa is an important cultural and administrative center in Mashonaland East, famous for its ancient rock art. The town serves a vast rural agricultural area and is a focal point for the preservation of local traditions and heritage."
     },
     facts: {
-      "de": ["Ländlicher Handelsort", "Mashonaland East", "Agrarregion", "Regionale Anbindung"],
-      "hu": [
-      "Murehwa hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Murehwa körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Murehwa contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Murehwa se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Administrative center", "Mashonaland East", "Trade hub", "Agricultural district"]
+      "de": ["Kulturelles Zentrum", "Bekannt für Murewa Caves", "Wichtiger Marktplatz", "Administrativer Hauptort"],
+      "hu": ["Itt találhatók a Murehwa-barlangok ősi festményei", "A helyi kultúra és hagyományőrzés fontos helyszíne", "Jelentős mezőgazdasági kereskedelmi bázis", "Hararétól mintegy 75 km-re északkeletre fekszik"],
+      "ro": ["Peșterile Murewa cu picturi", "Păstrarea tradițiilor Shona", "Centru comercial regional", "Localizat la est de Harare"],
+      "en": ["Home to the Murehwa Cave paintings", "Administrative center of the district", "Located 75 km northeast of Harare", "Major hub for rural trading", "Center for Shona cultural traditions", "Agricultural base for small farmers"]
     }, image: "/poi-images/murehwa-cities-v2.webp"},
   {
     id: "wedza-cities-v2",
@@ -1490,22 +1154,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.6333, -18.6167],
     name: { de: "Wedza", hu: "Wedza", ro: "Wedza", en: "Wedza" },
     description: {
-      "de": "Wedza ist ein landwirtschaftliches Zentrum in den Hügeln von Mashonaland East.",
-      "hu": "Wedza egy jelentős város Zimbabwében.",
-      "ro": "Wedza este un oraș important din Zimbabwe.",
-      "en": "A small agricultural center located in the Mashonaland East province."
+      "de": "Wedza ist ein ländliches Zentrum, das malerisch am Fuß des beeindruckenden Wedza-Berges liegt.",
+      "hu": "Egy látványos hegy lábánál fekvő mezőgazdasági település a Mashonaland East tartományban.",
+      "ro": "Wedza este un centru rural așezat la poalele spectaculosului masiv muntos Wedza Mountain.",
+      "en": "Wedza is a picturesque rural center situated at the base of the majestic Wedza Mountain. It serves a productive agricultural district known for its diverse farming activities and its historical significance in traditional iron smelting."
     },
     facts: {
-      "de": ["Agrarzentrum", "Mashonaland East", "Hügellandschaft", "Regionales Zentrum"],
-      "hu": [
-      "Wedza hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Wedza körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Wedza contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Wedza se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Agricultural center", "Mashonaland East", "Local market", "Regional trade"]
+      "de": ["Am Fuß des Wedza-Berges", "Bedeutende Agrarregion", "In Mashonaland East", "Ländlicher Marktplatz"],
+      "hu": ["A Wedza-hegy a régió legfontosabb tájékozódási pontja", "Jelentős dohány- és kukoricatermelő körzet", "Fontos közigazgatási és oktatási szereppel bír", "A terület korábban híres volt vasérclelőhelyeiről"],
+      "ro": ["Situat lângă Muntele Wedza", "Regiune agricolă diversificată", "Istorie în topirea fierului", "Comunitate tradițională activă"],
+      "en": ["Located at the foot of Wedza Mountain", "Major producer of tobacco and maize", "Located in the Mashonaland East", "Historic center for iron production", "Important rural administrative hub", "Scenic mountainous landscape"]
     },
   },
   {
@@ -1515,22 +1173,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.3667, -17.8167],
     name: { de: "Goromonzi", hu: "Goromonzi", ro: "Goromonzi", en: "Goromonzi" },
     description: {
-      "de": "Goromonzi ist eine wachsende ländliche Gemeinde nahe Harare.",
-      "hu": "Goromonzi egy jelentős város Zimbabwében.",
-      "ro": "Goromonzi este un oraș important din Zimbabwe.",
-      "en": "A rural district town near Harare, known for its farming and local commerce."
+      "de": "Goromonzi ist eine wachsende Gemeinde nahe der Hauptstadt, bekannt für ihre Bildungseinrichtungen.",
+      "hu": "Harare közeli vidéki körzet központja, amely kiemelkedő oktatási intézményeiről híres.",
+      "ro": "Goromonzi este o zonă rezidențială și agricolă aflată în imediata apropiere a capitalei Harare.",
+      "en": "Goromonzi is a growing rural district town located near Harare, renowned for its prestigious educational institutions. It is a key agricultural area that supplies the capital with fresh produce and horticulture from its productive farmlands."
     },
     facts: {
-      "de": ["Gemeinde nahe Harare", "Wachsende Region", "Agrarwirtschaft", "Regionale Bedeutung"],
-      "hu": [
-      "Goromonzi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Goromonzi körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Goromonzi contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Goromonzi se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Near Harare", "Rural district", "Agricultural area", "Commuter base"]
+      "de": ["Nahe der Hauptstadt Harare", "Bekannt für seine Schulen", "Agrarwirtschaftliches Umland", "Wachsender Wohnstandort"],
+      "hu": ["Itt működik az ország egyik legrégebbi elit középiskolája", "Népszerű lakóhely a nyugodt környezetet kedvelőknek", "Jelentős mezőgazdasági és kertészeti termelés folyik", "Dinamikusan integrálódik a fővárosi agglomerációba"],
+      "ro": ["Găzduiește școli istorice", "Producție horticolă majoră", "Suburbie rurală populară", "Administrație de district"],
+      "en": ["Home to elite historic schools", "Major horticulture and farming hub", "Located just 35 km from Harare", "Rapidly growing commuter settlement", "Part of Mashonaland East Province", "Administrative center for the district"]
     },
   },
   {
@@ -1540,22 +1192,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.8667, -18.0667],
     name: { de: "Chakari", hu: "Chakari", ro: "Chakari", en: "Chakari" },
     description: {
-      "de": "Chakari ist eine Siedlung eng mit dem Bergbau verbunden.",
-      "hu": "Chakari egy jelentős város Zimbabwében.",
-      "ro": "Chakari este un oraș important din Zimbabwe.",
-      "en": "A small town primarily associated with the mining industry in the Midlands."
+      "de": "Chakari ist eine traditionelle Bergbausiedlung in Mashonaland West, die vom Goldbergbau geprägt ist.",
+      "hu": "Hagyományos bányásztelepülés Mashonaland West tartományban, amely ma is az aranyra épül.",
+      "ro": "Chakari este o mică așezare minieră din Mashonaland West, dependentă de resursele sale de aur.",
+      "en": "Chakari is a traditional and established gold-mining settlement in the Mashonaland West Province. The town's economy and life are centered around its deep-level gold mines, which have supported the local community for generations."
     },
     facts: {
-      "de": ["Bergbaugeschichte", "Mashonaland West", "Ländlicher Ort", "Industrielle Bedeutung"],
-      "hu": [
-      "Chakari hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Chakari körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Chakari contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Chakari se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Mining town", "Midlands province", "Industrial history", "Regional base"]
+      "de": ["Zentrum des Goldbergbaus", "In Mashonaland West", "Typische Minensiedlung", "Ländlich-industrieller Ort"],
+      "hu": ["Jelentős mélyművelésű aranybánya működik itt", "A település arculatát a bányavállalat határozza meg", "Kadoma városától északnyugatra helyezkedik el", "Mezőgazdasági szempontból is fontos térség"],
+      "ro": ["Economie bazată pe aur", "Comunitate minieră unită", "Situat lângă Kadoma", "Infrastructură industrială locală"],
+      "en": ["Established gold mining settlement", "Located in the Mashonaland West", "Home to large-scale gold mines", "Situated near the town of Kadoma", "Primarily an industrial mining town", "Strong local mining community"]
     }, image: "/poi-images/chakari-cities-v2.webp"},
   {
     id: "shangani-cities-v2",
@@ -1564,22 +1210,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.3667, -19.7833],
     name: { de: "Shangani", hu: "Shangani", ro: "Shangani", en: "Shangani" },
     description: {
-      "de": "Shangani ist ein Ort mit historischer Bedeutung in den Midlands.",
-      "hu": "Shangani egy jelentős város Zimbabwében.",
-      "ro": "Shangani este un oraș important din Zimbabwe.",
-      "en": "A small rural center in the Midlands province associated with history and agriculture."
+      "de": "Shangani ist ein kleiner Ort mit großer historischer Bedeutung an der Strecke zwischen Gweru und Bulawayo.",
+      "hu": "Történelmi jelentőségű kisváros a Bulawayo és Gweru közötti útvonal mentén.",
+      "ro": "Shangani este o localitate mică cu o mare încărcătură istorică, situată între orașele Gweru și Bulawayo.",
+      "en": "Shangani is a small but historically significant settlement located along the main route between Bulawayo and Gweru. It is best known for the events of the Shangani Patrol and its role as a regional center for cattle ranching."
     },
     facts: {
-      "de": ["Historischer Ort", "Midlands", "Agrarregion", "Ländliche Gegend"],
-      "hu": [
-      "Shangani hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-      "A(z) Shangani körüli régió sokszínűségéről ismert."
-      ],
-      "ro": [
-      "Shangani contribuie la viața culturală și economică a statului Zimbabwe.",
-      "Regiunea din jurul Shangani se caracterizează prin diversitatea sa."
-      ],
-      "en": ["Rural center", "Midlands province", "Agricultural area", "Historic location"]
+      "de": ["Historisch bedeutsam", "Wichtiger Transitpunkt", "In der Provinz Midlands", "Zentrum für Viehzucht"],
+      "hu": ["A Shangani-folyó melletti csatákról nevezetes", "Az állattenyésztés egyik regionális központja", "Fontos vasúti állomás az országos hálózaton", "Számos emlékmű található a környékén"],
+      "ro": ["Loc al bătăliilor istorice", "Centru de creștere a vitelor", "Stație de tranzit rutier", "Monumente comemorative locale"],
+      "en": ["Named after the nearby Shangani River", "Site of major historical battles", "Located in the Matabeleland South", "Major center for cattle ranching", "Important stop on the national rail", "Home to the Shangani memorial"]
     },
   }
 ];

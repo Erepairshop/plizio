@@ -1732,7 +1732,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
     description: {
       en: "A mountain town known for its high-altitude agriculture and cool climate. It offers scenic views of the Cartago valley.",
       de: "Cot ist ein charmantes Dorf in der Provinz Cartago, das für seine Kartoffelfelder und die Nähe zum Irazú-Vulkan bekannt ist.",
-      hu: 'Kicsi, hagyományos város Cartago tartományban, az Irazú-vulkán lejtőin.',
+      hu: "Cot egy patinás hegyvidéki település az Irazú-vulkán déli lejtőin, amely az ország egyik legfontosabb burgonyatermesztő vidéke. A városból lenyűgöző kilátás nyílik a Cartago-völgyre és a környező ültetvényekre.",
       ro: "Comunitate agricolă în cantonul Oreamuno, provincia Cartago.",
     },
     descriptionAdvanced: {
@@ -1744,7 +1744,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
     facts: {
       en: ["Mountain town", "High-altitude agriculture", "Cool climate", "Cartago valley views"],
       de: ["Provinz Cartago", "Kartoffelanbau", "Nahe Irazú-Vulkan"],
-      hu: ['Burgonya- és zöldségtermesztéséről ismert', 'Történelmi, gyarmati korabeli templommal rendelkezik', 'Hűvös, magaslati éghajlatot kínál'],
+      hu: ["Magaslati burgonyatermesztő központ", "Az Irazú-vulkán közelében fekszik", "Hűvös, hegyvidéki mikroklíma", "Történelmi, gyarmati stílusú templom"],
       ro: ["Zonă agricolă", "Situat în Cartago", "Climat rece", "Peisaj montan"],
     },
     factsAdvanced: {

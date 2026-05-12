@@ -12,7 +12,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       de: "Das Matterhorn der Rocky Mountains besticht durch seine markante Pyramidenform an der Grenze zwischen British Columbia und Alberta.",
       hu: "A Sziklás-hegység egyik leglátványosabb csúcsa Brit Columbia és Alberta határán, amelyet alakja miatt \"Kanada Matterhornjának\" is nevezik.",
       ro: "Supranumit „Matterhorn-ul Americii de Nord” datorită formei sale piramidale spectaculoase, acest vârf domină peisajul Alpilor Canadieni.",
-      en: "Known as the Matterhorn of the Rockies, this striking peak is a landmark of the Canadian Cordillera."
+      en: "A stunning pyramidal peak in the Canadian Rockies often referred to as the Matterhorn of North America."
     },
     descriptionAdvanced: {
       hu: "A Mount Assiniboine a kanadai Sziklás-hegység egyik legikonikusabb csúcsa, amelyet gyakran a kanadai Matterhornként emlegetnek meredek, piramis alakú formája miatt. 3618 méteres magasságával lenyűgöző látványt nyújt a környező gleccserek és alpesi tavak fölött, mint például a Magog-tó. Ez a terület rendkívül népszerű a túrázók és hegymászók körében, mivel a csúcsra csak gyakorlott mászók juthatnak fel. A régió része a Mount Assiniboine Tartományi Parknak, amely szigorúan védett természetvédelmi terület, biztosítva a ritka alpesi ökoszisztémák megőrzését. Földrajz K7 — hegységek és tavak."
@@ -23,7 +23,8 @@ export const poiExtraCanadaNatureV2: POI[] = [
     facts: {
       hu: ["Magassága 3618 méter", "A kanadai Matterhornként is ismert", "Piramis alakú csúcsa gleccserformálta", "A Brit Columbia és Alberta határán áll"],
       de: ["Bekannt als 'Matterhorn der Rocky Mountains'", "Höhe von 3.618 Metern", "Markante Pyramidenform durch Gletschererosion", "UNESCO-Welterbe-Gebiet"],
-      ro: ["Supranumit Matterhorn-ul Munților Stâncoși", "Altitudine maximă de 3.618 metri", "Situat la granița dintre BC și Alberta", "Face parte din patrimoniul mondial UNESCO"]
+      ro: ["Supranumit Matterhorn-ul Munților Stâncoși", "Altitudine maximă de 3.618 metri", "Situat la granița dintre BC și Alberta", "Face parte din patrimoniul mondial UNESCO"],
+      en: ["3,618 metres high", "Pyramidal peak shape", "Part of the Rocky Mountains", "Named after the Assiniboine"]
     }, image: "/poi-images/mount-assiniboine-nature-v2.webp"},
   {
     id: "south-nahanni-river-nature-v2",
@@ -35,7 +36,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       de: "Der South Nahanni River fließt durch spektakuläre Schluchten und über die gewaltigen Virginia Falls in den Northwest Territories.",
       hu: "Az Északnyugati területeken kanyargó vadregényes folyó, amely mély kanyonjairól és hatalmas vízeséseiről ismert.",
       ro: "Un râu sălbatic legendar care curge prin canioane adânci și pe lângă cascade uriașe, fiind inima Parcului Național Nahanni.",
-      en: "A spectacular wilderness river in the Northwest Territories, famous for its deep canyons and waterfalls."
+      en: "A wilderness river in the Northwest Territories famous for the spectacular 96-metre Virginia Falls."
     },
     descriptionAdvanced: {
       hu: "A South Nahanni folyó az Északnyugati területek egyik legdrámaibb természeti képződménye, amely a Nahanni Nemzeti Parkon keresztül kanyarog. A folyó híres a hatalmas mélységű kanyonjairól, valamint a Virginia-vízesésről, amely kétszer magasabb, mint a Niagara-vízesés. Ez a terület az UNESCO Világörökség része, és gazdag geológiai különlegességekben, mint például a felszín alatti barlangrendszerek és hőforrások. A folyó vadvízi evezősök és kalandturisták kedvelt úti célja, akik a szinte érintetlen északi vadont szeretnék felfedezni. Földrajz K7 — folyók és vízesések."
@@ -46,7 +47,8 @@ export const poiExtraCanadaNatureV2: POI[] = [
     facts: {
       hu: ["Az UNESCO Világörökség része", "Itt található a hatalmas Virginia-vízesés", "Mély kanyonok és hőforrások jellemzik", "A Dene őslakosok szent helye"],
       de: ["UNESCO-Weltnaturerbe seit 1978", "Heimat der gewaltigen Virginia Falls", "Fließt durch vier tiefe Canyons", "Beliebtes Ziel für Wildwasser-Expeditionen"],
-      ro: ["Inima Parcului Național Nahanni", "Cascadele Virginia sunt de două ori mai înalte ca Niagara", "Patru canioane spectaculoase de 1.200 metri adâncime", "Primul sit natural UNESCO din lume (1978)"]
+      ro: ["Inima Parcului Național Nahanni", "Cascadele Virginia sunt de două ori mai înalte ca Niagara", "Patru canioane spectaculoase de 1.200 metri adâncime", "Primul sit natural UNESCO din lume (1978)"],
+      en: ["Part of a UNESCO World Heritage site", "96-metre Virginia Falls", "Flows through the Mackenzie Mountains", "Popular for wilderness paddling"]
     }, image: "/poi-images/south-nahanni-river-nature-v2.webp"},
   {
     id: "great-slave-lake-nature-v2",
@@ -69,7 +71,8 @@ export const poiExtraCanadaNatureV2: POI[] = [
     facts: {
       hu: ["Észak-Amerika legmélyebb tava", "Maximális mélysége 614 méter", "Télen jégutakat alakítanak ki rajta", "Partján fekszik Yellowknife városa"],
       de: ["Tiefster See in Nordamerika (614 m)", "Zweitgrößter See in den Northwest Territories", "Yellowknife liegt an seinem Nordufer", "Bekannt für spektakuläre Nordlichter"],
-      ro: ["Cel mai adânc lac din America de Nord (614 metri)", "Al doilea cel mai mare lac din Teritoriile de Nord-Vest", "Numele provine de la poporul indigen Slavey", "Drumurile de gheață sunt vitale pe timpul iernii"]
+      ro: ["Cel mai adânc lac din America de Nord (614 metri)", "Al doilea cel mai mare lac din Teritoriile de Nord-Vest", "Numele provine de la poporul indigen Slavey", "Drumurile de gheață sunt vitale pe timpul iernii"],
+      en: ["614 metres deep", "Second-largest in NWT", "Source of the Mackenzie River", "Deepest lake in North America"]
     }, image: "/poi-images/great-slave-lake-nature-v2.webp"},
   {
     id: "haida-gwaii-islands-nature-v2",
@@ -81,7 +84,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       de: "Dieser entlegene Archipel vor der Küste von British Columbia ist für seine einzigartige Tierwelt und die reiche Kultur der Haida bekannt.",
       hu: "Brit Columbia partjainál fekvő szigetcsoport, amely gazdag őslakos kultúrájáról és egyedülálló élővilágáról híres.",
       ro: "Un arhipelag izolat și mistic în largul coastei British Columbia, renumit pentru biodiversitatea sa unică și cultura bogată a poporului Haida.",
-      en: "An archipelago off British Columbia's coast known for its rich Haida culture and unique ecosystems."
+      en: "An archipelago on the British Columbia coast known for its unique biodiversity and Haida culture."
     },
     descriptionAdvanced: {
       hu: "Haida Gwaii, korábbi nevén a Királynő Sarolta-szigetek, egy szigetcsoport British Columbia partjainál, amely rendkívül gazdag biodiverzitással és a Haida őslakos nép kultúrájával büszkélkedhet. A szigeteket gyakran a 'Kanada Galápagosának' nevezik az egyedülálló növény- és állatvilág miatt, amely az utolsó jégkorszakot követően elszigetelten fejlődött. A területen találhatók az UNESCO védelme alatt álló totemfa-maradványok és az ősi falvak maradványai, amelyek a Haida kultúra mélységét tükrözik. A szigetek éghajlata óceáni, sok csapadékkal, ami buja esőerdőket hozott létre. Földrajz K7 — szigetek és biológia."
@@ -92,7 +95,8 @@ export const poiExtraCanadaNatureV2: POI[] = [
     facts: {
       hu: ["\"Kanada Galápagosának\" is nevezik", "Gazdag Haida őslakos kulturális örökség", "Egyedülálló, endemikus állatfajok", "Totemoszlopok és ősi falvak helyszíne"],
       de: ["Oft als 'Galápagos des Nordens' bezeichnet", "Heimat der indigenen Haida-Kultur", "Einzigartige, endemische Tier- und Pflanzenwelt", "Standort des Gwaii-Haanas-Nationalparks"],
-      ro: ["Arhipelag cunoscut drept Galápagos-ul Nordului", "Centru al culturii poporului indigen Haida", "Păduri tropicale temperate cu arbori seculari", "Situl SGang Gwaay este patrimoniu UNESCO"]
+      ro: ["Arhipelag cunoscut drept Galápagos-ul Nordului", "Centru al culturii poporului indigen Haida", "Păduri tropicale temperate cu arbori seculari", "Situl SGang Gwaay este patrimoniu UNESCO"],
+      en: ["Formerly Queen Charlotte Islands", "Home to the Haida people", "Galapagos of the North", "Gwaii Haanas National Park"]
     }, image: "/poi-images/haida-gwaii-islands-nature-v2.webp"},
   {
     id: "pacific-rim-national-park-forest-nature-v2",
