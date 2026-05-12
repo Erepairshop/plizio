@@ -17,7 +17,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     facts: {
       de: ["Der Hafen von Santos ist der größte Hafen Südamerikas.", "Er befindet sich im Bundesstaat São Paulo.", "Hauptumschlagplatz für Container und Massengut wie Soja.", "Wichtiger Knotenpunkt für den brasilianischen Außenhandel."],
       hu: ["Brazília legforgalmasabb kikötője", "São Paulo államban található", "Konténer- és ömlesztettáru-kezelés", "Évtizedek óta vezető tengeri kapu"],
-      en: ["Located in São Paulo state", "Handles over 100 million tons annually", "Primary export hub for coffee", "Key entry point for imports"]
+      en: ["Located in São Paulo state", "Handles over 100 million tons annually", "Primary export hub for coffee", "Key entry point for imports"],
+      ro: ["Cel mai mare port din America Latină.", "Situat în statul São Paulo.", "Principalul hub pentru exportul de cafea și soia.", "Manipulează peste 100 de milioane de tone anual."]
     },
     descriptionAdvanced: {
       de: "Der Hafen von Santos ist der größte und wichtigste Seehafen Lateinamerikas im Bundesstaat São Paulo. Er wickelt einen Großteil der brasilianischen Exporte ab, insbesondere Kaffee, Zucker und Soja. Der Hafen ist entscheidend für die globale Handelsbilanz Brasiliens und verbindet die industrielle Herzregion mit internationalen Märkten. Erdkunde K7 – Welthandel und maritime Infrastruktur.",
@@ -46,7 +47,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     facts: {
       de: ["Bedeutender Export-Hafen im Bundesstaat Paraná.", "Spezialisiert auf Agrarprodukte wie Soja und Getreide.", "Verfügt über moderne Getreideverladeterminals.", "Zweitgrößter Hafen Brasiliens beim Export von Agrargütern."],
       hu: ["Paraná államban található", "Mezőgazdasági export központ", "Dél-Brazília egyik fő kikötője", "Folyamatosan bővülő infrastruktúra"],
-      en: ["Located in Paraná", "Major soybean and corn terminal", "Second largest port in Brazil", "Handles bulk liquid cargoes"]
+      en: ["Located in Paraná", "Major soybean and corn terminal", "Second largest port in Brazil", "Handles bulk liquid cargoes"],
+      ro: ["Unul dintre cele mai importante porturi agricole din Brazilia.", "Terminal major pentru soia și porumb.", "Al doilea cel mai mare port din țară ca volum.", "Situat strategic în statul Paraná."]
     },
     descriptionAdvanced: {
       de: "Der Hafen von Paranaguá im Bundesstaat Paraná ist ein zentraler Umschlagplatz für landwirtschaftliche Massengüter, vor allem Soja. Er ist einer der effizientesten Terminals Brasiliens und spielt eine Schlüsselrolle in der Versorgung des asiatischen Marktes. Die Infrastruktur wird stetig modernisiert, um den wachsenden Exportmengen gerecht zu werden. Erdkunde K7 – globale Nahrungsmittelversorgung.",
@@ -75,7 +77,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     facts: {
       hu: ["Rio Grande do Sul állam", "Laguna dos Patos partján", "Dél-Brazília fontos kapuja", "Ipari és mezőgazdasági szállítás"],
       en: ["Located in Rio Grande do Sul", "Strategic for Mercosur trade", "Handles diverse containerized cargo", "Significant grain export facility"],
-      de: ["Hauptseehafen von Rio Grande do Sul.", "Exportzentrum für Zellulose und Agrargüter.", "Liegt strategisch an der Lagoa dos Patos.", "Wichtiger Akteur im Mercosur-Handel."]
+      de: ["Hauptseehafen von Rio Grande do Sul.", "Exportzentrum für Zellulose und Agrargüter.", "Liegt strategisch an der Lagoa dos Patos.", "Wichtiger Akteur im Mercosur-Handel."],
+      ro: ["Cel mai sudic port comercial major al Braziliei.", "Situat la intrarea în Laguna dos Patos.", "Hub logistic esențial pentru statul Rio Grande do Sul.", "Important pentru comerțul în cadrul Mercosur."]
     },
     descriptionAdvanced: {
       hu: "Rio Grande kikötője Rio Grande do Sul állam legfontosabb tengeri kijárata, amely az ország legdélebbi részén található. A kikötő elengedhetetlen a régió agráripari termékeinek tengeri szállításához és a nemzetközi kereskedelem fenntartásához. A régió ipari növekedése szorosan összefügg a kikötői infrastruktúra fejlesztésével és hatékonyságával. Földrajz K7 – gazdasági infrastruktúra.",
@@ -105,7 +108,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     facts: {
       hu: ["Espírito Santo állam", "Vasérc export központ", "Ipari szállítási csomópont", "Több terminállal rendelkezik"],
       en: ["Located in Espírito Santo", "Important for steel industry", "Handles iron ore shipments", "Connected to railway networks"],
-      de: ["Zentraler Hafen in Espírito Santo.", "Große Bedeutung für den Eisenerzexport.", "Eng mit regionalen Stahlwerken vernetzt.", "Logistikzentrum für die lokale Industrie."]
+      de: ["Zentraler Hafen in Espírito Santo.", "Große Bedeutung für den Eisenerzexport.", "Eng mit regionalen Stahlwerken vernetzt.", "Logistikzentrum für die lokale Industrie."],
+      ro: ["Centru vital pentru exportul de minereu de fier și oțel.", "Conectat la rețele feroviare majore.", "Include terminalul specializat de la Tubarão.", "Situat în statul Espírito Santo."]
     },
     descriptionAdvanced: {
       hu: "Vitória kikötője Espírito Santo állam gazdasági központja, amely kiemelkedő szerepet játszik a bányászati termékek, különösen a vasérc tengeri exportjában. A környék ipari övezetei és a fejlett kikötői létesítmények révén Vitória a brazil ipari stratégia egyik sarokköve. A kikötő összeköti a szárazföldi bányászati régiókat a nemzetközi piacokkal. Földrajz K7 – bányászat és export.",
@@ -134,7 +138,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     facts: {
       hu: ["Maranhão állam", "Mélyvízi kikötő", "Észak-Brazíliai logisztika", "Vasérc és szója export"],
       en: ["Deep-water draft capacity", "Focuses on iron ore", "Exports grains and soy", "Part of the North Corridor"],
-      de: ["Tiefwasserhafen im Bundesstaat Maranhão.", "Umschlagplatz für Eisenerz und Agrarprodukte.", "Direkte Anbindung an die Carajás-Eisenbahn.", "Strategisches Tor nach Asien und Europa."]
+      de: ["Tiefwasserhafen im Bundesstaat Maranhão.", "Umschlagplatz für Eisenerz und Agrarprodukte.", "Direkte Anbindung an die Carajás-Eisenbahn.", "Strategisches Tor nach Asien und Europa."],
+      ro: ["Unul dintre cele mai adânci porturi din Brazilia.", "Punct strategic de export pentru minerale din Amazonia.", "Capacitate de a primi nave de mare tonaj.", "Situat în São Luís, statul Maranhão."]
     },
     descriptionAdvanced: {
       hu: "Itaqui kikötője São Luís szigetén található, Maranhão államban, és mélyvízi kikötőként kulcsszerepet játszik az északkeleti és az északi régiók kereskedelmében. Fő profilja a bányászati termékek, a gabona és a kőolajszármazékok kezelése, összekötve a belső régiókat a világpiaccal. A kikötő a régió ipari és gazdasági fejlődésének egyik katalizátora. Földrajz K6 – logisztika.",
@@ -164,7 +169,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     facts: {
       hu: ["Pernambuco állam", "Ipari kikötőkomplexum", "Északkelet-Brazília központja", "Olajfinomítóval összekapcsolt"],
       en: ["Located in Pernambuco", "Includes a large refinery", "Handles automotive and industrial goods", "Strategic location for international shipping"],
-      de: ["Industrie- und Hafenkomplex in Pernambuco.", "Zentrum für Ölraffinerien und Petrochemie.", "Wichtiger Containerhafen im Nordosten.", "Motor der regionalen Wirtschaftsentwicklung."]
+      de: ["Industrie- und Hafenkomplex in Pernambuco.", "Zentrum für Ölraffinerien und Petrochemie.", "Wichtiger Containerhafen im Nordosten.", "Motor der regionalen Wirtschaftsentwicklung."],
+      ro: ["Complex industrial-portuar modern.", "Include o mare rafinărie de petrol.", "Hub important pentru industria auto și bunuri industriale.", "Situat în statul Pernambuco."]
     },
     descriptionAdvanced: {
       hu: "Suape kikötője Pernambuco államban egy hatalmas ipari és logisztikai komplexum központja, amely a régió gazdasági modernizációjának egyik zászlóshajója. A komplexum magában foglal egy olajfinomítót, hajógyárakat és számos ipari üzemegységet, amelyek új munkahelyeket és technológiát biztosítanak a térségben. Suape a modern brazil ipar egyik legfontosabb fejlesztési projektje. Földrajz K7 – ipari fejlesztések.",
@@ -193,7 +199,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     facts: {
       hu: ["Ceará állam", "Stratégiai kikötő", "Zöld hidrogén központ", "Gyorsan fejlődő infrastruktúra"],
       en: ["Located in Ceará", "Major terminal for steel and energy", "Strategic for green hydrogen", "Focus on international trade"],
-      de: ["Moderner Hafen im Bundesstaat Ceará.", "Fokus auf Stahlproduktion und Roheisenexport.", "Teil einer großen Industrie-Sonderzone.", "Wichtige Anlaufstelle für globale Märkte."]
+      de: ["Moderner Hafen im Bundesstaat Ceará.", "Fokus auf Stahlproduktion und Roheisenexport.", "Teil einer großen Industrie-Sonderzone.", "Wichtige Anlaufstelle für globale Märkte."],
+      ro: ["Terminal de adâncime cu zonă de procesare a exporturilor.", "Hub strategic pentru dezvoltarea hidrogenului verde.", "Important pentru industria siderurgică și energetică.", "Situat în statul Ceará."]
     },
     descriptionAdvanced: {
       hu: "Pecém kikötője Ceará államban, Fortaleza közelében található, és egy gyorsan fejlődő ipari és kikötői övezet része. A kikötő stratégiai jelentőséggel bír a zöldhidrogén-projektek és a fenntartható ipari fejlődés szempontjából, ami Brazília jövőbeli energiapolitikájának egyik kulcsfontosságú eleme. Fontos nemzetközi kereskedelmi kapu az északkeleti régió számára. Földrajz K7 – zöldenergia.",
@@ -222,7 +229,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     facts: {
       hu: ["Rio de Janeiro állam", "Guanabara-öböl", "Vegyes forgalmú kikötő", "Történelmi kereskedelmi kapu"],
       en: ["Located in Rio de Janeiro", "Handles general cargo and vehicles", "Proximity to industrial centers", "Crucial for coastal shipping"],
-      de: ["Historischer Hafen in der Guanabara-Bucht.", "Schwerpunkt auf Container- und Stückgut.", "Tor für den Import von Fertigwaren.", "Wirtschaftlicher Motor der Metropole Rio."]
+      de: ["Historischer Hafen in der Guanabara-Bucht.", "Schwerpunkt auf Container- und Stückgut.", "Tor für den Import von Fertigwaren.", "Wirtschaftlicher Motor der Metropole Rio."],
+      ro: ["Situat în Golful Guanabara.", "Important pentru containere și vehicule.", "Hub major pentru turismul de croazieră.", "Aproape de principalele centre industriale regionale."]
     },
     descriptionAdvanced: {
       hu: "Rio de Janeiro kikötője történelmi és modern kereskedelmi szerepet is betölt Brazília egyik legfontosabb nagyvárosában. Bár a kikötő már nem az ország legnagyobbja, továbbra is fontos szereplő a konténerforgalomban és az utasforgalomban, kiszolgálva a nagyvárosi régió igényeit és a turisztikai szektort. A város tengeri kapuja, amely összeköti a metropoliszt a nemzetközi hálózatokkal. Földrajz K6 – városi kereskedelem.",
@@ -251,7 +259,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     facts: {
       hu: ["Santa Catarina állam", "Fontos konténerkikötő", "Déli ipari központok", "Hatékony logisztikai hálózat"],
       en: ["Located in Santa Catarina", "Major hub for containerized cargo", "Significant export of frozen food", "Vital to regional economy"],
-      de: ["Zweitgrößter Containerhafen Brasiliens.", "Spezialisiert auf hochwertige Exporte.", "Enge Verbindung zur Textilindustrie.", "Zentrum für den Export gefrorener Waren."]
+      de: ["Zweitgrößter Containerhafen Brasiliens.", "Spezialisiert auf hochwertige Exporte.", "Enge Verbindung zur Textilindustrie.", "Zentrum für den Export gefrorener Waren."],
+      ro: ["Principalul terminal de containere din Santa Catarina.", "Centru major pentru exportul de alimente congelate.", "Vital pentru economia regiunii de sud.", "Dispune de infrastructură logistică eficientă."]
     },
     descriptionAdvanced: {
       hu: "Itajaí kikötője Santa Catarina államban Brazília egyik legjelentősebb konténerterminálja, amely kiemelkedő szerepet játszik az ország export-import tevékenységében. A kikötő hatékony logisztikai rendszere miatt az egyik preferált állomás a nemzetközi hajózási társaságok számára. A dél-brazíliai ipari termékek egyik fő kilépési pontja a világpiacra. Földrajz K6 – logisztika.",
@@ -281,7 +290,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     facts: {
       hu: ["Santa Catarina állam", "Történelmi kikötő", "Gabona- és faexport", "Fontos tengeri terminál"],
       en: ["Located in Santa Catarina", "Specializes in wood and grain", "Significant bulk cargo volume", "Important regional maritime access"],
-      de: ["Ältester Hafen von Santa Catarina.", "Export von Holzprodukten und Stahl.", "Wichtig für den Umschlag von Düngemitteln.", "Strategischer Standort im Süden Brasiliens."]
+      de: ["Ältester Hafen von Santa Catarina.", "Export von Holzprodukten und Stahl.", "Wichtig für den Umschlag von Düngemitteln.", "Strategischer Standort im Süden Brasiliens."],
+      ro: ["Port istoric specializat în vrac solid.", "Manevrează volume mari de cereale și produse din lemn.", "Terminal maritim regional important.", "Situat în nordul statului Santa Catarina."]
     },
     descriptionAdvanced: {
       hu: "São Francisco do Sul kikötője Santa Catarina állam egyik legöregebb települése, amely mára fontos tengeri áruszállítási csomóponttá vált. A kikötő főleg a faipari termékek, a mezőgazdasági áruk és a vasérc exportjára specializálódott. Történelmi jelentősége és stratégiai fekvése miatt a régió gazdasági életének egyik meghatározó szereplője. Történelem K8 – kereskedelmi múlt.",
