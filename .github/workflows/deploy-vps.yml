@@ -3,7 +3,7 @@ name: Deploy VPS (Leaseweb)
 on:
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [main, europe-map-wiring]
     paths-ignore:
       - '**/*.md'
       - 'docs/**'
