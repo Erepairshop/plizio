@@ -151,7 +151,6 @@ export const monacoHistory: POI[] = [
       hu: [],
       ro: ["Muzeul a fost înființat în 1902 de către Albert I", "Este specializat în istoria așezărilor de pe Riviera Monegască", "Găzduiește descoperiri din numeroase săpături arheologice din regiune", "Muzeul este situat în incinta Grădinii Exotice", "Reprezintă un centru important pentru cercetarea antropologică locală", "Colecția include, de asemenea, fosile din perioada preistorică", "Muzeul oferă perspective educaționale asupra istoriei timpurii a umanității"],
       en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
-    }
-  }
+    }, image: "/poi-images/landmark-museum-prehistoric.webp"}
 ];
 

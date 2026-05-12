@@ -19,8 +19,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 1.673 km²", "Fondat ca parc național în 1991", "Cel mai înalt vârf ceh este Plechý", "Face parte din 'Acoperișul Verde' al Europei"],
       en: ["Area of approximately 1,673 km²", "Founded as a national park in 1991", "Highest Czech peak is Plechý", "Part of the Green Roof of Europe"],
     },
-    imageHint: "Bohemian Forest Sumava misty spruce trees",
-  },
+    imageHint: "Bohemian Forest Sumava misty spruce trees", image: "/poi-images/czechrepublic-sumava-nature-v2.webp"},
   {
     id: "czechrepublic-pravcicka-brana-nature-v2",
     type: "landmark",
@@ -39,8 +38,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Deschiderea arcului este de 26,5 metri", "Înălțimea liberă este de 16 metri", "Loc de filmare pentru 'Cronicile din Narnia'", "Accesul pe arc este interzis din 1982"],
       en: ["Arch span of 26.5 meters", "Clear height of 16 meters", "Filming location for 'The Chronicles of Narnia'", "Stepping on the arch forbidden since 1982"],
     },
-    imageHint: "Pravcice Gate sandstone arch Czech Switzerland",
-  },
+    imageHint: "Pravcice Gate sandstone arch Czech Switzerland", image: "/poi-images/czechrepublic-pravcicka-brana-nature-v2.webp"},
   {
     id: "czechrepublic-macocha-abyss-nature-v2",
     type: "valley",
@@ -59,8 +57,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Adâncimea este de 138,5 metri", "Formată prin prăbușirea tavanului", "Punct de observare superior din 1882", "Parte a sistemului de peșteri Punkva"],
       en: ["Depth is 138.5 meters", "Formed by a ceiling collapse", "Upper observation point since 1882", "Part of the Punkva cave system"],
     },
-    imageHint: "Macocha Abyss sinkhole Moravian Karst",
-  },
+    imageHint: "Macocha Abyss sinkhole Moravian Karst", image: "/poi-images/czechrepublic-macocha-abyss-nature-v2.webp"},
   {
     id: "czechrepublic-vltava-river-nature-v2",
     type: "river",
@@ -79,8 +76,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Lungime totală de 430 kilometri", "Are 9 baraje mari", "A inspirat simfonia lui Smetana 'Vltava'", "Gura de vărsare la Mělník în Elba"],
       en: ["Total length of 430 kilometers", "Features 9 large dams", "Inspired Smetana's symphony 'Vltava'", "Confluence with Elbe near Mělník"],
     },
-    imageHint: "Vltava river bend Czech landscape",
-  },
+    imageHint: "Vltava river bend Czech landscape", image: "/poi-images/czechrepublic-vltava-river-nature-v2.webp"},
   {
     id: "czechrepublic-punkva-caves-nature-v2",
     type: "landmark",
@@ -99,8 +95,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Descoperite de Karel Absolon din 1909", "Conține 'Domul Imperiului'", "Lungimea plimbării cu barca: cca. 450 m", "Deschise vizitatorilor tot anul"],
       en: ["Discovered by Karel Absolon from 1909", "Contains the 'Dome of the Realm'", "Length of boat ride: approx. 450 m", "Open to visitors year-round"],
     },
-    imageHint: "Punkva caves underground boat river",
-  },
+    imageHint: "Punkva caves underground boat river", image: "/poi-images/czechrepublic-punkva-caves-nature-v2.webp"},
   {
     id: "czechrepublic-elbe-river-nature-v2",
     type: "river",
@@ -119,8 +114,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Izvorăște la 1386 m altitudine", "Lungimea în Cehia: 370 km", "Se varsă în Marea Nordului la Cuxhaven", "Port fluvial important la Děčín"],
       en: ["Source at 1386 m altitude", "Length in Czechia: 370 km", "Flows into the North Sea at Cuxhaven", "Important inland port in Děčín"],
     },
-    imageHint: "Elbe river landscape Czech Republic",
-  },
+    imageHint: "Elbe river landscape Czech Republic", image: "/poi-images/czechrepublic-elbe-river-nature-v2.webp"},
   {
     id: "czechrepublic-prachov-rocks-nature-v2",
     type: "landmark",
@@ -139,8 +133,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Una dintre cele mai vechi zone de escaladă", "Rezervație naturală din 1933", "Locație pentru producții de la Hollywood", "Situl unei așezări preistorice fortificate"],
       en: ["One of the oldest climbing areas in CZ", "Nature reserve since 1933", "Location for Hollywood productions", "Site of a prehistoric hillfort"],
     },
-    imageHint: "Prachov rocks sandstone towers",
-  },
+    imageHint: "Prachov rocks sandstone towers", image: "/poi-images/czechrepublic-prachov-rocks-nature-v2.webp"},
   {
     id: "czechrepublic-boubin-forest-nature-v2",
     type: "forest",
@@ -159,8 +152,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Rezervație fondată în anul 1858", "Unii arbori au peste 400 de ani", "Element central al Munților Šumava", "Traseu educativ în jurul zonei centrale"],
       en: ["Reserve founded in 1858", "Some trees are over 400 years old", "Core element of the Bohemian Forest", "Educational trail around the core area"],
     },
-    imageHint: "Boubin forest primeval trees moss",
-  },
+    imageHint: "Boubin forest primeval trees moss", image: "/poi-images/czechrepublic-boubin-forest-nature-v2.webp"},
   {
     id: "czechrepublic-macha-lake-nature-v2",
     type: "lake",
@@ -179,8 +171,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Creat în anul 1366", "Suprafață de aproximativ 284 hectare", "Numit după poetul K. H. Mácha", "Patru plaje principale pentru turiști"],
       en: ["Established in 1366", "Area of approx. 284 hectares", "Named after the poet K. H. Mácha", "Four main beaches for visitors"],
     },
-    imageHint: "Macha lake beach pine forest",
-  },
+    imageHint: "Macha lake beach pine forest", image: "/poi-images/czechrepublic-macha-lake-nature-v2.webp"},
   {
     id: "czechrepublic-hranice-abyss-nature-v2",
     type: "valley",
@@ -199,8 +190,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Adâncime confirmată a apei: 450 m", "Adâncime totală estimată: peste 1 km", "Peștera are origine hidrotermală", "Situat în rezervația Hůrka"],
       en: ["Confirmed water depth: 450 m", "Estimated total depth: over 1 km", "Cave is of hydrothermal origin", "Located in the Hůrka reserve"],
     },
-    imageHint: "Hranice abyss water hole cave",
-  },
+    imageHint: "Hranice abyss water hole cave", image: "/poi-images/czechrepublic-hranice-abyss-nature-v2.webp"},
   {
     id: "czechrepublic-jizera-mountains-nature-v2",
     type: "mountain",
@@ -219,8 +209,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf: Smrk (1124 m)", "Păduri de fag UNESCO din 2021", "Locul cursei de schi Jizerská padesátka", "Deține numeroase turnuri de observație"],
       en: ["Highest peak: Smrk (1124 m)", "UNESCO beech forests since 2021", "Host of the Jizerská padesátka race", "Features numerous lookout towers"],
     },
-    imageHint: "Jizera mountains peat bog landscape",
-  },
+    imageHint: "Jizera mountains peat bog landscape", image: "/poi-images/czechrepublic-jizera-mountains-nature-v2.webp"},
   {
     id: "czechrepublic-soos-reserve-nature-v2",
     type: "park",
@@ -239,8 +228,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Rezervație din 1964", "Prezența straturilor de diatomit", "Traseu educativ pe punți de lemn", "Numeroase izvoare minerale la fața locului"],
       en: ["Reserve since 1964", "Presence of diatomaceous earth", "Educational trail on wooden boardwalks", "Numerous mineral springs on site"],
     },
-    imageHint: "Soos reserve mud volcanoes bubbles",
-  },
+    imageHint: "Soos reserve mud volcanoes bubbles", image: "/poi-images/czechrepublic-soos-reserve-nature-v2.webp"},
   {
     id: "czechrepublic-ohre-river-nature-v2",
     type: "river",
@@ -259,8 +247,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Lungime totală de 316 km", "Gura de vărsare în Elba la Litoměřice", "Curge prin valea Ohře", "Faimoasa formațiune 'Stâncile Svatoš'"],
       en: ["Total length of 316 km", "Confluence with Elbe at Litoměřice", "Flows through the Ohre valley", "Famous 'Svatoš Rocks' formation"],
     },
-    imageHint: "Ohre river Karlovy Vary landscape",
-  },
+    imageHint: "Ohre river Karlovy Vary landscape", image: "/poi-images/czechrepublic-ohre-river-nature-v2.webp"},
   {
     id: "czechrepublic-cerne-jezero-nature-v2",
     type: "lake",
@@ -279,8 +266,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Suprafață de 18,4 hectare", "Adâncime maximă: 40 metri", "Situat la 1008 m altitudine", "Rezervație naturală strictă"],
       en: ["Area of 18.4 hectares", "Maximum depth: 40 meters", "Located at 1008 m above sea level", "Strict nature reserve"],
     },
-    imageHint: "Black Lake Sumava glacial mountain",
-  },
+    imageHint: "Black Lake Sumava glacial mountain", image: "/poi-images/czechrepublic-cerne-jezero-nature-v2.webp"},
   {
     id: "czechrepublic-kralicky-sneznik-nature-v2",
     type: "mountain",
@@ -299,8 +285,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Înălțime: 1423 m", "Izvorul râului Morava", "Simbol: Sculptura unui elefant", "Cumpăna apelor: M. Nordului, Baltică, Neagră"],
       en: ["Height: 1423 m", "Source of the Morava River", "Symbol: Sculpture of an elephant", "Watershed of North, Baltic, and Black Seas"],
     },
-    imageHint: "Kralicky Sneznik mountain elephant statue",
-  },
+    imageHint: "Kralicky Sneznik mountain elephant statue", image: "/poi-images/czechrepublic-kralicky-sneznik-nature-v2.webp"},
   {
     id: "czechrepublic-lusatian-mountains-nature-v2",
     type: "mountain",
@@ -319,8 +304,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf: Luž (793 m)", "Case tradiționale specifice zonei", "Zăcăminte de cristal de stâncă", "Zonă de drumeție populară"],
       en: ["Highest peak: Luž (793 m)", "Characteristic traditional folk houses", "Significant occurrences of rock crystal", "Popular hiking area"],
     },
-    imageHint: "Lusatian mountains volcanic peak Czech",
-  },
+    imageHint: "Lusatian mountains volcanic peak Czech", image: "/poi-images/czechrepublic-lusatian-mountains-nature-v2.webp"},
   {
     id: "czechrepublic-berounka-river-nature-v2",
     type: "river",
@@ -339,8 +323,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 139 kilometri", "Trece pe lângă castelul Karlštejn", "Niciun baraj pe cursul inferior", "Parte a rezervației biosferei Křivoklátsko"],
       en: ["Length of approx. 139 kilometers", "Flows past Karlštejn Castle", "No dams on the lower course", "Part of Křivoklátsko Biosphere Reserve"],
     },
-    imageHint: "Berounka river valley canoe",
-  },
+    imageHint: "Berounka river valley canoe", image: "/poi-images/czechrepublic-berounka-river-nature-v2.webp"},
   {
     id: "czechrepublic-sazava-river-nature-v2",
     type: "river",
@@ -359,8 +342,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 225 kilometri", "Râu important pentru mișcarea 'tramping'", "Deține faimoasa secțiune Stvořidla", "Se varsă în Vltava la Davle"],
       en: ["Length of approx. 225 kilometers", "Important river for Czech 'tramping'", "Features the famous Stvořidla section", "Confluence with Vltava at Davle"],
     },
-    imageHint: "Sazava river rapids forest",
-  },
+    imageHint: "Sazava river rapids forest", image: "/poi-images/czechrepublic-sazava-river-nature-v2.webp"},
   {
     id: "czechrepublic-certovo-jezero-nature-v2",
     type: "lake",
@@ -379,8 +361,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Adâncime: cca. 37 metri", "Format în era glaciară Würm", "Suprafață: 10,3 hectare", "Relicvă glaciară"],
       en: ["Depth: approx. 37 meters", "Formed during the Würm glaciation", "Area: 10.3 hectares", "Glacial relic"],
     },
-    imageHint: "Devils lake Sumava forest dark water",
-  },
+    imageHint: "Devils lake Sumava forest dark water", image: "/poi-images/czechrepublic-certovo-jezero-nature-v2.webp"},
   {
     id: "czechrepublic-rejviz-lake-nature-v2",
     type: "lake",
@@ -399,8 +380,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Cea mai mare mlaștină din Moravia", "Traseu pe scânduri de lemn", "Prezența plantelor carnivore", "Altitudine: 769 m"],
       en: ["Largest mountain bog in Moravia", "Educational trail on wooden boards", "Presence of carnivorous plants", "Elevation: 769 m above sea level"],
     },
-    imageHint: "Rejviz moss lake wooden path",
-  },
+    imageHint: "Rejviz moss lake wooden path", image: "/poi-images/czechrepublic-rejviz-lake-nature-v2.webp"},
   {
     id: "czechrepublic-bohemian-switzerland-nature-v2",
     type: "park",
@@ -419,8 +399,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Fondat în anul 2000", "Se învecinează cu Elveția Saxonă", "Cel mai important râu: Elba", "Habitat pentru șoimul călător"],
       en: ["Founded in 2000", "Borders Saxon Switzerland in Germany", "Major river: Elbe", "Habitat for peregrine falcons"],
     },
-    imageHint: "Bohemian Switzerland mountains fog",
-  }
+    imageHint: "Bohemian Switzerland mountains fog", image: "/poi-images/czechrepublic-bohemian-switzerland-nature-v2.webp"}
 ,
   {
     id: "czechrepublic-mumlava-waterfall-nature-v2",
@@ -458,8 +437,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Rezervație naturală națională din 1956", "Formațiuni unice de tip ciuperci de piatră", "Acoperă o suprafață de 638 de hectare", "Cel mai înalt punct este Koruna la 769 m"],
       en: ["National nature reserve since 1956", "Unique Stone Mushrooms rock formations", "Covers an area of 638 hectares", "Highest point is Koruna at 769 meters"],
     },
-    imageHint: "Broumov Walls sandstone rock formations",
-  },
+    imageHint: "Broumov Walls sandstone rock formations", image: "/poi-images/czechrepublic-broumov-walls-nature-v2.webp"},
   {
     id: "czechrepublic-velka-amerika-nature-v2",
     type: "valley",
@@ -477,8 +455,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Circa 800 metri lungime și 100 metri adâncime", "Locație populară de filmare pentru cinema", "Conectată cu alte cariere prin tuneluri", "Exploatarea calcarului s-a încheiat în 1963"],
       en: ["About 800 meters long and 100 meters deep", "Popular filming location for various movies", "Interconnected with other quarries by tunnels", "Limestone mining ended here in 1963"],
     },
-    imageHint: "Velka Amerika quarry canyon blue lake",
-  },
+    imageHint: "Velka Amerika quarry canyon blue lake", image: "/poi-images/czechrepublic-velka-amerika-nature-v2.webp"},
   {
     id: "czechrepublic-bila-opava-valley-nature-v2",
     type: "valley",
@@ -496,8 +473,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Situată pe pantele muntelui Praděd", "Cea mai înaltă cascadă are 8 metri", "Parte a Rezervației Naturale Naționale Praděd", "Păduri virgine de molid de munte"],
       en: ["Located on the slopes of Praděd mountain", "The highest waterfall is 8 meters tall", "Part of the Praděd National Nature Reserve", "Home to rare mountain spruce forests"],
     },
-    imageHint: "Bila Opava river cascades mountain gorge",
-  },
+    imageHint: "Bila Opava river cascades mountain gorge", image: "/poi-images/czechrepublic-bila-opava-valley-nature-v2.webp"},
   {
     id: "czechrepublic-doupov-mountains-nature-v2",
     type: "mountain",
@@ -515,8 +491,7 @@ export const czechrepublicNatureV2: POI[] = [
       ro: ["Cea mai mare acumulare de bazalt din Europa Centrală", "Utilizat în principal ca zonă de antrenament militar", "Arie importantă de protecție a păsărilor", "Cel mai înalt vârf este Hradiště la 934 m"],
       en: ["Largest basalt accumulation in Central Europe", "Mostly used as a military training area", "Important bird protection area", "Highest peak is Hradiště at 934 meters"],
     },
-    imageHint: "Doupov Mountains volcanic landscape forest",
-  },
+    imageHint: "Doupov Mountains volcanic landscape forest", image: "/poi-images/czechrepublic-doupov-mountains-nature-v2.webp"},
   {
     id: "czechrepublic-luznice-river-nature-v2",
     type: "river",

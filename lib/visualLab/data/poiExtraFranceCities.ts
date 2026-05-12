@@ -19,8 +19,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Az 1968-as téli olimpia házigazdája.", "Atomkutatási központ.", "Felvonó a Bastille erődhöz."],
       ro: ["Gazda Jocurilor Olimpice de iarnă din 1968.", "Centru de cercetare nucleară.", "Telecabină către Fortăreața Bastilia."],
       en: ["Host of the 1968 Winter Olympics.", "Center for nuclear research.", "Cable car to the Bastille fortress."]
-    }
-  },
+    }, image: "/poi-images/city-grenoble-extra.webp"},
   {
     id: "city-strasbourg-extra",
     type: "city",
@@ -38,8 +37,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Az Európai Parlament székhelye.", "A 'Petite France' történelmi negyed.", "Híres karácsonyi vásár."],
       ro: ["Sediul Parlamentului European.", "Cartierul istoric 'Petite France'.", "Târg de Crăciun renumit."],
       en: ["Seat of the European Parliament.", "Historic 'Petite France' quarter.", "Famous Christmas market."]
-    }
-  },
+    }, image: "/poi-images/city-strasbourg-extra.webp"},
   {
     id: "industry-airbus-toulouse-extra",
     type: "industry",
@@ -57,8 +55,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Az Airbus főhadiszállása.", "A320, A330, A350 gyártása.", "Látogatói túrák 'Let's visit Airbus' néven."],
       ro: ["Sediul central al Airbus.", "Producția de A320, A330, A350.", "Tururi pentru vizitatori 'Let's visit Airbus' disponibile."],
       en: ["Headquarters of Airbus.", "Production of A320, A330, A350.", "Visitor tours 'Let's visit Airbus' available."]
-    }
-  },
+    }, image: "/poi-images/industry-airbus-toulouse-extra.webp"},
   {
     id: "port-le-havre-extra",
     type: "port",
@@ -76,8 +73,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Franciaország legnagyobb konténerkikötője.", "Fontos az észak-amerikai kereskedelemben.", "A háború utáni építészete miatt UNESCO világörökség."],
       ro: ["Cel mai mare port de containere din Franța.", "Important pentru comerțul cu America de Nord.", "Patrimoniu Mondial UNESCO pentru arhitectura sa postbelică."],
       en: ["France's largest container port.", "Important for trade with North America.", "UNESCO World Heritage site for its post-war architecture."]
-    }
-  },
+    }, image: "/poi-images/port-le-havre-extra.webp"},
   {
     id: "agriculture-bordeaux-vineyards-extra",
     type: "agriculture",
@@ -95,8 +91,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Több mint 110 000 hektár szőlőültetvény.", "Fő szőlőfajták: Merlot, Cabernet Sauvignon.", "A Cité du Vin egy bormúzeum."],
       ro: ["Peste 110.000 de hectare de vii.", "Soiuri principale: Merlot, Cabernet Sauvignon.", "Cité du Vin este un muzeu dedicat vinului."],
       en: ["Over 110,000 hectares of vineyards.", "Main grape varieties: Merlot, Cabernet Sauvignon.", "The Cité du Vin is a museum dedicated to wine."]
-    }
-  },
+    }, image: "/poi-images/agriculture-bordeaux-vineyards-extra.webp"},
   {
     id: "historical-arena-of-nimes-extra",
     type: "historical",
@@ -114,8 +109,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["A római Colosseum ihlette.", "Akár 24 000 néző befogadására is alkalmas.", "Nîmes római kori örökségének része."],
       ro: ["Inspirat de Colosseumul din Roma.", "Capacitate de până la 24.000 de spectatori.", "Parte a moștenirii romane a orașului Nîmes."],
       en: ["Inspired by the Colosseum in Rome.", "Capacity for up to 24,000 spectators.", "Part of the Roman heritage of Nîmes."]
-    }
-  },
+    }, image: "/poi-images/historical-arena-of-nimes-extra.webp"},
   {
     id: "landmark-viaduc-de-millau-extra",
     type: "landmark",
@@ -133,8 +127,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Magasabb, mint az Eiffel-torony.", "2004-ben nyílt meg.", "A Tarn folyó völgyét hidalja át."],
       ro: ["Mai înalt decât Turnul Eiffel.", "Inaugurat în 2004.", "Traversează valea râului Tarn."],
       en: ["Taller than the Eiffel Tower.", "Opened in 2004.", "Spans the valley of the river Tarn."]
-    }
-  },
+    }, image: "/poi-images/landmark-viaduc-de-millau-extra.webp"},
   {
     id: "nature-gorges-du-verdon-extra",
     type: "river",
@@ -152,8 +145,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Akár 700 méter mély.", "Népszerű kajakozásra, túrázásra és sziklamászásra.", "A Verdon Regionális Natúrpark része."],
       ro: ["Adâncime de până la 700 de metri.", "Popular pentru caiac, drumeții și alpinism.", "Parte a Parcului Natural Regional Verdon."],
       en: ["Up to 700 meters deep.", "Popular for kayaking, hiking, and climbing.", "Part of the Verdon Regional Natural Park."]
-    }
-  },
+    }, image: "/poi-images/nature-gorges-du-verdon-extra.webp"},
   {
     id: "castle-chateau-de-chambord-extra",
     type: "castle",
@@ -171,8 +163,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["I. Ferenc király vadászkastélyának épült.", "Híres kettős csigalépcső.", "Hatalmas erdőterület veszi körül."],
       ro: ["Construit ca reședință de vânătoare pentru regele Francisc I.", "Scară dublă elicoidală faimoasă.", "Înconjurat de o pădure vastă."],
       en: ["Built as a hunting lodge for King Francis I.", "Famous double-helix staircase.", "Surrounded by a vast forest estate."]
-    }
-  },
+    }, image: "/poi-images/castle-chateau-de-chambord-extra.webp"},
   {
     id: "kid-landmark-parc-asterix-extra",
     type: "kid-landmark",
@@ -190,8 +181,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Tematikus világok: Gallia, Római Birodalom, Görögország.", "Több mint 40 attrakció és show.", "Híres a nagy hullámvasútjairól, mint az 'OzIris'."],
       ro: ["Lumi tematice: Galia, Imperiul Roman, Grecia.", "Peste 40 de atracții și spectacole.", "Faimos pentru montagne rusele mari precum 'OzIris'."],
       en: ["Themed worlds: Gaul, Roman Empire, Greece.", "Over 40 attractions and shows.", "Famous for its big roller coasters like 'OzIris'."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-parc-asterix-extra.webp"},
   {
     id: "city-rouen-extra",
     type: "city",
@@ -209,8 +199,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Notre-Dame de Rouen katedrális.", "Gros-Horloge, egy 14. századi csillagászati óra.", "Jeanne d'Arc-ot 1431-ben itt végezték ki."],
       ro: ["Catedrala Notre-Dame de Rouen.", "Gros-Horloge, un ceas astronomic din secolul al XIV-lea.", "Ioana d'Arc a fost executată aici în 1431."],
       en: ["Notre-Dame de Rouen Cathedral.", "Gros-Horloge, a 14th-century astronomical clock.", "Joan of Arc was executed here in 1431."]
-    }
-  },
+    }, image: "/poi-images/city-rouen-extra.webp"},
   {
     id: "mountain-aiguille-du-midi-extra",
     type: "mountain",
@@ -228,8 +217,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Európa legmagasabb felvonója.", "Panorámás kilátás a Mont Blanc-ra.", "'Lépj a semmibe' attrakció, egy üvegdoboz a szakadék felett."],
       ro: ["Cea mai înaltă telecabină din Europa.", "Vedere panoramică a Mont Blancului.", "Atracția 'Pas în gol', o cutie de sticlă deasupra abisului."],
       en: ["Highest cable car in Europe.", "Panoramic view of Mont Blanc.", "'Step into the Void' attraction, a glass box over the precipice."]
-    }
-  },
+    }, image: "/poi-images/mountain-aiguille-du-midi-extra.webp"},
   {
     id: "city-montpellier-extra",
     type: "city",
@@ -247,8 +235,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Franciaország egyik leggyorsabban növekvő városa.", "Orvosi kar, a világ egyik legrégebbije.", "Közel a Földközi-tengeri strandokhoz."],
       ro: ["Unul dintre orașele cu cea mai rapidă creștere din Franța.", "Facultate de medicină, una dintre cele mai vechi din lume.", "Apropierea de plajele mediteraneene."],
       en: ["One of the fastest-growing cities in France.", "Faculty of Medicine, one of the oldest in the world.", "Proximity to the Mediterranean beaches."]
-    }
-  },
+    }, image: "/poi-images/city-montpellier-extra.webp"},
   {
     id: "animal-habitat-camargue-extra",
     type: "animal-habitat",
@@ -266,8 +253,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Fontos madármegfigyelő hely.", "Egyedülálló táj, sóstavakkal és lagúnákkal.", "A rizstermesztés fontos gazdasági ágazat."],
       ro: ["Loc important pentru observarea păsărilor.", "Peisaj unic de mlaștini sărate și lagune.", "Cultivarea orezului este o industrie importantă."],
       en: ["Important place for bird watching.", "Unique landscape of salt marshes and lagoons.", "Rice cultivation is an important industry."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-camargue-extra.webp"},
   {
     id: "landmark-pont-du-gard-extra",
     type: "landmark",
@@ -285,8 +271,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Egy 50 km hosszú vízvezeték része volt.", "Az 1. században épült.", "A legmagasabb római vízvezeték."],
       ro: ["Parte a unui apeduct de 50 km.", "Construit în secolul I d.Hr.", "Cel mai înalt apeduct roman."],
       en: ["Part of a 50 km long aqueduct.", "Built in the 1st century AD.", "Highest Roman aqueduct."]
-    }
-  },
+    }, image: "/poi-images/landmark-pont-du-gard-extra.webp"},
   {
     id: "historical-carnac-stones-extra",
     type: "historical",
@@ -304,8 +289,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Több mint 3000 őskori menhir.", "Az újkőkorszakból származnak (kb. i.e. 4500-2000).", "Három fő kősorcsoport: Le Ménec, Kermario, Kerlescan."],
       ro: ["Peste 3.000 de menhire preistorice.", "Datează din perioada neolitică (cca. 4500-2000 î.Hr.).", "Trei grupuri principale de aliniamente: Le Ménec, Kermario, Kerlescan."],
       en: ["Over 3,000 prehistoric menhirs.", "Dating from the Neolithic period (c. 4500-2000 BC).", "Three main groups of alignments: Le Ménec, Kermario, Kerlescan."]
-    }
-  },
+    }, image: "/poi-images/historical-carnac-stones-extra.webp"},
   {
     id: "city-avignon-extra",
     type: "city",
@@ -323,8 +307,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Történelmi központja az UNESCO Világörökség része.", "Évenkénti színházi fesztivál júliusban.", "Híres dal: 'Sur le Pont d'Avignon'."],
       ro: ["Centrul istoric este un sit al Patrimoniului Mondial UNESCO.", "Festival anual de teatru în iulie.", "Cântecul faimos 'Sur le Pont d'Avignon'."],
       en: ["Historic center is a UNESCO World Heritage site.", "Annual theatre festival in July.", "Famous song 'Sur le Pont d'Avignon'."]
-    }
-  },
+    }, image: "/poi-images/city-avignon-extra.webp"},
   {
     id: "lake-lake-geneva-extra",
     type: "lake",
@@ -342,8 +325,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["A legnagyobb alpesi tó.", "Francia oldalon 'Lac Léman'-nak is nevezik.", "Olyan városok a partján, mint Évian-les-Bains."],
       ro: ["Cel mai mare lac alpin.", "Partea franceză numită și 'Lac Léman'.", "Orașe precum Évian-les-Bains pe malurile sale."],
       en: ["Largest Alpine lake.", "French side also called 'Lac Léman'.", "Towns like Évian-les-Bains on its shores."]
-    }
-  },
+    }, image: "/poi-images/lake-lake-geneva-extra.webp"},
   {
     id: "forest-fontainebleau-forest-extra",
     type: "forest",
@@ -361,8 +343,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Franciaország egyik legnagyobb erdőterülete.", "Népszerű célpont a boulder-mászók és túrázók számára.", "Sok 19. századi művész ihletforrása volt."],
       ro: ["Una dintre cele mai mari păduri din Franța.", "Destinație populară pentru bouldering și drumeții.", "Sursă de inspirație pentru mulți artiști din secolul al XIX-lea."],
       en: ["One of the largest forests in France.", "Popular destination for boulderers and hikers.", "Source of inspiration for many 19th-century artists."]
-    }
-  },
+    }, image: "/poi-images/forest-fontainebleau-forest-extra.webp"},
   {
     id: "agriculture-champagne-region-extra",
     type: "agriculture",
@@ -399,8 +380,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Történelmi központja az UNESCO Világörökség része.", "A burgundi hercegek palotája.", "Minden ősszel nemzetközi gasztronómiai vásár."],
       ro: ["Centrul istoric este un sit al Patrimoniului Mondial UNESCO.", "Palatul Ducilor de Burgundia.", "Târg internațional de gastronomie în fiecare toamnă."],
       en: ["Historic center is a UNESCO World Heritage site.", "Palace of the Dukes of Burgundy.", "International gastronomy fair every autumn."]
-    }
-  },
+    }, image: "/poi-images/city-dijon-extra.webp"},
   {
     id: "castle-chateau-haut-koenigsbourg-extra",
     type: "castle",
@@ -418,8 +398,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["II. Vilmos császár restauráltatta a 20. század elején.", "Stratégiai elhelyezkedés egy sziklakiszögellésen.", "Franciaország egyik leglátogatottabb vára."],
       ro: ["Restaurat la începutul secolului al XX-lea de către împăratul Wilhelm al II-lea.", "Poziție strategică pe un promontoriu stâncos.", "Unul dintre cele mai vizitate castele din Franța."],
       en: ["Restored in the early 20th century by Emperor Wilhelm II.", "Strategic location on a rocky spur.", "One of the most visited castles in France."]
-    }
-  },
+    }, image: "/poi-images/castle-chateau-haut-koenigsbourg-extra.webp"},
   {
     id: "city-clermont-ferrand-extra",
     type: "city",
@@ -437,8 +416,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["80 kialudt vulkán veszi körül.", "A Michelin főhadiszállása.", "Fekete lávakőből épült katedrális."],
       ro: ["Înconjurat de 80 de vulcani stinși.", "Sediul central al Michelin.", "Catedrală construită din piatră de lavă neagră."],
       en: ["Surrounded by 80 dormant volcanoes.", "Headquarters of Michelin.", "Cathedral made of black lava stone."]
-    }
-  },
+    }, image: "/poi-images/city-clermont-ferrand-extra.webp"},
   {
     id: "kid-landmark-futuroscope-extra",
     type: "kid-landmark",
@@ -456,8 +434,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Fókuszban az audiovizuális élmények.", "3D, 4D mozik és interaktív attrakciók keveréke.", "1987-ben nyílt meg."],
       ro: ["Accent pe experiențe audiovizuiale.", "Amestec de cinematografe 3D, 4D și atracții interactive.", "Inaugurat în 1987."],
       en: ["Focus on audiovisual experiences.", "Mix of 3D, 4D cinemas, and interactive attractions.", "Opened in 1987."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-futuroscope-extra.webp"},
   {
     id: "historical-omaha-beach-extra",
     type: "historical",
@@ -475,8 +452,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Az egyik fő partraszállási strand kódneve.", "Amerikai katonai temető a közelben.", "Súlyos amerikai veszteségek helyszíne."],
       ro: ["Nume de cod pentru una dintre principalele plaje de debarcare.", "Cimitirul soldaților americani în apropiere.", "Locul unor grele pierderi americane."],
       en: ["Codename for one of the main landing beaches.", "American military cemetery nearby.", "Site of heavy US casualties."]
-    }
-  },
+    }, image: "/poi-images/historical-omaha-beach-extra.webp"},
   {
     id: "animal-habitat-zoo-de-beauval-extra",
     type: "animal-habitat",
@@ -494,8 +470,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Franciaország egyetlen óriáspanda-otthona.", "Több mint 10 000 állat.", "Erősen elkötelezett a fajvédelem és a kutatás mellett."],
       ro: ["Singurul loc din Franța care găzduiește panda uriași.", "Peste 10.000 de animale.", "Implicat activ în conservarea speciilor și cercetare."],
       en: ["Only home to giant pandas in France.", "More than 10,000 animals.", "Heavily involved in species conservation and research."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-zoo-de-beauval-extra.webp"},
   {
     id: "industry-aero-valley-bordeaux-extra",
     type: "industry",
@@ -513,8 +488,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["A Falcon magánrepülőgépek összeszerelése.", "Az Ariane rakéták fejlesztése és építése.", "A katonai és polgári repülés fontos helyszíne."],
       ro: ["Asamblarea avioanelor private Falcon.", "Dezvoltarea și construcția rachetelor Ariane.", "Locație importantă pentru aviația militară și civilă."],
       en: ["Assembly of Falcon private jets.", "Development and construction of Ariane rockets.", "Important site for military and civil aviation."]
-    }
-  },
+    }, image: "/poi-images/industry-aero-valley-bordeaux-extra.webp"},
   {
     id: "river-loire-extra",
     type: "river",
@@ -532,8 +506,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Több mint 1000 kilométer hosszú.", "A Loire-völgy az UNESCO Világörökség része.", "Fontos városok a partján: Orléans, Tours és Nantes."],
       ro: ["Lungime de peste 1.000 de kilometri.", "Valea Loarei este un sit al Patrimoniului Mondial UNESCO.", "Orașe importante pe malurile sale sunt Orléans, Tours și Nantes."],
       en: ["Length of over 1,000 kilometers.", "The Loire Valley is a UNESCO World Heritage site.", "Important cities on its banks include Orléans, Tours, and Nantes."]
-    }
-  },
+    }, image: "/poi-images/river-loire-extra.webp"},
   {
     id: "city-rennes-extra",
     type: "city",
@@ -551,8 +524,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Bretagne parlamentje fontos nevezetesség.", "Két egyetem és számos főiskola.", "Nagy piac szombat reggel, a 'Marché des Lices'."],
       ro: ["Parlamentul Bretaniei este un reper important.", "Două universități și numeroase colegii.", "Piață mare sâmbătă dimineața, 'Marché des Lices'."],
       en: ["Parliament of Brittany is a major landmark.", "Two universities and numerous colleges.", "Large market on Saturday morning, 'Marché des Lices'."]
-    }
-  },
+    }, image: "/poi-images/city-rennes-extra.webp"},
   {
     id: "castle-chateau-de-chenonceau-extra",
     type: "castle",
@@ -570,8 +542,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Olyan nők alakították, mint Diane de Poitiers és Medici Katalin.", "Gyönyörű kertek.", "Franciaország második leglátogatottabb kastélya Versailles után."],
       ro: ["Modelat de femei precum Diane de Poitiers și Caterina de' Medici.", "Grădini frumoase.", "Al doilea cel mai vizitat castel din Franța, după Versailles."],
       en: ["Shaped by women like Diane de Poitiers and Catherine de' Medici.", "Beautiful gardens.", "Second most visited château in France after Versailles."]
-    }
-  },
+    }, image: "/poi-images/castle-chateau-de-chenonceau-extra.webp"},
   {
     id: "sea-etretat-cliffs-extra",
     type: "sea",
@@ -589,8 +560,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Ihletforrás volt olyan művészeknek, mint Claude Monet.", "Három fő boltív: Porte d'Aval, Porte d'Amont, Manneporte.", "A sziklákon futó túraútvonalakról nagyszerű a kilátás."],
       ro: ["Sursă de inspirație pentru artiști precum Claude Monet.", "Trei arcade principale: Porte d'Aval, Porte d'Amont, Manneporte.", "Traseele de drumeție de pe stânci oferă priveliști superbe."],
       en: ["Inspiration for artists like Claude Monet.", "Three main arches: Porte d'Aval, Porte d'Amont, Manneporte.", "Hiking trails on the cliffs offer great views."]
-    }
-  },
+    }, image: "/poi-images/sea-etretat-cliffs-extra.webp"},
   {
     id: "industry-perfume-grasse-extra",
     type: "industry",
@@ -608,8 +578,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Olyan híres parfümházak otthona, mint a Fragonard.", "Nemzetközi Parfümmúzeum.", "Jázmin-, rózsa- és tubarózsatermesztés."],
       ro: ["Găzduiește parfumerii celebre precum Fragonard.", "Muzeul Internațional al Parfumurilor.", "Cultivarea iasomiei, trandafirilor și tuberozelor."],
       en: ["Home to famous perfumeries like Fragonard.", "International Perfume Museum.", "Cultivation of jasmine, rose, and tuberose."]
-    }
-  },
+    }, image: "/poi-images/industry-perfume-grasse-extra.webp"},
   {
     id: "mountain-pyrenees-np-extra",
     type: "mountain",
@@ -627,8 +596,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["A Cirque de Gavarnie, egy hatalmas sziklakatlan otthona.", "Gazdag állatvilág zergékkel és szakállas saskeselyűkkel.", "Több mint 350 km jelzett túraútvonal."],
       ro: ["Găzduiește Cirque de Gavarnie, un circ glaciar uriaș.", "Faună bogată, inclusiv capre negre și zăgani.", "Peste 350 km de trasee de drumeție marcate."],
       en: ["Home to the Cirque de Gavarnie, a huge glacial cirque.", "Rich wildlife including chamois and bearded vultures.", "Over 350 km of marked hiking trails."]
-    }
-  },
+    }, image: "/poi-images/mountain-pyrenees-np-extra.webp"},
   {
     id: "city-aix-en-provence-extra",
     type: "city",
@@ -646,8 +614,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Az 'ezer szökőkút városának' is nevezik.", "Paul Cézanne műterme látogatható.", "Élénk kulturális élet, számos fesztivállal."],
       ro: ["Numit 'Orașul celor o mie de fântâni'.", "Atelierul lui Paul Cézanne poate fi vizitat.", "Scenă culturală vibrantă cu multe festivaluri."],
       en: ["Called the 'City of a Thousand Fountains'.", "Paul Cézanne's studio can be visited.", "Vibrant cultural scene with many festivals."]
-    }
-  },
+    }, image: "/poi-images/city-aix-en-provence-extra.webp"},
   {
     id: "historical-lascaux-iv-extra",
     type: "historical",
@@ -665,8 +632,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Az eredeti barlangot a védelem érdekében lezárták.", "Több mint 600 falfestmény.", "A festmények körülbelül 17 000 évesek."],
       ro: ["Peștera originală a fost închisă pentru conservare.", "Peste 600 de picturi parietale.", "Picturile au o vechime de aproximativ 17.000 de ani."],
       en: ["Original cave was closed for conservation.", "Over 600 parietal paintings.", "The paintings are approximately 17,000 years old."]
-    }
-  },
+    }, image: "/poi-images/historical-lascaux-iv-extra.webp"},
   {
     id: "kid-landmark-puy-du-fou-extra",
     type: "kid-landmark",
@@ -684,8 +650,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["Nincsenek hullámvasutak, csak előadások és történelmi falvak.", "Többször is elnyerte a 'Világ legjobb parkja' díjat.", "Híres éjszakai show-ja a 'Cinéscénie'."],
       ro: ["Fără atracții mecanice, doar spectacole și sate istorice.", "Premiat de mai multe ori ca 'Cel mai bun parc din lume'.", "Celebrul spectacol de noapte 'Cinéscénie'."],
       en: ["No rides, only shows and historical villages.", "Awarded 'Best Park in the World' multiple times.", "Famous night show 'Cinéscénie'."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-puy-du-fou-extra.webp"},
   {
     id: "agriculture-provence-lavender-extra",
     type: "agriculture",
@@ -703,8 +668,7 @@ export const poiExtraFranceCities: POI[] = [
       hu: ["A virágzás júniustól augusztusig tart.", "Illóolajokhoz, szappanokhoz és parfümökhöz használják.", "A levendula-utak a legszebb tájakon vezetnek keresztül."],
       ro: ["Perioada de înflorire este din iunie până în august.", "Folosită pentru uleiuri esențiale, săpunuri și parfumuri.", "Rutele lavandei te poartă prin cele mai frumoase peisaje."],
       en: ["Flowering season is from June to August.", "Used for essential oils, soaps, and perfume.", "The lavender routes guide you through the most beautiful landscapes."]
-    }
-  },
+    }, image: "/poi-images/agriculture-provence-lavender-extra.webp"},
   {
     id: "lake-annecy-extra",
     type: "lake",

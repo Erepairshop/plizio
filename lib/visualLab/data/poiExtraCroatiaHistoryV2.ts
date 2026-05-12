@@ -19,8 +19,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Patrimoniu Mondial UNESCO din 1979", "Construit din piatră calcaroasă albă din Brač", "Acoperă aproximativ 30.000 de metri pătrați", "Găzduiește Catedrala Sfântul Domnius"],
       en: ["UNESCO World Heritage site since 1979", "Built from white limestone from Brač island", "Covers approximately 30,000 square meters", "Houses the Cathedral of Saint Domnius"],
     },
-    imageHint: "Diocletian's Palace Peristyle in Split",
-  },
+    imageHint: "Diocletian's Palace Peristyle in Split", image: "/poi-images/croatia-diocletians-palace-history-v2.webp"},
   {
     id: "croatia-pula-arena-history-v2",
     type: "ruins",
@@ -39,8 +38,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Al șaselea cel mai mare amfiteatru roman", "Capacitate de până la 23.000 de spectatori", "Toate cele patru etaje sunt conservate", "Folosit în Evul Mediu pentru turniruri cavalerești"],
       en: ["Sixth largest Roman amphitheater", "Capacity for up to 23,000 spectators", "All four outer wall levels are intact", "Used in the Middle Ages for knight tournaments"],
     },
-    imageHint: "Ancient Roman Arena in Pula at sunset",
-  },
+    imageHint: "Ancient Roman Arena in Pula at sunset", image: "/poi-images/croatia-pula-arena-history-v2.webp"},
   {
     id: "croatia-dubrovnik-walls-history-v2",
     type: "landmark",
@@ -59,8 +57,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Lungime totală de aproximativ 1.940 metri", "Ziduri groase de până la 6 metri", "Niciodată cucerite de o armată inamică", "Include fortăreața Minčeta"],
       en: ["Total length of about 1,940 meters", "Walls up to 6 meters thick", "Never breached by a hostile army", "Includes the Minčeta Fortress"],
     },
-    imageHint: "Aerial view of Dubrovnik Old Town walls",
-  },
+    imageHint: "Aerial view of Dubrovnik Old Town walls", image: "/poi-images/croatia-dubrovnik-walls-history-v2.webp"},
   {
     id: "croatia-euphrasian-basilica-history-v2",
     type: "cathedral",
@@ -79,8 +76,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Celebră pentru mozaicurile aurii din sec. VI", "Patrimoniu Mondial UNESCO din 1997", "Include un atrium și un baptisteriu", "S-au păstrat mozaicuri de podea din sec. IV"],
       en: ["Famous for 6th-century golden mosaics", "UNESCO World Heritage site since 1997", "Includes an atrium and a baptistery", "Floor mosaics from the 4th century remain"],
     },
-    imageHint: "Golden mosaics in the Euphrasian Basilica Poreč",
-  },
+    imageHint: "Golden mosaics in the Euphrasian Basilica Poreč", image: "/poi-images/croatia-euphrasian-basilica-history-v2.webp"},
   {
     id: "croatia-trogir-old-town-history-v2",
     type: "landmark",
@@ -99,8 +95,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Fondat de coloniști greci în sec. III î.Hr.", "Catedrala Sfântul Laurențiu este piesa centrală", "Protejat de UNESCO din 1997", "Portalul maestrului Radovan este celebru mondial"],
       en: ["Founded by Greek colonists in the 3rd century BC", "Cathedral of St. Lawrence is the centerpiece", "UNESCO protection since 1997", "Master Radovan's portal is world-famous"],
     },
-    imageHint: "Historic old town of Trogir from above",
-  },
+    imageHint: "Historic old town of Trogir from above", image: "/poi-images/croatia-trogir-old-town-history-v2.webp"},
   {
     id: "croatia-sibenik-cathedral-history-v2",
     type: "cathedral",
@@ -119,8 +114,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["71 de capete sculptate pe peretele exterior", "Opera lui Juraj Dalmatinac", "Prima structură construită prin asamblarea pietrei", "Patrimoniu Mondial UNESCO din 2000"],
       en: ["71 portrait heads on the outer wall", "Masterpiece by Juraj Dalmatinac", "First structure with this stone fitting technique", "UNESCO World Heritage site since 2000"],
     },
-    imageHint: "Cathedral of St James in Sibenik facade",
-  },
+    imageHint: "Cathedral of St James in Sibenik facade", image: "/poi-images/croatia-sibenik-cathedral-history-v2.webp"},
   {
     id: "croatia-vukovar-water-tower-history-v2",
     type: "monument",
@@ -139,8 +133,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Construit în anul 1968", "A fost unul dintre cele mai mari turnuri de apă din Europa", "Astăzi este un memorial", "A fost lovit de peste 600 de proiectile în timpul asediului"],
       en: ["Built in 1968", "Was one of the largest water towers in Europe", "Today it serves as a memorial", "Received over 600 hits during the siege"],
     },
-    imageHint: "Vukovar Water Tower memorial site",
-  },
+    imageHint: "Vukovar Water Tower memorial site", image: "/poi-images/croatia-vukovar-water-tower-history-v2.webp"},
   {
     id: "croatia-klis-fortress-history-v2",
     type: "castle",
@@ -179,8 +172,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["A aparținut mult timp familiei Drašković", "Găzduiește un muzeu important", "Înconjurat de un lac artificial", "Inițial a fost un mic turn de observație"],
       en: ["Owned for a long time by the Drašković family", "Houses a significant museum", "Surrounded by an artificial lake", "Originally was a small observation tower"],
     },
-    imageHint: "Trakošćan Castle reflected in lake",
-  },
+    imageHint: "Trakošćan Castle reflected in lake", image: "/poi-images/croatia-trakoscan-castle-history-v2.webp"},
   {
     id: "croatia-veliki-tabor-history-v2",
     type: "castle",
@@ -199,8 +191,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Construită în secolele XV și XVI", "Legată de legenda lui Veronika Desinić", "A servit drept apărare împotriva otomanilor", "Găzduiește expoziții despre istoria regională"],
       en: ["Built in the 15th and 16th centuries", "Connected to the legend of Veronika Desinić", "Served as defense against the Ottomans", "Houses exhibitions on regional history"],
     },
-    imageHint: "Veliki Tabor castle in Desinic",
-  },
+    imageHint: "Veliki Tabor castle in Desinic", image: "/poi-images/croatia-veliki-tabor-history-v2.webp"},
   {
     id: "croatia-knin-fortress-history-v2",
     type: "castle",
@@ -219,8 +210,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Formată din cinci părți interconectate", "470 metri lungime și până la 110 metri lățime", "Reședința regelui Dmitar Zvonimir", "Modernizată puternic în secolul al XVIII-lea"],
       en: ["Consists of five interconnected parts", "470 meters long and up to 110 meters wide", "Seat of King Dmitar Zvonimir", "Heavily modernized in the 18th century"],
     },
-    imageHint: "Huge Knin fortress from the air",
-  },
+    imageHint: "Huge Knin fortress from the air", image: "/poi-images/croatia-knin-fortress-history-v2.webp"},
   {
     id: "croatia-salona-ruins-history-v2",
     type: "ruins",
@@ -239,8 +229,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Locul de naștere al împăratului Dioclețian", "Avea 60.000 de locuitori în perioada de apogeu", "Distrus în sec. VII de avari și slavi", "Cel mai important centru al creștinismului din Dalmația"],
       en: ["Birthplace of Emperor Diocletian", "Had 60,000 inhabitants at its peak", "Destroyed in the 7th century by Avars and Slavs", "Key center of early Christianity in Dalmatia"],
     },
-    imageHint: "Ruins of Roman Salona amphitheater",
-  },
+    imageHint: "Ruins of Roman Salona amphitheater", image: "/poi-images/croatia-salona-ruins-history-v2.webp"},
   {
     id: "croatia-vucedol-culture-history-v2",
     type: "ruins",
@@ -259,8 +248,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Locul unde a fost găsit 'Porumbelul de la Vučedol'", "Cel mai vechi calendar indo-european descoperit aici", "Centrul unei civilizații din epoca cuprului", "Găzduiește un muzeu interactiv modern"],
       en: ["Site of the 'Vučedol Dove' find", "Oldest Indo-European calendar discovered here", "Center of a Copper Age civilization", "Houses a modern interactive museum"],
     },
-    imageHint: "Vučedol Dove ceramic ritual vessel",
-  },
+    imageHint: "Vučedol Dove ceramic ritual vessel", image: "/poi-images/croatia-vucedol-culture-history-v2.webp"},
   {
     id: "croatia-st-donatus-zadar-history-v2",
     type: "church",
@@ -279,8 +267,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Construcție circulară cu trei abside", "A utilizat materiale din forumul roman", "Cunoscută pentru acustica excelentă", "Cea mai importantă structură carolingiană din Croația"],
       en: ["Circular structure with three apses", "Used stones from the Roman Forum for construction", "Known for its excellent acoustics", "Most important building of the Carolingian period in Croatia"],
     },
-    imageHint: "Saint Donatus church in Zadar circular shape",
-  },
+    imageHint: "Saint Donatus church in Zadar circular shape", image: "/poi-images/croatia-st-donatus-zadar-history-v2.webp"},
   {
     id: "croatia-varazdin-old-town-history-v2",
     type: "landmark",
@@ -319,8 +306,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Sediul faimoșilor uscoci (luptători de gherilă)", "Zidurile au 18 metri înălțime", "Construită din pietrele bisericilor distruse", "Are 100 de guri de tragere pentru tunuri"],
       en: ["Seat of the famous Uskoks (irregulars)", "The walls are 18 meters high", "Built from the stones of destroyed churches", "Has 100 embrasures for cannons"],
     },
-    imageHint: "Fortress Nehaj in Senj square tower",
-  },
+    imageHint: "Fortress Nehaj in Senj square tower", image: "/poi-images/croatia-nehaj-fortress-history-v2.webp"},
   {
     id: "croatia-ston-walls-history-v2",
     type: "landmark",
@@ -339,8 +325,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Al doilea cel mai lung zid din lume după cel chinezesc", "Construit în secolele XIV și XV", "Întărit cu 40 de turnuri și 5 fortărețe", "Inițial avea peste 7 km lungime"],
       en: ["Second longest defensive wall in the world after China", "Built in the 14th and 15th centuries", "Reinforced with 40 towers and 5 fortresses", "Originally over 7 km long"],
     },
-    imageHint: "Long stone walls of Ston on hillside",
-  },
+    imageHint: "Long stone walls of Ston on hillside", image: "/poi-images/croatia-ston-walls-history-v2.webp"},
   {
     id: "croatia-zadar-forum-history-v2",
     type: "ruins",
@@ -359,8 +344,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Dimensiuni de 90 pe 45 de metri", "Construcția a durat până în secolul al III-lea", "Include o 'coloană a rușinii' din Evul Mediu", "Pavajul original este parțial vizibil"],
       en: ["Measures 90 by 45 meters", "Construction lasted until the 3rd century", "Remains of a medieval 'shame pillar' present", "Original Roman pavement is partly visible"],
     },
-    imageHint: "Ruins of Roman Forum in Zadar city center",
-  },
+    imageHint: "Ruins of Roman Forum in Zadar city center", image: "/poi-images/croatia-zadar-forum-history-v2.webp"},
   {
     id: "croatia-nesactium-ruins-history-v2",
     type: "ruins",
@@ -379,8 +363,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Cel mai important sit arheologic din Istria", "Regele Epulon s-a sinucis aici", "Prezintă straturi din epoca bronzului și cea romană", "Include rămășițele unor bazilici creștine timpurii"],
       en: ["Istria's most important archaeological site", "King Epulon committed suicide here", "Shows layers from Bronze Age and Roman era", "Contains remains of early Christian basilicas"],
     },
-    imageHint: "Archaeological site of Nesactium Istria",
-  },
+    imageHint: "Archaeological site of Nesactium Istria", image: "/poi-images/croatia-nesactium-ruins-history-v2.webp"},
   {
     id: "croatia-burnum-roman-camp-history-v2",
     type: "ruins",
@@ -399,8 +382,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Două arcuri ale comandamentului s-au păstrat", "Singurul amfiteatru militar roman din Croația", "Sediul legiunii XI Claudia Pia Fidelis", "Distrus de goți în secolul al VI-lea"],
       en: ["Two arches of the command building remain", "Only Roman military amphitheater in Croatia", "Seat of the XI Legion Claudia Pia Fidelis", "Destroyed by the Goths in the 6th century"],
     },
-    imageHint: "Roman arches of Burnum Krka",
-  },
+    imageHint: "Roman arches of Burnum Krka", image: "/poi-images/croatia-burnum-roman-camp-history-v2.webp"},
   {
     id: "croatia-brijuni-byzantine-castrum-history-v2",
     type: "ruins",
@@ -419,8 +401,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Acoperă o suprafață de 1 hectar", "Prezintă resturile unei bazilici din sec. V", "Extins pentru protecție împotriva piraților", "Cel mai important sit din arhipelagul Brijuni"],
       en: ["Covers an area of 1 hectare", "Shows remains of a 5th-century basilica", "Expanded for protection against pirates", "Most important archaeological site in Brijuni"],
     },
-    imageHint: "Ruins of Byzantine castrum in Brijuni",
-  },
+    imageHint: "Ruins of Byzantine castrum in Brijuni", image: "/poi-images/croatia-brijuni-byzantine-castrum-history-v2.webp"},
   {
     id: "croatia-gvozdansko-castle-history-v2",
     type: "castle",
@@ -439,8 +420,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Centru minier pentru argint și plumb", "Considerat o cetate de necucerit", "Situat în județul Sisak-Moslavina", "Loc de comemorare a vitejiei croate"],
       en: ["Center of silver and lead mining", "Considered an impregnable fortress", "Located in Sisak-Moslavina County", "Memorial site for Croatian bravery"],
     },
-    imageHint: "Ruins of Gvozdansko fortress",
-  },
+    imageHint: "Ruins of Gvozdansko fortress", image: "/poi-images/croatia-gvozdansko-castle-history-v2.webp"},
   {
     id: "croatia-medvedgrad-history-v2",
     type: "castle",
@@ -459,8 +439,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Găzduiește monumentul 'Altarul Patriei'", "Distrusă de un cutremur în 1590", "Restaurarea a început în anii 1970", "Oferă o vedere panoramică asupra Zagrebului"],
       en: ["Houses the 'Altar of the Homeland' memorial", "Destroyed by an earthquake in 1590", "Restoration began in the 1970s", "Offers panoramic views of Zagreb"],
     },
-    imageHint: "Medvedgrad fortress above Zagreb at night",
-  },
+    imageHint: "Medvedgrad fortress above Zagreb at night", image: "/poi-images/croatia-medvedgrad-history-v2.webp"},
   {
     id: "croatia-osor-walls-history-v2",
     type: "landmark",
@@ -479,8 +458,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Fondat de către liburni", "Are un canal artificial din epoca romană", "A fost sediu episcopal în Evul Mediu", "Cunoscut pentru sculpturile în aer liber"],
       en: ["Founded by the Liburnians", "Has an artificial canal from Roman times", "Was a bishop's seat in the Middle Ages", "Famous for open-air sculptures"],
     },
-    imageHint: "Ancient walls of Osor town",
-  },
+    imageHint: "Ancient walls of Osor town", image: "/poi-images/croatia-osor-walls-history-v2.webp"},
   {
     id: "croatia-korcula-old-town-history-v2",
     type: "landmark",
@@ -499,8 +477,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Locul de naștere tradițional al lui Marco Polo", "Înconjurat de turnuri defensive masive", "Catedrala Sfântul Marcu este piesa centrală", "Statutul din Korčula datează din 1214"],
       en: ["Traditional birthplace of Marco Polo", "Surrounded by massive defensive towers", "Cathedral of St. Mark is the centerpiece", "The Statute of Korčula dates from 1214"],
     },
-    imageHint: "Medieval town of Korcula aerial",
-  },
+    imageHint: "Medieval town of Korcula aerial", image: "/poi-images/croatia-korcula-old-town-history-v2.webp"},
   {
     id: "croatia-hvar-fortica-history-v2",
     type: "castle",
@@ -519,8 +496,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["A salvat populația de turci în 1571", "Găzduiește o colecție de amfore antice", "Construită sub stăpânire venețiană", "Oferă vedere spre insulele Pakleni"],
       en: ["Saved the population from the Turks in 1571", "Houses a collection of ancient amphorae", "Built under Venetian rule", "Offers views of the Pakleni Islands"],
     },
-    imageHint: "Fortress Fortica above Hvar town",
-  },
+    imageHint: "Fortress Fortica above Hvar town", image: "/poi-images/croatia-hvar-fortica-history-v2.webp"},
   {
     id: "croatia-stari-grad-plain-history-v2",
     type: "landmark",
@@ -539,8 +515,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Formată din câmpuri geometrice de piatră (Chora)", "Patrimoniu Mondial UNESCO din 2008", "Utilizată și astăzi pentru viță de vie și măslini", "Include numeroase structuri mici de piatră"],
       en: ["Consists of geometric stone fields (Chora)", "UNESCO World Heritage site since 2008", "Still used today for grapes and olives", "Contains numerous small stone structures"],
     },
-    imageHint: "Stari Grad Plain stone walls pattern",
-  },
+    imageHint: "Stari Grad Plain stone walls pattern", image: "/poi-images/croatia-stari-grad-plain-history-v2.webp"},
   {
     id: "croatia-pula-roman-theater-history-v2",
     type: "theater",
@@ -559,8 +534,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Avea o capacitate de 5.000 de spectatori", "Scena și părți din gradene sunt vizibile", "Restaurat recent pentru spectacole", "Situat chiar în spatele Muzeului Arheologic"],
       en: ["Once seated up to 5,000 spectators", "Stage and parts of the seating are visible", "Recently restored for performances", "Located right behind the Archaeological Museum"],
     },
-    imageHint: "Ruins of Small Roman Theater in Pula",
-  },
+    imageHint: "Ruins of Small Roman Theater in Pula", image: "/poi-images/croatia-pula-roman-theater-history-v2.webp"},
   {
     id: "croatia-solin-amphitheater-history-v2",
     type: "ruins",
@@ -579,8 +553,7 @@ export const croatiaHistoryV2: POI[] = [
       ro: ["Capacitate de cca. 18.000 de spectatori", "Distrus de venețieni în secolul al XVII-lea", "Are un sistem de canale subterane", "Locul unde au murit martiri creștini"],
       en: ["Capacity for about 18,000 spectators", "Destroyed by Venetians in the 17th century", "Has an underground canal system", "Site where Christian martyrs were executed"],
     },
-    imageHint: "Ruins of Salona amphitheater Solin",
-  },
+    imageHint: "Ruins of Salona amphitheater Solin", image: "/poi-images/croatia-solin-amphitheater-history-v2.webp"},
   {
     id: "croatia-trsat-castle-history-v2",
     type: "castle",

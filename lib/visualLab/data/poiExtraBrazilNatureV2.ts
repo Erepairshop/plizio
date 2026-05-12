@@ -32,8 +32,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["A világ egyik legnagyobb vízhozamú folyója", "Az Amazonas-medence fő folyója", "Brazília északi részén is áthalad"],
       ro: ["Cel mai mare debit din lume", "Traversează Amazonia", "Vital pentru biodiversitate", "Se varsă în Atlantic"],
       en: ["Largest river by discharge", "Central to the Amazon rainforest", "Flows into the Atlantic", "Supports major biodiversity"]
-    }
-  },
+    }, image: "/poi-images/br-amazon-river-nature-v2.webp"},
   {
     id: "br-sao-francisco-river-nature-v2",
     type: "river",
@@ -125,8 +124,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["Közép-Brazíliában folyik", "Az Araguaia-Tocantins rendszer része", "Nagy vízerő-potenciál jellemzi"],
       ro: ["În centrul Braziliei", "Important pentru hidroenergie", "Legat de transportul regional", "Parte dintr-un bazin mare"],
       en: ["Flows through central Brazil", "Important for hydropower", "Supports inland navigation", "Key regional waterway"]
-    }
-  },
+    }, image: "/poi-images/br-tocantins-river-nature-v2.webp"},
   {
     id: "br-araguaia-river-nature-v2",
     type: "river",
@@ -216,8 +214,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["Az Amazonas nagy mellékfolyója", "Brazília nyugati részéhez kapcsolódik", "Nagy hordalékszállítás jellemzi"],
       ro: ["Afluent al Amazonului", "Traversează vestul Braziliei", "Important pentru transport", "Legat de hidroenergie"],
       en: ["Major Amazon tributary", "In western Brazil", "Important for transport", "Linked to hydropower"]
-    }
-  },
+    }, image: "/poi-images/br-madeira-river-nature-v2.webp"},
   {
     id: "br-tapajos-river-nature-v2",
     type: "river",
@@ -246,8 +243,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["Az Amazonas mellékfolyója", "Pará államban található", "Tiszta vizű folyóként ismert"],
       ro: ["Afluent major pe partea dreaptă a Amazonului", "Principalul oraș riveran este Santarém", "Traversează pădurea tropicală densă"],
       en: ["Clearwater Amazon tributary", "Strong rainforest biodiversity", "Flows past Santarém", "Key Amazon river system"]
-    }
-  },
+    }, image: "/poi-images/br-tapajos-river-nature-v2.webp"},
   {
     id: "br-xingu-river-nature-v2",
     type: "river",
@@ -276,8 +272,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["Az Amazonas vízgyűjtőjéhez tartozik", "Mato Grosso és Pará államokhoz kapcsolódik", "Gazdag biodiverzitású térség"],
       ro: ["Unul dintre cei mai lungi afluenți", "Diversitate culturală și biologică ridicată", "Traversează statul Mato Grosso și Pará"],
       en: ["Amazon tributary", "Crosses forest and savanna", "Important indigenous region", "Key conservation area"]
-    }
-  },
+    }, image: "/poi-images/br-xingu-river-nature-v2.webp"},
   {
     id: "br-iguazu-river-nature-v2",
     type: "river",
@@ -307,8 +302,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["A Paraná mellékfolyója", "A határvidékhez kapcsolódik", "Az Iguaçu-vízesés térségéhez tartozik"],
       ro: ["În sudul Braziliei", "Legat de Cascada Iguaçu", "Afluent al Paraná", "Peisaj foarte cunoscut"],
       en: ["Forms Iguazu Falls", "Border river with Argentina", "In southern Brazil", "Famous for dramatic scenery"]
-    }
-  },
+    }, image: "/poi-images/br-iguazu-river-nature-v2.webp"},
   {
     id: "br-pico-da-neblina-nature-v2",
     type: "mountain",
@@ -378,8 +372,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["Rio de Janeiro állam legmagasabb csúcsa, jellegzetes fekete sziklacsúcsokkal.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Kapcsolódik az ország mindennapjaihoz és történelméhez.", "Brazília túlnyomóan trópusi éghajlatának hatása alatt áll."],
       ro: ["Cel mai înalt vârf din statul Rio de Janeiro, cu ace stâncoase negre distinctive.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii.", "Este legat de viața cotidiană și de istoria țării.", "Se află sub influența climei predominant tropicale a Braziliei."],
       en: ["The highest peak in the state of Rio de Janeiro, featuring distinctive black rock needles.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region.", "Connected to the everyday life and history of the country.", "Influenced by Brazil's predominantly tropical climate."],
-    }
-  },
+    }, image: "/poi-images/br-pico-das-agulhas-negras-nature-v2.webp"},
   {
     id: "br-mount-roraima-nature-v2",
     type: "mountain",

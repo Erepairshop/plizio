@@ -19,8 +19,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Cunoscut sub numele de orașul celor nouă râuri", "Găzduiește moscheea Hamzibeg", "Centru agricol semnificativ", "Organizează festivitățile Musalla"],
       en: ["Known as the city on nine rivers", "Home to the Hamzibeg Mosque", "Significant agricultural center", "Hosts the Musalla festivities"],
     },
-    imageHint: "Sanski Most river Sana bridge",
-  },
+    imageHint: "Sanski Most river Sana bridge", image: "/poi-images/bosniaherzegovina-sanskimost-cities-v2.webp"},
   {
     id: "bosniaherzegovina-zivinice-cities-v2",
     type: "city",
@@ -39,8 +38,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Locația aeroportului Tuzla", "Centrul industriei de mobilier", "Exploatare importantă de cărbune în apropiere", "Nod feroviar important al regiunii"],
       en: ["Location of the Tuzla Airport", "Center of the furniture industry", "Significant coal mining nearby", "Important railway hub of the region"],
     },
-    imageHint: "Zivinice city center architecture",
-  },
+    imageHint: "Zivinice city center architecture", image: "/poi-images/bosniaherzegovina-zivinice-cities-v2.webp"},
   {
     id: "bosniaherzegovina-bugojno-cities-v2",
     type: "city",
@@ -59,8 +57,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Zonă importantă de vânătoare în jur", "Centrul industriei de pielărie și textile", "Găzduiește festivalul Ajvatovica", "Deține situri arheologice bogate"],
       en: ["Significant hunting area in the surroundings", "Center of the leather and textile industry", "Home to the Ajvatovica festival", "Features rich archaeological sites"],
     },
-    imageHint: "Bugojno panoramic view mountains",
-  },
+    imageHint: "Bugojno panoramic view mountains", image: "/poi-images/bosniaherzegovina-bugojno-cities-v2.webp"},
   {
     id: "bosniaherzegovina-travnik-cities-v2",
     type: "city",
@@ -79,8 +76,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Locul de naștere al lui Ivo Andrić", "Deține două turnuri cu ceas", "Faimos pentru brânza de Travnik", "Reședința vizirilor între 1699 și 1850"],
       en: ["Birthplace of Nobel laureate Ivo Andrić", "Features two clock towers (Sahat-kula)", "Famous for the Travnik cheese", "Residence of viziers from 1699 to 1850"],
     },
-    imageHint: "Travnik fortress and old town",
-  },
+    imageHint: "Travnik fortress and old town", image: "/poi-images/bosniaherzegovina-travnik-cities-v2.webp"},
   {
     id: "bosniaherzegovina-gradiska-cities-v2",
     type: "city",
@@ -99,8 +95,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Punct de frontieră major spre UE", "Cunoscut istoric sub numele de Berbir", "Centrul regiunii Lijevče polje", "Locație importantă a industriei lemnului"],
       en: ["Significant border crossing to the EU", "Historically known as Berbir", "Center of the Lijevče polje region", "Important site of the wood industry"],
     },
-    imageHint: "Gradiska bridge over river Sava border",
-  },
+    imageHint: "Gradiska bridge over river Sava border", image: "/poi-images/bosniaherzegovina-gradiska-cities-v2.webp"},
   {
     id: "bosniaherzegovina-cazin-cities-v2",
     type: "city",
@@ -119,8 +114,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Găzduiește castelul medieval Ostrožac", "Centru important pentru producția de lactate", "Deține o bogată istorie otomană", "Dispune de centre comerciale moderne"],
       en: ["Home to the medieval Ostrožac Castle", "Major center for dairy production", "Features a rich Ottoman history", "Boasts modern shopping facilities"],
     },
-    imageHint: "Ostrozac castle near Cazin",
-  },
+    imageHint: "Ostrozac castle near Cazin", image: "/poi-images/bosniaherzegovina-cazin-cities-v2.webp"},
   {
     id: "bosniaherzegovina-gracanica-cities-v2",
     type: "city",
@@ -139,8 +133,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Cunoscut pentru Sahat-kula (turnul cu ceas)", "Centrul industriei prelucrătoare", "Situat pe drumul principal Tuzla-Doboj", "Deține un vechi pod otoman"],
       en: ["Known for the Sahat-kula (clock tower)", "Center of manufacturing industry", "Located on the Tuzla-Doboj main road", "Features an old Ottoman bridge"],
     },
-    imageHint: "Gracanica clock tower and town center",
-  },
+    imageHint: "Gracanica clock tower and town center", image: "/poi-images/bosniaherzegovina-gracanica-cities-v2.webp"},
   {
     id: "bosniaherzegovina-lukavac-cities-v2",
     type: "city",
@@ -159,8 +152,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Centrul producției de ciment și sodă", "Lacul Modrac este o destinație de recreere", "Situat în valea Spreča", "Locație industrială importantă din 1893"],
       en: ["Center of cement and soda production", "Lake Modrac is a popular recreation spot", "Located in the Spreča valley", "Significant industrial site since 1893"],
     },
-    imageHint: "Lukavac Modrac lake and industry",
-  },
+    imageHint: "Lukavac Modrac lake and industry", image: "/poi-images/bosniaherzegovina-lukavac-cities-v2.webp"},
   {
     id: "bosniaherzegovina-gradacac-cities-v2",
     type: "city",
@@ -179,8 +171,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Reședința Dragonului Bosniei", "Faimos pentru târgul de prune", "Găzduiește lacurile Hazna și Vidara", "Deține o veche moschee albă"],
       en: ["Seat of the Dragon of Bosnia", "Famous for the plum fair", "Home to Hazna and Vidara lakes", "Features an old white mosque"],
     },
-    imageHint: "Gradacac fortress tower view",
-  },
+    imageHint: "Gradacac fortress tower view", image: "/poi-images/bosniaherzegovina-gradacac-cities-v2.webp"},
   {
     id: "bosniaherzegovina-visoko-cities-v2",
     type: "city",
@@ -199,8 +190,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Locația controversatei Piramide a Soarelui", "Fosta reședință a regilor bosniaci", "Faimos pentru industria pielăriei", "Locul istoric al încoronării lui Tvrtko I"],
       en: ["Site of the controversial Sun Pyramid", "Former seat of Bosnian kings", "Famous for the leather industry", "Historical site of Tvrtko I's coronation"],
     },
-    imageHint: "Visoko panoramic view pyramid hills",
-  },
+    imageHint: "Visoko panoramic view pyramid hills", image: "/poi-images/bosniaherzegovina-visoko-cities-v2.webp"},
   {
     id: "bosniaherzegovina-konjic-cities-v2",
     type: "city",
@@ -219,8 +209,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Locația buncărului lui Tito (D-0)", "Centru tradițional al sculpturii în lemn", "Situat la poalele munților Prenj", "Deține un Stari Most din 1682"],
       en: ["Location of Tito's bunker (D-0)", "Traditional center of woodcarving", "Located at the foot of Prenj mountains", "Features a Stari Most built in 1682"],
     },
-    imageHint: "Konjic old bridge and Neretva river",
-  },
+    imageHint: "Konjic old bridge and Neretva river", image: "/poi-images/bosniaherzegovina-konjic-cities-v2.webp"},
   {
     id: "bosniaherzegovina-derventa-cities-v2",
     type: "city",
@@ -239,8 +228,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Cunoscut pentru târgul popular din Derventa", "Locație importantă a industriei de încălțăminte", "Centrul zonei Bosanska Posavina", "Deține o bogată tradiție religioasă"],
       en: ["Known for the Derventa folk fair", "Important site of the shoe industry", "Center of the Bosanska Posavina area", "Features a rich religious tradition"],
     },
-    imageHint: "Derventa city square and street",
-  },
+    imageHint: "Derventa city square and street", image: "/poi-images/bosniaherzegovina-derventa-cities-v2.webp"},
   {
     id: "bosniaherzegovina-sirokibrijeg-cities-v2",
     type: "city",
@@ -259,8 +247,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Sediul unei mănăstiri importante", "Centrul economic al Herțegovinei", "Găzduiește clubul de fotbal Široki Brijeg", "Organizează West Herzegovina Fest"],
       en: ["Seat of a prominent monastery", "Economic hub of Herzegovina", "Home to the Široki Brijeg football club", "Hosts the West Herzegovina Fest"],
     },
-    imageHint: "Siroki Brijeg monastery on hill",
-  },
+    imageHint: "Siroki Brijeg monastery on hill", image: "/poi-images/bosniaherzegovina-sirokibrijeg-cities-v2.webp"},
   {
     id: "bosniaherzegovina-vogosca-cities-v2",
     type: "city",
@@ -279,8 +266,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Locație importantă a industriei metalurgice", "Legături bune de transport cu Sarajevo", "Sediul a numeroase companii", "S-a dezvoltat rapid după al Doilea Război Mondial"],
       en: ["Important site of the metal industry", "Good transport links to Sarajevo", "Seat of numerous companies", "Grew rapidly after World War II"],
     },
-    imageHint: "Vogosca town view from surrounding hills",
-  },
+    imageHint: "Vogosca town view from surrounding hills", image: "/poi-images/bosniaherzegovina-vogosca-cities-v2.webp"},
   {
     id: "bosniaherzegovina-janja-cities-v2",
     type: "city",
@@ -299,8 +285,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Zonă agricolă semnificativă", "Situat la granița cu Serbia", "Cunoscut pentru cultivarea legumelor", "Aparține de municipalitatea Bijeljina"],
       en: ["Significant agricultural area", "Located on the border with Serbia", "Known for vegetable cultivation", "Part of the Bijeljina municipality"],
     },
-    imageHint: "Janja village aerial view river Drina",
-  },
+    imageHint: "Janja village aerial view river Drina", image: "/poi-images/bosniaherzegovina-janja-cities-v2.webp"},
   {
     id: "bosniaherzegovina-jajce-cities-v2",
     type: "city",
@@ -319,8 +304,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Deține o cascadă de 22 de metri înălțime", "Locul fondării Iugoslaviei moderne", "Găzduiește cetatea din Jajce", "Adăpostește temple antice ale lui Mithra"],
       en: ["Features a 22-meter high waterfall", "Site of the founding of modern Yugoslavia", "Home to the Jajce Fortress", "Features ancient Mithraic temples"],
     },
-    imageHint: "Jajce waterfall and fortress towers",
-  },
+    imageHint: "Jajce waterfall and fortress towers", image: "/poi-images/bosniaherzegovina-jajce-cities-v2.webp"},
   {
     id: "bosniaherzegovina-kakanj-cities-v2",
     type: "city",
@@ -339,8 +323,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Locația unei mari centrale pe cărbune", "Deține situri arheologice bogate", "Centrul producției de ciment", "Situat în valea râului Bosna"],
       en: ["Location of a major coal power plant", "Features rich archaeological sites", "Center of cement production", "Located in the Bosna River valley"],
     },
-    imageHint: "Kakanj industry and city panorama",
-  },
+    imageHint: "Kakanj industry and city panorama", image: "/poi-images/bosniaherzegovina-kakanj-cities-v2.webp"},
   {
     id: "bosniaherzegovina-modrica-cities-v2",
     type: "city",
@@ -359,8 +342,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Locația unei mari rafinării de petrol", "Situat aproape de râul Bosna", "Nod feroviar important", "Semnificativ istoric în Evul Mediu"],
       en: ["Location of a major oil refinery", "Situated near the Bosna River", "Important railway junction", "Historically significant in the Middle Ages"],
     },
-    imageHint: "Modrica city overview refinery",
-  },
+    imageHint: "Modrica city overview refinery", image: "/poi-images/bosniaherzegovina-modrica-cities-v2.webp"},
   {
     id: "bosniaherzegovina-novitravnik-cities-v2",
     type: "city",
@@ -379,8 +361,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1949", "Fost centru al industriei de armament", "Găzduiește monumentul Smrike", "Cunoscut pentru arhitectura modernă"],
       en: ["Founded in 1949", "Former center of the defense industry", "Home to the Smrike monument", "Known for its modern architecture"],
     },
-    imageHint: "Novi Travnik city and Smrike monument",
-  },
+    imageHint: "Novi Travnik city and Smrike monument", image: "/poi-images/bosniaherzegovina-novitravnik-cities-v2.webp"},
   {
     id: "bosniaherzegovina-zavidovici-cities-v2",
     type: "city",
@@ -399,8 +380,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Deține un parc cu sfere de piatră", "Centrul prelucrării lemnului (Krivaja)", "Nod de transport în centrul Bosniei", "Înconjurat de păduri dese"],
       en: ["Features a park with stone spheres", "Center of the wood industry (Krivaja)", "Important transport hub in central Bosnia", "Surrounded by dense forests"],
     },
-    imageHint: "Zavidovici stone spheres park",
-  },
+    imageHint: "Zavidovici stone spheres park", image: "/poi-images/bosniaherzegovina-zavidovici-cities-v2.webp"},
   {
     id: "bosniaherzegovina-foca-cities-v2",
     type: "city",
@@ -419,8 +399,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Deține piramide spectaculoase de nisip", "Poarta către muntele Maglić", "Centru important pentru ecoturism", "Găzduiește Facultatea de Medicină"],
       en: ["Features spectacular sand pyramids", "Gateway to the highest peak Maglić", "Major center for ecotourism", "Home to the Faculty of Medicine"],
     },
-    imageHint: "Foca sand pyramids landscape",
-  },
+    imageHint: "Foca sand pyramids landscape", image: "/poi-images/bosniaherzegovina-foca-cities-v2.webp"},
   {
     id: "bosniaherzegovina-pale-cities-v2",
     type: "city",
@@ -439,8 +418,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Poarta către centrul de schi Jahorina", "Fost centru administrativ", "Centru universitar semnificativ", "Cel mai înalt oraș din regiune"],
       en: ["Gateway to the Jahorina ski center", "Former administrative center", "Significant university town", "Highest town in the region"],
     },
-    imageHint: "Pale town view snow mountains",
-  },
+    imageHint: "Pale town view snow mountains", image: "/poi-images/bosniaherzegovina-pale-cities-v2.webp"},
   {
     id: "bosniaherzegovina-bosanskakrupa-cities-v2",
     type: "city",
@@ -459,8 +437,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Deține ruinele cetății Pset", "Cunoscut pentru insulele de pe râul Una", "Zonă bogată de pescuit", "Punct istoric de întâlnire a culturilor"],
       en: ["Features the ruins of Pset Fortress", "Known for small islands on the Una", "Rich fishing area", "Historical crossroads of cultures"],
     },
-    imageHint: "Bosanska Krupa river Una view",
-  },
+    imageHint: "Bosanska Krupa river Una view", image: "/poi-images/bosniaherzegovina-bosanskakrupa-cities-v2.webp"},
   {
     id: "bosniaherzegovina-teslic-cities-v2",
     type: "city",
@@ -479,8 +456,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Găzduiește stațiunea Banja Vrućica", "Centru semnificativ al industriei lemnului", "Centrul municipalității Teslić", "Cunoscut pentru izvoarele sale carbogazoase"],
       en: ["Home to the Banja Vrućica spa resort", "Significant center of the wood industry", "Center of the Teslić municipality", "Known for its carbonated springs"],
     },
-    imageHint: "Teslic Banja Vrucica spa buildings",
-  },
+    imageHint: "Teslic Banja Vrucica spa buildings", image: "/poi-images/bosniaherzegovina-teslic-cities-v2.webp"},
   {
     id: "bosniaherzegovina-vitez-cities-v2",
     type: "city",
@@ -499,8 +475,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Unul dintre centrele cu cea mai rapidă creștere", "Sediul unor mari zone comerciale", "Locație importantă pentru prelucrarea lemnului", "Organizează târguri economice"],
       en: ["One of the fastest-growing economic hubs", "Seat of major commercial zones", "Important site for wood processing", "Hosts economic trade fairs"],
     },
-    imageHint: "Vitez town center and commercial zone",
-  },
+    imageHint: "Vitez town center and commercial zone", image: "/poi-images/bosniaherzegovina-vitez-cities-v2.webp"},
   {
     id: "bosniaherzegovina-tomislavgrad-cities-v2",
     type: "city",
@@ -519,8 +494,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Cunoscut anterior sub numele de Duvno", "Sediul unei mănăstiri franciscane importante", "Centrul regiunii Hercegbosna", "Cunoscut pentru descoperirile arheologice"],
       en: ["Formerly known as Duvno", "Seat of a prominent Franciscan monastery", "Center of the Hercegbosna region", "Known for its archaeological findings"],
     },
-    imageHint: "Tomislavgrad church and town square",
-  },
+    imageHint: "Tomislavgrad church and town square", image: "/poi-images/bosniaherzegovina-tomislavgrad-cities-v2.webp"},
   {
     id: "bosniaherzegovina-vlasenica-cities-v2",
     type: "city",
@@ -539,8 +513,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Sediul unei facultăți de silvicultură", "Locație importantă a industriei lemnului", "Înconjurat de munții Javor", "Centru pentru turism montan"],
       en: ["Seat of a forestry faculty", "Important site of the wood industry", "Surrounded by the Javor Mountains", "Center for mountain hiking tourism"],
     },
-    imageHint: "Vlasenica mountain town panorama",
-  },
+    imageHint: "Vlasenica mountain town panorama", image: "/poi-images/bosniaherzegovina-vlasenica-cities-v2.webp"},
   {
     id: "bosniaherzegovina-rogatica-cities-v2",
     type: "city",
@@ -559,8 +532,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Locație importantă pentru creșterea cailor", "Deține necropole de stećci antice", "Centrul municipalității Rogatica", "Cunoscut pentru cultivarea cartofilor"],
       en: ["Important site for horse breeding", "Features ancient Stećci tombstones", "Center of the Rogatica municipality", "Known for potato cultivation"],
     },
-    imageHint: "Rogatica town view mountains",
-  },
+    imageHint: "Rogatica town view mountains", image: "/poi-images/bosniaherzegovina-rogatica-cities-v2.webp"},
   {
     id: "bosniaherzegovina-bratunac-cities-v2",
     type: "city",
@@ -579,8 +551,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Locație importantă pentru zmeură", "Conectat de Serbia prin poduri", "Centrul municipalității Bratunac", "Situat într-o câmpie fertilă a râului"],
       en: ["Significant site for raspberry production", "Connected to Serbia via bridges", "Center of the Bratunac municipality", "Located in a fertile river plain"],
     },
-    imageHint: "Bratunac bridge over Drina border",
-  },
+    imageHint: "Bratunac bridge over Drina border", image: "/poi-images/bosniaherzegovina-bratunac-cities-v2.webp"},
   {
     id: "bosniaherzegovina-visegrad-cities-v2",
     type: "city",
@@ -599,8 +570,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Deține un sit patrimoniu UNESCO", "Găzduiește proiectul cultural Andrićgrad", "Faimos pentru podul din 1577", "Locație pentru excursii cu barca pe Drina"],
       en: ["Home to a UNESCO World Heritage site", "Site of the Andrićgrad cultural complex", "Famous for the 1577 stone bridge", "Key spot for Drina river boat tours"],
     },
-    imageHint: "Visegrad Mehmed Pasa Sokolovic bridge",
-  },
+    imageHint: "Visegrad Mehmed Pasa Sokolovic bridge", image: "/poi-images/bosniaherzegovina-visegrad-cities-v2.webp"},
   {
     id: "bosniaherzegovina-kiseljak-cities-v2",
     type: "city",
@@ -619,8 +589,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Faimos pentru apa minerală Kiseljak", "Cunoscut pentru Kiseljak pogača", "Locație majoră a industriei băuturilor", "Deține izvoare minerale curative"],
       en: ["Famous for Kiseljak mineral water", "Known for the Kiseljak pogača (bread)", "Major site of the beverage industry", "Features healing mineral springs"],
     },
-    imageHint: "Kiseljak town center mineral spring",
-  },
+    imageHint: "Kiseljak town center mineral spring", image: "/poi-images/bosniaherzegovina-kiseljak-cities-v2.webp"},
   {
     id: "bosniaherzegovina-laktasi-cities-v2",
     type: "city",
@@ -639,8 +608,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Găzduiește stațiunea Banja Laktaši", "Locația unui aeroport internațional", "Cunoscut pentru succesele la baschet", "Municipalitate dinamică economic"],
       en: ["Home to the Banja Laktaši spa", "Site of an international airport", "Known for basketball successes", "Economically dynamic municipality"],
     },
-    imageHint: "Laktasi thermal spa pool",
-  },
+    imageHint: "Laktasi thermal spa pool", image: "/poi-images/bosniaherzegovina-laktasi-cities-v2.webp"},
   {
     id: "bosniaherzegovina-maglaj-cities-v2",
     type: "city",
@@ -659,8 +627,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Deține cetatea Gradina", "Găzduiește moscheea Kuršumlija", "Locația fabricii de hârtie Natron", "Nod istoric semnificativ"],
       en: ["Features the Gradina Fortress", "Home to the Kuršumlija Mosque", "Major site of the Natron paper factory", "Significant historical junction"],
     },
-    imageHint: "Maglaj fortress and mosque view",
-  },
+    imageHint: "Maglaj fortress and mosque view", image: "/poi-images/bosniaherzegovina-maglaj-cities-v2.webp"},
   {
     id: "bosniaherzegovina-novigrad-cities-v2",
     type: "city",
@@ -679,8 +646,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Cel mai vechi oraș de pe râul Una", "Nod feroviar important spre Croația", "Centrul municipalității Novi Grad", "Destinație populară pentru pescari"],
       en: ["Oldest town on the Una River", "Key railway junction to Croatia", "Center of the Novi Grad municipality", "Popular destination for fishermen"],
     },
-    imageHint: "Novi Grad city confluence of rivers",
-  },
+    imageHint: "Novi Grad city confluence of rivers", image: "/poi-images/bosniaherzegovina-novigrad-cities-v2.webp"},
   {
     id: "bosniaherzegovina-ilijas-cities-v2",
     type: "city",
@@ -699,8 +665,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Centrul industriei de fier și oțel", "Situat pe ruta principală spre nord", "Găzduiește necropola de la Bijambare", "S-a dezvoltat ca suburbie industrială"],
       en: ["Center of the iron and steel industry", "Located on the main route to the north", "Home to the Bijambare necropolis", "Grew significantly as an industrial suburb"],
     },
-    imageHint: "Ilijas town view industrial plants",
-  },
+    imageHint: "Ilijas town view industrial plants", image: "/poi-images/bosniaherzegovina-ilijas-cities-v2.webp"},
   {
     id: "bosniaherzegovina-jablanica-cities-v2",
     type: "city",
@@ -719,8 +684,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Deține Muzeul Bătăliei de la Neretva", "Faimos pentru podul feroviar distrus", "Centrul mineritului de granit", "Situat pe lacul artificial Jablanica"],
       en: ["Home to the Battle of Neretva Museum", "Famous for the destroyed railway bridge", "Center of granite mining", "Located on the artificial Lake Jablanica"],
     },
-    imageHint: "Jablanica destroyed bridge and museum",
-  },
+    imageHint: "Jablanica destroyed bridge and museum", image: "/poi-images/bosniaherzegovina-jablanica-cities-v2.webp"},
   {
     id: "bosniaherzegovina-prnjavor-cities-v2",
     type: "city",
@@ -739,8 +703,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Cunoscut pentru diversitatea etnică", "Centrul industriei de mobilier", "Găzduiește mănăstirea Stuplje", "Locație importantă a agriculturii"],
       en: ["Known for ethnic diversity", "Center of the furniture and wood industry", "Home to the Stuplje monastery", "Significant agricultural hub"],
     },
-    imageHint: "Prnjavor town square view",
-  },
+    imageHint: "Prnjavor town square view", image: "/poi-images/bosniaherzegovina-prnjavor-cities-v2.webp"},
   {
     id: "bosniaherzegovina-srebrenik-cities-v2",
     type: "city",
@@ -759,8 +722,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Deține cetatea Srebrenik", "Centrul zonei Majevica", "Locație importantă pentru fructe", "Reședința istorică a banului Stjepan II"],
       en: ["Home to the Srebrenik Fortress", "Center of the Majevica area", "Significant site for fruit production", "Historical seat of Ban Stjepan II"],
     },
-    imageHint: "Srebrenik medieval fortress on rock",
-  },
+    imageHint: "Srebrenik medieval fortress on rock", image: "/poi-images/bosniaherzegovina-srebrenik-cities-v2.webp"},
   {
     id: "bosniaherzegovina-hadzici-cities-v2",
     type: "city",
@@ -799,8 +761,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Poarta către rezervația Hutovo Blato", "Lângă orașul antic Mogorjelo", "Situat pe râurile Neretva și Trebižat", "Cunoscut pentru fructe și viticultură"],
       en: ["Gateway to the Hutovo Blato bird reserve", "Near the ancient Roman site Mogorjelo", "Located on the Neretva and Trebižat rivers", "Known for fruit and wine production"],
     },
-    imageHint: "Capljina city center and river Neretva",
-  },
+    imageHint: "Capljina city center and river Neretva", image: "/poi-images/bosniaherzegovina-capljina-cities-v2.webp"},
   {
     id: "bosniaherzegovina-ljubuski-cities-v2",
     type: "city",
@@ -819,8 +780,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Deține cascadele Kravica", "Găzduiește cea mai veche galerie din țară", "Cunoscut pentru cartofii timpurii", "Sediul cetății nobilimii Kosača"],
       en: ["Home to the Kravica waterfalls", "Features the oldest gallery in the country", "Known for early potato cultivation", "Seat of the Kosača nobility fortress"],
     },
-    imageHint: "Kravica waterfalls near Ljubuski",
-  },
+    imageHint: "Kravica waterfalls near Ljubuski", image: "/poi-images/bosniaherzegovina-ljubuski-cities-v2.webp"},
   {
     id: "bosniaherzegovina-kladanj-cities-v2",
     type: "city",
@@ -839,8 +799,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Faimos pentru Muška voda (Apa bărbaților)", "Deține moscheea Kuršumlija", "Poarta către munții Konjuh", "Locație importantă pentru silvicultură"],
       en: ["Famous for the Muška voda (Men's water)", "Home to the Kuršumlija Mosque", "Gateway to the Konjuh Mountains", "Important site for forestry"],
     },
-    imageHint: "Kladanj town panorama and forests",
-  },
+    imageHint: "Kladanj town panorama and forests", image: "/poi-images/bosniaherzegovina-kladanj-cities-v2.webp"},
   {
     id: "bosniaherzegovina-velikakladusa-cities-v2",
     type: "city",
@@ -859,8 +818,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Deține cetatea Stari Grad", "Sediul fostului gigant Agrokomerc", "Centru comercial important la graniță", "Bogat în istorie otomană"],
       en: ["Features the Stari Grad Fortress", "Site of the former Agrokomerc giant", "Key commercial hub at the border", "Rich in Ottoman history"],
     },
-    imageHint: "Velika Kladusa old town fortress",
-  },
+    imageHint: "Velika Kladusa old town fortress", image: "/poi-images/bosniaherzegovina-velikakladusa-cities-v2.webp"},
   {
     id: "bosniaherzegovina-bileca-cities-v2",
     type: "city",
@@ -879,8 +837,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Situat pe cel mai mare lac artificial", "Fost centru al școlii de ofițeri", "Cunoscut pentru brânza de Bileća", "Centrul regiunii carstice herțegovinene"],
       en: ["Located on the largest artificial lake", "Former center of the officer school", "Known for the Bileća cheese", "Center of the Herzegovinian karst region"],
     },
-    imageHint: "Bileca lake and town panorama",
-  },
+    imageHint: "Bileca lake and town panorama", image: "/poi-images/bosniaherzegovina-bileca-cities-v2.webp"},
   {
     id: "bosniaherzegovina-zvornik-cities-v2",
     type: "city",
@@ -899,8 +856,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Deține cetatea Kula Grad", "Punct de frontieră major cu Serbia", "Situat pe lacul artificial Zvornik", "Fostul sediu al Sangeacului Zvornik"],
       en: ["Home to the Kula Grad Fortress", "Major border crossing to Serbia", "Located on the artificial Lake Zvornik", "Former seat of the Sanjak of Zvornik"],
     },
-    imageHint: "Zvornik fortress Kula Grad view",
-  },
+    imageHint: "Zvornik fortress Kula Grad view", image: "/poi-images/bosniaherzegovina-zvornik-cities-v2.webp"},
   {
     id: "bosniaherzegovina-gacko-cities-v2",
     type: "city",
@@ -919,8 +875,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Locația unei mari termocentrale", "Cunoscut pentru creșterea vitelor", "Situat la o altitudine de 940 metri", "Găzduiește lacul Klinje"],
       en: ["Location of a major thermal power plant", "Known for cattle breeding (Gacko breed)", "Situated at an altitude of 940 meters", "Home to Lake Klinje"],
     },
-    imageHint: "Gacko thermal power plant cooling towers",
-  },
+    imageHint: "Gacko thermal power plant cooling towers", image: "/poi-images/bosniaherzegovina-gacko-cities-v2.webp"},
   {
     id: "bosniaherzegovina-odzak-cities-v2",
     type: "city",
@@ -939,8 +894,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Centru agricol semnificativ", "Situat pe autostrada Coridorul Vc", "Deține o primărie distinctivă", "Cunoscut pentru diversitatea religioasă"],
       en: ["Significant agricultural hub", "Located on the Corridor Vc highway", "Features a distinctive Town Hall", "Known for its religious diversity"],
     },
-    imageHint: "Odzak town hall building",
-  },
+    imageHint: "Odzak town hall building", image: "/poi-images/bosniaherzegovina-odzak-cities-v2.webp"},
   {
     id: "bosniaherzegovina-srebrenica-cities-v2",
     type: "city",
@@ -959,8 +913,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Deține stațiunea Guber cu ape curative", "Numele înseamnă loc de argint", "Fost centru al mineritului", "Lângă Parcul Național Drina"],
       en: ["Home to the Guber spa with healing water", "The name means silver place", "Former center of the mining industry", "Located near the Drina National Park"],
     },
-    imageHint: "Srebrenica town view valley",
-  },
+    imageHint: "Srebrenica town view valley", image: "/poi-images/bosniaherzegovina-srebrenica-cities-v2.webp"},
   {
     id: "bosniaherzegovina-busovaca-cities-v2",
     type: "city",
@@ -979,8 +932,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Poarta către stațiunea de schi Busovačka", "Locație importantă a industriei lemnului", "Situat la intersecția spre Zenica", "Cunoscut pentru traseele de drumeție"],
       en: ["Gateway to the Busovacka planina ski area", "Important site for wood processing", "Located at the junction to Zenica", "Known for its hiking trails"],
     },
-    imageHint: "Busovaca mountain landscape town",
-  },
+    imageHint: "Busovaca mountain landscape town", image: "/poi-images/bosniaherzegovina-busovaca-cities-v2.webp"},
   {
     id: "bosniaherzegovina-drvar-cities-v2",
     type: "city",
@@ -999,8 +951,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Găzduiește peștera lui Tito", "Centru semnificativ al silviculturii", "Cunoscut pentru brânza de Drvar", "Locul Operațiunii Rösselsprung"],
       en: ["Home to Tito's cave", "Significant center for forestry", "Known for Drvar cheese", "Site of the Operation Rösselsprung"],
     },
-    imageHint: "Drvar Titos cave memorial",
-  },
+    imageHint: "Drvar Titos cave memorial", image: "/poi-images/bosniaherzegovina-drvar-cities-v2.webp"},
   {
     id: "bosniaherzegovina-stolac-cities-v2",
     type: "city",
@@ -1019,8 +970,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Găzduiește necropola Radimlja", "Deține cetatea Vidoški", "Situat lângă orașul antic Daorson", "Cunoscut pentru cascadele râului Bregava"],
       en: ["Home to the Radimlja necropolis", "Features the Vidoški Fortress", "Located near the ancient site of Daorson", "Known for its waterfalls on the Bregava"],
     },
-    imageHint: "Stolac old town and river Bregava",
-  },
+    imageHint: "Stolac old town and river Bregava", image: "/poi-images/bosniaherzegovina-stolac-cities-v2.webp"},
   {
     id: "bosniaherzegovina-krupannaui-cities-v2",
     type: "city",
@@ -1039,8 +989,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Locul de naștere al lui Branko Ćopić", "Bogat în izvoare și pâraie", "Centrul municipalității Donji Dubovik", "Locație pentru agricultură ecologică"],
       en: ["Birthplace of writer Branko Ćopić", "Rich in springs and streams", "Center of the Donji Dubovik municipality", "Significant site for organic farming"],
     },
-    imageHint: "Krupa na Uni rural landscape",
-  },
+    imageHint: "Krupa na Uni rural landscape", image: "/poi-images/bosniaherzegovina-krupannaui-cities-v2.webp"},
   {
     id: "bosniaherzegovina-sipovo-cities-v2",
     type: "city",
@@ -1059,8 +1008,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Deține insulele râului Janj", "Poarta către izvoarele Plivei", "Centru semnificativ al prelucrării lemnului", "Găzduiește mănăstirea Glogovac"],
       en: ["Features the Janj Islands", "Gateway to the sources of the Pliva", "Significant center for wood processing", "Home to the Glogovac Monastery"],
     },
-    imageHint: "Sipovo Janj islands nature",
-  },
+    imageHint: "Sipovo Janj islands nature", image: "/poi-images/bosniaherzegovina-sipovo-cities-v2.webp"},
   {
     id: "bosniaherzegovina-mrkonjicgrad-cities-v2",
     type: "city",
@@ -1079,8 +1027,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Găzduiește zona de recreere Balkana", "Cunoscut pentru coasele forjate manual", "Locul primei sesiuni ZAVNOBiH", "Centrul municipalității Mrkonjić Grad"],
       en: ["Home to the Balkana recreation area", "Famous for hand-forged scythes", "Site of the first ZAVNOBiH session", "Center of the Mrkonjić Grad municipality"],
     },
-    imageHint: "Mrkonjic Grad Balkana lake view",
-  },
+    imageHint: "Mrkonjic Grad Balkana lake view", image: "/poi-images/bosniaherzegovina-mrkonjicgrad-cities-v2.webp"},
   {
     id: "bosniaherzegovina-knezevo-cities-v2",
     type: "city",
@@ -1099,8 +1046,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Cel mai înalt oraș din regiune", "Centru pentru silvicultură", "Destinație populară pentru cura de aer", "Situat la o altitudine de 864 metri"],
       en: ["Highest town in the region", "Center for forestry", "Popular destination for climate therapy", "Located at an altitude of 864 meters"],
     },
-    imageHint: "Knezevo mountain plateau landscape",
-  },
+    imageHint: "Knezevo mountain plateau landscape", image: "/poi-images/bosniaherzegovina-knezevo-cities-v2.webp"},
   {
     id: "bosniaherzegovina-sekovici-cities-v2",
     type: "city",
@@ -1119,8 +1065,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Găzduiește mănăstirea Lovnica", "Deține mănăstirea Papraća", "Locație importantă a silviculturii", "Centrul municipalității Šekovići"],
       en: ["Home to the Lovnica Monastery", "Features the Papraća Monastery", "Significant site for forestry", "Center of the Šekovići municipality"],
     },
-    imageHint: "Sekovici monastery Lovnica forest",
-  },
+    imageHint: "Sekovici monastery Lovnica forest", image: "/poi-images/bosniaherzegovina-sekovici-cities-v2.webp"},
   {
     id: "bosniaherzegovina-glamoc-cities-v2",
     type: "city",
@@ -1139,8 +1084,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Deține o cetate medievală", "Cunoscut pentru dansul Glamočko kolo", "Centrul cultivării cartofilor", "Situat la 930 metri altitudine"],
       en: ["Features a medieval fortress", "Known for the Glamoč circle dance", "Center of potato production", "Located at 930 meters altitude"],
     },
-    imageHint: "Glamoc field and fortress ruins",
-  },
+    imageHint: "Glamoc field and fortress ruins", image: "/poi-images/bosniaherzegovina-glamoc-cities-v2.webp"},
   {
     id: "bosniaherzegovina-bosanskograhovo-cities-v2",
     type: "city",
@@ -1159,8 +1103,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Locul de naștere al lui Gavrilo Princip", "Cea mai înaltă municipalitate din regiune", "Punct de tranzit important spre Dalmația", "Deține lacuri montane virgine"],
       en: ["Birthplace of Gavrilo Princip", "Highest municipality in the region", "Key transit point to Dalmatia", "Features pristine mountain lakes"],
     },
-    imageHint: "Bosansko Grahovo mountain landscape",
-  },
+    imageHint: "Bosansko Grahovo mountain landscape", image: "/poi-images/bosniaherzegovina-bosanskograhovo-cities-v2.webp"},
   {
     id: "bosniaherzegovina-ribnik-cities-v2",
     type: "city",
@@ -1179,8 +1122,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Cunoscut pentru râul Ribnik", "Destinație de top pentru pescuit", "Centrul municipalității Gornji Ribnik", "Înconjurat de păduri dese"],
       en: ["Known for the Ribnik River", "Top destination for fly fishing", "Center of the Gornji Ribnik municipality", "Surrounded by dense forests"],
     },
-    imageHint: "Ribnik river fishing nature",
-  },
+    imageHint: "Ribnik river fishing nature", image: "/poi-images/bosniaherzegovina-ribnik-cities-v2.webp"},
   {
     id: "bosniaherzegovina-kalinovik-cities-v2",
     type: "city",
@@ -1199,8 +1141,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Situat la o altitudine de 1070 metri", "Cunoscut sub numele de Siberia bosniacă", "Centru pentru creșterea ecologică a vitelor", "Înconjurat de munții Zelengora"],
       en: ["Located at an altitude of 1070 meters", "Known as the Bosnian Siberia", "Center for ecological livestock farming", "Surrounded by the Zelengora mountains"],
     },
-    imageHint: "Kalinovik mountain plateau view",
-  },
+    imageHint: "Kalinovik mountain plateau view", image: "/poi-images/bosniaherzegovina-kalinovik-cities-v2.webp"},
   {
     id: "bosniaherzegovina-hanpijesak-cities-v2",
     type: "city",
@@ -1219,8 +1160,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Cel mai înalt punct din regiunea Romanija", "Fosta reședință regală de vară", "Locație importantă a industriei lemnului", "Deține un climat montan sănătos"],
       en: ["Highest point of the Romanija region", "Former royal summer residence", "Important site of the wood industry", "Features a healthy mountain climate"],
     },
-    imageHint: "Han Pijesak pine forests snow",
-  },
+    imageHint: "Han Pijesak pine forests snow", image: "/poi-images/bosniaherzegovina-hanpijesak-cities-v2.webp"},
   {
     id: "bosniaherzegovina-trnovo-cities-v2",
     type: "city",
@@ -1239,8 +1179,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Poarta către muntele Treskavica", "Cunoscut pentru izvoarele sale reci", "Locație importantă pentru turism montan", "Deține o natură virgină"],
       en: ["Gateway to the Treskavica Mountains", "Known for its cold springs", "Important site for mountain tourism", "Features untouched natural beauty"],
     },
-    imageHint: "Trnovo mountain landscape river",
-  },
+    imageHint: "Trnovo mountain landscape river", image: "/poi-images/bosniaherzegovina-trnovo-cities-v2.webp"},
   {
     id: "bosniaherzegovina-osmaci-cities-v2",
     type: "city",
@@ -1259,8 +1198,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Centrul municipalității Osmaci", "Locație importantă a agriculturii", "Deține un decor montan pitoresc", "Situat la granița cu Federația"],
       en: ["Center of the Osmaci municipality", "Significant site for agriculture", "Features a scenic mountain backdrop", "Located on the border with the Federation"],
     },
-    imageHint: "Osmaci village landscape mountains",
-  },
+    imageHint: "Osmaci village landscape mountains", image: "/poi-images/bosniaherzegovina-osmaci-cities-v2.webp"},
   {
     id: "bosniaherzegovina-istocnosarajevo-cities-v2",
     type: "city",
@@ -1279,8 +1217,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Sediul Universității Istočno Sarajevo", "Fondat în anii 1990", "Format din șase municipalități", "Centrul zonei Sarajevo-Romanija"],
       en: ["Seat of the University of East Sarajevo", "Founded in the 1990s", "Consists of six municipalities", "Center of the Sarajevo-Romanija area"],
     },
-    imageHint: "East Sarajevo city view buildings",
-  },
+    imageHint: "East Sarajevo city view buildings", image: "/poi-images/bosniaherzegovina-istocnosarajevo-cities-v2.webp"},
   {
     id: "bosniaherzegovina-petrovo-cities-v2",
     type: "city",
@@ -1299,8 +1236,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Găzduiește mănăstirea Ozren", "Centrul municipalității Petrovo", "Locație importantă pentru izvoare termale", "Cunoscut istoric ca Bosansko Petrovo Selo"],
       en: ["Home to the Ozren Monastery", "Center of the Petrovo municipality", "Important site for thermal springs", "Historically known as Bosansko Petrovo Selo"],
     },
-    imageHint: "Petrovo monastery Ozren view",
-  },
+    imageHint: "Petrovo monastery Ozren view", image: "/poi-images/bosniaherzegovina-petrovo-cities-v2.webp"},
   {
     id: "bosniaherzegovina-milići-cities-v2",
     type: "city",
@@ -1319,8 +1255,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Sediul companiei de bauxită", "Așezare industrială modernă", "Deține un centru cultural important", "Înconjurat de un peisaj colinar"],
       en: ["Headquarters of the bauxite company", "Modern industrial settlement", "Features a significant cultural center", "Surrounded by hilly landscape"],
     },
-    imageHint: "Milici town center and industry",
-  },
+    imageHint: "Milici town center and industry", image: "/poi-images/bosniaherzegovina-milići-cities-v2.webp"},
   {
     id: "bosniaherzegovina-ukrina-cities-v2",
     type: "city",
@@ -1339,8 +1274,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Locația unei noi termocentrale", "Exploatare de cărbune de suprafață", "A devenit municipalitate în 2014", "Angajator important al regiunii"],
       en: ["Site of a new thermal power plant", "Significant open-pit coal mine", "Became an independent municipality in 2014", "Major employer in the region"],
     },
-    imageHint: "Stanari thermal power plant",
-  },
+    imageHint: "Stanari thermal power plant", image: "/poi-images/bosniaherzegovina-ukrina-cities-v2.webp"},
   {
     id: "bosniaherzegovina-pelagicevo-cities-v2",
     type: "city",
@@ -1399,8 +1333,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Centrul zonei Majevica", "Cunoscut pentru producția de prune", "Locație importantă a industriei lemnului", "Înconjurat de dealuri domoale"],
       en: ["Center of the Majevica area", "Known for plum production", "Significant site for the wood industry", "Surrounded by rolling hills"],
     },
-    imageHint: "Lopare town view Majevica mountains",
-  },
+    imageHint: "Lopare town view Majevica mountains", image: "/poi-images/bosniaherzegovina-lovare-cities-v2.webp"},
   {
     id: "bosniaherzegovina-vukosavlje-cities-v2",
     type: "city",
@@ -1419,8 +1352,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Fondat după anul 1995", "Locație importantă pentru cereale", "Centrul municipalității Vukosavlje", "Situat aproape de granița cu Croația"],
       en: ["Founded after 1995", "Important site for cereal farming", "Center of the Vukosavlje municipality", "Located near the border with Croatia"],
     },
-    imageHint: "Vukosavlje rural fields landscape",
-  },
+    imageHint: "Vukosavlje rural fields landscape", image: "/poi-images/bosniaherzegovina-vukosavlje-cities-v2.webp"},
   {
     id: "bosniaherzegovina-petrovac-cities-v2",
     type: "city",
@@ -1439,8 +1371,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       ro: ["Centrul municipalității Drinić", "Deține resurse forestiere bogate", "Destinație populară pentru vânătoare", "Situat într-o regiune muntoasă"],
       en: ["Center of the Drinić municipality", "Features rich timber resources", "Popular destination for hunting tourism", "Located in a mountainous region"],
     },
-    imageHint: "Petrovac Drinic forest landscape",
-  },
+    imageHint: "Petrovac Drinic forest landscape", image: "/poi-images/bosniaherzegovina-petrovac-cities-v2.webp"},
   {
     id: "bosniaherzegovina-istocnimostar-cities-v2",
     type: "city",

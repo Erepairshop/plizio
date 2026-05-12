@@ -19,8 +19,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1147", "Cel mai mare oraș din Europa", "Sediul președintelui rus", "Peste 12 milioane de locuitori"],
       en: ["Founded in the year 1147", "Largest city in Europe", "Seat of the Russian President", "Over 12 million inhabitants"],
     },
-    imageHint: "Moscow Kremlin and Saint Basil Cathedral",
-  },
+    imageHint: "Moscow Kremlin and Saint Basil Cathedral", image: "/poi-images/russia-moscow-cities-v2.webp"},
   {
     id: "russia-saint-petersburg-cities-v2",
     type: "city",
@@ -39,8 +38,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Numit anterior Leningrad", "Al doilea oraș ca mărime din Rusia", "Găzduiește peste 200 de muzee", "Centru al Patrimoniului Mondial UNESCO"],
       en: ["Formerly called Leningrad", "Second largest city in Russia", "Home to over 200 museums", "UNESCO World Heritage center"],
     },
-    imageHint: "Hermitage Museum in Saint Petersburg",
-  },
+    imageHint: "Hermitage Museum in Saint Petersburg", image: "/poi-images/russia-saint-petersburg-cities-v2.webp"},
   {
     id: "russia-novosibirsk-cities-v2",
     type: "city",
@@ -59,8 +57,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Capitala neoficială a Siberiei", "Centru științific important", "Fondat în anul 1893", "Peste 1,6 milioane de locuitori"],
       en: ["Unofficial capital of Siberia", "Major scientific research center", "Founded in the year 1893", "Over 1.6 million inhabitants"],
     },
-    imageHint: "Novosibirsk Opera and Ballet Theatre",
-  },
+    imageHint: "Novosibirsk Opera and Ballet Theatre", image: "/poi-images/russia-novosibirsk-cities-v2.webp"},
   {
     id: "russia-yekaterinburg-cities-v2",
     type: "city",
@@ -79,8 +76,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1723", "Numit după Ecaterina I", "Locul execuției familiei Romanov", "Cel mai important centru din Ural"],
       en: ["Founded in the year 1723", "Named after Catherine I", "Site of the end of the Romanovs", "Main center of the Urals"],
     },
-    imageHint: "Church on Blood in Yekaterinburg",
-  },
+    imageHint: "Church on Blood in Yekaterinburg", image: "/poi-images/russia-yekaterinburg-cities-v2.webp"},
   {
     id: "russia-kazan-cities-v2",
     type: "city",
@@ -99,8 +95,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Considerată a treia capitală a Rusiei", "Vechime de peste 1000 de ani", "Situat la confluența Volgăi cu Kazanka", "Deține moscheea Kul Sharif"],
       en: ["Considered the third capital of Russia", "Over 1000 years old", "Located at the confluence of Volga and Kazanka", "Features the Kul Sharif Mosque"],
     },
-    imageHint: "Kazan Kremlin with Kul Sharif Mosque",
-  },
+    imageHint: "Kazan Kremlin with Kul Sharif Mosque", image: "/poi-images/russia-kazan-cities-v2.webp"},
   {
     id: "russia-nizhny-novgorod-cities-v2",
     type: "city",
@@ -119,8 +114,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1221", "Faimos pentru Kremlinul său", "Centru important pentru navigația fluvială", "Fost oraș închis pentru străini"],
       en: ["Founded in the year 1221", "Famous for its red-brick Kremlin", "Important center for river navigation", "Once a closed city to foreigners"],
     },
-    imageHint: "Nizhny Novgorod Kremlin wall",
-  },
+    imageHint: "Nizhny Novgorod Kremlin wall", image: "/poi-images/russia-nizhny-novgorod-cities-v2.webp"},
   {
     id: "russia-chelyabinsk-cities-v2",
     type: "city",
@@ -139,8 +133,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Centru al industriei grele", "Poarta către Siberia", "Fondat ca fortăreață în 1736", "Peste 1,1 milioane de locuitori"],
       en: ["Center of heavy industry", "Known as the Gateway to Siberia", "Founded as a fortress in 1736", "Over 1.1 million inhabitants"],
     },
-    imageHint: "Chelyabinsk city center architecture",
-  },
+    imageHint: "Chelyabinsk city center architecture", image: "/poi-images/russia-chelyabinsk-cities-v2.webp"},
   {
     id: "russia-omsk-cities-v2",
     type: "city",
@@ -159,8 +152,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1716", "Dostoievski a fost deținut aici", "Centru important de rafinare a petrolului", "Stație pe calea ferată Transsiberiană"],
       en: ["Founded in the year 1716", "Dostoevsky was imprisoned here", "Important center for oil refining", "Stop on the Trans-Siberian Railway"],
     },
-    imageHint: "Omsk Assumption Cathedral",
-  },
+    imageHint: "Omsk Assumption Cathedral", image: "/poi-images/russia-omsk-cities-v2.webp"},
   {
     id: "russia-rostov-on-don-cities-v2",
     type: "city",
@@ -179,8 +171,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1749", "Supranumit Poarta Caucazului", "Port fluvial important", "Centru al cazacilor de pe Don"],
       en: ["Founded in the year 1749", "Called the Gateway to the Caucasus", "Major inland port", "Center of Don Cossack culture"],
     },
-    imageHint: "Don River embankment in Rostov",
-  },
+    imageHint: "Don River embankment in Rostov", image: "/poi-images/russia-rostov-on-don-cities-v2.webp"},
   {
     id: "russia-ufa-cities-v2",
     type: "city",
@@ -199,8 +190,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1574", "Cel mai verde oraș milionar din Rusia", "Centru islamic important", "Gazda clubului de hochei Salavat Iulaev"],
       en: ["Founded in the year 1574", "Greenest city of over a million in Russia", "Major Islamic religious center", "Home to the Salavat Yulaev hockey club"],
     },
-    imageHint: "Monument to Salavat Yulaev in Ufa",
-  },
+    imageHint: "Monument to Salavat Yulaev in Ufa", image: "/poi-images/russia-ufa-cities-v2.webp"},
   {
     id: "russia-krasnoyarsk-cities-v2",
     type: "city",
@@ -219,8 +209,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1628", "Centru al producției de aluminiu", "Reprezentat pe bancnota de 10 ruble", "Punct important pe Transsiberian"],
       en: ["Founded in the year 1628", "Center of aluminum production", "Featured on the 10-ruble banknote", "Major stop on the Trans-Siberian Railway"],
     },
-    imageHint: "Paraskeva Pyatnitsa Chapel in Krasnoyarsk",
-  },
+    imageHint: "Paraskeva Pyatnitsa Chapel in Krasnoyarsk", image: "/poi-images/russia-krasnoyarsk-cities-v2.webp"},
   {
     id: "russia-voronezh-cities-v2",
     type: "city",
@@ -239,8 +228,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1586", "Centru educațional important", "Centru al industriei aeronautice", "Peste 1 milion de locuitori"],
       en: ["Founded in the year 1586", "Major educational center", "Center of the aviation industry", "Over 1 million inhabitants"],
     },
-    imageHint: "Peter the Great monument in Voronezh",
-  },
+    imageHint: "Peter the Great monument in Voronezh", image: "/poi-images/russia-voronezh-cities-v2.webp"},
   {
     id: "russia-perm-cities-v2",
     type: "city",
@@ -259,8 +247,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1723", "Eponim pentru perioada Permiană", "Poarta către Ural", "Cunoscut pentru balet și artă"],
       en: ["Founded in the year 1723", "Eponym of the Permian geological period", "Gateway to the Urals", "Known for its ballet and arts"],
     },
-    imageHint: "Kama River view in Perm",
-  },
+    imageHint: "Kama River view in Perm", image: "/poi-images/russia-perm-cities-v2.webp"},
   {
     id: "russia-volgograd-cities-v2",
     type: "city",
@@ -279,8 +266,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Anterior Țarițîn și Stalingrad", "Gazda statuii Patria Mamă te cheamă", "Port fluvial important", "Fondat în anul 1589"],
       en: ["Formerly Tsaritsyn and Stalingrad", "Home to the Motherland Calls statue", "Major inland port", "Founded in the year 1589"],
     },
-    imageHint: "The Motherland Calls statue in Volgograd",
-  },
+    imageHint: "The Motherland Calls statue in Volgograd", image: "/poi-images/russia-volgograd-cities-v2.webp"},
   {
     id: "russia-krasnodar-cities-v2",
     type: "city",
@@ -299,8 +285,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1793", "Numit anterior Ekaterinodar", "Centru al cazacilor din Kuban", "Nod feroviar important"],
       en: ["Founded in the year 1793", "Formerly called Yekaterinodar", "Center of Kuban Cossack culture", "Major railway junction"],
     },
-    imageHint: "Alexander Nevsky Cathedral in Krasnodar",
-  },
+    imageHint: "Alexander Nevsky Cathedral in Krasnodar", image: "/poi-images/russia-krasnodar-cities-v2.webp"},
   {
     id: "russia-saratov-cities-v2",
     type: "city",
@@ -319,8 +304,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1590", "Fost centru al germanilor de pe Volga", "Locul unde a studiat Iuri Gagarin", "Centru cultural important"],
       en: ["Founded in the year 1590", "Center for Volga Germans", "Home city of Yuri Gagarin", "Significant cultural center"],
     },
-    imageHint: "Saratov bridge over the Volga River",
-  },
+    imageHint: "Saratov bridge over the Volga River", image: "/poi-images/russia-saratov-cities-v2.webp"},
   {
     id: "russia-tyumen-cities-v2",
     type: "city",
@@ -339,8 +323,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1586", "Capitala petrolului din Rusia", "Primul oraș la est de Munții Ural", "Centru educațional important"],
       en: ["Founded in the year 1586", "Oil capital of Russia", "First city east of the Urals", "Important educational center"],
     },
-    imageHint: "Tyumen river embankment architecture",
-  },
+    imageHint: "Tyumen river embankment architecture", image: "/poi-images/russia-tyumen-cities-v2.webp"},
   {
     id: "russia-tolyatti-cities-v2",
     type: "city",
@@ -359,8 +342,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Anterior Stavropol-pe-Volga", "Centru al industriei chimice", "Fondat în anul 1737", "Al doilea oraș ca mărime din regiunea Samara"],
       en: ["Formerly Stavropol-on-Volga", "Center for the chemical industry", "Founded in the year 1737", "Second largest city in Samara Oblast"],
     },
-    imageHint: "AvtoVAZ headquarters in Tolyatti",
-  },
+    imageHint: "AvtoVAZ headquarters in Tolyatti", image: "/poi-images/russia-tolyatti-cities-v2.webp"},
   {
     id: "russia-izhevsk-cities-v2",
     type: "city",
@@ -379,8 +361,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Capitala armelor din Rusia", "Fondat în anul 1760", "Deține un muzeu Kalașnikov", "Centru al construcțiilor de mașini"],
       en: ["Weapons capital of Russia", "Founded in the year 1760", "Home to the Kalashnikov Museum", "Center of mechanical engineering"],
     },
-    imageHint: "Kalashnikov Museum in Izhevsk",
-  },
+    imageHint: "Kalashnikov Museum in Izhevsk", image: "/poi-images/russia-izhevsk-cities-v2.webp"},
   {
     id: "russia-barnaul-cities-v2",
     type: "city",
@@ -399,8 +380,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1730", "Centru important în Altai", "Fost producător major de argint", "Poarta către Munții Altai"],
       en: ["Founded in the year 1730", "Key center in the Altai region", "Once a major silver producer", "Gateway to the Altai Mountains"],
     },
-    imageHint: "Barnaul city view with Ob river",
-  },
+    imageHint: "Barnaul city view with Ob river", image: "/poi-images/russia-barnaul-cities-v2.webp"},
   {
     id: "russia-ulyanovsk-cities-v2",
     type: "city",
@@ -419,8 +399,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1648", "Gazda vehiculelor de teren UAZ", "Numit anterior Simbirsk", "Port fluvial important"],
       en: ["Founded in the year 1648", "Home of UAZ off-road vehicles", "Formerly called Simbirsk", "Significant river port"],
     },
-    imageHint: "Lenin Memorial Complex in Ulyanovsk",
-  },
+    imageHint: "Lenin Memorial Complex in Ulyanovsk", image: "/poi-images/russia-ulyanovsk-cities-v2.webp"},
   {
     id: "russia-irkutsk-cities-v2",
     type: "city",
@@ -439,8 +418,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1661", "Poarta către Lacul Baikal", "Supranumit Parisul Siberiei", "Stație pe Transsiberian"],
       en: ["Founded in the year 1661", "Gateway to Lake Baikal", "Known as the Paris of Siberia", "Stop on the Trans-Siberian Railway"],
     },
-    imageHint: "Wooden architecture in Irkutsk",
-  },
+    imageHint: "Wooden architecture in Irkutsk", image: "/poi-images/russia-irkutsk-cities-v2.webp"},
   {
     id: "russia-khabarovsk-cities-v2",
     type: "city",
@@ -459,8 +437,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1858", "Reprezentat pe bancnota de 5000 de ruble", "Punct important pe Transsiberian", "Centrul Districtului Federal Extremul Orient"],
       en: ["Founded in the year 1858", "Featured on the 5000-ruble banknote", "Major point on the Trans-Siberian Railway", "Center of the Far Eastern Federal District"],
     },
-    imageHint: "Amur River bridge in Khabarovsk",
-  },
+    imageHint: "Amur River bridge in Khabarovsk", image: "/poi-images/russia-khabarovsk-cities-v2.webp"},
   {
     id: "russia-makhachkala-cities-v2",
     type: "city",
@@ -479,8 +456,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1844", "Port important la Marea Caspică", "Numit anterior Petrovskoe", "Cel mai mare oraș din Caucazul de Nord"],
       en: ["Founded in the year 1844", "Major port on the Caspian Sea", "Formerly called Petrovskoye", "Largest city in the North Caucasus"],
     },
-    imageHint: "Makhachkala Grand Mosque architecture",
-  },
+    imageHint: "Makhachkala Grand Mosque architecture", image: "/poi-images/russia-makhachkala-cities-v2.webp"},
   {
     id: "russia-yaroslavl-cities-v2",
     type: "city",
@@ -499,8 +475,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1010", "Reprezentat pe bancnota de 1000 de ruble", "Cel mai vechi oraș de pe Volga", "Centru al Inelului de Aur"],
       en: ["Founded in the year 1010", "Featured on the 1000-ruble banknote", "Oldest city on the Volga River", "Main center of the Golden Ring"],
     },
-    imageHint: "Yaroslavl historical center architecture",
-  },
+    imageHint: "Yaroslavl historical center architecture", image: "/poi-images/russia-yaroslavl-cities-v2.webp"},
   {
     id: "russia-vladivostok-cities-v2",
     type: "city",
@@ -519,8 +494,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1860", "Capătul căii ferate Transsiberiene", "Baza flotei ruse din Pacific", "Faimos pentru podurile sale mari"],
       en: ["Founded in the year 1860", "End of the Trans-Siberian Railway", "Home to the Russian Pacific Fleet", "Famous for its large cable-stayed bridges"],
     },
-    imageHint: "Vladivostok Golden Bridge at sunset",
-  },
+    imageHint: "Vladivostok Golden Bridge at sunset", image: "/poi-images/russia-vladivostok-cities-v2.webp"},
   {
     id: "russia-orenburg-cities-v2",
     type: "city",
@@ -539,8 +513,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1743", "Faimos pentru șalurile lucrate manual", "Situat la granița dintre două continente", "Centru important pentru gaze naturale"],
       en: ["Founded in the year 1743", "Famous for handmade down shawls", "Located on the border of two continents", "Major center for natural gas"],
     },
-    imageHint: "Bridge over Ural river in Orenburg",
-  },
+    imageHint: "Bridge over Ural river in Orenburg", image: "/poi-images/russia-orenburg-cities-v2.webp"},
   {
     id: "russia-tomsk-cities-v2",
     type: "city",
@@ -559,8 +532,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1604", "Centru educațional major în Siberia", "Faimos pentru casele din lemn sculptate", "Deține una dintre cele mai vechi universități"],
       en: ["Founded in the year 1604", "Major educational hub in Siberia", "Famous for ornate wooden houses", "Home to one of Siberia's oldest universities"],
     },
-    imageHint: "Traditional wooden house in Tomsk",
-  },
+    imageHint: "Traditional wooden house in Tomsk", image: "/poi-images/russia-tomsk-cities-v2.webp"},
   {
     id: "russia-kemerovo-cities-v2",
     type: "city",
@@ -579,8 +551,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Centru al bazinului carbonifer Kuzbass", "Fondat în anul 1918", "Locație importantă a industriei chimice", "Centrul administrativ al regiunii Kemerovo"],
       en: ["Center of the Kuzbass coal-mining area", "Founded in the year 1918", "Important site for the chemical industry", "Administrative center of Kemerovo Oblast"],
     },
-    imageHint: "Kemerovo city center and Tom river",
-  },
+    imageHint: "Kemerovo city center and Tom river", image: "/poi-images/russia-kemerovo-cities-v2.webp"},
   {
     id: "russia-ryazan-cities-v2",
     type: "city",
@@ -599,8 +570,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1095", "Deține un Kremlin din piatră albă", "Centrul parașutiștilor ruși", "Locul de origine al lui Serghei Esenin"],
       en: ["Founded in the year 1095", "Features a white-stone Kremlin", "Center of Russian airborne forces", "Homeland of Sergei Yesenin"],
     },
-    imageHint: "Ryazan Kremlin architecture",
-  },
+    imageHint: "Ryazan Kremlin architecture", image: "/poi-images/russia-ryazan-cities-v2.webp"},
   {
     id: "russia-naberezhnye-chelny-cities-v2",
     type: "city",
@@ -619,8 +589,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Gazda camioanelor KAMAZ", "Fondat în anul 1626", "Numit anterior Brejnev", "Al doilea oraș ca mărime din Tatarstan"],
       en: ["Home of the KAMAZ truck works", "Founded in the year 1626", "Formerly called Brezhnev", "Second largest city in Tatarstan"],
     },
-    imageHint: "KAMAZ factory in Naberezhnye Chelny",
-  },
+    imageHint: "KAMAZ factory in Naberezhnye Chelny", image: "/poi-images/russia-naberezhnye-chelny-cities-v2.webp"},
   {
     id: "russia-astrakhan-cities-v2",
     type: "city",
@@ -639,8 +608,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Deține un Kremlin din piatră albă", "Capitala caviarului din Rusia", "Fondat în anul 1558", "Port important la Marea Caspică"],
       en: ["Features a white-stone Kremlin", "Caviar capital of Russia", "Founded in the year 1558", "Major port on the Caspian Sea"],
     },
-    imageHint: "Astrakhan Kremlin and Volga river",
-  },
+    imageHint: "Astrakhan Kremlin and Volga river", image: "/poi-images/russia-astrakhan-cities-v2.webp"},
   {
     id: "russia-penza-cities-v2",
     type: "city",
@@ -659,8 +627,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1663", "Stație pe calea ferată Transsiberiană", "Deține cel mai vechi circ din Rusia", "Centru al producției de hârtie"],
       en: ["Founded in the year 1663", "Stop on the Trans-Siberian Railway", "Home to Russia's oldest circus", "Center of paper manufacturing"],
     },
-    imageHint: "Penza city center architecture",
-  },
+    imageHint: "Penza city center architecture", image: "/poi-images/russia-penza-cities-v2.webp"},
   {
     id: "russia-lipetsk-cities-v2",
     type: "city",
@@ -679,8 +646,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1703", "Centru al producției de oțel", "Stațiune balneară populară din sec. XIX", "Aerodrom militar important"],
       en: ["Founded in the year 1703", "Major steel-producing center", "Popular spa resort since the 19th c.", "Significant military airbase"],
     },
-    imageHint: "Novolipetsk Steel plant in Lipetsk",
-  },
+    imageHint: "Novolipetsk Steel plant in Lipetsk", image: "/poi-images/russia-lipetsk-cities-v2.webp"},
   {
     id: "russia-kirov-cities-v2",
     type: "city",
@@ -699,8 +665,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Numit anterior Viatka", "Locul de origine al jucăriilor Dîmkovo", "Fondat în anul 1181", "Centru al construcțiilor de mașini"],
       en: ["Formerly called Vyatka", "Home of Dymkovo clay toys", "Founded in the year 1181", "Center of mechanical engineering"],
     },
-    imageHint: "Kirov city park and Viatka river",
-  },
+    imageHint: "Kirov city park and Viatka river", image: "/poi-images/russia-kirov-cities-v2.webp"},
   {
     id: "russia-cheboksary-cities-v2",
     type: "city",
@@ -719,8 +684,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Capitala poporului ciuvaș", "Fondat în anul 1469", "Port fluvial important", "Centru al industriei electrice"],
       en: ["Capital of the Chuvash people", "Founded in the year 1469", "Significant river port", "Center of the electrical industry"],
     },
-    imageHint: "Mother of the Patron Monument in Cheboksary",
-  },
+    imageHint: "Mother of the Patron Monument in Cheboksary", image: "/poi-images/russia-cheboksary-cities-v2.webp"},
   {
     id: "russia-kaliningrad-cities-v2",
     type: "city",
@@ -739,8 +703,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Numit anterior Königsberg", "Centrul mondial al chihlimbarului", "Locul de origine al lui Immanuel Kant", "Port strategic fără îngheț"],
       en: ["Formerly called Königsberg", "Amber capital of the world", "Home of Immanuel Kant", "Strategic ice-free port"],
     },
-    imageHint: "Kaliningrad Cathedral on Kant Island",
-  },
+    imageHint: "Kaliningrad Cathedral on Kant Island", image: "/poi-images/russia-kaliningrad-cities-v2.webp"},
   {
     id: "russia-balashikha-cities-v2",
     type: "city",
@@ -759,8 +722,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Cel mai mare oraș din regiunea Moscovei", "Locație militară importantă", "Fondat în anul 1830", "Centru al construcțiilor de mașini textile"],
       en: ["Largest city in Moscow Oblast", "Major military location", "Founded in the year 1830", "Center of textile machinery manufacturing"],
     },
-    imageHint: "Balashikha city park and architecture",
-  },
+    imageHint: "Balashikha city park and architecture", image: "/poi-images/russia-balashikha-cities-v2.webp"},
   {
     id: "russia-kursk-cities-v2",
     type: "city",
@@ -779,8 +741,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1032", "Locul anomaliei magnetice din Kursk", "Centru religios important", "Cunoscut pentru industria siderurgică"],
       en: ["Founded in the year 1032", "Site of the Kursk Magnetic Anomaly", "Important religious center", "Known for iron and steel industry"],
     },
-    imageHint: "Victory Memorial in Kursk",
-  },
+    imageHint: "Victory Memorial in Kursk", image: "/poi-images/russia-kursk-cities-v2.webp"},
   {
     id: "russia-ulan-ude-cities-v2",
     type: "city",
@@ -799,8 +760,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Centrul budismului rus", "Fondat în anul 1666", "Deține capul uriaș al lui Lenin", "Punct important pe Transsiberian"],
       en: ["Center of Russian Buddhism", "Founded in the year 1666", "Home to the giant Lenin head statue", "Major point on the Trans-Siberian Railway"],
     },
-    imageHint: "Giant Lenin Head monument in Ulan-Ude",
-  },
+    imageHint: "Giant Lenin Head monument in Ulan-Ude", image: "/poi-images/russia-ulan-ude-cities-v2.webp"},
   {
     id: "russia-sochi-cities-v2",
     type: "city",
@@ -819,8 +779,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Capitala de vară a Rusiei", "Cel mai lung oraș din Europa", "Gazda Olimpiadei din 2014", "Singurul loc cu palmieri din Rusia"],
       en: ["Summer capital of Russia", "Longest city in Europe", "Host of the 2014 Olympics", "Only place with palm trees in Russia"],
     },
-    imageHint: "Sochi Marine Terminal architecture",
-  },
+    imageHint: "Sochi Marine Terminal architecture", image: "/poi-images/russia-sochi-cities-v2.webp"},
   {
     id: "russia-stavropol-cities-v2",
     type: "city",
@@ -839,8 +798,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1777", "Poarta către Caucaz", "Centru educațional important", "Centru al industriei alimentare"],
       en: ["Founded in the year 1777", "Gateway to the Caucasus", "Major educational hub", "Center of the food industry"],
     },
-    imageHint: "Guardian Angel monument in Stavropol",
-  },
+    imageHint: "Guardian Angel monument in Stavropol", image: "/poi-images/russia-stavropol-cities-v2.webp"},
   {
     id: "russia-magnitogorsk-cities-v2",
     type: "city",
@@ -859,8 +817,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Centru al producției de oțel", "Numit după muntele Magnitnaia", "Situat în Europa și Asia", "Oraș model al primului plan cincinal"],
       en: ["Major steel-producing center", "Named after Magnitnaya Mountain", "Spans both Europe and Asia", "Model city of the first five-year plan"],
     },
-    imageHint: "Rear-to-Front Monument in Magnitogorsk",
-  },
+    imageHint: "Rear-to-Front Monument in Magnitogorsk", image: "/poi-images/russia-magnitogorsk-cities-v2.webp"},
   {
     id: "russia-tver-cities-v2",
     type: "city",
@@ -879,8 +836,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Numit anterior Kalinin", "Fondat în anul 1135", "Port pe fluviul Volga", "Locul de origine al călătorului Afanasi Nikitin"],
       en: ["Formerly called Kalinin", "Founded in the year 1135", "Port on the Volga River", "Home of the traveler Afanasy Nikitin"],
     },
-    imageHint: "Old Volga Bridge in Tver",
-  },
+    imageHint: "Old Volga Bridge in Tver", image: "/poi-images/russia-tver-cities-v2.webp"},
   {
     id: "russia-ivanovo-cities-v2",
     type: "city",
@@ -899,8 +855,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Capitala textilă a Rusiei", "Fondat în anul 1871", "Deține arhitectură de avangardă", "Centru al Inelului de Aur"],
       en: ["Textile capital of Russia", "Founded in the year 1871", "Features avant-garde architecture", "Part of the Golden Ring"],
     },
-    imageHint: "Textile factory architecture in Ivanovo",
-  },
+    imageHint: "Textile factory architecture in Ivanovo", image: "/poi-images/russia-ivanovo-cities-v2.webp"},
   {
     id: "russia-bryansk-cities-v2",
     type: "city",
@@ -919,8 +874,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 985", "Oraș al gloriei partizanilor", "Centru important al construcției de locomotive", "Înconjurat de păduri dese"],
       en: ["Founded in the year 985", "City of Partisan Glory", "Major center for locomotive manufacturing", "Surrounded by dense forests"],
     },
-    imageHint: "Partisan Square in Bryansk",
-  },
+    imageHint: "Partisan Square in Bryansk", image: "/poi-images/russia-bryansk-cities-v2.webp"},
   {
     id: "russia-belgorod-cities-v2",
     type: "city",
@@ -939,8 +893,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1596", "Numele înseamnă Orașul Alb", "Centru al extracției de minereu", "Nod feroviar important"],
       en: ["Founded in the year 1596", "Name means White City", "Center for iron ore mining", "Major railway junction"],
     },
-    imageHint: "Belgorod city center architecture",
-  },
+    imageHint: "Belgorod city center architecture", image: "/poi-images/russia-belgorod-cities-v2.webp"},
   {
     id: "russia-surgut-cities-v2",
     type: "city",
@@ -959,8 +912,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1594", "Capitala petrolului din Siberia", "Centru al industriei energetice", "Deține un pod hobanat marcant"],
       en: ["Founded in the year 1594", "Oil capital of Siberia", "Center of the energy industry", "Features a prominent cable-stayed bridge"],
     },
-    imageHint: "Yugra Bridge in Surgut",
-  },
+    imageHint: "Yugra Bridge in Surgut", image: "/poi-images/russia-surgut-cities-v2.webp"},
   {
     id: "russia-vladimir-cities-v2",
     type: "city",
@@ -979,8 +931,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 990", "Fostă capitală a Rusiei", "Faimos pentru Poarta de Aur", "Sit al Patrimoniului Mondial UNESCO"],
       en: ["Founded in the year 990", "Former capital of Russia", "Famous for the Golden Gate", "UNESCO World Heritage site"],
     },
-    imageHint: "Golden Gate of Vladimir architecture",
-  },
+    imageHint: "Golden Gate of Vladimir architecture", image: "/poi-images/russia-vladimir-cities-v2.webp"},
   {
     id: "russia-arkhangelsk-cities-v2",
     type: "city",
@@ -999,8 +950,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1584", "Poarta către Arctica", "Centru al industriei lemnului", "Fost cel mai important port nordic"],
       en: ["Founded in the year 1584", "Gateway to the Arctic", "Center of the timber industry", "Formerly the main northern port"],
     },
-    imageHint: "Arkhangelsk river port architecture",
-  },
+    imageHint: "Arkhangelsk river port architecture", image: "/poi-images/russia-arkhangelsk-cities-v2.webp"},
   {
     id: "russia-chita-cities-v2",
     type: "city",
@@ -1019,8 +969,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1653", "Locație minieră importantă", "Centrul Transbaikaliei", "Stație pe Transsiberian"],
       en: ["Founded in the year 1653", "Major mining location", "Center of Transbaikalia", "Stop on the Trans-Siberian Railway"],
     },
-    imageHint: "Chita railway station and architecture",
-  },
+    imageHint: "Chita railway station and architecture", image: "/poi-images/russia-chita-cities-v2.webp"},
   {
     id: "russia-kaluga-cities-v2",
     type: "city",
@@ -1039,8 +988,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Leagănul cosmonauticii", "Fondat în anul 1371", "Deține un muzeu al cosmonauticii", "Centru al industriei auto"],
       en: ["Cradle of Cosmonautics", "Founded in the year 1371", "Home to a major space museum", "Center of the automotive industry"],
     },
-    imageHint: "Tsiolkovsky State Museum of the History of Cosmonautics",
-  },
+    imageHint: "Tsiolkovsky State Museum of the History of Cosmonautics", image: "/poi-images/russia-kaluga-cities-v2.webp"},
   {
     id: "russia-smolensk-cities-v2",
     type: "city",
@@ -1059,8 +1007,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Fondat în anul 863", "Supranumit Orașul Cheie al Rusiei", "Deține o cetate imensă", "Bază militară importantă"],
       en: ["Founded in the year 863", "Known as the Key City of Russia", "Features a massive fortress", "Major military location"],
     },
-    imageHint: "Smolensk fortress wall and cathedral",
-  },
+    imageHint: "Smolensk fortress wall and cathedral", image: "/poi-images/russia-smolensk-cities-v2.webp"},
   {
     id: "russia-saransk-cities-v2",
     type: "city",
@@ -1079,8 +1026,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Capitala Mordoviei", "Fondat în anul 1641", "Gazdă a CM de fotbal 2018", "Centru al industriei electrice"],
       en: ["Capital of Mordovia", "Founded in the year 1641", "Host of the 2018 World Cup", "Center of the electrical industry"],
     },
-    imageHint: "Mordovia Arena in Saransk",
-  },
+    imageHint: "Mordovia Arena in Saransk", image: "/poi-images/russia-saransk-cities-v2.webp"},
   {
     id: "russia-cherepovets-cities-v2",
     type: "city",
@@ -1099,8 +1045,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Centru al industriei siderurgice", "Fondat în anul 1777", "Port pe calea navigabilă Volga-Baltica", "Sediu al companiei Severstal"],
       en: ["Major steel-producing center", "Founded in the year 1777", "Port on the Volga-Baltic Waterway", "Home to the Severstal company"],
     },
-    imageHint: "Severstal steel plant in Cherepovets",
-  },
+    imageHint: "Severstal steel plant in Cherepovets", image: "/poi-images/russia-cherepovets-cities-v2.webp"},
   {
     id: "russia-vologda-cities-v2",
     type: "city",
@@ -1119,8 +1064,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Faimos pentru dantela de Vologda", "Fondat în anul 1147", "Deține un Kremlin istoric", "Centru al industriei lactatelor"],
       en: ["Famous for Vologda lace", "Founded in the year 1147", "Features a historic Kremlin", "Center of the dairy industry"],
     },
-    imageHint: "Vologda Kremlin and Saint Sophia Cathedral",
-  },
+    imageHint: "Vologda Kremlin and Saint Sophia Cathedral", image: "/poi-images/russia-vologda-cities-v2.webp"},
   {
     id: "russia-murmansk-cities-v2",
     type: "city",
@@ -1139,8 +1083,7 @@ export const russiaCitiesV2: POI[] = [
       ro: ["Cel mai mare oraș peste Cercul Polar", "Port la mare fără îngheț", "Fondat în anul 1916", "Baza flotei de spărgătoare de gheață"],
       en: ["Largest city above the Arctic Circle", "Ice-free northern seaport", "Founded in the year 1916", "Home to the nuclear icebreaker fleet"],
     },
-    imageHint: "Alyosha Monument in Murmansk",
-  },
+    imageHint: "Alyosha Monument in Murmansk", image: "/poi-images/russia-murmansk-cities-v2.webp"},
   {
     id: "russia-petrozavodsk-cities-v2",
     type: "city",

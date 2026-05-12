@@ -18,8 +18,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Suprafață: aprox. 3,8 km²", "Adâncime maximă: 43 metri", "Construcția barajului: 1955-1958", "Sursă de apă pentru 70% din populație"],
       en: ["Surface area: approx. 3.8 km²", "Maximum depth: 43 meters", "Dam construction: 1955-1958", "Provides water for 70% of population"],
     },
-    imageHint: "Aerial view of Lake Upper Sûre with forested hills",
-  },
+    imageHint: "Aerial view of Lake Upper Sûre with forested hills", image: "/poi-images/luxembourg-lake-upper-sure-nature-v2.webp"},
   {
     id: "luxembourg-sauer-river-nature-v2",
     type: "river",
@@ -37,8 +36,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungime totală: 173 kilometri", "Bazin hidrografic: 4.259 km²", "Vărsare în Mosela la Wasserbillig", "Cel mai important râu din Ardenii luxemburghezi"],
       en: ["Total length: 173 kilometers", "Drainage basin: 4,259 km²", "Confluence with Moselle at Wasserbillig", "Most important river of the Luxembourg Ardennes"],
     },
-    imageHint: "The Sauer River winding through a green valley",
-  },
+    imageHint: "The Sauer River winding through a green valley", image: "/poi-images/luxembourg-sauer-river-nature-v2.webp"},
   {
     id: "luxembourg-our-river-nature-v2",
     type: "river",
@@ -56,8 +54,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungime: 78 kilometri", "Râu de frontieră între Luxemburg și Germania", "Traversează rezervația naturală Valea Our", "Alimentează hidrocentrala de la Vianden"],
       en: ["Length: 78 kilometers", "Border river between Luxembourg and Germany", "Flows through the Our Valley nature reserve", "Feeds the Vianden pumped-storage plant"],
     },
-    imageHint: "Our River with rocky banks and forests",
-  },
+    imageHint: "Our River with rocky banks and forests", image: "/poi-images/luxembourg-our-river-nature-v2.webp"},
   {
     id: "luxembourg-clerve-river-nature-v2",
     type: "river",
@@ -75,8 +72,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungime: aprox. 48 kilometri", "Se varsă în râul Wiltz la Kautenbach", "Numele provine din celticul 'Clarus'", "Zonă populară pentru pescuitul de păstrăv"],
       en: ["Length: approx. 48 kilometers", "Flows into the Wiltz at Kautenbach", "Name originates from the Celtic 'Clarus'", "Popular trout fishing area"],
     },
-    imageHint: "River Clerve flowing through Clervaux valley",
-  },
+    imageHint: "River Clerve flowing through Clervaux valley", image: "/poi-images/luxembourg-clerve-river-nature-v2.webp"},
   {
     id: "luxembourg-attert-river-nature-v2",
     type: "river",
@@ -94,8 +90,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungime în Luxemburg: 33 kilometri", "Origine în Belgia, lângă Arlon", "Considerat unul dintre cele mai curate râuri din țară", "Habitat pentru specii rare de libelule"],
       en: ["Length in Luxembourg: 33 kilometers", "Originates in Belgium near Arlon", "Considered one of the cleanest rivers in the country", "Home to rare dragonfly species"],
     },
-    imageHint: "Attert River in a rural Luxembourg landscape",
-  },
+    imageHint: "Attert River in a rural Luxembourg landscape", image: "/poi-images/luxembourg-attert-river-nature-v2.webp"},
   {
     id: "luxembourg-eisch-river-nature-v2",
     type: "river",
@@ -113,8 +108,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungime: 28 kilometri", "Se varsă în Alzette la Mersch", "Dă numele văii 'Eischtal'", "Un traseu de drumeție important trece pe malul său"],
       en: ["Length: 28 kilometers", "Confluence with Alzette at Mersch", "Gives its name to the 'Eischtal' valley", "Important hiking trail runs along its banks"],
     },
-    imageHint: "Eisch River flowing through a wooded valley",
-  },
+    imageHint: "Eisch River flowing through a wooded valley", image: "/poi-images/luxembourg-eisch-river-nature-v2.webp"},
   {
     id: "luxembourg-mamer-river-nature-v2",
     type: "river",
@@ -132,8 +126,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungime: 25,6 kilometri", "Traversează comunele Mamer și Kopstal", "Habitat important pentru pescărușul albastru", "Rezervații naturale de-a lungul cursului inferior"],
       en: ["Length: 25.6 kilometers", "Flows through Mamer and Kopstal municipalities", "Important habitat for the kingfisher", "Nature reserves along its lower course"],
     },
-    imageHint: "Mamer River surrounded by lush greenery",
-  },
+    imageHint: "Mamer River surrounded by lush greenery", image: "/poi-images/luxembourg-mamer-river-nature-v2.webp"},
   {
     id: "luxembourg-wiltz-river-nature-v2",
     type: "river",
@@ -151,8 +144,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungime: 42 kilometri", "Afluent principal al râului Sûre", "Izvorăște în Ardenii belgieni", "Bogat în păstrăv și lipan"],
       en: ["Length: 42 kilometers", "Main tributary of the Sauer", "Originates in the Belgian Ardennes", "Rich in trout and grayling"],
     },
-    imageHint: "Wiltz River in the Oesling region",
-  },
+    imageHint: "Wiltz River in the Oesling region", image: "/poi-images/luxembourg-wiltz-river-nature-v2.webp"},
   {
     id: "luxembourg-syre-river-nature-v2",
     type: "river",
@@ -170,8 +162,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungime: 32 kilometri", "Traversează rezervația naturală Schlammwiss", "Zonă importantă de cuibărit pentru păsările de mlaștină", "Origine lângă Syren, în sud"],
       en: ["Length: 32 kilometers", "Flows through the Schlammwiss nature reserve", "Important breeding ground for marsh birds", "Originates near Syren in the south"],
     },
-    imageHint: "Syre River flowing through wetlands",
-  },
+    imageHint: "Syre River flowing through wetlands", image: "/poi-images/luxembourg-syre-river-nature-v2.webp"},
   {
     id: "luxembourg-kockelscheuer-park-nature-v2",
     type: "park",
@@ -189,8 +180,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Locația patinoarului național", "Mai multe iazuri amenajate artificial", "Popular pentru jogging și nordic walking", "Fosta locație a unei lăptării istorice"],
       en: ["Location of the national ice rink", "Several man-made ponds", "Popular for jogging and Nordic walking", "Former site of a historical dairy farm"],
     },
-    imageHint: "Ponds and paths in Kockelscheuer park",
-  },
+    imageHint: "Ponds and paths in Kockelscheuer park", image: "/poi-images/luxembourg-kockelscheuer-park-nature-v2.webp"},
   {
     id: "luxembourg-remerschen-lakes-nature-v2",
     type: "lake",
@@ -208,8 +198,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Include centrul de vizitare Biodiversum", "Locuri populare de scăldat vara", "Cea mai importantă zonă umedă din regiunea Moselei", "Cabane de observare pentru ornitologi"],
       en: ["Includes the Biodiversum visitor center", "Popular swimming spots in summer", "Most important wetland of the Moselle region", "Observation huts for ornithologists"],
     },
-    imageHint: "Remerschen lakes with birdwatching huts",
-  },
+    imageHint: "Remerschen lakes with birdwatching huts", image: "/poi-images/luxembourg-remerschen-lakes-nature-v2.webp"},
   {
     id: "luxembourg-echternach-lake-nature-v2",
     type: "lake",
@@ -227,8 +216,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Suprafață: 30 hectare", "Traseu circular de 3 kilometri lungime", "Adiacent ruinelor unei vile romane", "Locație pentru concerte și sport"],
       en: ["Surface area: 30 hectares", "3-kilometer long circular path", "Adjacent to the remains of a Roman villa", "Venue for concerts and sports"],
     },
-    imageHint: "Lake Echternach with pedal boats",
-  },
+    imageHint: "Lake Echternach with pedal boats", image: "/poi-images/luxembourg-echternach-lake-nature-v2.webp"},
   {
     id: "luxembourg-weiswampach-lakes-nature-v2",
     type: "lake",
@@ -246,8 +234,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Suprafață: 6 hectare per lac", "Posibilități de navigație și canotaj", "Camping mare adiacent", "Popular printre pescarii de crap"],
       en: ["Surface: 6 hectares per lake", "Opportunities for sailing and canoeing", "Large adjacent campsite", "Popular with anglers for carp fishing"],
     },
-    imageHint: "Aerial view of Weiswampach lakes",
-  },
+    imageHint: "Aerial view of Weiswampach lakes", image: "/poi-images/luxembourg-weiswampach-lakes-nature-v2.webp"},
   {
     id: "luxembourg-siwescheleff-nature-v2",
     type: "landmark",
@@ -265,8 +252,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Fantele au până la 30 de metri adâncime", "Parte a traseului Müllerthal (Ruta 2)", "Formate prin eroziunea gresiei", "Lângă localitatea Berdorf"],
       en: ["Crevices are up to 30 meters deep", "Part of the Müllerthal Trail (Route 2)", "Formed by erosion of the sandstone", "Located near the village of Berdorf"],
     },
-    imageHint: "Narrow rock passages of Siweschlëff",
-  },
+    imageHint: "Narrow rock passages of Siweschlëff", image: "/poi-images/luxembourg-siwescheleff-nature-v2.webp"},
   {
     id: "luxembourg-goldfralay-nature-v2",
     type: "landmark",
@@ -284,8 +270,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Formată din gresie luxemburgheză", "Subiect popular pentru fotografii de natură", "Accesibilă prin trasee de drumeție ramificate", "Console și crăpături impresionante"],
       en: ["Consists of Luxembourg sandstone", "Popular subject for nature photographers", "Accessible via branched hiking trails", "Impressive overhangs and crevices"],
     },
-    imageHint: "Unique sandstone rock formation Goldfralay",
-  },
+    imageHint: "Unique sandstone rock formation Goldfralay", image: "/poi-images/luxembourg-goldfralay-nature-v2.webp"},
   {
     id: "luxembourg-adlerhorst-nature-v2",
     type: "landmark",
@@ -303,8 +288,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Oferă puncte de belvedere panoramice", "Structură de gresie puternic fragmentată", "Loc de cuibărit pentru diverse specii de păsări", "Accesibil doar pe jos, pe poteci abrupte"],
       en: ["Offers panoramic viewpoints", "Highly fissured sandstone structure", "Nesting site for various bird species", "Accessible only on foot via steep paths"],
     },
-    imageHint: "Rocky viewpoint Adlerhorst overlooking valley",
-  },
+    imageHint: "Rocky viewpoint Adlerhorst overlooking valley", image: "/poi-images/luxembourg-adlerhorst-nature-v2.webp"},
   {
     id: "luxembourg-eulenburg-nature-v2",
     type: "landmark",
@@ -322,8 +306,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Parte a unui sistem stâncos mai mare", "Microclimat răcoros în crăpături", "Creștere rară de ferigi pe pietre", "Adesea acoperit de mușchi și licheni"],
       en: ["Part of a larger rock system", "Cool microclimate in the crevices", "Rare fern growth on the stones", "Often covered with moss and lichens"],
     },
-    imageHint: "Labyrinthine rock corridors of Eulenburg",
-  },
+    imageHint: "Labyrinthine rock corridors of Eulenburg", image: "/poi-images/luxembourg-eulenburg-nature-v2.webp"},
   {
     id: "luxembourg-binzeltschleff-nature-v2",
     type: "landmark",
@@ -360,8 +343,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Punct de belvedere la 380 de metri înălțime", "Accesibil prin scări metalice", "Aparține platoului Berdorf", "Oferă vedere până la Echternach"],
       en: ["Viewpoint at 380 meters altitude", "Accessible via metal ladders", "Part of the Berdorf plateau", "Offers views as far as Echternach"],
     },
-    imageHint: "Unique rock formation Champagne Rock",
-  },
+    imageHint: "Unique rock formation Champagne Rock", image: "/poi-images/luxembourg-champagne-rock-nature-v2.webp"},
   {
     id: "luxembourg-heringer-millen-nature-v2",
     type: "landmark",
@@ -379,8 +361,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Punct de plecare pentru traseul Müllerthal", "Include un muzeu al morii", "Situat pe malul râului Ernz Neagră", "Oferă închiriere de echipament pentru drumeți"],
       en: ["Starting point for the Müllerthal Trail", "Includes a mill museum", "Located on the Black Ernz river", "Offers equipment rental for hikers"],
     },
-    imageHint: "Historical mill building in the forest",
-  },
+    imageHint: "Historical mill building in the forest", image: "/poi-images/luxembourg-heringer-millen-nature-v2.webp"},
   {
     id: "luxembourg-mellerdall-nature-park-nature-v2",
     type: "park",
@@ -398,8 +379,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["UNESCO Global Geopark din 2022", "Suprafață de aprox. 256 km²", "Găzduiește faimosul traseu Müllerthal", "Cuprinde 11 comune din regiune"],
       en: ["UNESCO Global Geopark since 2022", "Area of approx. 256 km²", "Home to the famous Müllerthal Trail", "Encompasses 11 municipalities in the region"],
     },
-    imageHint: "Landscape of Mëllerdall Nature Park",
-  },
+    imageHint: "Landscape of Mëllerdall Nature Park", image: "/poi-images/luxembourg-mellerdall-nature-park-nature-v2.webp"},
   {
     id: "luxembourg-prenzebierg-nature-v2",
     type: "wildlife",
@@ -417,8 +397,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Fostă zonă de carieră", "Pereți stâncoși colorați de reziduurile de minereu", "Habitat important pentru orhidee", "Parte a traseului de drumeție 'Minett Trail'"],
       en: ["Former open-cast mining area", "Colorful rock walls due to ore residues", "Important habitat for orchids", "Part of the 'Minett Trail' hiking path"],
     },
-    imageHint: "Red rock walls and greenery in Prënzebierg",
-  },
+    imageHint: "Red rock walls and greenery in Prënzebierg", image: "/poi-images/luxembourg-prenzebierg-nature-v2.webp"},
   {
     id: "luxembourg-ellergronn-nature-v2",
     type: "wildlife",
@@ -436,8 +415,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Găzduiește un centru de protecție a naturii", "Fosta mină de fier 'Katzenberg'", "Zone forestiere și mlaștini diverse", "Punct de plecare pentru tururi transfrontaliere"],
       en: ["Houses a nature conservation center", "Former 'Katzenberg' iron ore mine", "Diverse forest and wetland areas", "Starting point for cross-border tours"],
     },
-    imageHint: "Nature reserve path in Ellergronn",
-  },
+    imageHint: "Nature reserve path in Ellergronn", image: "/poi-images/luxembourg-ellergronn-nature-v2.webp"},
   {
     id: "luxembourg-telpeschholz-nature-v2",
     type: "wildlife",
@@ -455,8 +433,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Zonă protejată din 1971", "Prezența ierbii neagră (Calluna)", "Habitat rar pentru reptile", "Menținută deschisă prin pășunat"],
       en: ["Protected area since 1971", "Presence of common heather", "Rare habitat for reptiles", "Kept open through grazing"],
     },
-    imageHint: "Heathland landscape in Telpeschholz",
-  },
+    imageHint: "Heathland landscape in Telpeschholz", image: "/poi-images/luxembourg-telpeschholz-nature-v2.webp"},
   {
     id: "luxembourg-am-brill-nature-v2",
     type: "wildlife",
@@ -474,8 +451,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Parte a rețelei europene Natura 2000", "Important pentru barza albă", "Cursuri de apă renaturate ale râului Mess", "Turn de observare pentru iubitorii de natură"],
       en: ["Part of the European Natura 2000 network", "Important for the white stork", "Renatured sections of the Mess stream", "Observation tower for nature enthusiasts"],
     },
-    imageHint: "Wetlands and reed beds in Am Brill",
-  },
+    imageHint: "Wetlands and reed beds in Am Brill", image: "/poi-images/luxembourg-am-brill-nature-v2.webp"},
   {
     id: "luxembourg-leiffrachen-nature-v2",
     type: "wildlife",
@@ -493,8 +469,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Fostă zonă minieră importantă", "Protecție specială pentru buhaiul de baltă cu burtă galbenă", "Cunoscută pentru un loc de pelerinaj marian", "Găzduiește peste 20 de specii de orhidee"],
       en: ["Formerly an important mining area", "Special protection for the yellow-bellied toad", "Known for a Marian pilgrimage site", "Home to over 20 species of orchids"],
     },
-    imageHint: "Dry grasslands and rocky patches in Léiffrächen",
-  },
+    imageHint: "Dry grasslands and rocky patches in Léiffrächen", image: "/poi-images/luxembourg-leiffrachen-nature-v2.webp"},
   {
     id: "luxembourg-valley-of-seven-castles-nature-v2",
     type: "valley",
@@ -512,8 +487,7 @@ export const luxembourgNatureV2: POI[] = [
       ro: ["Lungimea văii: aprox. 24 kilometri", "Liază Mersch de Koerich", "Bogată în izvoare și pârâuri mici", "Coridor ecologic important în vest"],
       en: ["Length of the valley: approx. 24 kilometers", "Connects Mersch with Koerich", "Rich in springs and small streams", "Important ecological corridor in the west"],
     },
-    imageHint: "Panoramic view of the Eisch valley",
-  },
+    imageHint: "Panoramic view of the Eisch valley", image: "/poi-images/luxembourg-valley-of-seven-castles-nature-v2.webp"},
   {
     id: "luxembourg-mamer-valley-nature-v2",
     type: "valley",

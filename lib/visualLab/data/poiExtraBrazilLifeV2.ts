@@ -26,8 +26,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       de: ["Ein riesiges Feuchtgebiet, das eine der größten Biodiversitäten Südamerikas beherbergt.", "Liegt im Gebiet der Föderativen Republik Brasilien.", "Spielt eine Rolle in der lokalen Identität der Region."],
       hu: ["Hatalmas vizes élőhely, amely Dél-Amerika egyik legnagyobb biodiverzitásának ad otthont.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["O zonă umedă imensă care găzduiește una dintre cele mai mari biodiversități din America de Sud.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."]
-    }
-  },
+    }, image: "/poi-images/pantanal-matogrossense-animal-habitat-life-v2.webp"},
   {
     id: "tamar-project-praia-do-forte-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -78,8 +77,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       de: ["Ein riesiger Parkkomplex, der einen Zoo, einen Botanischen Garten und ein japanisches Themengebiet umfasst.", "Liegt im Gebiet der Föderativen Republik Brasilien.", "Spielt eine Rolle in der lokalen Identität der Region."],
       hu: ["Hatalmas parkkomplexum, amely állatkertet, botanikus kertet és egy japán tematikus területet foglal magába.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["Un complex imens de parcuri care include o grădină zoologică, o grădină botanică și o zonă tematică japoneză.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."]
-    }
-  },
+    }, image: "/poi-images/zoo-botanico-bh-kid-landmark-life-v2.webp"},
   {
     id: "fazenda-ipanema-agriculture-life-v2",
     type: "agriculture",
@@ -104,8 +102,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       de: ["Ein historisches landwirtschaftliches Anwesen im Bundesstaat São Paulo, berühmt für den Kaffeeanbau des 19. Jahrhunderts.", "Liegt im Gebiet der Föderativen Republik Brasilien.", "Spielt eine Rolle in der lokalen Identität der Region."],
       hu: ["Egy történelmi mezőgazdasági birtok São Paulo államban, amely a 19. századi kávétermesztésről híres.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["O proprietate agricolă istorică din statul São Paulo, renumită pentru cultivarea cafelei în secolul al XIX-lea.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."]
-    }
-  },
+    }, image: "/poi-images/fazenda-ipanema-agriculture-life-v2.webp"},
   {
     id: "parque-das-aves-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -130,8 +127,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       de: ["Ein ökologischer Park, der sich auf den Schutz von Vogelarten des Atlantischen Regenwaldes konzentriert.", "Liegt im Gebiet der Föderativen Republik Brasilien.", "Spielt eine Rolle in der lokalen Identität der Region."],
       hu: ["Az atlanti esőerdő madárfajainak védelmére összpontosító ökológiai park.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["Un parc ecologic care se concentrează pe conservarea speciilor de păsări din pădurea tropicală atlantică.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."]
-    }
-  },
+    }, image: "/poi-images/parque-das-aves-animal-habitat-life-v2.webp"},
   {
     id: "fazenda-sao-joao-coffee-agriculture-life-v2",
     type: "agriculture",
@@ -156,8 +152,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Hagyományos kávéfarm Minas Gerais déli részén, amely hiteles bepillantást nyújt a brazil kávétermelésbe.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["O fermă tradițională de cafea din sudul regiunii Minas Gerais care oferă o perspectivă autentică asupra producției braziliene de cafea.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."],
       en: ["A traditional coffee farm in southern Minas Gerais offering authentic insights into Brazilian coffee production.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
-    }
-  },
+    }, image: "/poi-images/fazenda-sao-joao-coffee-agriculture-life-v2.webp"},
   {
     id: "beto-carrero-world-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -182,8 +177,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Latin-Amerika legnagyobb vidámparkja, ideális családoknak és gyerekeknek számtalan hullámvasúttal és előadással.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["Cel mai mare parc tematic din America Latină, ideal pentru familii și copii cu numeroase montagne russe și spectacole.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."],
       en: ["The largest theme park in Latin America, ideal for families and children with numerous roller coasters and shows.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
-    }
-  },
+    }, image: "/poi-images/beto-carrero-world-kid-landmark-life-v2.webp"},
   {
     id: "vale-dos-vinhedos-agriculture-life-v2",
     type: "agriculture",
@@ -208,8 +202,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Brazília leghíresebb borvidéke, amelyet erősen meghatároznak az olasz bevándorlók.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["Cea mai renumită regiune viticolă din Brazilia, puternic influențată de imigranții italieni.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."],
       en: ["Brazil's most famous wine-growing region, heavily influenced by Italian immigrants.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
-    }
-  },
+    }, image: "/poi-images/vale-dos-vinhedos-agriculture-life-v2.webp"},
   {
     id: "gramado-zoo-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -234,8 +227,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Egy állatkert, amelyet kizárólag Brazília gazdag és változatos állatvilágának szenteltek.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["O grădină zoologică dedicată exclusiv faunei sălbatice bogate și diverse a Braziliei.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."],
       en: ["A zoo dedicated exclusively to the rich and diverse Brazilian wildlife.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
-    }
-  },
+    }, image: "/poi-images/gramado-zoo-animal-habitat-life-v2.webp"},
   {
     id: "aquario-de-sao-paulo-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -260,8 +252,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Dél-Amerika egyik legnagyobb akváriuma, amely a halak mellett jegesmedvéknek és kenguruknak is otthont ad.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["Unul dintre cele mai mari acvarii din America de Sud care, pe lângă pești, găzduiește și urși polari și canguri.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."],
       en: ["One of the largest aquariums in South America, housing polar bears and kangaroos in addition to fish.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
-    }
-  },
+    }, image: "/poi-images/aquario-de-sao-paulo-kid-landmark-life-v2.webp"},
   {
     id: "parque-das-neves-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -286,8 +277,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Amerika első beltéri hóparkja, amely téli sportokat és havas szórakozást kínál a családoknak.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["Primul parc de zăpadă acoperit din America, oferind sporturi de iarnă și distracție în zăpadă pentru familii.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."],
       en: ["The first indoor snow park in the Americas, offering winter sports and snow fun for families.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
-    }
-  },
+    }, image: "/poi-images/parque-das-neves-kid-landmark-life-v2.webp"},
   {
     id: "museu-paraense-emilio-goeldi-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -312,8 +302,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Fontos amazóniai kutatóintézet és park, amely a helyi növény- és állatvilágnak szenteli magát.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["O instituție importantă de cercetare și un parc din Amazon, dedicată florei și faunei locale.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."],
       en: ["A major research institution and park in the Amazon dedicated to the local flora and fauna.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
-    }
-  },
+    }, image: "/poi-images/museu-paraense-emilio-goeldi-animal-habitat-life-v2.webp"},
   {
     id: "rota-do-cacau-agriculture-life-v2",
     type: "agriculture",
@@ -338,8 +327,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Bahia mezőgazdasági régiója, amely történelmileg a kakaótermesztésről és a csokoládégyártásról ismert.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["O regiune agricolă din Bahia, cunoscută istoric pentru cultivarea cacauei și producția de ciocolată.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."],
       en: ["An agricultural region in Bahia historically known for cocoa cultivation and chocolate production.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
-    }
-  },
+    }, image: "/poi-images/rota-do-cacau-agriculture-life-v2.webp"},
   {
     id: "cidade-das-criancas-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -364,8 +352,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Brazília első vidámparkja, amelyet kifejezetten családok és kisebb gyermekek számára terveztek.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["Primul parc tematic din Brazilia, conceput special pentru familii și copiii mai mici.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."],
       en: ["The first theme park in Brazil, designed specifically for families and younger children.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
-    }
-  },
+    }, image: "/poi-images/cidade-das-criancas-kid-landmark-life-v2.webp"},
   {
     id: "parque-estadual-do-jalapao-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -466,8 +453,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Brazília északkeleti részének első óceanáriuma, amelyet a Tamar Projekt üzemeltet, és bemutatja a helyi tengeri élővilágot.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["Primul oceanariu din nord-estul Braziliei, operat de Proiectul Tamar și care prezintă viața marină locală.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."],
       en: ["The first oceanarium in Northeastern Brazil, operated by the Tamar Project, showcasing local marine life.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
-    }
-  },
+    }, image: "/poi-images/oceanario-de-aracaju-animal-habitat-life-v2.webp"},
   {
     id: "bioparque-rio-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -492,8 +478,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Egy modern állatkert Rio de Janeiróban, amely a klasszikus állatkert-koncepciót a biodiverzitás védelmének központjává alakította át.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["O grădină zoologică modernă din Rio de Janeiro, care a transformat conceptul clasic de grădină zoologică într-un centru pentru protecția biodiversității.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."],
       en: ["A modern zoo in Rio de Janeiro that transformed the classic zoo concept into a biodiversity conservation center.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
-    }
-  },
+    }, image: "/poi-images/bioparque-rio-kid-landmark-life-v2.webp"},
   {
     id: "horto-florestal-sao-paulo-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -518,8 +503,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Nagy városi park São Paulo északi részén, amely kikapcsolódási lehetőséget kínál a családoknak a természetben.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["Un mare parc urban din nordul orașului São Paulo care oferă familiilor spații de recreere în natură.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."],
       en: ["A large urban park in northern São Paulo, offering families recreational areas in nature.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
-    }
-  },
+    }, image: "/poi-images/horto-florestal-sao-paulo-kid-landmark-life-v2.webp"},
   {
     id: "engenho-massangana-agriculture-life-v2",
     type: "agriculture",
@@ -569,8 +553,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["A súlyosan veszélyeztetett arany oroszlánmajmocska védelmére szolgáló egyik legfontosabb rezervátum.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["Una dintre cele mai importante rezervații pentru protecția tamarinului leu auriu, aflat pe cale de dispariție.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."],
       en: ["One of the most important reserves for the protection of the highly endangered golden lion tamarin.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
-    }
-  },
+    }, image: "/poi-images/reserva-biologica-de-poco-das-antas-animal-habitat-life-v2.webp"},
   {
     id: "fazenda-da-toca-agriculture-life-v2",
     type: "agriculture",
@@ -645,8 +628,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Az első és egyetlen menedékhely megmentett elefántok számára Latin-Amerikában.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["Primul și singurul sanctuar pentru elefanți salvați din America Latină.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."],
       en: ["The first and only sanctuary for rescued elephants in Latin America.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
-    }
-  },
+    }, image: "/poi-images/santuario-de-elefantes-brasil-animal-habitat-life-v2.webp"},
   {
     id: "museu-do-cafe-santos-agriculture-life-v2",
     type: "agriculture",
@@ -696,8 +678,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Egy hagyományos, nyilvános vidámpark Goiâniában, amely generációk óta népszerű családi úti cél.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában."],
       ro: ["Un parc de distracții tradițional, public în Goiânia, care a fost o destinație populară pentru familii de generații.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii."],
       en: ["A traditional, public amusement park in Goiânia that has been a popular destination for families for generations.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
-    }
-  },
+    }, image: "/poi-images/parque-mutirama-kid-landmark-life-v2.webp"},
   {
     id: "fundacao-tamar-ubatuba-animal-habitat-life-v2",
     type: "animal-habitat",

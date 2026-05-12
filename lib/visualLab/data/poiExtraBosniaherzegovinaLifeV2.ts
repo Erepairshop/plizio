@@ -19,8 +19,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Parc național din 1967", "902 specii de plante", "Păduri mixte dense", "Zonă bogată în avifaună"],
       en: ["National park since 1967", "902 plant species documented", "Dense mixed forests", "Bird-rich forest area"],
     },
-    imageHint: "Kozara National Park dense forest",
-  },
+    imageHint: "Kozara National Park dense forest", image: "/poi-images/bosniaherzegovina-kozara-life-v2.webp"},
   {
     id: "bosniaherzegovina-drina-life-v2",
     type: "park",
@@ -39,8 +38,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Fondat în anul 2017", "Protejează molidul sârbesc", "Canioane adânci de stâncă", "Habitat pentru capre negre"],
       en: ["Established in 2017", "Protects the Pančić spruce", "Deep rocky canyons", "Habitat for chamois"],
     },
-    imageHint: "Drina river canyon and spruce trees",
-  },
+    imageHint: "Drina river canyon and spruce trees", image: "/poi-images/bosniaherzegovina-drina-life-v2.webp"},
   {
     id: "bosniaherzegovina-bardaca-life-v2",
     type: "wildlife",
@@ -79,8 +77,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Cea mai veche grădină zoo", "Situată în Pionirska dolina", "Găzduiește lei și urși", "Include secțiune botanică"],
       en: ["Oldest zoo in the country", "Located in Pionirska dolina", "Home to lions and bears", "Includes botanical section"],
     },
-    imageHint: "Sarajevo Zoo entrance",
-  },
+    imageHint: "Sarajevo Zoo entrance", image: "/poi-images/bosniaherzegovina-sarajevo-zoo-life-v2.webp"},
   {
     id: "bosniaherzegovina-botanical-garden-sarajevo-life-v2",
     type: "park",
@@ -99,8 +96,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Peste 2.000 de specii", "Înființată în anul 1888", "Colecție bogată de endemiți", "Parte a Muzeului Național"],
       en: ["Over 2,000 plant species", "Established in 1888", "Rich collection of endemics", "Part of the National Museum"],
     },
-    imageHint: "Botanical Garden Sarajevo plants",
-  },
+    imageHint: "Botanical Garden Sarajevo plants", image: "/poi-images/bosniaherzegovina-botanical-garden-sarajevo-life-v2.webp"},
   {
     id: "bosniaherzegovina-vrelo-bosne-life-v2",
     type: "park",
@@ -119,8 +115,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Izvorul râului Bosna", "Monument natural din 2006", "Alee istorică de platani", "Numeroase lebede și rațe"],
       en: ["Source of the Bosna River", "Natural monument since 2006", "Historic plane tree avenue", "Numerous swans and ducks"],
     },
-    imageHint: "Vrelo Bosne spring and park",
-  },
+    imageHint: "Vrelo Bosne spring and park", image: "/poi-images/bosniaherzegovina-vrelo-bosne-life-v2.webp"},
   {
     id: "bosniaherzegovina-bijambare-life-v2",
     type: "park",
@@ -139,8 +134,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Complex de 5 peșteri", "Altitudine de cca. 950 m", "Păduri dese de conifere", "Faună bogată de lilieci"],
       en: ["Complex of 5 caves", "Altitude of approx. 950m", "Dense coniferous forests", "Rich bat fauna"],
     },
-    imageHint: "Bijambare caves and pine forest",
-  },
+    imageHint: "Bijambare caves and pine forest", image: "/poi-images/bosniaherzegovina-bijambare-life-v2.webp"},
   {
     id: "bosniaherzegovina-tajan-life-v2",
     type: "park",
@@ -159,8 +153,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Peste 100 de peșteri", "Prezența caprelor negre", "Bogat în plante medicinale", "Pâraie montane cu păstrăv"],
       en: ["Over 100 caves discovered", "Presence of chamois", "Rich in medicinal plants", "Mountain streams with trout"],
     },
-    imageHint: "Tajan Nature Park forest and rocks",
-  },
+    imageHint: "Tajan Nature Park forest and rocks", image: "/poi-images/bosniaherzegovina-tajan-life-v2.webp"},
   {
     id: "bosniaherzegovina-trebevic-life-v2",
     type: "park",
@@ -179,8 +172,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Zonă protejată din 2014", "Peste 90 specii de ciuperci", "Habitat pentru vânturei", "Păduri dese de molid"],
       en: ["Protected area since 2014", "Over 90 species of fungi", "Home to kestrels", "Dense spruce forests"],
     },
-    imageHint: "Trebevic mountain forest",
-  },
+    imageHint: "Trebevic mountain forest", image: "/poi-images/bosniaherzegovina-trebevic-life-v2.webp"},
   {
     id: "bosniaherzegovina-skakavac-life-v2",
     type: "wildlife",
@@ -199,8 +191,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Înălțime de 98 de metri", "Monument al naturii cat. III", "Păduri de molid și fag", "Bogat în mușchi și ferigi"],
       en: ["Height of 98 meters", "Category III natural monument", "Spruce-beech mixed forests", "Rich in mosses and ferns"],
     },
-    imageHint: "Skakavac waterfall Sarajevo forest",
-  },
+    imageHint: "Skakavac waterfall Sarajevo forest", image: "/poi-images/bosniaherzegovina-skakavac-life-v2.webp"},
   {
     id: "bosniaherzegovina-janjske-otoke-life-v2",
     type: "wildlife",
@@ -219,8 +210,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Deltă de râu montan", "Numeroase cascade mici", "Floră de mușchi bogată", "Zonă populară pentru păstrăv"],
       en: ["Mountain river delta", "Numerous small waterfalls", "Very rich moss flora", "Popular trout fishing area"],
     },
-    imageHint: "Janjske otoke river and islands",
-  },
+    imageHint: "Janjske otoke river and islands", image: "/poi-images/bosniaherzegovina-janjske-otoke-life-v2.webp"},
   {
     id: "bosniaherzegovina-gromizelj-life-v2",
     type: "wildlife",
@@ -239,8 +229,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Protejează peștele țigănuș", "Unul dintre cele mai vechi ecosisteme", "Zonă umedă mlăștinoasă", "Descoperită în anul 2008"],
       en: ["Protects European mudminnow", "One of the oldest ecosystems", "Marshy wetland area", "Discovered in 2008"],
     },
-    imageHint: "Gromizelj swamp and nature",
-  },
+    imageHint: "Gromizelj swamp and nature", image: "/poi-images/bosniaherzegovina-gromizelj-life-v2.webp"},
   {
     id: "bosniaherzegovina-tisina-life-v2",
     type: "wildlife",
@@ -259,8 +248,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Rezervație avifaunistică", "Situată lângă râul Sava", "Plante acvatice rare", "Loc de popas pentru păsări"],
       en: ["Important bird reserve", "Located near Sava River", "Rare aquatic plants", "Migratory bird stopover"],
     },
-    imageHint: "Tisina swamp birds",
-  },
+    imageHint: "Tisina swamp birds", image: "/poi-images/bosniaherzegovina-tisina-life-v2.webp"},
   {
     id: "bosniaherzegovina-konjuh-life-v2",
     type: "park",
@@ -279,8 +267,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Bogat în păduri de conifere", "Habitat pentru urșii bruni", "Numeroase izvoare montane", "Peste 1.000 specii de plante"],
       en: ["Rich in coniferous forests", "Habitat for brown bears", "Numerous mountain springs", "Over 1,000 plant species"],
     },
-    imageHint: "Konjuh mountain forest landscape",
-  },
+    imageHint: "Konjuh mountain forest landscape", image: "/poi-images/bosniaherzegovina-konjuh-life-v2.webp"},
   {
     id: "bosniaherzegovina-livanjsko-polje-life-v2",
     type: "wildlife",
@@ -299,8 +286,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Cea mai mare câmpie carstică", "Găzduiește cai sălbatici", "Sit Ramsar din 2008", "Coridor important pentru păsări"],
       en: ["World's largest karst field", "Home to wild horses", "Ramsar site since 2008", "Important bird corridor"],
     },
-    imageHint: "Livanjsko Polje wild horses",
-  },
+    imageHint: "Livanjsko Polje wild horses", image: "/poi-images/bosniaherzegovina-livanjsko-polje-life-v2.webp"},
   {
     id: "bosniaherzegovina-rakitnica-life-v2",
     type: "wildlife",
@@ -319,8 +305,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Adâncime de până la 800m", "Ecosistem neatins", "Habitat pentru acvila de munte", "Numeroși endemiți"],
       en: ["Depth of up to 800m", "Untouched ecosystem", "Habitat for golden eagles", "Numerous endemics"],
     },
-    imageHint: "Rakitnica canyon river and cliffs",
-  },
+    imageHint: "Rakitnica canyon river and cliffs", image: "/poi-images/bosniaherzegovina-rakitnica-life-v2.webp"},
   {
     id: "bosniaherzegovina-zelengora-life-v2",
     type: "wildlife",
@@ -339,8 +324,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["8 lacuri glaciare naturale", "Floră alpină bogată", "Prezența caprelor negre", "Faimos pentru afine"],
       en: ["8 natural glacial lakes", "Rich alpine flora", "Presence of chamois", "Famous for blueberries"],
     },
-    imageHint: "Zelengora glacial lake Orlovacko",
-  },
+    imageHint: "Zelengora glacial lake Orlovacko", image: "/poi-images/bosniaherzegovina-zelengora-life-v2.webp"},
   {
     id: "bosniaherzegovina-prenj-life-v2",
     type: "wildlife",
@@ -359,8 +343,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Himalaya dinarică", "Numeroși endemiți", "Pajiști alpine", "Prezența urșilor bruni"],
       en: ["Dinaric Himalayas", "Numerous endemics", "Alpine grasslands", "Presence of brown bears"],
     },
-    imageHint: "Prenj mountain peaks and flora",
-  },
+    imageHint: "Prenj mountain peaks and flora", image: "/poi-images/bosniaherzegovina-prenj-life-v2.webp"},
   {
     id: "bosniaherzegovina-cvrsnica-life-v2",
     type: "wildlife",
@@ -379,8 +362,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Habitatul pinului leucoderm", "Monumentul Hajdučka vrata", "Zonă importantă pentru capre negre", "Ecosisteme alpine"],
       en: ["Home to Bosnian pine", "Hajdučka vrata stone arch", "Important chamois area", "High alpine ecosystems"],
     },
-    imageHint: "Hajducka vrata stone arch Cvrsnica",
-  },
+    imageHint: "Hajducka vrata stone arch Cvrsnica", image: "/poi-images/bosniaherzegovina-cvrsnica-life-v2.webp"},
   {
     id: "bosniaherzegovina-maglic-life-v2",
     type: "wildlife",
@@ -399,8 +381,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Cel mai înalt punct din țară", "2.386 metri altitudine", "Bogat în endemiți", "Se învecinează cu pădurea Perućica"],
       en: ["Highest point in the country", "2,386 meters altitude", "Rich in endemics", "Borders Perućica forest"],
     },
-    imageHint: "Maglic mountain peak landscape",
-  },
+    imageHint: "Maglic mountain peak landscape", image: "/poi-images/bosniaherzegovina-maglic-life-v2.webp"},
   {
     id: "bosniaherzegovina-kravica-life-v2",
     type: "wildlife",
@@ -419,8 +400,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Formațiuni de tuf calcaros", "Lățime de 120 de metri", "Vegetație riverană bogată", "Habitat important pentru pești"],
       en: ["Tufa formations", "Width of 120 meters", "Rich riparian vegetation", "Important fish habitat"],
     },
-    imageHint: "Kravica waterfalls and vegetation",
-  },
+    imageHint: "Kravica waterfalls and vegetation", image: "/poi-images/bosniaherzegovina-kravica-life-v2.webp"},
   {
     id: "bosniaherzegovina-prokosko-lake-life-v2",
     type: "wildlife",
@@ -439,8 +419,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Lac glaciar la 1.636 m", "Habitatul tritonului endemic", "Monument natural din 2005", "Ecosistem alpin"],
       en: ["Glacial lake at 1,636m", "Home to endemic triton", "Natural monument since 2005", "Alpine ecosystem"],
     },
-    imageHint: "Prokosko lake and mountain cabins",
-  },
+    imageHint: "Prokosko lake and mountain cabins", image: "/poi-images/bosniaherzegovina-prokosko-lake-life-v2.webp"},
   {
     id: "bosniaherzegovina-vjetrenica-life-v2",
     type: "wildlife",
@@ -459,8 +438,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Peste 200 de specii", "Habitatul proteului", "Cea mai mare biodiversitate", "Patrimoniu UNESCO"],
       en: ["Over 200 species recorded", "Home to the olm", "Highest cave biodiversity", "UNESCO World Heritage site"],
     },
-    imageHint: "Vjetrenica cave interior",
-  },
+    imageHint: "Vjetrenica cave interior", image: "/poi-images/bosniaherzegovina-vjetrenica-life-v2.webp"},
   {
     id: "bosniaherzegovina-lom-forest-life-v2",
     type: "forest",
@@ -479,8 +457,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Rezervație naturală strictă", "Pădure virgină de fag și brad", "Fondată în anul 1956", "Fără intervenție umană"],
       en: ["Strict nature reserve", "Beech-fir primeval forest", "Established in 1956", "No human intervention"],
     },
-    imageHint: "Lom primeval forest landscape",
-  },
+    imageHint: "Lom primeval forest landscape", image: "/poi-images/bosniaherzegovina-lom-forest-life-v2.webp"},
   {
     id: "bosniaherzegovina-janj-forest-life-v2",
     type: "forest",

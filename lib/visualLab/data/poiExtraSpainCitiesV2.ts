@@ -19,8 +19,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Cea mai mare catedrală gotică din lume.", "Locul de odihnă al lui Cristofor Columb.", "Palatul Alcázar a fost platou pentru Game of Thrones.", "Temperatura medie vara depășește 35 de grade."],
       en: ["World's largest Gothic cathedral.", "Burial site of Christopher Columbus.", "Alcázar palace was a filming site for Game of Thrones.", "Average summer temperatures exceed 35 degrees Celsius."],
     },
-    imageHint: "Plaza de Espana Seville sunny day",
-  },
+    imageHint: "Plaza de Espana Seville sunny day", image: "/poi-images/spain-seville-cities-v2.webp"},
   {
     id: "spain-zaragoza-cities-v2",
     type: "city",
@@ -39,8 +38,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Fondat ca Caesaraugusta în secolul I î.Hr.", "Gazda expoziției mondiale Expo 2008.", "Palatul Aljafería din secolul al XI-lea.", "Picturi murale celebre de Francisco de Goya."],
       en: ["Founded as Caesaraugusta in the 1st century BC.", "Host of the Expo 2008 international exhibition.", "11th-century Moorish Aljafería Palace.", "Features famous murals by Francisco de Goya."],
     },
-    imageHint: "Basilica del Pilar Zaragoza sunset",
-  },
+    imageHint: "Basilica del Pilar Zaragoza sunset", image: "/poi-images/spain-zaragoza-cities-v2.webp"},
   {
     id: "spain-malaga-cities-v2",
     type: "city",
@@ -59,8 +57,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Fondat de fenicieni în jurul anului 770 î.Hr.", "Deține o fortăreață maură numită Alcazaba.", "Renumit pentru vinul dulce de Málaga.", "Peste 300 de zile însorite pe an."],
       en: ["Founded by Phoenicians around 770 BC.", "Home to the Moorish fortress of Alcazaba.", "Famous for its sweet Malaga dessert wine.", "Over 300 days of sunshine per year."],
     },
-    imageHint: "Malaga city view from Gibralfaro castle",
-  },
+    imageHint: "Malaga city view from Gibralfaro castle", image: "/poi-images/spain-malaga-cities-v2.webp"},
   {
     id: "spain-murcia-cities-v2",
     type: "city",
@@ -79,8 +76,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Fondat în 825 de emirul de Córdoba.", "Are o catedrală cu 25 de capele diferite.", "Centrul producției de mătase din Spania în Evul Mediu.", "Renumit pentru procesiunile de Paște (Salzillo)."],
       en: ["Founded in 825 by the Emir of Córdoba.", "Cathedral features 25 different chapels.", "Center of Spanish silk production in the Middle Ages.", "Famous for Holy Week processions (Salzillo)."],
     },
-    imageHint: "Murcia Cathedral facade sunny day",
-  },
+    imageHint: "Murcia Cathedral facade sunny day", image: "/poi-images/spain-murcia-cities-v2.webp"},
   {
     id: "spain-palma-cities-v2",
     type: "city",
@@ -119,8 +115,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Fondat în 1478 de către Castilia.", "Columb a făcut o oprire aici în 1492.", "Deține cel mai vechi cartier, Vegueta.", "Gazda unuia dintre cele mai mari carnavaluri din lume."],
       en: ["Founded in 1478 by Castile.", "Columbus stopped here in 1492.", "Home to the historic Vegueta district.", "Host to one of the world's largest carnivals."],
     },
-    imageHint: "Las Canteras beach Las Palmas skyline",
-  },
+    imageHint: "Las Canteras beach Las Palmas skyline", image: "/poi-images/spain-las-palmas-cities-v2.webp"},
   {
     id: "spain-bilbao-cities-v2",
     type: "city",
@@ -139,8 +134,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Găzduiește faimosul Muzeu Guggenheim.", "Orașul a fost fondat în anul 1300.", "Renumit pentru 'pintxos', varianta bască de tapas.", "Ploi frecvente din cauza climatului oceanic."],
       en: ["Home to the world-famous Guggenheim Museum.", "The city was founded in the year 1300.", "Famous for 'pintxos', the Basque version of tapas.", "Frequent rainfall due to its oceanic climate."],
     },
-    imageHint: "Guggenheim Museum Bilbao titanium panels",
-  },
+    imageHint: "Guggenheim Museum Bilbao titanium panels", image: "/poi-images/spain-bilbao-cities-v2.webp"},
   {
     id: "spain-alicante-cities-v2",
     type: "city",
@@ -159,8 +153,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Promenada Explanada are 6 milioane de pietre de mozaic.", "Deține una dintre cele mai mari cetăți medievale din Spania.", "Centru important pentru producția de turrón.", "Destinație turistică populară cu climat blând tot anul."],
       en: ["Explanada promenade features 6 million mosaic tiles.", "Home to one of Spain's largest medieval fortresses.", "Major center for the production of turron (nougat).", "Popular tourist destination with mild year-round climate."],
     },
-    imageHint: "Alicante Explanada de Espana palm trees",
-  },
+    imageHint: "Alicante Explanada de Espana palm trees", image: "/poi-images/spain-alicante-cities-v2.webp"},
   {
     id: "spain-valladolid-cities-v2",
     type: "city",
@@ -179,8 +172,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Locul unde a murit Cristofor Columb în 1506.", "Miguel de Cervantes a scris aici părți din Don Quijote.", "Renumit pentru procesiunile spectaculoase de Paște.", "Centrul unei regiuni viticole importante (Ribera del Duero)."],
       en: ["The place where Christopher Columbus died in 1506.", "Miguel de Cervantes wrote parts of Don Quixote here.", "Known for its impressive Holy Week processions.", "Center of a major wine-producing region (Ribera del Duero)."],
     },
-    imageHint: "Valladolid Plaza Mayor evening",
-  },
+    imageHint: "Valladolid Plaza Mayor evening", image: "/poi-images/spain-valladolid-cities-v2.webp"},
   {
     id: "spain-vigo-cities-v2",
     type: "city",
@@ -199,8 +191,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Găzduiește o mare fabrică de automobile (Stellantis).", "Poarta către Insulele Cíes cu plaje paradisiace.", "Locul unei bătălii navale în anul 1702.", "Are o universitate cu peste 20.000 de studenți."],
       en: ["Home to a massive automobile factory (Stellantis).", "Gateway to the Cies Islands and their pristine beaches.", "Site of a major naval battle in 1702.", "Features a university with over 20,000 students."],
     },
-    imageHint: "Vigo port and bay aerial view",
-  },
+    imageHint: "Vigo port and bay aerial view", image: "/poi-images/spain-vigo-cities-v2.webp"},
   {
     id: "spain-gijon-cities-v2",
     type: "city",
@@ -219,8 +210,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Fondat în perioada preromană.", "Renumit pentru plaja urbană Playa de San Lorenzo.", "Deține monumentalul centru cultural Laboral.", "Centrul culturii cidrului asturian (Sidra)."],
       en: ["Founded in pre-Roman times.", "Famous for its urban San Lorenzo Beach.", "Home to the monumental Laboral City of Culture.", "Heart of the Asturian cider (sidra) culture."],
     },
-    imageHint: "Gijon San Lorenzo beach and church",
-  },
+    imageHint: "Gijon San Lorenzo beach and church", image: "/poi-images/spain-gijon-cities-v2.webp"},
   {
     id: "spain-hospitalet-cities-v2",
     type: "city",
@@ -259,8 +249,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Capitala Verde a Europei în anul 2012.", "Deține un centru vechi medieval bine conservat.", "Catedrala Santa María l-a inspirat pe Ken Follett.", "Sediul Guvernului și Parlamentului Basc."],
       en: ["European Green Capital in 2012.", "Possesses a well-preserved medieval old town.", "Santa Maria Cathedral inspired author Ken Follett.", "Seat of the Basque Government and Parliament."],
     },
-    imageHint: "Vitoria Gasteiz old town aerial",
-  },
+    imageHint: "Vitoria Gasteiz old town aerial", image: "/poi-images/spain-vitoria-cities-v2.webp"},
   {
     id: "spain-coruna-cities-v2",
     type: "city",
@@ -279,8 +268,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Turnul lui Hercule este cel mai vechi far funcțional.", "Are una dintre cele mai lungi faleze din Europa.", "Locul de origine al grupului Inditex (Zara).", "Cartierul general al navelor poștale spaniole în secolul XVIII."],
       en: ["Tower of Hercules is the oldest working lighthouse.", "Has one of the longest seaside promenades in Europe.", "Birthplace of the Inditex fashion group (Zara).", "Headquarters for Spanish mail ships in the 18th century."],
     },
-    imageHint: "Tower of Hercules A Coruna lighthouse",
-  },
+    imageHint: "Tower of Hercules A Coruna lighthouse", image: "/poi-images/spain-coruna-cities-v2.webp"},
   {
     id: "spain-elche-cities-v2",
     type: "city",
@@ -299,8 +287,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Grădina de palmiere conține peste 200.000 de exemplare.", "Locul descoperirii celebrei sculpturi 'Dama de Elche'.", "Reprezentarea dramei medievale Misterul din Elche.", "Centru important al industriei spaniole de încălțăminte."],
       en: ["The Palm Grove contains over 200,000 palm trees.", "Site of the discovery of the famous 'Lady of Elche' statue.", "Host to the medieval Mystery Play of Elche.", "Major hub for the Spanish footwear industry."],
     },
-    imageHint: "Palm grove of Elche aerial view",
-  },
+    imageHint: "Palm grove of Elche aerial view", image: "/poi-images/spain-elche-cities-v2.webp"},
   {
     id: "spain-terrassa-cities-v2",
     type: "city",
@@ -319,8 +306,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Deține un complex bisericesc important din secolul V.", "Găzduiește Masia Freixa, o bijuterie modernistă.", "Centru important pentru festivaluri de jazz în Catalonia.", "Universitate mare de inginerie și tehnologie."],
       en: ["Home to a unique 5th-century church complex.", "Features the Masia Freixa, a Modernist landmark.", "A major center for jazz festivals in Catalonia.", "Host to a large engineering and technical university."],
     },
-    imageHint: "Masia Freixa Terrassa architecture",
-  },
+    imageHint: "Masia Freixa Terrassa architecture", image: "/poi-images/spain-terrassa-cities-v2.webp"},
   {
     id: "spain-badalona-cities-v2",
     type: "city",
@@ -339,8 +325,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Orașul roman Baetulo a fost fondat aici.", "Celebru pentru producția de lichior 'Anís del Mono'.", "Are o faleză lungă și digul Pont del Petroli.", "Tradiție puternică în baschet cu clubul Joventut."],
       en: ["The Roman city of Baetulo was founded here.", "Famous for the production of 'Anis del Mono' liqueur.", "Features a long promenade and the Pont del Petroli pier.", "Home to a strong basketball tradition with Club Joventut."],
     },
-    imageHint: "Pont del Petroli pier Badalona sunrise",
-  },
+    imageHint: "Pont del Petroli pier Badalona sunrise", image: "/poi-images/spain-badalona-cities-v2.webp"},
   {
     id: "spain-oviedo-cities-v2",
     type: "city",
@@ -359,8 +344,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Fondat în anul 761 d.Hr.", "Găzduiește biserica Santa María del Naranco, protejată UNESCO.", "Locul decernării premiilor Prințesa de Asturia.", "Renumit pentru gastronomia tipică (Fabada)."],
       en: ["Founded in the year 761 AD.", "Home to UNESCO-listed Santa Maria del Naranco church.", "Host of the prestigious Princess of Asturias Awards.", "Known for its traditional Fabada Asturiana bean stew."],
     },
-    imageHint: "Oviedo Cathedral facade sunny day",
-  },
+    imageHint: "Oviedo Cathedral facade sunny day", image: "/poi-images/spain-oviedo-cities-v2.webp"},
   {
     id: "spain-sabadell-cities-v2",
     type: "city",
@@ -379,8 +363,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Are multe foste fabrici transformate în muzee.", "Găzduiește celebrul turn de apă Torre de l'Aigua.", "Centru major pentru sport și atletism.", "Nod de transport important în apropierea Barcelonei."],
       en: ["Home to many former factories turned into museums.", "Features the iconic Torre de l'Aigua water tower.", "A major center for sports and athletics.", "Important transport hub in the Barcelona hinterland."],
     },
-    imageHint: "Torre de l'Aigua Sabadell at night",
-  },
+    imageHint: "Torre de l'Aigua Sabadell at night", image: "/poi-images/spain-sabadell-cities-v2.webp"},
   {
     id: "spain-jerez-cities-v2",
     type: "city",
@@ -399,8 +382,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Găzduiește Școala Regală Andaluză de Artă Ecvestră.", "Deține o fortăreață maură importantă (Alcázar).", "Gazda Marelui Premiu al Spaniei (MotoGP).", "Numele 'Jerez' provine din arabul 'Xerez'."],
       en: ["Home to the Royal Andalusian School of Equestrian Art.", "Features a major Moorish fortress (Alcazar).", "Host city for the Spanish motorcycle Grand Prix (MotoGP).", "The name 'Jerez' derives from the Arabic 'Xerez'."],
     },
-    imageHint: "Sherry barrels in Jerez bodega",
-  },
+    imageHint: "Sherry barrels in Jerez bodega", image: "/poi-images/spain-jerez-cities-v2.webp"},
   {
     id: "spain-mostoles-cities-v2",
     type: "city",
@@ -419,8 +401,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Sediul Universității Rey Juan Carlos.", "Găzduiește centrul de artă CA2M.", "Primarul a cerut rezistență împotriva francezilor în 1808.", "Conexiune foarte bună cu rețeaua de metrou din Madrid."],
       en: ["Home to the Rey Juan Carlos University.", "Features the CA2M Modern Art Center.", "The mayor called for resistance against Napoleon in 1808.", "Well-connected to the Madrid metro network."],
     },
-    imageHint: "Mostoles city square and monument",
-  },
+    imageHint: "Mostoles city square and monument", image: "/poi-images/spain-mostoles-cities-v2.webp"},
   {
     id: "spain-santa-cruz-cities-v2",
     type: "city",
@@ -439,8 +420,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Găzduiește futuristul Auditorio de Tenerife de Santiago Calatrava.", "Carnavalul este considerat al doilea ca mărime după Rio.", "Port important pentru nave de croazieră în Atlantic.", "Situat aproape de munții Anaga (biosferă UNESCO)."],
       en: ["Features the futuristic Auditorio de Tenerife by Santiago Calatrava.", "Its carnival is considered the second largest after Rio de Janeiro.", "Major Atlantic port for cruise ships.", "Located near the Anaga Rural Park (UNESCO Biosphere)."],
     },
-    imageHint: "Auditorio de Tenerife Santa Cruz night",
-  },
+    imageHint: "Auditorio de Tenerife Santa Cruz night", image: "/poi-images/spain-santa-cruz-cities-v2.webp"},
   {
     id: "spain-pamplona-cities-v2",
     type: "city",
@@ -459,8 +439,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Fondat de generalul roman Pompei.", "O etapă importantă pe Drumul Sfântului Iacob.", "Ernest Hemingway a făcut faimos festivalul San Fermín.", "Deține o citadelă masivă din secolul XVI."],
       en: ["Founded by the Roman general Pompey.", "A key stop on the Way of St. James pilgrimage.", "Ernest Hemingway popularized the San Fermin festival.", "Features a massive 16th-century star-shaped citadel."],
     },
-    imageHint: "Pamplona running of the bulls street",
-  },
+    imageHint: "Pamplona running of the bulls street", image: "/poi-images/spain-pamplona-cities-v2.webp"},
   {
     id: "spain-almeria-cities-v2",
     type: "city",
@@ -479,8 +458,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Alcazaba este a doua cea mai mare construcție maură din Spania.", "Regiunea este centrul producției europene în sere.", "Aproape de deșertul Tabernas, loc de filmare pentru westernuri.", "Are o catedrală construită ca o fortăreață."],
       en: ["The Alcazaba is the second-largest Moorish complex in Spain.", "The region is the hub of European greenhouse farming.", "Near the Tabernas Desert, a famous filming site for Westerns.", "Features a unique fortress-like cathedral."],
     },
-    imageHint: "Alcazaba of Almeria fortress walls",
-  },
+    imageHint: "Alcazaba of Almeria fortress walls", image: "/poi-images/spain-almeria-cities-v2.webp"},
   {
     id: "spain-alcala-cities-v2",
     type: "city",
@@ -499,8 +477,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Universitatea a fost fondată în 1499.", "Deține vestigii romane bine conservate (Complutum).", "Locul unde se decernează anual Premiul Cervantes.", "Cunoscut pentru numeroasele berze de pe turnurile bisericilor."],
       en: ["Its university was founded in 1499.", "Home to well-preserved Roman remains (Complutum).", "Annual venue for the prestigious Cervantes Prize ceremony.", "Famous for the many storks nesting on its church towers."],
     },
-    imageHint: "University of Alcala de Henares facade",
-  },
+    imageHint: "University of Alcala de Henares facade", image: "/poi-images/spain-alcala-cities-v2.webp"},
   {
     id: "spain-fuenlabrada-cities-v2",
     type: "city",
@@ -519,8 +496,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Are un campus al Universității Rey Juan Carlos.", "Cunoscut pentru zona industrială uriașă Cobo Calleja.", "Echipă locală de baschet puternică (Baloncesto Fuenlabrada).", "Numele înseamnă 'Izvor săpat'."],
       en: ["Home to a campus of the Rey Juan Carlos University.", "Famous for the massive Cobo Calleja industrial estate.", "Host to a strong local basketball team.", "The name literally means 'Dug Fountain'."],
     },
-    imageHint: "Fuenlabrada city town hall square",
-  },
+    imageHint: "Fuenlabrada city town hall square", image: "/poi-images/spain-fuenlabrada-cities-v2.webp"},
   {
     id: "spain-leganes-cities-v2",
     type: "city",
@@ -539,8 +515,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Sediul unui campus al Universității Carlos III.", "Are un muzeu de sculptură în aer liber.", "Cunoscut pentru centrul comercial Parquesur.", "Clubul local CD Leganés a ajuns în prima divizie în 2016."],
       en: ["Home to a campus of the Carlos III University.", "Features an open-air sculpture museum.", "Famous for the Parquesur shopping mall.", "Local football club CD Leganes reached the top division in 2016."],
     },
-    imageHint: "Leganes Carlos III university campus",
-  },
+    imageHint: "Leganes Carlos III university campus", image: "/poi-images/spain-leganes-cities-v2.webp"},
   {
     id: "spain-getafe-cities-v2",
     type: "city",
@@ -559,8 +534,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Găzduiește Cerro de los Ángeles, centrul geografic.", "Locație importantă a companiei Airbus în Spania.", "Sediul unui campus al Universității Carlos III.", "Casa clubului de fotbal Getafe CF."],
       en: ["Home to Cerro de los Angeles, the peninsula's geographical center.", "A key location for Airbus operations in Spain.", "Host to a campus of the Carlos III University.", "Home to the Getafe CF football club."],
     },
-    imageHint: "Cerro de los Angeles Getafe monument",
-  },
+    imageHint: "Cerro de los Angeles Getafe monument", image: "/poi-images/spain-getafe-cities-v2.webp"},
   {
     id: "spain-burgos-cities-v2",
     type: "city",
@@ -579,8 +553,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Catedrala din Burgos este patrimoniu UNESCO.", "Locul de înmormântare al eroului național El Cid.", "Etapă importantă pe Drumul Francez spre Santiago.", "Renumit pentru sângeretele 'Morcilla de Burgos'."],
       en: ["The Burgos Cathedral is a UNESCO World Heritage site.", "Burial place of the Spanish national hero El Cid.", "A major stop on the French Way of St. James.", "Famous for its 'Morcilla de Burgos' blood sausage."],
     },
-    imageHint: "Burgos Cathedral Gothic facade sunset",
-  },
+    imageHint: "Burgos Cathedral Gothic facade sunset", image: "/poi-images/spain-burgos-cities-v2.webp"},
   {
     id: "spain-albacete-cities-v2",
     type: "city",
@@ -599,8 +572,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Deține un muzeu special dedicat cuțitelor.", "Gazda unuia dintre cele mai vechi bâlciuri din Spania.", "Locație importantă pentru industria aeronautică spaniolă.", "Cel mai mare oraș din Castilia-La Mancha ca populație."],
       en: ["Home to a unique museum dedicated to knives.", "Hosts one of Spain's oldest fairs (Feria de Albacete).", "A significant location for the Spanish aerospace industry.", "The most populous city in the Castile-La Mancha region."],
     },
-    imageHint: "Pasaje de Lodares Albacete gallery",
-  },
+    imageHint: "Pasaje de Lodares Albacete gallery", image: "/poi-images/spain-albacete-cities-v2.webp"},
   {
     id: "spain-castellon-cities-v2",
     type: "city",
@@ -619,8 +591,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Sediul Universității Jaume I.", "Cunoscut pentru turnul cu clopotniță El Fadrí.", "Centrul producției spaniole de plăci ceramice.", "Aproape de rezervația naturală a Insulelor Columbretes."],
       en: ["Home to the Jaume I University.", "Famous for its freestanding bell tower, El Fadri.", "A global hub for tile and ceramic production.", "Gateway to the Columbretes Islands nature reserve."],
     },
-    imageHint: "El Fadri tower Castellon de la Plana",
-  },
+    imageHint: "El Fadri tower Castellon de la Plana", image: "/poi-images/spain-castellon-cities-v2.webp"},
   {
     id: "spain-santander-cities-v2",
     type: "city",
@@ -639,8 +610,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Fostă reședință de vară a regilor spanioli.", "Un incendiu uriaș a distrus mare parte din centrul vechi în 1941.", "Locul de origine al băncii Santander.", "Găzduiește modernul centru de artă Centro Botín."],
       en: ["Former summer residence of the Spanish monarchs.", "A massive fire destroyed much of the old town in 1941.", "Birthplace of Santander Bank, one of the world's largest banks.", "Home to the futuristic Centro Botin art center."],
     },
-    imageHint: "Palacio de la Magdalena Santander aerial",
-  },
+    imageHint: "Palacio de la Magdalena Santander aerial", image: "/poi-images/spain-santander-cities-v2.webp"},
   {
     id: "spain-alcorcon-cities-v2",
     type: "city",
@@ -659,8 +629,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Deține castelul distinctiv Valderas.", "Casa clubului de fotbal AD Alcorcón.", "Campus important al Universității Rey Juan Carlos.", "Cunoscut pentru marile centre comerciale și de agrement."],
       en: ["Features the distinctive Valderas Castles.", "Home to the AD Alcorcón football club.", "Host to a major campus of the Rey Juan Carlos University.", "Known for its extensive shopping and leisure areas."],
     },
-    imageHint: "Valderas Castles Alcorcon building",
-  },
+    imageHint: "Valderas Castles Alcorcon building", image: "/poi-images/spain-alcorcon-cities-v2.webp"},
   {
     id: "spain-la-laguna-cities-v2",
     type: "city",
@@ -679,8 +648,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Fondat la sfârșitul secolului XV.", "Are cea mai veche universitate din Insulele Canare.", "Arhitectura sa a servit drept model pentru multe orașe din America.", "Situat într-o vale fertilă la 540 m altitudine."],
       en: ["Founded in the late 15th century.", "Home to the oldest university in the Canary Islands.", "Its layout served as a model for many colonial cities in the Americas.", "Situated in a fertile upland valley at 540 meters elevation."],
     },
-    imageHint: "La Laguna old town colorful streets",
-  },
+    imageHint: "La Laguna old town colorful streets", image: "/poi-images/spain-la-laguna-cities-v2.webp"},
   {
     id: "spain-logrono-cities-v2",
     type: "city",
@@ -699,8 +667,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Celebru pentru strada Calle Laurel plină de tapas.", "Etapă importantă pe Drumul Francez spre Santiago.", "Are o catedrală cu două turnuri distinctive.", "Găzduiește numeroase crame (bodegas) istorice."],
       en: ["Famous for its tapas crawl along Calle Laurel.", "A key stop on the French Way of St. James.", "Features a cathedral with two prominent towers.", "Home to numerous historic wine cellars (bodegas)."],
     },
-    imageHint: "Calle Laurel Logrono tapas bars",
-  },
+    imageHint: "Calle Laurel Logrono tapas bars", image: "/poi-images/spain-logrono-cities-v2.webp"},
   {
     id: "spain-badajoz-cities-v2",
     type: "city",
@@ -719,8 +686,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Alcazaba din Badajoz este una dintre cele mai mari din Europa.", "Oraș de graniță disputat istoric între Spania și Portugalia.", "Are podul Puente de Palmas din secolul XVI.", "Cel mai mare oraș din regiunea Extremadura."],
       en: ["The Alcazaba of Badajoz is one of the largest in Europe.", "Historically a contested border city between Spain and Portugal.", "Features the 16th-century Puente de Palmas bridge.", "The largest city in the Extremadura region."],
     },
-    imageHint: "Alcazaba of Badajoz Moorish walls",
-  },
+    imageHint: "Alcazaba of Badajoz Moorish walls", image: "/poi-images/spain-badajoz-cities-v2.webp"},
   {
     id: "spain-huelva-cities-v2",
     type: "city",
@@ -739,8 +705,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Columb a plecat în 1492 de la Palos de la Frontera, din apropiere.", "Are un monument monumental dedicat spiritului descoperitor.", "Locație importantă pentru industria chimică.", "Situat aproape de Parcul Național Doñana."],
       en: ["Columbus set sail from nearby Palos de la Frontera in 1492.", "Home to a massive monument dedicated to the Discovery.", "Significant hub for the chemical industry.", "Gateway to the Doñana National Park."],
     },
-    imageHint: "Monument to the Discovery Huelva sunset",
-  },
+    imageHint: "Monument to the Discovery Huelva sunset", image: "/poi-images/spain-huelva-cities-v2.webp"},
   {
     id: "spain-marbella-cities-v2",
     type: "city",
@@ -759,8 +724,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Loc de întâlnire popular pentru elita internațională.", "Muntele La Concha domină peisajul din fundal.", "Are 27 de kilometri de plaje cu nisip.", "Centrul vechi găzduiește Plaza de los Naranjos."],
       en: ["A popular playground for the international jet set.", "The La Concha mountain provides a dramatic backdrop.", "Features 27 kilometers of sandy Mediterranean beaches.", "The old town center is the Plaza de los Naranjos."],
     },
-    imageHint: "Puerto Banus Marbella luxury yachts",
-  },
+    imageHint: "Puerto Banus Marbella luxury yachts", image: "/poi-images/spain-marbella-cities-v2.webp"},
   {
     id: "spain-lleida-cities-v2",
     type: "city",
@@ -779,8 +743,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Seu Vella este o catedrală impunătoare în stil gotic.", "Centrul unei regiuni mari de producție de fructe.", "Fondat de iberi în secolul V î.Hr.", "Are o universitate modernă."],
       en: ["The Seu Vella is a massive Gothic cathedral complex.", "Center of a major fruit-producing region.", "Founded by Iberians in the 5th century BC.", "Home to a modern research university."],
     },
-    imageHint: "Seu Vella Lleida cathedral on hill",
-  },
+    imageHint: "Seu Vella Lleida cathedral on hill", image: "/poi-images/spain-lleida-cities-v2.webp"},
   {
     id: "spain-dos-hermanas-cities-v2",
     type: "city",
@@ -799,8 +762,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Numele înseamnă 'Două surori'.", "Găzduiește Universitatea Pablo de Olavide.", "Locație importantă pentru producția de ulei de măsline.", "Conexiune foarte bună cu centrul Seviliei."],
       en: ["The name literally means 'Two Sisters'.", "Home to the Pablo de Olavide University.", "Major center for olive oil production.", "Well-connected to the center of Seville via rail."],
     },
-    imageHint: "Dos Hermanas city town hall facade",
-  },
+    imageHint: "Dos Hermanas city town hall facade", image: "/poi-images/spain-dos-hermanas-cities-v2.webp"},
   {
     id: "spain-torrejon-cities-v2",
     type: "city",
@@ -819,8 +781,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Găzduiește o bază aeriană spaniolă majoră.", "Parque Europa prezintă 18 replici ale monumentelor europene.", "Locație importantă pentru ingineria aerospațială.", "Fondat în secolul XII ca parte a liniei defensive a Madridului."],
       en: ["Home to a major Spanish Air Force base.", "Parque Europa features 18 replicas of European landmarks.", "A significant hub for aerospace engineering.", "Founded in the 12th century as part of Madrid's defenses."],
     },
-    imageHint: "Parque Europa Torrejon de Ardoz miniatures",
-  },
+    imageHint: "Parque Europa Torrejon de Ardoz miniatures", image: "/poi-images/spain-torrejon-cities-v2.webp"},
   {
     id: "spain-parla-cities-v2",
     type: "city",
@@ -839,8 +800,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Are un sistem modern de tramvai.", "Menționat documentar pentru prima dată în secolul XIV.", "Proporție ridicată de spații verzi în zona urbană.", "Conexiune bună cu rețeaua feroviară Cercanías."],
       en: ["Features a modern tramway system.", "First mentioned in historical records in the 14th century.", "Has a high proportion of green spaces within the city.", "Well-connected by the Cercanías suburban rail network."],
     },
-    imageHint: "Parla Madrid tramway and street",
-  },
+    imageHint: "Parla Madrid tramway and street", image: "/poi-images/spain-parla-cities-v2.webp"},
   {
     id: "spain-mataro-cities-v2",
     type: "city",
@@ -859,8 +819,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Are prima linie de cale ferată din Peninsula Iberică (1848).", "Găzduiește vila modernistă Nau Gaudí.", "Fondat ca așezare romană numită Iluro.", "Port de agrement important la Marea Mediterană."],
       en: ["Site of the first railway line on the Iberian Peninsula (1848).", "Home to the Nau Gaudi, Antoni Gaudi's first major work.", "Founded as the Roman settlement of Iluro.", "Features a significant marina on the Mediterranean coast."],
     },
-    imageHint: "Nau Gaudi building Mataro architecture",
-  },
+    imageHint: "Nau Gaudi building Mataro architecture", image: "/poi-images/spain-mataro-cities-v2.webp"},
   {
     id: "spain-algeciras-cities-v2",
     type: "city",
@@ -879,8 +838,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Cel mai important port de feribot către Maroc (Tanger).", "Locul de naștere al celebrului chitarist Paco de Lucía.", "Poziție strategică la Strâmtoarea Gibraltar.", "Are o zonă industrială cu mari rafinării de petrol."],
       en: ["Main ferry port for connections to Tangier, Morocco.", "Birthplace of the legendary guitarist Paco de Lucia.", "Strategically located on the Strait of Gibraltar.", "Home to a large industrial area with major oil refineries."],
     },
-    imageHint: "Algeciras port containers and ferry",
-  },
+    imageHint: "Algeciras port containers and ferry", image: "/poi-images/spain-algeciras-cities-v2.webp"},
   {
     id: "spain-alcobendas-cities-v2",
     type: "city",
@@ -899,8 +857,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Deține un muzeu faimos de bonsai.", "Găzduiește Muzeul Național de Știință și Tehnologie.", "Sediul unor cluburi sportive de renume.", "Fondat în secolul XIII."],
       en: ["Home to a world-renowned Bonsai Museum.", "Hosts the National Museum of Science and Technology.", "Headquarters for several prestigious sports clubs.", "Founded in the 13th century."],
     },
-    imageHint: "Bonsai Museum Alcobendas garden",
-  },
+    imageHint: "Bonsai Museum Alcobendas garden", image: "/poi-images/spain-alcobendas-cities-v2.webp"},
   {
     id: "spain-cadiz-cities-v2",
     type: "city",
@@ -919,8 +876,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Fondat de fenicieni în jurul anului 1100 î.Hr.", "Portul principal pentru comerțul spaniol cu argint din America.", "Deține turnuri de pază distinctive (Torre Tavira).", "Locul primei constituții spaniole (1812)."],
       en: ["Founded by Phoenicians around 1100 BC.", "Main port for the Spanish silver trade with the Americas.", "Features iconic watchtowers, such as Torre Tavira.", "The birthplace of the first Spanish Constitution (1812)."],
     },
-    imageHint: "Cadiz Cathedral dome from sea",
-  },
+    imageHint: "Cadiz Cathedral dome from sea", image: "/poi-images/spain-cadiz-cities-v2.webp"},
   {
     id: "spain-jaen-cities-v2",
     type: "city",
@@ -939,8 +895,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Cel mai mare producător de ulei de măsline din lume.", "Are o catedrală monumentală în stil renascentist.", "Castelul Santa Catalina oferă vederi panoramice vaste.", "Găzduiește cele mai mari băi arabe din Spania."],
       en: ["The largest producer of olive oil in the world.", "Features a monumental Renaissance cathedral.", "Santa Catalina Castle offers panoramic views of olive groves.", "Home to the largest preserved Arab baths in Spain."],
     },
-    imageHint: "Jaen Cathedral and Santa Catalina castle",
-  },
+    imageHint: "Jaen Cathedral and Santa Catalina castle", image: "/poi-images/spain-jaen-cities-v2.webp"},
   {
     id: "spain-reus-cities-v2",
     type: "city",
@@ -959,8 +914,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Găzduiește muzeul Gaudí Centre.", "Centru important pentru comerțul cu vermut.", "Deține numeroase clădiri în stil modernist catalan.", "Al doilea oraș ca importanță din Catalonia în secolul XIX."],
       en: ["Home to the Gaudi Centre museum.", "A major center for the production and trade of Vermouth.", "Features numerous buildings in the Catalan Modernist style.", "Was the second most important city in Catalonia in the 19th century."],
     },
-    imageHint: "Gaudi Centre Reus facade",
-  },
+    imageHint: "Gaudi Centre Reus facade", image: "/poi-images/spain-reus-cities-v2.webp"},
   {
     id: "spain-ourense-cities-v2",
     type: "city",
@@ -979,8 +933,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Deține faimoasele izvoare termale As Burgas.", "Podul roman peste râul Miño este un simbol al orașului.", "Găzduiește o catedrală romanică importantă.", "Singura capitală de provincie galiciană fără ieșire la mare."],
       en: ["Home to the famous As Burgas thermal springs.", "The Roman bridge over the Minho River is a city landmark.", "Features a significant Romanesque cathedral.", "The only Galician provincial capital located inland."],
     },
-    imageHint: "As Burgas thermal springs Ourense",
-  },
+    imageHint: "As Burgas thermal springs Ourense", image: "/poi-images/spain-ourense-cities-v2.webp"},
   {
     id: "spain-tarragona-cities-v2",
     type: "city",
@@ -999,8 +952,7 @@ export const spainCitiesV2: POI[] = [
       ro: ["Are un amfiteatru roman situat direct pe malul mării.", "A fost cândva capitala provinciei romane Hispania Citerior.", "Cunoscut pentru punctul de belvedere 'Balconul Mediteranei'.", "Locație importantă pentru industria chimică."],
       en: ["Features a Roman amphitheater right by the sea.", "Once served as the capital of the Roman province of Hispania Citerior.", "Famous for the 'Balcony of the Mediterranean' viewpoint.", "A major hub for the chemical industry in Spain."],
     },
-    imageHint: "Roman Amphitheatre Tarragona by the sea",
-  }
+    imageHint: "Roman Amphitheatre Tarragona by the sea", image: "/poi-images/spain-tarragona-cities-v2.webp"}
 ,
   {
     id: "spain-girona-cities-v2",

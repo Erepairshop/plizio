@@ -19,8 +19,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Fondat în anul 1963", "Găzduiește vârful Sněžka (1603 m)", "Rezervație UNESCO din 1992", "Include izvorul râului Elba"],
       en: ["Founded in 1963", "Home to Sněžka peak (1,603 m)", "UNESCO Biosphere Reserve since 1992", "Contains the source of the Elbe river"],
     },
-    imageHint: "Krkonoše mountains landscape in summer",
-  },
+    imageHint: "Krkonoše mountains landscape in summer", image: "/poi-images/czechrepublic-krkonose-national-park-life-v2.webp"},
   {
     id: "czechrepublic-sumava-national-park-life-v2",
     type: "park",
@@ -39,8 +38,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Fondat în anul 1991", "Suprafață de cca. 680 km pătrați", "Adăpostește populații rare de râși", "Include lacul glaciar Laka"],
       en: ["Founded in 1991", "Area of approx. 680 square km", "Home to rare lynx populations", "Contains the Laka glacial lake"],
     },
-    imageHint: "Šumava forest and peat bog landscape",
-  },
+    imageHint: "Šumava forest and peat bog landscape", image: "/poi-images/czechrepublic-sumava-national-park-life-v2.webp"},
   {
     id: "czechrepublic-podyji-national-park-life-v2",
     type: "park",
@@ -59,8 +57,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Fondat în anul 1991", "Suprafață de doar 63 km pătrați", "Cunoscut pentru specii rare de șerpi", "Se învecinează cu parcul austriac Thayatal"],
       en: ["Founded in 1991", "Area of only 63 square km", "Known for rare snake species", "Borders the Austrian Thayatal park"],
     },
-    imageHint: "Dyje river canyon in Podyjí",
-  },
+    imageHint: "Dyje river canyon in Podyjí", image: "/poi-images/czechrepublic-podyji-national-park-life-v2.webp"},
   {
     id: "czechrepublic-bohemian-switzerland-life-v2",
     type: "park",
@@ -79,8 +76,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Fondat în anul 2000", "Parte din Munții de Gresie ai Elbei", "Include cheile râului Kamenice", "Zonă de cuibărit pentru șoimul călător"],
       en: ["Founded in 2000", "Part of the Elbe Sandstone Mountains", "Includes the Kamenice River gorges", "Important nesting site for peregrine falcons"],
     },
-    imageHint: "Pravčická brána sandstone arch",
-  },
+    imageHint: "Pravčická brána sandstone arch", image: "/poi-images/czechrepublic-bohemian-switzerland-life-v2.webp"},
   {
     id: "czechrepublic-prague-zoo-life-v2",
     type: "wildlife",
@@ -99,8 +95,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Deschisă în anul 1931", "Găzduiește peste 5000 de animale", "Suprafață de 58 de hectare", "Faimoasă pentru pavilionul Jungla Indoneziană"],
       en: ["Opened in 1931", "Home to over 5,000 animals", "Covers 58 hectares", "Famous for the Indonesian Jungle pavilion"],
     },
-    imageHint: "Elephant valley at Prague Zoo",
-  },
+    imageHint: "Elephant valley at Prague Zoo", image: "/poi-images/czechrepublic-prague-zoo-life-v2.webp"},
   {
     id: "czechrepublic-zlin-zoo-life-v2",
     type: "wildlife",
@@ -119,8 +114,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Cea mai vizitată atracție din Moravia", "Combină grădina zoologică cu castelul Lešná", "Hrănire unică a pisicilor de mare", "Specializată pe ungulate africane"],
       en: ["Most visited attraction in Moravia", "Combines a zoo and Lešná Castle", "Unique stingray feeding experience", "Specializes in African ungulates"],
     },
-    imageHint: "Zlín Zoo Lešná castle and park",
-  },
+    imageHint: "Zlín Zoo Lešná castle and park", image: "/poi-images/czechrepublic-zlin-zoo-life-v2.webp"},
   {
     id: "czechrepublic-plzen-zoo-life-v2",
     type: "wildlife",
@@ -139,8 +133,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Fondată în anul 1926", "A doua cea mai veche grădină zoo din Cehia", "Prezintă flora și fauna cehă", "Include o expoziție subterană Akva-Tera"],
       en: ["Founded in 1926", "Second oldest zoo in the Czech Republic", "Showcases Czech flora and fauna", "Features an underground Akva-Tera exhibit"],
     },
-    imageHint: "Plzeň Zoo entrance and botanical garden",
-  },
+    imageHint: "Plzeň Zoo entrance and botanical garden", image: "/poi-images/czechrepublic-plzen-zoo-life-v2.webp"},
   {
     id: "czechrepublic-ostrava-zoo-life-v2",
     type: "wildlife",
@@ -159,8 +152,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["A doua ca mărime din țară după suprafață", "Cunoscută pentru creșterea elefanților", "Include o potecă botanică", "Găzduiește specii rare de vulturi"],
       en: ["Second largest zoo in the country by area", "Known for elephant breeding", "Includes a Botanical Path", "Home to rare vulture species"],
     },
-    imageHint: "Elephant at Ostrava Zoo",
-  },
+    imageHint: "Elephant at Ostrava Zoo", image: "/poi-images/czechrepublic-ostrava-zoo-life-v2.webp"},
   {
     id: "czechrepublic-olomouc-zoo-life-v2",
     type: "wildlife",
@@ -199,8 +191,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Găzduiește peste 200 de specii", "Accent pe animale sud-americane", "Include o casă tropicală", "Succes în creșterea leoparzilor de zăpadă"],
       en: ["Home to over 200 animal species", "Focus on South American animals", "Includes a tropical house", "Successful snow leopard breeding"],
     },
-    imageHint: "Small monkeys at Jihlava Zoo",
-  },
+    imageHint: "Small monkeys at Jihlava Zoo", image: "/poi-images/czechrepublic-jihlava-zoo-life-v2.webp"},
   {
     id: "czechrepublic-brno-zoo-life-v2",
     type: "wildlife",
@@ -219,8 +210,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Deschisă în anul 1953", "Cunoscută pentru urșii polari", "Dispune de o casă a reptilelor", "Specializată pe cămile"],
       en: ["Opened in 1953", "Known for polar bear breeding", "Features a reptile house", "Specializes in camels"],
     },
-    imageHint: "Brno Zoo polar bear exhibit",
-  },
+    imageHint: "Brno Zoo polar bear exhibit", image: "/poi-images/czechrepublic-brno-zoo-life-v2.webp"},
   {
     id: "czechrepublic-usti-nad-labem-zoo-life-v2",
     type: "wildlife",
@@ -239,8 +229,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Fondată în anul 1908", "Una dintre cele mai vechi din Europa", "Cunoscută pentru urangutani", "Dispune de un Dinopark"],
       en: ["Founded in 1908", "One of the oldest in Central Europe", "Known for orangutan breeding", "Features a Dinopark"],
     },
-    imageHint: "Ústí nad Labem Zoo hilltop view",
-  },
+    imageHint: "Ústí nad Labem Zoo hilltop view", image: "/poi-images/czechrepublic-usti-nad-labem-zoo-life-v2.webp"},
   {
     id: "czechrepublic-pruhonice-park-life-v2",
     type: "park",
@@ -259,8 +248,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Creat începând cu 1885", "Patrimoniu UNESCO din 2010", "Peste 8000 de rododendroni", "Suprafață de 250 de hectare"],
       en: ["Established starting in 1885", "UNESCO World Heritage since 2010", "Over 8,000 rhododendron bushes", "Covers 250 hectares"],
     },
-    imageHint: "Průhonice park and castle in spring",
-  },
+    imageHint: "Průhonice park and castle in spring", image: "/poi-images/czechrepublic-pruhonice-park-life-v2.webp"},
   {
     id: "czechrepublic-trebon-fishponds-life-v2",
     type: "park",
@@ -279,8 +267,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Include iazul Rožmberk", "Rezervație UNESCO din 1977", "Centru important pentru creșterea crapului", "Peste 450 de iazuri în regiune"],
       en: ["Includes the Rožmberk pond", "UNESCO Biosphere Reserve since 1977", "Important carp breeding center", "Over 450 ponds in the region"],
     },
-    imageHint: "Rožmberk pond landscape near Třeboň",
-  },
+    imageHint: "Rožmberk pond landscape near Třeboň", image: "/poi-images/czechrepublic-trebon-fishponds-life-v2.webp"},
   {
     id: "czechrepublic-palava-reserve-life-v2",
     type: "park",
@@ -299,8 +286,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Protecție UNESCO din 1986", "Adăpostește specii rare de orhidee", "Cel mai înalt punct este Děvín (550 m)", "Zonă viticolă importantă"],
       en: ["UNESCO protection since 1986", "Home to rare orchid species", "Highest point is Děvín (550 m)", "Important wine-growing region"],
     },
-    imageHint: "Pálava hills limestone rocks and vineyards",
-  },
+    imageHint: "Pálava hills limestone rocks and vineyards", image: "/poi-images/czechrepublic-palava-reserve-life-v2.webp"},
   {
     id: "czechrepublic-moravian-karst-life-v2",
     type: "landmark",
@@ -319,8 +305,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Abisul Macocha are 138 m adâncime", "Peste 1100 de peșteri înregistrate", "Râul Punkva curge prin subteran", "Habitat important pentru lilieci"],
       en: ["Macocha Abyss is 138 m deep", "Over 1,100 caves registered", "Punkva is an underground river", "Significant bat habitat"],
     },
-    imageHint: "Macocha Abyss bottom view",
-  },
+    imageHint: "Macocha Abyss bottom view", image: "/poi-images/czechrepublic-moravian-karst-life-v2.webp"},
   {
     id: "czechrepublic-soos-reserve-life-v2",
     type: "park",
@@ -339,8 +324,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Cunoscută pentru vulcanii noroioși", "Fundul unui fost lac sărat", "Izvoare minerale active", "Include un muzeu al dinozaurilor"],
       en: ["Known for mud volcanoes", "Former floor of a salt lake", "Mineral springs emerge here", "Contains a dinosaur museum"],
     },
-    imageHint: "Soos mud volcanoes mofettes",
-  },
+    imageHint: "Soos mud volcanoes mofettes", image: "/poi-images/czechrepublic-soos-reserve-life-v2.webp"},
   {
     id: "czechrepublic-boubin-primeval-forest-life-v2",
     type: "forest",
@@ -359,8 +343,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Protejată din anul 1858", "Copaci de până la 50 m înălțime", "Zona centrală este împrejmuită", "Include lacul Boubín"],
       en: ["Protected since 1858", "Trees reach up to 50 m high", "Core zone is fenced off", "Includes the Boubín lake"],
     },
-    imageHint: "Old trees in Boubín primeval forest",
-  },
+    imageHint: "Old trees in Boubín primeval forest", image: "/poi-images/czechrepublic-boubin-primeval-forest-life-v2.webp"},
   {
     id: "czechrepublic-adrspach-teplice-rocks-life-v2",
     type: "landmark",
@@ -379,8 +362,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Cel mai înalt turn este 'Îndrăgostiții'", "Include Marea Cascadă", "Loc de filmare pentru Narnia", "Rezervație naturală națională"],
       en: ["Highest tower is the 'Lovers'", "Contains the Great Waterfall", "Filming location for Narnia", "National Nature Reserve"],
     },
-    imageHint: "Sandstone towers at Adršpach",
-  },
+    imageHint: "Sandstone towers at Adršpach", image: "/poi-images/czechrepublic-adrspach-teplice-rocks-life-v2.webp"},
   {
     id: "czechrepublic-jeseniky-mountains-life-v2",
     type: "mountain",
@@ -399,8 +381,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Vârful Praděd are 1491 m", "Fondat în anul 1969", "Include lacul Rejvíz", "Populație de capre negre"],
       en: ["Praděd peak is 1,491 m high", "Established in 1969", "Includes the Rejvíz moss lake", "Home to chamois populations"],
     },
-    imageHint: "Praděd peak and TV tower in Jeseníky",
-  },
+    imageHint: "Praděd peak and TV tower in Jeseníky", image: "/poi-images/czechrepublic-jeseniky-mountains-life-v2.webp"},
   {
     id: "czechrepublic-beskydy-mountains-life-v2",
     type: "mountain",
@@ -419,8 +400,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Suprafață de 1160 km pătrați", "Vârful Lysá hora (1323 m)", "Habitat pentru râși", "Bogat în arhitectură din lemn"],
       en: ["Area of 1,160 square km", "Highest peak is Lysá hora (1,323 m)", "Habitat for lynx", "Rich in wooden folk architecture"],
     },
-    imageHint: "Beskydy mountains forested landscape",
-  },
+    imageHint: "Beskydy mountains forested landscape", image: "/poi-images/czechrepublic-beskydy-mountains-life-v2.webp"},
   {
     id: "czechrepublic-krivoklatsko-forest-life-v2",
     type: "forest",
@@ -439,8 +419,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Rezervație UNESCO din 1977", "Peste 80 de specii de arbori", "Include castelul Křivoklát", "Zonă importantă de protecție a păsărilor"],
       en: ["UNESCO Biosphere Reserve since 1977", "Over 80 native tree species", "Contains Křivoklát Castle", "Significant bird protection area"],
     },
-    imageHint: "Berounka river valley and forests",
-  },
+    imageHint: "Berounka river valley and forests", image: "/poi-images/czechrepublic-krivoklatsko-forest-life-v2.webp"},
   {
     id: "czechrepublic-prague-botanical-garden-life-v2",
     type: "park",
@@ -459,8 +438,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Sera Fata Morgana are 130 m lungime", "Include podgoria Sf. Clement", "Fondată în anul 1969", "Include o grădină japoneză"],
       en: ["Fata Morgana greenhouse is 130 m long", "Includes the St. Claire vineyard", "Founded in 1969", "Features a Japanese garden"],
     },
-    imageHint: "Fata Morgana greenhouse in Prague",
-  },
+    imageHint: "Fata Morgana greenhouse in Prague", image: "/poi-images/czechrepublic-prague-botanical-garden-life-v2.webp"},
   {
     id: "czechrepublic-rejviz-reserve-life-v2",
     type: "park",
@@ -479,8 +457,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Găzduiește Lacul Mare de Mușchi", "Cel mai înalt sat din Silezia", "Potecă educațională pe podețe", "Prezența plantelor carnivore"],
       en: ["Home to the Great Moss Lake", "Highest village in Silesia", "Boardwalk educational trail", "Presence of carnivorous plants"],
     },
-    imageHint: "Rejvíz moss lake boardwalk",
-  },
+    imageHint: "Rejvíz moss lake boardwalk", image: "/poi-images/czechrepublic-rejviz-reserve-life-v2.webp"},
   {
     id: "czechrepublic-slavkovsky-les-life-v2",
     type: "forest",
@@ -499,8 +476,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Fondat în anul 1974", "Suprafață de 606 km pătrați", "Include turbăriile Kladská", "Zonă importantă de protecție a izvoarelor"],
       en: ["Established in 1974", "Area of 606 square km", "Includes the Kladská peat bogs", "Important mineral spring protection zone"],
     },
-    imageHint: "Kladská peat bog in Slavkov forest",
-  },
+    imageHint: "Kladská peat bog in Slavkov forest", image: "/poi-images/czechrepublic-slavkovsky-les-life-v2.webp"},
   {
     id: "czechrepublic-orlicke-hory-life-v2",
     type: "mountain",

@@ -19,8 +19,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime de aprox. 2096 metri", "Parte a Alpilor Scandinavi", "Ghețarul se micșorează constant", "Destinație populară pentru alpiniști"],
       en: ["Height approx. 2096 meters", "Part of the Scandinavian Mountains", "Glacier is steadily shrinking", "Popular destination for climbers"],
     },
-    imageHint: "Kebnekaise mountain peak with snow and glacier",
-  },
+    imageHint: "Kebnekaise mountain peak with snow and glacier", image: "/poi-images/sweden-kebnekaise-sydtopp-relief-v2.webp"},
   {
     id: "sweden-kebnekaise-nordtopp-relief-v2",
     type: "peak",
@@ -39,8 +38,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 2097 metri", "Cel mai înalt punct fix din Suedia", "Compus din rocă de gabro", "Situat la nord de vârful sudic"],
       en: ["Height 2097 meters", "Sweden's highest solid rock point", "Composed of gabbro rock", "Located north of the southern peak"],
     },
-    imageHint: "Kebnekaise Northern peak rocky summit",
-  },
+    imageHint: "Kebnekaise Northern peak rocky summit", image: "/poi-images/sweden-kebnekaise-nordtopp-relief-v2.webp"},
   {
     id: "sweden-sarektjakka-relief-v2",
     type: "mountain",
@@ -59,8 +57,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 2089 metri", "Situat în Parcul Național Sarek", "Al doilea cel mai înalt munte din Suedia", "Nu există trasee marcate"],
       en: ["Height 2089 meters", "Located in Sarek National Park", "Sweden's second highest mountain", "No marked trails available"],
     },
-    imageHint: "Sarektjakka mountain massif in Sarek National Park",
-  },
+    imageHint: "Sarektjakka mountain massif in Sarek National Park", image: "/poi-images/sweden-sarektjakka-relief-v2.webp"},
   {
     id: "sweden-akka-relief-v2",
     type: "mountain",
@@ -79,8 +76,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 2015 metri", "Munte sfânt pentru sami", "Format din douăsprezece vârfuri", "Situat în parcul Stora Sjöfallet"],
       en: ["Height 2015 meters", "Sacred mountain for the Sami", "Consists of twelve peaks", "Located in Stora Sjöfallet park"],
     },
-    imageHint: "Akka mountain massif above lake Akkajaure",
-  },
+    imageHint: "Akka mountain massif above lake Akkajaure", image: "/poi-images/sweden-akka-relief-v2.webp"},
   {
     id: "sweden-sylarna-relief-v2",
     type: "mountain",
@@ -99,8 +95,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1762 metri (Storsylen)", "La granița cu Norvegia", "Zonă de drumeție populară", "Topografie alpină distinctă"],
       en: ["Height 1762 meters (Storsylen)", "On the border with Norway", "Popular hiking area", "Distinct alpine topography"],
     },
-    imageHint: "Sylarna mountain massif peaks",
-  },
+    imageHint: "Sylarna mountain massif peaks", image: "/poi-images/sweden-sylarna-relief-v2.webp"},
   {
     id: "sweden-areskutan-relief-v2",
     type: "mountain",
@@ -119,8 +114,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1420 metri", "Cea mai importantă zonă de schi din Suedia", "Vârf accesibil cu telecabina", "Gazda Campionatelor Mondiale de Schi Alpin"],
       en: ["Height 1420 meters", "Sweden's most important ski area", "Summit accessible by cable car", "Host of Alpine Ski World Championships"],
     },
-    imageHint: "Areskutan mountain with ski slopes",
-  },
+    imageHint: "Areskutan mountain with ski slopes", image: "/poi-images/sweden-areskutan-relief-v2.webp"},
   {
     id: "sweden-dundret-relief-v2",
     type: "mountain",
@@ -139,8 +133,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 823 metri", "Vedere spre Sarek și Kebnekaise", "Stațiune de schi cunoscută", "Numele înseamnă „tunet” în limba sami"],
       en: ["Height 823 meters", "View of Sarek and Kebnekaise possible", "Well-known ski area", "Name means 'thunder' in Sami"],
     },
-    imageHint: "Dundret mountain near Gallivare",
-  },
+    imageHint: "Dundret mountain near Gallivare", image: "/poi-images/sweden-dundret-relief-v2.webp"},
   {
     id: "sweden-marsfjallet-relief-v2",
     type: "mountain",
@@ -159,8 +152,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1589 metri", "Cel mai înalt munte din sudul Laponiei", "Parte a unei rezervații de 86.000 hectare", "Compus din cuarțit și micasist"],
       en: ["Height 1589 meters", "Highest mountain in southern Lapland", "Part of an 86,000-hectare reserve", "Composed of quartzite and mica schist"],
     },
-    imageHint: "Marsfjallet mountain landscape Lapland",
-  },
+    imageHint: "Marsfjallet mountain landscape Lapland", image: "/poi-images/sweden-marsfjallet-relief-v2.webp"},
   {
     id: "sweden-stadjan-relief-v2",
     type: "mountain",
@@ -179,8 +171,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1131 metri", "Numele înseamnă „ilău”", "Parte a munților Idre", "Cel mai sudic munte din regiunea fjäll"],
       en: ["Height 1131 meters", "Name means 'anvil'", "Part of the Idre mountains", "Southernmost mountain of the Swedish fjälls"],
     },
-    imageHint: "Stadjan mountain conical peak Dalarna",
-  },
+    imageHint: "Stadjan mountain conical peak Dalarna", image: "/poi-images/sweden-stadjan-relief-v2.webp"},
   {
     id: "sweden-fulufjallet-relief-v2",
     type: "mountain",
@@ -199,8 +190,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime aprox. 1040 metri", "Găzduiește cel mai bătrân copac din lume", "Cascada Njupeskär (93m) se află aici", "Parc național din 2002"],
       en: ["Height approx. 1040 meters", "Home to the world's oldest tree", "Njupeskär waterfall (93m) is located here", "National park since 2002"],
     },
-    imageHint: "Fulufjallet plateau mountain landscape",
-  },
+    imageHint: "Fulufjallet plateau mountain landscape", image: "/poi-images/sweden-fulufjallet-relief-v2.webp"},
   {
     id: "sweden-kinnekulle-relief-v2",
     type: "mountain",
@@ -219,8 +209,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 306 metri", "Format din gresie, calcar și diabaz", "Vedere panoramică asupra lacului Vänern", "Faimos pentru populațiile de leurdă"],
       en: ["Height 306 meters", "Consists of sandstone, limestone, and diabase", "View over Lake Vänern", "Famous for wild garlic fields"],
     },
-    imageHint: "Kinnekulle table mountain Vänern lake",
-  },
+    imageHint: "Kinnekulle table mountain Vänern lake", image: "/poi-images/sweden-kinnekulle-relief-v2.webp"},
   {
     id: "sweden-billingen-relief-v2",
     type: "mountain",
@@ -239,8 +228,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 304 metri", "Cel mai mare munte tabular din regiune", "Format din roci sedimentare cu vârf de diabaz", "Orașul Skövde este situat la poalele sale"],
       en: ["Height 304 meters", "Largest table mountain in the region", "Consists of sedimentary rock with a diabase cap", "The city of Skövde lies at its foot"],
     },
-    imageHint: "Billingen table mountain forest Skovde",
-  },
+    imageHint: "Billingen table mountain forest Skovde", image: "/poi-images/sweden-billingen-relief-v2.webp"},
   {
     id: "sweden-omberg-relief-v2",
     type: "mountain",
@@ -259,8 +247,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 263 metri", "Cea mai înaltă cotă de pe malul lacului Vättern", "Compus din granit și porfir", "Rezervație naturală importantă"],
       en: ["Height 263 meters", "Highest point along Lake Vättern", "Composed of granite and porphyry", "Important nature reserve"],
     },
-    imageHint: "Omberg mountain cliff Lake Vattern",
-  },
+    imageHint: "Omberg mountain cliff Lake Vattern", image: "/poi-images/sweden-omberg-relief-v2.webp"},
   {
     id: "sweden-taberg-relief-v2",
     type: "mountain",
@@ -279,8 +266,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 343 metri", "Format din titan-vanadiu-magnetit", "Descris de Carl von Linné", "Găzduiește specii rare de ferigi"],
       en: ["Height 343 meters", "Composed of titaniferous vanadium magnetite", "Described by Carl von Linné", "Home to rare fern species"],
     },
-    imageHint: "Taberg mountain peak near Jonkoping",
-  },
+    imageHint: "Taberg mountain peak near Jonkoping", image: "/poi-images/sweden-taberg-relief-v2.webp"},
   {
     id: "sweden-skierfe-relief-v2",
     type: "peak",
@@ -299,8 +285,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1179 metri", "Vedere asupra deltei Rapadalen", "Loc sfânt pentru sami", "Perete stâncos abrupt (cădere de aprox. 700m)"],
       en: ["Height 1179 meters", "View of the Rapadalen delta", "Sacred site for the Sami", "Steep rock face (approx. 700m drop)"],
     },
-    imageHint: "Skierfe mountain cliff view Rapadalen delta",
-  },
+    imageHint: "Skierfe mountain cliff view Rapadalen delta", image: "/poi-images/sweden-skierfe-relief-v2.webp"},
   {
     id: "sweden-kullaberg-relief-v2",
     type: "mountain",
@@ -319,8 +304,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 188 metri", "Compus din gnais", "Numeroase peșteri marine pe coastă", "Locația farului Kullen"],
       en: ["Height 188 meters", "Composed of gneiss", "Numerous sea caves along the coast", "Location of the Kullen lighthouse"],
     },
-    imageHint: "Kullaberg rocky cliffs and sea",
-  },
+    imageHint: "Kullaberg rocky cliffs and sea", image: "/poi-images/sweden-kullaberg-relief-v2.webp"},
   {
     id: "sweden-soderasen-relief-v2",
     type: "mountain",
@@ -339,8 +323,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 212 metri (Kopparhatten)", "Parc național din 2001", "Cea mai mare pădure de foioase din Europa de Nord", "Canion spectaculos la Odensjön"],
       en: ["Height 212 meters (Kopparhatten)", "National park since 2001", "North Europe's largest contiguous deciduous forest", "Spectacular Odensjön gorge"],
     },
-    imageHint: "Soderasen national park valley forest",
-  },
+    imageHint: "Soderasen national park valley forest", image: "/poi-images/sweden-soderasen-relief-v2.webp"},
   {
     id: "sweden-hovs-hallar-relief-v2",
     type: "landmark",
@@ -359,8 +342,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime de până la 30 metri", "Format din gnais roșu", "Loc de filmare pentru „A șaptea pecete”", "Parte a horstului Hallandsåsen"],
       en: ["Height up to 30 meters", "Composed of red gneiss", "Filming location for 'The Seventh Seal'", "Part of the Hallandsåsen horst"],
     },
-    imageHint: "Hovs Hallar rocky coast cliffs",
-  },
+    imageHint: "Hovs Hallar rocky coast cliffs", image: "/poi-images/sweden-hovs-hallar-relief-v2.webp"},
   {
     id: "sweden-slattdalsberget-relief-v2",
     type: "mountain",
@@ -379,8 +361,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 280 metri", "Situat în Parcul Național Skuleskogen", "Faimoasă crăpătură stâncoasă de 200m lungime", "Parte a Patrimoniului UNESCO Coasta Înaltă"],
       en: ["Height 280 meters", "Located in Skuleskogen National Park", "Famous 200m long rock crevice", "Part of the High Coast UNESCO site"],
     },
-    imageHint: "Slattdalsberget mountain and rock crevice",
-  },
+    imageHint: "Slattdalsberget mountain and rock crevice", image: "/poi-images/sweden-slattdalsberget-relief-v2.webp"},
   {
     id: "sweden-luossavaara-relief-v2",
     type: "mountain",
@@ -399,8 +380,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 724 metri", "Vedere spre masivul Kebnekaise", "Fostă zonă de mină de suprafață", "Destinație populară pentru schiori"],
       en: ["Height 724 meters", "View of the Kebnekaise massif", "Former open-pit mining area", "Popular destination for skiers"],
     },
-    imageHint: "Luossavaara mountain Kiruna",
-  },
+    imageHint: "Luossavaara mountain Kiruna", image: "/poi-images/sweden-luossavaara-relief-v2.webp"},
   {
     id: "sweden-kirunavaara-relief-v2",
     type: "mountain",
@@ -419,8 +399,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 749 metri", "Cel mai mare zăcământ de magnetit", "Exploatare la peste 1300m adâncime", "Cauzează deformări ale solului"],
       en: ["Height 749 meters", "Largest magnetite iron ore deposit", "Mining occurs at over 1300m depth", "Causes ground deformation"],
     },
-    imageHint: "Kirunavaara iron ore mine mountain",
-  },
+    imageHint: "Kirunavaara iron ore mine mountain", image: "/poi-images/sweden-kirunavaara-relief-v2.webp"},
   {
     id: "sweden-pieljekaise-relief-v2",
     type: "mountain",
@@ -439,8 +418,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1138 metri", "Parc național din 1909", "Numele se referă la forma vârfurilor", "Parte a rutei de drumeție Kungsleden"],
       en: ["Height 1138 meters", "National park since 1909", "Name refers to the shape of the peaks", "Part of the Kungsleden hiking trail"],
     },
-    imageHint: "Pieljekaise mountain summit Lapland",
-  },
+    imageHint: "Pieljekaise mountain summit Lapland", image: "/poi-images/sweden-pieljekaise-relief-v2.webp"},
   {
     id: "sweden-sonfjallet-relief-v2",
     type: "mountain",
@@ -459,8 +437,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1278 metri", "Unul dintre cele mai vechi parcuri naționale din Europa", "Cunoscut pentru populația mare de urși bruni", "Format din cuarțit dur"],
       en: ["Height 1278 meters", "One of the oldest national parks in Europe", "Known for a large brown bear population", "Composed of hard quartzite"],
     },
-    imageHint: "Sonfjallet mountain silhouette",
-  },
+    imageHint: "Sonfjallet mountain silhouette", image: "/poi-images/sweden-sonfjallet-relief-v2.webp"},
   {
     id: "sweden-hovarken-relief-v2",
     type: "mountain",
@@ -479,8 +456,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1125 metri", "Se pot vedea peste 200 de vârfuri muntoase", "Centrul zonei de schi Lofsdalen", "Cunoscut pentru cabana sa panoramică"],
       en: ["Height 1125 meters", "View of over 200 mountain peaks possible", "Center of the Lofsdalen ski area", "Known for its panoramic hut"],
     },
-    imageHint: "Hovarken mountain Lofsdalen view",
-  },
+    imageHint: "Hovarken mountain Lofsdalen view", image: "/poi-images/sweden-hovarken-relief-v2.webp"},
   {
     id: "sweden-kaskasatjakka-relief-v2",
     type: "peak",
@@ -499,8 +475,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 2076 metri", "Al patrulea cel mai înalt munte din Suedia", "Destinație provocatoare pentru alpiniști", "Vedere asupra văii Tarfala"],
       en: ["Height 2076 meters", "Fourth highest mountain in Sweden", "Challenging destination for climbers", "View of the Tarfala valley"],
     },
-    imageHint: "Kaskasatjakka rocky mountain peak",
-  },
+    imageHint: "Kaskasatjakka rocky mountain peak", image: "/poi-images/sweden-kaskasatjakka-relief-v2.webp"},
   {
     id: "sweden-nallo-relief-v2",
     type: "peak",
@@ -519,8 +494,7 @@ export const swedenReliefV2: POI[] = [
       ro: ["Înălțime 1585 metri", "Siluetă ascuțită foarte distinctă", "Popular printre alpiniști", "Situat în valea Stuor Reaiddávággi"],
       en: ["Height 1585 meters", "Very prominent, pointed silhouette", "Popular among climbers", "Located in the Stuor Reaiddávággi valley"],
     },
-    imageHint: "Nallo mountain peak Needle Lapland",
-  },
+    imageHint: "Nallo mountain peak Needle Lapland", image: "/poi-images/sweden-nallo-relief-v2.webp"},
   {
     id: "sweden-tjamuhas-relief-v2",
     type: "mountain",

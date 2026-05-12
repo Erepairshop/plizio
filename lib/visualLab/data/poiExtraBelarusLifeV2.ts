@@ -63,8 +63,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-berezinsky-reserve-life-v2.webp"},
   {
     id: "belarus-pripyatsky-national-park-life-v2",
     type: "wildlife",
@@ -95,8 +94,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-pripyatsky-national-park-life-v2.webp"},
   {
     id: "belarus-narochansky-national-park-life-v2",
     type: "lake",
@@ -127,8 +125,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-narochansky-national-park-life-v2.webp"},
   {
     id: "belarus-braslav-lakes-national-park-life-v2",
     type: "lake",
@@ -159,8 +156,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-braslav-lakes-national-park-life-v2.webp"},
   {
     id: "belarus-yelnya-reserve-life-v2",
     type: "wildlife",
@@ -191,8 +187,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-yelnya-reserve-life-v2.webp"},
   {
     id: "belarus-olman-mires-life-v2",
     type: "wildlife",
@@ -223,8 +218,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-olman-mires-life-v2.webp"},
   {
     id: "belarus-nalibokskaya-pushcha-life-v2",
     type: "forest",
@@ -255,8 +249,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-nalibokskaya-pushcha-life-v2.webp"},
   {
     id: "belarus-sporovsky-reserve-life-v2",
     type: "wildlife",
@@ -287,8 +280,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-sporovsky-reserve-life-v2.webp"},
   {
     id: "belarus-zvanets-reserve-life-v2",
     type: "wildlife",
@@ -319,8 +311,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-zvanets-reserve-life-v2.webp"},
   {
     id: "belarus-mid-pripyat-reserve-life-v2",
     type: "wildlife",
@@ -351,8 +342,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-mid-pripyat-reserve-life-v2.webp"},
   {
     id: "belarus-osveysky-reserve-life-v2",
     type: "wildlife",
@@ -383,8 +373,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-osveysky-reserve-life-v2.webp"},
   {
     id: "belarus-vygonoshchanskoye-reserve-life-v2",
     type: "wildlife",
@@ -415,8 +404,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-vygonoshchanskoye-reserve-life-v2.webp"},
   {
     id: "belarus-krasny-bor-reserve-life-v2",
     type: "forest",
@@ -447,8 +435,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-krasny-bor-reserve-life-v2.webp"},
   {
     id: "belarus-kozyansky-reserve-life-v2",
     type: "wildlife",
@@ -479,8 +466,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-kozyansky-reserve-life-v2.webp"},
   {
     id: "belarus-lipichanskaya-pushcha-life-v2",
     type: "forest",
@@ -511,8 +497,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-lipichanskaya-pushcha-life-v2.webp"},
   {
     id: "belarus-grodnenskaya-pushcha-life-v2",
     type: "forest",
@@ -543,8 +528,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-grodnenskaya-pushcha-life-v2.webp"},
   {
     id: "belarus-minsk-botanical-garden-life-v2",
     type: "park",
@@ -607,8 +591,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-minsk-zoo-life-v2.webp"},
   {
     id: "belarus-grodno-zoo-life-v2",
     type: "park",
@@ -671,8 +654,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-vitebsk-zoo-life-v2.webp"},
   {
     id: "belarus-vitebsk-botanical-garden-life-v2",
     type: "park",
@@ -703,8 +685,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-vitebsk-botanical-garden-life-v2.webp"},
   {
     id: "belarus-mogilev-zoo-life-v2",
     type: "park",
@@ -735,8 +716,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-mogilev-zoo-life-v2.webp"},
   {
     id: "belarus-loshitsa-park-life-v2",
     type: "park",
@@ -767,8 +747,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-loshitsa-park-life-v2.webp"},
   {
     id: "belarus-polessky-reserve-life-v2",
     type: "wildlife",
@@ -799,8 +778,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-polessky-reserve-life-v2.webp"},
   {
     id: "belarus-kotra-reserve-life-v2",
     type: "wildlife",
@@ -831,8 +809,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-kotra-reserve-life-v2.webp"},
   {
     id: "belarus-svisloch-berezina-reserve-life-v2",
     type: "wildlife",
@@ -864,8 +841,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-svisloch-berezina-reserve-life-v2.webp"},
   {
     id: "belarus-sinsha-reserve-life-v2",
     type: "wildlife",
@@ -896,8 +872,7 @@ export const belarusLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-sinsha-reserve-life-v2.webp"},
   {
     id: "belarus-stary-zhaden-reserve-life-v2",
     type: "wildlife",

@@ -19,8 +19,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: 1762 m", "Parc natural din 1981", "Versant abrupt spre mare", "Platformă Skywalk"],
       en: ["Highest peak: 1762 m", "Nature park since 1981", "Steep coastal ascent", "Skywalk glass floor platform"],
     },
-    imageHint: "Biokovo mountain range above Makarska",
-  },
+    imageHint: "Biokovo mountain range above Makarska", image: "/poi-images/croatia-biokovo-relief-v2.webp"},
   {
     id: "croatia-risnjak-relief-v2",
     type: "mountain",
@@ -39,8 +38,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: 1528 m", "Statut de parc național", "Numele vine de la râs (Ris)", "Fenomene carstice"],
       en: ["Highest peak: 1528 m", "National park status", "Named after the lynx (Ris)", "Karst geological features"],
     },
-    imageHint: "Veliki Risnjak mountain peak",
-  },
+    imageHint: "Veliki Risnjak mountain peak", image: "/poi-images/croatia-risnjak-relief-v2.webp"},
   {
     id: "croatia-ucka-relief-v2",
     type: "mountain",
@@ -59,8 +57,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Altitudinea maximă: 1401 m", "Turn de observare pe Vojak", "Parc natural din 1999", "Graniță Istria/Kvarner"],
       en: ["Highest point: 1401 m", "Observation tower on Vojak", "Nature park since 1999", "Istria/Kvarner boundary"],
     },
-    imageHint: "Ucka mountain tower Vojak",
-  },
+    imageHint: "Ucka mountain tower Vojak", image: "/poi-images/croatia-ucka-relief-v2.webp"},
   {
     id: "croatia-papuk-relief-v2",
     type: "mountain",
@@ -79,8 +76,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Altitudinea maximă: 954 m", "UNESCO Global Geopark", "Roci de origine vulcanică", "Munte de tip insulă"],
       en: ["Highest point: 954 m", "UNESCO Global Geopark", "Volcanic rock formations", "Pannonian island mountain"],
     },
-    imageHint: "Papuk Nature Park forest landscape",
-  },
+    imageHint: "Papuk Nature Park forest landscape", image: "/poi-images/croatia-papuk-relief-v2.webp"},
   {
     id: "croatia-svilaja-relief-v2",
     type: "mountain",
@@ -99,8 +95,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Altitudinea maximă: 1508 m", "Formațiuni carstice tipice", "Parte a Alpilor Dinari externi", "Zonă naturală sălbatică"],
       en: ["Highest point: 1508 m", "Typical karst formations", "Part of outer Dinaric Alps", "Remote natural area"],
     },
-    imageHint: "Svilaja mountain range dalmatia",
-  },
+    imageHint: "Svilaja mountain range dalmatia", image: "/poi-images/croatia-svilaja-relief-v2.webp"},
   {
     id: "croatia-gorski-kotar-relief-v2",
     type: "mountain",
@@ -119,8 +114,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Numit 'Plămânul verde' al țării", "Caracter de platou montan", "Cele mai mari precipitații", "Coridor de transport spre mare"],
       en: ["Known as 'Green Lungs' of Croatia", "Highland plateau character", "Highest rainfall in Croatia", "Strategic route to the sea"],
     },
-    imageHint: "Gorski Kotar landscape forest and mountains",
-  },
+    imageHint: "Gorski Kotar landscape forest and mountains", image: "/poi-images/croatia-gorski-kotar-relief-v2.webp"},
   {
     id: "croatia-lika-relief-v2",
     type: "mountain",
@@ -139,8 +133,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Altitudine medie: 500-700m", "Nucleul carstului croat", "Locul nașterii lui Nikola Tesla", "Climat montan continental"],
       en: ["Average altitude: 500-700m", "Center of Croatian karst", "Birthplace of Nikola Tesla", "Continental mountain climate"],
     },
-    imageHint: "Lika plateau landscape Croatia",
-  },
+    imageHint: "Lika plateau landscape Croatia", image: "/poi-images/croatia-lika-relief-v2.webp"},
   {
     id: "croatia-moslavacka-gora-relief-v2",
     type: "mountain",
@@ -159,8 +152,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Humka (489 m)", "Parc regional din 2007", "Prezența rocilor magmatice", "Cetatea istorică Garić"],
       en: ["Highest peak: Humka (489 m)", "Regional park since 2007", "Magmatic rock occurrences", "Historical Garić fortress ruins"],
     },
-    imageHint: "Moslavacka gora forest hills",
-  },
+    imageHint: "Moslavacka gora forest hills", image: "/poi-images/croatia-moslavacka-gora-relief-v2.webp"},
   {
     id: "croatia-ivanscica-relief-v2",
     type: "mountain",
@@ -179,8 +171,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Altitudinea maximă: 1061 m", "Destinație populară de drumeție", "Bogată în izvoare naturale", "Ruine de castele medievale"],
       en: ["Highest point: 1061 m", "Popular hiking destination", "Rich in natural springs", "Medieval castle ruins"],
     },
-    imageHint: "Ivanscica mountain peak northern Croatia",
-  },
+    imageHint: "Ivanscica mountain peak northern Croatia", image: "/poi-images/croatia-ivanscica-relief-v2.webp"},
   {
     id: "croatia-snjeznik-relief-v2",
     type: "mountain",
@@ -199,8 +190,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Înălțime: 1506 metri", "Numele derivă de la zăpadă", "Climat montan alpin", "Inclus în Parcul Risnjak"],
       en: ["Elevation: 1506 meters", "Name refers to 'snowy mountain'", "Alpine-like climate", "Part of Risnjak National Park"],
     },
-    imageHint: "Snjeznik mountain peak rocky terrain",
-  },
+    imageHint: "Snjeznik mountain peak rocky terrain", image: "/poi-images/croatia-snjeznik-relief-v2.webp"},
   {
     id: "croatia-vaganski-vrh-relief-v2",
     type: "peak",
@@ -219,8 +209,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Înălțime: 1757 metri", "Cea mai înaltă cotă din Velebit", "Situat în Velebitul de Sud", "Vedere spre câmpia Lika"],
       en: ["Elevation: 1757 meters", "Highest point of Velebit", "Located in Southern Velebit", "View of the Lika plateau"],
     },
-    imageHint: "Vaganski vrh peak Velebit mountain",
-  },
+    imageHint: "Vaganski vrh peak Velebit mountain", image: "/poi-images/croatia-vaganski-vrh-relief-v2.webp"},
   {
     id: "croatia-sveti-jure-relief-v2",
     type: "peak",
@@ -239,8 +228,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Înălțime: 1762 metri", "Cea mai înaltă cotă din Biokovo", "Cel mai înalt drum asfaltat", "Vizibilitate până în Italia"],
       en: ["Elevation: 1762 meters", "Highest point of Biokovo", "Highest paved road in Croatia", "Views possible to Italy"],
     },
-    imageHint: "Sveti Jure peak Biokovo antenna",
-  },
+    imageHint: "Sveti Jure peak Biokovo antenna", image: "/poi-images/croatia-sveti-jure-relief-v2.webp"},
   {
     id: "croatia-velika-kapela-relief-v2",
     type: "mountain",
@@ -259,8 +247,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Bjelolasica", "Roci calcaroase și dolomite", "Coridor ecologic major", "Centru de sporturi de iarnă"],
       en: ["Highest peak: Bjelolasica", "Limestone and dolomite rock", "Major ecological corridor", "Winter sports center area"],
     },
-    imageHint: "Velika Kapela mountain landscape",
-  },
+    imageHint: "Velika Kapela mountain landscape", image: "/poi-images/croatia-velika-kapela-relief-v2.webp"},
   {
     id: "croatia-mala-kapela-relief-v2",
     type: "mountain",
@@ -279,8 +266,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Seliški vrh", "Parte a Alpilor Dinari", "Lângă Lacurile Plitvice", "Tunel rutier major"],
       en: ["Highest peak: Seliški vrh", "Part of Dinaric mountain system", "Located near Plitvice Lakes", "Major highway tunnel location"],
     },
-    imageHint: "Mala Kapela mountains forest view",
-  },
+    imageHint: "Mala Kapela mountains forest view", image: "/poi-images/croatia-mala-kapela-relief-v2.webp"},
   {
     id: "croatia-pljesivica-relief-v2",
     type: "mountain",
@@ -299,8 +285,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Altitudine maximă: 1657m", "Graniță pe creastă", "Creste calcaroase abrupte", "Fostă zonă militară"],
       en: ["Highest point: Ozeblin (1657m)", "Border follows the ridge", "Distinctive limestone ridges", "Former military restricted zone"],
     },
-    imageHint: "Pljesivica mountain ridge Croatia",
-  },
+    imageHint: "Pljesivica mountain ridge Croatia", image: "/poi-images/croatia-pljesivica-relief-v2.webp"},
   {
     id: "croatia-samoborsko-gorje-relief-v2",
     type: "mountain",
@@ -319,8 +304,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Japetić (879m)", "Inclus în parc natural", "Tradiție minieră veche", "Lângă orașul Samobor"],
       en: ["Highest peak: Japetić (879m)", "Part of a nature park", "Known for mining tradition", "Close to Samobor town"],
     },
-    imageHint: "Samoborsko gorje hills landscape",
-  },
+    imageHint: "Samoborsko gorje hills landscape", image: "/poi-images/croatia-samoborsko-gorje-relief-v2.webp"},
   {
     id: "croatia-zumberak-relief-v2",
     type: "mountain",
@@ -339,8 +323,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Sveta Gera", "Altitudine: 1178 metri", "Statut de parc natural", "Influențe alpine și panonice"],
       en: ["Highest peak: Sveta Gera", "Summit height: 1178 meters", "Nature park status", "Alpine and Pannonian influence"],
     },
-    imageHint: "Zumberak mountain range border",
-  },
+    imageHint: "Zumberak mountain range border", image: "/poi-images/croatia-zumberak-relief-v2.webp"},
   {
     id: "croatia-kalnik-relief-v2",
     type: "mountain",
@@ -359,8 +342,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Vranilovac", "Înălțime: 643 metri", "Centru de alpinism", "Ruinele cetății Kalnik"],
       en: ["Highest peak: Vranilovac", "Elevation: 643 meters", "Rock climbing center", "Old Kalnik fortress ruins"],
     },
-    imageHint: "Kalnik mountain rocks and castle",
-  },
+    imageHint: "Kalnik mountain rocks and castle", image: "/poi-images/croatia-kalnik-relief-v2.webp"},
   {
     id: "croatia-psunj-relief-v2",
     type: "mountain",
@@ -379,8 +361,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Brezovo polje", "Înălțime: 984 metri", "Bogat în roci cristaline", "Zonă importantă de recreere"],
       en: ["Highest peak: Brezovo polje", "Elevation: 984 meters", "Rich in crystalline rocks", "Significant recreational area"],
     },
-    imageHint: "Psunj mountain peak Slavonia",
-  },
+    imageHint: "Psunj mountain peak Slavonia", image: "/poi-images/croatia-psunj-relief-v2.webp"},
   {
     id: "croatia-krndija-relief-v2",
     type: "mountain",
@@ -399,8 +380,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Kapovac", "Înălțime: 792 metri", "Zonă de tranziție geologică", "Lângă orașul Našice"],
       en: ["Highest point: Kapovac", "Elevation: 792 meters", "Geological transition zone", "Near the town of Našice"],
     },
-    imageHint: "Krndija mountain hills Slavonia",
-  },
+    imageHint: "Krndija mountain hills Slavonia", image: "/poi-images/croatia-krndija-relief-v2.webp"},
   {
     id: "croatia-pozeska-gora-relief-v2",
     type: "mountain",
@@ -419,8 +399,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Kapavac (618m)", "Viticultură dezvoltată pe pante", "Munte de tip insulă panonică", "Soluri foarte fertile"],
       en: ["Highest peak: Kapavac (618m)", "Famous for viticulture on slopes", "Part of Pannonian island mountains", "Very fertile soil conditions"],
     },
-    imageHint: "Pozeska gora vineyards and hills",
-  },
+    imageHint: "Pozeska gora vineyards and hills", image: "/poi-images/croatia-pozeska-gora-relief-v2.webp"},
   {
     id: "croatia-bilogora-relief-v2",
     type: "mountain",
@@ -439,8 +418,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Punctul maxim: Rajčul (309m)", "Tânăr din punct de vedere geologic", "Acoperit cu depozite de loess", "Importat pentru agricultură"],
       en: ["Highest point: Rajčul (309m)", "Geologically very young", "Covered in loess deposits", "Important for agriculture"],
     },
-    imageHint: "Bilogora hills landscape",
-  },
+    imageHint: "Bilogora hills landscape", image: "/poi-images/croatia-bilogora-relief-v2.webp"},
   {
     id: "croatia-petrova-gora-relief-v2",
     type: "mountain",
@@ -459,8 +437,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Vârful maxim: Veliki Petrovac", "Înălțime: 512 metri", "Locul unor bătălii istorice", "Monument celebru pe vârf"],
       en: ["Highest peak: Veliki Petrovac", "Elevation: 512 meters", "Site of historical battles", "Famous monument on the peak"],
     },
-    imageHint: "Petrova gora mountain monument",
-  },
+    imageHint: "Petrova gora mountain monument", image: "/poi-images/croatia-petrova-gora-relief-v2.webp"},
   {
     id: "croatia-cicarija-relief-v2",
     type: "mountain",
@@ -479,8 +456,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Punctul maxim: Planik (1272m)", "Peisaj de stâncă albă", "Zonă foarte slab populată", "Climat mult mai rece decât pe coastă"],
       en: ["Highest point: Planik (1272m)", "White rocky landscape", "Sparsely populated area", "Significantly cooler climate than coast"],
     },
-    imageHint: "Cicarija mountain landscape Istria",
-  },
+    imageHint: "Cicarija mountain landscape Istria", image: "/poi-images/croatia-cicarija-relief-v2.webp"},
   {
     id: "croatia-tulove-grede-relief-v2",
     type: "landmark",
@@ -499,8 +475,7 @@ export const croatiaReliefV2: POI[] = [
       ro: ["Creastă iconică în Velebit", "Loc de filmare pentru Winnetou", "Fenomen carstic remarcabil", "Lângă pasul Mali Alan"],
       en: ["Iconic part of Velebit range", "Winnetou movie filming site", "Remarkable karst phenomenon", "Near the Mali Alan pass"],
     },
-    imageHint: "Tulove Grede rocky cliffs Velebit",
-  },
+    imageHint: "Tulove Grede rocky cliffs Velebit", image: "/poi-images/croatia-tulove-grede-relief-v2.webp"},
   {
     id: "croatia-ravna-gora-relief-v2",
     type: "mountain",

@@ -19,8 +19,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 5.650 km²", "Adâncimea maximă este de 106 metri", "Principalul afluent este râul Klarälven", "Găzduiește arhipelagul Lurö"],
       en: ["Surface area of approx. 5,650 km²", "Maximum depth is 106 meters", "Main tributary is the Klarälven river", "Contains more than 22,000 islands"],
     },
-    imageHint: "Large blue lake with rocky islands and small lighthouse in Sweden",
-  },
+    imageHint: "Large blue lake with rocky islands and small lighthouse in Sweden", image: "/poi-images/sweden-vanern-nature-v2.webp"},
   {
     id: "sweden-vattern-nature-v2",
     type: "lake",
@@ -39,8 +38,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 1.912 km²", "Adâncime maximă de 128 de metri", "Gazda cursei de ciclism Vätternrundan", "Sursă de apă potabilă pentru 250.000 de oameni"],
       en: ["Surface area of approx. 1,912 km²", "Maximum depth of 128 meters", "Host of the Vätternrundan cycling race", "Drinking water source for 250,000 people"],
     },
-    imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visingsö",
-  },
+    imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visingsö", image: "/poi-images/sweden-vattern-nature-v2.webp"},
   {
     id: "sweden-kebnekaise-nature-v2",
     type: "peak",
@@ -59,8 +57,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Înălțime de aproximativ 2.097 metri", "Situat în comuna Kiruna", "Destinație populară pentru alpiniști", "Vârful nordic este format din stâncă solidă"],
       en: ["Height approx. 2,097 meters", "Located in Kiruna Municipality", "Popular destination for hikers", "North peak consists of solid rock"],
     },
-    imageHint: "Snow-capped peaks of Kebnekaise mountain under a clear sky",
-  },
+    imageHint: "Snow-capped peaks of Kebnekaise mountain under a clear sky", image: "/poi-images/sweden-kebnekaise-nature-v2.webp"},
   {
     id: "sweden-torne-river-nature-v2",
     type: "river",
@@ -79,8 +76,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Lungime totală de aprox. 522 km", "Sursă de gheață pentru celebrul Icehotel", "Zonă importantă de reproducere a somonului", "Se varsă în Golful Botnic"],
       en: ["Total length of approx. 522 km", "Source of ice for the Jukkasjärvi Icehotel", "Important spawning ground for salmon", "Flows into the Gulf of Bothnia"],
     },
-    imageHint: "Wide river flowing through snowy pine forests in Lapland",
-  },
+    imageHint: "Wide river flowing through snowy pine forests in Lapland", image: "/poi-images/sweden-torne-river-nature-v2.webp"},
   {
     id: "sweden-oland-nature-v2",
     type: "landmark",
@@ -99,8 +95,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Conectată prin podul Öland de 6 km", "Are peste 300 de mori de vânt istorice", "Reședința de vară a familiei regale", "Faimoasă pentru specii rare de orhidee"],
       en: ["Connected by the 6 km long Öland Bridge", "Features over 300 historic windmills", "Summer residence of the Swedish Royal Family", "Famous for rare species of orchids"],
     },
-    imageHint: "Traditional wooden windmills on a flat green field in Öland",
-  },
+    imageHint: "Traditional wooden windmills on a flat green field in Öland", image: "/poi-images/sweden-oland-nature-v2.webp"},
   {
     id: "sweden-gotland-nature-v2",
     type: "landmark",
@@ -119,8 +114,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Suprafață de aprox. 2.994 km²", "Centru comercial important al Hansei", "Locul de origine al oilor de Gotland", "Adăpostește circa 92 de biserici medievale"],
       en: ["Surface area of approx. 2,994 km²", "Important trading hub of the Hanseatic League", "Home to the unique Gotland sheep", "Contains around 92 medieval churches"],
     },
-    imageHint: "Limestone sea stacks (raukar) on the coast of Gotland",
-  },
+    imageHint: "Limestone sea stacks (raukar) on the coast of Gotland", image: "/poi-images/sweden-gotland-nature-v2.webp"},
   {
     id: "sweden-klaralven-nature-v2",
     type: "river",
@@ -139,8 +133,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Lungime totală de aprox. 460 km", "Cel mai mare afluent al lacului Vänern", "Oferă oportunități de observare a castorilor", "Cunoscut pentru meandrele sale spectaculoase"],
       en: ["Total length approx. 460 km", "Largest tributary of Lake Vänern", "Offers opportunities for beaver spotting", "Known for its distinct meandering loops"],
     },
-    imageHint: "River Klarälven with log rafts floating on the water",
-  },
+    imageHint: "River Klarälven with log rafts floating on the water", image: "/poi-images/sweden-klaralven-nature-v2.webp"},
   {
     id: "sweden-siljan-nature-v2",
     type: "lake",
@@ -159,8 +152,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Suprafață de aprox. 290 km²", "Al șaselea lac ca mărime din Suedia", "Găzduiește insula Sollerön", "Centrul culturii tradiționale din Dalarna"],
       en: ["Surface area of approx. 290 km²", "Sixth largest lake in Sweden", "Home to the island of Sollerön", "Heart of traditional Dalarna culture"],
     },
-    imageHint: "Blue lake Siljan with traditional red wooden houses on the shore",
-  },
+    imageHint: "Blue lake Siljan with traditional red wooden houses on the shore", image: "/poi-images/sweden-siljan-nature-v2.webp"},
   {
     id: "sweden-njupeskar-nature-v2",
     type: "landmark",
@@ -179,8 +171,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Înălțime totală de 93 de metri", "Situată în provincia Dalarna", "Iarna îngheață adesea complet", "Destinație populară pentru cățărare pe gheață"],
       en: ["Total height of 93 meters", "Located in Dalarna province", "Often completely frozen in winter", "Popular spot for ice climbing"],
     },
-    imageHint: "High waterfall plunging into a narrow canyon in Sweden",
-  },
+    imageHint: "High waterfall plunging into a narrow canyon in Sweden", image: "/poi-images/sweden-njupeskar-nature-v2.webp"},
   {
     id: "sweden-storforsen-nature-v2",
     type: "landmark",
@@ -199,8 +190,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Cădere de apă de aprox. 82 metri", "Debit mediu de 250 m³/s", "Înconjurată de o rezervație naturală", "Folosită în trecut pentru transportul buștenilor"],
       en: ["Total drop of approx. 82 meters", "Average water flow of 250 m³/s", "Surrounded by a nature reserve", "Formerly used for timber floating"],
     },
-    imageHint: "Massive rushing white water rapids in a pine forest",
-  },
+    imageHint: "Massive rushing white water rapids in a pine forest", image: "/poi-images/sweden-storforsen-nature-v2.webp"},
   {
     id: "sweden-hornavan-nature-v2",
     type: "lake",
@@ -219,8 +209,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Adâncime maximă de 221 de metri", "Suprafață de aprox. 252 km²", "Conține circa 400 de insule", "Vital pentru pescuitul local"],
       en: ["Maximum depth of 221 meters", "Surface area of approx. 252 km²", "Contains around 400 islands", "Important for local fishing"],
     },
-    imageHint: "Deep blue mountain lake surrounded by birch forests in Sweden",
-  },
+    imageHint: "Deep blue mountain lake surrounded by birch forests in Sweden", image: "/poi-images/sweden-hornavan-nature-v2.webp"},
   {
     id: "sweden-tornetrask-nature-v2",
     type: "lake",
@@ -239,8 +228,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Al doilea lac ca mărime din Laponia", "Adâncime maximă de 168 de metri", "Situat la sud-est de Parcul Abisko", "Volum de apă de 17,1 km³"],
       en: ["Second largest lake in Lapland", "Maximum depth of 168 meters", "Located southeast of Abisko National Park", "Water volume of 17.1 km³"],
     },
-    imageHint: "Large arctic lake with floating ice chunks and distant mountains",
-  },
+    imageHint: "Large arctic lake with floating ice chunks and distant mountains", image: "/poi-images/sweden-tornetrask-nature-v2.webp"},
   {
     id: "sweden-dalalven-nature-v2",
     type: "river",
@@ -259,8 +247,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Lungime totală de aprox. 520 km", "Se varsă în Golful Botnic", "Vital pentru producția de energie", "Formează numeroase lacuri și mlaștini"],
       en: ["Total length approx. 520 km", "Flows into the Gulf of Bothnia", "Important for hydroelectric power", "Creates many lakes and wetlands"],
     },
-    imageHint: "Wide river flowing through green valleys and forests in central Sweden",
-  },
+    imageHint: "Wide river flowing through green valleys and forests in central Sweden", image: "/poi-images/sweden-dalalven-nature-v2.webp"},
   {
     id: "sweden-lule-river-nature-v2",
     type: "river",
@@ -279,8 +266,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Lungime de aprox. 450 km", "Se varsă în mare lângă Luleå", "Traversează situl UNESCO Laponia", "Produce circa 10% din energia Suediei"],
       en: ["Length of approx. 450 km", "Flows into the sea at Luleå", "Passes through the Laponia World Heritage site", "Produces approx. 10% of Sweden's electricity"],
     },
-    imageHint: "Large river with a massive hydroelectric dam in Lapland",
-  },
+    imageHint: "Large river with a massive hydroelectric dam in Lapland", image: "/poi-images/sweden-lule-river-nature-v2.webp"},
   {
     id: "sweden-angermanalven-nature-v2",
     type: "river",
@@ -299,8 +285,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Lungime de aprox. 460 km", "Are cel mai mare debit la estuar din Suedia", "Loc popular pentru pescuitul somonului", "Cale importantă de transport pentru lemn"],
       en: ["Length of approx. 460 km", "Has the highest water discharge at its estuary", "Popular area for salmon fishing", "Major historical route for timber transport"],
     },
-    imageHint: "Wide river mouth near a high bridge at the High Coast of Sweden",
-  },
+    imageHint: "Wide river mouth near a high bridge at the High Coast of Sweden", image: "/poi-images/sweden-angermanalven-nature-v2.webp"},
   {
     id: "sweden-helagsfjallet-nature-v2",
     type: "mountain",
@@ -319,8 +304,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Înălțime de 1.797 metri", "Cel mai sudic ghețar al țării", "Zonă importantă de cercetare a vulpilor polare", "Popular printre excursioniști vara"],
       en: ["Height of 1,797 meters", "Southernmost glacier in the country", "Crucial research area for Arctic foxes", "Popular among hikers during summer"],
     },
-    imageHint: "Snowy mountain with a small glacier bowl in Härjedalen",
-  },
+    imageHint: "Snowy mountain with a small glacier bowl in Härjedalen", image: "/poi-images/sweden-helagsfjallet-nature-v2.webp"},
   {
     id: "sweden-tannforsen-nature-v2",
     type: "landmark",
@@ -339,8 +323,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Înălțime de aprox. 38 de metri", "Lățime de aprox. 60 de metri", "Iarna se formează o grotă de gheață", "Situată pe râul Indalsälven"],
       en: ["Height of approx. 38 meters", "Width of approx. 60 meters", "An ice cave forms under it in winter", "Located on the Indalsälven river"],
     },
-    imageHint: "Wide and powerful waterfall in a snowy landscape in Sweden",
-  },
+    imageHint: "Wide and powerful waterfall in a snowy landscape in Sweden", image: "/poi-images/sweden-tannforsen-nature-v2.webp"},
   {
     id: "sweden-vindelfjallen-nature-v2",
     type: "wildlife",
@@ -359,8 +342,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Suprafață de aprox. 5.600 km²", "Include muntele Ammarnäsfjället", "Vindelälven este un râu național protejat", "Faimoasă pentru observarea păsărilor"],
       en: ["Surface area of approx. 5,600 km²", "Includes the Ammarnäsfjället mountain", "Vindelälven is a protected national river", "Renowned for birdwatching"],
     },
-    imageHint: "Vast tundra landscape with winding rivers and low mountains",
-  },
+    imageHint: "Vast tundra landscape with winding rivers and low mountains", image: "/poi-images/sweden-vindelfjallen-nature-v2.webp"},
   {
     id: "sweden-stockholm-archipelago-nature-v2",
     type: "landmark",
@@ -379,8 +361,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Se întinde pe 80 km în largul mării", "Cea mai mare insulă este Värmdö", "Destinație populară pentru iahting și caiac", "Habitat crucial pentru vulturul codalb"],
       en: ["Extends 80 km from the mainland", "The largest island is Värmdö", "Popular area for sailing and kayaking", "Crucial habitat for white-tailed eagles"],
     },
-    imageHint: "Numerous small rocky islands in the blue sea near Stockholm",
-  },
+    imageHint: "Numerous small rocky islands in the blue sea near Stockholm", image: "/poi-images/sweden-stockholm-archipelago-nature-v2.webp"},
   {
     id: "sweden-malaren-nature-v2",
     type: "lake",
@@ -399,8 +380,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Suprafață de aprox. 1.140 km²", "Adâncime maximă de 64 de metri", "Se varsă în Marea Baltică la Stockholm", "Găzduiește situl UNESCO Birka"],
       en: ["Surface area of approx. 1.140 km²", "Maximum depth of 64 meters", "Drains into the Baltic Sea at Stockholm", "Home to the Birka World Heritage site"],
     },
-    imageHint: "Large calm lake with wooded shorelines near Stockholm",
-  },
+    imageHint: "Large calm lake with wooded shorelines near Stockholm", image: "/poi-images/sweden-malaren-nature-v2.webp"},
   {
     id: "sweden-storsjon-nature-v2",
     type: "lake",
@@ -419,8 +399,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Suprafață de aprox. 456 km²", "Adăpostește insula Frösön", "Situat într-o depresiune glaciară", "Înconjurat de terenuri agricole fertile"],
       en: ["Surface area of approx. 456 km²", "Home to the island of Frösön", "Located in a glacial depression", "Surrounded by fertile farmland"],
     },
-    imageHint: "Large lake with snowy mountains in the background and a town on its shore",
-  }
+    imageHint: "Large lake with snowy mountains in the background and a town on its shore", image: "/poi-images/sweden-storsjon-nature-v2.webp"}
 ,
   {
     id: "sweden-hjalmaren-nature-v2",
@@ -458,8 +437,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Lungime totală de 430 de kilometri", "Are 26 de hidrocentrale de-a lungul cursului său", "Gura de vărsare formează o deltă mare lângă Sundsvall", "Cunoscut pentru breșa istorică a cascadei din 1796"],
       en: ["Total length of 430 kilometers", "Features 26 hydroelectric power stations", "Mouth forms a large delta near Sundsvall", "Famous for the catastrophic flood event in 1796"],
     },
-    imageHint: "Wide river Indalsälven winding through a forested valley in Jämtland",
-  },
+    imageHint: "Wide river Indalsälven winding through a forested valley in Jämtland", image: "/poi-images/sweden-indalsalven-nature-v2.webp"},
   {
     id: "sweden-ristafallet-nature-v2",
     type: "landmark",
@@ -477,8 +455,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Lățime de aproximativ 50 de metri", "Înălțimea căderii de apă este de 14 metri", "Locație de filmare pentru 'Ronja, fiica tâlharului'", "Iarna se formează coloane masive de gheață"],
       en: ["Width of approximately 50 meters", "Drop height is 14 meters", "Filming location for 'Ronia, the Robber's Daughter'", "Massive ice columns form during the winter"],
     },
-    imageHint: "Powerful wide waterfall Ristafallet in a lush forest setting",
-  },
+    imageHint: "Powerful wide waterfall Ristafallet in a lush forest setting", image: "/poi-images/sweden-ristafallet-nature-v2.webp"},
   {
     id: "sweden-ven-island-nature-v2",
     type: "landmark",
@@ -496,8 +473,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 7,5 kilometri pătrați", "Faleza Backafall se ridică până la 40 de metri", "Ciclismul este principalul mod de transport pe insulă", "Locația observatoarelor Uraniborg și Stjerneborg"],
       en: ["Area of approximately 7.5 square kilometers", "The Backafall cliffs rise up to 40 meters high", "Cycling is the primary mode of transport on the island", "Home to the Uraniborg and Stjerneborg observatories"],
     },
-    imageHint: "Scenic view of the island of Ven with green fields and coastal cliffs",
-  },
+    imageHint: "Scenic view of the island of Ven with green fields and coastal cliffs", image: "/poi-images/sweden-ven-island-nature-v2.webp"},
   {
     id: "sweden-bla-jungfrun-nature-v2",
     type: "park",
@@ -515,8 +491,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Compusă din granit roșu de tip Rapakivi", "Cel mai înalt punct este la 86 de metri peste mare", "Găzduiește un labirint misterios din piatră", "Loc important de cuibărit pentru porumbelul de mare"],
       en: ["Composed of distinct red Rapakivi granite", "Highest point reaches 86 meters above sea level", "Features a mysterious ancient stone labyrinth", "Important breeding ground for black guillemots"],
     },
-    imageHint: "Solitary granite island of Blå Jungfrun in the blue Baltic Sea",
-  },
+    imageHint: "Solitary granite island of Blå Jungfrun in the blue Baltic Sea", image: "/poi-images/sweden-bla-jungfrun-nature-v2.webp"},
   {
     id: "sweden-lapporten-nature-v2",
     type: "valley",
@@ -534,8 +509,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Formată din vârfurile Tjuonatjåkka și Nissuntjårro", "Vârfurile depășesc înălțimea de 1.700 de metri", "Valea este situată la sud-est de Abisko", "Situl este considerat sacru de către poporul Sámi"],
       en: ["Defined by the peaks Tjuonatjåkka and Nissuntjårro", "The surrounding peaks exceed 1,700 meters in height", "Located southeast of Abisko National Park", "Regarded as a sacred site by the indigenous Sámi people"],
     },
-    imageHint: "Iconic U-shaped mountain pass Lapporten under the midnight sun",
-  },
+    imageHint: "Iconic U-shaped mountain pass Lapporten under the midnight sun", image: "/poi-images/sweden-lapporten-nature-v2.webp"},
   {
     id: "sweden-ume-river-nature-v2",
     type: "river",
@@ -553,8 +527,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Lungime totală de 470 de kilometri", "Se varsă în Golful Botnic după ce traversează orașul Umeå", "Sursă majoră de energie hidroelectrică în Suedia", "A fost o rută esențială pentru transportul buștenilor"],
       en: ["Total length of 470 kilometers", "Empties into the Gulf of Bothnia at the city of Umeå", "A major source of hydroelectric power in Sweden", "Historically significant route for timber floating"],
     },
-    imageHint: "Wide Umeälven river flowing through the city of Umeå",
-  },
+    imageHint: "Wide Umeälven river flowing through the city of Umeå", image: "/poi-images/sweden-ume-river-nature-v2.webp"},
   {
     id: "sweden-hoga-kusten-nature-v2",
     type: "landmark",
@@ -572,8 +545,7 @@ export const swedenNatureV2: POI[] = [
       ro: ["Ridicarea uscatului este de 286 de metri de la ultima glaciațiune", "Caracterizată prin faleze abrupte de granit", "Cel mai înalt punct de coastă este muntele Skuleberget", "Regiunea este celebră pentru producția de surströmming"],
       en: ["Land has risen 286 meters since the last Ice Age", "Features dramatic granite cliffs and deep inlets", "Highest coastal point is the Skuleberget mountain", "Traditional home of the fermented herring delicacy surströmming"],
     },
-    imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
-  },
+    imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea", image: "/poi-images/sweden-hoga-kusten-nature-v2.webp"},
   {
     id: "sweden-handolsforsen-nature-v2",
     type: "landmark",

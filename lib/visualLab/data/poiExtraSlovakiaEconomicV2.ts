@@ -19,8 +19,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Producția a început în anul 1991", "Singura locație care fabrică 5 mărci sub același acoperiș", "Angajează peste 10.000 de muncitori", "Dispune de o telecabină proprie pentru piese auto"],
       en: ["Production started in 1991", "The only site producing 5 brands under one roof", "Employs over 10,000 workers", "Has its own cable car for transporting car parts"],
     },
-    imageHint: "Modern car assembly line in a large industrial hall",
-  },
+    imageHint: "Modern car assembly line in a large industrial hall", image: "/poi-images/slovakia-volkswagen-bratislava-economic-v2.webp"},
   {
     id: "slovakia-slovnaft-bratislava-economic-v2",
     type: "industry",
@@ -59,8 +58,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Cunoscut anterior sub numele de VSŽ (Uzina de Fier a Slovaciei de Est)", "A fost achiziționat de compania americană în anul 2000", "Produce produse din oțel plat pentru industria auto", "Deține trei furnale mari pentru producția de fier"],
       en: ["Formerly known as VSŽ (East Slovak Ironworks)", "Acquired by the American corporation in 2000", "Produces flat-rolled steel for the automotive industry", "Operates three large blast furnaces for iron production"],
     },
-    imageHint: "Massive steel mill with glowing molten metal",
-  },
+    imageHint: "Massive steel mill with glowing molten metal", image: "/poi-images/slovakia-us-steel-kosice-economic-v2.webp"},
   {
     id: "slovakia-kia-zilina-economic-v2",
     type: "factory",
@@ -79,8 +77,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Producția a început în decembrie 2006", "Fabrică aproximativ 350.000 de vehicule anual", "Produce modelele Ceed și Sportage", "Include o fabrică proprie de motoare"],
       en: ["Production started in December 2006", "Produces approximately 350,000 vehicles annually", "Manufactures the Ceed and Sportage models", "Includes its own engine manufacturing plant"],
     },
-    imageHint: "Kia factory exterior with finished cars in the lot",
-  },
+    imageHint: "Kia factory exterior with finished cars in the lot", image: "/poi-images/slovakia-kia-zilina-economic-v2.webp"},
   {
     id: "slovakia-stellantis-trnava-economic-v2",
     type: "factory",
@@ -99,8 +96,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Producția a început în anul 2006", "Producător al modelelor Peugeot 208 și Citroën C3", "Produce și variante de vehicule complet electrice", "Exportă vehicule în peste 60 de țări din întreaga lume"],
       en: ["Production began in 2006", "Manufacturer of Peugeot 208 and Citroën C3", "Produces fully electric vehicle variants as well", "Exports vehicles to over 60 countries worldwide"],
     },
-    imageHint: "Car factory production line with robots",
-  },
+    imageHint: "Car factory production line with robots", image: "/poi-images/slovakia-stellantis-trnava-economic-v2.webp"},
   {
     id: "slovakia-jaguar-land-rover-nitra-economic-v2",
     type: "factory",
@@ -139,8 +135,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Construcția primelor blocuri a început în 1981", "Operează reactoare cu apă presurizată de tip sovietic (VVER)", "Blocul 3 a fost pus în funcțiune în anul 2022", "A acoperit până acum aproximativ 25% din necesarul de electricitate al Slovaciei"],
       en: ["Construction of the first units began in 1981", "Operates Soviet-designed pressurized water reactors (VVER)", "Unit 3 was commissioned in 2022", "Supplies about 25% of Slovakia's electricity demand"],
     },
-    imageHint: "Nuclear power plant cooling towers with steam",
-  },
+    imageHint: "Nuclear power plant cooling towers with steam", image: "/poi-images/slovakia-mochovce-power-plant-economic-v2.webp"},
   {
     id: "slovakia-jaslovske-bohunice-power-plant-economic-v2",
     type: "industry",
@@ -159,8 +154,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Primul reactor (A1) a fost pus în funcțiune în 1972", "Blocurile V1 au fost oprite după aderarea la UE", "Blocurile V2 sunt în prezent în funcțiune", "Servește și la furnizarea de căldură pentru orașul Trnava"],
       en: ["The first reactor (A1) was commissioned in 1972", "The V1 units were shut down after EU accession", "The V2 units are currently operational", "Also provides district heating for the city of Trnava"],
     },
-    imageHint: "Industrial power plant complex with cooling towers",
-  },
+    imageHint: "Industrial power plant complex with cooling towers", image: "/poi-images/slovakia-jaslovske-bohunice-power-plant-economic-v2.webp"},
   {
     id: "slovakia-gabcikovo-dam-economic-v2",
     type: "industry",
@@ -179,8 +173,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Pusă în funcțiune în anul 1992", "Produce aproximativ 8% din energia electrică a Slovaciei", "Dispune de două ecluze pentru traficul pe Dunăre", "A fost subiectul unei dispute îndelungate cu Ungaria"],
       en: ["Commissioned in 1992", "Generates about 8% of Slovakia's electricity", "Features two locks for Danube river traffic", "Was the subject of a long-standing dispute with Hungary"],
     },
-    imageHint: "Large hydroelectric dam on a wide river",
-  },
+    imageHint: "Large hydroelectric dam on a wide river", image: "/poi-images/slovakia-gabcikovo-dam-economic-v2.webp"},
   {
     id: "slovakia-mondi-scp-ruzomberok-economic-v2",
     type: "factory",
@@ -199,8 +192,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Tradiția fabricării hârtiei datează din 1880", "Unul dintre cei mai mari angajatori din regiunea Liptov", "Produce hârtie de birou și de ambalaj", "A investit masiv în tehnologii ecologice"],
       en: ["Paper manufacturing tradition dating back to 1880", "One of the largest employers in the Liptov region", "Produces office and packaging paper", "Has invested heavily in environmentally friendly technologies"],
     },
-    imageHint: "Large industrial paper mill with smoke stacks",
-  },
+    imageHint: "Large industrial paper mill with smoke stacks", image: "/poi-images/slovakia-mondi-scp-ruzomberok-economic-v2.webp"},
   {
     id: "slovakia-slovalco-ziar-nad-hronom-economic-v2",
     type: "industry",
@@ -219,8 +211,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Producția de aluminiu în locație a început în 1953", "Uzina modernizată a fost fondată în 1995", "A utilizat electroliza pentru extracția aluminiului", "A oprit producția primară în 2023 din cauza prețurilor la energie"],
       en: ["Aluminum production at the site began in 1953", "The modernized plant was established in 1995", "Utilized electrolysis for aluminum extraction", "Stopped primary production in 2023 due to energy prices"],
     },
-    imageHint: "Industrial aluminum smelting facility",
-  },
+    imageHint: "Industrial aluminum smelting facility", image: "/poi-images/slovakia-slovalco-ziar-nad-hronom-economic-v2.webp"},
   {
     id: "slovakia-continental-puchov-economic-v2",
     type: "factory",
@@ -239,8 +230,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Se bazează pe tradiția mărcii slovace Matador", "Angajează câteva mii de persoane în regiune", "Găzduiește un centru de cercetare și dezvoltare", "Produce peste 15 milioane de anvelope anual"],
       en: ["Based on the tradition of the Slovak brand Matador", "Employs several thousand workers in the region", "Houses a research and development center", "Produces over 15 million tires annually"],
     },
-    imageHint: "Stacks of new black tires in a factory warehouse",
-  },
+    imageHint: "Stacks of new black tires in a factory warehouse", image: "/poi-images/slovakia-continental-puchov-economic-v2.webp"},
   {
     id: "slovakia-zentiva-hlohovec-economic-v2",
     type: "factory",
@@ -279,8 +269,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Producția a început în anul 2002", "Cel mai mare investitor sud-coreean din Slovacia", "Fabrică televizoare QLED și Micro-LED", "Centru logistic important pentru Europa Centrală și de Est"],
       en: ["Production started in 2002", "Largest South Korean investor in Slovakia", "Manufactures QLED and Micro-LED televisions", "Key logistics hub for Central and Eastern Europe"],
     },
-    imageHint: "Large modern electronics assembly plant",
-  },
+    imageHint: "Large modern electronics assembly plant", image: "/poi-images/slovakia-samsung-galanta-economic-v2.webp"},
   {
     id: "slovakia-amazon-sered-economic-v2",
     type: "industry",
@@ -299,8 +288,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Deschis în anul 2017", "Loc de muncă pentru peste 1.000 de angajați permanenți", "Are o suprafață de peste 60.000 de metri pătrați", "Utilizează tehnologii avansate de sortare și scanare"],
       en: ["Opened in 2017", "Workplace for over 1,000 permanent employees", "Covers an area of over 60,000 square meters", "Utilizes advanced sorting and scanning technologies"],
     },
-    imageHint: "Massive modern warehouse building with many loading docks",
-  },
+    imageHint: "Massive modern warehouse building with many loading docks", image: "/poi-images/slovakia-amazon-sered-economic-v2.webp"},
   {
     id: "slovakia-whirlpool-poprad-economic-v2",
     type: "factory",
@@ -339,8 +327,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Începerea producției în anul 1998", "Specializată în compresoare eficiente energetic", "Dispune de un centru propriu de cercetare și dezvoltare", "Angajează aproximativ 2.000 de persoane"],
       en: ["Started production in 1998", "Specializes in energy-efficient compressors", "Has its own research and development center", "Employs around 2,000 workers"],
     },
-    imageHint: "Precision industrial manufacturing equipment",
-  },
+    imageHint: "Precision industrial manufacturing equipment", image: "/poi-images/slovakia-embraco-spisska-nova-ves-economic-v2.webp"},
   {
     id: "slovakia-chemosvit-svit-economic-v2",
     type: "factory",
@@ -359,8 +346,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Fondată în 1934 de compania Baťa", "Pionier în fabricarea celofanului în Europa Centrală", "Dezvoltă ambalaje flexibile pentru alimente", "Unul dintre cei mai mari angajatori de sub Munții Tatra"],
       en: ["Founded in 1934 by the Baťa company", "Pioneer in cellophane production in Central Europe", "Develops flexible packaging for the food industry", "One of the largest employers in the Sub-Tatran region"],
     },
-    imageHint: "Industrial facility for plastic film production",
-  },
+    imageHint: "Industrial facility for plastic film production", image: "/poi-images/slovakia-chemosvit-svit-economic-v2.webp"},
   {
     id: "slovakia-zeleziarne-podbrezova-economic-v2",
     type: "factory",
@@ -379,8 +365,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Fondat în anul 1840", "Exportă țevile sale în peste 50 de țări", "Deține o oțelărie proprie cu cuptor electric", "Operează o școală profesională privată de metalurgie"],
       en: ["Founded in 1840", "Exports its tubes to over 50 countries", "Operates its own steel mill with an electric furnace", "Runs a private vocational school for metallurgy"],
     },
-    imageHint: "Steel pipes stacked in an industrial facility",
-  },
+    imageHint: "Steel pipes stacked in an industrial facility", image: "/poi-images/slovakia-zeleziarne-podbrezova-economic-v2.webp"},
   {
     id: "slovakia-slovmag-lubenik-economic-v2",
     type: "mine",
@@ -399,8 +384,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Produce materiale refractare pentru industrie", "Operează o mină subterană în regiunea Gemer", "Magneziul este ars la temperaturi înalte în cuptoare verticale", "Exportator esențial pentru metalurgia globală"],
       en: ["Produces refractory materials for industry", "Operates an underground mine in the Gemer region", "Magnesite is burned at high temperatures in shaft kilns", "Essential exporter for the global metallurgical industry"],
     },
-    imageHint: "Industrial mineral mining and processing site",
-  },
+    imageHint: "Industrial mineral mining and processing site", image: "/poi-images/slovakia-slovmag-lubenik-economic-v2.webp"},
   {
     id: "slovakia-handlova-coal-mine-economic-v2",
     type: "mine",
@@ -419,8 +403,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Extracția industrială a început în anul 1909", "Cea mai veche mină de cărbune brun din țară", "A alimentat centrala electrică Nováky timp de decenii", "Încetarea mineritului în cadrul procesului de renunțare la cărbune"],
       en: ["Industrial mining began in 1909", "Oldest brown coal mine in the country", "Supplied the Nováky power plant for decades", "Mining phase-out as part of the energy transition"],
     },
-    imageHint: "Coal mining headframe and industrial buildings",
-  },
+    imageHint: "Coal mining headframe and industrial buildings", image: "/poi-images/slovakia-handlova-coal-mine-economic-v2.webp"},
   {
     id: "slovakia-ses-tlmace-economic-v2",
     type: "factory",
@@ -439,8 +422,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Specializată în echipamente complexe pentru centrale electrice", "Exportă instalații tehnologice în întreaga lume", "A furnizat componente pentru centrala nucleară Mochovce", "Are o tradiție lungă în industria grea din 1950"],
       en: ["Specializes in complex power plant equipment", "Exports technological facilities worldwide", "Supplied components for the Mochovce nuclear plant", "Has a long tradition in heavy industry since 1950"],
     },
-    imageHint: "Large industrial steel components for power plants",
-  },
+    imageHint: "Large industrial steel components for power plants", image: "/poi-images/slovakia-ses-tlmace-economic-v2.webp"},
   {
     id: "slovakia-pps-group-detva-economic-v2",
     type: "factory",
@@ -459,8 +441,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Faimoasă pentru producția de încărcătoare frontale marca UNC", "Fondată în anul 1954", "Furnizează structuri sudate pentru corporații globale", "Ancoră industrială importantă în regiunea Podpoľanie"],
       en: ["Famous for producing UNC brand wheel loaders", "Founded in 1954", "Supplies welded structures for global corporations", "Important industrial anchor in the Podpoľanie region"],
     },
-    imageHint: "Heavy construction machinery being assembled",
-  },
+    imageHint: "Heavy construction machinery being assembled", image: "/poi-images/slovakia-pps-group-detva-economic-v2.webp"},
   {
     id: "slovakia-way-industries-krupina-economic-v2",
     type: "factory",
@@ -479,8 +460,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Producător al dispozitivului de deminare Božena, cunoscut la nivel mondial", "Produce seria de încărcătoare compacte Locust", "Exportă tehnologie de apărare în multe zone de conflict", "Se bazează pe tradiția locală de construcții de mașini"],
       en: ["Manufacturer of the globally known Božena demining system", "Produces the Locust series of skid-steer loaders", "Exports defense technology to many conflict zones", "Built on the local machinery manufacturing tradition"],
     },
-    imageHint: "Specialized demining robot in a field",
-  },
+    imageHint: "Specialized demining robot in a field", image: "/poi-images/slovakia-way-industries-krupina-economic-v2.webp"},
   {
     id: "slovakia-kremnica-mint-economic-v2",
     type: "factory",
@@ -499,8 +479,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1328 de regele Ungariei", "Aici au fost bătuți celebrii ducați de Kremnica", "Produce astăzi monedele euro slovace", "Bate monede pentru multe alte țări din întreaga lume"],
       en: ["Founded in 1328 by the King of Hungary", "The famous Kremnica ducats were minted here", "Currently produces Slovak euro coins", "Mints currency for many other countries worldwide"],
     },
-    imageHint: "Golden and silver coins being minted",
-  },
+    imageHint: "Golden and silver coins being minted", image: "/poi-images/slovakia-kremnica-mint-economic-v2.webp"},
   {
     id: "slovakia-port-of-bratislava-economic-v2",
     type: "port",
@@ -519,8 +498,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Transbordarea minereurilor, cărbunelui și produselor petroliere", "Constă dintr-un port de iarnă și un nou port comercial", "Nod important pentru transportul combinat", "Conexiune cu Marea Nordului prin canalul Main-Dunăre"],
       en: ["Handles transshipment of ores, coal, and petroleum products", "Consists of a winter harbor and a newer commercial port", "Key hub for intermodal transport", "Connected to the North Sea via the Rhine-Main-Danube Canal"],
     },
-    imageHint: "River port with cranes and cargo ships on the Danube",
-  },
+    imageHint: "River port with cranes and cargo ships on the Danube", image: "/poi-images/slovakia-port-of-bratislava-economic-v2.webp"},
   {
     id: "slovakia-port-of-komarno-economic-v2",
     type: "port",
@@ -539,8 +517,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Punct important de transbordare pentru produse agricole", "Găzduiește un șantier naval important (Șantierul Naval SAM)", "Locație strategică la granița cu Ungaria", "Servește ca bază pentru întreținerea navelor fluviale"],
       en: ["Important transshipment point for agricultural products", "Home to a significant shipyard (SAM Shipyard)", "Strategically located on the border with Hungary", "Serves as a base for river vessel maintenance"],
     },
-    imageHint: "Cargo port on a river with storage silos",
-  },
+    imageHint: "Cargo port on a river with storage silos", image: "/poi-images/slovakia-port-of-komarno-economic-v2.webp"},
   {
     id: "slovakia-tatravagonka-poprad-economic-v2",
     type: "factory",
@@ -559,8 +536,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Tradiție din anul 1922", "Produce vagoane speciale pentru diverse sectoare industriale", "Angajează peste 2.000 de persoane în locația din Poprad", "Colaborează strâns cu companiile feroviare europene"],
       en: ["Tradition dating back to 1922", "Produces specialized wagons for various industrial sectors", "Employs over 2,000 workers at the Poprad site", "Works closely with European railway companies"],
     },
-    imageHint: "New freight train wagons in an industrial yard",
-  },
+    imageHint: "New freight train wagons in an industrial yard", image: "/poi-images/slovakia-tatravagonka-poprad-economic-v2.webp"},
   {
     id: "slovakia-smurfit-kappa-sturovo-economic-v2",
     type: "factory",
@@ -579,8 +555,7 @@ export const slovakiaEconomicV2: POI[] = [
       ro: ["Cunoscut anterior sub numele de Juhoslovenské celulózky a papierne", "Mare producător de hârtie pentru carton ondulat din materiale reciclate", "Furnizează soluții de ambalare pentru industria agricolă", "Angajator important în sudul Slovaciei"],
       en: ["Formerly known as Juhoslovenské celulózky a papierne", "Major producer of recycled containerboard", "Provides packaging solutions for the agricultural industry", "Significant employer in southern Slovakia"],
     },
-    imageHint: "Industrial paper production rolls in a factory",
-  },
+    imageHint: "Industrial paper production rolls in a factory", image: "/poi-images/slovakia-smurfit-kappa-sturovo-economic-v2.webp"},
   {
     id: "slovakia-bsh-michalovce-economic-v2",
     type: "factory",

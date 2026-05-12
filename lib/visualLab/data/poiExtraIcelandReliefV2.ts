@@ -19,8 +19,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Cel mai înalt punct din Islanda (2110 m)", "Face parte din vulcanul Öræfajökull", "Situat în Parcul Național Vatnajökull", "Destinație populară pentru drumeții pe ghețar"],
       en: ["Highest point in Iceland (2110 m)", "Part of the Öræfajökull glacier volcano", "Located in Vatnajökull National Park", "Popular destination for glacier hiking"],
     },
-    imageHint: "Hvannadalshnúkur peak covered in snow",
-  },
+    imageHint: "Hvannadalshnúkur peak covered in snow", image: "/poi-images/iceland-hvannadalshnukur-relief-v2.webp"},
   {
     id: "iceland-herdubreid-relief-v2",
     type: "mountain",
@@ -39,8 +38,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Înălțime de 1682 de metri", "Format prin erupție subglaciară", "Votat muntele național în 1956", "Situat în pustiul Ódáðahraun"],
       en: ["Elevation of 1682 meters", "Formed by a subglacial eruption", "Voted national mountain in 1956", "Located in the Ódáðahraun desert"],
     },
-    imageHint: "Herðubreið table mountain in the highlands",
-  },
+    imageHint: "Herðubreið table mountain in the highlands", image: "/poi-images/iceland-herdubreid-relief-v2.webp"},
   {
     id: "iceland-esja-relief-v2",
     type: "mountain",
@@ -59,8 +57,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Punctul maxim are 914 metri", "Muntele de referință al orașului Reykjavík", "Format în Pliocenul târziu", "Vechime de peste 7 milioane de ani"],
       en: ["Highest point is 914 meters", "The mountain of Reykjavík city", "Formed during the late Pliocene", "Over 7 million years old"],
     },
-    imageHint: "Esja mountain range seen from Reykjavik",
-  },
+    imageHint: "Esja mountain range seen from Reykjavik", image: "/poi-images/iceland-esja-relief-v2.webp"},
   {
     id: "iceland-kerlingarfjoll-relief-v2",
     type: "mountain",
@@ -79,8 +76,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Vârful maxim are 1477 metri", "Compus în principal din riolit", "Găzduiește zona geotermală Hveradalir", "Numele înseamnă Munții Femeii Bătrâne"],
       en: ["Highest peak is 1477 meters", "Composed mainly of rhyolite", "Home to Hveradalir geothermal area", "Name translates to Old Woman's Mountains"],
     },
-    imageHint: "Kerlingarfjöll rhyolite mountains and steam",
-  },
+    imageHint: "Kerlingarfjöll rhyolite mountains and steam", image: "/poi-images/iceland-kerlingarfjoll-relief-v2.webp"},
   {
     id: "iceland-latrabjarg-relief-v2",
     type: "landmark",
@@ -99,8 +95,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Cel mai vestic punct al Islandei", "Înălțime de până la 441 metri", "Găzduiește milioane de pufini", "Locul unei salvări maritime celebre în 1947"],
       en: ["Westernmost point of Iceland", "Up to 441 meters high", "Home to millions of Atlantic puffins", "Site of a famous 1947 shipwreck rescue"],
     },
-    imageHint: "Látrabjarg bird cliffs and puffins",
-  },
+    imageHint: "Látrabjarg bird cliffs and puffins", image: "/poi-images/iceland-latrabjarg-relief-v2.webp"},
   {
     id: "iceland-almannagja-relief-v2",
     type: "landmark",
@@ -119,8 +114,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Parte a Dorsalei Medio-Atlantice", "Locul parlamentului istoric", "Patrimoniu UNESCO din 2004", "Falie cu o lungime de 7,7 km"],
       en: ["Part of the Mid-Atlantic Ridge", "Site of the historic Althing parliament", "UNESCO World Heritage site since 2004", "7.7 km long fissure"],
     },
-    imageHint: "Almannagjá fissure in Þingvellir National Park",
-  },
+    imageHint: "Almannagjá fissure in Þingvellir National Park", image: "/poi-images/iceland-almannagja-relief-v2.webp"},
   {
     id: "iceland-baula-relief-v2",
     type: "peak",
@@ -139,8 +133,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Înălțime de 934 metri", "Vechime de peste 3 milioane de ani", "O intruziune vulcanică tipică", "Pante foarte abrupte"],
       en: ["Elevation of 934 meters", "Over 3 million years old", "A typical volcanic intrusion", "Very steep slopes"],
     },
-    imageHint: "Baula conical rhyolite mountain",
-  },
+    imageHint: "Baula conical rhyolite mountain", image: "/poi-images/iceland-baula-relief-v2.webp"},
   {
     id: "iceland-thorsmork-relief-v2",
     type: "valley",
@@ -159,8 +152,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Poartă numele zeului Thor", "Închisă de trei ghețari masivi", "Cea mai populară zonă de drumeții", "Accesibilă doar cu vehicule 4x4"],
       en: ["Named after the god Thor", "Enclosed by major glaciers", "Most popular hiking area in Iceland", "Accessible only via 4x4 vehicles"],
     },
-    imageHint: "Þórsmörk valley landscape with glaciers",
-  },
+    imageHint: "Þórsmörk valley landscape with glaciers", image: "/poi-images/iceland-thorsmork-relief-v2.webp"},
   {
     id: "iceland-fimmvorduhals-relief-v2",
     type: "landmark",
@@ -179,8 +171,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Înălțimea trecătorii cca. 1100 m", "Traseu de drumeție celebru", "Două cratere noi: Magni și Móði", "Conectează Skógar cu Þórsmörk"],
       en: ["Pass elevation around 1100 meters", "Famous hiking route", "Two new craters: Magni and Móði", "Connects Skógar to Þórsmörk"],
     },
-    imageHint: "Fimmvörðuháls mountain pass hiking trail",
-  },
+    imageHint: "Fimmvörðuháls mountain pass hiking trail", image: "/poi-images/iceland-fimmvorduhals-relief-v2.webp"},
   {
     id: "iceland-dimmuborgir-relief-v2",
     type: "landmark",
@@ -199,8 +190,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Format acum aproximativ 2300 de ani", "Kirkjan (Biserica) este cea mai faimoasă peșteră", "Casa simbolică a celor 13 Yule Lads", "Zonă protejată UNESCO"],
       en: ["Formed around 2300 years ago", "Kirkjan (The Church) is the most famous cave", "Mythical home of the 13 Yule Lads", "UNESCO protected area"],
     },
-    imageHint: "Dimmuborgir dark lava formations",
-  },
+    imageHint: "Dimmuborgir dark lava formations", image: "/poi-images/iceland-dimmuborgir-relief-v2.webp"},
   {
     id: "iceland-vatnajokull-plateau-relief-v2",
     type: "mountain",
@@ -219,8 +209,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Cel mai mare ghețar din Europa după volum", "Grosimea medie a gheții este de 400 m", "Adăpostește vulcanul Grímsvötn", "Parc Național din 2008"],
       en: ["Largest glacier in Europe by volume", "Average ice thickness is 400 meters", "Harbors the Grímsvötn volcano", "National Park status since 2008"],
     },
-    imageHint: "Vatnajökull glacier ice cap wide view",
-  },
+    imageHint: "Vatnajökull glacier ice cap wide view", image: "/poi-images/iceland-vatnajokull-plateau-relief-v2.webp"},
   {
     id: "iceland-bardarbunga-relief-v2",
     type: "peak",
@@ -239,8 +228,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Înălțime de 2009 metri", "Caldera are o adâncime de 700 m", "Ultima erupție majoră în 2014-2015", "Parte dintr-un sistem vulcanic de 200 km"],
       en: ["Elevation of 2009 meters", "Caldera is 700 meters deep", "Last major eruption in 2014-2015", "Part of a 200 km long volcanic system"],
     },
-    imageHint: "Bárðarbunga volcano under glacier",
-  },
+    imageHint: "Bárðarbunga volcano under glacier", image: "/poi-images/iceland-bardarbunga-relief-v2.webp"},
   {
     id: "iceland-oraefajokull-relief-v2",
     type: "mountain",
@@ -259,8 +247,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Cel mai mare vulcan activ din țară", "Erupție masivă în anul 1362", "Numele înseamnă ghețarul pustiului", "Diametrul bazei este de cca. 20 km"],
       en: ["Largest erupting volcano in the country", "Massive eruption occurred in 1362", "Name translates to Wasteland Glacier", "Base diameter is approximately 20 km"],
     },
-    imageHint: "Öræfajökull glacier volcano massif",
-  },
+    imageHint: "Öræfajökull glacier volcano massif", image: "/poi-images/iceland-oraefajokull-relief-v2.webp"},
   {
     id: "iceland-hofsjokull-relief-v2",
     type: "mountain",
@@ -279,8 +266,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Suprafață de cca. 925 km²", "Punctul maxim la 1765 metri", "Sursa mai multor râuri mari", "Formă aproape circulară"],
       en: ["Area of approximately 925 sq km", "Highest point is 1765 meters", "Source of several major rivers", "Almost circular in shape"],
     },
-    imageHint: "Hofsjökull glacier aerial view",
-  },
+    imageHint: "Hofsjökull glacier aerial view", image: "/poi-images/iceland-hofsjokull-relief-v2.webp"},
   {
     id: "iceland-langjokull-relief-v2",
     type: "mountain",
@@ -299,8 +285,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Suprafață de aproximativ 950 km²", "Punctul maxim are 1450 metri", "Alimentează cascada Gullfoss", "Adăpostește două sisteme vulcanice"],
       en: ["Area of approximately 950 sq km", "Highest point is 1450 meters", "Feeds the Gullfoss waterfall", "Contains two volcanic systems"],
     },
-    imageHint: "Langjökull glacier snowmobile tour",
-  },
+    imageHint: "Langjökull glacier snowmobile tour", image: "/poi-images/iceland-langjokull-relief-v2.webp"},
   {
     id: "iceland-myrdalsjokull-relief-v2",
     type: "mountain",
@@ -319,8 +304,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Al patrulea ghețar din Islanda", "Suprafață de cca. 595 km²", "Cea mai ploioasă regiune din țară", "Limba glaciară Sólheimajökull este celebră"],
       en: ["Fourth-largest glacier in Iceland", "Area of about 595 sq km", "Wettest region in Iceland", "Sólheimajökull outlet is popular for tours"],
     },
-    imageHint: "Mýrdalsjökull glacier edge and black sand",
-  },
+    imageHint: "Mýrdalsjökull glacier edge and black sand", image: "/poi-images/iceland-myrdalsjokull-relief-v2.webp"},
   {
     id: "iceland-eyjafjallajokull-relief-v2",
     type: "mountain",
@@ -339,8 +323,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Înălțime de 1651 de metri", "Numele înseamnă Ghețarul Munților Insulă", "Erupția din 2010 a durat săptămâni", "Unul dintre sistemele vulcanice mai vechi"],
       en: ["Elevation of 1651 meters", "Name means Island-Mountain Glacier", "2010 eruption lasted for weeks", "One of the older volcanic systems"],
     },
-    imageHint: "Eyjafjallajökull volcano eruption clouds",
-  },
+    imageHint: "Eyjafjallajökull volcano eruption clouds", image: "/poi-images/iceland-eyjafjallajokull-relief-v2.webp"},
   {
     id: "iceland-drangajokull-relief-v2",
     type: "mountain",
@@ -359,8 +342,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Punctul maxim la 925 metri", "Singurul ghețar din Westfjords", "Suprafață de cca. 160 km²", "Cea mai rece climă din Islanda"],
       en: ["Highest point is 925 meters", "Only glacier in the Westfjords", "Area of approximately 160 sq km", "Coldest climate region in Iceland"],
     },
-    imageHint: "Drangajökull glacier landscape Westfjords",
-  },
+    imageHint: "Drangajökull glacier landscape Westfjords", image: "/poi-images/iceland-drangajokull-relief-v2.webp"},
   {
     id: "iceland-burfell-relief-v2",
     type: "peak",
@@ -379,8 +361,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Înălțime de 669 metri", "Munte de bazalt cu vârf plat", "Locul unui parc eolian major", "Oferă vedere spre vulcanul Hekla"],
       en: ["Elevation of 669 meters", "Basaltic table mountain", "Site of a major wind farm", "Offers a clear view of Hekla volcano"],
     },
-    imageHint: "Búrfell table mountain in south Iceland",
-  }
+    imageHint: "Búrfell table mountain in south Iceland", image: "/poi-images/iceland-burfell-relief-v2.webp"}
 ,
   {
     id: "iceland-skjaldbreidur-relief-v2",
@@ -418,8 +399,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Punct maxim: 702 metri", "Zonă populară de schi", "Compus din vulcani platou", "Lângă peștera de lavă Leidarendi"],
       en: ["Highest point: 702 meters", "Popular Icelandic ski resort", "Composed of table mountains", "Near Leidarendi lava tube"],
     },
-    imageHint: "Blafjoll mountains winter landscape",
-  },
+    imageHint: "Blafjoll mountains winter landscape", image: "/poi-images/iceland-blafjoll-relief-v2.webp"},
   {
     id: "iceland-eiriksjokull-relief-v2",
     type: "peak",
@@ -437,8 +417,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Altitudine: 1.675 metri", "Suprafață: 40 km²", "Domină câmpul de lavă Hallmundarhraun", "Format sub un ghețar"],
       en: ["Elevation: 1,675 meters", "Area: 40 square kilometers", "Towers over Hallmundarhraun", "Formed during subglacial eruptions"],
     },
-    imageHint: "Eiriksjokull table mountain Iceland",
-  },
+    imageHint: "Eiriksjokull table mountain Iceland", image: "/poi-images/iceland-eiriksjokull-relief-v2.webp"},
   {
     id: "iceland-torfajokull-relief-v2",
     type: "mountain",
@@ -456,8 +435,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: 1.190 metri", "Cea mai mare zonă de riolit", "Include Landmannalaugar", "Conține o calderă de 12x18 km"],
       en: ["Highest peak: 1.190 meters", "Largest rhyolite area in Iceland", "Encompasses Landmannalaugar", "Contains a 12x18 km caldera"],
     },
-    imageHint: "Torfajokull rhyolite mountains landscape",
-  },
+    imageHint: "Torfajokull rhyolite mountains landscape", image: "/poi-images/iceland-torfajokull-relief-v2.webp"},
   {
     id: "iceland-kverkfjoll-relief-v2",
     type: "mountain",
@@ -475,8 +453,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Altitudine: 1.920 metri", "Sistem vulcanic activ", "Cunoscut pentru izvoare calde sub gheață", "Adiacent limbii glaciare Kverkjökull"],
       en: ["Elevation: 1,920 meters", "Active volcanic system", "Famous for hot springs under ice", "Bordered by Kverkjökull glacier"],
     },
-    imageHint: "Kverkfjoll mountains and ice caves",
-  },
+    imageHint: "Kverkfjoll mountains and ice caves", image: "/poi-images/iceland-kverkfjoll-relief-v2.webp"},
   {
     id: "iceland-hengill-relief-v2",
     type: "mountain",
@@ -494,8 +471,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Punct maxim: 803 metri", "Suprafață: aprox. 100 km²", "Ultima erupție acum 2.000 de ani", "Numeroase trasee de drumeție"],
       en: ["Highest point: 803 meters", "Area: approx. 100 sq km", "Last erupted 2,000 years ago", "Extensive network of hiking trails"],
     },
-    imageHint: "Hengill mountain geothermal steam",
-  },
+    imageHint: "Hengill mountain geothermal steam", image: "/poi-images/iceland-hengill-relief-v2.webp"},
   {
     id: "iceland-snaefell-east-relief-v2",
     type: "peak",
@@ -513,8 +489,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Altitudine: 1.833 metri", "Vulcan central solitar", "Adesea înzăpezit vara", "Habitat important pentru reni"],
       en: ["Elevation: 1,833 meters", "Solitary central volcano", "Often snow-capped in summer", "Important habitat for reindeer"],
     },
-    imageHint: "Snaefell mountain East Iceland",
-  },
+    imageHint: "Snaefell mountain East Iceland", image: "/poi-images/iceland-snaefell-east-relief-v2.webp"},
   {
     id: "iceland-maelifell-relief-v2",
     type: "peak",
@@ -532,8 +507,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Altitudine: 791 metri", "Compus din palagonit", "Situat pe câmpia Mælifellssandur", "Format inițial sub un ghețar"],
       en: ["Elevation: 791 meters", "Composed of palagonite", "Located on Mælifellssandur plain", "Formed under a glacier"],
     },
-    imageHint: "Maelifell green volcano cone",
-  },
+    imageHint: "Maelifell green volcano cone", image: "/poi-images/iceland-maelifell-relief-v2.webp"},
   {
     id: "iceland-thrihnukagigur-relief-v2",
     type: "peak",
@@ -551,8 +525,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Adâncimea camerei: 213 metri", "Ultima erupție: acum 4.000 de ani", "Depozite minerale colorate pe pereți", "Numele înseamnă 'Craterul cu trei vârfuri'"],
       en: ["Chamber depth: 213 meters", "Last erupted: 4,000 years ago", "Colorful mineral stains on walls", "Name means 'Three Peaks Crater'"],
     },
-    imageHint: "Thrihnukagigur magma chamber interior",
-  },
+    imageHint: "Thrihnukagigur magma chamber interior", image: "/poi-images/iceland-thrihnukagigur-relief-v2.webp"},
   {
     id: "iceland-kaldidalur-relief-v2",
     type: "valley",
@@ -570,8 +543,7 @@ export const icelandReliefV2: POI[] = [
       ro: ["Punct maxim: 727 metri", "Numele înseamnă 'Valea Rece'", "Rută istorică nord-sud importantă", "Înconjurată de ghețari și lavă"],
       en: ["Highest point: 727 meters", "Name means 'Cold Valley'", "Important historical north-south route", "Surrounded by glaciers and lava"],
     },
-    imageHint: "Kaldidalur highland road landscape",
-  },
+    imageHint: "Kaldidalur highland road landscape", image: "/poi-images/iceland-kaldidalur-relief-v2.webp"},
   {
     id: "iceland-oksnadalsheidi-relief-v2",
     type: "mountain",

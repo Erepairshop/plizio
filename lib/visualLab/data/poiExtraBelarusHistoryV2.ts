@@ -31,8 +31,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-mir-castle-history-v2.webp"},
   {
     id: "belarus-nesvizh-castle-history-v2",
     type: "palace",
@@ -63,8 +62,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-nesvizh-castle-history-v2.webp"},
   {
     id: "belarus-brest-fortress-history-v2",
     type: "monument",
@@ -95,8 +93,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-brest-fortress-history-v2.webp"},
   {
     id: "belarus-khatyn-memorial-history-v2",
     type: "monument",
@@ -127,8 +124,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-khatyn-memorial-history-v2.webp"},
   {
     id: "belarus-polotsk-st-sophia-history-v2",
     type: "cathedral",
@@ -191,8 +187,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-stalin-line-history-v2.webp"},
   {
     id: "belarus-hrodna-old-castle-history-v2",
     type: "castle",
@@ -223,8 +218,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-hrodna-old-castle-history-v2.webp"},
   {
     id: "belarus-lida-castle-history-v2",
     type: "castle",
@@ -287,8 +281,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-kosava-castle-history-v2.webp"},
   {
     id: "belarus-ruzhany-palace-history-v2",
     type: "ruins",
@@ -319,8 +312,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-ruzhany-palace-history-v2.webp"},
   {
     id: "belarus-gomel-palace-history-v2",
     type: "palace",
@@ -351,8 +343,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-gomel-palace-history-v2.webp"},
   {
     id: "belarus-turov-ancient-history-v2",
     type: "ruins",
@@ -383,8 +374,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-turov-ancient-history-v2.webp"},
   {
     id: "belarus-berestye-archeology-history-v2",
     type: "museum",
@@ -415,8 +405,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-berestye-archeology-history-v2.webp"},
   {
     id: "belarus-krevo-castle-ruins-history-v2",
     type: "ruins",
@@ -447,8 +436,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-krevo-castle-ruins-history-v2.webp"},
   {
     id: "belarus-novogrudok-castle-history-v2",
     type: "ruins",
@@ -511,8 +499,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-halshany-castle-history-v2.webp"},
   {
     id: "belarus-minsk-upper-town-history-v2",
     type: "city",
@@ -639,8 +626,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-synkavichy-church-history-v2.webp"},
   {
     id: "belarus-babruysk-fortress-history-v2",
     type: "battlefield",
@@ -671,8 +657,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-babruysk-fortress-history-v2.webp"},
   {
     id: "belarus-luzhany-castle-history-v2",
     type: "castle",
@@ -703,8 +688,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-luzhany-castle-history-v2.webp"},
   {
     id: "belarus-bykhaw-fortress-history-v2",
     type: "ruins",
@@ -735,8 +719,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-bykhaw-fortress-history-v2.webp"},
   {
     id: "belarus-zaslawye-museum-history-v2",
     type: "ruins",
@@ -767,8 +750,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-zaslawye-museum-history-v2.webp"},
   {
     id: "belarus-pinsk-collegium-history-v2",
     type: "university",
@@ -799,8 +781,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-pinsk-collegium-history-v2.webp"},
   {
     id: "belarus-muravanka-church-history-v2",
     type: "church",
@@ -831,8 +812,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-muravanka-church-history-v2.webp"},
   {
     id: "belarus-berezina-battlefield-history-v2",
     type: "battlefield",
@@ -863,8 +843,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-berezina-battlefield-history-v2.webp"},
   {
     id: "belarus-slutsk-belts-history-v2",
     type: "city",
@@ -929,8 +908,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-zhirovichi-monastery-history-v2.webp"},
   {
     id: "belarus-novogrudok-hill-history-v2",
     type: "ruins",
@@ -961,8 +939,7 @@ export const belarusHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-novogrudok-hill-history-v2.webp"},
   {
     id: "belarus-lida-fortress-history-v2",
     type: "castle",

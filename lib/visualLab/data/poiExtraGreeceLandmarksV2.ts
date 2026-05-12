@@ -19,8 +19,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Inclusă în Patrimoniul Mondial UNESCO în 1987", "Situată la aproximativ 150 de metri deasupra nivelului mării", "Majoritatea structurilor au fost ridicate sub conducerea lui Pericle", "A suferit daune majore în timpul Războiului Peloponesiac"],
       en: ["Designated as a UNESCO World Heritage site in 1987", "Situated approximately 150 meters above sea level", "Most structures were built under the leadership of Pericles", "Damaged significantly during the Peloponnesian War"],
     },
-    imageHint: "Aerial view of the Acropolis hill in Athens at sunset",
-  },
+    imageHint: "Aerial view of the Acropolis hill in Athens at sunset", image: "/poi-images/greece-acropolis-athens-landmarks-v2.webp"},
   {
     id: "greece-temple-hephaestus-landmarks-v2",
     type: "landmark",
@@ -39,8 +38,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construcția a început în jurul anului 449 î.Hr.", "A servit drept biserică creștină începând cu secolul al VII-lea", "Hefaistos era zeul meșteșugului metalelor și al focului", "Templul are un număr total de 34 de coloane dorice"],
       en: ["Construction began around 449 BC", "Served as a Christian church starting in the 7th century", "Hephaestus was the god of metalworking and fire", "The temple features a total of 34 Doric columns"],
     },
-    imageHint: "The Temple of Hephaestus in Athens surrounded by trees",
-  },
+    imageHint: "The Temple of Hephaestus in Athens surrounded by trees", image: "/poi-images/greece-temple-hephaestus-landmarks-v2.webp"},
   {
     id: "greece-panathenaic-stadium-landmarks-v2",
     type: "landmark",
@@ -59,8 +57,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construit inițial în secolul al IV-lea î.Hr.", "Are o capacitate de aproximativ 50.000 de spectatori", "Renovat complet pentru Jocurile Olimpice din 1896", "Găzduiește tradițional ceremonia de predare a flăcării olimpice"],
       en: ["Originally built in the 4th century BC", "Capacity of approximately 50,000 spectators", "Fully reconstructed for the 1896 Olympic Games", "Traditional site of the Olympic flame handover ceremony"],
     },
-    imageHint: "Wide view of the marble Panathenaic Stadium in Athens",
-  },
+    imageHint: "Wide view of the marble Panathenaic Stadium in Athens", image: "/poi-images/greece-panathenaic-stadium-landmarks-v2.webp"},
   {
     id: "greece-temple-olympian-zeus-landmarks-v2",
     type: "ruins",
@@ -79,8 +76,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construcția a început în secolul al VI-lea î.Hr.", "Din cele 104 coloane corintice originale, mai stau în picioare 15", "Coloanele au o înălțime de aproximativ 17 metri", "A fost cândva cel mai mare templu din întreaga Grecie"],
       en: ["Construction began in the 6th century BC", "Only 15 of the original 104 Corinthian columns remain standing", "The columns are approximately 17 meters high", "Once the largest temple in all of Greece"],
     },
-    imageHint: "Standing Corinthian columns of the Temple of Olympian Zeus",
-  },
+    imageHint: "Standing Corinthian columns of the Temple of Olympian Zeus", image: "/poi-images/greece-temple-olympian-zeus-landmarks-v2.webp"},
   {
     id: "greece-odeon-herodes-atticus-landmarks-v2",
     type: "theater",
@@ -99,8 +95,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Finalizat în anul 161 d.Hr.", "Are o capacitate de aproximativ 5.000 de locuri", "Restaurat parțial în anii 1950", "Este folosit și astăzi ca loc de desfășurare pentru Festivalul Atenei"],
       en: ["Completed in 161 AD", "Has a seating capacity of about 5,000 people", "Underwent significant restoration in the 1950s", "Still used today as a venue for the Athens Festival"],
     },
-    imageHint: "Stone theater of Herodes Atticus seen from above",
-  },
+    imageHint: "Stone theater of Herodes Atticus seen from above", image: "/poi-images/greece-odeon-herodes-atticus-landmarks-v2.webp"},
   {
     id: "greece-tower-winds-landmarks-v2",
     type: "tower",
@@ -119,8 +114,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construit în secolul al II-lea sau I î.Hr.", "A servit drept cadran solar, ceas cu apă și giruetă", "Turnul are o înălțime de aproximativ 12 metri", "Fiecare latură are un relief reprezentând una dintre cele opt zeități ale vântului"],
       en: ["Built in the 2nd or 1st century BC", "Served as a sundial, water clock, and wind vane", "The tower stands approximately 12 meters high", "Each side features a relief of one of the eight wind deities"],
     },
-    imageHint: "Octagonal structure of the Tower of the Winds in Athens",
-  },
+    imageHint: "Octagonal structure of the Tower of the Winds in Athens", image: "/poi-images/greece-tower-winds-landmarks-v2.webp"},
   {
     id: "greece-rotunda-thessaloniki-landmarks-v2",
     type: "landmark",
@@ -139,8 +133,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construită în anul 306 d.Hr.", "Zidurile au o grosime de peste 6 metri", "Face parte din Patrimoniul Mondial UNESCO", "Găzduiește mozaicuri impresionante din secolul al IV-lea"],
       en: ["Constructed in 306 AD", "The walls are over 6 meters thick", "Part of the UNESCO World Heritage early Christian monuments", "Contains impressive mosaics dating back to the 4th century"],
     },
-    imageHint: "Circular Roman Rotunda building in Thessaloniki",
-  },
+    imageHint: "Circular Roman Rotunda building in Thessaloniki", image: "/poi-images/greece-rotunda-thessaloniki-landmarks-v2.webp"},
   {
     id: "greece-lindos-acropolis-landmarks-v2",
     type: "ruins",
@@ -159,8 +152,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Adăpostește templul doric al Atenei Lindia", "Fortificația actuală datează din secolul al XIV-lea", "Situată pe o stâncă înaltă de 116 metri", "Cea mai vizitată acropolă din Grecia după cea din Atena"],
       en: ["Features the Doric Temple of Athena Lindia", "The current fortress dates back to the 14th century", "Situated on a 116-meter high rock cliff", "Second most visited acropolis in Greece after Athens"],
     },
-    imageHint: "Acropolis of Lindos ruins on top of a hill by the sea",
-  },
+    imageHint: "Acropolis of Lindos ruins on top of a hill by the sea", image: "/poi-images/greece-lindos-acropolis-landmarks-v2.webp"},
   {
     id: "greece-fortezza-rethymno-landmarks-v2",
     type: "castle",
@@ -179,8 +171,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construcția a durat din 1573 până în 1580", "În interiorul zidurilor se află Moscheea Ibrahim Han", "Situată pe dealul Paleokastro", "Una dintre cele mai bine conservate fortificații venețiene"],
       en: ["Construction lasted from 1573 to 1580", "Features the Ibrahim Han Mosque inside the walls", "Located on the Paleokastro hill", "One of the best preserved Venetian fortifications"],
     },
-    imageHint: "Venetian fortress walls of Rethymno overlooking the city",
-  },
+    imageHint: "Venetian fortress walls of Rethymno overlooking the city", image: "/poi-images/greece-fortezza-rethymno-landmarks-v2.webp"},
   {
     id: "greece-temple-apollo-delphi-landmarks-v2",
     type: "ruins",
@@ -199,8 +190,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Ruinele actuale datează din secolul al IV-lea î.Hr.", "Construit în stil arhitectural doric", "Aici Pythia își rostea profețiile", "Face parte din situl UNESCO de la Delfi"],
       en: ["The visible ruins date mostly from the 4th century BC", "Built in the Doric architectural style", "Where the Pythia delivered her famous oracles", "Part of the Delphi UNESCO World Heritage site"],
     },
-    imageHint: "Doric columns of the Temple of Apollo in Delphi",
-  },
+    imageHint: "Doric columns of the Temple of Apollo in Delphi", image: "/poi-images/greece-temple-apollo-delphi-landmarks-v2.webp"},
   {
     id: "greece-tholos-delphi-landmarks-v2",
     type: "landmark",
@@ -219,8 +209,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construit între anii 380 și 360 î.Hr.", "Templul avea inițial 20 de coloane dorice exterioare", "Doar trei coloane au fost restaurate și stau acum în picioare", "Arhitectul a fost probabil Theodoros din Phocaea"],
       en: ["Built between 380 and 360 BC", "The temple originally had 20 outer Doric columns", "Only three columns have been restored and stand today", "The architect was likely Theodoros of Phocaea"],
     },
-    imageHint: "The circular Tholos structure at Delphi Sanctuary",
-  },
+    imageHint: "The circular Tholos structure at Delphi Sanctuary", image: "/poi-images/greece-tholos-delphi-landmarks-v2.webp"},
   {
     id: "greece-epidaurus-theatre-landmarks-v2",
     type: "theater",
@@ -239,8 +228,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construit în secolul al IV-lea î.Hr.", "Poate găzdui până la 14.000 de spectatori", "O monedă scăpată se aude până în ultimul rând", "Este folosit și astăzi pentru spectacole de teatru antic"],
       en: ["Built in the 4th century BC", "Can accommodate up to 14,000 spectators", "A dropped coin can be heard even in the last row", "Still used today for performances of ancient drama"],
     },
-    imageHint: "Ancient semicircular stone theater of Epidaurus",
-  },
+    imageHint: "Ancient semicircular stone theater of Epidaurus", image: "/poi-images/greece-epidaurus-theatre-landmarks-v2.webp"},
   {
     id: "greece-lion-gate-mycenae-landmarks-v2",
     type: "monument",
@@ -259,8 +247,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construită în jurul anului 1250 î.Hr.", "Cea mai veche operă monumentală de sculptură din Europa", "Figurile leilor au o înălțime de aproximativ 3 metri", "Poarta este realizată din blocuri masive de piatră ciclopiană"],
       en: ["Erected around 1250 BC", "Oldest monumental sculpture work in Europe", "The lion figures stand about 3 meters tall", "The gate is built of massive cyclopean stone blocks"],
     },
-    imageHint: "The ancient Lion Gate entrance at Mycenae",
-  },
+    imageHint: "The ancient Lion Gate entrance at Mycenae", image: "/poi-images/greece-lion-gate-mycenae-landmarks-v2.webp"},
   {
     id: "greece-great-meteoron-landmarks-v2",
     type: "church",
@@ -279,8 +266,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Fondată în secolul al XIV-lea", "Situată la o altitudine de 613 metri", "Adăpostește manuscrise și icoane valoroase", "În trecut era accesibilă doar prin scări de frânghie sau plase"],
       en: ["Founded in the 14th century", "Situated at an altitude of 613 meters", "Houses valuable manuscripts and religious icons", "Used to be accessible only via rope ladders or nets"],
     },
-    imageHint: "Monastery built on top of a giant rock pillar in Meteora",
-  },
+    imageHint: "Monastery built on top of a giant rock pillar in Meteora", image: "/poi-images/greece-great-meteoron-landmarks-v2.webp"},
   {
     id: "greece-rousanou-monastery-landmarks-v2",
     type: "church",
@@ -299,8 +285,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construită în forma actuală în secolul al XVI-lea", "Dedicată Sfintei Varvara", "A devenit mănăstire de maici în anul 1988", "Conectată de stâncile învecinate prin poduri"],
       en: ["Built in its current form in the 16th century", "Dedicated to Saint Barbara", "Became a nunnery in 1988", "Connected to neighboring rocks by bridges"],
     },
-    imageHint: "The Monastery of Rousanou perched on a steep rock in Meteora",
-  },
+    imageHint: "The Monastery of Rousanou perched on a steep rock in Meteora", image: "/poi-images/greece-rousanou-monastery-landmarks-v2.webp"},
   {
     id: "greece-castle-monemvasia-landmarks-v2",
     type: "castle",
@@ -319,8 +304,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Fondată în secolul al VI-lea de către bizantini", "Are un oraș de jos și un oraș de sus inexpugnabil", "Cunoscută sub numele de 'Gibraltarul Estului'", "Biserica Agia Sophia este situată în cel mai înalt punct"],
       en: ["Founded in the 6th century by the Byzantines", "Features a lower town and an impregnable upper town", "Known as the 'Gibraltar of the East'", "The church of Agia Sophia sits at the highest point"],
     },
-    imageHint: "Medieval town of Monemvasia on a rock island",
-  },
+    imageHint: "Medieval town of Monemvasia on a rock island", image: "/poi-images/greece-castle-monemvasia-landmarks-v2.webp"},
   {
     id: "greece-achilleion-palace-landmarks-v2",
     type: "palace",
@@ -339,8 +323,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Finalizat în anul 1890", "Grădina conține celebra statuie a lui 'Ahile murind'", "Cumpărat ulterior de împăratul german Wilhelm al II-lea", "A servit drept spital militar în Primul Război Mondial"],
       en: ["Completed in 1890", "The gardens feature the famous 'Dying Achilles' statue", "Later purchased by German Kaiser Wilhelm II", "Served as a military hospital during World War I"],
     },
-    imageHint: "Neoclassical Achilleion Palace and statues on Corfu",
-  },
+    imageHint: "Neoclassical Achilleion Palace and statues on Corfu", image: "/poi-images/greece-achilleion-palace-landmarks-v2.webp"},
   {
     id: "greece-old-fortress-corfu-landmarks-v2",
     type: "castle",
@@ -359,8 +342,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Extinsă de venețieni în secolul al XV-lea", "Separată de uscat printr-un canal artificial (Contrafossa)", "Adăpostește biserica Sfântul Gheorghe în stil doric", "A rezistat cu succes mai multor asedii otomane"],
       en: ["Expanded by the Venetians in the 15th century", "Separated from the mainland by a sea-water moat (Contrafossa)", "Houses the Church of Saint George built in Doric style", "Successfully withstood several Ottoman sieges"],
     },
-    imageHint: "Venetian Old Fortress of Corfu on a peninsula",
-  },
+    imageHint: "Venetian Old Fortress of Corfu on a peninsula", image: "/poi-images/greece-old-fortress-corfu-landmarks-v2.webp"},
   {
     id: "greece-rio-antirrio-bridge-landmarks-v2",
     type: "bridge",
@@ -379,8 +361,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Deschis în anul 2004, chiar înainte de Jocurile Olimpice", "Are o lungime totală de 2.880 de metri", "Proiectat să reziste la cutremure puternice", "Susținut de patru piloni masivi"],
       en: ["Opened in 2004, just before the Olympic Games", "Total length of the bridge is 2,880 meters", "Engineered to withstand powerful earthquakes", "Supported by four massive pylons"],
     },
-    imageHint: "The modern Rio-Antirrio cable-stayed bridge over the sea",
-  },
+    imageHint: "The modern Rio-Antirrio cable-stayed bridge over the sea", image: "/poi-images/greece-rio-antirrio-bridge-landmarks-v2.webp"},
   {
     id: "greece-mystras-palace-landmarks-v2",
     type: "palace",
@@ -399,8 +380,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construit între secolele XIII și XV", "Situat pe pantele munților Taygetos", "Face parte din situl UNESCO de la Mystras", "A beneficiat de restaurări majore în ultimele decenii"],
       en: ["Constructed between the 13th and 15th centuries", "Located on the slopes of Mount Taygetos", "Part of the UNESCO World Heritage site of Mystras", "Has undergone extensive restoration recently"],
     },
-    imageHint: "Byzantine palace ruins of Mystras on a hillside",
-  },
+    imageHint: "Byzantine palace ruins of Mystras on a hillside", image: "/poi-images/greece-mystras-palace-landmarks-v2.webp"},
   {
     id: "greece-academy-athens-landmarks-v2",
     type: "university",
@@ -419,8 +399,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Finalizată în anul 1885", "Proiectată de arhitectul danez Theophil Hansen", "Două coloane înalte susțin statuile Atenei și lui Apollo", "Construită după principiile clasice ale Erechtheionului"],
       en: ["Completed in the year 1885", "Designed by the Danish architect Theophil Hansen", "Two high columns feature statues of Athena and Apollo", "Built according to the principles of the classical Erechtheion"],
     },
-    imageHint: "Neoclassical building of the Academy of Athens with statues",
-  },
+    imageHint: "Neoclassical building of the Academy of Athens with statues", image: "/poi-images/greece-academy-athens-landmarks-v2.webp"},
   {
     id: "greece-zappeion-hall-landmarks-v2",
     type: "landmark",
@@ -439,8 +418,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Inaugurată oficial în anul 1888", "Prima clădire din lume ridicată special pentru Jocurile Olimpice", "A găzduit competițiile de scrimă la olimpiada din 1896", "Construcția a fost finanțată de Evangelos Zappas"],
       en: ["Officially opened in 1888", "First building in the world erected specifically for Olympic Games", "Hosted fencing events during the 1896 Olympics", "Financed by the philanthropist Evangelos Zappas"],
     },
-    imageHint: "Yellow neoclassical Zappeion Hall in Athens",
-  }
+    imageHint: "Yellow neoclassical Zappeion Hall in Athens", image: "/poi-images/greece-zappeion-hall-landmarks-v2.webp"}
 ,
   {
     id: "greece-national-archaeological-museum-landmarks-v2",
@@ -478,8 +456,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construită inițial în secolul al IV-lea", "Grav avariată de un incendiu în 1917", "Adăpostește moaștele Sfântului Dumitru", "Faimoasă pentru mozaicurile bizantine din sec. VII"],
       en: ["Originally built in the 4th century AD", "Heavily damaged by fire in 1917", "Houses the relics of Saint Demetrius", "Famous for 7th-century Byzantine mosaics"],
     },
-    imageHint: "Saint Demetrius Church Thessaloniki interior",
-  },
+    imageHint: "Saint Demetrius Church Thessaloniki interior", image: "/poi-images/greece-saint-demetrius-church-landmarks-v2.webp"},
   {
     id: "greece-methoni-castle-landmarks-v2",
     type: "castle",
@@ -516,8 +493,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Patrimoniu Mondial UNESCO din 1990", "Fondată de eremitul Luca din Steiris", "Deține două biserici interconectate", "Situată pe pantele Muntelui Helikon"],
       en: ["UNESCO World Heritage site since 1990", "Founded by the hermit Saint Luke of Steiris", "Features two interconnected church buildings", "Located on the slopes of Mount Helikon"],
     },
-    imageHint: "Hosios Loukas Monastery gold mosaics",
-  },
+    imageHint: "Hosios Loukas Monastery gold mosaics", image: "/poi-images/greece-hosios-loukas-monastery-landmarks-v2.webp"},
   {
     id: "greece-bourtzi-castle-landmarks-v2",
     type: "castle",
@@ -535,8 +511,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Construit în 1473 de către venețieni", "Proiectat de inginerul Antonio Gambello", "A fost hotel de lux între 1930 și 1970", "Accesibil doar cu barca din Nafplio"],
       en: ["Built in 1473 by the Venetians", "Designed by engineer Antonio Gambello", "Served as a luxury hotel from 1930 to 1970", "Accessible only by boat from Nafplio"],
     },
-    imageHint: "Bourtzi Castle Nafplio islet in harbor",
-  },
+    imageHint: "Bourtzi Castle Nafplio islet in harbor", image: "/poi-images/greece-bourtzi-castle-landmarks-v2.webp"},
   {
     id: "greece-st-michael-george-palace-landmarks-v2",
     type: "palace",
@@ -573,8 +548,7 @@ export const greeceLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1883", "Găzduiește faimosul disc din Phaistos", "Expune frescele originale de la Knossos", "Cuprinde 27 de săli de expoziție"],
       en: ["Founded in the year 1883", "Houses the famous Phaistos Disc", "Displays frescoes from the Palace of Knossos", "Contains 27 rooms of exhibits"],
     },
-    imageHint: "Heraklion Archaeological Museum Minoan frescoes",
-  },
+    imageHint: "Heraklion Archaeological Museum Minoan frescoes", image: "/poi-images/greece-heraklion-archaeological-museum-landmarks-v2.webp"},
   {
     id: "greece-bridge-arta-landmarks-v2",
     type: "bridge",

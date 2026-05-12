@@ -562,8 +562,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Sziklába vájt természetes barlang-mecset", "Sikasso városától 12 km-re található", "Egyszerre iszlám és animista szent hely", "A vallási tolerancia egyedülálló példája", "Lenyűgöző belső terek és spirituális hangulat", "Sűrű vegetáció és sziklafalak veszik körül", "Fontos helyi zarándokhely"]
-    }
-  },
+    }, image: "/poi-images/missirikoro-grotto-landmarks-v2.webp"},
   {
     id: "monument-al-farouk-landmarks-v2",
     type: "landmark",

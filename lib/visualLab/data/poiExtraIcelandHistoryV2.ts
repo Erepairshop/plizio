@@ -19,8 +19,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Anul fondării parlamentului: 930", "Patrimoniu UNESCO din 2004", "Locul proclamării republicii în 1944", "Sediul adunării legislative medievale"],
       en: ["Year of parliament foundation: 930", "UNESCO World Heritage site since 2004", "Site of republic proclamation in 1944", "Seat of the legislative assembly"],
     },
-    imageHint: "Thingvellir national park assembly site Iceland",
-  },
+    imageHint: "Thingvellir national park assembly site Iceland", image: "/poi-images/iceland-thingvellir-history-v2.webp"},
   {
     id: "iceland-skalholt-history-v2",
     type: "cathedral",
@@ -39,8 +38,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Scaun episcopal fondat în 1056", "Locul primei școli din țară", "Locul execuției ultimului episcop catolic", "Centru istoric de învățătură"],
       en: ["Bishopric founded in 1056", "Site of the country's first school", "Execution site of the last Catholic bishop", "Historical center of learning"],
     },
-    imageHint: "Skalholt cathedral historic site Iceland",
-  },
+    imageHint: "Skalholt cathedral historic site Iceland", image: "/poi-images/iceland-skalholt-history-v2.webp"},
   {
     id: "iceland-holar-history-v2",
     type: "cathedral",
@@ -59,8 +57,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Eparhie fondată în 1106", "Locul primei tipografii din Islanda", "Găzduiește o biserică de piatră din 1763", "Fost centru spiritual al nordului"],
       en: ["Bishopric founded in 1106", "Site of Iceland's first printing press", "Features a stone church from 1763", "Former spiritual center of the North"],
     },
-    imageHint: "Holar cathedral and university Iceland",
-  },
+    imageHint: "Holar cathedral and university Iceland", image: "/poi-images/iceland-holar-history-v2.webp"},
   {
     id: "iceland-reykholt-history-v2",
     type: "landmark",
@@ -79,8 +76,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Casa lui Snorri Sturluson (1179–1241)", "Locul asasinării lui Snorri în 1241", "Include o baie termală medievală", "Centru important pentru literatura nordică veche"],
       en: ["Home of Snorri Sturluson (1179–1241)", "Site of Snorri's assassination in 1241", "Contains a medieval geothermal bath", "Important center for Old Norse literature"],
     },
-    imageHint: "Reykholt Snorri Sturluson historic site Iceland",
-  },
+    imageHint: "Reykholt Snorri Sturluson historic site Iceland", image: "/poi-images/iceland-reykholt-history-v2.webp"},
   {
     id: "iceland-bessastadir-history-v2",
     type: "palace",
@@ -99,8 +95,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Fosta proprietate a lui Snorri Sturluson", "Sediul guvernatorului danez din 1613", "Reședință oficială din 1941", "Biserica sitului datează din 1796"],
       en: ["Former property of Snorri Sturluson", "Seat of the Danish governor from 1613", "Official residence since 1941", "Church on site dates from 1796"],
     },
-    imageHint: "Bessastadir presidential residence Iceland",
-  },
+    imageHint: "Bessastadir presidential residence Iceland", image: "/poi-images/iceland-bessastadir-history-v2.webp"},
   {
     id: "iceland-eiriksstadir-history-v2",
     type: "ruins",
@@ -119,8 +114,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Reședința lui Erik cel Roșu în jurul anului 980", "Locul de naștere al lui Leif Erikson", "Casă lungă reconstruită din brazde de iarbă", "Săpăturile arheologice au început în 1938"],
       en: ["Residence of Erik the Red around 980", "Birthplace of Leif Erikson", "Reconstructed turf longhouse on site", "Archaeological excavations began in 1938"],
     },
-    imageHint: "Eiriksstadir viking longhouse reconstruction Iceland",
-  },
+    imageHint: "Eiriksstadir viking longhouse reconstruction Iceland", image: "/poi-images/iceland-eiriksstadir-history-v2.webp"},
   {
     id: "iceland-videy-island-history-v2",
     type: "landmark",
@@ -139,8 +133,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Mănăstire augustiniană fondată în 1226", "Viðeyjarstofa construită în 1755", "Fost centru administrativ al Islandei", "Găzduiește cea mai veche biserică din 1774"],
       en: ["Augustinian monastery founded in 1226", "Viðeyjarstofa built in 1755", "Former administrative center of Iceland", "Houses the oldest church from 1774"],
     },
-    imageHint: "Videy Island historic house Reykjavik",
-  },
+    imageHint: "Videy Island historic house Reykjavik", image: "/poi-images/iceland-videy-island-history-v2.webp"},
   {
     id: "iceland-keldur-history-v2",
     type: "monument",
@@ -159,8 +152,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Cea mai veche fermă de gazon din țară", "Conține un tunel lung de 25 de metri", "Fosta reședință a unor căpetenii puternice", "Părți datează din secolul al XI-lea"],
       en: ["Oldest turf farm in the country", "Contains a 25-meter long tunnel", "Former residence of powerful chieftains", "Parts date back to the 11th century"],
     },
-    imageHint: "Keldur turf farm South Iceland",
-  },
+    imageHint: "Keldur turf farm South Iceland", image: "/poi-images/iceland-keldur-history-v2.webp"},
   {
     id: "iceland-laufas-history-v2",
     type: "museum",
@@ -179,8 +171,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Menționată pentru prima dată în 874", "Clădirile actuale datează din 1866", "Găzduia până la 30 de persoane", "Deține o biserică din anul 1865"],
       en: ["First mentioned in the year 874", "Current buildings date from 1866", "Housed up to 30 people", "Has a church built in 1865"],
     },
-    imageHint: "Laufas turf farm Akureyri Iceland",
-  },
+    imageHint: "Laufas turf farm Akureyri Iceland", image: "/poi-images/iceland-laufas-history-v2.webp"},
   {
     id: "iceland-glaumbaer-history-v2",
     type: "museum",
@@ -199,8 +190,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Locul unei biserici încă de la creștinizare", "Ferma actuală datează din secolul XVIII", "Locul de reședință al lui Snorri Þorfinnsson", "Unul dintre cele mai bune exemple de construcție din turbă"],
       en: ["Site of a church since Christianization", "Current farm dates from the 18th century", "Residence of Snorri Þorfinnsson", "One of the best examples of turf building"],
     },
-    imageHint: "Glaumbaer turf farm museum Iceland",
-  },
+    imageHint: "Glaumbaer turf farm museum Iceland", image: "/poi-images/iceland-glaumbaer-history-v2.webp"},
   {
     id: "iceland-vidimyrarkirkja-history-v2",
     type: "church",
@@ -219,8 +209,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Construită în anul 1834", "Folosește lemn plutitor pentru interior", "Gazonul este integrat în pereții bisericii", "Declarată monument istoric în 1936"],
       en: ["Built in the year 1834", "Uses driftwood for the interior", "Turf is built into the church walls", "Placed under national protection in 1936"],
     },
-    imageHint: "Vidimyrarkirkja turf church Iceland",
-  },
+    imageHint: "Vidimyrarkirkja turf church Iceland", image: "/poi-images/iceland-vidimyrarkirkja-history-v2.webp"},
   {
     id: "iceland-thingeyrar-history-v2",
     type: "church",
@@ -239,8 +228,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Prima mănăstire fondată în 1133", "Biserică de piatră semnificativă din 1877", "Loc de adunări în Evul Mediu", "Centru al învățăturii și al sagăi"],
       en: ["First monastery founded in 1133", "Significant stone church from 1877", "Site for assemblies in the Middle Ages", "Center of scholarship and sagas"],
     },
-    imageHint: "Thingeyrar stone church Iceland",
-  },
+    imageHint: "Thingeyrar stone church Iceland", image: "/poi-images/iceland-thingeyrar-history-v2.webp"},
   {
     id: "iceland-munkathvera-history-v2",
     type: "ruins",
@@ -259,8 +247,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Mănăstire benedictină fondată în 1155", "Locul de înmormântare al unor eroi din saga", "Găzduiește o biserică din 1844", "Loc spiritual semnificativ în nord"],
       en: ["Benedictine monastery founded in 1155", "Burial site of powerful saga heroes", "Features a church built in 1844", "Significant spiritual site of the North"],
     },
-    imageHint: "Munkathvera church and historic site Iceland",
-  },
+    imageHint: "Munkathvera church and historic site Iceland", image: "/poi-images/iceland-munkathvera-history-v2.webp"},
   {
     id: "iceland-stong-history-v2",
     type: "ruins",
@@ -279,8 +266,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Distrusă de Hekla în anul 1104", "Excavată în anul 1939", "Model pentru reconstrucții moderne", "Cunoscută sub numele de 'Pompeii islandez'"],
       en: ["Destroyed by Hekla in 1104", "Excavated in the year 1939", "Basis for modern reconstructions", "Known as the 'Icelandic Pompeii'"],
     },
-    imageHint: "Stong viking farm ruins Iceland",
-  },
+    imageHint: "Stong viking farm ruins Iceland", image: "/poi-images/iceland-stong-history-v2.webp"},
   {
     id: "iceland-kirkjubaejarklaustur-history-v2",
     type: "ruins",
@@ -299,8 +285,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Mănăstire de călugărițe fondată în 1186", "Locul celebrei 'predici de foc' din 1783", "Mănăstirea a funcționat până în 1550", "Găzduiește câmpul de bazalt Kirkjugólf"],
       en: ["Nunnery founded in 1186", "Site of the famous 'Fire Sermon' in 1783", "Monastery lasted until 1550", "Houses the Kirkjugólf basalt pavement"],
     },
-    imageHint: "Kirkjubaejarklaustur historic site Iceland",
-  },
+    imageHint: "Kirkjubaejarklaustur historic site Iceland", image: "/poi-images/iceland-kirkjubaejarklaustur-history-v2.webp"},
   {
     id: "iceland-oddi-history-v2",
     type: "landmark",
@@ -319,8 +304,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Centru important de învățătură", "Sediul clanului Oddaverjar", "Locul educației lui Snorri Sturluson", "Locul unei biserici încă din 1100"],
       en: ["Major center of scholarship", "Seat of the Oddaverjar clan", "Upbringing of Snorri Sturluson", "Site of a church since 1100"],
     },
-    imageHint: "Oddi church Rangárvallasýsla Iceland",
-  },
+    imageHint: "Oddi church Rangárvallasýsla Iceland", image: "/poi-images/iceland-oddi-history-v2.webp"},
   {
     id: "iceland-helgafell-history-v2",
     type: "landmark",
@@ -339,8 +323,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Mănăstire fondată în 1184", "Locul de înmormântare al lui Guðrún Ósvífursdóttir", "Cadru frecvent în Saga Laxdæla", "Credința în îndeplinirea dorințelor pe vârf"],
       en: ["Monastery founded in 1184", "Burial place of Guðrún Ósvífursdóttir", "Frequent setting in Laxdæla Saga", "Belief in wish fulfillment at the summit"],
     },
-    imageHint: "Helgafell mountain and church Snaefellsnes",
-  },
+    imageHint: "Helgafell mountain and church Snaefellsnes", image: "/poi-images/iceland-helgafell-history-v2.webp"},
   {
     id: "iceland-hofstadir-history-v2",
     type: "ruins",
@@ -359,8 +342,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Rămășițele unei case lungi de 42 m", "Centru pentru sacrificii ritualice", "Datat în secolul al X-lea", "Important pentru cercetarea păgânismului"],
       en: ["Remains of a 42m long longhouse", "Center for ritual sacrifices", "Dates back to the 10th century", "Important for paganism research"],
     },
-    imageHint: "Hofstadir archaeological site Myvatn Iceland",
-  },
+    imageHint: "Hofstadir archaeological site Myvatn Iceland", image: "/poi-images/iceland-hofstadir-history-v2.webp"},
   {
     id: "iceland-borg-a-myrum-history-v2",
     type: "landmark",
@@ -379,8 +361,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Cadru pentru Saga lui Egill", "Casa lui Egill Skallagrímsson", "Găzduiește opera de artă 'Sonatorrek'", "Colonizat la scurt timp după 874"],
       en: ["Setting for Egils Saga", "Home of Egill Skallagrímsson", "Houses the 'Sonatorrek' artwork", "Settled shortly after 874"],
     },
-    imageHint: "Borg a Myrum historic site Iceland",
-  },
+    imageHint: "Borg a Myrum historic site Iceland", image: "/poi-images/iceland-borg-a-myrum-history-v2.webp"},
   {
     id: "iceland-gasir-history-v2",
     type: "ruins",
@@ -399,8 +380,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Port comercial major până în 1500", "Centru pentru exportul de șoimi", "Zile medievale anuale la fața locului", "Săpăturile arheologice arată legături comerciale"],
       en: ["Major trading port until 1500", "Center for the export of gyrfalcons", "Annual Medieval Days held on site", "Excavations reveal trade connections"],
     },
-    imageHint: "Gasir medieval trading post ruins Iceland",
-  },
+    imageHint: "Gasir medieval trading post ruins Iceland", image: "/poi-images/iceland-gasir-history-v2.webp"},
   {
     id: "iceland-hrafnseyri-history-v2",
     type: "museum",
@@ -419,8 +399,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Locul de naștere al lui Jón Sigurðsson (1811)", "Capelă istorică de gazon la fața locului", "Centrul luptei pentru independență", "Situat pe Arnarfjörður"],
       en: ["Birthplace of Jón Sigurðsson (1811)", "Historical turf chapel on site", "Center of the independence struggle", "Located on the Arnarfjörður fjord"],
     },
-    imageHint: "Hrafnseyri Jon Sigurdsson museum Iceland",
-  },
+    imageHint: "Hrafnseyri Jon Sigurdsson museum Iceland", image: "/poi-images/iceland-hrafnseyri-history-v2.webp"},
   {
     id: "iceland-eyrarbakki-history-v2",
     type: "port",
@@ -439,8 +418,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Cel mai important port din sud până în 1900", "Locația 'Húsið' (construită în 1765)", "Găzduiește un muzeu maritim", "Fost centru comercial danez"],
       en: ["Main southern port until 1900", "Site of 'Húsið' (built in 1765)", "Houses a maritime museum", "Former Danish trading hub"],
     },
-    imageHint: "Eyrarbakki The House historic building Iceland",
-  },
+    imageHint: "Eyrarbakki The House historic building Iceland", image: "/poi-images/iceland-eyrarbakki-history-v2.webp"},
   {
     id: "iceland-vatnsfjordur-history-v2",
     type: "landmark",
@@ -459,8 +437,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Sediul unui clan de căpetenii important", "Menționat în Landnámabók", "Locul unor lupte medievale importante", "Găzduiește ruine ale unor biserici vechi"],
       en: ["Seat of a major chieftain clan", "Mentioned in the Landnámabók", "Site of important medieval conflicts", "Houses ancient church ruins"],
     },
-    imageHint: "Vatnsfjordur Westfjords historic site Iceland",
-  },
+    imageHint: "Vatnsfjordur Westfjords historic site Iceland", image: "/poi-images/iceland-vatnsfjordur-history-v2.webp"},
   {
     id: "iceland-modruvellir-history-v2",
     type: "university",
@@ -479,8 +456,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Mănăstire augustiniană fondată în 1296", "Sediul primei școli secundare din nord", "Deține o biserică de lemn din 1867", "Sediul istoric al guvernatorului"],
       en: ["Augustinian monastery founded in 1296", "Seat of the first high school in the north", "Features a wooden church built in 1867", "Historical seat of the governor"],
     },
-    imageHint: "Modruvellir church and school site Iceland",
-  },
+    imageHint: "Modruvellir church and school site Iceland", image: "/poi-images/iceland-modruvellir-history-v2.webp"},
   {
     id: "iceland-saurbaer-history-v2",
     type: "church",
@@ -499,8 +475,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Biserică de gazon construită în 1858", "Sediul unei mănăstiri în secolul XIII", "Una dintre cele mai mari biserici de turbă", "Cadru important pentru saga locale"],
       en: ["Turf church built in 1858", "Seat of a monastery in the 13th century", "One of the largest turf churches", "Important setting for local sagas"],
     },
-    imageHint: "Saurbaer turf church Eyjafjordur Iceland",
-  },
+    imageHint: "Saurbaer turf church Eyjafjordur Iceland", image: "/poi-images/iceland-saurbaer-history-v2.webp"},
   {
     id: "iceland-breidabolstadur-history-v2",
     type: "landmark",
@@ -519,8 +494,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Prima tipografie în jurul anului 1530", "Planificarea tipăririi Noului Testament", "Fosta reședință a unor preoți învățați", "Biserica locală datează din 1893"],
       en: ["First printing press around 1530", "Planned printing of the New Testament", "Former residence of learned vicars", "Church on site dates from 1893"],
     },
-    imageHint: "Breidabolstadur church Hunavatnssysla Iceland",
-  },
+    imageHint: "Breidabolstadur church Hunavatnssysla Iceland", image: "/poi-images/iceland-breidabolstadur-history-v2.webp"},
   {
     id: "iceland-hitardalur-history-v2",
     type: "landmark",
@@ -539,8 +513,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Mănăstire cu existență scurtă (1166–1201)", "Cadru semnificativ pentru saga", "Casa unor învățați celebri", "Cunoscut pentru formațiuni stâncoase"],
       en: ["Short-lived monastery (1166–1201)", "Significant saga setting", "Home to famous scholars", "Known for striking rock formations"],
     },
-    imageHint: "Hitardalur valley and historic farm Iceland",
-  },
+    imageHint: "Hitardalur valley and historic farm Iceland", image: "/poi-images/iceland-hitardalur-history-v2.webp"},
   {
     id: "iceland-thvotta-history-v2",
     type: "monument",
@@ -559,8 +532,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Locul primelor botezuri în 997", "Numele înseamnă 'Râul de spălat'", "Monument în memoria botezului", "Loc important în istoria religioasă"],
       en: ["Site of the first baptisms in 997", "Name means 'Wash River'", "Monument commemorating the baptism", "Important site in religious history"],
     },
-    imageHint: "Thvotta historic baptism site Iceland",
-  },
+    imageHint: "Thvotta historic baptism site Iceland", image: "/poi-images/iceland-thvotta-history-v2.webp"},
   {
     id: "iceland-steinsholt-history-v2",
     type: "ruins",
@@ -579,8 +551,7 @@ export const icelandHistoryV2: POI[] = [
       ro: ["Loc de adunare medieval", "Rămășițe de case din brazde", "Obiectele găsite sunt în Muzeul Național", "Perspectivă asupra administrației timpurii"],
       en: ["Medieval assembly place", "Remains of turf buildings", "Artifacts held in the National Museum", "Insight into early administration"],
     },
-    imageHint: "Steinsholt archaeological ruins Iceland",
-  },
+    imageHint: "Steinsholt archaeological ruins Iceland", image: "/poi-images/iceland-steinsholt-history-v2.webp"},
   {
     id: "iceland-herjolfsdalur-history-v2",
     type: "ruins",

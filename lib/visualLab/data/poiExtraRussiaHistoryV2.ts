@@ -19,8 +19,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Bătălia a avut loc pe 7 septembrie 1812", "Peste 250.000 de soldați implicați", "Cel mai vechi muzeu de câmp de luptă", "Peste 300 de monumente pe sit"],
       en: ["Battle took place on Sept 7, 1812", "Over 250,000 soldiers involved", "World's oldest battlefield museum", "Over 300 monuments on the grounds"],
     },
-    imageHint: "Borodino battlefield monument and museum building",
-  },
+    imageHint: "Borodino battlefield monument and museum building", image: "/poi-images/russia-borodino-battlefield-history-v2.webp"},
   {
     id: "russia-kulikovo-field-history-v2",
     type: "battlefield",
@@ -39,8 +38,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Bătălia a avut loc pe 8 septembrie 1380", "Victoria prințului Dmitri Donskoi", "Complex muzeal înființat în 1996", "Coloană memorială de 28 metri"],
       en: ["Battle fought on September 8, 1380", "Victory of Prince Dmitri Donskoi", "Museum complex opened in 1996", "28-meter high memorial column"],
     },
-    imageHint: "Kulikovo Field memorial column and church",
-  },
+    imageHint: "Kulikovo Field memorial column and church", image: "/poi-images/russia-kulikovo-field-history-v2.webp"},
   {
     id: "russia-mamayev-kurgan-history-v2",
     type: "monument",
@@ -59,8 +57,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Centrul Bătăliei de la Stalingrad", "Statuia are 85 de metri înălțime", "Peste 35.000 de soldați îngropați aici", "Inaugurat în anul 1967"],
       en: ["Center of the Battle of Stalingrad", "Statue is 85 meters tall", "Over 35,000 soldiers buried here", "Inaugurated in 1967"],
     },
-    imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
-  },
+    imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd", image: "/poi-images/russia-mamayev-kurgan-history-v2.webp"},
   {
     id: "russia-peterhof-palace-history-v2",
     type: "palace",
@@ -79,8 +76,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Fondat de Petru cel Mare", "Patrimoniu UNESCO din 1990", "Marea Cascadă are 64 de fântâni", "Aproape distrus în al Doilea Război Mondial"],
       en: ["Founded by Peter the Great", "UNESCO World Heritage since 1990", "Grand Cascade features 64 fountains", "Almost destroyed in WWII"],
     },
-    imageHint: "Grand Palace and Cascade fountains Peterhof St Petersburg",
-  },
+    imageHint: "Grand Palace and Cascade fountains Peterhof St Petersburg", image: "/poi-images/russia-peterhof-palace-history-v2.webp"},
   {
     id: "russia-solovetsky-monastery-history-v2",
     type: "landmark",
@@ -99,8 +95,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Fondată în anul 1429", "Patrimoniu UNESCO din 1992", "Ziduri masive din bolovani", "Primul lagăr Gulag între 1923-1939"],
       en: ["Founded in 1429", "UNESCO World Heritage since 1992", "Massive boulders used for walls", "First Gulag camp from 1923-1939"],
     },
-    imageHint: "Solovetsky Monastery fortress on the White Sea coast",
-  },
+    imageHint: "Solovetsky Monastery fortress on the White Sea coast", image: "/poi-images/russia-solovetsky-monastery-history-v2.webp"},
   {
     id: "russia-arkaim-ruins-history-v2",
     type: "ruins",
@@ -119,8 +114,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Datat în jurul anului 2000 î.Hr.", "Descoperit în anul 1987", "Două inele concentrice de ziduri", "Parte din 'Țara Orașelor'"],
       en: ["Dated to circa 2000 BC", "Discovered in 1987", "Two concentric rings of walls", "Part of the 'Land of Towns'"],
     },
-    imageHint: "Aerial view of Arkaim archaeological site circular structure",
-  },
+    imageHint: "Aerial view of Arkaim archaeological site circular structure", image: "/poi-images/russia-arkaim-ruins-history-v2.webp"},
   {
     id: "russia-derbent-fortress-history-v2",
     type: "castle",
@@ -139,8 +133,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Parte a patrimoniului UNESCO", "Construcția a început în sec. VI", "Suprafață de aprox. 4,5 hectare", "În cel mai vechi oraș din Rusia"],
       en: ["Part of UNESCO World Heritage", "Construction began in 6th century", "Covers about 4.5 hectares", "Located in Russia's oldest city"],
     },
-    imageHint: "Naryn-Kala fortress walls Derbent Dagestan",
-  },
+    imageHint: "Naryn-Kala fortress walls Derbent Dagestan", image: "/poi-images/russia-derbent-fortress-history-v2.webp"},
   {
     id: "russia-kazan-kremlin-history-v2",
     type: "castle",
@@ -159,8 +152,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 2000", "Găzduiește moscheea Kul Sharif", "Include Turnul Söyembikä", "Sediul președintelui Tatarstanului"],
       en: ["UNESCO World Heritage since 2000", "Hosts the Kul Sharif Mosque", "Contains the leaning Söyembikä Tower", "Seat of the President of Tatarstan"],
     },
-    imageHint: "Kazan Kremlin with Kul Sharif mosque and Annunciation Cathedral",
-  },
+    imageHint: "Kazan Kremlin with Kul Sharif mosque and Annunciation Cathedral", image: "/poi-images/russia-kazan-kremlin-history-v2.webp"},
   {
     id: "russia-novgorod-kremlin-history-v2",
     type: "castle",
@@ -179,8 +171,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Menționat prima dată în 1044", "Găzduiește Catedrala Sfânta Sofia", "Conține monumentul 'Mileniul Rusiei'", "Patrimoniu UNESCO din 1992"],
       en: ["First mentioned in 1044", "Home to St. Sophia Cathedral", "Contains Millennium of Russia monument", "UNESCO World Heritage since 1992"],
     },
-    imageHint: "Novgorod Kremlin red brick walls and towers",
-  },
+    imageHint: "Novgorod Kremlin red brick walls and towers", image: "/poi-images/russia-novgorod-kremlin-history-v2.webp"},
   {
     id: "russia-pskov-kremlin-history-v2",
     type: "castle",
@@ -199,8 +190,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Nucleul orașului medieval", "Găzduiește Catedrala Treimii", "Ziduri de piatră albă de 8m grosime", "A rezistat la numeroase asedii"],
       en: ["Core of the medieval city", "Hosts the Trinity Cathedral", "White stone walls up to 8m thick", "Withstood numerous historic sieges"],
     },
-    imageHint: "Pskov Kremlin Krom fortress and Trinity Cathedral",
-  },
+    imageHint: "Pskov Kremlin Krom fortress and Trinity Cathedral", image: "/poi-images/russia-pskov-kremlin-history-v2.webp"},
   {
     id: "russia-suzdal-kremlin-history-v2",
     type: "castle",
@@ -219,8 +209,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Fondat în jurul anului 1024", "Găzduiește Catedrala Nașterii", "Patrimoniu UNESCO din 1992", "Cupole albastre cu stele aurii"],
       en: ["Founded around the year 1024", "Home to Cathedral of the Nativity", "UNESCO World Heritage since 1992", "Features blue domes with gold stars"],
     },
-    imageHint: "Suzdal Kremlin with blue-domed Cathedral of the Nativity",
-  },
+    imageHint: "Suzdal Kremlin with blue-domed Cathedral of the Nativity", image: "/poi-images/russia-suzdal-kremlin-history-v2.webp"},
   {
     id: "russia-vladimir-golden-gate-history-v2",
     type: "landmark",
@@ -239,8 +228,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Construită în anul 1164", "Patrimoniu UNESCO din 1992", "Include o mică biserică deasupra", "A supraviețuit asediului mongol din 1238"],
       en: ["Built in 1164", "UNESCO World Heritage since 1992", "Contains a small church on top", "Survived the Mongol siege in 1238"],
     },
-    imageHint: "Golden Gate of Vladimir historic white stone arch",
-  },
+    imageHint: "Golden Gate of Vladimir historic white stone arch", image: "/poi-images/russia-vladimir-golden-gate-history-v2.webp"},
   {
     id: "russia-bolghar-ruins-history-v2",
     type: "ruins",
@@ -259,8 +247,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 2014", "Centru religios al islamului", "Găzduiește cel mai mare Coran tipărit", "Capitală între sec. VIII-XV"],
       en: ["UNESCO World Heritage since 2014", "Religious center of Islam", "Houses the world's largest printed Quran", "Capital between 8th-15th centuries"],
     },
-    imageHint: "Ancient Bolghar ruins and the White Mosque",
-  },
+    imageHint: "Ancient Bolghar ruins and the White Mosque", image: "/poi-images/russia-bolghar-ruins-history-v2.webp"},
   {
     id: "russia-tanais-ruins-history-v2",
     type: "ruins",
@@ -279,8 +266,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Fondat în secolul III î.Hr.", "Muzeu arheologic în aer liber", "Parte a Regatului Bosforului", "Distrus de goți în secolul III"],
       en: ["Founded in 3rd century BC", "Archaeological open-air museum", "Part of the Bosporan Kingdom", "Destroyed by Goths in 3rd century AD"],
     },
-    imageHint: "Archaeological excavations of Tanais ancient Greek city",
-  },
+    imageHint: "Archaeological excavations of Tanais ancient Greek city", image: "/poi-images/russia-tanais-ruins-history-v2.webp"},
   {
     id: "russia-shlisselburg-fortress-history-v2",
     type: "castle",
@@ -299,8 +285,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Fondată în anul 1323", "Cunoscută și ca Shlisselburg", "Parte a patrimoniului UNESCO", "A rezistat 500 de zile în al Doilea Război Mondial"],
       en: ["Founded in 1323", "Also known as Shlisselburg", "UNESCO World Heritage site", "Withstood a 500-day siege in WWII"],
     },
-    imageHint: "Oreshek Fortress on an island in Lake Ladoga",
-  },
+    imageHint: "Oreshek Fortress on an island in Lake Ladoga", image: "/poi-images/russia-shlisselburg-fortress-history-v2.webp"},
   {
     id: "russia-vyborg-castle-history-v2",
     type: "castle",
@@ -319,8 +304,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Fondat în anul 1293", "Include Turnul Sfântul Olav", "Cucerit de Petru I în 1710", "Moștenire suedeză unică"],
       en: ["Founded in 1293", "Features the St. Olaf Tower", "Captured by Peter I in 1710", "Unique Swedish heritage in Russia"],
     },
-    imageHint: "Vyborg Castle and St. Olaf's Tower",
-  },
+    imageHint: "Vyborg Castle and St. Olaf's Tower", image: "/poi-images/russia-vyborg-castle-history-v2.webp"},
   {
     id: "russia-winter-palace-history-v2",
     type: "palace",
@@ -339,8 +323,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Construit între 1754 și 1762", "Proiectat de Bartolomeo Rastrelli", "Conține peste 1.500 de camere", "Locul asaltului din 1917"],
       en: ["Built between 1754 and 1762", "Designed by Bartolomeo Rastrelli", "Contains over 1,500 rooms", "Site of the storming in 1917"],
     },
-    imageHint: "Winter Palace Hermitage Museum St Petersburg",
-  },
+    imageHint: "Winter Palace Hermitage Museum St Petersburg", image: "/poi-images/russia-winter-palace-history-v2.webp"},
   {
     id: "russia-catherine-palace-history-v2",
     type: "palace",
@@ -359,8 +342,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Fațadă lungă de 325 de metri", "Adăpostește Camera de Chihlimbar", "Grav avariat în al Doilea Război Mondial", "Peste 100 kg de aur pentru decor"],
       en: ["Facade is 325 meters long", "Home to the Amber Room", "Heavily damaged during WWII", "Over 100kg of gold used for decor"],
     },
-    imageHint: "Catherine Palace blue facade Tsarskoye Selo",
-  },
+    imageHint: "Catherine Palace blue facade Tsarskoye Selo", image: "/poi-images/russia-catherine-palace-history-v2.webp"},
   {
     id: "russia-moscow-kremlin-history-v2",
     type: "castle",
@@ -379,8 +361,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1990", "Include 20 de turnuri de apărare", "Găzduiește Clopotul Țarului", "Sediul guvernului din 1918"],
       en: ["UNESCO World Heritage since 1990", "Includes 20 defensive towers", "Contains the Tsar Bell", "Seat of government since 1918"],
     },
-    imageHint: "Moscow Kremlin towers and cathedrals aerial view",
-  },
+    imageHint: "Moscow Kremlin towers and cathedrals aerial view", image: "/poi-images/russia-moscow-kremlin-history-v2.webp"},
   {
     id: "russia-red-square-history-v2",
     type: "landmark",
@@ -399,8 +380,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Găzduiește Mausoleul lui Lenin", "Adiacent magazinului GUM", "Numele înseamnă și 'Piața Frumoasă'", "Patrimoniu UNESCO"],
       en: ["Home to Lenin's Mausoleum", "Bordered by GUM department store", "Name also means 'Beautiful Square'", "UNESCO World Heritage site"],
     },
-    imageHint: "Red Square Moscow with St Basil's Cathedral",
-  },
+    imageHint: "Red Square Moscow with St Basil's Cathedral", image: "/poi-images/russia-red-square-history-v2.webp"},
   {
     id: "russia-peter-paul-fortress-history-v2",
     type: "castle",
@@ -419,8 +399,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Fondată pe 27 mai 1703", "Cea mai înaltă turlă din oraș", "Locul de veci al tuturor Romanovilor", "Tragere de tun zilnică la ora 12:00"],
       en: ["Founded on May 27, 1703", "Tallest church spire in the city", "Burial site of all Romanov tsars", "Daily cannon shot at 12:00 PM"],
     },
-    imageHint: "Peter and Paul Fortress aerial view Hare Island",
-  },
+    imageHint: "Peter and Paul Fortress aerial view Hare Island", image: "/poi-images/russia-peter-paul-fortress-history-v2.webp"},
   {
     id: "russia-kizhi-pogost-history-v2",
     type: "landmark",
@@ -439,8 +418,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Biserica principală are 22 cupole", "Patrimoniu UNESCO din 1990", "Construit integral din lemn", "Cea mai veche biserică e din 1390"],
       en: ["Main church has 22 domes", "UNESCO World Heritage since 1990", "Built entirely of wood", "Oldest church dates to 1390"],
     },
-    imageHint: "Kizhi Pogost multi-domed wooden church",
-  },
+    imageHint: "Kizhi Pogost multi-domed wooden church", image: "/poi-images/russia-kizhi-pogost-history-v2.webp"},
   {
     id: "russia-prokhorovka-battlefield-history-v2",
     type: "battlefield",
@@ -459,8 +437,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Parte a Bătăliei de la Kursk", "Peste 1.200 de tancuri implicate", "Clopotniță înaltă de 59 de metri", "Muzeu de vehicule blindate"],
       en: ["Part of the Battle of Kursk", "Over 1,200 tanks involved", "59m high memorial bell tower", "Museum of armored vehicles"],
     },
-    imageHint: "Prokhorovka battlefield memorial bell tower and tanks",
-  },
+    imageHint: "Prokhorovka battlefield memorial bell tower and tanks", image: "/poi-images/russia-prokhorovka-battlefield-history-v2.webp"},
   {
     id: "russia-intercession-on-nerl-history-v2",
     type: "church",
@@ -479,8 +456,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Construită în anul 1165", "Patrimoniu UNESCO din 1992", "Sculpturi în piatră albă", "Simbol al Rusiei antice"],
       en: ["Built in 1165", "UNESCO World Heritage since 1992", "Intricate white stone carvings", "Symbol of ancient Russia"],
     },
-    imageHint: "Church of the Intercession on the Nerl white stone",
-  },
+    imageHint: "Church of the Intercession on the Nerl white stone", image: "/poi-images/russia-intercession-on-nerl-history-v2.webp"},
   {
     id: "russia-trinity-lavra-history-v2",
     type: "landmark",
@@ -499,8 +475,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1993", "Conține mormântul fondatorului", "Clopotniță înaltă de 88 metri", "Centru al picturii de icoane"],
       en: ["UNESCO World Heritage since 1993", "Contains the founder's tomb", "Bell tower is 88 meters high", "Major center for icon painting"],
     },
-    imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
-  },
+    imageHint: "Trinity Lavra of St Sergius Sergiyev Posad", image: "/poi-images/russia-trinity-lavra-history-v2.webp"},
   {
     id: "russia-kronstadt-naval-cathedral-history-v2",
     type: "cathedral",
@@ -519,8 +494,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Inaugurată în anul 1913", "Diametrul cupolei de 27 de metri", "Plăci memoriale pentru marinari", "Biserica principală a flotei ruse"],
       en: ["Inaugurated in 1913", "Dome diameter of 27 meters", "Memorial plaques for fallen sailors", "Main church of the Russian Navy"],
     },
-    imageHint: "Kronstadt Naval Cathedral St Nicholas",
-  },
+    imageHint: "Kronstadt Naval Cathedral St Nicholas", image: "/poi-images/russia-kronstadt-naval-cathedral-history-v2.webp"},
   {
     id: "russia-yusupov-palace-history-v2",
     type: "palace",
@@ -539,8 +513,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Construit în secolul XVIII", "Deține un teatru privat", "Interioare opulente", "Expoziție de ceară despre Rasputin"],
       en: ["Built in the 18th century", "Features a private home theater", "Opulent aristocratic interiors", "Wax museum about Rasputin's death"],
     },
-    imageHint: "Yusupov Palace on Moika River St Petersburg",
-  },
+    imageHint: "Yusupov Palace on Moika River St Petersburg", image: "/poi-images/russia-yusupov-palace-history-v2.webp"},
   {
     id: "russia-gatchina-palace-history-v2",
     type: "palace",
@@ -559,8 +532,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Proiectat de Antonio Rinaldi", "Deține un tunel secret", "Reședința țarului Alexandru al III-lea", "Parțial distrus în al Doilea Război Mondial"],
       en: ["Designed by Antonio Rinaldi", "Features a secret underground tunnel", "Residence of Tsar Alexander III", "Partially destroyed during WWII"],
     },
-    imageHint: "Gatchina Palace and park St Petersburg",
-  },
+    imageHint: "Gatchina Palace and park St Petersburg", image: "/poi-images/russia-gatchina-palace-history-v2.webp"},
   {
     id: "russia-pavlovsk-palace-history-v2",
     type: "palace",
@@ -579,8 +551,7 @@ export const russiaHistoryV2: POI[] = [
       ro: ["Cadou de la Ecaterina cea Mare", "Parcul are 600 de hectare", "Colecție de sculpturi antice", "Restaurat după al Doilea Război Mondial"],
       en: ["Gift from Catherine the Great", "Landscape park covers 600 hectares", "Collection of ancient sculptures", "Restored after WWII damage"],
     },
-    imageHint: "Pavlovsk Palace golden facade and dome",
-  },
+    imageHint: "Pavlovsk Palace golden facade and dome", image: "/poi-images/russia-pavlovsk-palace-history-v2.webp"},
   {
     id: "russia-alexander-nevsky-lavra-history-v2",
     type: "landmark",

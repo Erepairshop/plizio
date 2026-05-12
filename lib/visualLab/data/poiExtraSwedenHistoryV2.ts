@@ -19,8 +19,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Construit inițial în secolul al XII-lea", "Cheie strategică pentru Öresund", "Reconstrucție renascentistă în secolul XVI", "Sediul tratatului Uniunii de la Kalmar"],
       en: ["Originally built in the 12th century", "Strategic key to the Öresund", "Renaissance reconstruction in the 16th century", "Site of the Kalmar Union treaty"],
     },
-    imageHint: "Kalmar Castle aerial view by the sea",
-  },
+    imageHint: "Kalmar Castle aerial view by the sea", image: "/poi-images/sweden-kalmar-castle-history-v2.webp"},
   {
     id: "sweden-lacko-castle-history-v2",
     type: "castle",
@@ -39,8 +38,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Fondat în anul 1298", "Peste 240 de camere în interior", "Capelă splendidă din 1670", "Grădina 'Lilla Slottsträdgården' este faimoasă"],
       en: ["Founded in the year 1298", "Over 240 rooms inside", "Magnificent castle chapel from 1670", "Famous for the 'Lilla Slottsträdgården' garden"],
     },
-    imageHint: "Läckö Castle on Lake Vänern",
-  },
+    imageHint: "Läckö Castle on Lake Vänern", image: "/poi-images/sweden-lacko-castle-history-v2.webp"},
   {
     id: "sweden-gripsholm-castle-history-v2",
     type: "castle",
@@ -59,8 +57,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Construit din 1537", "Deține un teatru conservat din 1781", "A servit parțial ca închisoare de stat", "Colecție faimoasă de portrete în interior"],
       en: ["Built starting in 1537", "Features a preserved theater from 1781", "Served periodically as a state prison", "Houses a famous portrait collection"],
     },
-    imageHint: "Gripsholm Castle red brick walls",
-  },
+    imageHint: "Gripsholm Castle red brick walls", image: "/poi-images/sweden-gripsholm-castle-history-v2.webp"},
   {
     id: "sweden-skokloster-castle-history-v2",
     type: "castle",
@@ -79,8 +76,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Construit de contele Carl Gustaf Wrangel", "Sala de bal neterminată arată tehnica", "Conține pictura 'Vertumnus'", "Peste 50.000 de piese în colecție"],
       en: ["Built by Count Carl Gustaf Wrangel", "Unfinished banquet hall shows construction", "Contains the painting 'Vertumnus'", "Over 50,000 items in the collection"],
     },
-    imageHint: "Skokloster Castle Baroque architecture",
-  },
+    imageHint: "Skokloster Castle Baroque architecture", image: "/poi-images/sweden-skokloster-castle-history-v2.webp"},
   {
     id: "sweden-uppsala-cathedral-history-v2",
     type: "cathedral",
@@ -99,8 +95,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Înălțimea turnurilor: 118,7 metri", "Timp de construcție: 1272-1435", "Locul de mormânt al lui Gustav Vasa", "Sediul arhiepiscopului de Uppsala"],
       en: ["Height of the towers: 118.7 meters", "Construction period: 1272 to 1435", "Burial place of Gustav Vasa", "Seat of the Archbishop of Uppsala"],
     },
-    imageHint: "Uppsala Cathedral twin towers",
-  },
+    imageHint: "Uppsala Cathedral twin towers", image: "/poi-images/sweden-uppsala-cathedral-history-v2.webp"},
   {
     id: "sweden-lund-cathedral-history-v2",
     type: "cathedral",
@@ -119,8 +114,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Cea mai veche catedrală din Scandinavia", "Ceas astronomic 'Horologium mirabile'", "Criptă cu figuri de piatră (Uriașul Finn)", "Fost sediu metropolitan al Nordului"],
       en: ["Oldest cathedral in Scandinavia", "Horologium mirabile astronomical clock", "Crypt featuring stone figures (Giant Finn)", "Former metropolitan seat of the North"],
     },
-    imageHint: "Lund Cathedral Romanesque facade",
-  },
+    imageHint: "Lund Cathedral Romanesque facade", image: "/poi-images/sweden-lund-cathedral-history-v2.webp"},
   {
     id: "sweden-birka-ruins-history-v2",
     type: "ruins",
@@ -139,8 +133,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1993", "Fondat în jurul anului 750 d.Hr.", "Primul loc de misiune creștină (Ansgar)", "Peste 3.000 de tumuli pe insulă"],
       en: ["UNESCO World Heritage site since 1993", "Founded around 750 AD", "First site of Christian mission (Ansgar)", "Over 3,000 burial mounds on the island"],
     },
-    imageHint: "Birka Viking settlement archaeological site",
-  },
+    imageHint: "Birka Viking settlement archaeological site", image: "/poi-images/sweden-birka-ruins-history-v2.webp"},
   {
     id: "sweden-gammelstad-church-town-history-v2",
     type: "village",
@@ -199,8 +192,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1994", "Create între 1700-500 î.Hr.", "Peste 600 de panouri de rocă în regiune", "Motiv faimos: 'Perechea de miri'"],
       en: ["UNESCO World Heritage site since 1994", "Created between 1700-500 BC", "Over 600 rock panels in the region", "Famous motif: 'The Lovers'"],
     },
-    imageHint: "Tanum rock carvings red petroglyphs",
-  },
+    imageHint: "Tanum rock carvings red petroglyphs", image: "/poi-images/sweden-tanum-rock-carvings-history-v2.webp"},
   {
     id: "sweden-ales-stenar-history-v2",
     type: "monument",
@@ -219,8 +211,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Lungimea formațiunii: 67 metri", "Datată în jurul anului 600 d.Hr.", "Formată din 59 de pietre de gresie mari", "Cea mai mare navă de piatră din Suedia"],
       en: ["Length of the formation: 67 meters", "Dated to approximately 600 AD", "Consists of 59 large sandstone blocks", "Largest ship setting in Sweden"],
     },
-    imageHint: "Ales Stenar stones in ship formation",
-  },
+    imageHint: "Ales Stenar stones in ship formation", image: "/poi-images/sweden-ales-stenar-history-v2.webp"},
   {
     id: "sweden-vadstena-abbey-history-v2",
     type: "church",
@@ -239,8 +230,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Punerea pietrei de temelie în 1384", "Centrul ordinului birgitin", "Locul de mormânt al reginei Philippa", "Racla cu moaștele Sfintei Birgitta"],
       en: ["Foundation stone laid in 1384", "Center of the Bridgettine Order", "Burial place of Queen Philippa", "Houses the reliquary of St. Bridget"],
     },
-    imageHint: "Vadstena Abbey church and Vättern lake",
-  },
+    imageHint: "Vadstena Abbey church and Vättern lake", image: "/poi-images/sweden-vadstena-abbey-history-v2.webp"},
   {
     id: "sweden-anundshog-monument-history-v2",
     type: "monument",
@@ -259,8 +249,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Diametrul tumulului: 64 metri", "Piatră runică din secolul al XI-lea", "Loc istoric de adunare (Thing)", "Datat în perioada migrațiilor"],
       en: ["Mound diameter: 64 meters", "Runestone dates to the 11th century", "Historical assembly site (Thing)", "Dated to the Migration Period"],
     },
-    imageHint: "Anundshög burial mound and ship settings",
-  },
+    imageHint: "Anundshög burial mound and ship settings", image: "/poi-images/sweden-anundshog-monument-history-v2.webp"},
   {
     id: "sweden-gamla-uppsala-ruins-history-v2",
     type: "ruins",
@@ -279,8 +268,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Centrul regalității suedeze", "Trei tumuli mari (secolul VI)", "Sediul arhiepiscopului suedez până în 1273", "Biserică istorică pe terenul templului"],
       en: ["Center of the early Swedish kingdom", "Three large mounds (6th century)", "Seat of the Swedish Archbishop until 1273", "Historic church built on temple site"],
     },
-    imageHint: "Gamla Uppsala burial mounds and church",
-  },
+    imageHint: "Gamla Uppsala burial mounds and church", image: "/poi-images/sweden-gamla-uppsala-ruins-history-v2.webp"},
   {
     id: "sweden-bohus-fortress-history-v2",
     type: "ruins",
@@ -299,8 +287,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Construită în anul 1308", "Niciodată cucerită în luptă", "Turnul închisorii 'Fars hatt' păstrat", "Cetate de frontieră între trei regate"],
       en: ["Built in the year 1308", "Never conquered in battle", "Includes the 'Fars hatt' prison tower", "Border fortress between three kingdoms"],
     },
-    imageHint: "Bohus Fortress ruins and tower",
-  },
+    imageHint: "Bohus Fortress ruins and tower", image: "/poi-images/sweden-bohus-fortress-history-v2.webp"},
   {
     id: "sweden-karlskrona-naval-port-history-v2",
     type: "port",
@@ -319,8 +306,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1998", "Fondat de Carol al XI-lea în 1680", "Găzduiește Muzeul Naval", "Cea mai veche fabrică de frânghii"],
       en: ["UNESCO World Heritage site since 1998", "Founded by Karl XI in 1680", "Houses the National Naval Museum", "Home to Sweden's oldest ropewalk"],
     },
-    imageHint: "Karlskrona naval base and lighthouse",
-  },
+    imageHint: "Karlskrona naval base and lighthouse", image: "/poi-images/sweden-karlskrona-naval-port-history-v2.webp"},
   {
     id: "sweden-engelsberg-ironworks-history-v2",
     type: "industry",
@@ -339,8 +325,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1993", "Construit în anul 1681", "Important pentru industria oțelului", "Complex complet conservat"],
       en: ["UNESCO World Heritage site since 1993", "Built in the year 1681", "Key to Sweden's early steel dominance", "Complete industrial complex preserved"],
     },
-    imageHint: "Engelsberg Ironworks historic industrial buildings",
-  },
+    imageHint: "Engelsberg Ironworks historic industrial buildings", image: "/poi-images/sweden-engelsberg-ironworks-history-v2.webp"},
   {
     id: "sweden-hallwyl-museum-history-v2",
     type: "museum",
@@ -359,8 +344,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Construit între 1893 și 1898", "Donat statului în 1920", "Peste 50.000 de obiecte catalogate", "Exemplu timpuriu de tehnică modernă"],
       en: ["Built between 1893 and 1898", "Donated to the state in 1920", "Over 50,000 catalogued objects", "Early example of modern amenities"],
     },
-    imageHint: "Hallwyl Museum courtyard Stockholm",
-  },
+    imageHint: "Hallwyl Museum courtyard Stockholm", image: "/poi-images/sweden-hallwyl-museum-history-v2.webp"},
   {
     id: "sweden-riddarholmen-church-history-v2",
     type: "church",
@@ -379,8 +363,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Singura abație medievală din Stockholm", "Aproape toți regii suedezi sunt îngropați aici", "Turlă distinctivă din fontă", "Slujbe doar la ocazii speciale"],
       en: ["Stockholm's only medieval abbey", "Final resting place of most monarchs", "Distinctive cast-iron spire", "Services held only for special occasions"],
     },
-    imageHint: "Riddarholmen Church cast iron spire",
-  },
+    imageHint: "Riddarholmen Church cast iron spire", image: "/poi-images/sweden-riddarholmen-church-history-v2.webp"},
   {
     id: "sweden-varberg-fortress-history-v2",
     type: "castle",
@@ -399,8 +382,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Găzduiește 'Omul din Bocksten'", "Strategic important în zona de frontieră", "Construcție pe parcursul mai multor secole", "Faimoasă pentru zidurile monumentale"],
       en: ["Houses the 'Bocksten Man' bog body", "Strategically vital border site", "Built over several centuries", "Famous for monumental ramparts"],
     },
-    imageHint: "Varberg Fortress walls and museum",
-  },
+    imageHint: "Varberg Fortress walls and museum", image: "/poi-images/sweden-varberg-fortress-history-v2.webp"},
   {
     id: "sweden-linkoping-cathedral-history-v2",
     type: "cathedral",
@@ -419,8 +401,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Începutul construcției în secolul XII", "Turn în stil neogotic (1886)", "Vitralii de Lisa Bauer", "A doua biserică ca mărime din Suedia"],
       en: ["Construction began in the 12th century", "Neogothic tower added in 1886", "Features glass windows by Lisa Bauer", "Sweden's second largest church"],
     },
-    imageHint: "Linköping Cathedral exterior",
-  },
+    imageHint: "Linköping Cathedral exterior", image: "/poi-images/sweden-linkoping-cathedral-history-v2.webp"},
   {
     id: "sweden-sigtuna-ruins-history-v2",
     type: "ruins",
@@ -439,8 +420,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Fondat de regele Erik Segersäll", "Peste 150 de pietre runice în apropiere", "Ruina bisericii Sf. Olof", "Prima monetărie din Suedia"],
       en: ["Founded by King Erik the Victorious", "Over 150 runestones in the vicinity", "St. Olof's church ruins", "Site of the first Swedish mint"],
     },
-    imageHint: "Sigtuna church ruins and runestone",
-  },
+    imageHint: "Sigtuna church ruins and runestone", image: "/poi-images/sweden-sigtuna-ruins-history-v2.webp"},
   {
     id: "sweden-tjoloholm-castle-history-v2",
     type: "castle",
@@ -459,8 +439,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Construit între 1898 și 1904", "Deține un sistem timpuriu de aspirare", "Locație pe o peninsulă la Kungsbackafjord", "Design de Lars Israel Wahlman"],
       en: ["Built between 1898 and 1904", "Features an early vacuum system", "Located on a peninsula in Kungsbacka Fjord", "Designed by Lars Israel Wahlman"],
     },
-    imageHint: "Tjolöholm Castle Tudor architecture",
-  },
+    imageHint: "Tjolöholm Castle Tudor architecture", image: "/poi-images/sweden-tjoloholm-castle-history-v2.webp"},
   {
     id: "sweden-orebro-castle-history-v2",
     type: "castle",
@@ -479,8 +458,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Inițial o cetate medievală", "Astăzi sediul guvernatorului", "Destinație populară pentru tururi cu fantome", "Turnuri circulare masive la colțuri"],
       en: ["Originally a medieval stronghold", "Now the seat of the County Governor", "Popular site for ghost tours", "Massive round towers at the corners"],
     },
-    imageHint: "Örebro Castle reflection in river",
-  },
+    imageHint: "Örebro Castle reflection in river", image: "/poi-images/sweden-orebro-castle-history-v2.webp"},
   {
     id: "sweden-royal-palace-stockholm-history-v2",
     type: "palace",
@@ -499,8 +477,7 @@ export const swedenHistoryV2: POI[] = [
       ro: ["Peste 600 de camere în interior", "Ceremonia zilnică de schimbare a gărzii", "Găzduiește Trezoreria Regală", "Construit pe ruinele Tre Kronor"],
       en: ["Contains over 600 rooms", "Daily changing of the guard ceremony", "Houses the Royal Treasury", "Built on the ruins of Tre Kronor castle"],
     },
-    imageHint: "Stockholm Royal Palace facade",
-  },
+    imageHint: "Stockholm Royal Palace facade", image: "/poi-images/sweden-royal-palace-stockholm-history-v2.webp"},
   {
     id: "sweden-glimmingehus-history-v2",
     type: "castle",

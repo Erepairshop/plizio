@@ -31,8 +31,7 @@ export const polandCitiesV2: POI[] = [
       hu: ["Lengyelország fővárosa 1596 óta", "A Visztula folyó partján fekszik", "Több mint 1,8 millió lakos", "Az Óváros az UNESCO Világörökség része", "Újjáépítették a második világháborús pusztítás után", "A Kultúra és Tudomány Palotája Lengyelország legmagasabb épülete", "Fontos közlekedési csomópont a Chopin repülőtérrel", "A Varsói Felkelés Múzeumának helyszíne", "A város szimbóluma a varsói hableány", "A kortárs zenének szentelt Varsói Ősz fesztivál éves helyszíne", "A 2012-es Eb-re épült Nemzeti Stadion otthona", "Közép-Európa pénzügyi és üzleti központja"],
       ro: ["Capitala Poloniei din 1596", "Situat pe râul Vistula", "Populație de peste 1,8 milioane de locuitori", "Centrul Vechi este un sit al Patrimoniului Mondial UNESCO", "Reconstruit după distrugerea din Al Doilea Război Mondial", "Palatul Culturii și Științei este cea mai înaltă clădire din Polonia", "Nod de transport important cu Aeroportul Chopin", "Locația Muzeului Insurecției din Varșovia", "Simbolul orașului este Sirena din Varșovia", "Gazda anuală a festivalului de muzică contemporană Toamna Varșoviană", "Adomiciliul Stadionului Național, construit pentru Euro 2012", "Centru financiar și de afaceri în Europa Centrală"],
       en: ["Capital of Poland since 1596", "Located on the Vistula River", "Population of over 1.8 million people", "The Old Town is a UNESCO World Heritage site", "Rebuilt after its destruction in World War II", "The Palace of Culture and Science is the tallest building in Poland", "Major transportation hub with Chopin Airport", "Site of the Warsaw Uprising Museum", "The city's symbol is the Warsaw Mermaid", "Host of the annual Warsaw Autumn contemporary music festival", "Home to the National Stadium, built for Euro 2012", "Center for finance and business in Central Europe"],
-    },
-  },
+    }, image: "/poi-images/poland-warsaw-cities-v2.webp"},
   {
     id: "poland-krakow-cities-v2",
     type: "city",
@@ -63,8 +62,7 @@ export const polandCitiesV2: POI[] = [
       hu: ["Lengyelország egykori fővárosa", "A történelmi központ az UNESCO Világörökség része", "A Wawel királyi vár otthona", "A Főpiactér Európa egyik legnagyobb középkori tere", "A Jagelló Egyetemet 1364-ben alapították", "A Mária-templom híres Veit Stoss oltáráról", "Az egykori zsidó negyed, Kazimierz, fontos kulturális központ", "Oskar Schindler egykori zománcgyárának helyszíne", "A közeli Wieliczka sóbánya szintén UNESCO Világörökség", "II. János Pál Krakkó érseke volt", "A Planty park veszi körül az Óvárost", "Híres a Wawel sárkány legendájáról"],
       ro: ["Fosta capitală a Poloniei", "Centrul istoric este un sit al Patrimoniului Mondial UNESCO", "Găzduiește Castelul Regal Wawel", "Piața Principală este una dintre cele mai mari piețe medievale din Europa", "Universitatea Jagiellonă a fost fondată în 1364", "Bazilica Sf. Maria este renumită pentru altarul său realizat de Veit Stoss", "Fostul cartier evreiesc Kazimierz este un centru cultural important", "Locația fostei fabrici de email a lui Oskar Schindler", "Salina Wieliczka din apropiere este, de asemenea, un sit al Patrimoniului Mondial UNESCO", "Ioan Paul al II-lea a fost Arhiepiscop de Cracovia", "Parcul Planty înconjoară Centrul Vechi", "Cunoscut pentru legenda Dragonului Wawel"],
       en: ["Former capital of Poland", "Historic centre is a UNESCO World Heritage site", "Home to Wawel Royal Castle", "The Main Market Square is one of Europe's largest medieval squares", "Jagiellonian University was founded in 1364", "St. Mary's Basilica is famous for its altarpiece by Veit Stoss", "The former Jewish quarter, Kazimierz, is a major cultural hub", "Site of Oskar Schindler's former enamel factory", "Nearby Wieliczka Salt Mine is also a UNESCO World Heritage site", "John Paul II served as Archbishop of Kraków", "The Planty Park surrounds the Old Town", "Known for its legend of the Wawel Dragon"],
-    },
-  },
+    }, image: "/poi-images/poland-krakow-cities-v2.webp"},
   {
     id: "poland-lodz-cities-v2",
     type: "city",
@@ -95,8 +93,7 @@ export const polandCitiesV2: POI[] = [
       hu: ["Lengyelország harmadik legnagyobb városa", "A „lengyel Manchester” néven ismert", "A 19. századi textilipar központja", "A Piotrkowska utca több mint 4 km hosszú", "A Manufaktura egy hatalmas művészeti és bevásárlóközpont egy egykori gyárban", "A Łódźi Nemzeti Filmiskola otthona", "Arthur Rubinstein zongorista szülőhelye", "A város számos falfestményéről és utcai művészetéről ismert", "A Kinematográfiai Múzeum egyedülálló Lengyelországban", "A zsidó temető az egyik legnagyobb Európában", "A város a 19. században gyors népességnövekedést élt át", "A Light Move Fesztivál házigazdája"],
       ro: ["Al treilea cel mai mare oraș din Polonia", "Cunoscut ca „Manchesterul polonez”", "Centrul industriei textile în secolul al XIX-lea", "Strada Piotrkowska are o lungime de peste 4 km", "Manufaktura este un centru masiv de artă și cumpărături într-o fostă fabrică", "Sediul Școlii Naționale de Film din Łódź", "Locul de naștere al pianistului Arthur Rubinstein", "Orașul este renumit pentru numeroasele sale picturi murale și artă stradală", "Muzeul Cinematografiei este unic în Polonia", "Cimitirul Evreiesc este unul dintre cele mai mari din Europa", "Orașul a cunoscut o creștere rapidă a populației în secolul al XIX-lea", "Gazda Festivalului Light Move"],
       en: ["Third-largest city in Poland", "Known as the 'Polish Manchester'", "Center of the textile industry in the 19th century", "Piotrkowska Street is over 4 km long", "Manufaktura is a massive arts and shopping center in a former factory", "Home to the Łódź National Film School", "Birthplace of pianist Arthur Rubinstein", "The city is known for its numerous murals and street art", "The Museum of Cinematography is unique in Poland", "The Jewish Cemetery is one of the largest in Europe", "The city experienced rapid population growth in the 19th century", "Host of the Light Move Festival"],
-    },
-  },
+    }, image: "/poi-images/poland-lodz-cities-v2.webp"},
   {
     id: "poland-wroclaw-cities-v2",
     type: "city",
@@ -127,8 +124,7 @@ export const polandCitiesV2: POI[] = [
       hu: ["Lengyelország negyedik legnagyobb városa", "Szilézia történelmi fővárosa", "Az Odera folyó partján, 12 szigeten fekszik", "Több mint 100 híd, „Lengyelország Velencéje” néven ismert", "A Főtér (Rynek) Európa egyik legnagyobbja", "A Százéves Csarnok az UNESCO Világörökség része", "Híres a több száz törpeszoborról", "A Racławicei körkép otthona", "Európa Kulturális Fővárosa 2016-ban", "Az Ostrów Tumski (Katedrális-sziget) a város legrégebbi része", "A régió egyik legrégebbi egyetemének székhelye", "Fontos IT és kutatási vállalatok telephelye"],
       ro: ["Al patrulea cel mai mare oraș din Polonia", "Capitala istorică a Sileziei", "Situat pe râul Oder, pe 12 insule", "Peste 100 de poduri, cunoscut ca „Veneția Poloniei”", "Piața Centrală (Rynek) este una dintre cele mai mari din Europa", "Sala Centenarului este un sit al Patrimoniului Mondial UNESCO", "Faimos pentru sutele de statui de gnomi", "Găzduiește Panorama Racławice", "Capitală Europeană a Culturii în 2016", "Ostrów Tumski (Insula Catedralei) este cea mai veche parte a orașului", "Sediul uneia dintre cele mai vechi universități din regiune", "Locație importantă pentru companii IT și de cercetare"],
       en: ["Fourth-largest city in Poland", "Historical capital of Silesia", "Located on the Oder River across 12 islands", "Over 100 bridges, known as the 'Venice of Poland'", "The Market Square (Rynek) is one of the largest in Europe", "Centennial Hall is a UNESCO World Heritage site", "Famous for its hundreds of dwarf statues", "Home to the Racławice Panorama", "European Capital of Culture in 2016", "Ostrów Tumski (Cathedral Island) is the oldest part of the city", "Seat of one of the oldest universities in the region", "Major location for IT and research companies"],
-    },
-  },
+    }, image: "/poi-images/poland-wroclaw-cities-v2.webp"},
   {
     id: "poland-poznan-cities-v2",
     type: "city",
@@ -159,8 +155,7 @@ export const polandCitiesV2: POI[] = [
       hu: ["Lengyelország egyik legrégebbi városa", "A Warta folyó partján fekszik", "A lengyel nemzet bölcsőjének tekintik", "Híres a városháza kecskéiről", "Fontos nemzetközi vásárok helyszíne 1921 óta", "A Stary Browar, egy díjnyertes bevásárló- és művészeti központ otthona", "A Katedrális-sziget az első lengyel katedrális helye", "A Nagy-Lengyelország régió központja", "Erős gazdasági és technológiai központ", "A Máltai-tó népszerű üdülőterület", "Az 1956-os poznańi felkelés korai tiltakozás volt a kommunista rezsim ellen", "Az Adam Mickiewicz Egyetem székhelye"],
       ro: ["Unul dintre cele mai vechi orașe din Polonia", "Situat pe râul Warta", "Considerat leagănul națiunii poloneze", "Faimos pentru caprele mecanice de la Primărie", "Locație importantă pentru târguri internaționale din 1921", "Găzduiește Stary Browar, un centru comercial și de artă premiat", "Insula Catedralei este locul primei catedrale poloneze", "Centrul regiunii Polonia Mare", "Puternic centru economic și tehnologic", "Lacul Malta este o zonă populară de recreere", "Revolta de la Poznań din 1956 a fost un protest timpuriu împotriva regimului comunist", "Sediul Universității Adam Mickiewicz"],
       en: ["One of Poland's oldest cities", "Located on the Warta River", "Considered the cradle of the Polish nation", "Famous for the mechanical goats on the Town Hall", "Major site for international trade fairs since 1921", "Home to Stary Browar, an award-winning shopping and art center", "Cathedral Island is the site of the first Polish cathedral", "Center of the Greater Poland region", "Strong economic and technological hub", "Lake Malta is a popular recreational area", "The 1956 Poznań protests were an early protest against the communist regime", "Seat of Adam Mickiewicz University"],
-    },
-  },
+    }, image: "/poi-images/poland-poznan-cities-v2.webp"},
   {
     id: "poland-gdansk-cities-v2",
     type: "city",
@@ -191,8 +186,7 @@ export const polandCitiesV2: POI[] = [
       hu: ["Nagy kikötő a Balti-tengeren", "A Hármasváros nagyvárosi régió része Gdyniával és Sopottal", "Történelmileg a Hanza-szövetség fontos tagja", "A Szolidaritás mozgalom szülőhelye az 1980-as években", "A második világháború kezdetének helyszíne a Westerplattén", "A Hosszú Piac a város reprezentatív része", "A Daru egy híres középkori nevezetesség", "A világ borostyánkereskedelmének fontos központja", "A Mária-templom a világ egyik legnagyobb téglatemploma", "Az Európai Szolidaritás Központ otthona", "Éves Szent Domonkos-vásár 1260 óta", "Daniel Gabriel Fahrenheit itt született"],
       ro: ["Port major la Marea Baltică", "Parte a zonei metropolitane Triciudad cu Gdynia și Sopot", "Membru important al Ligii Hanseatice din punct de vedere istoric", "Locul de naștere al mișcării Solidaritatea în anii 1980", "Locul unde a început Al Doilea Război Mondial la Westerplatte", "Piața Lungă este partea reprezentativă a orașului", "Macaraua este un punct de reper medieval celebru", "Centru important al comerțului mondial cu chihlimbar", "Biserica Sf. Maria este una dintre cele mai mari biserici din cărămidă din lume", "Sediul Centrului European de Solidaritate", "Târgul anual al Sf. Dominic din 1260", "Daniel Gabriel Fahrenheit s-a născut aici"],
       en: ["Major port on the Baltic Sea", "Part of the Tricity metropolitan area with Gdynia and Sopot", "Historically an important member of the Hanseatic League", "Birthplace of the Solidarity movement in the 1980s", "Site of the start of World War II at Westerplatte", "The Long Market is the representative part of the city", "The Crane (Żuraw) is a famous medieval landmark", "Major center of the world's amber trade", "St. Mary's Church is one of the largest brick churches in the world", "Home to the European Solidarity Centre", "Annual St. Dominic's Fair since 1260", "Daniel Gabriel Fahrenheit was born here"],
-    },
-  },
+    }, image: "/poi-images/poland-gdansk-cities-v2.webp"},
   {
     id: "poland-szczecin-cities-v2",
     type: "city",
@@ -223,8 +217,7 @@ export const polandCitiesV2: POI[] = [
       hu: ["Nyugat-Pomeránia vajdaság fővárosa", "Nagy tengeri kikötő az Oderán", "A német határ közelében található", "Párizs által ihletett városszerkezet", "A Pomerániai Hercegek Vára fontos nevezetesség", "A Wały Chrobrego egy híres folyóparti sétány", "A Szczecini Filharmónia, egy díjnyertes modern épület otthona", "Északnyugat-Lengyelország legnagyobb városa", "A föld alatti Szczecin egy hidegháborús polgári védelmi bunker volt", "A Szent Jakab-katedrális Pomeránia egyik legnagyobb temploma", "A város súlyosan megrongálódott a második világháborúban", "Fontos hajózási ipari központ"],
       ro: ["Capitala Voievodatului Pomerania de Vest", "Port maritim major pe râul Oder", "Situat aproape de granița cu Germania", "Plan urban inspirat de Paris", "Castelul Ducilor Pomeranieni este un punct de reper important", "Wały Chrobrego este o faleză faimoasă pe malul râului", "Sediul Filarmonicii din Szczecin, o clădire modernă premiată", "Cel mai mare oraș din nord-vestul Poloniei", "Szczecinul subteran a fost un adăpost antiaerian din Războiul Rece", "Catedrala Sf. Iacob este una dintre cele mai mari biserici din Pomerania", "Orașul a fost grav avariat în Al Doilea Război Mondial", "Locație importantă pentru industria navală"],
       en: ["Capital of the West Pomeranian Voivodeship", "Major seaport on the Oder River", "Located near the German border", "Urban layout inspired by Paris", "The Pomeranian Dukes' Castle is a major landmark", "Wały Chrobrego is a famous riverside promenade", "Home of the Szczecin Philharmonic, an award-winning modern building", "Largest city in northwestern Poland", "Underground Szczecin was a Cold War civil defence bunker", "St. James' Cathedral is one of the largest churches in Pomerania", "The city was heavily damaged during World War II", "Important location for the maritime industry"],
-    },
-  },
+    }, image: "/poi-images/poland-szczecin-cities-v2.webp"},
   {
     id: "poland-bydgoszcz-cities-v2",
     type: "city",
@@ -255,8 +248,7 @@ export const polandCitiesV2: POI[] = [
       hu: ["Lengyelország nyolcadik legnagyobb városa", "A Brda és a Visztula folyók partján fekszik", "Fontos belvízi hajózási csomópont a Bydgoszcz-csatornán keresztül", "A Malomsziget történelmi és kulturális központ", "Híres az Opera Nova-ról és a Pomerániai Filharmóniáról", "Toruńnal megosztva a Kujávia-Pomeránia vajdaság fővárosa", "A Brda menti régi magtárak a város jelképei", "A Szappan és a Piszkos Történelem Múzeuma egyedülálló látványosság", "Fontos NATO-helyszín (Joint Force Training Centre)", "A Camerimage nemzetközi filmfesztivál helyszíne", "Az Exploseum egy múzeum egy egykori német robbanóanyaggyárban", "A Kazimierz Wielki Egyetem otthona"],
       ro: ["Al optulea cel mai mare oraș din Polonia", "Situat pe râurile Brda și Vistula", "Nod important pentru transportul pe căi navigabile interioare prin Canalul Bydgoszcz", "Insula Morii este un centru istoric și cultural", "Cunoscut pentru Opera Nova și Filarmonica Pomeraniană", "Împarte funcția de capitală a Voievodatului Cujavia-Pomerania cu Toruń", "Grânarele vechi de pe Brda sunt un punct de reper al orașului", "Muzeul Săpunului și al Istoriei Murdăriei este o atracție unică", "Locație importantă a NATO (Centrul de Instruire a Forțelor Întrunite)", "Gazda festivalului internațional de film Camerimage", "Exploseum este un muzeu într-o fostă fabrică germană de explozibili", "Sediul Universității Kazimierz Wielki"],
       en: ["Eighth-largest city in Poland", "Located on the Brda and Vistula rivers", "Key hub for inland water transport via the Bydgoszcz Canal", "Mill Island is a historical and cultural center", "Known for the Opera Nova and the Pomeranian Philharmonic", "Shares the function of capital of the Kuyavian-Pomeranian Voivodeship with Toruń", "The old granaries on the Brda are a city landmark", "The Museum of Soap and History of Dirt is a unique attraction", "Important NATO location (Joint Force Training Centre)", "Host of the Camerimage international film festival", "Exploseum is a museum in a former German explosives factory", "Home to Kazimierz Wielki University"],
-    },
-  },
+    }, image: "/poi-images/poland-bydgoszcz-cities-v2.webp"},
   {
     id: "poland-lublin-cities-v2",
     type: "city",
@@ -287,8 +279,7 @@ export const polandCitiesV2: POI[] = [
       hu: ["Kelet-Lengyelország legnagyobb városa", "„Kelet kapuja” néven ismert", "A lublini unió aláírásának helye 1569-ben", "A Lublini Vár bizánci-orosz stílusú freskóknak ad otthont", "A Lublini Katolikus Egyetem a város egyik legrégebbi egyeteme", "A Majdanek Állami Múzeum a város szélén található", "Az Óváros az egyik legjobb állapotban fennmaradt Lengyelországban", "Fontos egyetemi központ öt állami egyetemmel", "A „Bűvészek Karneválja” utcaművészeti fesztivál helyszíne", "Történelmileg a zsidó élet fontos központja", "A Krakkói kapu ismert nevezetesség", "A város gazdag sörfőzési hagyományokkal rendelkezik"],
       ro: ["Cel mai mare oraș din estul Poloniei", "Cunoscut ca „Poarta spre Est”", "Locul semnării Uniunii de la Lublin în 1569", "Castelul Lublin găzduiește fresce în stil bizantino-rus", "Universitatea Catolică din Lublin este una dintre cele mai vechi din oraș", "Muzeul de Stat Majdanek este situat la periferia orașului", "Centrul Vechi este unul dintre cele mai bine conservate din Polonia", "Centru academic important cu cinci universități publice", "Gazda festivalului de artă stradală „Carnavalul Magicienilor”", "Centru istoric important al vieții evreiești", "Poarta Cracoviei este un punct de reper binecunoscut", "Orașul are o bogată tradiție în fabricarea berii"],
       en: ["Largest city in eastern Poland", "Known as the 'Gateway to the East'", "Site of the signing of the Union of Lublin in 1569", "Lublin Castle houses Russo-Byzantine style frescoes", "The Catholic University of Lublin is one of the city's oldest", "The Majdanek State Museum is located on the city's outskirts", "The Old Town is one of the best-preserved in Poland", "Major academic center with five public universities", "Host of the 'Carnival of Magicians' street art festival", "Historically an important center of Jewish life", "The Cracow Gate is a well-known landmark", "The city has a rich brewing tradition"],
-    },
-  },
+    }, image: "/poi-images/poland-lublin-cities-v2.webp"},
   {
     id: "poland-bialystok-cities-v2",
     type: "city",
@@ -319,8 +310,7 @@ export const polandCitiesV2: POI[] = [
       hu: ["Podlasie vajdaság legnagyobb városa", "Közel a fehérorosz és litván határhoz", "Nemzeti parkok veszik körül, „Lengyelország zöld tüdejeként” ismert", "A Branicki-palotát „lengyel Versailles”-nak nevezik", "Ludwik Zamenhof, az eszperantó feltalálójának szülőhelye", "Történelmileg multikulturális és multireligiózus város", "A Szent Miklós ortodox katedrális fontos nevezetesség", "A Białystoki Orvostudományi Egyetem otthona", "A város közelében nagy tatár kisebbség él", "Az Up To Date elektronikus zenei fesztivál helyszíne", "A Podlasiei Opera és Filharmónia modern kulturális központ", "A közeli Białowieża Nemzeti Park a bölények otthona"],
       ro: ["Cel mai mare oraș din Voievodatul Podlasia", "Aproape de granița cu Belarus și Lituania", "Înconjurat de parcuri naționale, cunoscut ca „plămânul verde al Poloniei”", "Palatul Branicki este supranumit „Versailles-ul polonez”", "Locul de naștere al lui Ludwik Zamenhof, inventatorul limbii Esperanto", "Oraș istoric multicultural și multireligios", "Catedrala Ortodoxă Sf. Nicolae este un punct de reper important", "Sediul Universității de Medicină din Białystok", "Orașul are o minoritate tătară mare în apropiere", "Gazda festivalului de muzică electronică Up To Date", "Centrul de Operă și Filarmonică Podlasie este un centru cultural modern", "Parcul Național Białowieża, casa zimbilor, este în apropiere"],
       en: ["Largest city in the Podlaskie Voivodeship", "Near the border with Belarus and Lithuania", "Surrounded by national parks, known as the 'green lung of Poland'", "Branicki Palace is nicknamed the 'Polish Versailles'", "Birthplace of Ludwik Zamenhof, inventor of Esperanto", "Historically a multicultural and multi-religious city", "The Orthodox Cathedral of St. Nicholas is a major landmark", "Home to the Medical University of Białystok", "The city has a large Tatar minority nearby", "Host of the Up To Date electronic music festival", "The Podlaskie Opera and Philharmonic is a modern cultural center", "Białowieża National Park, home to bison, is nearby"],
-    },
-  },
+    }, image: "/poi-images/poland-bialystok-cities-v2.webp"},
   {
     id: "poland-katowice-cities-v2",
     type: "city",
@@ -351,8 +341,7 @@ export const polandCitiesV2: POI[] = [
       hu: ["Szilézia vajdaság fővárosa", "A Felső-sziléziai Ipari Régió központja", "Történelmileg a szénbányászat központja", "A Spodek Aréna híres többcélú csarnok", "A Kultúrazónát egy egykori bánya területén hozták létre", "A Lengyel Nemzeti Rádió Szimfonikus Zenekarának otthona", "Az UNESCO Zene Városa címmel tüntették ki", "Az Off Fesztivál, egy nagy zenei fesztivál helyszíne", "A Sziléziai Múzeum egy egykori szénbányában található", "A Nikiszowiec és Giszowiec egyedülálló történelmi munkásnegyedek", "Fontos vasúti csomópont Lengyelországban", "A város jelentős mértékben fektet be a technológiába és a szolgáltatásokba"],
       ro: ["Capitala Voievodatului Silezia", "Centrul Regiunii Industriale a Sileziei Superioare", "Centru istoric al mineritului de cărbune", "Arena Spodek este o faimoasă arenă multifuncțională", "Zona Culturală a fost construită pe un fost sit minier", "Sediul Orchestrei Simfonice a Radioului Național Polonez", "Desemnat Oraș al Muzicii UNESCO", "Gazda Off Festival, un important festival de muzică", "Muzeul Silezian este situat într-o fostă mină de cărbune", "Nikiszowiec și Giszowiec sunt așezări muncitorești istorice unice", "Nod feroviar important în Polonia", "Orașul investește masiv în tehnologie și servicii"],
       en: ["Capital of the Silesian Voivodeship", "Center of the Upper Silesian Industrial Region", "Historically a center for coal mining", "The Spodek arena is a famous multi-purpose venue", "The Culture Zone is built on a former mining site", "Home to the Polish National Radio Symphony Orchestra", "Designated as a UNESCO City of Music", "Host of the Off Festival, a major music festival", "The Silesian Museum is located in a former coal mine", "Nikiszowiec and Giszowiec are unique historical workers' settlements", "Major railway hub in Poland", "The city is investing heavily in technology and services"],
-    },
-  },
+    }, image: "/poi-images/poland-katowice-cities-v2.webp"},
   {
     id: "poland-gdynia-cities-v2",
     type: "city",
@@ -383,8 +372,7 @@ export const polandCitiesV2: POI[] = [
       hu: ["A Hármasváros nagyvárosi régió része", "Fontos tengeri kikötő, az 1920-as években épült", "Modernista építészetéről ismert", "Az ORP Błyskawica és a Dar Pomorza múzeumhajók a kikötőben horgonyoznak", "A Gdyniai Akvárium otthona", "Az éves Open'er Fesztivál helyszíne", "A várost lengyel kikötőként fejlesztették az első világháború után", "A Kościuszko tér egy népszerű nyilvános tér a vízparton", "A Gdyniai Filmfesztivál a legfontosabb lengyel filmes esemény", "Az Orłowo szikla egy festői természeti emlék", "A Gdyniai Tengerészeti Egyetem tengerészeket képez", "Fontos kompkikötő, összeköttetéssel Svédországgal"],
       ro: ["Parte a zonei metropolitane Triciudad", "Port maritim important, construit în anii 1920", "Cunoscut pentru arhitectura sa modernistă", "Navele-muzeu ORP Błyskawica și Dar Pomorza sunt ancorate în port", "Găzduiește Acvariul din Gdynia", "Gazda anuală a Festivalului Open'er", "Orașul a fost dezvoltat ca port polonez după Primul Război Mondial", "Piața Kościuszko este un spațiu public popular pe malul apei", "Festivalul de Film de la Gdynia este cel mai important eveniment cinematografic polonez", "Faleza Orłowo este un monument natural pitoresc", "Universitatea Maritimă din Gdynia formează marinari", "Port important de feriboturi cu legături către Suedia"],
       en: ["Part of the Tricity metropolitan area", "Major seaport built in the 1920s", "Known for its modernist architecture", "The museum ships ORP Błyskawica and Dar Pomorza are docked in the harbor", "Home to the Gdynia Aquarium", "Host of the annual Open'er Festival", "The city was developed as a Polish port after World War I", "Kościuszko Square is a popular public space on the waterfront", "The Gdynia Film Festival is the most important Polish film event", "The Orłowo Cliff is a picturesque natural monument", "Gdynia Maritime University trains seafarers", "Major ferry port with connections to Sweden"],
-    },
-  },
+    }, image: "/poi-images/poland-gdynia-cities-v2.webp"},
   {
     id: "poland-czestochowa-cities-v2",
     type: "city",
@@ -415,8 +403,7 @@ export const polandCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-czestochowa-cities-v2.webp"},
   {
     id: "poland-radom-cities-v2",
     type: "city",
@@ -447,8 +434,7 @@ export const polandCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-radom-cities-v2.webp"},
   {
     id: "poland-sosnowiec-cities-v2",
     type: "city",
@@ -479,8 +465,7 @@ export const polandCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-sosnowiec-cities-v2.webp"},
   {
     id: "poland-torun-cities-v2",
     type: "city",
@@ -511,8 +496,7 @@ export const polandCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-torun-cities-v2.webp"},
   {
     id: "poland-kielce-cities-v2",
     type: "city",
@@ -543,8 +527,7 @@ export const polandCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-kielce-cities-v2.webp"},
   {
     id: "poland-rzeszow-cities-v2",
     type: "city",
@@ -563,8 +546,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Inima regiunii poloneze 'Aviation Valley'", "Deține un castel din secolul al XVII-lea", "Cunoscut pentru piața centrală cu primărie", "Nod logistic important în sud-est"],
       en: ["Heart of the Polish 'Aviation Valley'", "Features a 17th-century castle", "Known for its market square and town hall", "Major logistics hub in southeastern Poland"],
     },
-    imageHint: "Rzeszow Market Square and Town Hall",
-  },
+    imageHint: "Rzeszow Market Square and Town Hall", image: "/poi-images/poland-rzeszow-cities-v2.webp"},
   {
     id: "poland-gliwice-cities-v2",
     type: "city",
@@ -583,8 +565,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Locul incidentului de la Gleiwitz (1939)", "Deține cel mai înalt turn de lemn din lume", "Centru pentru IT și construcția de mașini", "Găzduiește Universitatea Tehnică din Silezia"],
       en: ["Site of the Gleiwitz incident (1939)", "Has the world's tallest wooden structure", "Center for IT and mechanical engineering", "Home to the Silesian University of Technology"],
     },
-    imageHint: "Gliwice Radio Tower wooden structure",
-  },
+    imageHint: "Gliwice Radio Tower wooden structure", image: "/poi-images/poland-gliwice-cities-v2.webp"},
   {
     id: "poland-zabrze-cities-v2",
     type: "city",
@@ -603,8 +584,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Găzduiește Muzeul Minei Guido", "Cunoscut pentru orchestra sa minieră", "Numit anterior după Paul von Hindenburg", "Centru medical important pentru cardiologie"],
       en: ["Home to the Guido Coal Mine Museum", "Known for its mining orchestra", "Formerly named after Paul von Hindenburg", "Major center for cardiology in Poland"],
     },
-    imageHint: "Guido Mine entrance in Zabrze",
-  },
+    imageHint: "Guido Mine entrance in Zabrze", image: "/poi-images/poland-zabrze-cities-v2.webp"},
   {
     id: "poland-olsztyn-cities-v2",
     type: "city",
@@ -623,8 +603,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Poarta către regiunea lacurilor Mazuriene", "Copernic a scris aici lucrări de astronomie", "Deține un planetariu și un observator", "Catedrala gotică Sf. Iacob în centrul vechi"],
       en: ["Gateway to the Masurian Lake District", "Copernicus wrote astronomical works here", "Home to a planetarium and observatory", "Gothic St. James Cathedral in the Old Town"],
     },
-    imageHint: "Olsztyn Gothic Castle and park",
-  },
+    imageHint: "Olsztyn Gothic Castle and park", image: "/poi-images/poland-olsztyn-cities-v2.webp"},
   {
     id: "poland-bielsko-biala-cities-v2",
     type: "city",
@@ -643,8 +622,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Cunoscut pentru arhitectura splendidă din sec. XIX", "Sediul studioului de animație (Lolek & Bolek)", "Centru al industriei auto poloneze", "Punct de plecare popular pentru drumeții"],
       en: ["Known for splendid 19th-century architecture", "Home to the animation studio of Lolek & Bolek", "Center of the Polish automotive industry", "Popular starting point for mountain hiking"],
     },
-    imageHint: "Bielsko-Biala city hall and historic square",
-  },
+    imageHint: "Bielsko-Biala city hall and historic square", image: "/poi-images/poland-bielsko-biala-cities-v2.webp"},
   {
     id: "poland-bytom-cities-v2",
     type: "city",
@@ -663,8 +641,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Sediul Operei din Silezia", "Deține Muzeul Sileziei Superioare", "Bogat în arhitectură Art Nouveau", "Fost centru al mineritului de argint și plumb"],
       en: ["Seat of the Silesian Opera", "Home to the Upper Silesian Museum", "Rich in Art Nouveau architecture", "Once a center for silver and lead mining"],
     },
-    imageHint: "Bytom Silesian Opera building",
-  },
+    imageHint: "Bytom Silesian Opera building", image: "/poi-images/poland-bytom-cities-v2.webp"},
   {
     id: "poland-zielona-gora-cities-v2",
     type: "city",
@@ -683,8 +660,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Găzduiește anual un festival al vinului (Winobranie)", "Are un muzeu al vinului în interiorul Palmei", "Cea mai nordică regiune viticolă din Polonia", "Sediul Muzeului Regional Lubusz"],
       en: ["Hosts a large annual wine festival (Winobranie)", "Features a wine museum in the Palm House", "Northernmost wine-growing region in Poland", "Seat of the Lubusz Regional Museum"],
     },
-    imageHint: "Zielona Gora Palm House and vineyards",
-  },
+    imageHint: "Zielona Gora Palm House and vineyards", image: "/poi-images/poland-zielona-gora-cities-v2.webp"},
   {
     id: "poland-rybnik-cities-v2",
     type: "city",
@@ -703,8 +679,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Numele provine de la cuvântul pentru 'pește'", "Deține o centrală electrică pe cărbune mare", "Loc important pentru sporturile cu motor", "Lacul de acumulare este o zonă de agrement populară"],
       en: ["Name derives from the word for 'fish'", "Home to a large coal-fired power station", "Important location for motorsports", "Rybnik Reservoir is a popular recreation area"],
     },
-    imageHint: "Rybnik city center and Basilica",
-  },
+    imageHint: "Rybnik city center and Basilica", image: "/poi-images/poland-rybnik-cities-v2.webp"},
   {
     id: "poland-ruda-slaska-cities-v2",
     type: "city",
@@ -723,8 +698,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Centru al extracției de cărbune", "Are colonii de muncitori istorice", "Locație industrială de importanță majoră", "Oraș marcat de tradițiile sileziene"],
       en: ["Center of coal mining operations", "Features historic workers' settlements", "Significant industrial location", "Shaped by Silesian culture and traditions"],
     },
-    imageHint: "Ruda Slaska industrial landscape and housing",
-  },
+    imageHint: "Ruda Slaska industrial landscape and housing", image: "/poi-images/poland-ruda-slaska-cities-v2.webp"},
   {
     id: "poland-opole-cities-v2",
     type: "city",
@@ -743,8 +717,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Capitala voievodatului Opole", "Găzduiește Muzeul Cântecului Polonez", "Turnul Piast este simbolul orașului", "Centru important al minorității germane"],
       en: ["Capital of the Opole Voivodeship", "Home to the Museum of Polish Song", "The Piast Tower is a local landmark", "Major center for the German minority in Poland"],
     },
-    imageHint: "Opole Venice houses on the canal",
-  },
+    imageHint: "Opole Venice houses on the canal", image: "/poi-images/poland-opole-cities-v2.webp"},
   {
     id: "poland-tychy-cities-v2",
     type: "city",
@@ -763,8 +736,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Găzduiește berăria Tyskie (din 1629)", "Centru major de producție auto (Fiat)", "Situat lângă lacul Paprocany", "Deține un stadion modern de hochei"],
       en: ["Home to the Tyskie Brewery (since 1629)", "Major automotive production site (Fiat)", "Located by the Paprocany Lake", "Features a modern ice hockey stadium"],
     },
-    imageHint: "Tyskie Brewery historic buildings in Tychy",
-  },
+    imageHint: "Tyskie Brewery historic buildings in Tychy", image: "/poi-images/poland-tychy-cities-v2.webp"},
   {
     id: "poland-gorzow-wielkopolski-cities-v2",
     type: "city",
@@ -783,8 +755,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Bastion al sportului speedway în Polonia", "Deține o catedrală gotică din sec. XIII", "Locație industrială importantă în vest", "Numele său istoric era Landsberg an der Warthe"],
       en: ["Stronghold of speedway racing in Poland", "Features a 13th-century Gothic cathedral", "Major industrial location in western Poland", "Formerly called Landsberg an der Warthe"],
     },
-    imageHint: "Gorzow Wielkopolski cathedral and river",
-  },
+    imageHint: "Gorzow Wielkopolski cathedral and river", image: "/poi-images/poland-gorzow-wielkopolski-cities-v2.webp"},
   {
     id: "poland-elblag-cities-v2",
     type: "city",
@@ -803,8 +774,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Punct de plecare al Canalului Elbląg", "Are planuri înclinate unice pentru nave", "Fost membru al Ligii Hanseatice", "Găzduiește Muzeul din Elbląg"],
       en: ["Starting point of the Elbląg Canal", "Features unique inclined planes for ships", "Former member of the Hanseatic League", "Home to the Elbląg Museum"],
     },
-    imageHint: "Elblag Canal inclined plane for boats",
-  },
+    imageHint: "Elblag Canal inclined plane for boats", image: "/poi-images/poland-elblag-cities-v2.webp"},
   {
     id: "poland-plock-cities-v2",
     type: "city",
@@ -823,8 +793,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Sediul celei mai mari companii petroliere (Orlen)", "Deține o catedrală romanică din sec. XII", "Capitala istorică a regiunii Mazovia", "Cunoscut pentru panorama asupra Vistulei"],
       en: ["Seat of the largest Polish oil company (Orlen)", "Features a 12th-century Romanesque cathedral", "Historical capital of the Mazovia region", "Known for its panoramic view over the Vistula"],
     },
-    imageHint: "Plock Cathedral and Vistula River view",
-  },
+    imageHint: "Plock Cathedral and Vistula River view", image: "/poi-images/poland-plock-cities-v2.webp"},
   {
     id: "poland-dabrowa-gornicza-cities-v2",
     type: "city",
@@ -843,8 +812,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Găzduiește combinatul siderurgic Huta Katowice", "Are patru lacuri mari de agrement (Pogoria)", "Locație industrială majoră", "Deține un muzeu al mineritului (Sztygarka)"],
       en: ["Home to the Huta Katowice steelworks", "Features four large recreation lakes (Pogoria)", "Major industrial and mining center", "Home to the Sztygarka Mining Museum"],
     },
-    imageHint: "Dabrowa Gornicza Pogoria lake aerial view",
-  },
+    imageHint: "Dabrowa Gornicza Pogoria lake aerial view", image: "/poi-images/poland-dabrowa-gornicza-cities-v2.webp"},
   {
     id: "poland-walbrzych-cities-v2",
     type: "city",
@@ -863,8 +831,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Castelul Książ este al treilea ca mărime din Polonia", "Fost centru al mineritului din Silezia Inferioară", "Găzduiește centrul Stara Kopalnia (Vechea Mină)", "Poarta către munții Wałbrzyskie"],
       en: ["Książ Castle is the third largest in Poland", "Former center of Lower Silesian coal mining", "Home to Old Mine Science and Art Centre", "Gateway to the Wałbrzyskie Mountains"],
     },
-    imageHint: "Ksiaz Castle in Walbrzych forest",
-  },
+    imageHint: "Ksiaz Castle in Walbrzych forest", image: "/poi-images/poland-walbrzych-cities-v2.webp"},
   {
     id: "poland-wloclawek-cities-v2",
     type: "city",
@@ -883,8 +850,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Sediul uneia dintre cele mai vechi episcopii", "Catedrală gotică cu vitralii remarcabile", "Centru important al industriei chimice", "Locul unui baraj major pe râul Vistula"],
       en: ["Seat of one of the oldest Polish dioceses", "Features a Gothic cathedral with stained glass", "Significant center for the chemical industry", "Site of a major dam on the Vistula River"],
     },
-    imageHint: "Wloclawek Cathedral and river view",
-  },
+    imageHint: "Wloclawek Cathedral and river view", image: "/poi-images/poland-wloclawek-cities-v2.webp"},
   {
     id: "poland-tarnow-cities-v2",
     type: "city",
@@ -903,8 +869,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Deține una dintre cele mai frumoase primării renascentiste", "Centru important pentru moștenirea evreiască", "Locație majoră a industriei de azot", "Considerat cel mai cald punct din Polonia"],
       en: ["Has one of the finest Renaissance town halls", "Significant center for Jewish heritage", "Major location for the nitrogen industry", "Regarded as the warmest point in Poland"],
     },
-    imageHint: "Tarnow Renaissance Old Town Hall",
-  },
+    imageHint: "Tarnow Renaissance Old Town Hall", image: "/poi-images/poland-tarnow-cities-v2.webp"},
   {
     id: "poland-chorzow-cities-v2",
     type: "city",
@@ -923,8 +888,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Sediul Stadionului Silezian", "Găzduiește o grădină zoologică și un planetariu", "Cunoscut anterior sub numele de Königshütte", "Centru al mineritului și metalurgiei"],
       en: ["Seat of the Silesian Stadium", "Home to a zoo and a planetarium", "Formerly known as Königshütte", "Center for mining and metallurgical industry"],
     },
-    imageHint: "Silesian Stadium in Chorzow",
-  },
+    imageHint: "Silesian Stadium in Chorzow", image: "/poi-images/poland-chorzow-cities-v2.webp"},
   {
     id: "poland-koszalin-cities-v2",
     type: "city",
@@ -943,8 +907,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Deține o catedrală gotică din sec. XIV", "Centru important pentru turism", "Sediul Filarmonicii din Koszalin", "Aproape de stațiunile populare de la Mielno"],
       en: ["Features a 14th-century Gothic cathedral", "Significant center for tourism", "Home to the Koszalin Philharmonic", "Close to the popular seaside resort of Mielno"],
     },
-    imageHint: "Koszalin Cathedral and city park",
-  },
+    imageHint: "Koszalin Cathedral and city park", image: "/poi-images/poland-koszalin-cities-v2.webp"},
   {
     id: "poland-kalisz-cities-v2",
     type: "city",
@@ -963,8 +926,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Menționat de Ptolemeu în secolul al II-lea", "Cunoscut pentru industria textilă și muzicală", "Deține biserici baroce splendide", "Punct important pe Drumul Chihlimbarului"],
       en: ["Mentioned by Ptolemy in the 2nd century AD", "Known for its textile and music industries", "Features splendid Baroque churches", "Important stop on the ancient Amber Road"],
     },
-    imageHint: "Kalisz city hall and central square",
-  },
+    imageHint: "Kalisz city hall and central square", image: "/poi-images/poland-kalisz-cities-v2.webp"},
   {
     id: "poland-legnica-cities-v2",
     type: "city",
@@ -983,8 +945,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Sediul Castelului Piast", "Locul bătăliei de la Legnica (1241)", "Centru major pentru cupru (KGHM)", "Fostă reședință a dinastiei Piast"],
       en: ["Seat of the Piast Castle", "Site of the Battle of Legnica (1241)", "Major copper mining hub (KGHM)", "Former residence of the Silesian Piast dukes"],
     },
-    imageHint: "Legnica Piast Castle and tower",
-  },
+    imageHint: "Legnica Piast Castle and tower", image: "/poi-images/poland-legnica-cities-v2.webp"},
   {
     id: "poland-grudziadz-cities-v2",
     type: "city",
@@ -1003,8 +964,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Grânare istorice (propuse pentru UNESCO)", "Are o citadelă din secolul al XVIII-lea", "Fost centru al comerțului cu cereale", "Turn de apă distinctiv în centrul vechi"],
       en: ["Historical granaries (proposed for UNESCO)", "Features an 18th-century citadel", "Former center of the grain trade", "Distinctive water tower in the Old Town"],
     },
-    imageHint: "Grudziadz granaries view from the Vistula",
-  },
+    imageHint: "Grudziadz granaries view from the Vistula", image: "/poi-images/poland-grudziadz-cities-v2.webp"},
   {
     id: "poland-jaworzno-cities-v2",
     type: "city",
@@ -1023,8 +983,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Găzduiește centrala electrică Jaworzno III", "Deține Parcul Gródek (Maldivele poloneze)", "Locație importantă pentru minerit", "Cunoscut pentru parcul Geosfera"],
       en: ["Home to the Jaworzno III power station", "Features Gródek Park (Polish Maldives)", "Important location for coal mining", "Known for the Geosfera park"],
     },
-    imageHint: "Jaworzno Grodek park turquoise water",
-  },
+    imageHint: "Jaworzno Grodek park turquoise water", image: "/poi-images/poland-jaworzno-cities-v2.webp"},
   {
     id: "poland-slupsk-cities-v2",
     type: "city",
@@ -1043,8 +1002,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Deține un castel al ducilor pomeranieni", "Găzduiește Muzeul Pomeraniei Centrale", "Deține cel mai vechi lift funcțional din Polonia", "Fost oraș hanseatic Stolp"],
       en: ["Features a Castle of the Pomeranian Dukes", "Home to the Museum of Middle Pomerania", "Has the oldest working elevator in Poland", "Former Hanseatic city of Stolp"],
     },
-    imageHint: "Slupsk Dukes Castle and park",
-  },
+    imageHint: "Slupsk Dukes Castle and park", image: "/poi-images/poland-slupsk-cities-v2.webp"},
   {
     id: "poland-jastrzebie-zdroj-cities-v2",
     type: "city",
@@ -1063,8 +1021,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Deține un parc balnear istoric", "Centru important pentru extracția cărbunelui", "Locul unor greve majore ale Solidarității", "Arhitectură modernă de după război"],
       en: ["Features a historical spa park", "Major location for coking coal mining", "Site of significant Solidarity strikes", "Modern post-war architecture style"],
     },
-    imageHint: "Jastrzebie Zdroj Spa Park historic buildings",
-  },
+    imageHint: "Jastrzebie Zdroj Spa Park historic buildings", image: "/poi-images/poland-jastrzebie-zdroj-cities-v2.webp"},
   {
     id: "poland-nowy-sacz-cities-v2",
     type: "city",
@@ -1083,8 +1040,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Are ruinele unui castel regal polonez", "Găzduiește parcul etnografic Sądecz", "Una dintre cele mai însorite zone din Polonia", "Fondat în anul 1292"],
       en: ["Features ruins of a Polish royal castle", "Home to the Sądecz Ethnographic Park", "One of the sunniest areas in Poland", "Founded in the year 1292"],
     },
-    imageHint: "Nowy Sacz town square and city hall",
-  },
+    imageHint: "Nowy Sacz town square and city hall", image: "/poi-images/poland-nowy-sacz-cities-v2.webp"},
   {
     id: "poland-siedlce-cities-v2",
     type: "city",
@@ -1103,8 +1059,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Găzduiește palatul Ogiński", "Sediul unui muzeu diecezan important", "Nod feroviar major în est", "Fondat în secolul al XV-lea"],
       en: ["Home to the Ogiński Palace", "Seat of a significant Diocesan Museum", "Major railway junction in eastern Poland", "Founded in the 15th century"],
     },
-    imageHint: "Siedlce Oginski Palace and park",
-  },
+    imageHint: "Siedlce Oginski Palace and park", image: "/poi-images/poland-siedlce-cities-v2.webp"},
   {
     id: "poland-myslowice-cities-v2",
     type: "city",
@@ -1123,8 +1078,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Locul unde se întâlneau trei imperii", "Găzduiește Muzeul Central al Pompierilor", "Tradiție minieră bogată", "Nod de transport important în regiune"],
       en: ["Site where three empires' borders met", "Home to the Central Museum of Firefighting", "Rich mining traditions", "Major transport junction in Upper Silesia"],
     },
-    imageHint: "Myslowice Three Emperors' Corner monument",
-  },
+    imageHint: "Myslowice Three Emperors' Corner monument", image: "/poi-images/poland-myslowice-cities-v2.webp"},
   {
     id: "poland-konin-cities-v2",
     type: "city",
@@ -1143,8 +1097,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Deține o bornă milieră romană (1151)", "Centru important pentru topitoria de aluminiu", "Găzduiește Muzeul Regional din Konin", "Fondat pe un vechi drum comercial"],
       en: ["Features a Roman milestone (dated 1151)", "Significant aluminum smelting center", "Home to the Konin Regional Museum", "Founded along an ancient trade route"],
     },
-    imageHint: "Konin historic milestone and church",
-  },
+    imageHint: "Konin historic milestone and church", image: "/poi-images/poland-konin-cities-v2.webp"},
   {
     id: "poland-pila-cities-v2",
     type: "city",
@@ -1163,8 +1116,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Locul de naștere al lui Stanisław Staszic", "Deține un depou circular de locomotive", "Centru important al industriei electronice", "Numele său istoric german era Schneidemühl"],
       en: ["Birthplace of Stanisław Staszic", "Features a rare circular locomotive depot", "Major electronics industry center", "Formerly known as Schneidemühl"],
     },
-    imageHint: "Pila circular locomotive depot aerial",
-  },
+    imageHint: "Pila circular locomotive depot aerial", image: "/poi-images/poland-pila-cities-v2.webp"},
   {
     id: "poland-piotrkow-trybunalski-cities-v2",
     type: "city",
@@ -1183,8 +1135,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Locul primei sesiuni a parlamentului polonez", "Deține un castel regal renascentist", "Centru de logistică și industria sticlei", "Centru istoric conservat cu ziduri de apărare"],
       en: ["Site of the first Polish parliament sessions", "Features a Renaissance royal castle", "Hub for logistics and glass industry", "Well-preserved Old Town with city walls"],
     },
-    imageHint: "Piotrkow Trybunalski royal castle building",
-  },
+    imageHint: "Piotrkow Trybunalski royal castle building", image: "/poi-images/poland-piotrkow-trybunalski-cities-v2.webp"},
   {
     id: "poland-inowroclaw-cities-v2",
     type: "city",
@@ -1203,8 +1154,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Are unul dintre cele mai mari turnuri de absolvire", "Bogat în zăcăminte de sare", "Găzduiește biserica romanică Sf. Maria", "Centru important pentru producția de sodă"],
       en: ["Features one of Europe's largest graduation towers", "Rich in rock salt deposits", "Home to the Romanesque St. Mary's Church", "Major center for soda production"],
     },
-    imageHint: "Inowroclaw graduation towers and spa park",
-  },
+    imageHint: "Inowroclaw graduation towers and spa park", image: "/poi-images/poland-inowroclaw-cities-v2.webp"},
   {
     id: "poland-lubin-cities-v2",
     type: "city",
@@ -1223,8 +1173,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Sediul unuia dintre cei mai mari producători de cupru", "Deține infrastructură sportivă modernă", "Capelă istorică a castelului din sec. XIV", "Locație industrială majoră"],
       en: ["Seat of one of the world's largest copper producers", "Features modern sports infrastructure", "Historic 14th-century castle chapel", "Significant industrial hub"],
     },
-    imageHint: "Lubin city park and modern stadium",
-  },
+    imageHint: "Lubin city park and modern stadium", image: "/poi-images/poland-lubin-cities-v2.webp"},
   {
     id: "poland-ostrow-wielkopolski-cities-v2",
     type: "city",
@@ -1243,8 +1192,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Are o primărie splendidă în centru", "Găzduiește concatedrala Sf. Stanislau", "Locație importantă pentru construcția de vagoane", "Centru cultural și educațional major"],
       en: ["Features a splendid town hall in the center", "Home to the St. Stanislaus Co-cathedral", "Important location for rail car manufacturing", "Major cultural and educational hub"],
     },
-    imageHint: "Ostrow Wielkopolski Town Hall and square",
-  },
+    imageHint: "Ostrow Wielkopolski Town Hall and square", image: "/poi-images/poland-ostrow-wielkopolski-cities-v2.webp"},
   {
     id: "poland-suwalki-cities-v2",
     type: "city",
@@ -1263,8 +1211,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Poarta către Parcul Național Wigry", "Cele mai scăzute temperaturi medii din Polonia", "Arhitectură clasicistă în centrul vechi", "Nod de transport important (Via Baltica)"],
       en: ["Gateway to the Wigry National Park", "Lowest average temperatures in Poland", "Features Neoclassical architecture in the Old Town", "Important transport hub (Via Baltica)"],
     },
-    imageHint: "Suwalki city center and classicist buildings",
-  },
+    imageHint: "Suwalki city center and classicist buildings", image: "/poi-images/poland-suwalki-cities-v2.webp"},
   {
     id: "poland-stargard-cities-v2",
     type: "city",
@@ -1283,8 +1230,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Găzduiește biserica Sf. Maria, bijuterie gotică", "Fost oraș hanseatic important", "Nod feroviar major", "Situat exact pe meridianul 15"],
       en: ["Home to St. Mary's Church, a Brick Gothic gem", "Former significant Hanseatic city", "Major railway junction in the region", "Located exactly on the 15th meridian"],
     },
-    imageHint: "Stargard St. Mary's Church Brick Gothic",
-  },
+    imageHint: "Stargard St. Mary's Church Brick Gothic", image: "/poi-images/poland-stargard-cities-v2.webp"},
   {
     id: "poland-gniezno-cities-v2",
     type: "city",
@@ -1303,8 +1249,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Locul de încoronare al primilor regi polonezi", "Deține faimoasele porți de bronz din Gniezno", "Sediul Primatului Poloniei", "Găzduiește moaștele Sfântului Adalbert"],
       en: ["Coronation site of the first Polish kings", "Features the famous Gniezno bronze doors", "Seat of the Primate of Poland", "Home to the relics of Saint Adalbert"],
     },
-    imageHint: "Gniezno Cathedral on the hill",
-  },
+    imageHint: "Gniezno Cathedral on the hill", image: "/poi-images/poland-gniezno-cities-v2.webp"},
   {
     id: "poland-ostrowiec-swietokrzyski-cities-v2",
     type: "city",
@@ -1323,8 +1268,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Locație importantă pentru producția de oțel", "Aproape de minele preistorice de silex", "Centru industrial major în regiune", "Cultură muncitorească istorică"],
       en: ["Important location for steel production", "Near the prehistoric flint mines in Krzemionki", "Major industrial center of the region", "Strong historical working-class culture"],
     },
-    imageHint: "Ostrowiec Swietokrzyski city center aerial",
-  },
+    imageHint: "Ostrowiec Swietokrzyski city center aerial", image: "/poi-images/poland-ostrowiec-swietokrzyski-cities-v2.webp"},
   {
     id: "poland-siemianowice-slaskie-cities-v2",
     type: "city",
@@ -1343,8 +1287,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Deține un castel baroc-clasicist", "Găzduiește un centru de tratare a arsurilor", "Locație importantă pentru industria de apărare", "Marcat de arhitectura industrială sileziană"],
       en: ["Features a Baroque-Neoclassical palace", "Home to a major burn treatment center", "Important location for the defense industry", "Shaped by Silesian industrial architecture"],
     },
-    imageHint: "Siemianowice Slaskie Palace and park",
-  },
+    imageHint: "Siemianowice Slaskie Palace and park", image: "/poi-images/poland-siemianowice-slaskie-cities-v2.webp"},
   {
     id: "poland-glogow-cities-v2",
     type: "city",
@@ -1363,8 +1306,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Găzduiește una dintre cele mai mari topitorii", "Deține Castelul Ducilor din Silezia", "Port fluvial important pe râul Oder", "Loc istoric al asediului din 1109"],
       en: ["Home to one of Europe's largest copper smelters", "Features the Castle of the Silesian Dukes", "Important river port on the Oder", "Historical site of the Siege of 1109"],
     },
-    imageHint: "Glogow Old Town Square and Town Hall",
-  },
+    imageHint: "Glogow Old Town Square and Town Hall", image: "/poi-images/poland-glogow-cities-v2.webp"},
   {
     id: "poland-pabianice-cities-v2",
     type: "city",
@@ -1383,8 +1325,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Deține un castel renascentist al căpitanilor", "Locație industrială importantă", "Găzduiește Muzeul din Pabianice", "Face parte din zona metropolitană Łódź"],
       en: ["Features a Renaissance castle of Kraków captains", "Important industrial location", "Home to the Pabianice Museum", "Part of the Łódź metropolitan area"],
     },
-    imageHint: "Pabianice Renaissance castle and park",
-  },
+    imageHint: "Pabianice Renaissance castle and park", image: "/poi-images/poland-pabianice-cities-v2.webp"},
   {
     id: "poland-zamosc-cities-v2",
     type: "city",
@@ -1403,8 +1344,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Supranumit 'perla Renașterii'", "Patrimoniu mondial UNESCO din 1992", "Deține case cetățenești splendide cu arcade", "Fostă fortăreață de importanță majoră"],
       en: ["Often called the 'Pearl of the Renaissance'", "UNESCO World Heritage site since 1992", "Features splendid arcaded townhouses", "Formerly a major fortress city"],
     },
-    imageHint: "Zamosc Town Hall and Great Market Square",
-  },
+    imageHint: "Zamosc Town Hall and Great Market Square", image: "/poi-images/poland-zamosc-cities-v2.webp"},
   {
     id: "poland-lomza-cities-v2",
     type: "city",
@@ -1423,8 +1363,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Deține o catedrală gotică târzie din sec. XVI", "Centru pentru industria alimentară și bere", "Situat în parcul peisagistic Narew", "Fost unul dintre cele mai importante orașe din Mazovia"],
       en: ["Features a late Gothic cathedral (16th century)", "Center for food industry and brewing", "Located in the Narew Landscape Park", "Once one of the most important cities in Mazovia"],
     },
-    imageHint: "Lomza Cathedral and river Narew panorama",
-  },
+    imageHint: "Lomza Cathedral and river Narew panorama", image: "/poi-images/poland-lomza-cities-v2.webp"},
   {
     id: "poland-chelm-cities-v2",
     type: "city",
@@ -1443,8 +1382,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Deține labirinturi subterane de cretă", "Locație importantă pentru industria cimentului", "Are o catedrală barocă impunătoare", "Centru istoric multietnic"],
       en: ["Features unique underground chalk labyrinths", "Major location for the cement industry", "Home to the Baroque Basilica of the Birth of Mary", "Historically a multi-ethnic center"],
     },
-    imageHint: "Chelm chalk tunnels and historic church",
-  },
+    imageHint: "Chelm chalk tunnels and historic church", image: "/poi-images/poland-chelm-cities-v2.webp"},
   {
     id: "poland-tomaszow-mazowiecki-cities-v2",
     type: "city",
@@ -1463,8 +1401,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Are prima pistă acoperită de patinaj viteză", "Găzduiește muzeul în aer liber al râului Pilica", "Centru pentru producția de fibre sintetice", "Rezervația naturală Izvoarele Albastre"],
       en: ["Home to Poland's first indoor speed skating rink", "Features the Open-Air Museum of the Pilica River", "Major site for synthetic fiber production", "Home to the Blue Springs nature reserve"],
     },
-    imageHint: "Tomaszow Mazowiecki Blue Springs nature reserve",
-  },
+    imageHint: "Tomaszow Mazowiecki Blue Springs nature reserve", image: "/poi-images/poland-tomaszow-mazowiecki-cities-v2.webp"},
   {
     id: "poland-stalowa-wola-cities-v2",
     type: "city",
@@ -1483,8 +1420,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Parte a Districtului Industrial Central (COP)", "Centru pentru industria siderurgică și de apărare", "Deține un muzeu de istorie regională", "Oraș planificat din perioada interbelică"],
       en: ["Part of the Central Industrial Region (COP)", "Major site for steel and defense industries", "Features a Museum of Regional History", "Planned city from the interwar period"],
     },
-    imageHint: "Stalowa Wola industrial architecture and square",
-  },
+    imageHint: "Stalowa Wola industrial architecture and square", image: "/poi-images/poland-stalowa-wola-cities-v2.webp"},
   {
     id: "poland-przemysl-cities-v2",
     type: "city",
@@ -1503,8 +1439,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Sediul a două catedrale (catolică și greco-catolică)", "Sistem de fortificații major din Primul Război Mondial", "Nod feroviar important către Ucraina", "Deține un muzeu al clopotelor și pipelor"],
       en: ["Seat of two cathedrals (Roman and Greek Catholic)", "Major fortress system from World War I", "Key railway gateway to Ukraine", "Home to the Bell and Pipe Museum"],
     },
-    imageHint: "Przemyśl city panorama with churches and river",
-  },
+    imageHint: "Przemyśl city panorama with churches and river", image: "/poi-images/poland-przemysl-cities-v2.webp"},
   {
     id: "poland-kedzierzyn-kozle-cities-v2",
     type: "city",
@@ -1523,8 +1458,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Sediul companiei chimice ZAK", "Port fluvial important pe canalul Oder", "Format prin fuziunea mai multor așezări", "Are fortificații istorice în cartierul Koźle"],
       en: ["Seat of the ZAK chemical company", "Major port on the Gliwice Canal and Oder", "Formed by the merger of several towns", "Features historic fortifications in Koźle district"],
     },
-    imageHint: "Kedzierzyn-Kozle chemical plant and river",
-  },
+    imageHint: "Kedzierzyn-Kozle chemical plant and river", image: "/poi-images/poland-kedzierzyn-kozle-cities-v2.webp"},
   {
     id: "poland-mielec-cities-v2",
     type: "city",
@@ -1543,8 +1477,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Centru al producției de avioane (PZL Mielec)", "Prima zonă economică specială (EURO-PARK)", "Deține un muzeu regional important", "Locație majoră pentru industria mobilei"],
       en: ["Center for aircraft production (PZL Mielec)", "Home to Poland's first Special Economic Zone", "Features a significant regional museum", "Major hub for the furniture industry"],
     },
-    imageHint: "Mielec aviation factory and city square",
-  },
+    imageHint: "Mielec aviation factory and city square", image: "/poi-images/poland-mielec-cities-v2.webp"},
   {
     id: "poland-tczew-cities-v2",
     type: "city",
@@ -1563,8 +1496,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Deține poduri istorice peste Vistula (sec. XIX)", "Centru important pentru navigația fluvială", "Găzduiește Muzeul Vistulei", "Loc legat de începutul celui de-al Doilea Război Mondial"],
       en: ["Features historic Vistula bridges (19th century)", "Important center for inland navigation", "Home to the Vistula River Museum", "A site connected to the start of World War II"],
     },
-    imageHint: "Tczew historic Vistula bridge",
-  },
+    imageHint: "Tczew historic Vistula bridge", image: "/poi-images/poland-tczew-cities-v2.webp"},
   {
     id: "poland-belchatow-cities-v2",
     type: "city",
@@ -1583,8 +1515,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Găzduiește centrala electrică Bełchatów", "Deține cea mai adâncă mină de suprafață", "Centru energetic de importanță majoră", "Deține un complex sportiv modern"],
       en: ["Home to the Bełchatów Power Station", "Site of Poland's deepest open-pit mine", "Major energy production hub", "Features a modern sports complex"],
     },
-    imageHint: "Belchatow power station and open pit mine",
-  },
+    imageHint: "Belchatow power station and open pit mine", image: "/poi-images/poland-belchatow-cities-v2.webp"},
   {
     id: "poland-swidnica-cities-v2",
     type: "city",
@@ -1603,8 +1534,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Biserica Păcii este cea mai mare biserică de lemn", "Are unul dintre cele mai înalte turnuri din Polonia", "Fostă capitală a unui ducat silezian", "Cunoscut pentru casele negustorești istorice"],
       en: ["Church of Peace is Europe's largest timber-framed church", "Features one of the tallest church towers in Poland", "Former capital of a Silesian duchy", "Known for its historic merchant houses"],
     },
-    imageHint: "Swidnica Church of Peace timber framed",
-  },
+    imageHint: "Swidnica Church of Peace timber framed", image: "/poi-images/poland-swidnica-cities-v2.webp"},
   {
     id: "poland-bedzin-cities-v2",
     type: "city",
@@ -1623,8 +1553,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Deține un castel gotic bine conservat (sec. XIV)", "Fost centru important al vieții evreiești", "Locație majoră pentru sectorul energetic", "Are fortificații medievale conservate"],
       en: ["Features a well-preserved Gothic castle (14th century)", "Once an important center of Jewish life", "Significant hub for the energy industry", "Has preserved historical city walls"],
     },
-    imageHint: "Bedzin Castle and city wall",
-  },
+    imageHint: "Bedzin Castle and city wall", image: "/poi-images/poland-bedzin-cities-v2.webp"},
   {
     id: "poland-zgierz-cities-v2",
     type: "city",
@@ -1663,8 +1592,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Centru spiritual al minerilor silezieni", "Deține un ansamblu de coline ale Calvarului", "Centru pentru mineritul de plumb și zinc", "Găzduiește pelerinaje masive ale bărbaților"],
       en: ["Spiritual center for Silesian miners", "Features a famous Calvary hill complex", "Center for lead and zinc mining", "Host of massive annual men's pilgrimages"],
     },
-    imageHint: "Piekary Slaskie Basilica and Calvary hill",
-  },
+    imageHint: "Piekary Slaskie Basilica and Calvary hill", image: "/poi-images/poland-piekary-slaskie-cities-v2.webp"},
   {
     id: "poland-raciborz-cities-v2",
     type: "city",
@@ -1683,8 +1611,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Deține un castel ducal gotic", "Capela castelului este numită 'Sainte-Chapelle sileziană'", "Centru important pentru industria cazanelor", "Găzduiește un muzeu regional cu o mumie egipteană"],
       en: ["Features a Gothic ducal castle", "Castle chapel is called the 'Silesian Sainte-Chapelle'", "Major site for the boiler manufacturing industry", "Home to a museum featuring an Egyptian mummy"],
     },
-    imageHint: "Raciborz Ducal Castle and chapel",
-  },
+    imageHint: "Raciborz Ducal Castle and chapel", image: "/poi-images/poland-raciborz-cities-v2.webp"},
   {
     id: "poland-legionowo-cities-v2",
     type: "city",
@@ -1703,8 +1630,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["S-a dezvoltat dintr-o așezare militară", "Sediul Academiei de Poliție din Polonia", "Nod de transport în zona metropolitană", "Situat aproape de lacul Zegrze"],
       en: ["Developed from a military settlement", "Seat of the Polish Police Academy", "Key transport hub in the Warsaw metropolitan area", "Located near the Zegrze Reservoir"],
     },
-    imageHint: "Legionowo city hall and park",
-  },
+    imageHint: "Legionowo city hall and park", image: "/poi-images/poland-legionowo-cities-v2.webp"},
   {
     id: "poland-zory-cities-v2",
     type: "city",
@@ -1723,8 +1649,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Găzduiește anual Festivalul Focului", "Deține ziduri medievale conservate", "Locație importantă pentru logistică", "Fost centru al mineritului de cărbune"],
       en: ["Hosts an annual Fire Festival", "Features preserved medieval city walls", "Major location for logistics companies", "Past center for coal mining operations"],
     },
-    imageHint: "Zory medieval city walls and square",
-  },
+    imageHint: "Zory medieval city walls and square", image: "/poi-images/poland-zory-cities-v2.webp"},
   {
     id: "poland-tarnowskie-gory-cities-v2",
     type: "city",
@@ -1743,8 +1668,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Mina de argint este patrimoniu UNESCO", "Deține galeria 'Păstrăvul Negru'", "Centru al mineritului de minereu din evul mediu", "Nod feroviar important"],
       en: ["Silver mine is a UNESCO World Heritage site", "Features the Black Trout Adit", "Center for ore mining since the Middle Ages", "Major railway junction in the region"],
     },
-    imageHint: "Tarnowskie Gory silver mine underground",
-  },
+    imageHint: "Tarnowskie Gory silver mine underground", image: "/poi-images/poland-tarnowskie-gory-cities-v2.webp"},
   {
     id: "poland-pruszkow-cities-v2",
     type: "city",
@@ -1763,8 +1687,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Găzduiește muzeul metalurgiei antice", "Centru pentru logistică și chimie", "Deține parcul Potulicki splendid", "Sediul Federației Poloneze de Ciclism"],
       en: ["Home to the Museum of Ancient Metallurgy", "Major logistics and chemical industry hub", "Features the splendid Potulicki Park", "Seat of the Polish Cycling Federation"],
     },
-    imageHint: "Pruszkow Potulicki Palace and park",
-  },
+    imageHint: "Pruszkow Potulicki Palace and park", image: "/poi-images/poland-pruszkow-cities-v2.webp"},
   {
     id: "poland-ostroleka-cities-v2",
     type: "city",
@@ -1783,8 +1706,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Sediul unei centrale termoelectrice mari", "Locul unor bătălii istorice (1807, 1831)", "Centru al culturii populare Kurpie", "Locație majoră pentru industria celulozei"],
       en: ["Seat of a large thermal power station", "Site of significant historic battles", "Center of the unique Kurpie culture", "Major site for pulp and paper production"],
     },
-    imageHint: "Ostroleka bridge over Narew river",
-  },
+    imageHint: "Ostroleka bridge over Narew river", image: "/poi-images/poland-ostroleka-cities-v2.webp"},
   {
     id: "poland-nowy-targ-cities-v2",
     type: "city",
@@ -1803,8 +1725,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Cunoscut pentru târgul său tradițional", "Centru al prelucrării pielii și blănurilor", "Bastion al hocheiului pe gheață în Polonia", "Situat la confluența Dunajecului Alb și Negru"],
       en: ["Famous for its traditional open-air market", "Center for leather and fur processing", "Stronghold of ice hockey in Poland", "Located at the confluence of the Dunajec rivers"],
     },
-    imageHint: "Nowy Targ market square and mountain view",
-  },
+    imageHint: "Nowy Targ market square and mountain view", image: "/poi-images/poland-nowy-targ-cities-v2.webp"},
   {
     id: "poland-zywiec-cities-v2",
     type: "city",
@@ -1823,8 +1744,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Găzduiește berăria Żywiec (din 1856)", "Deține Castelul Vechi și Castelul Nou", "Centru al Beskizilor Silezieni", "Locație importantă pentru turismul de iarnă"],
       en: ["Home to the Żywiec Brewery (since 1856)", "Features both the Old and New Castles", "Center of the Silesian Beskids", "Significant location for winter tourism"],
     },
-    imageHint: "Zywiec brewery historic gate and mountains",
-  },
+    imageHint: "Zywiec brewery historic gate and mountains", image: "/poi-images/poland-zywiec-cities-v2.webp"},
   {
     id: "poland-ketrzyn-cities-v2",
     type: "city",
@@ -1843,8 +1763,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Deține o biserică fortificată gotică", "Castel teuton istoric din sec. XIV", "Locație importantă pentru industria alimentară", "Numele său istoric era Rastenburg"],
       en: ["Features a Gothic fortified church", "14th-century Teutonic Knights' castle", "Significant hub for the food industry", "Formerly known as Rastenburg"],
     },
-    imageHint: "Ketrzyn Teutonic castle and tower",
-  },
+    imageHint: "Ketrzyn Teutonic castle and tower", image: "/poi-images/poland-ketrzyn-cities-v2.webp"},
   {
     id: "poland-cieszyn-cities-v2",
     type: "city",
@@ -1863,8 +1782,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Divizat într-o parte poloneză și una cehă", "Deține rotunda romanică din sec. XI", "Centru al culturii Teschen", "Locul de origine al berii Cieszyn"],
       en: ["Divided into Polish and Czech parts", "Features an 11th-century Romanesque rotunda", "Center of the Cieszyn Silesia culture", "Home to the famous Cieszyn brewery"],
     },
-    imageHint: "Cieszyn Rotunda and castle hill",
-  },
+    imageHint: "Cieszyn Rotunda and castle hill", image: "/poi-images/poland-cieszyn-cities-v2.webp"},
   {
     id: "poland-bochnia-cities-v2",
     type: "city",
@@ -1883,8 +1801,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Mina de sare din Bochnia este cea mai veche", "Patrimoniu mondial UNESCO din 2013", "Centru al comerțului cu sare din evul mediu", "Deține un muzeu al fluturilor interesant"],
       en: ["Bochnia Salt Mine is the oldest in Poland", "UNESCO World Heritage site since 2013", "Center of salt trade since the Middle Ages", "Features a significant butterfly museum"],
     },
-    imageHint: "Bochnia Salt Mine underground chapel",
-  },
+    imageHint: "Bochnia Salt Mine underground chapel", image: "/poi-images/poland-bochnia-cities-v2.webp"},
   {
     id: "poland-oswiecim-cities-v2",
     type: "city",
@@ -1903,8 +1820,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Sediul Muzeului de Stat Auschwitz-Birkenau", "Sit memorial inclus în patrimoniul UNESCO", "Locație industrială majoră (chimie)", "Centru istoric cu castel"],
       en: ["Home to the Auschwitz-Birkenau State Museum", "UNESCO World Heritage memorial site", "Significant chemical industry hub", "Historic Old Town with a castle"],
     },
-    imageHint: "Oswiecim castle and river Soła",
-  },
+    imageHint: "Oswiecim castle and river Soła", image: "/poi-images/poland-oswiecim-cities-v2.webp"},
   {
     id: "poland-augustow-cities-v2",
     type: "city",
@@ -1923,8 +1839,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Canalul Augustów leagă Vistula de Neman", "Centru major pentru sporturi nautice", "Înconjurat de pădurea virgină Augustów", "Stațiune de vară populară"],
       en: ["Augustów Canal connects Vistula and Neman rivers", "Major center for water sports and sailing", "Surrounded by the Augustów Primeval Forest", "Popular summer holiday destination"],
     },
-    imageHint: "Augustow Canal and locks with greenery",
-  },
+    imageHint: "Augustow Canal and locks with greenery", image: "/poi-images/poland-augustow-cities-v2.webp"},
   {
     id: "poland-kwidzyn-cities-v2",
     type: "city",
@@ -1943,8 +1858,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Deține un turn Gdanisko (toaletă) masiv", "Fosta reședință a episcopilor de Pomeșania", "Locație majoră pentru industria hârtiei", "Arhitectură gotică din cărămidă splendidă"],
       en: ["Features a massive Gdanisko (latrine) tower", "Former residence of the Pomesanian bishops", "Major hub for the paper industry", "Splendid Brick Gothic architecture"],
     },
-    imageHint: "Kwidzyn castle and cathedral with long bridge tower",
-  },
+    imageHint: "Kwidzyn castle and cathedral with long bridge tower", image: "/poi-images/poland-kwidzyn-cities-v2.webp"},
   {
     id: "poland-boleslawiec-cities-v2",
     type: "city",
@@ -1963,8 +1877,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Originea ceramicii de Bolesławiec", "Deține unul dintre cele mai lungi viaducte feroviare", "Găzduiește anual un festival al ceramicii", "Centru istoric cu piață centrală"],
       en: ["Home to the famous Bolesławiec pottery", "Has one of Poland's longest railway viaducts", "Hosts a large annual ceramics festival", "Historic Old Town with a market square"],
     },
-    imageHint: "Boleslawiec pottery shop and blue patterns",
-  },
+    imageHint: "Boleslawiec pottery shop and blue patterns", image: "/poi-images/poland-boleslawiec-cities-v2.webp"},
   {
     id: "poland-malbork-cities-v2",
     type: "city",
@@ -1983,8 +1896,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Fost sediu al Ordinului Teuton", "Cel mai mare complex gotic din lume", "Patrimoniu mondial UNESCO din 1997", "Centru turistic de importanță majoră"],
       en: ["Former headquarters of the Teutonic Knights", "Largest Gothic castle complex in the world", "UNESCO World Heritage site since 1997", "Major center for international tourism"],
     },
-    imageHint: "Malbork Castle view from Nogat river",
-  },
+    imageHint: "Malbork Castle view from Nogat river", image: "/poi-images/poland-malbork-cities-v2.webp"},
   {
     id: "poland-krosno-cities-v2",
     type: "city",
@@ -2003,8 +1915,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Centru al industriei sticlei din Polonia", "Deține Centrul Patrimoniului Sticlei", "Leagănul industriei petroliere mondiale", "Centru istoric conservat cu arcade"],
       en: ["Center of the Polish glass industry", "Home to the Glass Heritage Centre", "Cradle of the global oil industry (Ignacy Łukasiewicz)", "Well-preserved Old Town with arcades"],
     },
-    imageHint: "Krosno Heritage Glass Center and square",
-  },
+    imageHint: "Krosno Heritage Glass Center and square", image: "/poi-images/poland-krosno-cities-v2.webp"},
   {
     id: "poland-nysa-cities-v2",
     type: "city",
@@ -2023,8 +1934,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Fosta reședință a episcopilor de Wrocław", "Deține un sistem de fortificații masiv", "Găzduiește bazilica Sf. Iacob", "Centru educațional istoric important"],
       en: ["Former residence of the Wrocław bishops", "Features a massive fortress system", "Home to the St. James Basilica", "Historically significant educational center"],
     },
-    imageHint: "Nysa Basilica and historic fountain",
-  },
+    imageHint: "Nysa Basilica and historic fountain", image: "/poi-images/poland-nysa-cities-v2.webp"},
   {
     id: "poland-zakopane-cities-v2",
     type: "city",

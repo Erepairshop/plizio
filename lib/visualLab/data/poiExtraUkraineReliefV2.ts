@@ -19,8 +19,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 2035 metri", "Al doilea vârf ca mărime", "Aproape de lacul Brebeneskul", "Relief glaciar tipic"],
       en: ["Elevation: 2,035 meters", "Second highest in Ukraine", "Glacial landforms", "Part of Chornohora range"],
     },
-    imageHint: "Mount Brebeneskul peak in the Ukrainian Carpathians",
-  },
+    imageHint: "Mount Brebeneskul peak in the Ukrainian Carpathians", image: "/poi-images/ukraine-brebeneskul-relief-v2.webp"},
   {
     id: "ukraine-petros-relief-v2",
     type: "peak",
@@ -39,8 +38,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 2020 metri", "Capelă de lemn pe vârf", "Pante accidentate", "Vizibilitate spre Hoverla"],
       en: ["Elevation: 2,020 meters", "Steep northwestern slopes", "Wooden chapel on summit", "Separate from main ridge"],
     },
-    imageHint: "Steep slopes of Mount Petros in the Carpathians",
-  },
+    imageHint: "Steep slopes of Mount Petros in the Carpathians", image: "/poi-images/ukraine-petros-relief-v2.webp"},
   {
     id: "ukraine-rebra-relief-v2",
     type: "peak",
@@ -59,8 +57,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 2001 metri", "Cel mai mic vârf peste 2000m", "Creste stâncoase nordice", "Masivul Chornohora"],
       en: ["Elevation: 2,001 meters", "Lowest of the 2,000m peaks", "Rocky ribs formation", "Glacial cirques nearby"],
     },
-    imageHint: "Rocky ridges of Mount Rebra in Ukraine",
-  },
+    imageHint: "Rocky ridges of Mount Rebra in Ukraine", image: "/poi-images/ukraine-rebra-relief-v2.webp"},
   {
     id: "ukraine-hutyn-tomnatyk-relief-v2",
     type: "peak",
@@ -79,8 +76,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 2016 metri", "Al cincilea vârf ca înălțime", "Vegetație alpină bogată", "Lângă cel mai înalt lac"],
       en: ["Elevation: 2,016 meters", "Fifth highest peak", "Overlooks Brebeneskul Lake", "Rich subalpine biodiversity"],
     },
-    imageHint: "Hutyn Tomnatyk peak near a mountain lake",
-  },
+    imageHint: "Hutyn Tomnatyk peak near a mountain lake", image: "/poi-images/ukraine-hutyn-tomnatyk-relief-v2.webp"},
   {
     id: "ukraine-roman-kosh-relief-v2",
     type: "peak",
@@ -99,8 +95,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 1545 metri", "Cel mai înalt din Crimeea", "Masivul Babugan-Iaila", "Rezervație naturală"],
       en: ["Elevation: 1,545 meters", "Highest point in Crimea", "Limestone composition", "Part of Nature Reserve"],
     },
-    imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
-  },
+    imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea", image: "/poi-images/ukraine-roman-kosh-relief-v2.webp"},
   {
     id: "ukraine-ai-petri-relief-v2",
     type: "peak",
@@ -119,8 +114,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 1234 metri", "Cel mai vântos loc", "Telecabină din Mișhor", "Turnuri de calcar"],
       en: ["Elevation: 1,234 meters", "Windiest place in Ukraine", "Cable car access", "Limestone pinnacles"],
     },
-    imageHint: "Sharp limestone teeth of Ai-Petri peak in Crimea",
-  },
+    imageHint: "Sharp limestone teeth of Ai-Petri peak in Crimea", image: "/poi-images/ukraine-ai-petri-relief-v2.webp"},
   {
     id: "ukraine-chatyr-dag-relief-v2",
     type: "mountain",
@@ -139,8 +133,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Punct maxim: 1527m", "Peste 140 de peșteri", "Numele înseamnă 'Muntele Cort'", "Relief carstic dezvoltat"],
       en: ["Highest point: 1,527m", "Extensive karst cave system", "Name means 'Tent Mountain'", "Includes Marble Cave"],
     },
-    imageHint: "Chatyr-Dag mountain massif with plateaus in Crimea",
-  },
+    imageHint: "Chatyr-Dag mountain massif with plateaus in Crimea", image: "/poi-images/ukraine-chatyr-dag-relief-v2.webp"},
   {
     id: "ukraine-demerdzhi-yaila-relief-v2",
     type: "mountain",
@@ -159,8 +152,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Valea Fantomelor", "Formațiuni din conglomerat", "Altitudine max: 1356 m", "Peisaj spectaculos"],
       en: ["Valley of Ghosts", "Conglomerate rock pillars", "Peak height: 1,356m", "Erosional landscape"],
     },
-    imageHint: "Strange rock pillars in the Valley of Ghosts, Demerdzhi",
-  },
+    imageHint: "Strange rock pillars in the Valley of Ghosts, Demerdzhi", image: "/poi-images/ukraine-demerdzhi-yaila-relief-v2.webp"},
   {
     id: "ukraine-karadag-relief-v2",
     type: "mountain",
@@ -179,8 +171,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Vulcan stins", "Stânca Poarta de Aur", "Roci magmatice negre", "Rezervație geologică"],
       en: ["Extinct volcano", "Golden Gate rock arch", "Jurassic volcanic activity", "Strict nature reserve"],
     },
-    imageHint: "Volcanic coastal rocks of Karadag in Crimea",
-  },
+    imageHint: "Volcanic coastal rocks of Karadag in Crimea", image: "/poi-images/ukraine-karadag-relief-v2.webp"},
   {
     id: "ukraine-mohyla-mechetna-relief-v2",
     type: "peak",
@@ -199,8 +190,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 367 metri", "Vârful podișului Doneț", "Regiunea Luhansk", "Relief de coline vechi"],
       en: ["Elevation: 367 meters", "Highest in Donets Ridge", "Luhansk region", "Eastern Ukraine's summit"],
     },
-    imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
-  },
+    imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region", image: "/poi-images/ukraine-mohyla-mechetna-relief-v2.webp"},
   {
     id: "ukraine-belmakh-mohyla-relief-v2",
     type: "peak",
@@ -239,8 +229,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 1836 metri", "Cel mai înalt din Gorgany", "Câmpuri de piatră", "Carpații Orientali"],
       en: ["Elevation: 1,836 meters", "Highest peak of Gorgany", "Sandstone debris fields", "Ivano-Frankivsk region"],
     },
-    imageHint: "Sandstone boulder fields on Mount Syvulia",
-  },
+    imageHint: "Sandstone boulder fields on Mount Syvulia", image: "/poi-images/ukraine-mount-syvulia-relief-v2.webp"},
   {
     id: "ukraine-mount-stih-relief-v2",
     type: "peak",
@@ -279,8 +268,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 1491 metri", "Masivul Borjava", "Centru de parapantism", "Stațiunea Pilipeț"],
       en: ["Elevation: 1,491 meters", "Borzhava mountain range", "Paragliding hotspot", "Pylypets ski area"],
     },
-    imageHint: "Grassy slopes of Mount Gemba in summer",
-  },
+    imageHint: "Grassy slopes of Mount Gemba in summer", image: "/poi-images/ukraine-mount-gemba-relief-v2.webp"},
   {
     id: "ukraine-mount-parashka-relief-v2",
     type: "peak",
@@ -299,8 +287,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 1268 metri", "Beskizii Skole", "Regiunea Liov", "Traseu montan popular"],
       en: ["Elevation: 1,268 meters", "Skole Beskids range", "Lviv region", "Accessible day hike"],
     },
-    imageHint: "Hiking trail on Mount Parashka ridge",
-  },
+    imageHint: "Hiking trail on Mount Parashka ridge", image: "/poi-images/ukraine-mount-parashka-relief-v2.webp"},
   {
     id: "ukraine-mount-pikuy-relief-v2",
     type: "peak",
@@ -319,8 +306,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 1408 metri", "Cel mai înalt din Liov", "Obelisc pe vârf", "Beskizii Orientali"],
       en: ["Elevation: 1,408 meters", "Highest in Lviv region", "Summit stone pillar", "Watershed ridge peak"],
     },
-    imageHint: "Summit obelisk on top of Mount Pikuy",
-  },
+    imageHint: "Summit obelisk on top of Mount Pikuy", image: "/poi-images/ukraine-mount-pikuy-relief-v2.webp"},
   {
     id: "ukraine-mount-kamula-relief-v2",
     type: "peak",
@@ -339,8 +325,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Altitudine: 471 metri", "Podișul Podoliei", "Zona Holohory", "Păduri de fag dense"],
       en: ["Elevation: 471 meters", "Highest in Podolian Upland", "Holohory hill range", "Forested summit"],
     },
-    imageHint: "Forested hill of Mount Kamula in Lviv region",
-  },
+    imageHint: "Forested hill of Mount Kamula in Lviv region", image: "/poi-images/ukraine-mount-kamula-relief-v2.webp"},
   {
     id: "ukraine-podilski-tovtry-relief-v2",
     type: "landmark",
@@ -359,8 +344,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Recife fosile", "Parc Național", "Formațiuni de calcar", "Relief relict unic"],
       en: ["Fossilized coral reefs", "National Nature Park", "Limestone ridges", "Unique geological relic"],
     },
-    imageHint: "Rocky limestone hills of Podilski Tovtry",
-  },
+    imageHint: "Rocky limestone hills of Podilski Tovtry", image: "/poi-images/ukraine-podilski-tovtry-relief-v2.webp"},
   {
     id: "ukraine-podolian-upland-relief-v2",
     type: "mountain",
@@ -379,8 +363,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Platou înalt", "Relief carstic", "Soluri de loess", "Peșteri de ghips mari"],
       en: ["Extensive plateau", "Karst topography", "Loess soil cover", "Major gypsum cave systems"],
     },
-    imageHint: "Rolling plateau landscape of the Podolian Upland",
-  },
+    imageHint: "Rolling plateau landscape of the Podolian Upland", image: "/poi-images/ukraine-podolian-upland-relief-v2.webp"},
   {
     id: "ukraine-dnieper-upland-relief-v2",
     type: "mountain",
@@ -399,8 +382,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Dealuri ondulate", "Fundament cristalin", "Depozite de loess", "Ucraina Centrală"],
       en: ["Rolling hills", "Crystalline bedrock", "Loess deposits", "Central Ukraine"],
     },
-    imageHint: "Rolling hills of the Dnieper Upland",
-  },
+    imageHint: "Rolling hills of the Dnieper Upland", image: "/poi-images/ukraine-dnieper-upland-relief-v2.webp"},
   {
     id: "ukraine-donets-ridge-relief-v2",
     type: "mountain",
@@ -419,8 +401,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Zăcăminte de cărbune", "Relief fragmentat", "Ucraina de Est", "Altitudine max: 367m"],
       en: ["Coal deposits", "Fragmented relief", "Eastern Ukraine", "Peak height 367m"],
     },
-    imageHint: "Eroded landscape of the Donets Ridge",
-  },
+    imageHint: "Eroded landscape of the Donets Ridge", image: "/poi-images/ukraine-donets-ridge-relief-v2.webp"},
   {
     id: "ukraine-polissian-lowland-relief-v2",
     type: "valley",
@@ -459,8 +440,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Stepă vastă", "Ucraina de Sud", "Țărm cu limane", "Altitudine 0-150m"],
       en: ["Steppe region", "Southern Ukraine", "Limans and deltas", "Elevation 0-150m"],
     },
-    imageHint: "Vast flat steppe of the Black Sea Lowland",
-  },
+    imageHint: "Vast flat steppe of the Black Sea Lowland", image: "/poi-images/ukraine-black-sea-lowland-relief-v2.webp"},
   {
     id: "ukraine-azov-upland-relief-v2",
     type: "mountain",
@@ -479,8 +459,7 @@ export const ukraineReliefV2: POI[] = [
       ro: ["Podiș ondulat", "Nucleu cristalin", "Ucraina de Sud-Est", "Zonă de izvoare"],
       en: ["Rolling plateau", "Crystalline core", "Southeastern Ukraine", "River source area"],
     },
-    imageHint: "Rolling plateau of the Azov Upland",
-  },
+    imageHint: "Rolling plateau of the Azov Upland", image: "/poi-images/ukraine-azov-upland-relief-v2.webp"},
   {
     id: "ukraine-mount-kremenets-relief-v2",
     type: "peak",

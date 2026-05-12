@@ -19,8 +19,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Sediul Băncii Europene de Investiții", "Centru pentru peste 140 de bănci internaționale", "Locația Curții de Justiție a Uniunii Europene", "Al doilea cel mai mare centru de fonduri de investiții din lume"],
       en: ["Headquarters of the European Investment Bank", "Home to over 140 international banks", "Location of the European Court of Justice", "World's second-largest investment fund center"],
     },
-    imageHint: "Modern skyscrapers and glass buildings in Kirchberg Luxembourg",
-  },
+    imageHint: "Modern skyscrapers and glass buildings in Kirchberg Luxembourg", image: "/poi-images/luxembourg-kirchberg-district-economic-v2.webp"},
   {
     id: "luxembourg-belval-innovation-economic-v2",
     type: "industry",
@@ -39,8 +38,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Locația Universității din Luxemburg", "Centru pentru institutele naționale de cercetare", "Cel mai mare proiect de dezvoltare urbană din țară", "Fostul cel mai important sit siderurgic din regiune"],
       en: ["Location of the University of Luxembourg", "Home to national research centers", "Country's largest urban development project", "Formerly the most important steel site in the region"],
     },
-    imageHint: "Preserved blast furnaces in Belval Luxembourg at night",
-  },
+    imageHint: "Preserved blast furnaces in Belval Luxembourg at night", image: "/poi-images/luxembourg-belval-innovation-economic-v2.webp"},
   {
     id: "luxembourg-findel-cargo-center-economic-v2",
     type: "port",
@@ -79,8 +77,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Cel mai mare operator de sateliți din lume", "Sediul într-un fost castel mare-ducal", "Servește peste 350 de milioane de gospodării", "Unul dintre cei mai mari angajatori privați din țară"],
       en: ["World's largest satellite operator", "Headquarters in a former Grand Ducal castle", "Serves over 350 million households", "One of the largest private employers in the country"],
     },
-    imageHint: "Satellite dishes and control center at Betzdorf Luxembourg",
-  },
+    imageHint: "Satellite dishes and control center at Betzdorf Luxembourg", image: "/poi-images/luxembourg-ses-astra-headquarters-economic-v2.webp"},
   {
     id: "luxembourg-port-of-mertert-economic-v2",
     type: "port",
@@ -99,8 +96,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Singura cale de acces la rețeaua transeuropeană de căi navigabile", "Manipulează aproximativ 1,5 milioane de tone anual", "Hub logistic important pentru export", "Fondat în anul 1966"],
       en: ["Only access to the trans-European waterway network", "Handles approx. 1.5 million tonnes annually", "Important logistics hub for exports", "Founded in 1966"],
     },
-    imageHint: "Cargo ships and cranes at Port of Mertert on the Moselle",
-  },
+    imageHint: "Cargo ships and cranes at Port of Mertert on the Moselle", image: "/poi-images/luxembourg-port-of-mertert-economic-v2.webp"},
   {
     id: "luxembourg-vianden-pumped-storage-economic-v2",
     type: "industry",
@@ -119,8 +115,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Putere instalată de 1.300 megawați", "Are două rezervoare superioare artificiale", "Stabilizator important pentru rețeaua electrică europeană", "Caverne subterane mari pentru turbine"],
       en: ["Installed capacity of 1,300 megawatts", "Features two artificial upper reservoirs", "Key stabilizer for the European power grid", "Large underground caverns for the turbines"],
     },
-    imageHint: "The upper reservoir of the Vianden pumped storage plant",
-  },
+    imageHint: "The upper reservoir of the Vianden pumped storage plant", image: "/poi-images/luxembourg-vianden-pumped-storage-economic-v2.webp"},
   {
     id: "luxembourg-arcelormittal-differdange-economic-v2",
     type: "factory",
@@ -159,8 +154,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Specializat în transport combinat (feroviar-rutier)", "Manipulează peste 600.000 de containere anual", "Conexiune la serviciul 'autostradă feroviară'", "Operat de CFL Multimodal"],
       en: ["Specialized in combined transport (rail-road)", "Handles over 600,000 containers annually", "Connection to the 'Rolling Motorway' service", "Operated by CFL Multimodal"],
     },
-    imageHint: "Container cranes at Bettembourg multimodal railway terminal",
-  },
+    imageHint: "Container cranes at Bettembourg multimodal railway terminal", image: "/poi-images/luxembourg-bettembourg-terminal-economic-v2.webp"},
   {
     id: "luxembourg-goodyear-colmar-berg-economic-v2",
     type: "factory",
@@ -179,8 +173,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Al doilea cel mai mare angajator din sectorul privat", "Sediul Goodyear Innovation Center Luxembourg", "Producție de anvelope pentru camioane și utilaje", "Pistă proprie de testare pentru verificări de mare viteză"],
       en: ["Second largest employer in the private sector", "Home of the Goodyear Innovation Center Luxembourg", "Production of truck and earthmover tires", "Own test track for high-speed testing"],
     },
-    imageHint: "Goodyear factory building and test track in Colmar-Berg",
-  },
+    imageHint: "Goodyear factory building and test track in Colmar-Berg", image: "/poi-images/luxembourg-goodyear-colmar-berg-economic-v2.webp"},
   {
     id: "luxembourg-rtl-group-headquarters-economic-v2",
     type: "industry",
@@ -199,8 +192,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Cel mai mare radiodifuzor privat din Europa", "Rădăcini istorice în Radio Luxembourg", "Parte a grupului Bertelsmann", "Turnuri de transmisie proprii în Junglinster și Hosingen"],
       en: ["Europe's largest private broadcaster", "Historical roots in Radio Luxembourg", "Part of the Bertelsmann Group", "Own broadcasting towers in Junglinster and Hosingen"],
     },
-    imageHint: "RTL City building and studios in Luxembourg",
-  },
+    imageHint: "RTL City building and studios in Luxembourg", image: "/poi-images/luxembourg-rtl-group-headquarters-economic-v2.webp"},
   {
     id: "luxembourg-arcelormittal-dudelange-economic-v2",
     type: "factory",
@@ -239,8 +231,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Procesează laptele de la aproape 400 de ferme", "Cunoscută pentru producția de 'Kachkéis'", "Centru de logistică agricolă în nord", "Fondată ca cooperativă în 1894"],
       en: ["Processes milk from nearly 400 farms", "Known for producing 'Kachkéis' (cooked cheese)", "Center for agricultural logistics in the north", "Founded as a cooperative in 1894"],
     },
-    imageHint: "Modern Luxlait dairy production facility in Roost",
-  },
+    imageHint: "Modern Luxlait dairy production facility in Roost", image: "/poi-images/luxembourg-luxlait-roost-economic-v2.webp"},
   {
     id: "luxembourg-bissen-google-data-center-site-economic-v2",
     type: "industry",
@@ -259,8 +250,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Locația fabricii de trefilare ArcelorMittal", "Centru pentru logistică și tehnologia datelor", "Situată strategic lângă autostrada A7", "Accent pe infrastructura digitală"],
       en: ["Location of the ArcelorMittal wire drawing plant", "Center for logistics and data technology", "Strategically located along the A7 highway", "Focus on digital infrastructure"],
     },
-    imageHint: "Aerial view of the industrial zone in Bissen Luxembourg",
-  },
+    imageHint: "Aerial view of the industrial zone in Bissen Luxembourg", image: "/poi-images/luxembourg-bissen-google-data-center-site-economic-v2.webp"},
   {
     id: "luxembourg-contern-industrial-park-economic-v2",
     type: "industry",
@@ -299,8 +289,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Capacitate pentru milioane de litri de combustibil", "Loc de acostare important pentru nave tanc", "Conexiune la rețeaua națională de cale ferată", "Asigurarea independenței energetice"],
       en: ["Capacity for millions of liters of fuel", "Important mooring for tanker ships", "Connection to the national rail network", "Securing energetic independence"],
     },
-    imageHint: "Large white oil storage tanks by the river in Mertert",
-  },
+    imageHint: "Large white oil storage tanks by the river in Mertert", image: "/poi-images/luxembourg-mertert-petroleum-port-economic-v2.webp"},
   {
     id: "luxembourg-bascharage-industrial-zone-economic-v2",
     type: "industry",
@@ -339,8 +328,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Sediul european al Fanuc Robotics", "Specializare în piese pentru industria aerospațială", "Angajator important pentru regiunea de frontieră", "Accent pe producția de precizie"],
       en: ["European headquarters of Fanuc Robotics", "Specialization in aerospace components", "Important employer for the border region", "Focus on precision manufacturing"],
     },
-    imageHint: "Fanuc Robotics building in Echternach industrial zone",
-  },
+    imageHint: "Fanuc Robotics building in Echternach industrial zone", image: "/poi-images/luxembourg-echternach-industrial-area-economic-v2.webp"},
   {
     id: "luxembourg-wiltz-business-park-economic-v2",
     type: "industry",
@@ -359,8 +347,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Centrul industriei de pardoseli din Luxemburg", "Sediul unor departamente internaționale de cercetare", "Locație importantă pentru economia circulară", "Cel mai mare angajator industrial din nord"],
       en: ["Center of the Luxembourg flooring industry", "Base for international research departments", "Important site for circular economy", "Largest industrial employer in the north"],
     },
-    imageHint: "Large industrial complex of Tarkett in Wiltz",
-  },
+    imageHint: "Large industrial complex of Tarkett in Wiltz", image: "/poi-images/luxembourg-wiltz-business-park-economic-v2.webp"},
   {
     id: "luxembourg-lentzweiler-industrial-zone-economic-v2",
     type: "industry",
@@ -399,8 +386,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Lider de piață pentru apa minerală în țară", "Deține o fabrică de îmbuteliere neutră din punct de vedere al CO2", "Extracție de la peste 60 de metri adâncime", "Angajator regional important"],
       en: ["Market leader for mineral water in the country", "Has a CO2-neutral bottling plant", "Extraction from over 60 meters deep", "Important regional employer"],
     },
-    imageHint: "Bottling line at the Rosport mineral water factory",
-  },
+    imageHint: "Bottling line at the Rosport mineral water factory", image: "/poi-images/luxembourg-rosport-mineral-water-economic-v2.webp"},
   {
     id: "luxembourg-mamer-high-tech-zone-economic-v2",
     type: "industry",
@@ -419,8 +405,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Sediul Ceratizit", "Specializare în materiale de tăiere și scule", "Cooperare strânsă cu cercetarea", "Poziție strategică la vest de capitală"],
       en: ["Headquarters of Ceratizit", "Specialization in cutting materials and tools", "Close cooperation with research", "Strategic location west of the capital"],
     },
-    imageHint: "Modern Ceratizit industrial building in Mamer",
-  },
+    imageHint: "Modern Ceratizit industrial building in Mamer", image: "/poi-images/luxembourg-mamer-high-tech-zone-economic-v2.webp"},
   {
     id: "luxembourg-remich-wine-logistics-economic-v2",
     type: "industry",
@@ -439,8 +424,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Sediul marilor exportatori precum Bernard-Massard", "Centru pentru producția de Crémant", "Locație importantă pentru agroturism", "Sediul Institutului Viticol"],
       en: ["Home to major exporters like Bernard-Massard", "Center for Crémant production", "Important site for agro-tourism", "Base for the Viticulture Institute"],
     },
-    imageHint: "Large wine cellars and shipping docks in Remich",
-  },
+    imageHint: "Large wine cellars and shipping docks in Remich", image: "/poi-images/luxembourg-remich-wine-logistics-economic-v2.webp"},
   {
     id: "luxembourg-twinerg-power-plant-economic-v2",
     type: "industry",
@@ -459,8 +443,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Putere de aproximativ 375 megawați", "Desevește industria grea din sud", "Combină generarea de energie electrică și termică", "Parte importantă a securității energetice naționale"],
       en: ["Capacity of approx. 375 megawatts", "Supplies heavy industry in the south", "Combines electricity and heat generation", "Key part of national energy security"],
     },
-    imageHint: "Modern gas power plant with cooling towers in Esch-sur-Alzette",
-  },
+    imageHint: "Modern gas power plant with cooling towers in Esch-sur-Alzette", image: "/poi-images/luxembourg-twinerg-power-plant-economic-v2.webp"},
   {
     id: "luxembourg-eib-headquarters-economic-v2",
     type: "industry",
@@ -499,8 +482,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Operează propriile parcuri logistice", "Conexiune cu porturile Anvers și Zeebrugge", "Accent pe transportul sustenabil de mărfuri", "Vămuire integrată la fața locului"],
       en: ["Operates its own logistics parks", "Connection to Antwerp and Zeebrugge ports", "Focus on sustainable freight transport", "Integrated on-site customs clearance"],
     },
-    imageHint: "Freight trains and logistics warehouses in Bettembourg",
-  },
+    imageHint: "Freight trains and logistics warehouses in Bettembourg", image: "/poi-images/luxembourg-cfl-multimodal-hub-economic-v2.webp"},
   {
     id: "luxembourg-freeport-findel-economic-v2",
     type: "industry",
@@ -519,8 +501,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Cele mai stricte măsuri de securitate din lume", "Camere cu climatizare specială pentru artă", "Acces direct la pista aeroportului", "Depozitare fără TVA la import"],
       en: ["World's strictest security measures", "Special climate-controlled rooms for art", "Direct access to the airport tarmac", "Storage without import VAT"],
     },
-    imageHint: "The modern grey concrete building of the Luxembourg Freeport",
-  },
+    imageHint: "The modern grey concrete building of the Luxembourg Freeport", image: "/poi-images/luxembourg-freeport-findel-economic-v2.webp"},
   {
     id: "luxembourg-husky-injection-molding-economic-v2",
     type: "factory",
@@ -539,8 +520,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Specializare în preforme PET", "Centru global de service în Luxemburg", "Procese de fabricație înalt automatizate", "Actor important în construcția de mașini din Luxemburg"],
       en: ["Specialization in PET preforms", "Global service center in Luxembourg", "Highly automated manufacturing processes", "Key player in Luxembourgish mechanical engineering"],
     },
-    imageHint: "Large industrial machinery manufacturing hall of Husky",
-  },
+    imageHint: "Large industrial machinery manufacturing hall of Husky", image: "/poi-images/luxembourg-husky-injection-molding-economic-v2.webp"},
   {
     id: "luxembourg-guardian-glass-dudelange-economic-v2",
     type: "factory",
@@ -559,8 +539,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Producție de sticlă cu acoperire prin pulverizare", "Accent pe tehnologia sustenabilă a clădirilor", "Furnizare pentru proiecte mari de zgârie-nori", "Unul dintre cele mai mari situri de sticlă din regiune"],
       en: ["Production of sputter-coated glass", "Focus on sustainable building technology", "Supplier for major skyscraper projects", "One of the largest glass sites in the region"],
     },
-    imageHint: "Large glass sheets moving on a conveyor in a factory",
-  },
+    imageHint: "Large glass sheets moving on a conveyor in a factory", image: "/poi-images/luxembourg-guardian-glass-dudelange-economic-v2.webp"},
   {
     id: "luxembourg-euro-composite-echternach-economic-v2",
     type: "factory",
@@ -579,8 +558,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Furnizor pentru Airbus și Boeing", "Producție de panouri pentru sateliți", "Departament de cercetare propriu la fața locului", "Cel mai important angajator privat din Echternach"],
       en: ["Supplier for Airbus and Boeing", "Production of panels for satellites", "Own research department on-site", "Most important private employer in Echternach"],
     },
-    imageHint: "Lightweight honeycomb composite panels in a factory",
-  },
+    imageHint: "Lightweight honeycomb composite panels in a factory", image: "/poi-images/luxembourg-euro-composite-echternach-economic-v2.webp"},
   {
     id: "luxembourg-iee-contern-economic-v2",
     type: "industry",
@@ -599,8 +577,7 @@ export const luxembourgEconomicV2: POI[] = [
       ro: ["Pionier în sistemele de detectare a ocupanților", "Accent pe siguranță și conducere autonomă", "Echipă internațională de ingineri", "Investiții mari în cercetare și dezvoltare"],
       en: ["Pioneer in occupant detection systems", "Focus on safety and autonomous driving", "International team of engineers", "High investment in Research & Development"],
     },
-    imageHint: "Modern office and lab building of IEE in Contern",
-  },
+    imageHint: "Modern office and lab building of IEE in Contern", image: "/poi-images/luxembourg-iee-contern-economic-v2.webp"},
   {
     id: "luxembourg-fanuc-europe-echternach-economic-v2",
     type: "industry",

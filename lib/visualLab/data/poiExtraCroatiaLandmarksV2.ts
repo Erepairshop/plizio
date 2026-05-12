@@ -19,8 +19,7 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Turnurile sale ating o înălțime de 108 metri", "Reconstruită de Hermann Bollé după cutremurul din 1880", "Adăpostește mormântul cardinalului Alojzije Stepinac", "Înconjurată de ziduri de apărare din secolul al XVI-lea"],
       en: ["Spire height reaches approximately 108 meters", "Redesigned by Hermann Bollé after the 1880 earthquake", "Contains the sarcophagus of Cardinal Alojzije Stepinac", "Surrounded by defensive walls from the 16th century"],
     },
-    imageHint: "Zagreb Cathedral neo-gothic spires",
-  },
+    imageHint: "Zagreb Cathedral neo-gothic spires", image: "/poi-images/croatia-zagreb-cathedral-landmarks-v2.webp"},
   {
     id: "croatia-st-marks-church-landmarks-v2",
     type: "church",
@@ -39,8 +38,7 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Acoperișul redă blazoanele Croației și Zagrebului", "Portalul sudic conține 15 sculpturi gotice", "Acoperișul a fost proiectat de Friedrich Schmidt în 1880", "Biserica datează inițial din secolul al XIII-lea"],
       en: ["Roof tiles display the coats of arms of Croatia and Zagreb", "South portal features 15 Gothic sculptures in niches", "Roof design was created in 1880 by Friedrich Schmidt", "The church's origin dates back to the 13th century"],
     },
-    imageHint: "St Mark's Church Zagreb colorful tiled roof",
-  },
+    imageHint: "St Mark's Church Zagreb colorful tiled roof", image: "/poi-images/croatia-st-marks-church-landmarks-v2.webp"},
   {
     id: "croatia-varazdin-old-town-landmarks-v2",
     type: "castle",
@@ -99,8 +97,7 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Proiectată de arhitectul Nikola Bašić în 2005", "Formată din 35 de tuburi de orga de lungimi diferite", "Câștigătoare a Premiului European pentru Spațiu Public Urban în 2006", "Situată în vârful vestic al peninsulei orașului"],
       en: ["Designed by architect Nikola Bašić in 2005", "Consists of 35 pipes of varying lengths and diameters", "Won the European Prize for Urban Public Space in 2006", "Located at the northwestern tip of the Zadar peninsula"],
     },
-    imageHint: "Sea Organ Zadar stone steps by the sea",
-  },
+    imageHint: "Sea Organ Zadar stone steps by the sea", image: "/poi-images/croatia-sea-organ-landmarks-v2.webp"},
   {
     id: "croatia-ston-walls-landmarks-v2",
     type: "monument",
@@ -119,8 +116,7 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Lungimea inițială era de aproximativ 7 kilometri", "Construite în secolul al XIV-lea de Republica Ragusa", "Conectează localitățile Ston și Mali Ston", "Includ 40 de turnuri și 5 fortărețe"],
       en: ["Original length was approximately 7 kilometers", "Built in the 14th century by the Republic of Ragusa", "Links the villages of Ston and Mali Ston", "The system includes 40 towers and 5 fortresses"],
     },
-    imageHint: "Ston Walls aerial view Peljesac",
-  },
+    imageHint: "Ston Walls aerial view Peljesac", image: "/poi-images/croatia-ston-walls-landmarks-v2.webp"},
   {
     id: "croatia-lovrijenac-fortress-landmarks-v2",
     type: "castle",
@@ -139,8 +135,7 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Inscripția de la poartă: Libertatea nu se vinde pentru tot aurul din lume", "Zidurile dinspre mare au o grosime de până la 12 metri", "Loc de filmare pentru serialul Game of Thrones", "Datează inițial din secolul al XI-lea"],
       en: ["Inscription above the gate: Liberty is not sold for all the gold in the world", "Seaward walls are up to 12 meters thick for defense", "Famed filming location for the 'Red Keep' in Game of Thrones", "Construction likely began as early as the 11th century"],
     },
-    imageHint: "Lovrijenac Fortress cliff view Dubrovnik",
-  },
+    imageHint: "Lovrijenac Fortress cliff view Dubrovnik", image: "/poi-images/croatia-lovrijenac-fortress-landmarks-v2.webp"},
   {
     id: "croatia-rectors-palace-landmarks-v2",
     type: "palace",
@@ -159,8 +154,7 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Reconstruit de mai multe ori după explozii ale prafului de pușcă", "Curtea interioară are o acustică superbă pentru concerte", "Adăpostește monumentul dedicat lui Miho Pracat", "Include fosta închisoare de stat și arhivele"],
       en: ["Rebuilt several times after gunpowder explosions in the 15th century", "The atrium serves as a venue for classical music concerts", "Features the only public monument to a citizen (Miho Pracat)", "Contains the former state prison and government offices"],
     },
-    imageHint: "Rectors Palace Dubrovnik facade columns",
-  },
+    imageHint: "Rectors Palace Dubrovnik facade columns", image: "/poi-images/croatia-rectors-palace-landmarks-v2.webp"},
   {
     id: "croatia-st-euphemia-church-landmarks-v2",
     type: "church",
@@ -199,8 +193,7 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Inaugurat de împăratul Franz Joseph I în 1895", "Proiectat de renumiții arhitecți Fellner & Helmer", "Fațada este vopsită în celebrul galben imperial", "Găzduiește Fântâna Vieții de Ivan Meštrović în fața intrării"],
       en: ["Inaugurated by Emperor Franz Joseph I in 1895", "Designed by the renowned architectural studio Fellner & Helmer", "The exterior is painted in distinctive 'Imperial Yellow'", "Features the 'Well of Life' sculpture by Ivan Meštrović at the entrance"],
     },
-    imageHint: "Croatian National Theatre Zagreb yellow building",
-  }
+    imageHint: "Croatian National Theatre Zagreb yellow building", image: "/poi-images/croatia-national-theatre-zagreb-landmarks-v2.webp"}
 ,
   {
     id: "croatia-st-nicholas-fortress-landmarks-v2",
@@ -238,8 +231,7 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Construită între 1671 și 1713.", "Adăpostește moaștele Sfântului Blasiu.", "Proiectată de Andrea Buffalini.", "Situată în inima orașului vechi."],
       en: ["Built between 1671 and 1713.", "Houses relics of St. Blaise.", "Designed by Andrea Buffalini.", "Located in the heart of the Old Town."],
     },
-    imageHint: "Dubrovnik Cathedral Baroque facade",
-  },
+    imageHint: "Dubrovnik Cathedral Baroque facade", image: "/poi-images/croatia-dubrovnik-cathedral-landmarks-v2.webp"},
   {
     id: "croatia-church-holy-cross-nin-landmarks-v2",
     type: "church",
@@ -257,8 +249,7 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Construită în secolul al IX-lea.", "Plan central în formă de cruce.", "Cel mai important monument din Nin.", "A servit drept calendar și ceas."],
       en: ["Built in the 9th century.", "Central cross-shaped floor plan.", "Most important monument in old Nin.", "Served as a calendar and clock."],
     },
-    imageHint: "Church of the Holy Cross Nin Croatia",
-  },
+    imageHint: "Church of the Holy Cross Nin Croatia", image: "/poi-images/croatia-church-holy-cross-nin-landmarks-v2.webp"},
   {
     id: "croatia-stone-gate-zagreb-landmarks-v2",
     type: "landmark",
@@ -276,8 +267,7 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Construită în secolul al XIII-lea.", "Icoana a supraviețuit focului.", "Loc important de rugăciune local.", "Situată în Orașul de Sus."],
       en: ["Built in the 13th century.", "The painting survived the 1731 fire.", "Important prayer site for locals.", "Located in the Upper Town (Gornji Grad)."],
     },
-    imageHint: "Stone Gate Zagreb shrine interior",
-  },
+    imageHint: "Stone Gate Zagreb shrine interior", image: "/poi-images/croatia-stone-gate-zagreb-landmarks-v2.webp"},
   {
     id: "croatia-mirogoj-cemetery-landmarks-v2",
     type: "landmark",
@@ -295,8 +285,7 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Inaugurat în anul 1876.", "Loc de veci pentru toate religiile.", "Arcade neoclasice magnifice.", "Locul de odihnă al multor celebrități."],
       en: ["Opened in 1876.", "Burial site for all religions.", "Grand neoclassical arcades.", "Resting place of many famous figures."],
     },
-    imageHint: "Mirogoj Cemetery arcades Zagreb",
-  },
+    imageHint: "Mirogoj Cemetery arcades Zagreb", image: "/poi-images/croatia-mirogoj-cemetery-landmarks-v2.webp"},
   {
     id: "croatia-lotrscak-tower-landmarks-v2",
     type: "tower",
@@ -314,8 +303,7 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Construit în anul 1266.", "Tunul trage zilnic din 1877.", "Oferă o vedere de 360 de grade.", "Parte din vechile fortificații."],
       en: ["Built in 1266.", "Cannon fires daily since 1877.", "Offers 360-degree views of Zagreb.", "Part of the old city fortifications."],
     },
-    imageHint: "Lotrscak Tower Zagreb exterior",
-  },
+    imageHint: "Lotrscak Tower Zagreb exterior", image: "/poi-images/croatia-lotrscak-tower-landmarks-v2.webp"},
   {
     id: "croatia-st-michaels-fortress-landmarks-v2",
     type: "castle",
@@ -333,8 +321,7 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Cea mai veche cetate din oraș.", "Menționată prima dată în sec. XI.", "Renovată complet în 2014.", "Numită după patronul orașului."],
       en: ["Oldest fortress in the city.", "First mentioned in the 11th century.", "Renovated extensively in 2014.", "Named after the city protector."],
     },
-    imageHint: "St. Michaels Fortress Sibenik open air stage",
-  },
+    imageHint: "St. Michaels Fortress Sibenik open air stage", image: "/poi-images/croatia-st-michaels-fortress-landmarks-v2.webp"},
   {
     id: "croatia-st-lawrence-cathedral-trogir-landmarks-v2",
     type: "cathedral",
@@ -352,8 +339,7 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Construită în secolul al XIII-lea.", "Portalul lui Radovan datează din 1240.", "Turnul are trei stiluri diferite.", "Parte din patrimoniul UNESCO."],
       en: ["Built in the 13th century.", "Radovans Portal dates from 1240.", "Bell tower shows three styles.", "Part of the UNESCO Heritage."],
     },
-    imageHint: "St. Lawrence Cathedral Trogir portal",
-  },
+    imageHint: "St. Lawrence Cathedral Trogir portal", image: "/poi-images/croatia-st-lawrence-cathedral-trogir-landmarks-v2.webp"},
   {
     id: "croatia-mimara-museum-landmarks-v2",
     type: "museum",
@@ -371,8 +357,7 @@ export const croatiaLandmarksV2: POI[] = [
       ro: ["Deschis în anul 1987.", "Colecția lui Ante Topić Mimara.", "Peste 3.700 de opere de artă.", "Situat în Piața Roosevelt."],
       en: ["Opened in 1987.", "Donated by Ante Topic Mimara.", "Over 3,700 works of art.", "Located in Roosevelt Square."],
     },
-    imageHint: "Mimara Museum Zagreb exterior",
-  },
+    imageHint: "Mimara Museum Zagreb exterior", image: "/poi-images/croatia-mimara-museum-landmarks-v2.webp"},
   {
     id: "croatia-st-blaise-church-dubrovnik-landmarks-v2",
     type: "church",

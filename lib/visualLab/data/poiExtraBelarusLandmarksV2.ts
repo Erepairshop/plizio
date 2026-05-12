@@ -31,8 +31,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-mir-castle-landmarks-v2.webp"},
   {
     id: "belarus-national-library-landmarks-v2",
     type: "landmark",
@@ -63,8 +62,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-national-library-landmarks-v2.webp"},
   {
     id: "belarus-red-church-minsk-landmarks-v2",
     type: "church",
@@ -95,8 +93,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-red-church-minsk-landmarks-v2.webp"},
   {
     id: "belarus-holy-spirit-cathedral-minsk-landmarks-v2",
     type: "cathedral",
@@ -127,8 +124,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-holy-spirit-cathedral-minsk-landmarks-v2.webp"},
   {
     id: "belarus-great-patriotic-war-museum-landmarks-v2",
     type: "museum",
@@ -159,8 +155,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-great-patriotic-war-museum-landmarks-v2.webp"},
   {
     id: "belarus-kolozha-church-grodno-landmarks-v2",
     type: "church",
@@ -223,8 +218,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-old-grodno-castle-landmarks-v2.webp"},
   {
     id: "belarus-new-grodno-castle-landmarks-v2",
     type: "palace",
@@ -255,8 +249,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-new-grodno-castle-landmarks-v2.webp"},
   {
     id: "belarus-kosava-castle-landmarks-v2",
     type: "palace",
@@ -287,8 +280,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-kosava-castle-landmarks-v2.webp"},
   {
     id: "belarus-ruzhany-palace-ruins-landmarks-v2",
     type: "ruins",
@@ -319,8 +311,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-ruzhany-palace-ruins-landmarks-v2.webp"},
   {
     id: "belarus-stalin-line-complex-landmarks-v2",
     type: "museum",
@@ -383,8 +374,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-kamyanets-tower-landmarks-v2.webp"},
   {
     id: "belarus-muravanka-fortified-church-landmarks-v2",
     type: "church",
@@ -479,8 +469,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-st-nicholas-monastery-mogilev-landmarks-v2.webp"},
   {
     id: "belarus-vitebsk-town-hall-landmarks-v2",
     type: "landmark",
@@ -543,8 +532,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-marc-chagall-museum-vitebsk-landmarks-v2.webp"},
   {
     id: "belarus-corpus-christi-church-nesvizh-landmarks-v2",
     type: "church",
@@ -639,8 +627,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-halshany-castle-ruins-landmarks-v2.webp"},
   {
     id: "belarus-bobruisk-fortress-landmarks-v2",
     type: "monument",
@@ -671,8 +658,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  }
+    }, image: "/poi-images/belarus-bobruisk-fortress-landmarks-v2.webp"}
 ,
   {
     id: "belarus-budslau-basilica-landmarks-v2",
@@ -736,8 +722,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-bolshoi-theatre-minsk-landmarks-v2.webp"},
   {
     id: "belarus-national-art-museum-minsk-landmarks-v2",
     type: "museum",
@@ -768,8 +753,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-national-art-museum-minsk-landmarks-v2.webp"},
   {
     id: "belarus-slonim-great-synagogue-landmarks-v2",
     type: "landmark",
@@ -833,8 +817,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-st-stanislaus-cathedral-mogilev-landmarks-v2.webp"},
   {
     id: "belarus-tyzenhauz-palace-postavy-landmarks-v2",
     type: "palace",
@@ -865,8 +848,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-tyzenhauz-palace-postavy-landmarks-v2.webp"},
   {
     id: "belarus-shklov-town-hall-landmarks-v2",
     type: "landmark",
@@ -897,8 +879,7 @@ export const belarusLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-shklov-town-hall-landmarks-v2.webp"},
   {
     id: "belarus-butrimovich-palace-pinsk-landmarks-v2",
     type: "palace",

@@ -32,8 +32,7 @@ export const polandLandmarksV2: POI[] = [
       hu: ["Eredetileg a mazóviai hercegek vára volt a 14. században.", "A 16. században lett III. Zsigmond lengyel király hivatalos rezidenciája.", "1944-ben, a varsói felkelés után a német csapatok felrobbantották.", "Az újjáépítés 1971-től 1984-ig tartott.", "A rekonstrukciót hazai és külföldi lengyelek adományaiból finanszírozták.", "Műkincseket őriz, köztük két Rembrandt-festményt.", "A 60 méter magas óratorony Zsigmond-toronyként is ismert.", "A királyi lakosztályokat eredeti formájukban állították helyre.", "A varsói Óvárossal együtt az UNESCO Világörökség része.", "Itt hirdették ki az 1791. május 3-i alkotmányt.", "A Canaletto-terem Bernardo Bellotto 18. századi varsói látképeit mutatja be.", "Évente számos kulturális eseménynek és koncertnek ad otthont."],
       ro: ["Inițial, a fost un castel ducal al Ducilor de Mazovia în secolul al XIV-lea.", "A devenit reședința oficială a Regelui Sigismund al III-lea Vasa în secolul al XVI-lea.", "Aruncat în aer în 1944 de trupele germane după Revolta din Varșovia.", "Reconstrucția a avut loc între anii 1971 și 1984.", "Reconstrucția a fost finanțată prin donații de la polonezii din țară și din străinătate.", "Găzduiește opere de artă, inclusiv două picturi de Rembrandt.", "Turnul cu ceas, cunoscut sub numele de Turnul lui Zygmunt, are 60 de metri înălțime.", "Apartamentele regale au fost recreate cu fidelitate.", "Parte a sitului Patrimoniului Mondial UNESCO al Orașului Vechi din Varșovia.", "Locul proclamării Constituției de la 3 mai 1791.", "Sala Canaletto expune vederi ale Varșoviei din secolul al XVIII-lea.", "Găzduiește numeroase evenimente culturale și concerte anual."],
       en: ["Originally a ducal castle of the Masovian dukes in the 14th century.", "Became the official residence of King Sigismund III Vasa in the 16th century.", "Blown up in 1944 by German troops after the Warsaw Uprising.", "The reconstruction took place between 1971 and 1984.", "Reconstruction was financed by donations from Poles at home and abroad.", "Houses artworks including two paintings by Rembrandt.", "The clock tower, known as the Zygmunt Tower, stands 60 meters tall.", "The Royal Apartments have been faithfully recreated.", "Part of the UNESCO World Heritage site of the Warsaw Old Town.", "Site of the proclamation of the Constitution of May 3, 1791.", "The Canaletto Room displays 18th-century views of Warsaw.", "Hosts numerous cultural events and concerts annually."],
-    },
-  },
+    }, image: "/poi-images/poland-warsaw-royal-castle-landmarks-v2.webp"},
   {
     id: "poland-palace-culture-science-landmarks-v2",
     type: "monument",
@@ -64,8 +63,7 @@ export const polandLandmarksV2: POI[] = [
       hu: ["Tervezője Lev Rudnyev szovjet építész volt.", "1952 és 1955 között mintegy 3500 szovjet munkás építette.", "Teljes magassága a csúccsal együtt 237 méter.", "Több mint 3000 szobát foglal magában 42 emeleten.", "Az épület 40 millió téglából épült.", "A kilátóterasz 114 méter magasan található.", "Otthont ad az Evolúciós Múzeumnak és a Műszaki Múzeumnak.", "A Kongresszusi Terem közel 3000 fő befogadására alkalmas.", "Gyakran emlegetik „Sztálin fecskendőjeként” vagy „orosz esküvői tortaként”.", "Homlokzatát munkásokat, tudósokat és művészeket ábrázoló szobrok díszítik.", "2007 óta az épület műemléki védelem alatt áll.", "Télen az épület előtti tér népszerű korcsolyapályává változik."],
       ro: ["Proiectat de arhitectul sovietic Lev Rudnev.", "Construit între 1952 și 1955 de aproximativ 3.500 de muncitori sovietici.", "Înălțimea totală este de 237 de metri, inclusiv spira.", "Cuprinde peste 3.000 de camere pe 42 de etaje.", "Clădirea a fost construită din 40 de milioane de cărămizi.", "Terasa de observație este situată la o înălțime de 114 metri.", "Găzduiește Muzeul Evoluției și Muzeul Tehnologiei.", "Sala Congreselor are o capacitate de aproape 3.000 de persoane.", "Deseori numit „Seringa lui Stalin” sau „tort de nuntă rusesc”.", "Fațada este decorată cu sculpturi reprezentând muncitori, oameni de știință și artiști.", "Clădirea este un monument protejat din 2007.", "În timpul iernii, piața din fața sa devine un popular patinoar."],
       en: ["Designed by Soviet architect Lev Rudnev.", "Built between 1952 and 1955 by around 3,500 Soviet workers.", "The total height is 237 meters, including the spire.", "Comprises more than 3,000 rooms over 42 floors.", "The building was constructed using 40 million bricks.", "The observation deck is located at a height of 114 meters.", "Houses the Museum of Evolution and the Museum of Technology.", "The Congress Hall has a seating capacity of nearly 3,000.", "Often nicknamed 'Stalin's Syringe' or the 'Russian wedding cake'.", "The facade is adorned with sculptures of workers, scientists, and artists.", "The building has been a protected monument since 2007.", "During winter, the square in front becomes a popular ice rink."],
-    },
-  },
+    }, image: "/poi-images/poland-palace-culture-science-landmarks-v2.webp"},
   {
     id: "poland-mariacka-basilica-krakow-landmarks-v2",
     type: "cathedral",
@@ -96,8 +94,7 @@ export const polandLandmarksV2: POI[] = [
       hu: ["Az első itteni templom alapkövét a 13. század elején tették le.", "A jelenlegi gótikus bazilika építése a 14. században kezdődött.", "A magasabb torony 82 méter, az alacsonyabb 69 méter magas.", "A Hejnałt a négy égtáj felé játsszák.", "A Veit Stoss-oltár a világ legnagyobb gótikus oltára.", "Az oltár elkészítése 1477-től 1489-ig tartott.", "A főhajó mennyezetét csillagmintás kék festés díszíti.", "1970-ben VI. Pál pápától basilica minor rangot kapott.", "Ablakait különböző korokból származó pompás ólomüvegek díszítik.", "A kincstár értékes liturgikus tárgyakat őriz.", "A legenda szerint a tornyokat két testvér építette, ami halálos versengéshez vezetett.", "A bazilika ma is aktív plébániatemplom."],
       ro: ["Piatra de temelie a primei biserici de pe acest loc a fost pusă la începutul secolului al XIII-lea.", "Construcția actualei bazilici gotice a început în secolul al XIV-lea.", "Turnul mai înalt are 82 de metri, iar cel mai scund are 69 de metri.", "Hejnał este cântat în cele patru direcții cardinale.", "Altarul lui Veit Stoss este cel mai mare altar gotic din lume.", "Realizarea altarului a durat din 1477 până în 1489.", "Tavanul naosului principal este pictat cu un model stelar pe un fundal albastru.", "A primit titlul de basilica minor de la Papa Paul al VI-lea în 1970.", "Ferestrele sunt decorate cu vitralii magnifice din diferite epoci.", "Tezaurul adăpostește obiecte liturgice valoroase.", "Legenda spune că turnurile au fost construite de doi frați, ceea ce a dus la o rivalitate mortală.", "Bazilica este o biserică parohială activă."],
       en: ["The foundations of the first church on this site were laid in the early 13th century.", "Construction of the current Gothic basilica began in the 14th century.", "The taller tower is 82 meters high, while the shorter one is 69 meters.", "The Hejnał is played towards the four cardinal directions.", "The Veit Stoss Altarpiece is the largest Gothic altarpiece in the world.", "The altarpiece took from 1477 to 1489 to complete.", "The ceiling of the main nave is painted with a star pattern on a blue background.", "It was granted the title of basilica minor by Pope Paul VI in 1970.", "The windows are adorned with magnificent stained glass from various periods.", "The treasury holds valuable liturgical objects.", "Legend says the towers were built by two brothers, leading to a fatal rivalry.", "The basilica is an active parish church."],
-    },
-  },
+    }, image: "/poi-images/poland-mariacka-basilica-krakow-landmarks-v2.webp"},
   {
     id: "poland-gdansk-crane-landmarks-v2",
     type: "landmark",
@@ -128,8 +125,7 @@ export const polandLandmarksV2: POI[] = [
       hu: ["A mai építmény 1442 és 1444 között épült.", "Európa legnagyobb középkori kikötői daruja.", "A két hatalmas taposókerék átmérője körülbelül 6 méter.", "Erődített városkapuként is szolgált.", "27 méteres magasságba tudott terhet emelni.", "1945-ben egy tűzvészben szinte teljesen megsemmisült.", "Az újjáépítés az 1950-es években fejeződött be.", "Ma a gdański Nemzeti Tengerészeti Múzeum egyik részlege.", "Belső kiállítása a kikötői munkások életét és munkáját mutatja be.", "A Szeroka utcában (Ulica Szeroka) található.", "Számos gdański képeslapon és ajándéktárgyon szereplő jelkép.", "A központi, fából készült emelőszerkezetet tégla homlokzatok fogják közre."],
       ro: ["Structura actuală a fost construită între 1442 și 1444.", "Este cea mai mare macara portuară medievală din Europa.", "Cele două roți de lemn au un diametru de aproximativ 6 metri fiecare.", "A servit și ca poartă fortificată a orașului.", "Putea ridica o sarcină la o înălțime de 27 de metri.", "A fost distrusă aproape complet de un incendiu în 1945.", "Reconstrucția a fost finalizată în anii 1950.", "Astăzi este o filială a Muzeului Maritim Național din Gdańsk.", "Expoziția din interior prezintă viața și munca docherilor.", "Situată pe Ulica Szeroka (Strada Lată).", "Un reper prezent pe multe cărți poștale și suveniruri din Gdańsk.", "Fațadele din cărămidă flanchează mecanismul central de ridicare din lemn."],
       en: ["The current structure was built between 1442 and 1444.", "It is the largest medieval port crane in Europe.", "The two large treadwheels have a diameter of about 6 meters each.", "Also served as a fortified city gate.", "Could lift a load to a height of 27 meters.", "Was almost completely destroyed by fire in 1945.", "Reconstruction was completed in the 1950s.", "Today it is a branch of the National Maritime Museum in Gdańsk.", "The exhibition inside shows the life and work of dockers.", "Located on Ulica Szeroka (Broad Street).", "A landmark featured on many postcards and souvenirs from Gdańsk.", "The brick facades flank the central wooden lifting mechanism."],
-    },
-  },
+    }, image: "/poi-images/poland-gdansk-crane-landmarks-v2.webp"},
   {
     id: "poland-wroclaw-centennial-hall-landmarks-v2",
     type: "monument",
@@ -160,8 +156,7 @@ export const polandLandmarksV2: POI[] = [
       hu: ["Max Berg, Wrocław akkori városi építésze tervezte.", "Az 1913-as Centenáriumi Kiállítás helyszínéül épült.", "A kupola átmérője 65 méter.", "A csarnok magassága 42 méter.", "Az építkezés során először alkalmaztak nagy méretekben vasbetont.", "2006-ban felvették az UNESCO Világörökség listájára.", "Akár 10 000 fő befogadására is alkalmas.", "A csarnok orgonája egykor a világ legnagyobbja volt.", "A második világháború alatt alig sérült meg.", "A csarnok mellett található az Iglica, egy 96 méter magas acéltű.", "A csarnok előtti wrocławi multimédiás szökőkút népszerű látványosság.", "Ma Lengyelország egyik fontos kulturális és sportlétesítménye."],
       ro: ["Proiectată de Max Berg, arhitectul orașului Wrocław la acea vreme.", "Construită pentru a găzdui Expoziția Centenară din 1913.", "Diametrul cupolei este de 65 de metri.", "Înălțimea halei este de 42 de metri.", "Construcția a folosit beton armat pe scară largă pentru prima dată.", "Inscrisă pe Lista Patrimoniului Mondial UNESCO în 2006.", "Are o capacitate de până la 10.000 de persoane.", "Orga halei a fost odată cea mai mare din lume.", "A fost foarte puțin avariată în timpul celui de-al Doilea Război Mondial.", "Lângă hală se află Iglica, o structură de oțel de 96 de metri înălțime.", "Fântâna Multimedia din Wrocław, din fața halei, este o atracție populară.", "Astăzi este un loc important pentru evenimente culturale și sportive în Polonia."],
       en: ["Designed by Max Berg, Wrocław's city architect at the time.", "Built to host the 1913 Centennial Exhibition.", "The diameter of the dome is 65 meters.", "The height of the hall is 42 meters.", "The construction pioneered the large-scale use of reinforced concrete.", "Inscribed on the UNESCO World Heritage List in 2006.", "Has a capacity of up to 10,000 people.", "The hall's organ was once the largest in the world.", "It survived World War II with very little damage.", "Next to the hall is the Iglica, a 96-meter tall steel spire.", "The Wrocław Multimedia Fountain in front of the hall is a popular attraction.", "Today it is a major venue for cultural and sporting events in Poland."],
-    },
-  },
+    }, image: "/poi-images/poland-wroclaw-centennial-hall-landmarks-v2.webp"},
   {
     id: "poland-cloth-hall-krakow-landmarks-v2",
     type: "landmark",
@@ -192,8 +187,7 @@ export const polandLandmarksV2: POI[] = [
       hu: ["Az első kőcsarnokot a 13. században építtette Szemérmes Boleszláv.", "Egy 1555-ös tűzvész után reneszánsz stílusban építették újjá.", "Az átépítést Santi Gucci olasz építész vezette.", "A díszes attikát faragott maszkok, úgynevezett maszkarónok díszítik.", "A világ egyik legrégebbi, folyamatosan működő kereskedelmi helyének tartják.", "A földszinten két sor piaci stand található.", "Az emeleten a 19. századi Lengyel Művészet Galériája kapott helyet.", "A galéria híres műveket mutat be, köztük Jan Matejko Porosz hódolat című festményét.", "A népszerű Noworolski kávézó is a Posztócsarnokban található.", "A Posztócsarnok alatt található a 'Rynek Underground' földalatti múzeum.", "Az épület 108 méter hosszú.", "Az árkádok védelmet nyújtottak az időjárás viszontagságai ellen a kereskedők és vásárlók számára."],
       ro: ["Prima hală de piatră a fost construită în secolul al XIII-lea de Bolesław cel Pios.", "După un incendiu în 1555, a fost reconstruită în stil renascentist.", "Renovarea a fost condusă de arhitectul italian Santi Gucci.", "Aticul decorativ este împodobit cu măști sculptate, cunoscute sub numele de mascaroni.", "Considerat unul dintre cele mai vechi centre comerciale din lume, care a funcționat neîntrerupt.", "La parter există două rânduri de tarabe de piață.", "Etajul superior găzduiește Galeria de Artă Poloneză din secolul al XIX-lea.", "Galeria expune opere celebre, inclusiv Omagiul Prusac de Jan Matejko.", "Populara Cafenea Noworolski este, de asemenea, situată în Hala de Postavuri.", "Sub Hala de Postavuri se află muzeul subteran 'Rynek Underground'.", "Clădirea are o lungime de 108 metri.", "Arcadele ofereau adăpost comercianților și cumpărătorilor de vremea rea."],
       en: ["The first stone hall was built in the 13th century by Bolesław the Chaste.", "After a fire in 1555, it was rebuilt in the Renaissance style.", "The renovation was overseen by Italian architect Santi Gucci.", "The decorative attic is adorned with carved masks, known as mascarons.", "Considered one of the world's oldest continuously operating shopping centers.", "The ground floor features two rows of market stalls.", "The upper floor hosts the Gallery of 19th-Century Polish Art.", "The gallery displays famous works, including Jan Matejko's 'Prussian Homage'.", "The popular Noworolski Cafe is also located within the Cloth Hall.", "Beneath the Cloth Hall is the 'Rynek Underground' museum.", "The building is 108 meters long.", "The arcades provided shelter from the weather for merchants and shoppers."],
-    },
-  },
+    }, image: "/poi-images/poland-cloth-hall-krakow-landmarks-v2.webp"},
   {
     id: "poland-neptune-fountain-gdansk-landmarks-v2",
     type: "monument",
@@ -224,8 +218,7 @@ export const polandLandmarksV2: POI[] = [
       hu: ["A szökőkút építésének ötlete 1615-ben merült fel.", "A szobrot Peter Husen és Johann Rogge öntötte Augsburgban.", "A szökőkutat 1633-ban avatták fel hivatalosan.", "A Neptun-figura megalkotását flamand és olasz szobrok ihlették.", "A második világháború alatt a szobrot leszerelték és elrejtették, hogy megvédjék.", "A szökőkút körüli rácsot 1634-ben adták hozzá, lengyel sasokkal díszítve.", "A vízrendszert Ottmar von Kilian tervezte.", "Egy legenda szerint egykor gdański Goldwasser likőr folyt a szökőkútból.", "A szobor szigonya nem eredeti, mivel az évek során többször ellopták.", "A szökőkút a Hosszú Piacon (Długi Targ) található.", "Restaurálási munkálatok zajlottak az 1920-as, 1950-es és 2010-es években.", "Hagyomány, hogy a helyi tengerészeti akadémia végzősei beleugranak a szökőkútba."],
       ro: ["Inițiativa de a construi fântâna a apărut în 1615.", "Statuia a fost turnată la Augsburg de Peter Husen și Johann Rogge.", "Fântâna a fost inaugurată oficial în 1633.", "Figura lui Neptun a fost inspirată de sculpturi flamande și italiene.", "În timpul celui de-al Doilea Război Mondial, statuia a fost demontată și ascunsă pentru a fi protejată.", "Grilajul din jurul fântânii a fost adăugat în 1634 și este decorat cu vulturi polonezi.", "Instalația de apă a fost proiectată de Ottmar von Kilian.", "O legendă spune că odată din fântână curgea Goldwasser, lichiorul din Gdańsk.", "Tridentul statuii nu este original, fiind furat de mai multe ori de-a lungul anilor.", "Fântâna este situată în Piața Lungă (Długi Targ).", "Lucrări de restaurare au avut loc în anii 1920, 1950 și 2010.", "Este o tradiție ca absolvenții academiei navale locale să sară în fântână."],
       en: ["The initiative to build the fountain arose in 1615.", "The statue was cast in Augsburg by Peter Husen and Johann Rogge.", "The fountain was officially inaugurated in 1633.", "The figure of Neptune was inspired by Flemish and Italian sculptures.", "During World War II, the statue was dismantled and hidden for protection.", "The grating around the fountain was added in 1634 and is decorated with Polish eagles.", "The water installation was designed by Ottmar von Kilian.", "A legend says that Gdańsk's Goldwasser liqueur once flowed from the fountain.", "The statue's trident is not original, as it has been stolen several times over the years.", "The fountain is located in the Long Market (Długi Targ).", "Restoration work took place in the 1920s, 1950s, and 2010s.", "It is a tradition for graduates of the local naval academy to jump into the fountain."],
-    },
-  },
+    }, image: "/poi-images/poland-neptune-fountain-gdansk-landmarks-v2.webp"},
   {
     id: "poland-zamosc-town-hall-landmarks-v2",
     type: "landmark",
@@ -256,8 +249,7 @@ export const polandLandmarksV2: POI[] = [
       hu: ["Zamośćot 1580-ban alapította Jan Zamoyski.", "A város terveit Bernardo Morando olasz építész készítette.", "A városháza eredetileg 1591 és 1600 között épült.", "A torony 52 méter magas.", "A legyező alakú lépcsőt a 18. század második felében adták hozzá.", "Zamość 1992 óta az UNESCO Világörökség része.", "A Nagy Piactér mérete pontosan 100x100 méter.", "A városházát eredetileg nem tervezték a lépcsővel; Zamoyski nem akarta, hogy bármely épület felülmúlja a Zamoyski-palotát.", "Ma az épület a városi önkormányzatnak és egy turisztikai információs központnak ad otthont.", "Nyáron délben egy trombitás játszik a városháza tornyából.", "A szignált csak három irányba játsszák – soha nem Krakkó felé.", "A homlokzatot rokokó és kora klasszicista díszítőelemek ékesítik."],
       ro: ["Zamość a fost fondat în 1580 de Jan Zamoyski.", "Designul orașului a fost realizat de arhitectul italian Bernardo Morando.", "Primăria a fost construită inițial între 1591 și 1600.", "Turnul are o înălțime de 52 de metri.", "Scara în formă de evantai a fost adăugată în a doua jumătate a secolului al XVIII-lea.", "Zamość este un sit al Patrimoniului Mondial UNESCO din 1992.", "Piața Mare măsoară exact 100 pe 100 de metri.", "Primăria nu a fost inițial planificată cu scara; Zamoyski nu a dorit ca nicio clădire să depășească Palatul Zamoyski.", "Astăzi, clădirea găzduiește birourile primăriei și un centru de informare turistică.", "Vara, un trompetist cântă un semnal din turnul primăriei la prânz.", "Semnalul este cântat doar în trei direcții - niciodată spre Cracovia.", "Fațada este decorată cu ornamente în stil rococo și clasicist timpuriu."],
       en: ["Zamość was founded in 1580 by Jan Zamoyski.", "The city's design was created by Italian architect Bernardo Morando.", "The Town Hall was originally built between 1591 and 1600.", "The tower stands 52 meters tall.", "The fan-shaped staircase was added in the second half of the 18th century.", "Zamość has been a UNESCO World Heritage site since 1992.", "The Great Market Square measures exactly 100 by 100 meters.", "The town hall was not originally planned with the staircase; Zamoyski didn't want any building to overshadow the Zamoyski Palace.", "Today the building houses the city council and a tourist information center.", "In summer, a trumpeter plays a signal from the town hall tower at noon.", "The signal is only played in three directions - never towards Kraków.", "The facade is decorated with Rococo and early Classicist ornaments."],
-    },
-  },
+    }, image: "/poi-images/poland-zamosc-town-hall-landmarks-v2.webp"},
   {
     id: "poland-niedzica-castle-landmarks-v2",
     type: "castle",
@@ -288,8 +280,7 @@ export const polandLandmarksV2: POI[] = [
       hu: ["1320 és 1325 között építtette Berzeviczy Kókó.", "Évszázadokig a magyar Salamon család tulajdonában volt.", "A bejárat felett egy 1601-es újjáépítést megörökítő felirat található.", "A legenda szerint itt keresett menedéket egy inka herceg, és itt rejtett el egy kincset.", "1946-ban egy 'kipu'-t, egy inka csomóírásos dokumentumot találtak a várban.", "A második világháború után a várat államosították és múzeummá alakították.", "Az 1990-es években épült duzzasztógát drámaian megváltoztatta a vár körüli tájat.", "A felső- és a középvár a legrégebbi részek.", "A teraszról lélegzetelállító kilátás nyílik a tó túlpartján álló czorsztyni várra.", "Múzeumában régészeti leletek és történelmi bútorok láthatók.", "A vár több lengyel film és tévésorozat forgatási helyszíne volt.", "Azt mondják, Umina hercegnő szelleme kísért a várban."],
       ro: ["Construit între 1320 și 1325 de Kokos de Brezovica.", "A aparținut familiei maghiare Salamon timp de secole.", "Deasupra intrării se află o inscripție care menționează reconstrucția din 1601.", "Legenda spune că un prinț incaș a căutat refugiu aici și a ascuns o comoară.", "Un 'quipu', un document incaș cu noduri, a fost găsit în castel în 1946.", "După al Doilea Război Mondial, castelul a fost naționalizat și transformat în muzeu.", "Construirea barajului în anii 1990 a schimbat dramatic peisajul din jurul castelului.", "Castelul superior și cel mijlociu sunt cele mai vechi părți.", "De pe terasă se poate admira o priveliște uluitoare a Castelului Czorsztyn de pe celălalt mal al lacului.", "Găzduiește un muzeu cu descoperiri arheologice și mobilier istoric.", "Castelul a fost o locație de filmare pentru mai multe filme și seriale TV poloneze.", "Se spune că fantoma prințesei Umina bântuie castelul."],
       en: ["Built between 1320 and 1325 by Kokos of Brezovica.", "Belonged to the Hungarian Salamon family for centuries.", "An inscription above the entrance mentions its reconstruction in 1601.", "Legend says an Inca prince sought refuge here and hid a treasure.", "A 'quipu', an Inca knotted-string document, was found in the castle in 1946.", "After World War II, the castle was nationalized and turned into a museum.", "The construction of the dam in the 1990s dramatically changed the landscape around the castle.", "The upper and middle castles are the oldest parts.", "The terrace offers a stunning view of Czorsztyn Castle across the lake.", "Features a museum with archaeological findings and historical furniture.", "The castle has been a filming location for several Polish movies and TV series.", "It is said to be haunted by the ghost of Princess Umina."],
-    },
-  },
+    }, image: "/poi-images/poland-niedzica-castle-landmarks-v2.webp"},
   {
     id: "poland-poznan-town-hall-landmarks-v2",
     type: "landmark",
@@ -320,8 +311,7 @@ export const polandLandmarksV2: POI[] = [
       hu: ["Az első gótikus városháza 1300 körül épült.", "A reneszánsz átépítés 1550 és 1560 között zajlott.", "Giovanni Battista di Quadro építész Luganóból származott.", "A mechanikus kecskéket 1551-ben szerelték be.", "Az eredeti tornyot 1725-ben egy hurrikán pusztította el.", "Az épületben található a Poznańi Történeti Múzeum.", "A Nagyterem (Reneszánsz terem) pompás, 1555-ből származó kazettás mennyezettel rendelkezik.", "A homlokzaton a Jagelló-dinasztia lengyel királyainak portréi láthatók.", "Egy legenda szerint két, lakomára szánt kecske szökött fel a toronyba, és verekedni kezdett.", "Az épületet a második világháború súlyos kárai után újjáépítették.", "A jelenlegi torony 61 méter magas.", "Az óra és a kecskék a 16. századi eredeti másolatai."],
       ro: ["Prima primărie gotică a fost construită în jurul anului 1300.", "Transformarea renascentistă a avut loc între 1550 și 1560.", "Arhitectul Giovanni Battista di Quadro era din Lugano.", "Caprele mecanice au fost instalate în 1551.", "Turnul original a fost distrus de un uragan în 1725.", "Interiorul găzduiește Muzeul de Istorie al orașului Poznań.", "Sala Mare (Sala Renașterii) are un tavan casetat magnific datând din 1555.", "Fațada prezintă portrete ale regilor polonezi din dinastia Jagiellonă.", "O legendă spune că două capre destinate unui ospăț au scăpat în turn și au început să se lupte.", "Clădirea a fost reconstruită după daune severe suferite în al Doilea Război Mondial.", "Turnul actual are 61 de metri înălțime.", "Ceasul și caprele sunt o replică a originalului din secolul al XVI-lea."],
       en: ["The first Gothic town hall was built around 1300.", "The Renaissance transformation took place between 1550 and 1560.", "The architect, Giovanni Battista di Quadro, was from Lugano.", "The mechanical goats were installed in 1551.", "The original tower was destroyed by a hurricane in 1725.", "The interior houses the Museum of the History of Poznań.", "The Great Hall (Renaissance Hall) has a magnificent coffered ceiling from 1555.", "The facade features portraits of Polish kings from the Jagiellonian dynasty.", "According to legend, two goats intended for a feast escaped onto the tower and started fighting.", "The building was reconstructed after severe damage in World War II.", "The current tower is 61 meters tall.", "The clock and goats are a replica of the 16th-century original."],
-    },
-  },
+    }, image: "/poi-images/poland-poznan-town-hall-landmarks-v2.webp"},
   {
     id: "poland-raclawice-panorama-landmarks-v2",
     type: "museum",
@@ -352,8 +342,7 @@ export const polandLandmarksV2: POI[] = [
       hu: ["A festményt eredetileg Lemberg (ma Lviv, Ukrajna) számára készítették.", "1894-ben, a csata 100. évfordulóján leplezték le.", "A festményen való munka kilenc hónapig tartott.", "A második világháború után a festményt Wrocławba szállították.", "Politikai feszültségek miatt Wrocławban csak 1985-ben tették újra látogathatóvá a nagyközönség számára.", "Az épületet, amely a körképnek ad otthont, kifejezetten erre a célra tervezték.", "Egyike a kevés fennmaradt 19. századi panorámakép-festménynek.", "Tadeusz Kościuszko, a csata vezére, kiemelt helyen szerepel a festményen.", "A 'Wojciech Kossak parasztjai' egy híres alakcsoport a festményen.", "A mélység illúzióját festés és fizikai tárgyak kombinációjával érik el.", "A vásznat Belgiumban készítették egyetlen darabból.", "Évente több százezer ember látogatja meg a körképet."],
       ro: ["Pictura a fost creată inițial pentru Lviv (azi în Ucraina).", "A fost dezvelită în 1894, la 100 de ani de la bătălie.", "Lucrul la pictură a durat nouă luni.", "După al Doilea Război Mondial, pictura a fost mutată la Wrocław.", "Din cauza tensiunilor politice, nu a fost redeschisă publicului în Wrocław până în 1985.", "Clădirea care găzduiește panorama a fost special proiectată pentru aceasta.", "Este unul dintre puținele exemple de pictură panoramică din secolul al XIX-lea care au supraviețuit.", "Tadeusz Kościuszko, liderul bătăliei, este reprezentat în mod proeminent în pictură.", "„Țăranii lui Wojciech Kossak” sunt un grup faimos de figuri din pictură.", "Iluzia de profunzime este creată printr-o combinație de pictură și obiecte fizice.", "Pânza a fost realizată în Belgia dintr-o singură bucată.", "Sute de mii de oameni vizitează panorama în fiecare an."],
       en: ["The painting was originally created for Lviv (now in Ukraine).", "It was unveiled in 1894 on the 100th anniversary of the battle.", "Work on the painting took nine months.", "After World War II, the painting was moved to Wrocław.", "Due to political tensions, it was not reopened to the public in Wrocław until 1985.", "The building housing the panorama was specifically designed for it.", "It is one of the few surviving examples of 19th-century panoramic painting.", "Tadeusz Kościuszko, the leader of the battle, is prominently featured in the painting.", "The 'Wojciech Kossak's peasants' are a famous group of figures in the painting.", "The illusion of depth is created by a combination of painting and physical objects.", "The canvas was custom-made in Belgium from a single piece.", "Hundreds of thousands of people visit the panorama annually."],
-    },
-  },
+    }, image: "/poi-images/poland-raclawice-panorama-landmarks-v2.webp"},
   {
     id: "poland-ogrodzieniec-castle-landmarks-v2",
     type: "ruins",
@@ -384,8 +373,7 @@ export const polandLandmarksV2: POI[] = [
       hu: ["Az első erődítményt Nagy Kázmér király idejében építették.", "A 16. században a Boner család építtette át reneszánsz stílusban.", "A várat 1655-ben a svédek kifosztották és felgyújtották.", "A romok látogathatók, és különböző turistaútvonalakat kínálnak.", "A vár a Janowski-hegyen, a Jura legmagasabb pontján (516 m) található.", "Azt mondják, a várat az 'Ogrodzienieci fekete kutya' kísérti.", "A vár egyes részeit a helyi mészkőből faragták ki.", "A romok körülbelül 32 hektáros területen fekszenek.", "A vár volt a Netflix 'The Witcher' (Vaják) sorozatának egyik forgatási helyszíne.", "Nyáron lovagi tornákat és más történelmi rendezvényeket tartanak itt.", "A vastag falak és tornyok egykori katonai erejéről tanúskodnak.", "A Sasfészkek Tájvédelmi Park része."],
       ro: ["Prima fortăreață de pe acest loc a fost construită în timpul regelui Cazimir cel Mare.", "În secolul al XVI-lea, a fost reconstruit în stil renascentist de către familia Boner.", "Castelul a fost jefuit și ars de suedezi în 1655.", "Ruinele sunt deschise publicului și oferă diverse trasee turistice.", "Castelul este situat pe Muntele Janowski, cel mai înalt punct din Upland (516 m deasupra nivelului mării).", "Se spune că castelul este bântuit de 'Câinele Negru din Ogrodzieniec'.", "Părți ale castelului au fost sculptate din calcarul local.", "Ruinele acoperă o suprafață de aproximativ 32 de hectare.", "Castelul a fost o locație de filmare pentru serialul Netflix 'The Witcher'.", "Vara, aici au loc turniruri de cavaleri și alte evenimente istorice.", "Zidurile groase și turnurile atestă fosta sa putere militară.", "Face parte din Parcul Peisagistic al Cuiburilor de Vulturi."],
       en: ["The first fortress on this site was built under King Casimir the Great.", "In the 16th century, it was rebuilt in a Renaissance style by the Boner family.", "The castle was looted and burned by the Swedes in 1655.", "The ruins are open to the public and offer various tourist routes.", "The castle is located on Janowski Mountain, the highest point of the Upland (516m above sea level).", "The castle is said to be haunted by the 'Black Dog of Ogrodzieniec'.", "Parts of the castle were carved out of the local limestone.", "The ruins cover an area of about 32 hectares.", "The castle was a filming location for the Netflix series 'The Witcher'.", "In the summer, it hosts knights' tournaments and other historical events.", "The thick walls and towers are a testament to its former military strength.", "It is part of the Eagles' Nests Landscape Park."],
-    },
-  },
+    }, image: "/poi-images/poland-ogrodzieniec-castle-landmarks-v2.webp"},
   {
     id: "poland-czocha-castle-landmarks-v2",
     type: "castle",
@@ -416,8 +404,7 @@ export const polandLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-czocha-castle-landmarks-v2.webp"},
   {
     id: "poland-moszna-castle-landmarks-v2",
     type: "palace",
@@ -449,8 +436,7 @@ export const polandLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-moszna-castle-landmarks-v2.webp"},
   {
     id: "poland-kornik-castle-landmarks-v2",
     type: "castle",
@@ -481,8 +467,7 @@ export const polandLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-kornik-castle-landmarks-v2.webp"},
   {
     id: "poland-gdansk-artus-court-landmarks-v2",
     type: "landmark",
@@ -513,8 +498,7 @@ export const polandLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-gdansk-artus-court-landmarks-v2.webp"},
   {
     id: "poland-pieskowa-skala-castle-landmarks-v2",
     type: "castle",
@@ -545,8 +529,7 @@ export const polandLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-pieskowa-skala-castle-landmarks-v2.webp"},
   {
     id: "poland-lublin-castle-landmarks-v2",
     type: "castle",
@@ -577,8 +560,7 @@ export const polandLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-lublin-castle-landmarks-v2.webp"},
   {
     id: "poland-klodzko-gothic-bridge-landmarks-v2",
     type: "bridge",
@@ -609,8 +591,7 @@ export const polandLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-klodzko-gothic-bridge-landmarks-v2.webp"},
   {
     id: "poland-vistulamouth-fortress-landmarks-v2",
     type: "landmark",
@@ -641,8 +622,7 @@ export const polandLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-vistulamouth-fortress-landmarks-v2.webp"},
   {
     id: "poland-warsaw-barbican-landmarks-v2",
     type: "monument",
@@ -673,8 +653,7 @@ export const polandLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-warsaw-barbican-landmarks-v2.webp"},
   {
     id: "poland-szczecin-cathedral-landmarks-v2",
     type: "cathedral",
@@ -705,8 +684,7 @@ export const polandLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  }
+    }, image: "/poi-images/poland-szczecin-cathedral-landmarks-v2.webp"}
 ,
   {
     id: "poland-branicki-palace-landmarks-v2",
@@ -746,8 +724,7 @@ export const polandLandmarksV2: POI[] = [
       ro: ["Construit între 1591 și 1606", "Proiectat de Santi Gucci", "Curte cu arcade magnifice", "Înconjurat de un parc de 2,5 hectare"],
       en: ["Built between 1591 and 1606", "Designed by Santi Gucci", "Courtyard with magnificent cloisters", "Surrounded by a 2.5-hectare park"],
     },
-    imageHint: "Baranow Sandomierski Castle courtyard cloisters",
-  },
+    imageHint: "Baranow Sandomierski Castle courtyard cloisters", image: "/poi-images/poland-baranow-sandomierski-castle-landmarks-v2.webp"},
   {
     id: "poland-swidnica-church-peace-landmarks-v2",
     type: "church",
@@ -766,8 +743,7 @@ export const polandLandmarksV2: POI[] = [
       ro: ["Finalizată în anul 1657", "Construită fără cuie de metal", "Capacitate de 7500 de persoane", "Patrimoniu UNESCO din 2001"],
       en: ["Completed in the year 1657", "Built without using metal nails", "Accommodates up to 7500 people", "UNESCO World Heritage since 2001"],
     },
-    imageHint: "Church of Peace in Swidnica interior baroque",
-  },
+    imageHint: "Church of Peace in Swidnica interior baroque", image: "/poi-images/poland-swidnica-church-peace-landmarks-v2.webp"},
   {
     id: "poland-lidzbark-warminski-castle-landmarks-v2",
     type: "castle",
@@ -786,8 +762,7 @@ export const polandLandmarksV2: POI[] = [
       ro: ["Construit între 1350 și 1401", "Copernic a locuit aici (1503-1510)", "Plan pătrat cu curte interioară", "Fresce gotice în refectoriu"],
       en: ["Built between 1350 and 1401", "Copernicus lived here (1503-1510)", "Square floor plan with courtyard", "14th-century Gothic frescoes"],
     },
-    imageHint: "Lidzbark Warminski Castle gothic brick exterior",
-  },
+    imageHint: "Lidzbark Warminski Castle gothic brick exterior", image: "/poi-images/poland-lidzbark-warminski-castle-landmarks-v2.webp"},
   {
     id: "poland-krasiczyn-castle-landmarks-v2",
     type: "castle",
@@ -806,8 +781,7 @@ export const polandLandmarksV2: POI[] = [
       ro: ["Construit între 1580 și 1631", "7000 mp de decorațiuni sgraffito", "Patru turnuri de colț distincte", "Parc vast de 14,5 hectare"],
       en: ["Built between 1580 and 1631", "7000 sqm of sgraffito decoration", "Four distinct corner towers", "14.5-hectare landscape park"],
     },
-    imageHint: "Krasiczyn Castle towers and sgraffito walls",
-  },
+    imageHint: "Krasiczyn Castle towers and sgraffito walls", image: "/poi-images/poland-krasiczyn-castle-landmarks-v2.webp"},
   {
     id: "poland-rogalin-palace-landmarks-v2",
     type: "palace",
@@ -826,8 +800,7 @@ export const polandLandmarksV2: POI[] = [
       ro: ["Construit între 1770 și 1776", "Reședința familiei Raczyński", "Aproape 2000 de stejari bătrâni", "Galerie de pictură notabilă"],
       en: ["Built between 1770 and 1776", "Seat of the Raczyński family", "Nearly 2000 ancient oak trees", "Notable painting gallery on site"],
     },
-    imageHint: "Rogalin Palace facade and old oaks",
-  },
+    imageHint: "Rogalin Palace facade and old oaks", image: "/poi-images/poland-rogalin-palace-landmarks-v2.webp"},
   {
     id: "poland-solidarity-centre-landmarks-v2",
     type: "museum",
@@ -846,8 +819,7 @@ export const polandLandmarksV2: POI[] = [
       ro: ["Deschis în anul 2014", "Suprafață de 25.000 mp", "Situat lângă Șantierul Naval", "Premiul Muzeul Consiliului Europei"],
       en: ["Opened in the year 2014", "25,000 square meters of space", "Located near the Gdańsk Shipyard", "2016 Council of Europe Museum Prize"],
     },
-    imageHint: "European Solidarity Centre Gdansk building exterior",
-  },
+    imageHint: "European Solidarity Centre Gdansk building exterior", image: "/poi-images/poland-solidarity-centre-landmarks-v2.webp"},
   {
     id: "poland-wroclaw-town-hall-landmarks-v2",
     type: "landmark",

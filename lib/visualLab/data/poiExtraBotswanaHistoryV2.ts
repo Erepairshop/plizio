@@ -900,7 +900,6 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
       hu: ["Több száz éves élő növény", "Kasane központjában található", "Különleges üreges törzs", "Ma védett turisztikai látványosság"],
       ro: ["Situat lângă secția de poliție", "Interior cavitar natural", "Vechime de sute de ani", "Atracție turistică în Kasane"],
       en: ["Former hollowed-out prison", "Located in Kasane", "Giant ancient baobab", "Unique historical curiosity"]
-    }
-  },
+    }, image: "/poi-images/kasane-baobab-history-v2.webp"},
 ];
 

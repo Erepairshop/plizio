@@ -19,8 +19,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Lungime de aproximativ 160 kilometri", "Parte a sistemului muntos dinaric", "Include defileul Vikos, unul dintre cele mai adânci", "Reprezintă principala cumpănă a apelor"],
       en: ["Stretches for approximately 160 kilometers", "Part of the Dinaric mountain system", "Contains the Vikos Gorge, a world-record canyon", "Primary watershed of mainland Greece"],
     },
-    imageHint: "Pindus mountain range landscape overview",
-  },
+    imageHint: "Pindus mountain range landscape overview", image: "/poi-images/greece-pindus-range-relief-v2.webp"},
   {
     id: "greece-lefka-ori-relief-v2",
     type: "mountain",
@@ -39,8 +38,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful Pachnes este cel mai înalt (2453 m)", "Format din calcar alb și dolomit", "Adăpostește faimosul defileu Samaria", "Peste 30 de vârfuri depășesc 2000 m"],
       en: ["Highest peak is Pachnes (2,453 m)", "Composed of light limestone and dolomite", "Home to the famous Samaria Gorge", "Contains over 30 peaks above 2,000 meters"],
     },
-    imageHint: "White Mountains Lefka Ori Crete landscape",
-  },
+    imageHint: "White Mountains Lefka Ori Crete landscape", image: "/poi-images/greece-lefka-ori-relief-v2.webp"},
   {
     id: "greece-thessalian-plain-relief-v2",
     type: "valley",
@@ -59,8 +57,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Cea mai întinsă câmpie din Grecia", "Principala zonă cerealieră a țării", "Traversată de râul Pineios", "Fost fund de lac în perioade preistorice"],
       en: ["Largest plain in Greece", "Primary area for grain production", "Traversed by the Pineios river", "Ancient lake basin in prehistoric times"],
     },
-    imageHint: "Thessalian Plain agricultural landscape",
-  },
+    imageHint: "Thessalian Plain agricultural landscape", image: "/poi-images/greece-thessalian-plain-relief-v2.webp"},
   {
     id: "greece-mount-tymfi-relief-v2",
     type: "peak",
@@ -79,8 +76,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful maxim este Gamila (2497 m)", "Faimos pentru lacul Drakolimni de pe Tymfi", "Alcăuit aproape integral din calcar", "Parte din Parcul Național Vikos-Aoos"],
       en: ["Highest peak is Gamila (2,497 m)", "Famous for the Dragon Lake (Drakolimni)", "Composed almost entirely of limestone", "Part of the Vikos–Aoös National Park"],
     },
-    imageHint: "Mount Tymfi Gamila peak and cliffs",
-  },
+    imageHint: "Mount Tymfi Gamila peak and cliffs", image: "/poi-images/greece-mount-tymfi-relief-v2.webp"},
   {
     id: "greece-mount-oeta-relief-v2",
     type: "peak",
@@ -99,8 +95,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine maximă de 2152 metri", "Parc național din anul 1966", "Platou carstic major în zona de vârf", "Cunoscut drept 'muntele florilor'"],
       en: ["Maximum elevation of 2,152 meters", "National park since 1966", "Significant karst plateau at the summit", "Known as the 'mountain of flowers'"],
     },
-    imageHint: "Mount Oeta mountain landscape",
-  },
+    imageHint: "Mount Oeta mountain landscape", image: "/poi-images/greece-mount-oeta-relief-v2.webp"},
   {
     id: "greece-rhodope-mountains-relief-v2",
     type: "mountain",
@@ -119,8 +114,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Graniță naturală între Grecia și Bulgaria", "Format din roci cristaline străvechi", "Găzduiește Parcul Național Rodopi", "Bogați în minereuri de plumb și zinc"],
       en: ["Border between Greece and Bulgaria", "Composed of crystalline basement rocks", "Home to the Rhodope Mountain Range National Park", "Rich in lead and zinc ores"],
     },
-    imageHint: "Rhodope mountains forested landscape",
-  },
+    imageHint: "Rhodope mountains forested landscape", image: "/poi-images/greece-rhodope-mountains-relief-v2.webp"},
   {
     id: "greece-mount-falakro-relief-v2",
     type: "peak",
@@ -139,8 +133,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful Profitis Ilias are 2232 m", "Cunoscut pentru dolinele sale carstice", "Centru de schi major în nordul Greciei", "Alcăuit în principal din calcar"],
       en: ["Highest peak is Profitis Ilias (2,232 m)", "Known for its karst dolines (sinkholes)", "Important ski center in Northern Greece", "Composed predominantly of limestone"],
     },
-    imageHint: "Mount Falakro barren rocky peaks",
-  },
+    imageHint: "Mount Falakro barren rocky peaks", image: "/poi-images/greece-mount-falakro-relief-v2.webp"},
   {
     id: "greece-mount-ossa-relief-v2",
     type: "peak",
@@ -159,8 +152,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine maximă de 1978 metri", "Separat de Olimp prin valea Tempe", "Ceața este foarte frecventă pe vârf", "Format din șisturi cristaline"],
       en: ["Maximum elevation of 1,978 meters", "Separated from Olympus by the Vale of Tempe", "Frequent fog formation at the summit", "Composed of crystalline schist"],
     },
-    imageHint: "Mount Ossa Kissavos peak landscape",
-  },
+    imageHint: "Mount Ossa Kissavos peak landscape", image: "/poi-images/greece-mount-ossa-relief-v2.webp"},
   {
     id: "greece-mount-paiko-relief-v2",
     type: "mountain",
@@ -179,8 +171,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful Gola Tsuka are 1650 m", "Păduri vaste de castani și stejari", "Relief mai domol comparat cu munții Pind", "Bogat în cursuri de apă și izvoare"],
       en: ["Highest peak is Gola Tsuka (1,650 m)", "Extensive chestnut and oak forests", "Gentler relief compared to the Pindus", "Rich in water streams and springs"],
     },
-    imageHint: "Mount Paiko forested slopes",
-  },
+    imageHint: "Mount Paiko forested slopes", image: "/poi-images/greece-mount-paiko-relief-v2.webp"},
   {
     id: "greece-mount-parnitha-relief-v2",
     type: "mountain",
@@ -199,8 +190,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful Karavola are 1413 m", "Parc național din anul 1961", "Plămânul verde vital pentru zona Atenei", "Conține numeroase peșteri, precum Panas"],
       en: ["Highest peak is Karavola (1,413 m)", "National park since 1961", "Vital 'green lung' for the Athens area", "Contains numerous caves like Panas"],
     },
-    imageHint: "Mount Parnitha peaks near Athens",
-  },
+    imageHint: "Mount Parnitha peaks near Athens", image: "/poi-images/greece-mount-parnitha-relief-v2.webp"},
   {
     id: "greece-mount-pentelicus-relief-v2",
     type: "mountain",
@@ -219,8 +209,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine de 1109 metri", "Sursa marmurei pentelice", "Marcat de cariere antice și moderne", "Oferă vedere spre câmpia Maraton"],
       en: ["Elevation of 1,109 meters", "Source of the Pentelic marble", "Heavily shaped by ancient and modern quarries", "Overlooks the plain of Marathon"],
     },
-    imageHint: "Mount Pentelicus marble quarries",
-  },
+    imageHint: "Mount Pentelicus marble quarries", image: "/poi-images/greece-mount-pentelicus-relief-v2.webp"},
   {
     id: "greece-mount-hymettus-relief-v2",
     type: "mountain",
@@ -239,8 +228,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Lungime de aproximativ 16 km", "Cel mai înalt punct Evzonas (1026 m)", "Renumit pentru 'mierea de Imitos'", "Numeroase peșteri și mănăstiri"],
       en: ["Length of about 16 kilometers", "Highest point is Evzonas (1,026 m)", "Famous for 'Hymettian honey'", "Features numerous caves and monasteries"],
     },
-    imageHint: "Mount Hymettus ridge near Athens",
-  },
+    imageHint: "Mount Hymettus ridge near Athens", image: "/poi-images/greece-mount-hymettus-relief-v2.webp"},
   {
     id: "greece-mount-voras-relief-v2",
     type: "peak",
@@ -259,8 +247,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine de 2524 metri", "Al treilea cel mai înalt punct din țară", "Vârful este format din granit și gnais", "Găzduiește stațiunea de schi Kaimaktsalan"],
       en: ["Elevation of 2,524 meters", "Third highest point in Greece", "Summit composed of granite and gneiss", "Popular Kaimaktsalan ski resort"],
     },
-    imageHint: "Mount Voras Kaimaktsalan peaks",
-  },
+    imageHint: "Mount Voras Kaimaktsalan peaks", image: "/poi-images/greece-mount-voras-relief-v2.webp"},
   {
     id: "greece-mount-vardousia-relief-v2",
     type: "peak",
@@ -279,8 +266,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful Korakas are 2495 m", "Relief alpin foarte accidentat", "Una dintre cele mai sudice zone alpine", "Format din calcar masiv"],
       en: ["Highest peak is Korakas (2,495 m)", "Very alpine and rugged relief", "One of the southernmost alpine areas", "Composed of solid limestone"],
     },
-    imageHint: "Mount Vardousia alpine peaks",
-  },
+    imageHint: "Mount Vardousia alpine peaks", image: "/poi-images/greece-mount-vardousia-relief-v2.webp"},
   {
     id: "greece-mount-chelmos-relief-v2",
     type: "peak",
@@ -299,8 +285,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine maximă de 2355 metri", "Geoparc Global UNESCO", "Include cascadele râului Styx", "Găzduiește un important observator astronomic"],
       en: ["Maximum elevation of 2,355 meters", "UNESCO Global Geopark designation", "Home to the Waters of Styx waterfall", "Features a major astronomical observatory"],
     },
-    imageHint: "Mount Chelmos snow and rocky slopes",
-  },
+    imageHint: "Mount Chelmos snow and rocky slopes", image: "/poi-images/greece-mount-chelmos-relief-v2.webp"},
   {
     id: "greece-mount-erymanthos-relief-v2",
     type: "peak",
@@ -319,8 +304,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful Olenos are 2224 m", "Format în principal din calcar", "Izvoare carstice importante la bază", "Habitat crucial pentru păsări de pradă"],
       en: ["Highest peak is Olenos (2,224 m)", "Mainly composed of limestone", "Significant karst springs at the base", "Important habitat for birds of prey"],
     },
-    imageHint: "Mount Erymanthos rocky peaks",
-  },
+    imageHint: "Mount Erymanthos rocky peaks", image: "/poi-images/greece-mount-erymanthos-relief-v2.webp"},
   {
     id: "greece-mount-kyllini-relief-v2",
     type: "peak",
@@ -339,8 +323,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine de 2376 metri", "Al doilea punct culminant din Peloponez", "Cunoscut pentru Peștera lui Hermes", "Alcăuit din straturi masive de calcar"],
       en: ["Elevation of 2,376 meters", "Second highest point in Peloponnese", "Famous for the Cave of Hermes", "Composed of massive limestone layers"],
     },
-    imageHint: "Mount Kyllini Ziria mountain landscape",
-  },
+    imageHint: "Mount Kyllini Ziria mountain landscape", image: "/poi-images/greece-mount-kyllini-relief-v2.webp"},
   {
     id: "greece-mount-dikti-relief-v2",
     type: "mountain",
@@ -359,8 +342,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful Spathi are 2148 metri", "Înconjoară platoul Lassithi", "Locația peșterii Dicteene", "Format predominant din calcar"],
       en: ["Highest peak is Spathi (2,148 m)", "Encloses the Lassithi Plateau", "Site of the Psychro (Dictaean) Cave", "Composed mainly of limestone"],
     },
-    imageHint: "Mount Dikti and Lassithi plateau view",
-  },
+    imageHint: "Mount Dikti and Lassithi plateau view", image: "/poi-images/greece-mount-dikti-relief-v2.webp"},
   {
     id: "greece-mount-pangaion-relief-v2",
     type: "peak",
@@ -379,8 +361,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine maximă de 1956 metri", "Faimos pentru mineritul aurului antic", "Alcăuit din marmură și micașist", "Poziție izolată în apropierea coastei"],
       en: ["Maximum elevation of 1,956 meters", "Famous for ancient gold mining", "Composed of marble and mica schist", "Isolated location near the coast"],
     },
-    imageHint: "Mount Pangaion peak landscape",
-  },
+    imageHint: "Mount Pangaion peak landscape", image: "/poi-images/greece-mount-pangaion-relief-v2.webp"},
   {
     id: "greece-copais-plain-relief-v2",
     type: "valley",
@@ -438,8 +419,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârful principal: Flampouro", "Altitudine: 2193 metri", "Căminul muzelor în mitologie", "Păduri dese de foioase"],
       en: ["Highest peak: Flampouro", "Elevation: 2,193 meters", "Mythological home of the Muses", "Dense deciduous forests"],
     },
-    imageHint: "Mount Pieria forests and snowy peaks",
-  },
+    imageHint: "Mount Pieria forests and snowy peaks", image: "/poi-images/greece-mount-pieria-relief-v2.webp"},
   {
     id: "greece-mount-vermio-relief-v2",
     type: "mountain",
@@ -457,8 +437,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârf: Chamiti (2052 m)", "Găzduiește stațiunea Seli", "Bogat în păduri de fag", "Lângă orașul Veria"],
       en: ["Peak: Chamiti (2,052m)", "Home of Seli ski resort", "Rich in beech forests", "Near the city of Veria"],
     },
-    imageHint: "Mount Vermio ski resort and slopes",
-  },
+    imageHint: "Mount Vermio ski resort and slopes", image: "/poi-images/greece-mount-vermio-relief-v2.webp"},
   {
     id: "greece-mount-parnon-relief-v2",
     type: "mountain",
@@ -476,8 +455,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine: 1935 metri", "Cel mai lung munte din Peloponez", "Păduri rare de ienupăr", "Abrupturi calcaroase"],
       en: ["Elevation: 1,935 meters", "Longest range in Peloponnese", "Rare juniper forests", "Limestone cliffs"],
     },
-    imageHint: "Mount Parnon Peloponnese rocky ridges",
-  },
+    imageHint: "Mount Parnon Peloponnese rocky ridges", image: "/poi-images/greece-mount-parnon-relief-v2.webp"},
   {
     id: "greece-mount-menalon-relief-v2",
     type: "mountain",
@@ -495,8 +473,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Vârf: Ostrakina (1981 m)", "Prima potecă certificată", "Păduri dense de brad", "Centrul Arcadiei antice"],
       en: ["Peak: Ostrakina (1,981m)", "First certified hiking trail", "Dense Greek fir forests", "Center of ancient Arcadia"],
     },
-    imageHint: "Mount Menalon forest trail Arcadia",
-  },
+    imageHint: "Mount Menalon forest trail Arcadia", image: "/poi-images/greece-mount-menalon-relief-v2.webp"},
   {
     id: "greece-lassithi-plateau-relief-v2",
     type: "valley",
@@ -514,8 +491,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine medie: 850 m", "Înconjurat de munții Dikti", "Faimos pentru morile de vânt", "Locația peșterii Psychro"],
       en: ["Average elevation: 850m", "Surrounded by Dikti range", "Famous for windmills", "Site of Psychro Cave"],
     },
-    imageHint: "Lassithi Plateau windmills and mountains Crete",
-  },
+    imageHint: "Lassithi Plateau windmills and mountains Crete", image: "/poi-images/greece-lassithi-plateau-relief-v2.webp"},
   {
     id: "greece-mount-athamanika-relief-v2",
     type: "mountain",
@@ -533,8 +509,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Cel mai înalt punct: Kakarditsa", "Altitudine: 2429 metri", "Peisaj calcaros abrupt", "Parte din lanțul Pind"],
       en: ["Highest point: Kakarditsa", "Elevation: 2,429 meters", "Rugged limestone terrain", "Part of the Pindus chain"],
     },
-    imageHint: "Tzoumerka mountains rugged peaks Greece",
-  },
+    imageHint: "Tzoumerka mountains rugged peaks Greece", image: "/poi-images/greece-mount-athamanika-relief-v2.webp"},
   {
     id: "greece-mount-helicon-relief-v2",
     type: "mountain",
@@ -552,8 +527,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Altitudine: 1748 metri", "Vârf: Paliovouna", "Locul izvorului Hippocrene", "Căminul muzelor în mitologie"],
       en: ["Elevation: 1,748 meters", "Peak: Paliovouna", "Site of Hippocrene spring", "Mythological home of Muses"],
     },
-    imageHint: "Mount Helicon slopes and valley Boeotia",
-  },
+    imageHint: "Mount Helicon slopes and valley Boeotia", image: "/poi-images/greece-mount-helicon-relief-v2.webp"},
   {
     id: "greece-mount-agrafa-relief-v2",
     type: "mountain",
@@ -571,8 +545,7 @@ export const greeceReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Karava", "Altitudine: 2184 metri", "Numele înseamnă 'nescris'", "Teren foarte accidentat"],
       en: ["Highest peak: Karava", "Elevation: 2,184 meters", "Name means 'unwritten'", "Highly inaccessible terrain"],
     },
-    imageHint: "Agrafa mountains remote landscape Greece",
-  },
+    imageHint: "Agrafa mountains remote landscape Greece", image: "/poi-images/greece-mount-agrafa-relief-v2.webp"},
   {
     id: "greece-messara-plain-relief-v2",
     type: "valley",

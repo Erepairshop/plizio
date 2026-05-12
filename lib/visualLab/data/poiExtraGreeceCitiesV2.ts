@@ -19,8 +19,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Al treilea cel mai populat oraș elen", "Port principal pentru feriboturi spre Italia", "Găzduiește Catedrala Sfântul Andrei", "Cunoscut pentru Carnavalul de la Patras"],
       en: ["Third largest city in Greece", "Major ferry hub to Italy", "Home to the University of Patras", "Site of the Saint Andrew Basilica"],
     },
-    imageHint: "Patras port view with Rio-Antirrio bridge in background",
-  },
+    imageHint: "Patras port view with Rio-Antirrio bridge in background", image: "/poi-images/greece-patras-cities-v2.webp"},
   {
     id: "greece-heraklion-cities-v2",
     type: "capital",
@@ -39,8 +38,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Cel mai mare oraș din Creta", "Situat lângă Palatul din Knossos", "Găzduiește un muzeu arheologic celebru", "Fortăreața venețiană Koules"],
       en: ["Largest city on the island of Crete", "Gateway to the Palace of Knossos", "Home to a world-class archaeological museum", "Features the Venetian Koules fortress"],
     },
-    imageHint: "Heraklion Venetian harbor and Koules fortress",
-  },
+    imageHint: "Heraklion Venetian harbor and Koules fortress", image: "/poi-images/greece-heraklion-cities-v2.webp"},
   {
     id: "greece-larissa-cities-v2",
     type: "city",
@@ -59,8 +57,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Capitala regiunii Tesalia", "Deține două teatre antice", "Nod feroviar strategic", "Oraș cu istorie de peste 4000 ani"],
       en: ["Capital of the Thessaly region", "Home to two ancient theaters", "Major railway junction in Greece", "Continuous habitation for 4,000 years"],
     },
-    imageHint: "Ancient Theater of Larissa in city center",
-  },
+    imageHint: "Ancient Theater of Larissa in city center", image: "/poi-images/greece-larissa-cities-v2.webp"},
   {
     id: "greece-volos-cities-v2",
     type: "port",
@@ -79,8 +76,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Poarta către Muntele Pelion", "Renumit pentru tavernele cu tsipouro", "Port industrial important", "Locul de plecare al argonauților"],
       en: ["Gateway to Mount Pelion", "Famous for its Tsipouradika taverns", "Significant industrial port", "Legendary home of Jason and the Argonauts"],
     },
-    imageHint: "Volos port promenade and Pagasetic Gulf",
-  },
+    imageHint: "Volos port promenade and Pagasetic Gulf", image: "/poi-images/greece-volos-cities-v2.webp"},
   {
     id: "greece-ioannina-cities-v2",
     type: "city",
@@ -99,8 +95,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Situat pe malul lacului Pamvotis", "Centru faimos pentru argintărie", "Are o insulă locuită pe lac", "Cetatea Kastro din secolul VI"],
       en: ["Located on the banks of Lake Pamvotis", "Famous center for silver craftsmanship", "Features an inhabited island in the lake", "Home to a well-preserved historic castle"],
     },
-    imageHint: "Ioannina lakefront and castle walls",
-  },
+    imageHint: "Ioannina lakefront and castle walls", image: "/poi-images/greece-ioannina-cities-v2.webp"},
   {
     id: "greece-trikala-cities-v2",
     type: "city",
@@ -119,8 +114,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Primul oraș digital din Grecia", "Poartă către Meteora", "Traversat de râul Lithaios", "Găzduiește Moscheea Kursum"],
       en: ["First smart city in Greece", "Close to the Meteora monasteries", "Bisected by the Lithaios River", "Features the historic Kursum Mosque"],
     },
-    imageHint: "Trikala river Lithaios and central bridge",
-  },
+    imageHint: "Trikala river Lithaios and central bridge", image: "/poi-images/greece-trikala-cities-v2.webp"},
   {
     id: "greece-serres-cities-v2",
     type: "city",
@@ -139,8 +133,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Centru comercial regional", "Faimos pentru plăcinta bougatsa", "Are un circuit de viteză moto", "Aproape de Parcul Național Kerkini"],
       en: ["Regional trade and business hub", "Famous for the Bougatsa pastry", "Home to a professional racing circuit", "Near Lake Kerkini National Park"],
     },
-    imageHint: "Serres city panorama with Koulas fortress",
-  },
+    imageHint: "Serres city panorama with Koulas fortress", image: "/poi-images/greece-serres-cities-v2.webp"},
   {
     id: "greece-alexandroupoli-cities-v2",
     type: "port",
@@ -159,8 +152,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Port principal spre Samothraki", "Far istoric înalt de 27 de metri", "Poartă către Delta Evros", "Nod energetic strategic în Balcani"],
       en: ["Major port for Samothraki ferries", "Iconic 27-meter tall lighthouse", "Gateway to the Evros Delta", "Strategic energy hub for the region"],
     },
-    imageHint: "Alexandroupoli lighthouse at sunset",
-  },
+    imageHint: "Alexandroupoli lighthouse at sunset", image: "/poi-images/greece-alexandroupoli-cities-v2.webp"},
   {
     id: "greece-xanthi-cities-v2",
     type: "city",
@@ -179,8 +171,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Fost centru al comerțului cu tutun", "Centru Vechi cu arhitectură rară", "Găzduiește un carnaval faimos", "Poartă spre defileul râului Nestos"],
       en: ["Former center of the tobacco trade", "Preserved historic Old Town", "Famous for the annual Xanthi Carnival", "Gateway to the Nestos River valley"],
     },
-    imageHint: "Xanthi Old Town mansions and narrow streets",
-  },
+    imageHint: "Xanthi Old Town mansions and narrow streets", image: "/poi-images/greece-xanthi-cities-v2.webp"},
   {
     id: "greece-kavala-cities-v2",
     type: "port",
@@ -199,8 +190,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Deține apeductul istoric Kamares", "Centru vechi situat în cartierul Panagia", "Port important pentru pescuit", "Aproape de situl UNESCO Philippi"],
       en: ["Features the massive Kamares Aqueduct", "Historic Panagia district with castle", "Significant commercial and fishing port", "Located near the ancient site of Philippi"],
     },
-    imageHint: "Kavala Ottoman aqueduct Kamares",
-  },
+    imageHint: "Kavala Ottoman aqueduct Kamares", image: "/poi-images/greece-kavala-cities-v2.webp"},
   {
     id: "greece-veria-cities-v2",
     type: "city",
@@ -219,8 +209,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Are peste 40 de biserici bizantine", "Loc unde a predicat Sfântul Pavel", "Cartier evreiesc istoric Barbouta", "Lângă situl arheologic Vergina"],
       en: ["Home to over 40 Byzantine churches", "Site of Saint Paul's preachings", "Contains the Barbouta Jewish quarter", "Near the Royal Tombs of Vergina"],
     },
-    imageHint: "Veria Saint Paul's Altar monument",
-  },
+    imageHint: "Veria Saint Paul's Altar monument", image: "/poi-images/greece-veria-cities-v2.webp"},
   {
     id: "greece-rhodes-cities-v2",
     type: "capital",
@@ -239,8 +228,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Oraș vechi inclus în UNESCO", "Găzduiește Palatul Marilor Maeștri", "Locul probabil al Colosului din Rodos", "Ziduri medievale impresionante"],
       en: ["UNESCO World Heritage medieval city", "Site of the Palace of the Grand Master", "Legendary location of the Colossus", "Surrounded by massive medieval walls"],
     },
-    imageHint: "Rhodes Palace of the Grand Master",
-  },
+    imageHint: "Rhodes Palace of the Grand Master", image: "/poi-images/greece-rhodes-cities-v2.webp"},
   {
     id: "greece-agrinio-cities-v2",
     type: "city",
@@ -259,8 +247,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Cel mai mare oraș din unitate", "Fost centru al industriei tutunului", "Lângă cel mai mare lac natural (Trichonida)", "Oraș modern cu rădăcini antice"],
       en: ["Largest city in its prefecture", "Historic hub for tobacco production", "Close to Lake Trichonida", "Modern urban and commercial center"],
     },
-    imageHint: "Agrinio central square and public buildings",
-  },
+    imageHint: "Agrinio central square and public buildings", image: "/poi-images/greece-agrinio-cities-v2.webp"},
   {
     id: "greece-katerini-cities-v2",
     type: "city",
@@ -279,8 +266,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Capitala unității Pieria", "Situat la baza Muntelui Olimp", "Aproape de stațiunea Paralia", "Centru agricol și turistic"],
       en: ["Capital of the Pieria region", "Situated at the base of Mt. Olympus", "Near the beaches of Paralia", "Important agricultural and transit center"],
     },
-    imageHint: "Katerini city park and Olympus in background",
-  },
+    imageHint: "Katerini city park and Olympus in background", image: "/poi-images/greece-katerini-cities-v2.webp"},
   {
     id: "greece-chania-cities-v2",
     type: "city",
@@ -299,8 +285,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Port venețian spectaculos", "Fostă capitală a Cretei", "Far istoric la intrarea în port", "Piață centrală acoperită celebră"],
       en: ["Famous for its Venetian harbor", "Former capital of Crete", "Features an iconic lighthouse", "Home to a historic cross-shaped market"],
     },
-    imageHint: "Chania Venetian harbor and lighthouse",
-  },
+    imageHint: "Chania Venetian harbor and lighthouse", image: "/poi-images/greece-chania-cities-v2.webp"},
   {
     id: "greece-kalamata-cities-v2",
     type: "port",
@@ -319,8 +304,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Faimos pentru măslinele Kalamata", "Deține un castel franc din secolul XIII", "Port principal în sudul Peloponezului", "Gazdă a unui festival de dans"],
       en: ["World-famous for Kalamata olives", "Features a 13th-century Frankish castle", "Main port for the Messenia region", "Host of an international dance festival"],
     },
-    imageHint: "Kalamata castle and city view",
-  },
+    imageHint: "Kalamata castle and city view", image: "/poi-images/greece-kalamata-cities-v2.webp"},
   {
     id: "greece-rethymno-cities-v2",
     type: "city",
@@ -339,8 +323,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Găzduiește cetatea Fortezza", "Port venețian pitoresc", "Centru universitar important", "Arhitectură de influență venețiană"],
       en: ["Home to the Venetian Fortezza", "Features a picturesque Venetian harbor", "A major seat of the University of Crete", "Known for its Renaissance architecture"],
     },
-    imageHint: "Rethymno Fortezza fortress and city wall",
-  },
+    imageHint: "Rethymno Fortezza fortress and city wall", image: "/poi-images/greece-rethymno-cities-v2.webp"},
   {
     id: "greece-kozani-cities-v2",
     type: "city",
@@ -359,8 +342,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Centru mondial pentru șofran", "A doua bibliotecă din Grecia", "Inima energetică a țării", "Cunoscut pentru carnavalul local"],
       en: ["Global center for saffron production", "Home to the second-largest library in Greece", "Strategic center for energy production", "Known for its unique carnival customs"],
     },
-    imageHint: "Kozani clock tower in central square",
-  },
+    imageHint: "Kozani clock tower in central square", image: "/poi-images/greece-kozani-cities-v2.webp"},
   {
     id: "greece-komotini-cities-v2",
     type: "city",
@@ -379,8 +361,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Centru administrativ multicultural", "Are un turn cu ceas otoman", "Găzduiește Universitatea Democritus", "Faimos pentru cafea și dulciuri"],
       en: ["Multicultural administrative hub", "Features a historic Ottoman clock tower", "Main campus of Democritus University", "Famous for its traditional roasted chickpeas"],
     },
-    imageHint: "Komotini Ottoman clock tower",
-  },
+    imageHint: "Komotini Ottoman clock tower", image: "/poi-images/greece-komotini-cities-v2.webp"},
   {
     id: "greece-corfu-town-cities-v2",
     type: "capital",
@@ -399,8 +380,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Oraș vechi inclus în UNESCO", "Are două cetăți venețiene", "Promenada Liston în stil francez", "Influențe britanice și venețiene"],
       en: ["UNESCO World Heritage historic center", "Features two massive Venetian fortresses", "Elegant Liston square and promenade", "Home to the Ionian University"],
     },
-    imageHint: "Corfu Old Town and Old Fortress",
-  },
+    imageHint: "Corfu Old Town and Old Fortress", image: "/poi-images/greece-corfu-town-cities-v2.webp"},
   {
     id: "greece-sparta-cities-v2",
     type: "city",
@@ -419,8 +399,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Capitala regiunii Laconia", "Situat lângă ruinele Spartei antice", "Găzduiește Muzeul Măslinelor", "Poartă spre orașul bizantin Mystras"],
       en: ["Capital of the Laconia region", "Located near the ruins of ancient Sparta", "Home to the Museum of the Olive", "Gateway to the Byzantine city of Mystras"],
     },
-    imageHint: "Sparta statue of King Leonidas",
-  },
+    imageHint: "Sparta statue of King Leonidas", image: "/poi-images/greece-sparta-cities-v2.webp"},
   {
     id: "greece-edessa-cities-v2",
     type: "city",
@@ -439,8 +418,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Supranumit Orașul Apelor", "Cascada Karanos are 70m înălțime", "Cartier istoric Varosi", "Situat pe o stâncă panoramică"],
       en: ["Known as the City of Water", "The Karanos waterfall drops 70 meters", "Historic Varosi district with old houses", "Built on the edge of a plateau"],
     },
-    imageHint: "Edessa waterfall Karanos",
-  },
+    imageHint: "Edessa waterfall Karanos", image: "/poi-images/greece-edessa-cities-v2.webp"},
   {
     id: "greece-florina-cities-v2",
     type: "city",
@@ -459,8 +437,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Traversat de râul Sakoulevas", "Renumit pentru ardeii de Florina", "Unul dintre cele mai reci orașe elene", "Aproape de lacurile Prespa"],
       en: ["Situated along the Sakoulevas River", "Famous for its Florina red peppers", "One of the coldest cities in Greece", "Gateway to the Prespa Lakes"],
     },
-    imageHint: "Florina neoclassical houses along the river",
-  },
+    imageHint: "Florina neoclassical houses along the river", image: "/poi-images/greece-florina-cities-v2.webp"},
   {
     id: "greece-kastoria-cities-v2",
     type: "city",
@@ -479,8 +456,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Situat pe malul lacului Orestiada", "Centru istoric al blănăriei", "Peste 70 de biserici medievale", "Deține Peștera Dragonului"],
       en: ["Built on a peninsula in Lake Orestiada", "Traditional hub for the fur industry", "Home to more than 70 Byzantine churches", "Features the scenic Dragon's Cave"],
     },
-    imageHint: "Kastoria lakefront and Byzantine church",
-  },
+    imageHint: "Kastoria lakefront and Byzantine church", image: "/poi-images/greece-kastoria-cities-v2.webp"},
   {
     id: "greece-grevena-cities-v2",
     type: "city",
@@ -499,8 +475,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Capitala ciupercilor din Grecia", "Lângă Parcul Național Pind", "Centru pentru ecoturism", "Regiune cu poduri vechi din piatră"],
       en: ["Mushroom capital of Greece", "Gateway to the Pindos National Park", "Center for ecotourism and hiking", "Region famous for historic stone bridges"],
     },
-    imageHint: "Grevena mushroom monument in park",
-  },
+    imageHint: "Grevena mushroom monument in park", image: "/poi-images/greece-grevena-cities-v2.webp"},
   {
     id: "greece-nafplio-cities-v2",
     type: "capital",
@@ -519,8 +494,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Prima capitală a Greciei (1829)", "Cetatea Palamidi are 999 trepte", "Castelul Bourtzi situat pe insulă", "Arhitectură neoclasică rafinată"],
       en: ["First capital of modern Greece (1829)", "Palamidi fortress with 999 steps", "Bourtzi island castle in the bay", "Elegant neoclassical historic center"],
     },
-    imageHint: "Nafplio Palamidi fortress and Bourtzi castle",
-  },
+    imageHint: "Nafplio Palamidi fortress and Bourtzi castle", image: "/poi-images/greece-nafplio-cities-v2.webp"},
   {
     id: "greece-argos-cities-v2",
     type: "city",
@@ -539,8 +513,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Cel mai vechi oraș locuit din Europa", "Teatru antic cu 20.000 locuri", "Cetatea Larissa pe vârful dealului", "Centru agricol și arheologic major"],
       en: ["One of the oldest cities in Europe", "Ancient theater held 20,000 people", "Larissa Fortress overlooks the city", "Major historical center of Argolis"],
     },
-    imageHint: "Argos Ancient Theater carved in rock",
-  },
+    imageHint: "Argos Ancient Theater carved in rock", image: "/poi-images/greece-argos-cities-v2.webp"},
   {
     id: "greece-mesolonghi-cities-v2",
     type: "city",
@@ -559,8 +532,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Oraș Sfânt al Greciei", "Lagună unică cu case pe piloni", "Locul unde a murit Lord Byron", "Faimos pentru icrele de chefal"],
       en: ["Sacred City of Greece", "Located in a unique lagoon ecosystem", "Lord Byron died here in 1824", "World-famous for its grey mullet roe"],
     },
-    imageHint: "Mesolonghi lagoon houses on stilts",
-  },
+    imageHint: "Mesolonghi lagoon houses on stilts", image: "/poi-images/greece-mesolonghi-cities-v2.webp"},
   {
     id: "greece-amfissa-cities-v2",
     type: "city",
@@ -579,8 +551,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Poartă spre Muntele Parnas", "Centru major al livezilor de măslini", "Găzduiește Castelul Salona", "Situat foarte aproape de Delfi"],
       en: ["Gateway to Mount Parnassus", "Center of a massive olive grove", "Home to the medieval Castle of Salona", "Located near the ancient site of Delphi"],
     },
-    imageHint: "Amfissa castle of Salona and olive trees",
-  },
+    imageHint: "Amfissa castle of Salona and olive trees", image: "/poi-images/greece-amfissa-cities-v2.webp"},
   {
     id: "greece-karpenisi-cities-v2",
     type: "city",
@@ -599,8 +570,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Centru major pentru sporturi de iarnă", "Situat la baza muntelui Velouchi", "Aer extrem de curat (UNESCO)", "Înconjurat de păduri dense de brad"],
       en: ["Major Greek winter sports destination", "Located at the foot of Mt. Velouchi", "Known for its exceptionally clean air", "Surrounded by dense fir forests"],
     },
-    imageHint: "Karpenisi mountain town and snowy peaks",
-  },
+    imageHint: "Karpenisi mountain town and snowy peaks", image: "/poi-images/greece-karpenisi-cities-v2.webp"},
   {
     id: "greece-agios-nikolaos-cities-v2",
     type: "city",
@@ -619,8 +589,7 @@ export const greeceCitiesV2: POI[] = [
       ro: ["Lacul Voulismeni în centrul orașului", "Centru turistic de lux în Creta", "Situat în Golful Mirabello", "Poartă spre insula Spinalonga"],
       en: ["Features Lake Voulismeni in its center", "Major luxury tourism destination", "Located on the scenic Mirabello Bay", "Gateway to the island of Spinalonga"],
     },
-    imageHint: "Agios Nikolaos Lake Voulismeni and cafes",
-  },
+    imageHint: "Agios Nikolaos Lake Voulismeni and cafes", image: "/poi-images/greece-agios-nikolaos-cities-v2.webp"},
   {
     id: "greece-ierapetra-cities-v2",
     type: "city",

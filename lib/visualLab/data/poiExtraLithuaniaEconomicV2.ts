@@ -19,8 +19,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Cel mai nordic port fără gheață de la Marea Baltică", "Trafic anual de peste 40 de milioane de tone", "Cel mai important angajator din regiune", "Centru pentru construcții și reparații navale"],
       en: ["Northernmost ice-free port on the Baltic Sea", "Annual turnover of over 40 million tons", "Most important employer in the region", "Center for shipbuilding and repair"],
     },
-    imageHint: "Klaipeda port cranes and container terminal",
-  },
+    imageHint: "Klaipeda port cranes and container terminal", image: "/poi-images/lithuania-klaipeda-port-economic-v2.webp"},
   {
     id: "lithuania-orlen-lietuva-economic-v2",
     type: "factory",
@@ -39,8 +38,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Cel mai mare contribuabil din Lituania", "Procesează milioane de tone de țiței pe an", "Fondată în anul 1980", "Exportă produse în întreaga regiune a Mării Baltice"],
       en: ["Largest taxpayer in Lithuania", "Processes millions of tons of crude oil per year", "Founded in 1980", "Exports products across the Baltic region"],
     },
-    imageHint: "Mazeikiai oil refinery industrial landscape",
-  },
+    imageHint: "Mazeikiai oil refinery industrial landscape", image: "/poi-images/lithuania-orlen-lietuva-economic-v2.webp"},
   {
     id: "lithuania-achema-jonava-economic-v2",
     type: "factory",
@@ -59,8 +57,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1965", "Produce amoniac și îngrășăminte", "Cea mai mare companie din orașul Jonava", "Deține propria centrală electrică"],
       en: ["Founded in 1965", "Produces ammonia and fertilizers", "Largest company in the city of Jonava", "Operates its own power plant"],
     },
-    imageHint: "Achema factory industrial chimneys",
-  },
+    imageHint: "Achema factory industrial chimneys", image: "/poi-images/lithuania-achema-jonava-economic-v2.webp"},
   {
     id: "lithuania-lifosa-kedainiai-economic-v2",
     type: "factory",
@@ -99,8 +96,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Putere instalată de 900 MW", "Rezervorul superior se află la 100 de metri deasupra mării Kaunas", "Construcția a început în anul 1978", "Permite integrarea energiilor regenerabile"],
       en: ["Installed capacity of 900 MW", "Upper reservoir is 100 meters above the Kaunas Lagoon", "Construction began in 1978", "Enables the integration of renewable energy sources"],
     },
-    imageHint: "Kruonis pumped storage power plant aerial view",
-  },
+    imageHint: "Kruonis pumped storage power plant aerial view", image: "/poi-images/lithuania-kruonis-pumped-storage-economic-v2.webp"},
   {
     id: "lithuania-ignalina-nuclear-plant-economic-v2",
     type: "industry",
@@ -119,8 +115,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["A utilizat reactoare de tip RBMK (similare cu Cernobîl)", "Ultimul reactor a fost oprit în 2009", "Situată lângă orașul Visaginas", "Dezafectarea este planificată să se încheie până în 2038"],
       en: ["Used RBMK-type reactors (similar to Chernobyl)", "The last reactor was shut down in 2009", "Located near the city of Visaginas", "Decommissioning is expected to be completed by 2038"],
     },
-    imageHint: "Ignalina nuclear power plant building",
-  },
+    imageHint: "Ignalina nuclear power plant building", image: "/poi-images/lithuania-ignalina-nuclear-plant-economic-v2.webp"},
   {
     id: "lithuania-kaunas-fez-economic-v2",
     type: "industry",
@@ -139,8 +134,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Găzduiește companii precum Continental și Hella", "Se întinde pe o suprafață de 534 de hectare", "Fondată în anul 1996", "Locație strategică lângă aeroportul din Kaunas"],
       en: ["Home to companies like Continental and Hella", "Covers an area of 534 hectares", "Established in 1996", "Strategically located next to Kaunas Airport"],
     },
-    imageHint: "Modern industrial buildings in Kaunas FEZ",
-  },
+    imageHint: "Modern industrial buildings in Kaunas FEZ", image: "/poi-images/lithuania-kaunas-fez-economic-v2.webp"},
   {
     id: "lithuania-vilnius-cbd-economic-v2",
     type: "landmark",
@@ -179,8 +173,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Deschis în anul 2002", "Include un patinoar și cinematografe", "Cel mai mare centru comercial din Baltice la momentul construcției", "Atrage anual milioane de vizitatori"],
       en: ["Opened in 2002", "Includes an ice rink and cinemas", "Largest mall in the Baltics at the time of construction", "Attracts millions of visitors annually"],
     },
-    imageHint: "Akropolis shopping center exterior Vilnius",
-  },
+    imageHint: "Akropolis shopping center exterior Vilnius", image: "/poi-images/lithuania-akropolis-vilnius-economic-v2.webp"},
   {
     id: "lithuania-siauliai-industrial-park-economic-v2",
     type: "industry",
@@ -219,8 +212,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 2013", "Sediul mai multor investitori norvegieni și danezi", "Concentrat pe producția industrială durabilă", "Locație importantă pentru industria textilă"],
       en: ["Established in 2013", "Home to several Norwegian and Danish investors", "Focuses on sustainable industrial production", "Important location for the textile industry"],
     },
-    imageHint: "Panevezys FEZ industrial park area",
-  },
+    imageHint: "Panevezys FEZ industrial park area", image: "/poi-images/lithuania-panevezys-fez-economic-v2.webp"},
   {
     id: "lithuania-marijampole-fez-economic-v2",
     type: "industry",
@@ -239,8 +231,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Concentrat pe industria mobilei și a placajului", "Centru pentru comerțul cu mașini second-hand în Baltice", "Oferă conexiuni feroviare excelente", "Angajator important pentru regiunea Suvalkija"],
       en: ["Focuses on the furniture and plywood industry", "A hub for second-hand car trade in the Baltics", "Provides excellent rail connections", "Major employer for the Suvalkija region"],
     },
-    imageHint: "Marijampole FEZ industrial warehouses",
-  },
+    imageHint: "Marijampole FEZ industrial warehouses", image: "/poi-images/lithuania-marijampole-fez-economic-v2.webp"},
   {
     id: "lithuania-giraite-factory-economic-v2",
     type: "factory",
@@ -259,8 +250,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Companie de stat lituaniană", "Exportă în peste 30 de țări", "Specializată în muniție de mic calibru", "Fondată în anul 2000"],
       en: ["State-owned Lithuanian company", "Exports to over 30 countries", "Specializes in small-caliber ammunition", "Established in 2000"],
     },
-    imageHint: "Giraite armament factory building",
-  },
+    imageHint: "Giraite armament factory building", image: "/poi-images/lithuania-giraite-factory-economic-v2.webp"},
   {
     id: "lithuania-vaidotai-railway-hub-economic-v2",
     type: "industry",
@@ -279,8 +269,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Cea mai importantă gară de marfă de lângă Vilnius", "Dispune de capacități logistice moderne", "Parte a rețelei transeuropene de transport", "Punct important de transbordare pentru mărfurile de tranzit"],
       en: ["Key freight station near Vilnius", "Equipped with modern logistics capacities", "Part of the Trans-European Transport Network", "A major transshipment point for transit goods"],
     },
-    imageHint: "Vaidotai railway marshalling yard with cargo trains",
-  },
+    imageHint: "Vaidotai railway marshalling yard with cargo trains", image: "/poi-images/lithuania-vaidotai-railway-hub-economic-v2.webp"},
   {
     id: "lithuania-pieno-zvaigzdes-telsiai-economic-v2",
     type: "factory",
@@ -299,8 +288,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Produce celebra brânză 'Džiugas'", "Unul dintre cei mai mari exportatori de produse lactate", "Angajator major în regiunea Žemaitija", "Procesează lapte de la mii de fermieri lituanieni"],
       en: ["Produces the famous 'Džiugas' cheese", "One of the largest exporters of dairy products", "Major employer in the Žemaitija region", "Processes milk from thousands of Lithuanian farmers"],
     },
-    imageHint: "Modern dairy factory exterior in Telsiai",
-  },
+    imageHint: "Modern dairy factory exterior in Telsiai", image: "/poi-images/lithuania-pieno-zvaigzdes-telsiai-economic-v2.webp"},
   {
     id: "lithuania-rokiskis-suris-economic-v2",
     type: "factory",
@@ -319,8 +307,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1964", "Cel mai important factor economic al orașului Rokiškis", "Companie listată la bursa din Vilnius", "Exportă peste 60% din producția sa"],
       en: ["Established in 1964", "The most important economic factor for the town of Rokiškis", "Publicly traded company on the Vilnius stock exchange", "Exports over 60% of its production"],
     },
-    imageHint: "Rokiskis Suris factory dairy processing plant",
-  },
+    imageHint: "Rokiskis Suris factory dairy processing plant", image: "/poi-images/lithuania-rokiskis-suris-economic-v2.webp"},
   {
     id: "lithuania-utena-beer-economic-v2",
     type: "factory",
@@ -339,8 +326,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Producția a început în 1977", "Cunoscută pentru berea 'Utenos'", "Mare angajator în orașul Utena", "Folosește apă din propriile puțuri de mare adâncime"],
       en: ["Production started in 1977", "Famous for 'Utenos' beer", "Large employer in the city of Utena", "Uses water from its own deep wells"],
     },
-    imageHint: "Utenos beer brewery industrial plant",
-  },
+    imageHint: "Utenos beer brewery industrial plant", image: "/poi-images/lithuania-utena-beer-economic-v2.webp"},
   {
     id: "lithuania-visaginas-solar-park-economic-v2",
     type: "industry",
@@ -359,8 +345,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Contribuie la reducerea emisiilor de CO2", "Parte a unui grup mai mare de energie regenerabilă", "Pas important pentru economia locală din Visaginas", "Folosește tehnologie fotovoltaică modernă"],
       en: ["Contributes to the reduction of CO2 emissions", "Part of a larger renewable energy cluster", "A significant step for Visaginas' local economy", "Uses modern photovoltaic technology"],
     },
-    imageHint: "Solar panel field near Visaginas",
-  },
+    imageHint: "Solar panel field near Visaginas", image: "/poi-images/lithuania-visaginas-solar-park-economic-v2.webp"},
   {
     id: "lithuania-butinge-terminal-economic-v2",
     type: "port",
@@ -379,8 +364,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Dispune de o baliză plutitoare pentru descărcare", "Funcționează din anul 1999", "Permite achiziția de petrol independent de Rusia", "Poate deservi petroliere de mare capacitate"],
       en: ["Features a single-point mooring buoy for unloading", "In operation since 1999", "Enables oil imports independent of Russian pipelines", "Can handle high-capacity oil tankers"],
     },
-    imageHint: "Butinge oil terminal buoy in the Baltic Sea",
-  },
+    imageHint: "Butinge oil terminal buoy in the Baltic Sea", image: "/poi-images/lithuania-butinge-terminal-economic-v2.webp"},
   {
     id: "lithuania-klaipeda-lng-economic-v2",
     type: "port",
@@ -419,8 +403,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1963", "Exportă în peste 30 de țări din întreaga lume", "Cunoscută pentru eficiență energetică și design", "Piesa centrală a zonei industriale din Alytus"],
       en: ["Founded in 1963", "Exports to over 30 countries worldwide", "Known for energy efficiency and design", "The heart of Alytus's industrial district"],
     },
-    imageHint: "Snaige factory exterior Alytus",
-  },
+    imageHint: "Snaige factory exterior Alytus", image: "/poi-images/lithuania-alytus-refrigerator-plant-economic-v2.webp"},
   {
     id: "lithuania-kaunas-intermodal-terminal-economic-v2",
     type: "industry",
@@ -439,8 +422,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Conectează Lituania cu Europa de Vest prin cale ferată", "Punct important de transbordare pentru containere", "Parte a infrastructurii logistice moderne", "Situat direct lângă autostradă și calea ferată"],
       en: ["Connects Lithuania with Western Europe by rail", "Key transshipment point for containers", "Part of modern logistics infrastructure", "Located directly adjacent to highway and rail lines"],
     },
-    imageHint: "Container terminal and trains in Kaunas Palemonas",
-  },
+    imageHint: "Container terminal and trains in Kaunas Palemonas", image: "/poi-images/lithuania-kaunas-intermodal-terminal-economic-v2.webp"},
   {
     id: "lithuania-vilkyškiai-dairy-economic-v2",
     type: "factory",
@@ -459,8 +441,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Principala marcă este 'Vilkyškių'", "Exportă o mare parte din producția sa", "Cel mai important angajator din comuna Pagėgiai", "Fondată în anul 1993"],
       en: ["Primary brand is 'Vilkyškių'", "Exports a significant portion of its production", "Most important employer in the Pagėgiai municipality", "Founded in 1993"],
     },
-    imageHint: "Vilkyskiai dairy factory sign and buildings",
-  },
+    imageHint: "Vilkyskiai dairy factory sign and buildings", image: "/poi-images/lithuania-vilkyškiai-dairy-economic-v2.webp"},
   {
     id: "lithuania-grigeo-mill-economic-v2",
     type: "factory",
@@ -479,8 +460,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1823", "Produce hârtie igienică și ambalaje", "Dă numele orașului Grigiškės", "Actor important în economia circulară"],
       en: ["Founded in 1823", "Produces hygiene paper and packaging", "The namesake of the town of Grigiškės", "A major player in the circular economy"],
     },
-    imageHint: "Grigeo paper mill factory buildings",
-  },
+    imageHint: "Grigeo paper mill factory buildings", image: "/poi-images/lithuania-grigeo-mill-economic-v2.webp"},
   {
     id: "lithuania-continental-kaunas-economic-v2",
     type: "factory",
@@ -499,8 +479,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Specializată în sisteme de asistență pentru condus", "Una dintre cele mai moderne fabrici ale grupului Continental", "A creat sute de locuri de muncă înalt calificate", "Deschisă în anul 2019"],
       en: ["Specializes in advanced driver assistance systems", "One of the most modern plants in the Continental Group", "Created hundreds of high-skilled jobs", "Opened in 2019"],
     },
-    imageHint: "Modern Continental factory building in Kaunas",
-  },
+    imageHint: "Modern Continental factory building in Kaunas", image: "/poi-images/lithuania-continental-kaunas-economic-v2.webp"},
   {
     id: "lithuania-thermo-fisher-vilnius-economic-v2",
     type: "factory",
@@ -519,8 +498,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Cel mai important centru de științe ale vieții din Baltice", "Joacă un rol central în producția de componente pentru vaccinuri", "Angajează peste 1000 de cercetători înalt calificați", "Evoluat din Institutul lituanian de Enzimologie"],
       en: ["The most important life sciences center in the Baltics", "Plays a central role in producing components for vaccines", "Employs over 1,000 highly skilled scientists", "Originates from the Lithuanian Institute of Enzymology"],
     },
-    imageHint: "Modern laboratory and industrial building Thermo Fisher Vilnius",
-  },
+    imageHint: "Modern laboratory and industrial building Thermo Fisher Vilnius", image: "/poi-images/lithuania-thermo-fisher-vilnius-economic-v2.webp"},
   {
     id: "lithuania-nordbalt-cable-economic-v2",
     type: "landmark",
@@ -539,8 +517,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Lungime de aproximativ 450 de kilometri", "Capacitate de 700 de megawați", "Pusă în funcțiune în anul 2016", "A redus semnificativ prețurile la electricitate în Lituania"],
       en: ["Approximately 450 kilometers long", "Capacity of 700 megawatts", "Commissioned in 2016", "Significantly lowered electricity prices in Lithuania"],
     },
-    imageHint: "Electrical substation near Klaipeda coast",
-  },
+    imageHint: "Electrical substation near Klaipeda coast", image: "/poi-images/lithuania-nordbalt-cable-economic-v2.webp"},
   {
     id: "lithuania-siauliai-airport-economic-v2",
     type: "industry",
@@ -559,8 +536,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Baza principală a misiunii NATO de poliție aeriană", "Centru important pentru întreținerea aeronavelor", "Poate deservi cele mai mari avioane de marfă", "Factor economic important pentru nordul Lituaniei"],
       en: ["Main base for the NATO Baltic Air Policing mission", "Major center for aircraft maintenance", "Can handle the largest cargo aircraft", "Significant economic driver for northern Lithuania"],
     },
-    imageHint: "Siauliai airport runway and hangars",
-  },
+    imageHint: "Siauliai airport runway and hangars", image: "/poi-images/lithuania-siauliai-airport-economic-v2.webp"},
   {
     id: "lithuania-taurage-industrial-park-economic-v2",
     type: "industry",

@@ -19,8 +19,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Altitudine: 2654 metri", "Prima ascensiune în 1834", "Situat în Parcul Național Tatra", "Cel mai înalt punct din Slovacia"],
       en: ["Elevation: 2654 meters", "First ascent recorded in 1834", "Part of the Tatra National Park", "Highest point in the Carpathians"],
     },
-    imageHint: "Gerlachovsky stit peak in High Tatras",
-  },
+    imageHint: "Gerlachovsky stit peak in High Tatras", image: "/poi-images/slovakia-gerlachovsky-stit-relief-v2.webp"},
   {
     id: "slovakia-lomnicky-stit-relief-v2",
     type: "peak",
@@ -39,8 +38,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Altitudine: 2634 metri", "Observator astronomic la vârf", "Telecabină de la Skalnaté pleso", "Deschis publicului din 1940"],
       en: ["Elevation: 2634 meters", "Astronomical observatory at top", "Cable car from Skalnaté pleso", "Operational since 1940"],
     },
-    imageHint: "Lomnicky stit peak with observatory",
-  },
+    imageHint: "Lomnicky stit peak with observatory", image: "/poi-images/slovakia-lomnicky-stit-relief-v2.webp"},
   {
     id: "slovakia-krivan-relief-v2",
     type: "peak",
@@ -59,8 +57,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Altitudine: 2494 metri", "Apare pe monedele euro slovace", "Loc de pelerinaj național", "Situat în vestul munților Tatra"],
       en: ["Elevation: 2494 meters", "Depicted on Slovak euro coins", "Site of national pilgrimages", "Located in western High Tatras"],
     },
-    imageHint: "Krivan mountain peak Slovakia",
-  },
+    imageHint: "Krivan mountain peak Slovakia", image: "/poi-images/slovakia-krivan-relief-v2.webp"},
   {
     id: "slovakia-dumbier-relief-v2",
     type: "peak",
@@ -79,8 +76,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Altitudine: 2043 metri", "Vârful principal din Tatra Joasă", "Urme de mine vechi în apropiere", "Monument dedicat partizanilor"],
       en: ["Elevation: 2043 meters", "Main peak of the Low Tatras", "Remains of old mines nearby", "Partisan memorial on the summit"],
     },
-    imageHint: "Dumbier peak Low Tatras",
-  },
+    imageHint: "Dumbier peak Low Tatras", image: "/poi-images/slovakia-dumbier-relief-v2.webp"},
   {
     id: "slovakia-chopok-relief-v2",
     type: "peak",
@@ -99,8 +95,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Altitudine: 2024 metri", "Cunoscut pentru vânturi puternice", "Stație de telecabină la vârf", "Centrul domeniului schiabil Jasná"],
       en: ["Elevation: 2024 meters", "Known for strong winds", "Cable car station at the summit", "Center of Jasná ski resort"],
     },
-    imageHint: "Chopok peak with stone shelter",
-  },
+    imageHint: "Chopok peak with stone shelter", image: "/poi-images/slovakia-chopok-relief-v2.webp"},
   {
     id: "slovakia-velky-rozsutec-relief-v2",
     type: "peak",
@@ -119,8 +114,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Altitudine: 1610 metri", "Format din rocă dolomitică", "Simbolul parcului național", "Acces restricționat în perioada de cuibărit"],
       en: ["Elevation: 1610 meters", "Composed of dolomite rock", "Symbol of the national park", "Hiking trails closed during nesting season"],
     },
-    imageHint: "Velky Rozsutec rocky peak",
-  },
+    imageHint: "Velky Rozsutec rocky peak", image: "/poi-images/slovakia-velky-rozsutec-relief-v2.webp"},
   {
     id: "slovakia-ostredok-relief-v2",
     type: "peak",
@@ -139,8 +133,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Altitudine: 1596 metri", "Prezintă două vârfuri distincte", "Vedere spre munții Malá Fatra", "Nod important pentru trasee montane"],
       en: ["Elevation: 1596 meters", "Consists of two separate summits", "Views of the Malá Fatra range", "Key junction for hiking trails"],
     },
-    imageHint: "Ostredok peak Velka Fatra",
-  },
+    imageHint: "Ostredok peak Velka Fatra", image: "/poi-images/slovakia-ostredok-relief-v2.webp"},
   {
     id: "slovakia-stiavnicke-vrchy-relief-v2",
     type: "mountain",
@@ -159,8 +152,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Sitno", "Fost stratovulcan masiv", "Banská Štiavnica oraș UNESCO", "Lacuri artificiale numite Tajchy"],
       en: ["Highest peak: Sitno", "Remains of a giant stratovolcano", "Banská Štiavnica UNESCO site", "Artificial lakes known as Tajchy"],
     },
-    imageHint: "Stiavnica mountains landscape",
-  },
+    imageHint: "Stiavnica mountains landscape", image: "/poi-images/slovakia-stiavnicke-vrchy-relief-v2.webp"},
   {
     id: "slovakia-sitno-relief-v2",
     type: "peak",
@@ -179,8 +171,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Altitudine: 1009 metri", "Leagănul turismului slovac", "Formațiuni stâncoase de andezit", "Ruinele unei cetăți vechi"],
       en: ["Elevation: 1009 meters", "Cradle of Slovak tourism", "Steep andesite rock walls", "Ruins of an ancient castle"],
     },
-    imageHint: "Sitno peak with watchtower",
-  },
+    imageHint: "Sitno peak with watchtower", image: "/poi-images/slovakia-sitno-relief-v2.webp"},
   {
     id: "slovakia-poloniny-relief-v2",
     type: "mountain",
@@ -199,8 +190,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Cel mai întunecat cer din Slovacia", "Graniță cu Polonia și Ucraina", "Păduri virgine de fag UNESCO", "Prezența zimbrului european"],
       en: ["Darkest sky area in Slovakia", "Border with Poland and Ukraine", "UNESCO primeval beech forests", "Presence of European bison"],
     },
-    imageHint: "Poloniny mountain meadows",
-  },
+    imageHint: "Poloniny mountain meadows", image: "/poi-images/slovakia-poloniny-relief-v2.webp"},
   {
     id: "slovakia-podunajska-nizina-relief-v2",
     type: "valley",
@@ -219,8 +209,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Cea mai joasă regiune din țară", "Zonă agricolă majoră", "Prezența izvoarelor termale", "Include insula Žitný ostrov"],
       en: ["Lowest region in the country", "Major agricultural area", "Rich in thermal water springs", "Home to the Žitný ostrov island"],
     },
-    imageHint: "Danubian Lowland fields Slovakia",
-  },
+    imageHint: "Danubian Lowland fields Slovakia", image: "/poi-images/slovakia-podunajska-nizina-relief-v2.webp"},
   {
     id: "slovakia-vychodoslovenska-nizina-relief-v2",
     type: "valley",
@@ -239,8 +228,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Cel mai jos punct din Slovacia", "Păduri de stejar de mlaștină", "Include regiunea viticolă Tokaj", "Bogată în roci sedimentare"],
       en: ["Lowest point in Slovakia (94m)", "Bog oak forest habitats", "Part of the Tokaj wine region", "Dominated by sedimentary rocks"],
     },
-    imageHint: "Eastern Slovak Lowland landscape",
-  },
+    imageHint: "Eastern Slovak Lowland landscape", image: "/poi-images/slovakia-vychodoslovenska-nizina-relief-v2.webp"},
   {
     id: "slovakia-zahorska-nizina-relief-v2",
     type: "valley",
@@ -259,8 +247,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Zăcăminte mari de nisip", "Păduri vaste de pini", "Regiune de graniță cu Austria", "Relief plat spre deluros"],
       en: ["Significant sand deposits", "Extensive pine forests", "Border region with Austria", "Flat to slightly hilly relief"],
     },
-    imageHint: "Zahorska Lowland pine forest",
-  },
+    imageHint: "Zahorska Lowland pine forest", image: "/poi-images/slovakia-zahorska-nizina-relief-v2.webp"},
   {
     id: "slovakia-biele-karpaty-relief-v2",
     type: "mountain",
@@ -279,8 +266,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Veľká Javorina", "Arie protejată de peisaj", "Așezări tradiționale risipite", "Bogată în plante rare"],
       en: ["Highest peak: Veľká Javorina", "Protected Landscape Area", "Traditional scattered settlements", "Rich in rare plant species"],
     },
-    imageHint: "White Carpathians rolling hills",
-  },
+    imageHint: "White Carpathians rolling hills", image: "/poi-images/slovakia-biele-karpaty-relief-v2.webp"},
   {
     id: "slovakia-male-karpaty-relief-v2",
     type: "mountain",
@@ -299,8 +285,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Záruby", "Începutul arcului carpatic", "Renumită rută a vinului", "Peșteri carstice (ex. Driny)"],
       en: ["Highest peak: Záruby", "Start of the Carpathian arc", "Famous wine route", "Karst caves like Driny"],
     },
-    imageHint: "Little Carpathians vineyards and hills",
-  },
+    imageHint: "Little Carpathians vineyards and hills", image: "/poi-images/slovakia-male-karpaty-relief-v2.webp"},
   {
     id: "slovakia-kralova-hola-relief-v2",
     type: "peak",
@@ -319,8 +304,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Altitudine: 1946 metri", "Emițător radio-TV pe vârf", "Izvorul râurilor Váh și Hron", "Subiectul multor cântece populare"],
       en: ["Elevation: 1946 meters", "TV transmitter at the summit", "Source of Váh and Hron rivers", "Celebrated in national folk songs"],
     },
-    imageHint: "Kralova hola peak with transmitter",
-  },
+    imageHint: "Kralova hola peak with transmitter", image: "/poi-images/slovakia-kralova-hola-relief-v2.webp"},
   {
     id: "slovakia-chocske-vrchy-relief-v2",
     type: "mountain",
@@ -339,8 +323,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Veľký Choč", "Fără creastă principală continuă", "Floră calcaroasă bogată", "Zonă populară de drumeții"],
       en: ["Highest peak: Veľký Choč", "Lacks a continuous main ridge", "Rich limestone flora", "Popular hiking destination"],
     },
-    imageHint: "Chocske vrchy mountains forest",
-  },
+    imageHint: "Chocske vrchy mountains forest", image: "/poi-images/slovakia-chocske-vrchy-relief-v2.webp"},
   {
     id: "slovakia-velky-choc-relief-v2",
     type: "peak",
@@ -359,8 +342,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Altitudine: 1611 metri", "Formă de piramidă", "Sursă de inspirație pentru poeți", "Vârf înalt și izolat"],
       en: ["Elevation: 1611 meters", "Pyramidal appearance", "Inspiration for many poets", "Isolated, prominent peak"],
     },
-    imageHint: "Velky Choc peak view",
-  },
+    imageHint: "Velky Choc peak view", image: "/poi-images/slovakia-velky-choc-relief-v2.webp"},
   {
     id: "slovakia-strazovske-vrchy-relief-v2",
     type: "mountain",
@@ -379,8 +361,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Strážov", "Numeroase formațiuni stâncoase", "Castelul Bojnice la poale", "Zonă cu stațiuni termale"],
       en: ["Highest peak: Strážov", "Numerous rock formations", "Bojnice Castle at the base", "Region of thermal spas"],
     },
-    imageHint: "Strazovske vrchy hills",
-  },
+    imageHint: "Strazovske vrchy hills", image: "/poi-images/slovakia-strazovske-vrchy-relief-v2.webp"},
   {
     id: "slovakia-vtacnik-relief-v2",
     type: "mountain",
@@ -399,8 +380,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Vtáčnik", "Vulcanism andezitic", "Rezervații naturale incluse", "Parte a Munților Centrali Slovaci"],
       en: ["Highest peak: Vtáčnik", "Andesitic volcanic history", "Protected nature areas", "Part of the Slovak Middle Mountains"],
     },
-    imageHint: "Vtacnik mountains forest path",
-  },
+    imageHint: "Vtacnik mountains forest path", image: "/poi-images/slovakia-vtacnik-relief-v2.webp"},
   {
     id: "slovakia-povazsky-inovec-relief-v2",
     type: "mountain",
@@ -419,8 +399,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Inovec", "Renumita stațiune Piešťany", "Saituri arheologice", "Zonă de drumeție versatilă"],
       en: ["Highest peak: Inovec", "Home to Piešťany spa town", "Significant archaeological sites", "Versatile hiking area"],
     },
-    imageHint: "Povazsky Inovec hills landscape",
-  }
+    imageHint: "Povazsky Inovec hills landscape", image: "/poi-images/slovakia-povazsky-inovec-relief-v2.webp"}
 ,
   {
     id: "slovakia-slovenske-rudohorie-relief-v2",
@@ -477,8 +456,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Origine de natură vulcanică", "Cel mai înalt vârf este Šimonka", "Locul minelor de opal de la Dubník", "Coridor ecologic important în est"],
       en: ["Of volcanic origin", "Highest peak is Šimonka at 1092m", "Home to the famous Dubník opal mines", "Important ecological corridor in the east"],
     },
-    imageHint: "Slanske Mountains volcanic hills and forests",
-  },
+    imageHint: "Slanske Mountains volcanic hills and forests", image: "/poi-images/slovakia-slanske-vrchy-relief-v2.webp"},
   {
     id: "slovakia-tribec-relief-v2",
     type: "mountain",
@@ -496,8 +474,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Veľký Tribeč", "Nucleu format din granit", "Păduri dese de fag și stejar", "Găzduiește numeroase ruine medievale"],
       en: ["Highest peak is Veľký Tribeč at 829m", "Core consists of granite rock", "Dense beech and oak forests", "Site of numerous medieval ruins"],
     },
-    imageHint: "Tribec mountain range forest and castle ruins",
-  },
+    imageHint: "Tribec mountain range forest and castle ruins", image: "/poi-images/slovakia-tribec-relief-v2.webp"},
   {
     id: "slovakia-cerova-vrchovina-relief-v2",
     type: "mountain",
@@ -515,8 +492,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Format prin vulcanism recent", "Cascadă de bazalt la Șomoșca", "Posedă conuri și gâturi vulcanice", "Zonă de peisaj protejat"],
       en: ["Formed by relatively recent volcanism", "Basalt 'waterfall' at Šomoška", "Features volcanic necks and cones", "Designated protected landscape area"],
     },
-    imageHint: "Cerova Highlands basalt columns Somoska",
-  },
+    imageHint: "Cerova Highlands basalt columns Somoska", image: "/poi-images/slovakia-cerova-vrchovina-relief-v2.webp"},
   {
     id: "slovakia-levocske-vrchy-relief-v2",
     type: "mountain",
@@ -534,8 +510,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Format din gresie și șisturi", "Cel mai înalt vârf este Čierna hora", "Fost district militar Javorina", "Rețea densă de pârâuri montane"],
       en: ["Composed of sandstone and shale", "Highest peak is Čierna hora at 1289m", "Former military district of Javorina", "Dense network of mountain streams"],
     },
-    imageHint: "Levoca Mountains forested ridges aerial",
-  },
+    imageHint: "Levoca Mountains forested ridges aerial", image: "/poi-images/slovakia-levocske-vrchy-relief-v2.webp"},
   {
     id: "slovakia-krupinska-planina-relief-v2",
     type: "mountain",
@@ -553,8 +528,7 @@ export const slovakiaReliefV2: POI[] = [
       ro: ["Platou vulcanic de mari dimensiuni", "Compus din tuf și tufit", "Văi adânci asemănătoare canioanelor", "Regiune cu așezări dispersate"],
       en: ["Extensive volcanic plateau", "Composed of tuff and tuffite rocks", "Deep, canyon-like valleys", "Region of dispersed settlements"],
     },
-    imageHint: "Krupina Plain volcanic plateau landscape",
-  },
+    imageHint: "Krupina Plain volcanic plateau landscape", image: "/poi-images/slovakia-krupinska-planina-relief-v2.webp"},
   {
     id: "slovakia-oravska-magura-relief-v2",
     type: "mountain",

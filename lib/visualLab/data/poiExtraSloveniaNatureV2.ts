@@ -19,8 +19,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Altitudine de 2864 metri", "Piesa centrală a Parcului Național Triglav", "Prima ascensiune înregistrată în 1778", "Simbol național prezent pe steagul Sloveniei"],
       en: ["Elevation of 2,864 meters above sea level", "Centerpiece of Slovenia's only national park", "First recorded ascent took place in 1778", "Featured on the Slovenian coat of arms"],
     },
-    imageHint: "Triglav mountain peak in Julian Alps",
-  },
+    imageHint: "Triglav mountain peak in Julian Alps", image: "/poi-images/slovenia-triglav-nature-v2.webp"},
   {
     id: "slovenia-lake-bled-nature-v2",
     type: "lake",
@@ -39,8 +38,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 1,45 kilometri pătrați", "Adâncime maximă de 30,6 metri", "Găzduiește singura insulă naturală din Slovenia", "Gazdă frecventă pentru campionate mondiale de canotaj"],
       en: ["Surface area of approximately 1.45 square kilometers", "Maximum depth of 30.6 meters", "Home to the only natural island in Slovenia", "Renowned venue for international rowing regattas"],
     },
-    imageHint: "Lake Bled with island church at sunrise",
-  },
+    imageHint: "Lake Bled with island church at sunrise", image: "/poi-images/slovenia-lake-bled-nature-v2.webp"},
   {
     id: "slovenia-lake-bohinj-nature-v2",
     type: "lake",
@@ -59,8 +57,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime de 4,1 km și lățime de 1,2 km", "Volum de apă de aproximativ 92,5 milioane metri cubi", "Face parte din bazinul hidrografic al râului Sava", "Habitat pentru păstrăv de lac și mihalț"],
       en: ["Length of 4.1 km and width up to 1.2 km", "Contains approximately 92.5 million cubic meters of water", "Part of the Sava River drainage basin", "Home to native lake trout and arctic char"],
     },
-    imageHint: "Lake Bohinj with Julian Alps reflection",
-  },
+    imageHint: "Lake Bohinj with Julian Alps reflection", image: "/poi-images/slovenia-lake-bohinj-nature-v2.webp"},
   {
     id: "slovenia-soca-river-nature-v2",
     type: "river",
@@ -79,8 +76,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime totală de 138 kilometri", "Izvorăște din Valea Trenta la 876 m altitudine", "Cunoscut pentru păstrăvul marmorat endemic", "Teatrul unor bătălii majore în Primul Război Mondial"],
       en: ["Total length of 138 kilometers", "Sources in the Trenta Valley at 876 m altitude", "Home to the endemic Marble Trout", "Site of the major Battles of the Isonzo in WWI"],
     },
-    imageHint: "Emerald green Soca river in Slovenia",
-  },
+    imageHint: "Emerald green Soca river in Slovenia", image: "/poi-images/slovenia-soca-river-nature-v2.webp"},
   {
     id: "slovenia-postojna-cave-nature-v2",
     type: "park",
@@ -99,8 +95,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime totală de 24,1 kilometri", "Habitatul faimosului salamandru de peșteră", "Prima cale ferată subterană din lume (1872)", "Temperatură constantă între 8 și 10 grade Celsius"],
       en: ["Total length of 24.1 kilometers", "Natural habitat of the Olm (Proteus anguinus)", "World's oldest underground cave railway since 1872", "Constant internal temperature of 8 to 10 degrees Celsius"],
     },
-    imageHint: "Postojna cave stalactites and stalagmites",
-  },
+    imageHint: "Postojna cave stalactites and stalagmites", image: "/poi-images/slovenia-postojna-cave-nature-v2.webp"},
   {
     id: "slovenia-skocjan-caves-nature-v2",
     type: "park",
@@ -119,8 +114,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Sit UNESCO din anul 1986", "Canion subteran cu o adâncime de până la 146 m", "Râul Reka dispare aici în subteran", "Sait arheologic important cu vestigii preistorice"],
       en: ["UNESCO World Heritage site since 1986", "Underground canyon reaches depths of 146 meters", "The Reka River disappears underground at this site", "Important archaeological site for prehistoric findings"],
     },
-    imageHint: "Skocjan caves underground canyon bridge",
-  },
+    imageHint: "Skocjan caves underground canyon bridge", image: "/poi-images/slovenia-skocjan-caves-nature-v2.webp"},
   {
     id: "slovenia-vintgar-gorge-nature-v2",
     type: "valley",
@@ -139,8 +133,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 1600 metri", "Găzduiește cascada Šum înaltă de 13 m", "Descoperite accidental în anul 1891", "Traversate de un pod feroviar istoric din piatră"],
       en: ["Approximately 1,600 meters in length", "Ends at the 13-meter high Šum Waterfall", "Accidentally discovered in 1891", "Spanned by a historic stone railway arch bridge"],
     },
-    imageHint: "Vintgar gorge wooden walkway Radovna river",
-  },
+    imageHint: "Vintgar gorge wooden walkway Radovna river", image: "/poi-images/slovenia-vintgar-gorge-nature-v2.webp"},
   {
     id: "slovenia-savica-waterfall-nature-v2",
     type: "river",
@@ -159,8 +152,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Înălțime totală de 78 metri", "Formată din două brațe principale", "Sursă de inspirație pentru poezia 'Botezul la Savica'", "Alimentată de un lac subteran ascuns în stâncă"],
       en: ["Total drop height of 78 meters", "Composed of two separate streams forming an 'A'", "Inspiration for the epic poem 'The Baptism on the Savica'", "Fed by an underground lake within the mountain"],
     },
-    imageHint: "Savica waterfall Julian Alps Slovenia",
-  },
+    imageHint: "Savica waterfall Julian Alps Slovenia", image: "/poi-images/slovenia-savica-waterfall-nature-v2.webp"},
   {
     id: "slovenia-vrsic-pass-nature-v2",
     type: "mountain",
@@ -179,8 +171,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Altitudine maximă de 1611 metri", "Drumul are exact 50 de curbe în ac de păr", "Construit de prizonieri ruși în timpul Primului Război Mondial", "Găzduiește Capela Rusă construită în lemn"],
       en: ["Maximum altitude of 1,611 meters", "The road features exactly 50 hairpin turns", "Built by Russian prisoners of war during WWI", "Home to the historic Russian Chapel"],
     },
-    imageHint: "Vrsic pass mountain road Julian Alps",
-  },
+    imageHint: "Vrsic pass mountain road Julian Alps", image: "/poi-images/slovenia-vrsic-pass-nature-v2.webp"},
   {
     id: "slovenia-logar-valley-nature-v2",
     type: "valley",
@@ -199,8 +190,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 7 kilometri", "Desemnat parc peisagistic în anul 1987", "Găzduiește cascada Rinka înaltă de 90 m", "Înconjurată de vârfuri ce depășesc 2000 m"],
       en: ["Approximately 7 kilometers in length", "Designated as a landscape park in 1987", "Home to the 90-meter high Rinka Waterfall", "Surrounded by peaks exceeding 2,000 meters"],
     },
-    imageHint: "Logar valley Kamnik Savinja Alps Slovenia",
-  },
+    imageHint: "Logar valley Kamnik Savinja Alps Slovenia", image: "/poi-images/slovenia-logar-valley-nature-v2.webp"},
   {
     id: "slovenia-planica-valley-nature-v2",
     type: "valley",
@@ -219,8 +209,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Găzduiește trambulina de zbor Letalnica", "Primul zbor cu schiurile peste 100 m (1936)", "Locul tradițional al finalei Cupei Mondiale", "Parte integrantă a Parcului Național Triglav"],
       en: ["Home to the Letalnica bratov Gorišek flying hill", "Site of the first ski jump over 100 meters (1936)", "Regular venue for the Ski Jumping World Cup finals", "Located within the Triglav National Park"],
     },
-    imageHint: "Planica valley ski flying hills mountains",
-  },
+    imageHint: "Planica valley ski flying hills mountains", image: "/poi-images/slovenia-planica-valley-nature-v2.webp"},
   {
     id: "slovenia-krka-river-nature-v2",
     type: "river",
@@ -239,8 +228,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 94 kilometri", "Izvorăște din peștera carstică Krška jama", "Cel mai important afluent al Savei în această zonă", "Găzduiește castelul pe apă de la Otočec"],
       en: ["Approximately 94 kilometers in length", "Sources in the Krška jama karst cave", "Major right tributary of the Sava River", "Famous for the Otočec Castle located on an island"],
     },
-    imageHint: "Krka river Slovenia autumn colors",
-  },
+    imageHint: "Krka river Slovenia autumn colors", image: "/poi-images/slovenia-krka-river-nature-v2.webp"},
   {
     id: "slovenia-drava-river-nature-v2",
     type: "river",
@@ -259,8 +247,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime totală de 710 kilometri", "Segmentul sloven are aproximativ 117 km", "Cel mai mare debit dintre râurile Sloveniei", "Coridor ecologic important pentru păsări migratoare"],
       en: ["Total length of 710 kilometers", "Slovenian section is roughly 117 km long", "Highest water discharge rate in Slovenia", "Key ecological habitat for migratory birds"],
     },
-    imageHint: "Drava river Maribor Slovenia",
-  },
+    imageHint: "Drava river Maribor Slovenia", image: "/poi-images/slovenia-drava-river-nature-v2.webp"},
   {
     id: "slovenia-savinja-river-nature-v2",
     type: "river",
@@ -279,8 +266,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime de 102 kilometri", "Izvorăște de la baza cascadei Rinka", "Traversează orașele Celje și Laško", "Cel mai mare afluent de stânga al râului Sava"],
       en: ["Length of 102 kilometers", "Originates at the Rinka Waterfall", "Flows through the cities of Celje and Laško", "Largest left tributary of the Sava River"],
     },
-    imageHint: "Savinja river Celje Slovenia",
-  },
+    imageHint: "Savinja river Celje Slovenia", image: "/poi-images/slovenia-savinja-river-nature-v2.webp"},
   {
     id: "slovenia-pohorje-nature-v2",
     type: "forest",
@@ -299,8 +285,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Črni vrh (1543 m)", "Acoperă aproximativ 1000 km pătrați de pădure", "Include rezervația de pădure virgină Šumik", "Gazda concursului de schi 'Vulpea de Aur'"],
       en: ["Highest point is Črni vrh at 1,543 meters", "Covers about 1,000 square kilometers of forest", "Contains the Šumik virgin forest reserve", "Famous for the 'Golden Fox' Alpine Ski World Cup"],
     },
-    imageHint: "Pohorje mountains forest Slovenia",
-  },
+    imageHint: "Pohorje mountains forest Slovenia", image: "/poi-images/slovenia-pohorje-nature-v2.webp"},
   {
     id: "slovenia-secovlje-salina-nature-v2",
     type: "park",
@@ -319,8 +304,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 650 hectare", "Habitat crucial pentru peste 270 specii de păsări", "Producție de sare prin tehnici medievale", "Inclus pe lista Ramsar a zonelor umede"],
       en: ["Covers an area of about 650 hectares", "Critical habitat for over 270 bird species", "Salt produced using 700-year-old techniques", "Listed as a Ramsar Wetland of International Importance"],
     },
-    imageHint: "Secovlje salina salt pans Slovenia coast",
-  },
+    imageHint: "Secovlje salina salt pans Slovenia coast", image: "/poi-images/slovenia-secovlje-salina-nature-v2.webp"},
   {
     id: "slovenia-lake-cerknica-nature-v2",
     type: "lake",
@@ -339,8 +323,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Suprafața variază între 0 și 38 km²", "Exemplu clasic de fenomen hidrologic carstic", "Loc de cuibărit pentru buhaiul de baltă", "Descris detaliat de Valvasor în secolul al XVII-lea"],
       en: ["Surface area varies from 0 to 38 km²", "Prime global example of karst hydrology", "Crucial breeding site for the Great Bittern", "Studied and described by Valvasor in 1689"],
     },
-    imageHint: "Lake Cerknica karst intermittent lake",
-  },
+    imageHint: "Lake Cerknica karst intermittent lake", image: "/poi-images/slovenia-lake-cerknica-nature-v2.webp"},
   {
     id: "slovenia-skofja-loka-hills-nature-v2",
     type: "mountain",
@@ -359,8 +342,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Blegoš (1562 m)", "Cunoscut pentru producția tradițională de brânză", "Zonă populară de drumeții lângă Ljubljana", "Include fortificații din Linia Rupnik (anii 1930)"],
       en: ["Highest peak is Blegoš at 1,562 meters", "Famed for traditional highland cheese making", "Popular hiking destination near Ljubljana", "Contains remains of the Rupnik Line fortifications"],
     },
-    imageHint: "Skofja Loka hills Blegos mountain Slovenia",
-  },
+    imageHint: "Skofja Loka hills Blegos mountain Slovenia", image: "/poi-images/slovenia-skofja-loka-hills-nature-v2.webp"},
   {
     id: "slovenia-kamnik-alps-nature-v2",
     type: "mountain",
@@ -379,8 +361,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Cel mai înalt munte este Grintovec (2558 m)", "Adăpostesc cel mai nordic ghețar din Slovenia", "Nucleu al păstoritului montan tradițional", "Destinație majoră pentru alpinism și escaladă"],
       en: ["Highest peak is Grintovec at 2,558 meters", "Contains the northernmost glacier in Slovenia", "Heart of traditional high-altitude pastoralism", "Major destination for mountaineers and climbers"],
     },
-    imageHint: "Kamnik Savinja Alps Grintovec peak",
-  },
+    imageHint: "Kamnik Savinja Alps Grintovec peak", image: "/poi-images/slovenia-kamnik-alps-nature-v2.webp"},
   {
     id: "slovenia-karawanks-nature-v2",
     type: "mountain",
@@ -399,8 +380,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Stol (2236 m)", "Coridor de transport vital (Tunelul Karawanken)", "Bogată în diverse resurse minerale", "Parte a Centurii Verzi Europene"],
       en: ["Highest peak is Stol at 2,236 meters", "Strategic transit corridor (Karawanks Tunnel)", "Rich in diverse mineral deposits", "Part of the European Green Belt initiative"],
     },
-    imageHint: "Karawanks mountain range Slovenia border",
-  },
+    imageHint: "Karawanks mountain range Slovenia border", image: "/poi-images/slovenia-karawanks-nature-v2.webp"},
   {
     id: "slovenia-sneznik-nature-v2",
     type: "peak",
@@ -419,8 +399,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Altitudine de 1796 metri", "Numele său înseamnă 'cel înzăpezit'", "Nucleul unei arii protejate Natura 2000", "Habitat pentru urși, lupi și râși"],
       en: ["Elevation of 1,796 meters", "Its name translates to 'the Snowy One'", "Center of a large Natura 2000 protected area", "Habitat for brown bears, wolves, and lynx"],
     },
-    imageHint: "Sneznik mountain peak Slovenia forest",
-  },
+    imageHint: "Sneznik mountain peak Slovenia forest", image: "/poi-images/slovenia-sneznik-nature-v2.webp"},
   {
     id: "slovenia-kolpa-river-nature-v2",
     type: "river",
@@ -439,8 +418,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime totală de 297 kilometri", "Segmentul de graniță sloven are 113 km", "Temperatura apei atinge 28°C în august", "Desemnată destinație europeană de excelență (EDEN)"],
       en: ["Total length of 297 kilometers", "Slovenian border section covers 113 km", "Water temperature reaches up to 28°C in summer", "Awarded as a European Destination of Excellence (EDEN)"],
     },
-    imageHint: "Kolpa river Slovenia Croatia border",
-  },
+    imageHint: "Kolpa river Slovenia Croatia border", image: "/poi-images/slovenia-kolpa-river-nature-v2.webp"},
   {
     id: "slovenia-pericnik-waterfall-nature-v2",
     type: "river",
@@ -459,8 +437,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Formată din două trepte (52 m și 16 m)", "Îngheață spectaculos în timpul iernii", "Situată în Parcul Național Triglav", "Accesibilă printr-o drumeție scurtă dinspre Mojstrana"],
       en: ["Consists of two levels (52 m and 16 m high)", "Freezes into a massive ice wall in winter", "Located within the Triglav National Park", "Easily accessible from the village of Mojstrana"],
     },
-    imageHint: "Pericnik waterfall behind the water curtain",
-  },
+    imageHint: "Pericnik waterfall behind the water curtain", image: "/poi-images/slovenia-pericnik-waterfall-nature-v2.webp"},
   {
     id: "slovenia-lake-jasna-nature-v2",
     type: "lake",
@@ -479,8 +456,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Păzit de statuia de bronz a lui Zlatorog", "Punct de plecare pentru trasee montane", "Apă atât de limpede încât fundul este vizibil", "Amenajat cu plaje de nisip și pontoane din lemn"],
       en: ["Guarded by the bronze statue of the Goldhorn", "Popular starting point for alpine hikes", "Extremely clear water with high visibility", "Features white sand beaches and walking paths"],
     },
-    imageHint: "Lake Jasna Kranjska Gora goldhorn statue",
-  },
+    imageHint: "Lake Jasna Kranjska Gora goldhorn statue", image: "/poi-images/slovenia-lake-jasna-nature-v2.webp"},
   {
     id: "slovenia-kozjak-waterfall-nature-v2",
     type: "river",
@@ -499,8 +475,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Înălțime de 15 metri", "Ascunsă într-o semi-peșteră calcaroasă", "Acces prin poduri suspendate și pasarele", "Considerată una dintre cele mai frumoase cascade"],
       en: ["Drop height of 15 meters", "Located inside a stony half-cave", "Accessible via wooden footbridges and trails", "One of the most photogenic spots in the Soca Valley"],
     },
-    imageHint: "Kozjak waterfall Kobarid Slovenia cave",
-  },
+    imageHint: "Kozjak waterfall Kobarid Slovenia cave", image: "/poi-images/slovenia-kozjak-waterfall-nature-v2.webp"},
   {
     id: "slovenia-velika-planina-nature-v2",
     type: "mountain",
@@ -519,8 +494,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Platou situat la aproximativ 1500 m altitudine", "Cuprinde peste 140 de colibe de păstori", "Cunoscută pentru brânza artizanală Trnič", "Acoperită de covoare de brândușe în primăvară"],
       en: ["Plateau altitude of approximately 1,500 meters", "Includes over 140 traditional shepherds' huts", "Famous for the pear-shaped Trnič cheese", "Covered in purple crocuses every spring"],
     },
-    imageHint: "Velika Planina shepherds huts Slovenia",
-  },
+    imageHint: "Velika Planina shepherds huts Slovenia", image: "/poi-images/slovenia-velika-planina-nature-v2.webp"},
   {
     id: "slovenia-dragonja-river-nature-v2",
     type: "river",
@@ -539,8 +513,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 30 kilometri", "Habitat vital pentru amfibieni rari", "Singurul râu sloven fără albie regularizată", "Gura de vărsare este lângă Salinele Sečovlje"],
       en: ["Approximately 30 kilometers in length", "Important habitat for rare amphibian species", "Slovenia's only river with an entirely unregulated bed", "Mouth is located at the Sečovlje Salt Pans"],
     },
-    imageHint: "Dragonja river valley Istria Slovenia",
-  },
+    imageHint: "Dragonja river valley Istria Slovenia", image: "/poi-images/slovenia-dragonja-river-nature-v2.webp"},
   {
     id: "slovenia-tolmin-gorges-nature-v2",
     type: "valley",
@@ -559,8 +532,7 @@ export const sloveniaNatureV2: POI[] = [
       ro: ["Cel mai jos punct din Parcul Național Triglav (180 m)", "Traversate de faimosul 'Pod al Diavolului'", "Adăpostește un izvor termal în interiorul cheilor", "Include stânca suspendată numită 'Capul Ursului'"],
       en: ["Lowest point of Triglav National Park (180 m)", "Crossed by the high-altitude 'Devil's Bridge'", "Home to a thermal spring inside the gorge", "Features a large wedged rock called 'Bear's Head'"],
     },
-    imageHint: "Tolmin Gorges Soca valley Devil's bridge",
-  },
+    imageHint: "Tolmin Gorges Soca valley Devil's bridge", image: "/poi-images/slovenia-tolmin-gorges-nature-v2.webp"},
   {
     id: "slovenia-zelenci-nature-v2",
     type: "park",

@@ -19,8 +19,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Fondat în anul 874 d.Hr.", "Sediul parlamentului Alþingi", "Încălzit integral prin geotermie", "Populație de aprox. 131.000 loc."],
       en: ["Founded in 874 AD", "Seat of the Alþingi parliament", "Heated entirely by geothermal energy", "Population approx. 131,000"],
     },
-    imageHint: "Reykjavik skyline with Hallgrimskirkja church",
-  },
+    imageHint: "Reykjavik skyline with Hallgrimskirkja church", image: "/poi-images/iceland-reykjavik-cities-v2.webp"},
   {
     id: "iceland-kopavogur-cities-v2",
     type: "city",
@@ -39,8 +38,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Al doilea oraș ca populație", "Găzduiește cea mai înaltă clădire din țară", "Municipiu separat din 1948", "Centrul comercial Smáralind este aici"],
       en: ["Second largest city in Iceland", "Home to Smáratorn, Iceland's tallest building", "Established as a municipality in 1948", "Location of Smáralind shopping mall"],
     },
-    imageHint: "Kopavogur city view with modern church",
-  },
+    imageHint: "Kopavogur city view with modern church", image: "/poi-images/iceland-kopavogur-cities-v2.webp"},
   {
     id: "iceland-hafnarfjordur-cities-v2",
     type: "city",
@@ -59,8 +57,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Al treilea oraș ca mărime", "Gazda unui festival viking anual", "Port situat într-un golf de lavă", "Centru important al industriei aluminiului"],
       en: ["Third most populous city in Iceland", "Hosts an annual Viking Festival", "Port located in a natural lava bay", "Hub for the aluminum industry"],
     },
-    imageHint: "Hafnarfjordur harbor and colorful houses",
-  },
+    imageHint: "Hafnarfjordur harbor and colorful houses", image: "/poi-images/iceland-hafnarfjordur-cities-v2.webp"},
   {
     id: "iceland-akureyri-cities-v2",
     type: "city",
@@ -79,8 +76,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Centru comercial major în nord", "Deține cea mai nordică grădină botanică", "Port fără gheață pe tot parcursul anului", "Principalul centru de sporturi de iarnă"],
       en: ["Major trading center in North Iceland", "Home to the world's northernmost botanical garden", "Ice-free harbor year-round", "Hub for winter sports in Iceland"],
     },
-    imageHint: "Akureyri church and fjord view",
-  },
+    imageHint: "Akureyri church and fjord view", image: "/poi-images/iceland-akureyri-cities-v2.webp"},
   {
     id: "iceland-keflavik-cities-v2",
     type: "city",
@@ -99,8 +95,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Locația Aeroportului Internațional Keflavík", "Fostă bază militară americană", "Cunoscut pentru scena sa muzicală", "Port pescăresc activ"],
       en: ["Home to Keflavík International Airport (KEF)", "Former site of a US military base", "Known for its 1960s music scene", "Significant fishing port"],
     },
-    imageHint: "Keflavik harbor and rocky coastline",
-  },
+    imageHint: "Keflavik harbor and rocky coastline", image: "/poi-images/iceland-keflavik-cities-v2.webp"},
   {
     id: "iceland-gardabaer-cities-v2",
     type: "town",
@@ -119,8 +114,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["A șasea cea mai populată municipalitate", "Locația studiourilor pentru serialul 'LazyTown'", "Găzduiește Muzeul de Design și Artă Aplicată", "Prima așezare atestată în secolul IX"],
       en: ["Sixth most populous municipality in Iceland", "Location of the 'LazyTown' TV studios", "Home to the Museum of Design and Applied Art", "Settled as early as the 9th century"],
     },
-    imageHint: "Gardabaer residential area and nature scenery",
-  },
+    imageHint: "Gardabaer residential area and nature scenery", image: "/poi-images/iceland-gardabaer-cities-v2.webp"},
   {
     id: "iceland-mosfellsbaer-cities-v2",
     type: "town",
@@ -139,8 +133,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Găzduiește muzeul Gljúfrasteinn (Halldór Laxness)", "Centru de horticultură datorită geotermiei", "Punct de plecare pentru trasee spre muntele Esja", "Suburbie în plină expansiune a capitalei"],
       en: ["Home to the Gljúfrasteinn museum of Halldór Laxness", "Center for greenhouse horticulture", "Surrounded by trails leading to Mount Esja", "Rapidly growing suburb of Reykjavík"],
     },
-    imageHint: "Mosfellsbaer landscape with mountains",
-  },
+    imageHint: "Mosfellsbaer landscape with mountains", image: "/poi-images/iceland-mosfellsbaer-cities-v2.webp"},
   {
     id: "iceland-selfoss-cities-v2",
     type: "town",
@@ -159,8 +152,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Cel mai mare oraș interior din Islanda", "Situat pe Șoseaua de Centură (Ruta 1)", "Locul unde este înmormântat șahistul Bobby Fischer", "Inima industriei lactatelor din țară"],
       en: ["Largest inland town in Iceland", "Located on the Ring Road (Route 1)", "Burial place of chess champion Bobby Fischer", "Center of the Icelandic dairy industry"],
     },
-    imageHint: "Selfoss bridge over Olfusa river",
-  },
+    imageHint: "Selfoss bridge over Olfusa river", image: "/poi-images/iceland-selfoss-cities-v2.webp"},
   {
     id: "iceland-akranes-cities-v2",
     type: "town",
@@ -179,8 +171,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Dispune de două faruri deschise publicului", "Conectat de Reykjavík prin tunelul Hvalfjörður", "Renumit pentru echipa locală de fotbal", "Găzduiește o fabrică majoră de ciment"],
       en: ["Features two lighthouses open to visitors", "Connected to Reykjavík via the Hvalfjörður tunnel", "Known for its successful football club", "Home to a large cement factory"],
     },
-    imageHint: "Akranes lighthouse at the coast",
-  },
+    imageHint: "Akranes lighthouse at the coast", image: "/poi-images/iceland-akranes-cities-v2.webp"},
   {
     id: "iceland-seltjarnarnes-cities-v2",
     type: "town",
@@ -199,8 +190,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Cea mai mică municipalitate ca suprafață", "Locația farului Grótta", "Găzduiește un muzeu de medicină", "Loc popular pentru observarea păsărilor"],
       en: ["Smallest municipality in Iceland by area", "Location of the Grótta lighthouse", "Home to a medical history museum", "Important spot for birdwatching"],
     },
-    imageHint: "Grotta lighthouse in Seltjarnarnes at sunset",
-  },
+    imageHint: "Grotta lighthouse in Seltjarnarnes at sunset", image: "/poi-images/iceland-seltjarnarnes-cities-v2.webp"},
   {
     id: "iceland-vestmannaeyjar-cities-v2",
     type: "town",
@@ -219,8 +209,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Cea mai mare colonie de puffini din lume", "Vulcanul Eldfell a erupt chiar lângă oraș în 1973", "Gazda festivalului Þjóðhátíð în august", "Centru major de procesare a peștelui"],
       en: ["Largest puffin colony in the world", "Eldfell volcano formed within the town area in 1973", "Hosts the famous Þjóðhátíð festival in August", "Major hub for Iceland's fishing industry"],
     },
-    imageHint: "Vestmannaeyjar harbor and steep cliffs",
-  },
+    imageHint: "Vestmannaeyjar harbor and steep cliffs", image: "/poi-images/iceland-vestmannaeyjar-cities-v2.webp"},
   {
     id: "iceland-grindavik-cities-v2",
     type: "town",
@@ -239,8 +228,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Cel mai apropiat oraș de Laguna Albastră", "Găzduiește un muzeu al peștelui sărat", "Zonă afectată frecvent de activitate vulcanică", "Port important pentru exportul de cod"],
       en: ["Nearest town to the Blue Lagoon", "Home to the Icelandic Salted Fish Museum", "Frequently affected by volcanic activity", "Significant port for salt fish exports"],
     },
-    imageHint: "Grindavik harbor with fishing boats",
-  },
+    imageHint: "Grindavik harbor with fishing boats", image: "/poi-images/iceland-grindavik-cities-v2.webp"},
   {
     id: "iceland-isafjordur-cities-v2",
     type: "town",
@@ -259,8 +247,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Cel mai mare oraș din Fiordurile de Vest", "Cunoscut pentru casele sale vechi din lemn", "Gazda festivalului muzical 'Aldrei fór ég suður'", "Punct major pentru turismul în zona arctică"],
       en: ["Largest town in the Westfjords", "Known for its historic wooden houses", "Hosts the 'Aldrei fór ég suður' music festival", "Major base for Arctic tourism"],
     },
-    imageHint: "Isafjordur town view from above the fjord",
-  },
+    imageHint: "Isafjordur town view from above the fjord", image: "/poi-images/iceland-isafjordur-cities-v2.webp"},
   {
     id: "iceland-saudarkrokur-cities-v2",
     type: "town",
@@ -279,8 +266,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Centru pentru sporturile ecvestre islandeze", "Deține o tăbăcărie renumită", "Aproape de insula istorică Drangey", "Port major pentru exportul de pește"],
       en: ["Center for Icelandic horse riding", "Home to a well-known tannery", "Near the historic island of Drangey", "Significant port for fish exports"],
     },
-    imageHint: "Saudarkrokur town and the fjord",
-  },
+    imageHint: "Saudarkrokur town and the fjord", image: "/poi-images/iceland-saudarkrokur-cities-v2.webp"},
   {
     id: "iceland-hveragerdi-cities-v2",
     type: "town",
@@ -299,8 +285,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Supranumit 'Orașul Florilor'", "Situat deasupra unei zone termale active", "Expoziție despre cutremure în centru", "Punct de start pentru valea Reykjadalur"],
       en: ["Known as the 'Flower Town' of Iceland", "Built directly over a geothermal field", "Features an earthquake exhibition", "Starting point for Reykjadalur hot river hike"],
     },
-    imageHint: "Hveragerdi greenhouses and steam vents",
-  },
+    imageHint: "Hveragerdi greenhouses and steam vents", image: "/poi-images/iceland-hveragerdi-cities-v2.webp"},
   {
     id: "iceland-husavik-cities-v2",
     type: "town",
@@ -319,8 +304,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Cea mai veche așezare conform Landnámabók", "Găzduiește Muzeul Balenelor din Húsavík", "Renumit prin filmul 'Eurovision Song Contest'", "Băi geotermale GeoSea pe malul mării"],
       en: ["First settled site in Iceland per Landnámabók", "Home to the Húsavík Whale Museum", "Featured in the 'Eurovision Song Contest' film", "Location of GeoSea geothermal sea baths"],
     },
-    imageHint: "Husavik harbor with traditional wooden boats",
-  },
+    imageHint: "Husavik harbor with traditional wooden boats", image: "/poi-images/iceland-husavik-cities-v2.webp"},
   {
     id: "iceland-borgarnes-cities-v2",
     type: "town",
@@ -339,8 +323,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Găzduiește Centrul Colonizării (Settlement Center)", "Lângă cel mai lung pod din Islanda", "Punct de oprire major pe Șoseaua de Centură", "Cadru pentru multe evenimente din Saga lui Egill"],
       en: ["Home to the Settlement Center museum", "Located by one of Iceland's longest bridges", "Major transport hub on the Ring Road", "Setting for many events in the Egils Saga"],
     },
-    imageHint: "Borgarnes town view with mountains in background",
-  },
+    imageHint: "Borgarnes town view with mountains in background", image: "/poi-images/iceland-borgarnes-cities-v2.webp"},
   {
     id: "iceland-sandgerdi-cities-v2",
     type: "town",
@@ -359,8 +342,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Unul dintre cele mai mari porturi pescărești", "Găzduiește Centrul Științific Sudurnes", "Aproape de farul Garðskagi", "Zonă crucială pentru păsările migratoare"],
       en: ["One of Iceland's largest fishing ports", "Home to the Sudurnes Science and Learning Center", "Near the Garðskagi lighthouse", "Major site for migratory birds"],
     },
-    imageHint: "Sandgerdi harbor with coastal scenery",
-  },
+    imageHint: "Sandgerdi harbor with coastal scenery", image: "/poi-images/iceland-sandgerdi-cities-v2.webp"},
   {
     id: "iceland-hofn-cities-v2",
     type: "town",
@@ -379,8 +361,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Cunoscut drept 'Capitala homarului' în Islanda", "Oferă vederi spre ghețarul Vatnajökull", "Cel mai important port din sud-est", "Gazda unui festival anual al homarului"],
       en: ["Known as the 'Lobster Capital' of Iceland", "Offers views of the Vatnajökull glacier tongues", "Main fishing port in the southeast", "Hosts an annual Lobster Festival"],
     },
-    imageHint: "Hofn town with Vatnajokull glacier in background",
-  },
+    imageHint: "Hofn town with Vatnajokull glacier in background", image: "/poi-images/iceland-hofn-cities-v2.webp"},
   {
     id: "iceland-thorlakshofn-cities-v2",
     type: "town",
@@ -399,8 +380,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Principalul port de feribot înainte de Landeyjahöfn", "Centrul extracției de nisip în Islanda", "Cunoscut pentru condițiile de surfing", "Găzduiește unități mari de procesare a peștelui"],
       en: ["Main ferry port before Landeyjahöfn was built", "Center for Iceland's sand mining industry", "Known for its surfing conditions", "Home to large fish processing plants"],
     },
-    imageHint: "Thorlakshofn harbor and black sand beach",
-  },
+    imageHint: "Thorlakshofn harbor and black sand beach", image: "/poi-images/iceland-thorlakshofn-cities-v2.webp"},
   {
     id: "iceland-dalvik-cities-v2",
     type: "town",
@@ -419,8 +399,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Terminal de feribot pentru cercul polar (Grímsey)", "Gazda festivalului anual 'Ziua Peștelui'", "Centru important de schi (Böðvarsholt)", "Tradiție puternică în pescuitul oceanic"],
       en: ["Ferry link to the Arctic Circle (Grímsey)", "Hosts the annual 'Fish Day' festival in August", "Major skiing area at Böðvarsholt", "Strong deep-sea fishing tradition"],
     },
-    imageHint: "Dalvik harbor with snow-capped mountains",
-  },
+    imageHint: "Dalvik harbor with snow-capped mountains", image: "/poi-images/iceland-dalvik-cities-v2.webp"},
   {
     id: "iceland-siglufjordur-cities-v2",
     type: "town",
@@ -439,8 +418,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Găzduiește Muzeul Erei Heringului, premiat internațional", "Locul filmării serialului TV 'Trapped'", "Accesibil doar prin mare până la construcția tunelurilor", "Centru pentru muzica populară islandeză"],
       en: ["Home to the award-winning Herring Era Museum", "Filming location for the TV series 'Trapped'", "Once accessible only by sea or mountain pass", "Center for folk music in Iceland"],
     },
-    imageHint: "Siglufjordur colorful houses and harbor",
-  },
+    imageHint: "Siglufjordur colorful houses and harbor", image: "/poi-images/iceland-siglufjordur-cities-v2.webp"},
   {
     id: "iceland-stykkisholmur-cities-v2",
     type: "town",
@@ -459,8 +437,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Poarta către insulele din Breiðafjörður", "Găzduiește instalația artistică 'Biblioteca Apei'", "Port de feribot pentru insula Flatey", "Cea mai veche stație meteo din țară (din 1845)"],
       en: ["Gateway to the Breiðafjörður bay", "Home to the Library of Water art installation", "Ferry terminal for Flatey island", "Oldest weather station in Iceland (since 1845)"],
     },
-    imageHint: "Stykkisholmur harbor and Súgandisey cliff",
-  },
+    imageHint: "Stykkisholmur harbor and Súgandisey cliff", image: "/poi-images/iceland-stykkisholmur-cities-v2.webp"},
   {
     id: "iceland-seydisfjordur-cities-v2",
     type: "town",
@@ -479,8 +456,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Punctul de acostare al feribotului Norröna din Danemarca", "Renumit pentru biserica albastră și drumul curcubeului", "Centru creativ major în estul Islandei", "Înconjurat de numeroase cascade spectaculoase"],
       en: ["Docking point for the Norröna ferry from Denmark", "Famous for its blue church and rainbow road", "Creative hub of East Iceland", "Surrounded by numerous mountain waterfalls"],
     },
-    imageHint: "Seydisfjordur rainbow road and blue church",
-  },
+    imageHint: "Seydisfjordur rainbow road and blue church", image: "/poi-images/iceland-seydisfjordur-cities-v2.webp"},
   {
     id: "iceland-vogar-cities-v2",
     type: "town",
@@ -499,8 +475,7 @@ export const icelandCitiesV2: POI[] = [
       ro: ["Acces facil către aeroportul Keflavík", "Locație istorică importantă pentru pescuit", "Aproape de muntele conic Keilir", "Loc popular pentru drumeții de coastă"],
       en: ["Easy access to Keflavík Airport", "Historically significant fishing site", "Near the cone-shaped mountain Keilir", "Popular spot for coastal walks"],
     },
-    imageHint: "Vogar coastline and residential houses",
-  },
+    imageHint: "Vogar coastline and residential houses", image: "/poi-images/iceland-vogar-cities-v2.webp"},
   {
     id: "iceland-faskrudsfjordur-cities-v2",
     type: "town",

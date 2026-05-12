@@ -19,8 +19,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Al doilea cel mai înalt punct", "Altitudine de 342 metri", "Situat la nord de Minsk", "Format în timpul epocii glaciare"],
       en: ["Second highest point in Belarus", "Elevation of 342 meters", "Located north of Minsk", "Formed during the Ice Age"],
     },
-    imageHint: "Lysaya Hara hill landscape near Minsk",
-  },
+    imageHint: "Lysaya Hara hill landscape near Minsk", image: "/poi-images/belarus-lysaya-hara-relief-v2.webp"},
   {
     id: "belarus-mayak-hill-relief-v2",
     type: "peak",
@@ -39,8 +38,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Altitudine de 174 metri", "Parte a regiunii Lacurile Braslav", "Punct de observație popular", "Origine glaciară"],
       en: ["Elevation of 174 meters", "Part of Braslaw Lakes district", "Popular observation point", "Glacial origin of the relief"],
     },
-    imageHint: "Mayak Hill view over Braslaw Lakes",
-  },
+    imageHint: "Mayak Hill view over Braslaw Lakes", image: "/poi-images/belarus-mayak-hill-relief-v2.webp"},
   {
     id: "belarus-minsk-upland-relief-v2",
     type: "mountain",
@@ -59,8 +57,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Parte a Cultei Belarusiei", "Cea mai înaltă regiune din Belarus", "Cumpănă între două mări", "Caracterizat prin morene terminale"],
       en: ["Part of the Belarusian Ridge", "Highest region in Belarus", "Divide between Baltic and Black Sea", "Characterized by terminal moraines"],
     },
-    imageHint: "Rolling hills of the Minsk Upland",
-  },
+    imageHint: "Rolling hills of the Minsk Upland", image: "/poi-images/belarus-minsk-upland-relief-v2.webp"},
   {
     id: "belarus-navahrudak-upland-relief-v2",
     type: "mountain",
@@ -79,8 +76,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Altitudine maximă de 323 metri", "Zamkavaja hara este cel mai înalt punct", "Bogat în situri istorice", "Regiune turistică importantă"],
       en: ["Maximum altitude of 323 meters", "Zamkavaja hara is its highest point", "Rich in historical sites", "Important tourist region"],
     },
-    imageHint: "Hilly terrain of Navahrudak Upland",
-  },
+    imageHint: "Hilly terrain of Navahrudak Upland", image: "/poi-images/belarus-navahrudak-upland-relief-v2.webp"},
   {
     id: "belarus-vitebsk-upland-relief-v2",
     type: "mountain",
@@ -119,8 +115,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Altitudine maximă de cca. 263 metri", "Soluri argiloase și nisipoase", "Zonă agricolă importantă", "Se învecinează cu Podișul Smolensk"],
       en: ["Maximum elevation about 263 meters", "Clayey and sandy soil composition", "Important agricultural area", "Borders the Smolensk Upland"],
     },
-    imageHint: "Orsha Upland fields and hills",
-  },
+    imageHint: "Orsha Upland fields and hills", image: "/poi-images/belarus-orsha-upland-relief-v2.webp"},
   {
     id: "belarus-oshmyany-upland-relief-v2",
     type: "mountain",
@@ -139,8 +134,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Punct maxim de 320 metri", "Puternic afectat de eroziune", "La granița cu Lituania", "Parte integrantă a Scutului Baltic"],
       en: ["Highest point reaches 320 meters", "Heavily affected by erosion", "Near the border with Lithuania", "Component of the Baltic Shield"],
     },
-    imageHint: "Boulders on the Oshmyany Upland",
-  },
+    imageHint: "Boulders on the Oshmyany Upland", image: "/poi-images/belarus-oshmyany-upland-relief-v2.webp"},
   {
     id: "belarus-grodno-upland-relief-v2",
     type: "mountain",
@@ -159,8 +153,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Altitudine maximă de 247 metri", "Divizat de valea Nemanului", "Lipsesc dealurile vulcanice", "Format din morene glaciare"],
       en: ["Maximum altitude of 247 meters", "Divided by the Neman valley", "No hills of volcanic origin", "Part of the Ice Age moraines"],
     },
-    imageHint: "River Neman valley near Grodno Upland",
-  },
+    imageHint: "River Neman valley near Grodno Upland", image: "/poi-images/belarus-grodno-upland-relief-v2.webp"},
   {
     id: "belarus-volkovysk-upland-relief-v2",
     type: "mountain",
@@ -179,8 +172,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Altitudine maximă de 242 metri", "Cunoscut pentru depozite de cretă", "Caracterizat prin culmi line", "Depuneri sedimentare glaciare"],
       en: ["Highest point reaches 242 meters", "Known for chalk deposits", "Characterized by soft peaks", "Glacial-sedimentary deposits"],
     },
-    imageHint: "Gentle hills of Volkovysk Upland",
-  },
+    imageHint: "Gentle hills of Volkovysk Upland", image: "/poi-images/belarus-volkovysk-upland-relief-v2.webp"},
   {
     id: "belarus-slonim-upland-relief-v2",
     type: "mountain",
@@ -199,8 +191,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Înălțime maximă de 223 metri", "Formațiuni deluroase nisipoase", "Modelat de apele de topire", "Relief parțial împădurit"],
       en: ["Maximum height of 223 meters", "Sandy hill formations", "Shaped by meltwater flows", "Partially forested relief"],
     },
-    imageHint: "Sandy hills and pine forest of Slonim",
-  },
+    imageHint: "Sandy hills and pine forest of Slonim", image: "/poi-images/belarus-slonim-upland-relief-v2.webp"},
   {
     id: "belarus-kopyl-ridge-relief-v2",
     type: "mountain",
@@ -219,8 +210,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Cel mai înalt punct de 243 metri", "Considerat cumpănă a apelor", "Depozite extinse de loess", "Locație importantă pentru cereale"],
       en: ["Highest point is 243 meters", "Acts as a local water divide", "Extensive loess deposits", "Important site for grain crops"],
     },
-    imageHint: "Kopyl Ridge rolling fields",
-  },
+    imageHint: "Kopyl Ridge rolling fields", image: "/poi-images/belarus-kopyl-ridge-relief-v2.webp"},
   {
     id: "belarus-mozyr-ridge-relief-v2",
     type: "mountain",
@@ -239,8 +229,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Altitudine de până la 221 metri", "Văi de eroziune abrupte", "Microclimat unic", "Vedere spre râul Pripeat"],
       en: ["Elevation up to 221 meters", "Steep erosion gullies (ravines)", "Unique microclimate for Belarus", "View over the Pripyat River"],
     },
-    imageHint: "Mozyr Ridge hills overlooking river",
-  },
+    imageHint: "Mozyr Ridge hills overlooking river", image: "/poi-images/belarus-mozyr-ridge-relief-v2.webp"},
   {
     id: "belarus-polatsk-lowland-relief-v2",
     type: "valley",
@@ -279,8 +268,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Altitudine joasă (90-150m)", "Depresiune formată de topire", "Prezența turbăriilor", "Zone cu dune de nisip"],
       en: ["Low elevation (90-150m)", "Glacial meltwater depression", "Presence of peat bogs", "Sandy dune formations"],
     },
-    imageHint: "Neman river and flat lowlands",
-  },
+    imageHint: "Neman river and flat lowlands", image: "/poi-images/belarus-neman-lowland-relief-v2.webp"},
   {
     id: "belarus-polesie-lowland-relief-v2",
     type: "valley",
@@ -299,8 +287,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Cea mai mare câmpie din țară", "Cunoscută ca mlaștinile Pripeat", "Altitudine medie 110-120 metri", "Parțial drenată artificial"],
       en: ["Largest lowland in the country", "Known as the Pripyat Marshes", "Average altitude 110-120 meters", "Partially drained by canals"],
     },
-    imageHint: "Vast marshlands of Polesie",
-  },
+    imageHint: "Vast marshlands of Polesie", image: "/poi-images/belarus-polesie-lowland-relief-v2.webp"},
   {
     id: "belarus-logoysk-crater-relief-v2",
     type: "landmark",
@@ -319,8 +306,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Diametru de aproximativ 15 km", "Format acum 42 milioane de ani", "Îngropat sub straturi sedimentare", "Formațiuni muntoase unice"],
       en: ["Diameter of about 15 km", "Formed 42 million years ago", "Buried under sediment layers", "Unique geological formations"],
     },
-    imageHint: "Satellite topographic map of Logoysk",
-  },
+    imageHint: "Satellite topographic map of Logoysk", image: "/poi-images/belarus-logoysk-crater-relief-v2.webp"},
   {
     id: "belarus-vileyka-lowland-relief-v2",
     type: "valley",
@@ -339,8 +325,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Relief nisipos și plat", "Locația rezervorului Vileyka", "Modelat de râul Viliya", "Resursă de apă importantă"],
       en: ["Sandy and flat relief", "Site of Vileyka Reservoir", "Shaped by the Viliya River", "Critical water resource"],
     },
-    imageHint: "Vileyka reservoir and lowlands",
-  },
+    imageHint: "Vileyka reservoir and lowlands", image: "/poi-images/belarus-vileyka-lowland-relief-v2.webp"},
   {
     id: "belarus-lida-plain-relief-v2",
     type: "valley",
@@ -359,8 +344,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Altitudine medie 150-180 metri", "Depuneri glaciare nisipoase", "Multe mlaștini și canale", "Densitate scăzută a populației"],
       en: ["Average altitude 150-180 meters", "Glacial sandy deposits", "Numerous bogs and canals", "Low population density"],
     },
-    imageHint: "Pine forests on the Lida Plain",
-  },
+    imageHint: "Pine forests on the Lida Plain", image: "/poi-images/belarus-lida-plain-relief-v2.webp"},
   {
     id: "belarus-baranovichi-plain-relief-v2",
     type: "valley",
@@ -379,8 +363,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Altitudine de cca. 180-200 metri", "Soluri de tip cernoziom fertile", "Lipsa proeminențelor naturale", "Zonă de cultivare importantă"],
       en: ["Altitude about 180-200 meters", "Fertile black earth soils", "Very few natural elevations", "Key agricultural production zone"],
     },
-    imageHint: "Vast agricultural fields of Baranovichi",
-  },
+    imageHint: "Vast agricultural fields of Baranovichi", image: "/poi-images/belarus-baranovichi-plain-relief-v2.webp"},
   {
     id: "belarus-pribugskaya-plain-relief-v2",
     type: "valley",
@@ -399,8 +382,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Se învecinează cu râul Bug", "Altitudine 140-160 metri", "Bogată în păduri de pini", "Terase fluviale nisipoase"],
       en: ["Borders the Bug River", "Elevation 140-160 meters", "Rich in pine forests", "Sandy river terraces"],
     },
-    imageHint: "Plains near the Bug River",
-  },
+    imageHint: "Plains near the Bug River", image: "/poi-images/belarus-pribugskaya-plain-relief-v2.webp"},
   {
     id: "belarus-luninets-lowland-relief-v2",
     type: "valley",
@@ -419,8 +401,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Extrem de bogată în apă", "Altitudine de cca. 130 metri", "Marcată de extracția turbei", "Habitat important pentru păsări"],
       en: ["Extremely water-rich area", "Altitude about 130 meters", "Characterized by peat extraction", "Critical habitat for birds"],
     },
-    imageHint: "Marshy lowlands of Luninets",
-  },
+    imageHint: "Marshy lowlands of Luninets", image: "/poi-images/belarus-luninets-lowland-relief-v2.webp"},
   {
     id: "belarus-stolin-lowland-relief-v2",
     type: "valley",
@@ -439,8 +420,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Cea mai sudică regiune din țară", "Cunoscută pentru dune mișcătoare", "Inundații frecvente de primăvară", "Relief nisipos"],
       en: ["Southernmost region of Belarus", "Known for migrating dunes", "Frequent spring flooding", "Sandy relief features"],
     },
-    imageHint: "Sandy plain with dunes near Stolin",
-  },
+    imageHint: "Sandy plain with dunes near Stolin", image: "/poi-images/belarus-stolin-lowland-relief-v2.webp"},
   {
     id: "belarus-gorodok-upland-relief-v2",
     type: "mountain",
@@ -479,8 +459,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Teren foarte plat", "Altitudine medie 160 metri", "Agricultură intensivă", "Fostă parte a unui lac mare"],
       en: ["Very level terrain", "Average elevation 160 meters", "Intensive agricultural use", "Formerly part of a large lake"],
     },
-    imageHint: "Flat agricultural plain of Chashniki",
-  },
+    imageHint: "Flat agricultural plain of Chashniki", image: "/poi-images/belarus-chashniki-plain-relief-v2.webp"},
   {
     id: "belarus-zamkavaya-hara-relief-v2",
     type: "peak",
@@ -519,8 +498,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Parte a Culmilor Baltice", "Teren cu relief accidentat", "Prezența blocurilor de granit", "Silvicultură importantă"],
       en: ["Part of the Baltic Uplands", "Strongly dissected terrain", "Presence of granite boulders", "Significant forestry area"],
     },
-    imageHint: "Steep moraine ridge in Oshmyany",
-  },
+    imageHint: "Steep moraine ridge in Oshmyany", image: "/poi-images/belarus-ashmyany-ridge-relief-v2.webp"},
   {
     id: "belarus-surazh-lowland-relief-v2",
     type: "valley",
@@ -559,8 +537,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Altitudine 150-170 metri", "Valea râului Berezina", "Depresiuni mlăștinoase", "Câmpie sedimentară glaciară"],
       en: ["Elevation 150-170 meters", "Berezina River valley basin", "Swampy low-lying areas", "Glacial sedimentary plain"],
     },
-    imageHint: "Berezina river plain and wetlands",
-  },
+    imageHint: "Berezina river plain and wetlands", image: "/poi-images/belarus-middle-berezina-plain-relief-v2.webp"},
   {
     id: "belarus-orsha-mogilev-plain-relief-v2",
     type: "valley",
@@ -579,8 +556,7 @@ export const belarusReliefV2: POI[] = [
       ro: ["Altitudine până la 200 metri", "Platou acoperit cu loess", "Utilizare agrară intensă", "Prezența dolinelor"],
       en: ["Elevation up to 200 meters", "Loess-covered plateau", "Strong agricultural development", "Occasional sinkhole formations"],
     },
-    imageHint: "Plateau landscape of Orsha-Mogilev",
-  },
+    imageHint: "Plateau landscape of Orsha-Mogilev", image: "/poi-images/belarus-orsha-mogilev-plain-relief-v2.webp"},
   {
     id: "belarus-yurievichi-hills-relief-v2",
     type: "landmark",

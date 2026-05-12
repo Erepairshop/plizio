@@ -19,8 +19,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 2004", "Prima capitală a Marelui Ducat", "Cuprinde 5 movile fortificate distincte", "Distrus de Cavalerii Teutoni în 1390"],
       en: ["UNESCO World Heritage site since 2004", "First capital of the Grand Duchy", "Consists of 5 distinct hillforts", "Destroyed by Teutonic Knights in 1390"],
     },
-    imageHint: "Kernavė hillforts aerial view green landscape",
-  },
+    imageHint: "Kernavė hillforts aerial view green landscape", image: "/poi-images/lithuania-kernave-archaeological-site-history-v2.webp"},
   {
     id: "lithuania-trakai-island-castle-history-v2",
     type: "castle",
@@ -59,8 +58,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1994", "Suprafață de aprox. 3,6 km pătrați", "Amestec de 74 de cartiere istorice", "Conține peste 1.500 de clădiri istorice"],
       en: ["UNESCO World Heritage site since 1994", "Covers about 3.6 square kilometers", "Consists of 74 different quarters", "Contains over 1,500 historical buildings"],
     },
-    imageHint: "Vilnius Old Town aerial view red roofs churches",
-  },
+    imageHint: "Vilnius Old Town aerial view red roofs churches", image: "/poi-images/lithuania-vilnius-old-town-history-v2.webp"},
   {
     id: "lithuania-ninth-fort-history-v2",
     type: "monument",
@@ -79,8 +77,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Parte din Fortăreața Kaunas (sec. XIX)", "Închisoare în perioada interbelică", "Locul a aprox. 30.000 de execuții", "Monument de 32 de metri înălțime"],
       en: ["Part of Kaunas Fortress (19th century)", "Used as a prison between the wars", "Site of approx. 30,000 murders", "32-meter high monument erected in 1984"],
     },
-    imageHint: "Kaunas Ninth Fort monument massive concrete sculpture",
-  },
+    imageHint: "Kaunas Ninth Fort monument massive concrete sculpture", image: "/poi-images/lithuania-ninth-fort-history-v2.webp"},
   {
     id: "lithuania-gediminas-tower-history-v2",
     type: "tower",
@@ -99,8 +96,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Primul castel din lemn în sec. XIV", "Turn de cărămidă din secolul XV", "Locul primei ridicări a steagului în 1919", "Găzduiește un muzeu arheologic"],
       en: ["First wooden castle built in 14th c.", "Brick tower dates to the 15th century", "Site of first national flag hoisting in 1919", "Houses an archaeological museum"],
     },
-    imageHint: "Gediminas Tower Vilnius brick tower on hill",
-  },
+    imageHint: "Gediminas Tower Vilnius brick tower on hill", image: "/poi-images/lithuania-gediminas-tower-history-v2.webp"},
   {
     id: "lithuania-palace-grand-dukes-history-v2",
     type: "palace",
@@ -119,8 +115,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Reședința marilor duci lituanieni", "Distrus aproape total în secolul XIX", "Reconstrucție finalizată în 2018", "Combină stiluri de la gotic la baroc"],
       en: ["Seat of the Lithuanian Grand Dukes", "Almost completely destroyed in 19th c.", "Reconstruction completed in 2018", "Combines Gothic, Renaissance, and Baroque"],
     },
-    imageHint: "Palace of the Grand Dukes Vilnius courtyard architecture",
-  },
+    imageHint: "Palace of the Grand Dukes Vilnius courtyard architecture", image: "/poi-images/lithuania-palace-grand-dukes-history-v2.webp"},
   {
     id: "lithuania-medininkai-castle-history-v2",
     type: "castle",
@@ -139,8 +134,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Suprafața sitului este de 6,5 hectare", "Are patru turnuri masive de apărare", "Turnul principal are 30 m înălțime", "Restaurat extensiv în 2012"],
       en: ["Covers an area of 6.5 hectares", "Features four massive defensive towers", "The main tower is 30 meters high", "Extensively restored in 2012"],
     },
-    imageHint: "Medininkai Castle brick walls and tower aerial",
-  },
+    imageHint: "Medininkai Castle brick walls and tower aerial", image: "/poi-images/lithuania-medininkai-castle-history-v2.webp"},
   {
     id: "lithuania-pazaislis-monastery-history-v2",
     type: "landmark",
@@ -159,8 +153,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Fondată în 1662 de Kristupas Pacas", "Construcția a durat peste 40 de ani", "Renumită pentru frescele valoroase", "A devenit mănăstire ortodoxă în sec. XIX"],
       en: ["Founded in 1662 by Kristupas Pacas", "Construction took over 40 years", "Famous for its valuable frescoes", "Became an Orthodox monastery in 19th c."],
     },
-    imageHint: "Pažaislis Monastery Baroque church facade dome",
-  },
+    imageHint: "Pažaislis Monastery Baroque church facade dome", image: "/poi-images/lithuania-pazaislis-monastery-history-v2.webp"},
   {
     id: "lithuania-birzai-castle-history-v2",
     type: "castle",
@@ -179,8 +172,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Construcție începută în 1586", "Sediul liniei Biržai a familiei Radziwiłł", "Distrus de suedezi în 1704", "Reconstruit în anii 1980"],
       en: ["Construction started in 1586", "Seat of the Radziwiłł 'Biržai line'", "Destroyed by Swedes in 1704", "Reconstructed in the 1980s"],
     },
-    imageHint: "Biržai Castle white walls bridge reflection",
-  },
+    imageHint: "Biržai Castle white walls bridge reflection", image: "/poi-images/lithuania-birzai-castle-history-v2.webp"},
   {
     id: "lithuania-paneriai-memorial-history-v2",
     type: "monument",
@@ -199,8 +191,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Masacre între 1941 și 1944", "Locul unor gropi sovietice nefinalizate", "Majoritatea victimelor au fost evrei lituanieni", "Găzduiește un mic muzeu"],
       en: ["Massacres took place 1941-1944", "Site of unfinished Soviet fuel pits", "Majority of victims were Lithuanian Jews", "Houses a small museum"],
     },
-    imageHint: "Paneriai Memorial stone monument forest path",
-  },
+    imageHint: "Paneriai Memorial stone monument forest path", image: "/poi-images/lithuania-paneriai-memorial-history-v2.webp"},
   {
     id: "lithuania-raudone-castle-history-v2",
     type: "castle",
@@ -219,8 +210,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Fostă moșie regală", "Reconstruit în stil Renaștere în sec. XVI", "Turn circular de 33 de metri", "Astăzi servește drept școală locală"],
       en: ["Formerly a royal estate", "Renaissance reconstruction in 16th c.", "33-meter high circular tower", "Currently serves as a local school"],
     },
-    imageHint: "Raudonė Castle red brick tower river view",
-  },
+    imageHint: "Raudonė Castle red brick tower river view", image: "/poi-images/lithuania-raudone-castle-history-v2.webp"},
   {
     id: "lithuania-kedainiai-old-town-history-v2",
     type: "town",
@@ -239,8 +229,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Fondat în anul 1372", "Reședința familiei Radziwiłł", "Are 7 biserici istorice", "Fostă colonie comercială scoțiană"],
       en: ["Founded in 1372", "Residence of the Radziwiłł family", "Home to 7 historical churches", "Former Scottish merchant colony"],
     },
-    imageHint: "Kėdainiai Old Town market square colorful houses",
-  },
+    imageHint: "Kėdainiai Old Town market square colorful houses", image: "/poi-images/lithuania-kedainiai-old-town-history-v2.webp"},
   {
     id: "lithuania-stelmuze-oak-site-history-v2",
     type: "landmark",
@@ -259,8 +248,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Vârsta estimată: 1.500-2.000 de ani", "Circumferința trunchiului: aprox. 13 m", "Loc sacru al lituanienilor păgâni", "Lângă o biserică de lemn din 1650"],
       en: ["Estimated age: 1,500 to 2,000 years", "Trunk circumference: approx. 13 meters", "Sacred site for pagan Lithuanians", "Next to a wooden church from 1650"],
     },
-    imageHint: "Stelmužė Oak massive old tree Lithuania",
-  },
+    imageHint: "Stelmužė Oak massive old tree Lithuania", image: "/poi-images/lithuania-stelmuze-oak-site-history-v2.webp"},
   {
     id: "lithuania-apuole-hillfort-history-v2",
     type: "ruins",
@@ -279,8 +267,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Menționată în cronica lui Rimbert (854)", "Locul unui asediu al suedezilor", "Centru al tribului curonian", "Găzduiește festivaluri istorice"],
       en: ["Mentioned in Rimbert's chronicle (854)", "Site of a Swedish siege in the 9th c.", "Center of the Curonian tribe", "Venue for historical reenactment festivals"],
     },
-    imageHint: "Apuolė hillfort green plateau landscape",
-  },
+    imageHint: "Apuolė hillfort green plateau landscape", image: "/poi-images/lithuania-apuole-hillfort-history-v2.webp"},
   {
     id: "lithuania-pakruojis-manor-history-v2",
     type: "palace",
@@ -299,8 +286,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Cel mai mare complex de acest tip din LT", "Deținut de familia Von Ropp", "Conține un pod arcuit rar", "Găzduiește un 'muzeu viu'"],
       en: ["Largest manor complex in Lithuania", "Owned by the Von Ropp family", "Features a rare arched bridge", "Houses a 'living museum' experience"],
     },
-    imageHint: "Pakruojis Manor neoclassical architecture bridge",
-  },
+    imageHint: "Pakruojis Manor neoclassical architecture bridge", image: "/poi-images/lithuania-pakruojis-manor-history-v2.webp"},
   {
     id: "lithuania-panemune-castle-history-v2",
     type: "castle",
@@ -319,8 +305,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Construcție începută în 1604", "Combinație de gotic și renaștere", "Are un turn cu 5 etaje", "Modernizat în stil baroc în sec. XVIII"],
       en: ["Construction began in 1604", "Mix of Gothic and Renaissance styles", "Features a 5-story tower", "Baroque renovations added in 18th c."],
     },
-    imageHint: "Panemunė Castle Renaissance towers courtyard",
-  },
+    imageHint: "Panemunė Castle Renaissance towers courtyard", image: "/poi-images/lithuania-panemune-castle-history-v2.webp"},
   {
     id: "lithuania-klaipeda-castle-history-v2",
     type: "ruins",
@@ -359,8 +344,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Construit în jurul anului 1900", "Proiectat de arhitectul Józef Huss", "Parc creat de Édouard André", "A servit drept sanatoriu KGB"],
       en: ["Built around 1900", "Designed by architect Józef Huss", "Park designed by Édouard André", "Used as a KGB sanatorium in Soviet era"],
     },
-    imageHint: "Užutrakis Manor white neoclassical facade lake",
-  },
+    imageHint: "Užutrakis Manor white neoclassical facade lake", image: "/poi-images/lithuania-uzutrakis-manor-history-v2.webp"},
   {
     id: "lithuania-cold-war-museum-history-v2",
     type: "museum",
@@ -379,8 +363,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Fostă bază militară Plokštinė", "Construită în secret în 1960", "Are silozuri de 27 m adâncime", "Găzduia rachete de tip R-12 Dvina"],
       en: ["Former Plokštinė missile base", "Built in strict secrecy in 1960", "Features 27-meter deep silos", "Housed R-12 Dvina missiles"],
     },
-    imageHint: "Cold War Museum Lithuania missile silo underground",
-  },
+    imageHint: "Cold War Museum Lithuania missile silo underground", image: "/poi-images/lithuania-cold-war-museum-history-v2.webp"},
   {
     id: "lithuania-liubavas-manor-history-v2",
     type: "palace",
@@ -399,8 +382,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Menționat în registrul regal în 1546", "Deținut de Sigismund August", "Moara de apă a primit premiul Europa Nostra", "Combină elemente baroce și clasice"],
       en: ["Mentioned in royal treasury book (1546)", "Once owned by Sigismund Augustus", "Award-winning restored watermill", "Combines Baroque and Classicist elements"],
     },
-    imageHint: "Liubavas Manor stone watermill museum",
-  },
+    imageHint: "Liubavas Manor stone watermill museum", image: "/poi-images/lithuania-liubavas-manor-history-v2.webp"},
   {
     id: "lithuania-norviliskes-castle-history-v2",
     type: "castle",
@@ -419,8 +401,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Construit la începutul secolului XVII", "Fostă mănăstire franciscană", "Frontoane renascentiste caracteristice", "Cunoscut pentru festivalul 'Be2gether'"],
       en: ["Built in the early 17th century", "Former Franciscan monastery", "Characteristic Renaissance gables", "Known as the venue for 'Be2gether' festival"],
     },
-    imageHint: "Norviliškės Castle Renaissance architecture facade",
-  },
+    imageHint: "Norviliškės Castle Renaissance architecture facade", image: "/poi-images/lithuania-norviliskes-castle-history-v2.webp"},
   {
     id: "lithuania-taurage-castle-history-v2",
     type: "castle",
@@ -459,8 +440,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Construit la începutul secolului XVI", "Fresce renascentiste descoperite în interior", "Situat pe malul lacului Siesikai", "Monument arhitectural unic în Lituania"],
       en: ["Built in the early 16th century", "Renaissance frescoes discovered inside", "Located on the shore of Lake Siesikai", "Unique architectural monument of Lithuania"],
     },
-    imageHint: "Siesikai Castle Renaissance building lake view",
-  },
+    imageHint: "Siesikai Castle Renaissance building lake view", image: "/poi-images/lithuania-siesikai-castle-history-v2.webp"},
   {
     id: "lithuania-rumsiskes-museum-history-v2",
     type: "museum",
@@ -479,8 +459,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Suprafață de 195 de hectare", "Cel mai mare muzeu de acest tip din Baltice", "Peste 140 de clădiri din 5 regiuni", "Fondat în anul 1966"],
       en: ["Covers 195 hectares of land", "Largest open-air museum in the Baltics", "Over 140 buildings from 5 regions", "Founded in 1966"],
     },
-    imageHint: "Rumšiškės Open Air Museum wooden farmhouses",
-  },
+    imageHint: "Rumšiškės Open Air Museum wooden farmhouses", image: "/poi-images/lithuania-rumsiskes-museum-history-v2.webp"},
   {
     id: "lithuania-plunge-manor-history-v2",
     type: "palace",
@@ -519,8 +498,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Construită în jurul anului 1578", "Capodoperă a stilului gotic de cărămidă", "Adesea amenințată de inundații", "Servește ca spațiu pentru concerte"],
       en: ["Built around 1578", "Masterpiece of brick Gothic style", "Often threatened by river floods", "Currently used as a concert venue"],
     },
-    imageHint: "Zapyškis Church brick Gothic river meadow",
-  },
+    imageHint: "Zapyškis Church brick Gothic river meadow", image: "/poi-images/lithuania-zapyskis-church-history-v2.webp"},
   {
     id: "lithuania-saule-battlefield-history-v2",
     type: "battlefield",
@@ -539,8 +517,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Data bătăliei: 22 septembrie 1236", "Victorie a samogiților și lituanienilor", "Sfârșitul Ordinului Fraților de Sabie", "Memorial situat pe movila Jauniūnai"],
       en: ["Battle date: September 22, 1236", "Victory of Samogitians and Lithuanians", "Ended the Order of Sword Brothers", "Memorial located at Jauniūnai mound"],
     },
-    imageHint: "Battle of Saulė memorial wooden sculptures",
-  },
+    imageHint: "Battle of Saulė memorial wooden sculptures", image: "/poi-images/lithuania-saule-battlefield-history-v2.webp"},
   {
     id: "lithuania-varniai-diocese-history-v2",
     type: "town",
@@ -559,8 +536,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Sediu episcopal între 1417 și 1864", "Centru al limbii lituaniene scrise", "Are o catedrală construită în 1691", "Locul de activitate al lui Motiejus Valančius"],
       en: ["Seat of diocese from 1417 to 1864", "Center of written Lithuanian language", "Home to a cathedral built in 1691", "Where Motiejus Valančius worked"],
     },
-    imageHint: "Varniai Cathedral church history Lithuania",
-  },
+    imageHint: "Varniai Cathedral church history Lithuania", image: "/poi-images/lithuania-varniai-diocese-history-v2.webp"},
   {
     id: "lithuania-kretinga-manor-history-v2",
     type: "palace",
@@ -579,8 +555,7 @@ export const lithuaniaHistoryV2: POI[] = [
       ro: ["Cea mai mare grădină de iarnă din E-Eur", "Proprietate a conților Tyszkiewicz", "Construit în secolul XIX", "Găzduiește Muzeul din Kretinga"],
       en: ["Largest winter garden in Eastern Europe", "Owned by the Tyszkiewicz counts", "Built in the 19th century", "Currently houses the Kretinga Museum"],
     },
-    imageHint: "Kretinga Manor glass winter garden palace",
-  },
+    imageHint: "Kretinga Manor glass winter garden palace", image: "/poi-images/lithuania-kretinga-manor-history-v2.webp"},
   {
     id: "lithuania-radviliskis-battlefield-history-v2",
     type: "battlefield",

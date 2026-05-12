@@ -19,8 +19,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Fondat în secolul al IV-lea î.Hr.", "Teatru cu 7.500 de locuri.", "Capitala tribului Bylliones.", "Devenit ulterior colonie romană."],
       en: ["Founded in the 4th century BC.", "Theater held 7,500 spectators.", "Capital of the Bylliones tribe.", "Became a Roman colony later."],
     },
-    imageHint: "Ancient ruins of Byllis theater with Vjosa valley view",
-  },
+    imageHint: "Ancient ruins of Byllis theater with Vjosa valley view", image: "/poi-images/albania-byllis-history-v2.webp"},
   {
     id: "albania-amantia-history-v2",
     type: "ruins",
@@ -39,8 +38,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Fondat în secolul al IV-lea î.Hr.", "Stadionul are 300 de locuri.", "Dedicat zeiței Afrodita.", "Controla accesul către mare."],
       en: ["Founded in the 4th century BC.", "Stadium seats 300 spectators.", "Dedicated to the god Aphrodite.", "Controlled access to the sea."],
     },
-    imageHint: "Ancient stadium of Amantia in Albania",
-  },
+    imageHint: "Ancient stadium of Amantia in Albania", image: "/poi-images/albania-amantia-history-v2.webp"},
   {
     id: "albania-antigonea-history-v2",
     type: "ruins",
@@ -59,8 +57,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Construit în anul 295 î.Hr.", "Distrus de romani în 167 î.Hr.", "Acoperă aproximativ 45 de hectare.", "Cunoscut pentru podelele cu mozaic."],
       en: ["Built in 295 BC.", "Destroyed by Romans in 167 BC.", "Covers about 45 hectares.", "Known for its mosaic floors."],
     },
-    imageHint: "Archaeological park of Antigonea ruins",
-  },
+    imageHint: "Archaeological park of Antigonea ruins", image: "/poi-images/albania-antigonea-history-v2.webp"},
   {
     id: "albania-oricum-history-v2",
     type: "ruins",
@@ -79,8 +76,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Fondat de coloniști greci.", "Menționat de Iulius Cezar.", "Săpat într-un deal de calcar.", "Folosit ca bază navală."],
       en: ["Established by Greek colonists.", "Mentioned by Julius Caesar.", "Carved out of a limestone hill.", "Used as a naval base."],
     },
-    imageHint: "Ancient theater of Oricum near the sea",
-  },
+    imageHint: "Ancient theater of Oricum near the sea", image: "/poi-images/albania-oricum-history-v2.webp"},
   {
     id: "albania-phoenice-history-v2",
     type: "ruins",
@@ -99,8 +95,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Tratatul de la Phoenice semnat aici.", "Agora este una dintre cele mai mari.", "Ocupat timp de peste 1.000 de ani.", "Situat pe un deal înalt."],
       en: ["Treaty of Phoenice signed here.", "Agora is one of the largest.", "Occupied for over 1,000 years.", "Located on a high hill."],
     },
-    imageHint: "Ruins of Phoenice archaeological park Finiq",
-  },
+    imageHint: "Ruins of Phoenice archaeological park Finiq", image: "/poi-images/albania-phoenice-history-v2.webp"},
   {
     id: "albania-durres-amphitheatre-history-v2",
     type: "theater",
@@ -119,8 +114,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Capacitate de 20.000 de persoane.", "Redescoperit în anii 1960.", "Pe lista tentativă UNESCO.", "Situat în centrul orașului."],
       en: ["Capacity of 20,000 people.", "Rediscovered in the 1960s.", "Part of the UNESCO tentative list.", "Located in the city center."],
     },
-    imageHint: "Durres Roman Amphitheatre aerial view",
-  },
+    imageHint: "Durres Roman Amphitheatre aerial view", image: "/poi-images/albania-durres-amphitheatre-history-v2.webp"},
   {
     id: "albania-preza-castle-history-v2",
     type: "castle",
@@ -139,8 +133,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XV-lea.", "Controla drumul Tirana-Durres.", "Formă pentagonală cu patru turnuri.", "Conectat de liga lui Skanderbeg."],
       en: ["Built in the 15th century.", "Controlled the Tirana-Durres road.", "Pentagonal shape with four towers.", "Connected to Skanderbeg's league."],
     },
-    imageHint: "Preza Castle tower with Tirana landscape",
-  },
+    imageHint: "Preza Castle tower with Tirana landscape", image: "/poi-images/albania-preza-castle-history-v2.webp"},
   {
     id: "albania-petrela-castle-history-v2",
     type: "castle",
@@ -159,8 +152,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Originile datează de la Iustinian I.", "Structură triunghiulară cu două turnuri.", "Vizibil din orașul Tirana.", "În prezent găzduiește un restaurant."],
       en: ["Origins date back to Justinian I.", "Triangular structure with two towers.", "Visible from Tirana city.", "Restaurant now located inside."],
     },
-    imageHint: "Petrela Castle on a rocky hill at sunset",
-  },
+    imageHint: "Petrela Castle on a rocky hill at sunset", image: "/poi-images/albania-petrela-castle-history-v2.webp"},
   {
     id: "albania-bashtove-castle-history-v2",
     type: "castle",
@@ -179,8 +171,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XV-lea.", "Formă dreptunghiulară 60x90 metri.", "Zidurile au 9 metri înălțime.", "Sit pe lista tentativă UNESCO."],
       en: ["Built in the 15th century.", "Rectangular shape 60x90 meters.", "Walls are 9 meters high.", "UNESCO tentative list site."],
     },
-    imageHint: "Bashtove Castle walls in the field",
-  },
+    imageHint: "Bashtove Castle walls in the field", image: "/poi-images/albania-bashtove-castle-history-v2.webp"},
   {
     id: "albania-porto-palermo-castle-history-v2",
     type: "castle",
@@ -199,8 +190,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Situat pe o mică peninsulă.", "Prezintă bolți bine conservate.", "Folosit ca bază sovietică de submarine.", "Domină Marea Ionică."],
       en: ["Located on a small peninsula.", "Features well-preserved vaults.", "Used as a Soviet submarine base.", "Overlooks the Ionian Sea."],
     },
-    imageHint: "Porto Palermo Castle triangular fortress",
-  },
+    imageHint: "Porto Palermo Castle triangular fortress", image: "/poi-images/albania-porto-palermo-castle-history-v2.webp"},
   {
     id: "albania-tepelena-castle-history-v2",
     type: "castle",
@@ -219,8 +209,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Reconstruit în 1811.", "Acoperă 4,5 hectare.", "Vizitat de Byron în 1809.", "Punct strategic pentru valea Vjosa."],
       en: ["Rebuilt in 1811.", "Covers 4.5 hectares.", "Visited by Byron in 1809.", "Strategy point for the Vjosa valley."],
     },
-    imageHint: "Tepelena Castle walls and Ali Pasha statue",
-  },
+    imageHint: "Tepelena Castle walls and Ali Pasha statue", image: "/poi-images/albania-tepelena-castle-history-v2.webp"},
   {
     id: "albania-kanine-castle-history-v2",
     type: "castle",
@@ -239,8 +228,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Construit pe fundații ilire.", "Extins de Iustinian I.", "Reședința Principatului Valona.", "Oferă vedere spre insula Sazan."],
       en: ["Built on Illyrian foundations.", "Expanded by Justinian I.", "Residence of the Principality of Valona.", "Offers view of Sazan Island."],
     },
-    imageHint: "Kanine Castle ruins overlooking Vlora bay",
-  },
+    imageHint: "Kanine Castle ruins overlooking Vlora bay", image: "/poi-images/albania-kanine-castle-history-v2.webp"},
   {
     id: "albania-himara-castle-history-v2",
     type: "castle",
@@ -259,8 +247,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Așezare continuă de 3500 de ani.", "Prezintă fresce din secolul al XIII-lea.", "Influențe bizantine și otomane.", "Inima regiunii Himara."],
       en: ["Continuous settlement for 3500 years.", "Features 13th-century frescoes.", "Byzantine and Ottoman influences.", "Heart of the Himara region."],
     },
-    imageHint: "Himara old town castle ruins",
-  },
+    imageHint: "Himara old town castle ruins", image: "/poi-images/albania-himara-castle-history-v2.webp"},
   {
     id: "albania-borsh-castle-history-v2",
     type: "castle",
@@ -279,8 +266,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Menționat pentru prima dată în 1258.", "Construit pe un vârf de 500 m.", "Moschee construită în secolul XVIII.", "Controla drumul de coastă."],
       en: ["First mentioned in 1258.", "Built on a 500m high peak.", "Mosque built in the 18th century.", "Controlled the coastal road."],
     },
-    imageHint: "Borsh Castle ruins on the mountain peak",
-  },
+    imageHint: "Borsh Castle ruins on the mountain peak", image: "/poi-images/albania-borsh-castle-history-v2.webp"},
   {
     id: "albania-libohove-castle-history-v2",
     type: "castle",
@@ -299,8 +285,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Construit între 1796 și 1798.", "Are patru turnuri masive de colț.", "Turnul cu ceas adăugat ulterior.", "Sit strategic lângă Gjirokastra."],
       en: ["Built between 1796 and 1798.", "Features four massive corner towers.", "Clock tower added later.", "Strategic site near Gjirokastra."],
     },
-    imageHint: "Libohove Castle towers and Drino valley",
-  },
+    imageHint: "Libohove Castle towers and Drino valley", image: "/poi-images/albania-libohove-castle-history-v2.webp"},
   {
     id: "albania-peqin-castle-history-v2",
     type: "castle",
@@ -319,8 +304,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Ziduri actuale din secolul XV.", "Cunoscut sub numele de Claudiana.", "Turn cu ceas în apropiere.", "A servit drept garnizoană militară."],
       en: ["Current walls from the 15th century.", "Known as Claudiana in Roman times.", "Features a clock tower nearby.", "Served as a military garrison."],
     },
-    imageHint: "Peqin Castle fortress walls in Albania",
-  },
+    imageHint: "Peqin Castle fortress walls in Albania", image: "/poi-images/albania-peqin-castle-history-v2.webp"},
   {
     id: "albania-ishmi-castle-history-v2",
     type: "castle",
@@ -339,8 +323,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Construit în anul 1574.", "Domină Marea Adriatică.", "Ziduri de apărare dreptunghiulare.", "Punct strategic pe râul Ishm."],
       en: ["Built in 1574.", "Overlooks the Adriatic Sea.", "Rectangular defensive walls.", "Strategic point for the Ishm river."],
     },
-    imageHint: "Ishmi Castle ruins and Ibrahim Kodra grave",
-  },
+    imageHint: "Ishmi Castle ruins and Ibrahim Kodra grave", image: "/poi-images/albania-ishmi-castle-history-v2.webp"},
   {
     id: "albania-rodoni-castle-history-v2",
     type: "castle",
@@ -359,8 +342,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Finalizat în anul 1463.", "Parțial scufundat în mare.", "Dedicat Sfântului Anton.", "Bază navală pentru Skanderbeg."],
       en: ["Completed in 1463.", "Partly submerged in the sea.", "Dedicated to Saint Anthony.", "Strategic naval base for Skanderbeg."],
     },
-    imageHint: "Rodoni Castle ruins on Cape Rodon beach",
-  },
+    imageHint: "Rodoni Castle ruins on Cape Rodon beach", image: "/poi-images/albania-rodoni-castle-history-v2.webp"},
   {
     id: "albania-mes-bridge-history-v2",
     type: "bridge",
@@ -379,8 +361,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Construit în jurul anului 1770.", "Lungime de 108 metri.", "Arcul central are 14 metri înălțime.", "Comandat de Kara Mahmud Bushati."],
       en: ["Built around 1770.", "Length of 108 meters.", "Central arch is 14 meters high.", "Commissioned by Kara Mahmud Bushati."],
     },
-    imageHint: "Mes Bridge ottoman stone bridge near Shkoder",
-  },
+    imageHint: "Mes Bridge ottoman stone bridge near Shkoder", image: "/poi-images/albania-mes-bridge-history-v2.webp"},
   {
     id: "albania-selca-e-poshtme-history-v2",
     type: "ruins",
@@ -399,8 +380,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Datat în secolele IV-III î.Hr.", "Cinci morminte săpate în stâncă.", "Arhitectură ionică unică.", "Situat lângă Lacul Ohrid."],
       en: ["Dated to the 4th-3rd century BC.", "Five distinct rock-cut tombs.", "Unique Ionic architecture.", "Located near Lake Ohrid."],
     },
-    imageHint: "Illyrian royal tombs at Selca e Poshtme",
-  },
+    imageHint: "Illyrian royal tombs at Selca e Poshtme", image: "/poi-images/albania-selca-e-poshtme-history-v2.webp"},
   {
     id: "albania-hadrianopolis-history-v2",
     type: "theater",
@@ -419,8 +399,7 @@ export const albaniaHistoryV2: POI[] = [
       ro: ["Teatrul are 4.000 de locuri.", "Parte din parcul arheologic Sofratika.", "Construit în secolul al II-lea d.Hr.", "Centrul provinciei romane."],
       en: ["Theater seats 4,000 people.", "Part of the Sofratika archaeological park.", "Built in the 2nd century AD.", "Center of the Roman province."],
     },
-    imageHint: "Roman theater of Hadrianopolis Sofratika",
-  },
+    imageHint: "Roman theater of Hadrianopolis Sofratika", image: "/poi-images/albania-hadrianopolis-history-v2.webp"},
   {
     id: "albania-ethem-bey-mosque-history-v2",
     type: "monument",

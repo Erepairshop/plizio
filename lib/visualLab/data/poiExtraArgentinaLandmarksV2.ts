@@ -1143,7 +1143,6 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       de: ["1932 fertiggestellt und 1948 eingeweiht.", "Liegt auf 4.220 Metern ?ber dem Meeresspiegel.", "Der Viadukt ist 224 Meter lang.", "Das Bauwerk wiegt ?ber 1.600 Tonnen.", "Er ist Teil des Tren a las Nubes.", "Der Standort liegt in den Anden der Provinz Salta.", "Die Stahlkonstruktion wirkt in der Hochgebirgslandschaft besonders markant.", "Der Viadukt gehört zu den bekanntesten Eisenbahn-Symbolen Argentiniens."],
       hu: ["1932-ben készült el, 1948-ban avatták fel.", "224 méter hosszú.", "Több mint 1600 tonnát nyom.", "Az íve 200 méteres sugarú.", "A General Belgrano vasúthálózat legmagasabb pontja.", "Richard Maury mérnök tervezte."],
       ro: ["A fost finalizat în 1932 și inaugurat în 1948.", "Se află la 4.220 de metri altitudine.", "Are 224 de metri lungime.", "Se ridică la 63 de metri deasupra canionului.", "A fost construit doar cu nituri, fără sudură.", "Este parte din Tren a las Nubes.", "A fost proiectat de inginerul Richard Maury."]
-    }
-  },
+    }, image: "/poi-images/viaducto-la-polvorilla-landmarks-v2.webp"},
 ];
 

@@ -19,8 +19,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Cea mai mare biserică", "Construită între 1506-1626", "Cupolă de Michelangelo", "Capacitate de 60.000 oameni"],
       en: ["World's largest church", "Built between 1506-1626", "Michelangelo designed dome", "Capacity of 60,000 people"],
     },
-    imageHint: "St. Peter's Basilica facade and dome",
-  },
+    imageHint: "St. Peter's Basilica facade and dome", image: "/poi-images/vatican-st-peters-basilica-cities-v2.webp"},
   {
     id: "vatican-st-peters-square-cities-v2",
     type: "landmark",
@@ -39,8 +38,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Proiectată de Bernini", "Obelisc egiptean central", "Capacitate 300.000 persoane", "284 coloane în colonadă"],
       en: ["Designed by Bernini", "Central Egyptian obelisk", "Capacity of 300,000 people", "284 columns in colonnades"],
     },
-    imageHint: "St. Peter's Square aerial view",
-  },
+    imageHint: "St. Peter's Square aerial view", image: "/poi-images/vatican-st-peters-square-cities-v2.webp"},
   {
     id: "vatican-st-peters-dome-cities-v2",
     type: "tower",
@@ -79,8 +77,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Sediul guvernului Vaticanului", "Construit între 1927-1931", "Arhitect Giuseppe Momo", "Vedere spre bazilică"],
       en: ["Government seat of Vatican", "Built 1927-1931", "Architect Giuseppe Momo", "Overlooks St. Peter's"],
     },
-    imageHint: "Governatorato Palace Vatican City",
-  },
+    imageHint: "Governatorato Palace Vatican City", image: "/poi-images/vatican-governatorato-palace-cities-v2.webp"},
   {
     id: "vatican-st-stephen-abyssinians-cities-v2",
     type: "church",
@@ -99,8 +96,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Cea mai veche biserică", "Construită în secolul V", "Biserica națională etiopiană", "Restaurată în 1159 și 1706"],
       en: ["Oldest church in Vatican", "Dates to 5th century", "Ethiopian national church", "Restored in 1159 and 1706"],
     },
-    imageHint: "Santo Stefano degli Abissini facade",
-  },
+    imageHint: "Santo Stefano degli Abissini facade", image: "/poi-images/vatican-st-stephen-abyssinians-cities-v2.webp"},
   {
     id: "vatican-ethiopian-college-cities-v2",
     type: "university",
@@ -119,8 +115,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Singura școală din Vatican", "Fondată în 1919", "Situată în grădini", "Seminariști etiopieni"],
       en: ["Only school inside Vatican", "Founded in 1919", "Located within the gardens", "For Ethiopian seminarians"],
     },
-    imageHint: "Pontifical Ethiopian College building",
-  },
+    imageHint: "Pontifical Ethiopian College building", image: "/poi-images/vatican-ethiopian-college-cities-v2.webp"},
   {
     id: "vatican-tower-san-giovanni-cities-v2",
     type: "tower",
@@ -139,8 +134,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Parte a zidului leonin", "Construit în secolul IX", "Reședință de vară papală", "Casă de oaspeți oficială"],
       en: ["Part of Leonine Wall", "Built in 9th century", "Papal summer residence", "Official guesthouse"],
     },
-    imageHint: "Tower of San Giovanni Vatican Gardens",
-  },
+    imageHint: "Tower of San Giovanni Vatican Gardens", image: "/poi-images/vatican-tower-san-giovanni-cities-v2.webp"},
   {
     id: "vatican-railway-station-cities-v2",
     type: "landmark",
@@ -159,8 +153,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Cea mai mică rețea feroviară", "Deschisă în 1934", "Doar 300 metri de șine", "Clădire de recepție somptuoasă"],
       en: ["Smallest rail network", "Opened in 1934", "Only 300 meters of track", "Ornate station building"],
     },
-    imageHint: "Vatican City railway station building",
-  },
+    imageHint: "Vatican City railway station building", image: "/poi-images/vatican-railway-station-cities-v2.webp"},
   {
     id: "vatican-heliport-cities-v2",
     type: "landmark",
@@ -199,8 +192,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["18 săli de pictură", "Lucrări de Rafael", "Fondată în 1932", "Colecția picturală papală"],
       en: ["18 rooms of paintings", "Works by Raphael", "Founded in 1932", "Papal painting collection"],
     },
-    imageHint: "Pinacoteca Vaticana gallery hall",
-  },
+    imageHint: "Pinacoteca Vaticana gallery hall", image: "/poi-images/vatican-pinacoteca-vaticana-cities-v2.webp"},
   {
     id: "vatican-gregorian-etruscan-museum-cities-v2",
     type: "museum",
@@ -219,8 +211,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Fondat în 1837", "Colecție de vase etrusce", "Artefacte din morminte", "Bijuterii antice"],
       en: ["Founded in 1837", "Etruscan vases", "Grave goods from Regolini", "Ancient gold jewelry"],
     },
-    imageHint: "Etruscan pottery Vatican Museum",
-  },
+    imageHint: "Etruscan pottery Vatican Museum", image: "/poi-images/vatican-gregorian-etruscan-museum-cities-v2.webp"},
   {
     id: "vatican-missionary-museum-cities-v2",
     type: "museum",
@@ -239,8 +230,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Acum numit 'Anima Mundi'", "Obiecte de artă globală", "Fondat în 1926", "Piese etnologice"],
       en: ["Now 'Anima Mundi'", "Global artworks", "Founded in 1926", "Ethnological exhibits"],
     },
-    imageHint: "Ethnological artifacts Vatican Museum",
-  },
+    imageHint: "Ethnological artifacts Vatican Museum", image: "/poi-images/vatican-missionary-museum-cities-v2.webp"},
   {
     id: "vatican-pio-clementine-museum-cities-v2",
     type: "museum",
@@ -259,8 +249,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Grupul statuar Laocoon", "Sculpturi antice", "Fondat în 1771", "Curte octogonală"],
       en: ["Laocoön sculpture", "Ancient sculptures", "Founded in 1771", "Octagonal courtyard"],
     },
-    imageHint: "Laocoön sculpture Vatican Museum",
-  },
+    imageHint: "Laocoön sculpture Vatican Museum", image: "/poi-images/vatican-pio-clementine-museum-cities-v2.webp"},
   {
     id: "vatican-chiaramonti-museum-cities-v2",
     type: "museum",
@@ -279,8 +268,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Sute de busturi romane", "Proiectat de Canova", "Galerie lungă", "Portrete clasice"],
       en: ["Hundreds of Roman busts", "Designed by Canova", "Long gallery", "Classical portrait art"],
     },
-    imageHint: "Chiaramonti Museum gallery busts",
-  },
+    imageHint: "Chiaramonti Museum gallery busts", image: "/poi-images/vatican-chiaramonti-museum-cities-v2.webp"},
   {
     id: "vatican-gallery-of-maps-cities-v2",
     type: "museum",
@@ -299,8 +287,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Coridor de 120 metri", "Hărți ale Italiei", "Construit în 1580-1583", "Tavan aurit"],
       en: ["120-meter long corridor", "Maps of Italy", "Built 1580-1583", "Golden ceiling"],
     },
-    imageHint: "Gallery of Maps Vatican Museum interior",
-  },
+    imageHint: "Gallery of Maps Vatican Museum interior", image: "/poi-images/vatican-gallery-of-maps-cities-v2.webp"},
   {
     id: "vatican-pinecone-courtyard-cities-v2",
     type: "landmark",
@@ -319,8 +306,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Con de pin antic", "Sculptură de Pomodoro", "Parte a muzeelor", "Pigna de 4 metri"],
       en: ["Ancient bronze pinecone", "Pomodoro sculpture", "Part of the Museums", "4-meter high pinecone"],
     },
-    imageHint: "Sphere within Sphere sculpture Vatican",
-  },
+    imageHint: "Sphere within Sphere sculpture Vatican", image: "/poi-images/vatican-pinecone-courtyard-cities-v2.webp"},
   {
     id: "vatican-leonine-walls-cities-v2",
     type: "monument",
@@ -339,8 +325,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Construite în secolul IX", "Protecție contra sarazinilor", "Granița Vaticanului", "Papa Leon al IV-lea"],
       en: ["Built in 9th century", "Protection against Saracens", "Border of the Vatican", "Pope Leo IV"],
     },
-    imageHint: "Leonine Walls Vatican City",
-  },
+    imageHint: "Leonine Walls Vatican City", image: "/poi-images/vatican-leonine-walls-cities-v2.webp"},
   {
     id: "vatican-domus-sanctae-marthae-cities-v2",
     type: "palace",
@@ -359,8 +344,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Reședința Papei Francisc", "Locuință pentru cardinali", "Construită în 1996", "Casă de oaspeți papală"],
       en: ["Residence of Pope Francis", "Cardinal accommodation", "Built in 1996", "Vatican guesthouse"],
     },
-    imageHint: "Domus Sanctae Marthae building Vatican",
-  }
+    imageHint: "Domus Sanctae Marthae building Vatican", image: "/poi-images/vatican-domus-sanctae-marthae-cities-v2.webp"}
 ,
   {
     id: "vatican-san-damaso-courtyard-cities-v2",
@@ -417,8 +401,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Fondată în 1941", "30 de pompieri activi", "Serviciu de 24 de ore", "Vehicule de intervenție proprii"],
       en: ["Founded in 1941", "30 active firefighters", "24-hour service", "Equipped with custom vehicles"],
     },
-    imageHint: "Vatican Fire Brigade station",
-  },
+    imageHint: "Vatican Fire Brigade station", image: "/poi-images/vatican-fire-station-cities-v2.webp"},
   {
     id: "vatican-san-carlo-palace-cities-v2",
     type: "palace",
@@ -436,8 +419,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Construit în 1932", "Zonă rezidențială clericală", "Lângă Santa Marta", "Edificiu administrativ modern"],
       en: ["Built in 1932", "Clerical residence area", "Near Santa Marta", "Modern administrative style"],
     },
-    imageHint: "Palazzo San Carlo Vatican City",
-  },
+    imageHint: "Palazzo San Carlo Vatican City", image: "/poi-images/vatican-san-carlo-palace-cities-v2.webp"},
   {
     id: "vatican-oven-square-cities-v2",
     type: "landmark",
@@ -455,8 +437,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Locul brutăriei istorice", "Lângă farmacie", "Centru logistic", "Parte a zonei de aprovizionare"],
       en: ["Site of historical bakery", "Near the pharmacy", "Logistics hub", "Part of the supply zone"],
     },
-    imageHint: "Piazza del Forno Vatican City",
-  },
+    imageHint: "Piazza del Forno Vatican City", image: "/poi-images/vatican-oven-square-cities-v2.webp"},
   {
     id: "vatican-typography-street-cities-v2",
     type: "landmark",
@@ -474,8 +455,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Centru editorial", "Sediul L'Osservatore Romano", "Locația tipografiei", "Arteră internă importantă"],
       en: ["Publishing center", "L'Osservatore Romano HQ", "Printing press site", "Key internal thoroughfare"],
     },
-    imageHint: "Via della Tipografia Vatican City",
-  },
+    imageHint: "Via della Tipografia Vatican City", image: "/poi-images/vatican-typography-street-cities-v2.webp"},
   {
     id: "vatican-bronze-door-cities-v2",
     type: "monument",
@@ -493,8 +473,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Proiectată de Bernini", "Acces la palatul papal", "Postul Gărzii Elvețiene", "Capodoperă barocă"],
       en: ["Designed by Bernini", "Apostolic Palace access", "Swiss Guard post", "Baroque masterpiece"],
     },
-    imageHint: "Portone di Bronzo Vatican Swiss Guard",
-  },
+    imageHint: "Portone di Bronzo Vatican Swiss Guard", image: "/poi-images/vatican-bronze-door-cities-v2.webp"},
   {
     id: "vatican-gendarmerie-barracks-cities-v2",
     type: "landmark",
@@ -512,8 +491,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Fondată în 1816", "Sediul securității", "Lângă Poarta Sfânta Ana", "130 de ofițeri activi"],
       en: ["Founded in 1816", "Security headquarters", "Near St. Anne's Gate", "130 active officers"],
     },
-    imageHint: "Gendarmeria Vaticana barracks",
-  },
+    imageHint: "Gendarmeria Vaticana barracks", image: "/poi-images/vatican-gendarmerie-barracks-cities-v2.webp"},
   {
     id: "vatican-santa-maria-pieta-cities-v2",
     type: "church",
@@ -531,8 +509,7 @@ export const vaticanCitiesV2: POI[] = [
       ro: ["Construită în jurul anului 1500", "Biserică națională germană", "Interior artistic", "Lângă Bazilica Sf. Petru"],
       en: ["Built around 1500", "German national church", "Artistic interior", "Near St. Peter's Basilica"],
     },
-    imageHint: "Santa Maria della Pietà in Campo Santo Teutonico",
-  },
+    imageHint: "Santa Maria della Pietà in Campo Santo Teutonico", image: "/poi-images/vatican-santa-maria-pieta-cities-v2.webp"},
   {
     id: "vatican-postal-square-cities-v2",
     type: "landmark",

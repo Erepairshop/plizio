@@ -19,8 +19,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Ďumbier la 2043 m.", "Se întinde pe o lungime de aproximativ 80 km.", "Găzduiește cel mai mare sistem de peșteri din țară.", "A fost declarat parc național în anul 1978."],
       en: ["Highest peak is Ďumbier at 2043 m.", "Extends over a length of about 80 km.", "Home to the largest cave system in Slovakia.", "Declared a national park in 1978."],
     },
-    imageHint: "Dumbier peak in Low Tatras during summer",
-  },
+    imageHint: "Dumbier peak in Low Tatras during summer", image: "/poi-images/slovakia-low-tatras-nature-v2.webp"},
   {
     id: "slovakia-mala-fatra-nature-v2",
     type: "mountain",
@@ -39,8 +38,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Veľký Kriváň (1709 m).", "Găzduiește spectaculoasa cascadă Šútovo.", "Este un habitat pentru urși bruni și râși.", "Este divizat în două părți de râul Váh."],
       en: ["The highest peak is Veľký Kriváň (1709 m).", "Home to the spectacular Šútovo waterfall.", "A habitat for brown bears and lynxes.", "Divided into two parts by the Váh river."],
     },
-    imageHint: "Velky Rozsutec peak in Mala Fatra",
-  },
+    imageHint: "Velky Rozsutec peak in Mala Fatra", image: "/poi-images/slovakia-mala-fatra-nature-v2.webp"},
   {
     id: "slovakia-velka-fatra-nature-v2",
     type: "mountain",
@@ -59,8 +57,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Ostredok la 1596 m.", "Parcul național a fost înființat în anul 2002.", "Faimos pentru prezența tisei europene.", "Include satul istoric Vlkolínec."],
       en: ["Highest peak is Ostredok at 1596 m.", "The national park was established in 2002.", "Famous for the occurrence of the European yew.", "Encompasses the historic village of Vlkolínec."],
     },
-    imageHint: "Meadows of Velka Fatra mountains",
-  },
+    imageHint: "Meadows of Velka Fatra mountains", image: "/poi-images/slovakia-velka-fatra-nature-v2.webp"},
   {
     id: "slovakia-pieniny-nature-v2",
     type: "park",
@@ -79,8 +76,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Cel mai distinctiv vârf este Trei Coroane.", "Cel mai mic parc național din Slovacia.", "Dunajec formează granița de stat cu Polonia.", "Fondat în 1967 pe partea slovacă."],
       en: ["The most distinctive peak is Three Crowns.", "Smallest national park in Slovakia.", "The Dunajec forms the state border with Poland.", "Established in 1967 on the Slovak side."],
     },
-    imageHint: "Rafting on Dunajec river in Pieniny",
-  },
+    imageHint: "Rafting on Dunajec river in Pieniny", image: "/poi-images/slovakia-pieniny-nature-v2.webp"},
   {
     id: "slovakia-muranska-planina-nature-v2",
     type: "mountain",
@@ -99,8 +95,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Cunoscut pentru creșterea cailor huțuli.", "Cel mai înalt punct este Fabova hoľa (1439 m).", "Adăpostește peste 300 de peșteri și abisuri.", "Patria plantei endemice Daphne arbuscula."],
       en: ["Known for the breeding of Hucul horses.", "Highest point is Fabova hoľa (1439 m).", "Home to over 300 caves and abysses.", "Habitat of the endemic plant Daphne arbuscula."],
     },
-    imageHint: "Wild horses on Muranska planina plateau",
-  },
+    imageHint: "Wild horses on Muranska planina plateau", image: "/poi-images/slovakia-muranska-planina-nature-v2.webp"},
   {
     id: "slovakia-slovak-karst-nature-v2",
     type: "landmark",
@@ -119,8 +114,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Cuprinde peste 1000 de peșteri cunoscute.", "Cea mai mare zonă carstică din Europa Centrală.", "Cheile Zádielska au o lungime de 3 km.", "A devenit parc național în 2002."],
       en: ["Includes more than 1000 known caves.", "Largest karst area in Central Europe.", "The Zádiel gorge is 3 km long.", "Established as a national park in 2002."],
     },
-    imageHint: "Limestone plateau of Slovak Karst",
-  },
+    imageHint: "Limestone plateau of Slovak Karst", image: "/poi-images/slovakia-slovak-karst-nature-v2.webp"},
   {
     id: "slovakia-orava-river-nature-v2",
     type: "river",
@@ -139,8 +133,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Se varsă în râul Váh lângă Kraľovany.", "Lungimea totală este de aproximativ 60 km.", "Este folosit frecvent pentru plimbări cu barca.", "Trece pe la poalele Castelului Orava."],
       en: ["Flows into the Váh river near Kraľovany.", "The total length is about 60 km.", "Frequently used for boating trips.", "Flows past the foot of Orava Castle."],
     },
-    imageHint: "Orava river flowing under a castle",
-  },
+    imageHint: "Orava river flowing under a castle", image: "/poi-images/slovakia-orava-river-nature-v2.webp"},
   {
     id: "slovakia-vah-river-nature-v2",
     type: "river",
@@ -159,8 +152,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Lungimea totală este de 403 kilometri.", "Se formează din Váh-ul Alb și Negru.", "Se varsă în Dunăre la Komárno.", "Deține o cascadă de 22 de hidrocentrale."],
       en: ["Total length is 403 kilometers.", "Formed by the White and Black Váh.", "Flows into the Danube at Komárno.", "Features a cascade of 22 hydroelectric plants."],
     },
-    imageHint: "The Vah river landscape near Zilina",
-  },
+    imageHint: "The Vah river landscape near Zilina", image: "/poi-images/slovakia-vah-river-nature-v2.webp"},
   {
     id: "slovakia-hron-river-nature-v2",
     type: "river",
@@ -179,8 +171,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Are o lungime totală de 298 km.", "Cel mai popular râu pentru turismul nautic.", "Se varsă în Dunăre lângă Štúrovo.", "Traversează orașul Banská Bystrica."],
       en: ["Has a total length of 298 km.", "Most popular river for water tourism.", "Flows into the Danube near Štúrovo.", "Flows through the city of Banská Bystrica."],
     },
-    imageHint: "Hron river valley in central Slovakia",
-  },
+    imageHint: "Hron river valley in central Slovakia", image: "/poi-images/slovakia-hron-river-nature-v2.webp"},
   {
     id: "slovakia-ipel-river-nature-v2",
     type: "river",
@@ -199,8 +190,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Lungimea totală este de 232 km.", "Formează 140 km din granița cu Ungaria.", "Se varsă în Dunăre la Chľaba.", "Traversează orașul Šahy."],
       en: ["Total length is 232 km.", "Forms 140 km of the border with Hungary.", "Flows into the Danube at Chľaba.", "Flows through the town of Šahy."],
     },
-    imageHint: "Ipel river bordering Slovakia and Hungary",
-  },
+    imageHint: "Ipel river bordering Slovakia and Hungary", image: "/poi-images/slovakia-ipel-river-nature-v2.webp"},
   {
     id: "slovakia-zemplinska-sirava-nature-v2",
     type: "lake",
@@ -219,8 +209,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Are o suprafață de apă de 33 km².", "Adâncimea maximă este de 14,7 metri.", "A fost construit între 1961 și 1965.", "Un centru important pentru turismul de vară."],
       en: ["Has a water surface area of 33 km².", "Maximum depth is 14.7 meters.", "Built between 1961 and 1965.", "An important center for summer tourism."],
     },
-    imageHint: "Sunset over Zemplinska sirava lake",
-  },
+    imageHint: "Sunset over Zemplinska sirava lake", image: "/poi-images/slovakia-zemplinska-sirava-nature-v2.webp"},
   {
     id: "slovakia-orava-reservoir-nature-v2",
     type: "lake",
@@ -239,8 +228,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Acoperă o suprafață de aproximativ 35 km².", "În mijloc se află Insula Slanica.", "A fost finalizat în anul 1953.", "Adâncimea medie este de 15 metri."],
       en: ["Covers an area of about 35 km².", "Slanica Island is located in its center.", "Completed in 1953.", "The average depth is 15 meters."],
     },
-    imageHint: "Orava reservoir with Slanica island",
-  },
+    imageHint: "Orava reservoir with Slanica island", image: "/poi-images/slovakia-orava-reservoir-nature-v2.webp"},
   {
     id: "slovakia-liptovska-mara-nature-v2",
     type: "lake",
@@ -259,8 +247,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Al doilea lac ca volum din Slovacia.", "Numit după satul inundat Liptovská Mara.", "A fost construit între 1969 și 1975.", "Este utilizat pentru sporturi nautice și pescuit."],
       en: ["Second largest reservoir by water volume.", "Named after the submerged village of Liptovská Mara.", "Constructed between 1969 and 1975.", "Used for water sports and fishing."],
     },
-    imageHint: "Liptovska Mara lake with mountains in background",
-  },
+    imageHint: "Liptovska Mara lake with mountains in background", image: "/poi-images/slovakia-liptovska-mara-nature-v2.webp"},
   {
     id: "slovakia-morske-oko-nature-v2",
     type: "lake",
@@ -279,8 +266,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Situat la o altitudine de 618 metri.", "Are o adâncime maximă de 25 de metri.", "Face parte din pădurile de fag UNESCO.", "Scăldatul și pescuitul sunt interzise în lac."],
       en: ["Located at an altitude of 618 meters.", "Has a maximum depth of 25 meters.", "Part of the UNESCO Beech Primeval Forests area.", "Swimming and fishing are prohibited in the lake."],
     },
-    imageHint: "Crystal clear water of Morske oko lake",
-  },
+    imageHint: "Crystal clear water of Morske oko lake", image: "/poi-images/slovakia-morske-oko-nature-v2.webp"},
   {
     id: "slovakia-demanovska-cave-liberty-nature-v2",
     type: "landmark",
@@ -299,8 +285,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Descoperită în 1921 de Alois Král.", "Partea accesibilă publicului are 1,8 km.", "Râul Demänovka curge prin peșteră.", "Face parte din cel mai lung sistem de peșteri."],
       en: ["Discovered in 1921 by Alois Král.", "The part open to the public is 1.8 km long.", "The Demänovka river flows through it.", "Belongs to the longest cave system in the country."],
     },
-    imageHint: "Inside Demanovska Cave of Liberty",
-  },
+    imageHint: "Inside Demanovska Cave of Liberty", image: "/poi-images/slovakia-demanovska-cave-liberty-nature-v2.webp"},
   {
     id: "slovakia-dobsina-ice-cave-nature-v2",
     type: "landmark",
@@ -319,8 +304,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Are un volum de gheață de peste 110.000 m³.", "Descoperită în 1870 de Eugen Ruffínyi.", "Prima peșteră din Europa iluminată electric.", "Stratul de gheață are o grosime de până la 26,5 m."],
       en: ["Has an ice volume of over 110,000 m³.", "Discovered in 1870 by Eugen Ruffínyi.", "Was the first electrically lit cave in Europe.", "The ice layer is up to 26.5 meters thick."],
     },
-    imageHint: "Massive ice formations in Dobsina cave",
-  },
+    imageHint: "Massive ice formations in Dobsina cave", image: "/poi-images/slovakia-dobsina-ice-cave-nature-v2.webp"},
   {
     id: "slovakia-ochtinska-aragonite-cave-nature-v2",
     type: "landmark",
@@ -339,8 +323,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Parte a patrimoniului UNESCO din 1995.", "Descoperită accidental în anul 1954.", "Sala Calea Lactee este cea mai frumoasă parte.", "Se află în Munții Metaliferi Slovaci."],
       en: ["UNESCO World Heritage site since 1995.", "Discovered accidentally in 1954.", "The Milky Way Hall is its most beautiful part.", "Located in the Slovak Ore Mountains."],
     },
-    imageHint: "Rare aragonite crystals in Ochtinska cave",
-  },
+    imageHint: "Rare aragonite crystals in Ochtinska cave", image: "/poi-images/slovakia-ochtinska-aragonite-cave-nature-v2.webp"},
   {
     id: "slovakia-domica-cave-nature-v2",
     type: "landmark",
@@ -359,8 +342,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Descoperită în 1926 de Ján Majko.", "Adăpostește specii rare de lilieci.", "Descoperirile atestă locuirea neolitică.", "Oferă un traseu de 150 m pentru bărci."],
       en: ["Discovered in 1926 by Ján Majko.", "Home to rare bat species.", "Artifacts prove Neolithic settlement here.", "Offers a 150-meter long boat ride."],
     },
-    imageHint: "Underground river Styx in Domica cave",
-  },
+    imageHint: "Underground river Styx in Domica cave", image: "/poi-images/slovakia-domica-cave-nature-v2.webp"},
   {
     id: "slovakia-janosikove-diery-nature-v2",
     type: "valley",
@@ -379,8 +361,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Format din trei părți: Inferior, Superior și Nou.", "Include mai mult de 20 de cascade.", "Considerat unul dintre cele mai frumoase trasee.", "Dotat cu numeroase scări metalice."],
       en: ["Consists of three parts: Lower, Upper, and New Diery.", "Includes more than 20 waterfalls.", "Considered one of the most beautiful trails in Slovakia.", "Equipped with numerous metal ladders."],
     },
-    imageHint: "Waterfalls and ladders in Janosikove diery",
-  },
+    imageHint: "Waterfalls and ladders in Janosikove diery", image: "/poi-images/slovakia-janosikove-diery-nature-v2.webp"},
   {
     id: "slovakia-prosiecka-dolina-nature-v2",
     type: "valley",
@@ -399,8 +380,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Cheile au pe alocuri doar câțiva metri lățime.", "Include cascada Červené piesky de 15 m.", "Traseul de drumeție trece peste poduri și scări.", "Se află în apropierea regiunii Liptov."],
       en: ["The gorge is only a few meters wide in places.", "Features the 15-meter high Červené piesky waterfall.", "The hiking trail goes over bridges and ladders.", "Located near the Liptov region."],
     },
-    imageHint: "Deep limestone canyon of Prosiecka dolina",
-  },
+    imageHint: "Deep limestone canyon of Prosiecka dolina", image: "/poi-images/slovakia-prosiecka-dolina-nature-v2.webp"},
   {
     id: "slovakia-sulov-rocks-nature-v2",
     type: "mountain",
@@ -419,8 +399,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Cel mai înalt punct este Brada (813 m).", "Include ruinele castelului Súľov.", "Poarta Gotică este o fereastră naturală celebră.", "Rezervație naturală națională din 1973."],
       en: ["Highest point is Brada (813 m).", "Includes the ruins of Súľov Castle.", "The Gothic Gate is a famous natural rock arch.", "National nature reserve since 1973."],
     },
-    imageHint: "Unique rock formations of Sulovske skaly",
-  },
+    imageHint: "Unique rock formations of Sulovske skaly", image: "/poi-images/slovakia-sulov-rocks-nature-v2.webp"},
   {
     id: "slovakia-vihorlat-mountains-nature-v2",
     type: "mountain",
@@ -439,8 +418,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Vihorlat (1076 m).", "Format prin activitate vulcanică în neogen.", "Găzduiește lacul Morské oko.", "Puțin dezvoltat pentru turismul de masă."],
       en: ["The highest peak is Vihorlat (1076 m).", "Formed by volcanic activity in the Neogene.", "Home to the Morské oko lake.", "Little developed for mass tourism."],
     },
-    imageHint: "Forested slopes of Vihorlat mountains",
-  },
+    imageHint: "Forested slopes of Vihorlat mountains", image: "/poi-images/slovakia-vihorlat-mountains-nature-v2.webp"},
   {
     id: "slovakia-sninsky-kamen-nature-v2",
     type: "peak",
@@ -459,8 +437,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Format din Sninský kameň Mic și Mare.", "Situat la o altitudine de 1005 metri.", "Oferă o vedere panoramică asupra lacului Morské oko.", "Vârfurile sunt accesibile prin scări de fier."],
       en: ["Consists of the Small and Great Sninský kameň.", "Located at an altitude of 1005 meters.", "Offers a panoramic view of Morské oko lake.", "The summits are accessible via iron ladders."],
     },
-    imageHint: "View from Sninsky kamen rock summit",
-  },
+    imageHint: "View from Sninsky kamen rock summit", image: "/poi-images/slovakia-sninsky-kamen-nature-v2.webp"},
   {
     id: "slovakia-maninska-tiesnava-nature-v2",
     type: "valley",
@@ -479,8 +456,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Cea mai îngustă parte are doar 3,7 m lățime.", "Creat prin eroziunea pârâului Manín.", "Flancat de stânci de calcar abrupte.", "O destinație populară pentru alpiniști."],
       en: ["The narrowest part is only 3.7 meters wide.", "Created by the erosion of the Manín stream.", "Flanked by steep limestone cliffs.", "A popular destination for rock climbers."],
     },
-    imageHint: "Narrow road through Maninska tiesnava gorge",
-  },
+    imageHint: "Narrow road through Maninska tiesnava gorge", image: "/poi-images/slovakia-maninska-tiesnava-nature-v2.webp"},
   {
     id: "slovakia-kvacianska-dolina-nature-v2",
     type: "valley",
@@ -499,8 +475,7 @@ export const slovakiaNatureV2: POI[] = [
       ro: ["Oferă puncte de belvedere precum Roháč.", "Pârâul Kvačianka traversează valea.", "Morile datează din secolul al XIX-lea.", "Un loc popular pentru drumeții în familie."],
       en: ["Offers picturesque viewpoints like Roháč.", "The Kvačianka stream flows through the valley.", "The mills date back to the 19th century.", "A popular spot for family hiking."],
     },
-    imageHint: "Old water mills in Kvacianska dolina",
-  },
+    imageHint: "Old water mills in Kvacianska dolina", image: "/poi-images/slovakia-kvacianska-dolina-nature-v2.webp"},
   {
     id: "slovakia-devinska-kobyla-nature-v2",
     type: "peak",

@@ -19,8 +19,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Recunoscut ca sit Ramsar din 2003", "Găzduiește 16 specii de animale pe cale de dispariție", "Acoperă o suprafață de 94 de kilometri pătrați", "Prezența țestoaselor marine în zonele de coastă"],
       en: ["Recognized as a Ramsar site since 2003", "Home to 16 endangered animal species", "Covers an area of 94 square kilometers", "Presence of sea turtles in the coastal zones"],
     },
-    imageHint: "Butrint National Park lagoon and forest landscape",
-  },
+    imageHint: "Butrint National Park lagoon and forest landscape", image: "/poi-images/albania-butrint-national-park-life-v2.webp"},
   {
     id: "albania-dajti-national-park-life-v2",
     type: "park",
@@ -39,8 +38,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Punctul maxim este la 1.613 metri", "Înființat în anul 1966", "Cuprinde 29.384 de hectare de zonă protejată", "Prezența unor specii rare de orhidee"],
       en: ["Highest point is at 1,613 meters", "Established in the year 1966", "Covers 29,384 hectares of protected area", "Presence of rare orchid species"],
     },
-    imageHint: "Dajti mountain forest and peak Albania",
-  },
+    imageHint: "Dajti mountain forest and peak Albania", image: "/poi-images/albania-dajti-national-park-life-v2.webp"},
   {
     id: "albania-lura-national-park-life-v2",
     type: "park",
@@ -59,8 +57,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Fondat în anul 1966", "Protejează 1.280 de hectare de peisaj alpin", "Lacurile sunt situate la peste 1.700 de metri altitudine", "Prezența rarului pin balcanic"],
       en: ["Founded in the year 1966", "Protects 1,280 hectares of high mountain landscape", "The lakes are situated above 1,700 meters altitude", "Occurrence of the rare Balkan pine"],
     },
-    imageHint: "Lura National Park glacial lake and pine trees",
-  },
+    imageHint: "Lura National Park glacial lake and pine trees", image: "/poi-images/albania-lura-national-park-life-v2.webp"},
   {
     id: "albania-valbona-valley-national-park-life-v2",
     type: "park",
@@ -79,8 +76,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Cuprinde o suprafață de 8.000 de hectare", "Parte a munților transfrontalieri Prokletije", "Prezența unor specii rare de păstrăv în râu", "Resurse bogate de plante medicinale sălbatice"],
       en: ["Encompasses an area of 8,000 hectares", "Part of the cross-border Prokletije mountains", "Presence of rare trout species in the river", "Rich stocks of wild medicinal herbs"],
     },
-    imageHint: "Valbona Valley river and high peaks",
-  },
+    imageHint: "Valbona Valley river and high peaks", image: "/poi-images/albania-valbona-valley-national-park-life-v2.webp"},
   {
     id: "albania-divjaka-karavasta-national-park-life-v2",
     type: "wildlife",
@@ -99,8 +95,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Găzduiește 5% din populația mondială de pelicani creți", "Suprafața este de aproximativ 222 de kilometri pătrați", "Loc important de popas pentru păsările migratoare", "Habitat natural pentru pinul mediteranean"],
       en: ["Hosts 5% of the global Dalmatian pelican population", "Area is approximately 222 square kilometers", "Important resting place for migratory birds on the Adriatic route", "Natural occurrence of the Mediterranean stone pine"],
     },
-    imageHint: "Karavasta lagoon with dalmatian pelicans",
-  },
+    imageHint: "Karavasta lagoon with dalmatian pelicans", image: "/poi-images/albania-divjaka-karavasta-national-park-life-v2.webp"},
   {
     id: "albania-karaburun-sazan-marine-park-life-v2",
     type: "wildlife",
@@ -119,8 +114,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Înființat în anul 2010", "Protejează o suprafață marină de 124 de kilometri pătrați", "Prezența a trei specii de țestoase marine", "Bogat în peșteri submarine și recife de corali"],
       en: ["Established in the year 2010", "Protects a marine area of 124 square kilometers", "Presence of three species of sea turtles", "Rich in underwater caves and coral reefs"],
     },
-    imageHint: "Karaburun Sazan marine park turquoise water",
-  },
+    imageHint: "Karaburun Sazan marine park turquoise water", image: "/poi-images/albania-karaburun-sazan-marine-park-life-v2.webp"},
   {
     id: "albania-prespa-national-park-life-v2",
     type: "wildlife",
@@ -139,8 +133,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Zonă protejată transfrontalieră (AL, MK, GR)", "Găzduiește peste 270 de specii de păsări", "Suprafață de aproximativ 277 de kilometri pătrați", "Specii endemice de pești prezente în lac"],
       en: ["Cross-border protected area (AL, MK, GR)", "Home to over 270 bird species", "Area of approx. 277 square kilometers", "Endemic fish species present in the lake"],
     },
-    imageHint: "Lake Prespa Albania scenic view with birds",
-  },
+    imageHint: "Lake Prespa Albania scenic view with birds", image: "/poi-images/albania-prespa-national-park-life-v2.webp"},
   {
     id: "albania-shebenik-jabllanica-national-park-life-v2",
     type: "park",
@@ -159,8 +152,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Parte a Patrimoniului Mondial UNESCO (păduri de fag)", "Găzduiește 14 lacuri glaciare", "Cuprinde o suprafață de 33.927 de hectare", "Prezența urșilor bruni și a lupilor cenușii"],
       en: ["Part of the UNESCO World Heritage (Ancient Beech Forests)", "Home to 14 glacial lakes", "Encompasses an area of 33,927 hectares", "Presence of brown bears and gray wolves"],
     },
-    imageHint: "Shebenik Jabllanica mountain and beech forest",
-  },
+    imageHint: "Shebenik Jabllanica mountain and beech forest", image: "/poi-images/albania-shebenik-jabllanica-national-park-life-v2.webp"},
   {
     id: "albania-tomorr-national-park-life-v2",
     type: "park",
@@ -179,8 +171,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Vârful se află la 2.417 metri altitudine", "Suprafața este de aproximativ 26.106 hectare", "Munte sfânt pentru comunitatea Bektashi", "Găzduiește o populație mare de urși bruni"],
       en: ["The peak sits at 2,417 meters altitude", "Area is approximately 26,106 hectares", "Sacred mountain for the Bektashi community", "Hosts a large population of brown bears"],
     },
-    imageHint: "Tomorr mountain peak Albania nature",
-  },
+    imageHint: "Tomorr mountain peak Albania nature", image: "/poi-images/albania-tomorr-national-park-life-v2.webp"},
   {
     id: "albania-bredhi-i-hotoves-national-park-life-v2",
     type: "forest",
@@ -199,8 +190,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Cuprinde o suprafață de 34.361 de hectare", "Compus predominant din specia de brad Abies borisii-regis", "Habitat important pentru acvila țipătoare mică", "Cunoscut pentru diversitatea plantelor medicinale"],
       en: ["Encompasses an area of 34,361 hectares", "Composed predominantly of the fir species Abies borisii-regis", "Important habitat for the lesser spotted eagle", "Known for its diverse medicinal plants"],
     },
-    imageHint: "Bredhi i Hotoves fir forest landscape",
-  },
+    imageHint: "Bredhi i Hotoves fir forest landscape", image: "/poi-images/albania-bredhi-i-hotoves-national-park-life-v2.webp"},
   {
     id: "albania-shtame-pass-national-park-life-v2",
     type: "forest",
@@ -219,8 +209,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Protejează 2.000 de hectare de peisaj forestier", "Faimos pentru izvorul 'Regina Mamă'", "Specia dominantă de arbori este pinul negru", "Stațiune climaterică datorită concentrației mari de oxigen"],
       en: ["Protects 2,000 hectares of forest landscape", "Famous for the 'Queen Mother' spring", "Dominant tree species is the black pine", "Climatic health resort due to high oxygen concentration"],
     },
-    imageHint: "Shtame Pass pine forest and mountain road",
-  },
+    imageHint: "Shtame Pass pine forest and mountain road", image: "/poi-images/albania-shtame-pass-national-park-life-v2.webp"},
   {
     id: "albania-fir-of-drenove-national-park-life-v2",
     type: "forest",
@@ -239,8 +228,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Cuprinde o suprafață de 1.380 de hectare", "Înființat în anul 1966", "Găzduiește multe specii protejate de amfibieni", "Rezervor de apă important pentru regiunea Korçë"],
       en: ["Encompasses an area of 1,380 hectares", "Established in the year 1966", "Home to many protected amphibian species", "Important water reservoir for the Korçë region"],
     },
-    imageHint: "Fir of Drenove forest Korce Albania",
-  },
+    imageHint: "Fir of Drenove forest Korce Albania", image: "/poi-images/albania-fir-of-drenove-national-park-life-v2.webp"},
   {
     id: "albania-tirana-botanical-garden-life-v2",
     type: "park",
@@ -259,8 +247,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Deschisă în anul 1971", "Acoperă o suprafață de 15 hectare", "Administrată de Universitatea din Tirana", "Găzduiește colecții de plante medicinale rare"],
       en: ["Opened in the year 1971", "Covers an area of 15 hectares", "Managed by the University of Tirana", "Hosts collections of rare medicinal plants"],
     },
-    imageHint: "Tirana Botanical Garden plants and lake",
-  },
+    imageHint: "Tirana Botanical Garden plants and lake", image: "/poi-images/albania-tirana-botanical-garden-life-v2.webp"},
   {
     id: "albania-tirana-zoo-life-v2",
     type: "wildlife",
@@ -279,8 +266,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Singura grădină zoologică din întreaga Albanie", "Se concentrează pe conservarea speciilor native", "Parte a ecosistemului Marelui Parc din Tirana", "Dispune de zone educaționale pentru copii"],
       en: ["The only zoo in all of Albania", "Focus on the conservation of native species", "Part of the Tirana Grand Park ecosystem", "Features educational areas for children"],
     },
-    imageHint: "Tirana Zoo entrance and park",
-  },
+    imageHint: "Tirana Zoo entrance and park", image: "/poi-images/albania-tirana-zoo-life-v2.webp"},
   {
     id: "albania-narta-lagoon-life-v2",
     type: "wildlife",
@@ -299,8 +285,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Suprafață de aproximativ 41,8 kilometri pătrați", "A doua cea mai importantă zonă umedă pentru păsări din Albania", "Găzduiește peste 190 de specii diferite de păsări", "Loc important de cuibărit pentru chirighița mică"],
       en: ["Area of approx. 41.8 square kilometers", "Second most important wetland for birds in Albania", "Home to over 190 different bird species", "Important nesting site for the little tern"],
     },
-    imageHint: "Narta Lagoon flamingos and landscape",
-  },
+    imageHint: "Narta Lagoon flamingos and landscape", image: "/poi-images/albania-narta-lagoon-life-v2.webp"},
   {
     id: "albania-vjosa-wild-river-national-park-life-v2",
     type: "river",
@@ -319,8 +304,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Înființat în anul 2023", "Cuprinde 12.727 de hectare de zonă protejată", "Habitat important pentru anghila aflată în pericol de dispariție", "Găzduiește specii rare de pești endemici"],
       en: ["Established in the year 2023", "Encompasses 12,727 hectares of protected area", "Important habitat for the critically endangered eel", "Hosts rare endemic fish species"],
     },
-    imageHint: "Vjosa river wild landscape Albania",
-  },
+    imageHint: "Vjosa river wild landscape Albania", image: "/poi-images/albania-vjosa-wild-river-national-park-life-v2.webp"},
   {
     id: "albania-kune-vain-tale-nature-reserve-life-v2",
     type: "wildlife",
@@ -339,8 +323,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Statut de protecție din anul 1940", "Găzduiește aproximativ 196 de specii de păsări", "Loc important de cuibărit pentru stârci și cormorani", "Prezența a peste 270 de specii de plante"],
       en: ["Protection status since the year 1940", "Home to approx. 196 different bird species", "Important nesting site for herons and cormorants", "Occurrence of over 270 plant species"],
     },
-    imageHint: "Kune Vain Tale wetland and lagoons",
-  },
+    imageHint: "Kune Vain Tale wetland and lagoons", image: "/poi-images/albania-kune-vain-tale-nature-reserve-life-v2.webp"},
   {
     id: "albania-patok-lagoon-life-v2",
     type: "wildlife",
@@ -359,8 +342,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Sit important de cercetare pentru țestoasa caretta", "Parte a unui ecosistem de coastă complex", "Cunoscută pentru pescuitul tradițional cu construcții de lemn", "Găzduiește specii rare de păsări de baltă"],
       en: ["Important research site for the loggerhead sea turtle", "Part of a complex coastal ecosystem", "Known for traditional fishing with wooden structures", "Home to rare wading bird species"],
     },
-    imageHint: "Patok Lagoon turtle research area and water",
-  },
+    imageHint: "Patok Lagoon turtle research area and water", image: "/poi-images/albania-patok-lagoon-life-v2.webp"},
   {
     id: "albania-shkoder-lake-life-v2",
     type: "lake",
@@ -379,8 +361,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Găzduiește aproximativ 281 de specii de păsări", "Cunoscut pentru obletele de Shkodër endemic", "Una dintre cele mai mari rezerve de apă dulce din Europa de Sud", "Câmpuri extinse de nuferi plutitori"],
       en: ["Home to approximately 281 different bird species", "Known for the endemic Shkodër bleak fish", "One of the largest freshwater reservoirs in Southern Europe", "Extensive floating water lily fields"],
     },
-    imageHint: "Shkoder lake landscape with water lilies",
-  },
+    imageHint: "Shkoder lake landscape with water lilies", image: "/poi-images/albania-shkoder-lake-life-v2.webp"},
   {
     id: "albania-orikum-lagoon-life-v2",
     type: "wildlife",
@@ -399,8 +380,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Zonă semnificativă istoric din antichitate", "Protejează specii rare de plante halofite", "Habitat important pentru țestoasa de baltă europeană", "Parte a zonei protejate Pashaliman"],
       en: ["Historically significant area since antiquity", "Protects rare halophytic plant species", "Important habitat for the European pond turtle", "Part of the Pashaliman protected area"],
     },
-    imageHint: "Orikum Lagoon and coastal reeds",
-  },
+    imageHint: "Orikum Lagoon and coastal reeds", image: "/poi-images/albania-orikum-lagoon-life-v2.webp"},
   {
     id: "albania-butrint-wetland-life-v2",
     type: "wildlife",
@@ -419,8 +399,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Cea mai importantă zonă de iernare pentru păsările de apă", "Găzduiește specii rare de păsări răpitoare", "Cunoscută pentru creșterea tradițională a scoicilor", "Conține ecosisteme de lagune salmastre"],
       en: ["Most important wintering area for water birds", "Home to rare snake-eating bird species", "Known for traditional mussel farming", "Contains brackish lagoon ecosystems"],
     },
-    imageHint: "Butrint Lake and Vivari channel wetlands",
-  },
+    imageHint: "Butrint Lake and Vivari channel wetlands", image: "/poi-images/albania-butrint-wetland-life-v2.webp"},
   {
     id: "albania-nikaj-mertur-park-life-v2",
     type: "park",
@@ -439,8 +418,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Cuprinde o suprafață de 17.500 de hectare", "Găzduiește populații de urși bruni și lupi", "Cunoscut pentru cheile sale adânci de calcar", "Bogat în ierburi montane endemice"],
       en: ["Encompasses an area of 17,500 hectares", "Home to populations of brown bears and wolves", "Known for its deep limestone canyons", "Rich in endemic mountain herbs"],
     },
-    imageHint: "Nikaj Mertur mountains and rugged forest",
-  },
+    imageHint: "Nikaj Mertur mountains and rugged forest", image: "/poi-images/albania-nikaj-mertur-park-life-v2.webp"},
   {
     id: "albania-gashi-river-reserve-life-v2",
     type: "river",
@@ -459,8 +437,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Parte a Patrimoniului Mondial UNESCO din 2017", "Cuprinde 3.000 de hectare de pădure primară", "Găzduiește jderul de piatră și pisici sălbatice", "Fără așezări umane în cadrul rezervației"],
       en: ["Part of the UNESCO World Heritage since 2017", "Encompasses 3,000 hectares of primary forest", "Home to the rare stone marten and wild cats", "No human settlements within the reserve"],
     },
-    imageHint: "Gashi river and ancient beech forest",
-  },
+    imageHint: "Gashi river and ancient beech forest", image: "/poi-images/albania-gashi-river-reserve-life-v2.webp"},
   {
     id: "albania-rrajca-nature-reserve-life-v2",
     type: "wildlife",
@@ -479,8 +456,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Patrimoniu Mondial UNESCO din anul 2017", "Găzduiește lacuri glaciare la peste 2.000 de metri", "Refugiu important pentru ursul brun", "Acoperă o suprafață de aproximativ 4.700 de hectare"],
       en: ["UNESCO World Heritage since the year 2017", "Home to glacial lakes above 2,000 meters", "Important sanctuary for the brown bear", "Covers an area of approximately 4,700 hectares"],
     },
-    imageHint: "Rrajca ancient beech forest UNESCO",
-  },
+    imageHint: "Rrajca ancient beech forest UNESCO", image: "/poi-images/albania-rrajca-nature-reserve-life-v2.webp"},
   {
     id: "albania-morava-mountain-park-life-v2",
     type: "mountain",
@@ -499,8 +475,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Punctul maxim este la 1.806 metri", "Prezența unor specii rare de flori sălbatice", "Zonă de tranzit pentru urși bruni și căprioare", "Cunoscut pentru vederile panoramice asupra depresiunii Korçë"],
       en: ["Highest point is at 1,806 meters", "Presence of rare wildflower species", "Ranging area for brown bears and deer", "Known for its panoramic views of the Korçë basin"],
     },
-    imageHint: "Morava mountain forest overlooking Korce",
-  },
+    imageHint: "Morava mountain forest overlooking Korce", image: "/poi-images/albania-morava-mountain-park-life-v2.webp"},
   {
     id: "albania-velipoje-nature-reserve-life-v2",
     type: "wildlife",
@@ -539,8 +514,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Atinge o altitudine de 1.974 de metri", "Găzduiește exemplare rare de gențiană galbenă", "Bazin hidrografic important pentru râurile regionale", "Bogat în plante medicinale tradiționale"],
       en: ["Reaches an elevation of 1,974 meters", "Home to rare specimens of yellow gentian", "Important catchment area for regional rivers", "Rich in traditional medicinal herbs"],
     },
-    imageHint: "Mali i Polisit mountain flora and landscape",
-  },
+    imageHint: "Mali i Polisit mountain flora and landscape", image: "/poi-images/albania-mali-i-polisit-life-v2.webp"},
   {
     id: "albania-cukal-mali-i-zi-life-v2",
     type: "mountain",
@@ -559,8 +533,7 @@ export const albaniaLifeV2: POI[] = [
       ro: ["Compus predominant din formațiuni calcaroase", "Loc important de cuibărit pentru vulturul pleșuv sur", "Protejează pajiști montane înalte rare", "Găzduiește mai multe specii de insecte endemice"],
       en: ["Composed predominantly of limestone formations", "Important nesting site for the griffon vulture", "Protects rare high-mountain pastures", "Home to several endemic insect species"],
     },
-    imageHint: "Cukal mountains karst landscape Albania",
-  },
+    imageHint: "Cukal mountains karst landscape Albania", image: "/poi-images/albania-cukal-mali-i-zi-life-v2.webp"},
   {
     id: "albania-lake-ohrid-al-life-v2",
     type: "lake",

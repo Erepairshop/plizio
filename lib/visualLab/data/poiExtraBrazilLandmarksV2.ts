@@ -32,8 +32,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["A Corcovado-hegyen áll", "1931-ben avatták fel", "Rio de Janeiro jelképének számít"],
       ro: ["În Rio de Janeiro", "Pe muntele Corcovado", "Inaugurat în 1931", "Simbol național al Braziliei"],
       en: ["Iconic Art Deco statue", "Located atop Mount Corcovado", "One of the New Seven Wonders", "Symbol of Rio and Brazil"]
-    }
-  },
+    }, image: "/poi-images/br-rj-cristo-redentor-landmarks-v2.webp"},
   {
     id: "br-rj-maracana-landmarks-v2",
     type: "landmark",
@@ -157,8 +156,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["A brazil parlament székhelye", "Brasíliában található", "1960-ban adták át"],
       ro: ["Sediul Senatului și al Camerei Deputaților", "Proiect iconic de Oscar Niemeyer", "Cupolă convexă și cupolă concavă"],
       en: ["Seat of Brazil's legislature", "Striking twin towers and domes", "Designed by Oscar Niemeyer", "Located in the Three Powers Plaza"]
-    }
-  },
+    }, image: "/poi-images/br-df-congresso-nacional-landmarks-v2.webp"},
   {
     id: "br-sp-ponte-estaiada-landmarks-v2",
     type: "landmark",
@@ -247,8 +245,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["Salvadorban található", "A Cidade Alta és Cidade Baixa között működik", "1873-ban nyitották meg"],
       ro: ["Inaugurat inițial în 1873", "Arhitectură în stil Art Deco", "Oferă o vedere panoramică asupra Golfului"],
       en: ["Public elevator in Salvador", "Connects Upper and Lower City", "Historic Art Deco landmark", "Views of the Bay of All Saints"]
-    }
-  },
+    }, image: "/poi-images/br-ba-elevador-lacerda-landmarks-v2.webp"},
   {
     id: "br-rs-catedral-pedra-landmarks-v2",
     type: "landmark",
@@ -277,8 +274,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["Canela városában áll", "Rio Grande do Sul államban található", "Neogótikus stílusú"],
       ro: ["Înălțimea turnului de 65 metri", "Situată în Serra Gaúcha", "Are un carillon cu 12 clopote de bronz"],
       en: ["Gothic-style stone church", "Located in Canela", "Major landmark of the South", "Magnificent basalt structure"]
-    }
-  },
+    }, image: "/poi-images/br-rs-catedral-pedra-landmarks-v2.webp"},
   {
     id: "br-rj-museu-amanha-landmarks-v2",
     type: "landmark",
@@ -307,8 +303,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["Rio de Janeiro kikötői övezetében van", "2015-ben nyílt meg", "Kortárs tudományos múzeum"],
       ro: ["Proiectat de Santiago Calatrava", "Focus pe sustenabilitate și viitor", "Inaugurat în decembrie 2015"],
       en: ["Futuristic science museum", "Designed by Santiago Calatrava", "Focus on sustainability", "Located in the port region"]
-    }
-  },
+    }, image: "/poi-images/br-rj-museu-amanha-landmarks-v2.webp"},
   {
     id: "br-sp-santuario-aparecida-landmarks-v2",
     type: "landmark",
@@ -343,8 +338,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["A vil\\\\\\\\u00e1g m\\\\\\\\u00e1sodik legnagyobb katolikus temploma \\\\\\\\u00e9s a legfontosabb zar\\\\\\\\u00e1ndokhely Braz\\\\\\\\u00edli\\\\\\\\u00e1ban.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Kapcsolódik az ország mindennapjaihoz és történelméhez."],
       ro: ["A doua cea mai mare biseric\\\\\\\\u0103 catolic\\\\\\\\u0103 din lume \\\\\\\\u0219i cea mai important\\\\\\\\u0103 destina\\\\\\\\u021bie de pelerinaj din Brazilia.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii.", "Este legat de viața cotidiană și de istoria țării."],
       en: ["The second-largest Catholic church in the world and the most important pilgrimage site in Brazil.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region.", "Connected to the everyday life and history of the country."],
-    }
-  },
+    }, image: "/poi-images/br-sp-santuario-aparecida-landmarks-v2.webp"},
   {
     id: "br-sc-ponte-hercilio-luz-landmarks-v2",
     type: "landmark",
@@ -556,8 +550,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["Gy\\\\\\\\u00f6ny\\\\\\\\u00f6r\\\\\\\\u0171 art nouveau st\\\\\\\\u00edlus\\\\\\\\u00fa \\\\\\\\u00fcvegh\\\\\\\\u00e1z, amely Curitiba \\\\\\\\u00e9p\\\\\\\\u00edt\\\\\\\\u00e9szeti szimb\\\\\\\\u00f3lum\\\\\\\\u00e1v\\\\\\\\u00e1 v\\\\\\\\u00e1lt.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Kapcsolódik az ország mindennapjaihoz és történelméhez."],
       ro: ["O ser\\\\\\\\u0103 frumoas\\\\\\\\u0103 \\\\\\\\u00een stil Art Nouveau care a devenit simbolul arhitectural al ora\\\\\\\\u0219ului Curitiba.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii.", "Este legat de viața cotidiană și de istoria țării."],
       en: ["A beautiful Art Nouveau-style greenhouse that became the architectural symbol of Curitiba.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region.", "Connected to the everyday life and history of the country."],
-    }
-  },
+    }, image: "/poi-images/br-pr-estufa-curitiba-landmarks-v2.webp"},
   {
     id: "br-sp-mercadao-landmarks-v2",
     type: "landmark",
@@ -664,8 +657,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["Braz\\\\\\\\u00edlia egyik legszebb, eklektikus st\\\\\\\\u00edlus\\\\\\\\u00fa operah\\\\\\\\u00e1za Rio k\\\\\\\\u00f6zpontj\\\\\\\\u00e1nak k\\\\\\\\u00f6zel\\\\\\\\u00e9ben.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Kapcsolódik az ország mindennapjaihoz és történelméhez."],
       ro: ["Una dintre cele mai frumoase opere din Brazilia, \\\\\\\\u00een stil eclectic, situat\\\\\\\\u0103 \\\\\\\\u00een apropierea centrului ora\\\\\\\\u0219ului Rio.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii.", "Este legat de viața cotidiană și de istoria țării."],
       en: ["One of Brazil's most beautiful opera houses, built in an eclectic style near the center of Rio.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region.", "Connected to the everyday life and history of the country."],
-    }
-  },
+    }, image: "/poi-images/br-rj-theatro-municipal-landmarks-v2.webp"},
   {
     id: "br-rj-arcos-lapa-landmarks-v2",
     type: "landmark",
@@ -700,8 +692,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["Hatalmas, gyarmati st\\\\\\\\u00edlus\\\\\\\\u00fa t\\\\\\\\u00f6rt\\\\\\\\u00e9nelmi v\\\\\\\\u00edzvezet\\\\\\\\u00e9k, amely ma villamosh\\\\\\\\u00eddk\\\\\\\\u00e9nt szolg\\\\\\\\u00e1l a Lapa negyedben.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Kapcsolódik az ország mindennapjaihoz és történelméhez."],
       ro: ["Un imens apeduct istoric \\\\\\\\u00een stil colonial care serve\\\\\\\\u0219te acum ca pod de tramvai \\\\\\\\u00een cartierul Lapa.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii.", "Este legat de viața cotidiană și de istoria țării."],
       en: ["A massive historic colonial-style aqueduct that now serves as a tramway bridge in the Lapa neighborhood.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region.", "Connected to the everyday life and history of the country."],
-    }
-  },
+    }, image: "/poi-images/br-rj-arcos-lapa-landmarks-v2.webp"},
   {
     id: "br-mg-mineirao-landmarks-v2",
     type: "landmark",
@@ -841,8 +832,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["L\\\\\\\\u00e1tv\\\\\\\\u00e1nyos templom Braz\\\\\\\\u00edliav\\\\\\\\u00e1rosban, amely hatalmas k\\\\\\\\u00e9k \\\\\\\\u00f3lom\\\\\\\\u00fcveg ablakair\\\\\\\\u00f3l \\\\\\\\u00e9s azok misztikus hangulat\\\\\\\\u00e1r\\\\\\\\u00f3l h\\\\\\\\u00edres.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Kapcsolódik az ország mindennapjaihoz és történelméhez."],
       ro: ["O biseric\\\\\\\\u0103 impresionant\\\\\\\\u0103 din Bras\\\\\\\\u00edlia, renumit\\\\\\\\u0103 pentru ferestrele sale uria\\\\\\\\u0219e de vitralii albastre care creeaz\\\\\\\\u0103 o atmosfer\\\\\\\\u0103 mistic\\\\\\\\u0103.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii.", "Este legat de viața cotidiană și de istoria țării."],
       en: ["An impressive church in Bras\\\\\\\\u00edlia, famous for its giant blue stained glass windows that create a mystical atmosphere.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region.", "Connected to the everyday life and history of the country."],
-    }
-  },
+    }, image: "/poi-images/br-df-santuario-dom-bosco-landmarks-v2.webp"},
   {
     id: "br-sp-estacao-luz-landmarks-v2",
     type: "landmark",
@@ -877,8 +867,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["Pomp\\\\\\\\u00e1s t\\\\\\\\u00f6rt\\\\\\\\u00e9nelmi p\\\\\\\\u00e1lyaudvar, amelyet Nagy-Britanni\\\\\\\\u00e1ban el\\\\\\\\u0151re gy\\\\\\\\u00e1rtott elemekb\\\\\\\\u0151l \\\\\\\\u00e1ll\\\\\\\\u00edtottak \\\\\\\\u00f6ssze.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Kapcsolódik az ország mindennapjaihoz és történelméhez."],
       ro: ["O gar\\\\\\\\u0103 istoric\\\\\\\\u0103 magnific\\\\\\\\u0103 asamblat\\\\\\\\u0103 din piese prefabricate \\\\\\\\u00een Marea Britanie.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii.", "Este legat de viața cotidiană și de istoria țării."],
       en: ["A magnificent historic railway station assembled from prefabricated parts made in the UK.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region.", "Connected to the everyday life and history of the country."],
-    }
-  },
+    }, image: "/poi-images/br-sp-estacao-luz-landmarks-v2.webp"},
   {
     id: "br-pr-opera-arame-landmarks-v2",
     type: "landmark",
@@ -948,8 +937,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["Egykori hatalmas luxussz\\\\\\\\u00e1lloda \\\\\\\\u00e9s kaszin\\\\\\\\u00f3 normann-francia st\\\\\\\\u00edlusban a hegyvid\\\\\\\\u00e9ki Petr\\\\\\\\u00f3polis v\\\\\\\\u00e1ros\\\\\\\\u00e1ban.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Kapcsolódik az ország mindennapjaihoz és történelméhez."],
       ro: ["Un imens fost hotel de lux \\\\\\\\u0219i cazinou \\\\\\\\u00een stil normand-francez din ora\\\\\\\\u0219ul montan Petr\\\\\\\\u00f3polis.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii.", "Este legat de viața cotidiană și de istoria țării."],
       en: ["A huge former luxury hotel and casino built in a Norman-French style in the mountain city of Petr\\\\\\\\u00f3polis.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region.", "Connected to the everyday life and history of the country."],
-    }
-  },
+    }, image: "/poi-images/br-rj-palacio-quitandinha-landmarks-v2.webp"},
   {
     id: "br-ba-basilica-bonfim-landmarks-v2",
     type: "landmark",
@@ -984,8 +972,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["Salvador da Bahia legh\\\\\\\\u00edresebb katolikus temploma, amely ritu\\\\\\\\u00e1lis l\\\\\\\\u00e9pcs\\\\\\\\u0151mos\\\\\\\\u00e1si \\\\\\\\u00fcnnep\\\\\\\\u00e9r\\\\\\\\u0151l ismert.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Kapcsolódik az ország mindennapjaihoz és történelméhez."],
       ro: ["Cea mai faimoas\\\\\\\\u0103 biseric\\\\\\\\u0103 catolic\\\\\\\\u0103 din Salvador da Bahia, cunoscut\\\\\\\\u0103 pentru s\\\\\\\\u0103rb\\\\\\\\u0103toarea sp\\\\\\\\u0103l\\\\\\\\u0103rii rituale a sc\\\\\\\\u0103rilor.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii.", "Este legat de viața cotidiană și de istoria țării."],
       en: ["The most famous Catholic church in Salvador da Bahia, known for the festival of the ritual washing of the steps.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region.", "Connected to the everyday life and history of the country."],
-    }
-  },
+    }, image: "/poi-images/br-ba-basilica-bonfim-landmarks-v2.webp"},
   {
     id: "br-sc-cristo-luz-landmarks-v2",
     type: "landmark",

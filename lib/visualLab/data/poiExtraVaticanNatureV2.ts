@@ -19,8 +19,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["60 metri înălțime", "Rocă de travertin", "Necropolă antică", "La vest de Tibru"],
       en: ["60 meters elevation", "Travertine rock", "Ancient necropolis", "West of the Tiber"],
     },
-    imageHint: "Vatican Hill overview from St Peter Dome",
-  },
+    imageHint: "Vatican Hill overview from St Peter Dome", image: "/poi-images/vatican-vatican-hill-nature-v2.webp"},
   {
     id: "vatican-the-vatican-wood-nature-v2",
     type: "forest",
@@ -39,8 +38,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Stejari de stâncă", "Sectorul nord-vestic", "Sanctuar de păsări", "Vegetație sălbatică"],
       en: ["Holm oak trees", "Northwest sector", "Bird sanctuary", "Wild vegetation"],
     },
-    imageHint: "Dense trees in Vatican Gardens",
-  },
+    imageHint: "Dense trees in Vatican Gardens", image: "/poi-images/vatican-the-vatican-wood-nature-v2.webp"},
   {
     id: "vatican-eagle-fountain-pond-nature-v2",
     type: "lake",
@@ -59,8 +57,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Anul 1612", "Paul al V-lea Borghese", "Design baroc", "Rezervor de apă"],
       en: ["Built in 1612", "Paul V Borghese", "Baroque design", "Water reservoir"],
     },
-    imageHint: "Eagle Fountain Vatican Gardens pond",
-  },
+    imageHint: "Eagle Fountain Vatican Gardens pond", image: "/poi-images/vatican-eagle-fountain-pond-nature-v2.webp"},
   {
     id: "vatican-vatican-olive-grove-nature-v2",
     type: "park",
@@ -79,8 +76,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Simbolul păcii", "Floră mediteraneană", "Arbori primiți cadou", "Fructe tradiționale"],
       en: ["Symbol of peace", "Mediterranean flora", "Gifted trees", "Traditional olive fruit"],
     },
-    imageHint: "Olive trees in Vatican Gardens",
-  },
+    imageHint: "Olive trees in Vatican Gardens", image: "/poi-images/vatican-vatican-olive-grove-nature-v2.webp"},
   {
     id: "vatican-rose-garden-nature-v2",
     type: "park",
@@ -99,8 +95,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Diverse soiuri", "Înflorire în mai/iunie", "Grădină ornamentală", "Îngrijire atentă"],
       en: ["Diverse rose varieties", "Blooming in May/June", "Ornamental garden", "Careful maintenance"],
     },
-    imageHint: "Vatican Rose Garden blooms",
-  },
+    imageHint: "Vatican Rose Garden blooms", image: "/poi-images/vatican-rose-garden-nature-v2.webp"},
   {
     id: "vatican-cactus-garden-nature-v2",
     type: "park",
@@ -119,8 +114,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Colecție de suculente", "Versant însorit", "Floră exotică", "Rezistență la secetă"],
       en: ["Succulent collection", "Sunny slope location", "Exotic flora", "Drought resistance"],
     },
-    imageHint: "Cacti in Vatican Gardens",
-  },
+    imageHint: "Cacti in Vatican Gardens", image: "/poi-images/vatican-cactus-garden-nature-v2.webp"},
   {
     id: "vatican-vatican-orchard-nature-v2",
     type: "park",
@@ -139,8 +133,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Citrice", "Grădină utilitară", "Recoltă proaspătă", "Cultivare tradițională"],
       en: ["Citrus fruits", "Utility garden", "Fresh harvest", "Traditional cultivation"],
     },
-    imageHint: "Fruit trees in Vatican Gardens",
-  },
+    imageHint: "Fruit trees in Vatican Gardens", image: "/poi-images/vatican-vatican-orchard-nature-v2.webp"},
   {
     id: "vatican-lebanon-cedars-nature-v2",
     type: "wildlife",
@@ -159,8 +152,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Cedrus libani", "Coroane impunătoare", "Vechime de decenii", "Sunt mereu verzi"],
       en: ["Cedrus libani", "Imposing crowns", "Decades old", "Evergreen"],
     },
-    imageHint: "Large cedar trees Vatican Gardens",
-  },
+    imageHint: "Large cedar trees Vatican Gardens", image: "/poi-images/vatican-lebanon-cedars-nature-v2.webp"},
   {
     id: "vatican-magnolia-alley-nature-v2",
     type: "park",
@@ -179,8 +171,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Înflorire de primăvară", "Magnolia grandiflora", "Cale umbrită", "Arbori ornamentali"],
       en: ["Spring bloom", "Magnolia grandiflora", "Shaded path", "Ornamental trees"],
     },
-    imageHint: "Magnolia trees Vatican Gardens",
-  },
+    imageHint: "Magnolia trees Vatican Gardens", image: "/poi-images/vatican-magnolia-alley-nature-v2.webp"},
   {
     id: "vatican-papal-crest-flowerbed-nature-v2",
     type: "landmark",
@@ -219,8 +210,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Vedere panoramică", "Pădure de pini", "Versant abrupt", "Loc istoric"],
       en: ["Panoramic views", "Pine tree stands", "Steep slopes", "Historical site"],
     },
-    imageHint: "Green slopes around St John Tower Vatican",
-  },
+    imageHint: "Green slopes around St John Tower Vatican", image: "/poi-images/vatican-st-john-tower-slopes-nature-v2.webp"},
   {
     id: "vatican-rock-garden-nature-v2",
     type: "park",
@@ -239,8 +229,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Plante alpine", "Terase de piatră", "Stânci artificiale", "Plante suculente"],
       en: ["Alpine plants", "Stone terraces", "Artificial rocks", "Succulents"],
     },
-    imageHint: "Vatican rock garden plants",
-  },
+    imageHint: "Vatican rock garden plants", image: "/poi-images/vatican-rock-garden-nature-v2.webp"},
   {
     id: "vatican-cycad-collection-nature-v2",
     type: "wildlife",
@@ -259,8 +248,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Fosile vii", "Specii rare", "Creștere lentă", "Protecție botanică"],
       en: ["Living fossils", "Rare species", "Slow growth", "Botanical protection"],
     },
-    imageHint: "Cycad plants Vatican Gardens",
-  },
+    imageHint: "Cycad plants Vatican Gardens", image: "/poi-images/vatican-cycad-collection-nature-v2.webp"},
   {
     id: "vatican-camellia-path-nature-v2",
     type: "park",
@@ -279,8 +267,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Înflorire de iarnă", "Locație umbrită", "Flori elegante", "Diversitate botanică"],
       en: ["Winter bloomer", "Shaded location", "Elegant flowers", "Botanical variety"],
     },
-    imageHint: "Camellia flowers Vatican Gardens",
-  },
+    imageHint: "Camellia flowers Vatican Gardens", image: "/poi-images/vatican-camellia-path-nature-v2.webp"},
   {
     id: "vatican-ethnobotanical-garden-nature-v2",
     type: "park",
@@ -299,8 +286,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Plante medicinale", "Istorie culturală", "Grădină didactică", "Biodiversitate"],
       en: ["Medicinal plants", "Cultural history", "Teaching garden", "Biological diversity"],
     },
-    imageHint: "Educational plant garden Vatican",
-  },
+    imageHint: "Educational plant garden Vatican", image: "/poi-images/vatican-ethnobotanical-garden-nature-v2.webp"},
   {
     id: "vatican-secret-garden-nature-v2",
     type: "park",
@@ -319,8 +305,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Hortus Conclusus", "Grădină zidită", "Loc de retragere", "Amenajare tradițională"],
       en: ["Hortus Conclusus", "Walled garden", "Place of retreat", "Traditional layout"],
     },
-    imageHint: "Walled secret garden Vatican",
-  },
+    imageHint: "Walled secret garden Vatican", image: "/poi-images/vatican-secret-garden-nature-v2.webp"},
   {
     id: "vatican-casina-pio-iv-garden-nature-v2",
     type: "park",
@@ -339,8 +324,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Grădină renascentistă", "Jocuri de apă", "Academia de Științe", "Decorațiuni din stuc"],
       en: ["Renaissance garden", "Water features", "Academy of Sciences", "Stucco decoration"],
     },
-    imageHint: "Casina Pio IV gardens Vatican",
-  },
+    imageHint: "Casina Pio IV gardens Vatican", image: "/poi-images/vatican-casina-pio-iv-garden-nature-v2.webp"},
   {
     id: "vatican-fountain-of-the-sacrament-pond-nature-v2",
     type: "lake",
@@ -359,8 +343,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Iaz artificial", "Simbolistica apei", "Element baroc", "Hidrologie de grădină"],
       en: ["Artificial pond", "Water symbolism", "Baroque element", "Garden hydrology"],
     },
-    imageHint: "Water pond in Vatican Gardens",
-  },
+    imageHint: "Water pond in Vatican Gardens", image: "/poi-images/vatican-fountain-of-the-sacrament-pond-nature-v2.webp"},
   {
     id: "vatican-our-lady-of-guadalupe-garden-nature-v2",
     type: "park",
@@ -379,8 +362,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Dedicată Mexicului", "Flori colorate", "Statuie de grădină", "Loc de pelerinaj"],
       en: ["Mexican dedication", "Colorful flowers", "Garden statue", "Pilgrimage spot"],
     },
-    imageHint: "Guadalupe monument Vatican Gardens",
-  },
+    imageHint: "Guadalupe monument Vatican Gardens", image: "/poi-images/vatican-our-lady-of-guadalupe-garden-nature-v2.webp"},
   {
     id: "vatican-st-martha-house-garden-nature-v2",
     type: "park",
@@ -399,8 +381,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Reședință papală", "Grădină simplă", "Peluză ornamentală", "Marginea sudică"],
       en: ["Papal residence", "Simple garden", "Ornamental lawn", "Southern Vatican"],
     },
-    imageHint: "Santa Marta garden area Vatican",
-  },
+    imageHint: "Santa Marta garden area Vatican", image: "/poi-images/vatican-st-martha-house-garden-nature-v2.webp"},
   {
     id: "vatican-belvedere-slopes-nature-v2",
     type: "park",
@@ -419,8 +400,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Terasare", "Lângă muzeu", "Arbuști ornamentali", "Pod peisagistic"],
       en: ["Terracing", "Near museums", "Ornamental shrubs", "Landscape bridge"],
     },
-    imageHint: "Sloping gardens near Vatican Museums",
-  },
+    imageHint: "Sloping gardens near Vatican Museums", image: "/poi-images/vatican-belvedere-slopes-nature-v2.webp"},
   {
     id: "vatican-governor-palace-gardens-nature-v2",
     type: "park",
@@ -439,8 +419,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Grădină oficială", "Îngrijire intensivă", "Flori ornamentale", "Centrul Vaticanului"],
       en: ["Official garden", "Intensive care", "Ornamental flowers", "Vatican center"],
     },
-    imageHint: "Gardens in front of Governor Palace Vatican",
-  },
+    imageHint: "Gardens in front of Governor Palace Vatican", image: "/poi-images/vatican-governor-palace-gardens-nature-v2.webp"},
   {
     id: "vatican-vatican-heliport-green-nature-v2",
     type: "park",
@@ -479,8 +458,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Plante de bambus", "Elemente Zen", "Intercultural", "Design precis"],
       en: ["Bamboo plants", "Zen elements", "Intercultural", "Precise design"],
     },
-    imageHint: "Bamboo and stones Vatican Gardens",
-  }
+    imageHint: "Bamboo and stones Vatican Gardens", image: "/poi-images/vatican-japanese-garden-section-nature-v2.webp"}
 ,
   {
     id: "vatican-oak-grove-nature-v2",
@@ -518,8 +496,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Include diverse specii de Phyllostachys.", "Acționează ca o barieră naturală împotriva zgomotului.", "Necesită irigare constantă pe timpul verii.", "Atinge înălțimi de peste 10 metri."],
       en: ["Includes various species of Phyllostachys.", "Acts as a natural noise barrier.", "Requires constant irrigation in summer.", "Reaches heights of over 10 meters."],
     },
-    imageHint: "Dense green bamboo forest path Vatican",
-  },
+    imageHint: "Dense green bamboo forest path Vatican", image: "/poi-images/vatican-bamboo-collection-nature-v2.webp"},
   {
     id: "vatican-exotic-greenery-nature-v2",
     type: "park",
@@ -537,8 +514,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Situat în apropierea Zidului Leonin.", "Prezintă floră rară din America de Sud.", "Gestionat de botaniști specializați ai Vaticanului.", "Include diverși hibrizi de suculente și palmieri."],
       en: ["Located near the Leonine Wall.", "Features rare South American flora.", "Managed by the Vatican's specialized botanists.", "Includes diverse succulent and palm hybrids."],
     },
-    imageHint: "Tropical plants outside Vatican greenhouse",
-  },
+    imageHint: "Tropical plants outside Vatican greenhouse", image: "/poi-images/vatican-exotic-greenery-nature-v2.webp"},
   {
     id: "vatican-aromatic-garden-nature-v2",
     type: "park",
@@ -556,8 +532,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Bazat pe designul grădinilor mănăstirești medievale.", "Atrage polenizatori precum albinele și fluturii.", "Întreținut fără pesticide sintetice.", "Recoltat în scopuri liturgice și culinare."],
       en: ["Based on medieval monastic garden designs.", "Attracts pollinators like honeybees and butterflies.", "Maintained without synthetic pesticides.", "Harvested for liturgical and culinary purposes."],
     },
-    imageHint: "Symmetrical lavender and rosemary herb garden",
-  },
+    imageHint: "Symmetrical lavender and rosemary herb garden", image: "/poi-images/vatican-aromatic-garden-nature-v2.webp"},
   {
     id: "vatican-fern-valley-nature-v2",
     type: "valley",
@@ -575,8 +550,7 @@ export const vaticanNatureV2: POI[] = [
       ro: ["Prezintă specii de ferigi native din Italia.", "Răcit prin evaporare naturală.", "Include mai multe tipuri de mușchi.", "Protejat de lumina directă a soarelui mediteranean."],
       en: ["Features native Italian fern species.", "Cooled by natural evaporation.", "Includes several types of moss and liverworts.", "Protected from direct Mediterranean sunlight."],
     },
-    imageHint: "Green ferns and moss in shaded garden area",
-  },
+    imageHint: "Green ferns and moss in shaded garden area", image: "/poi-images/vatican-fern-valley-nature-v2.webp"},
   {
     id: "vatican-mediterranean-maquis-nature-v2",
     type: "wildlife",

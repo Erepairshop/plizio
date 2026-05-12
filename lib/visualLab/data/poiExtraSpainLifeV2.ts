@@ -19,8 +19,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Patrimoniu Mondial din 1994", "Suprafață de 543 kilometri pătrați", "Zonă protejată pentru acvila imperială", "Loc important de popas pentru păsări"],
       en: ["World Heritage Site since 1994", "Area of 543 square kilometers", "Protected area for the imperial eagle", "Major stopover for migratory birds"],
     },
-    imageHint: "Doñana National Park marshes with flamingos",
-  },
+    imageHint: "Doñana National Park marshes with flamingos", image: "/poi-images/spain-donana-life-v2.webp"},
   {
     id: "spain-sierra-nevada-life-v2",
     type: "park",
@@ -39,8 +38,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Rezervație a Biosferei UNESCO", "Găzduiește vârful Mulhacén (3479 m)", "Prezența caprei sălbatice iberice", "Cea mai sudică stațiune de schi din Europa"],
       en: ["UNESCO Biosphere Reserve", "Home to Mulhacén peak (3479 m)", "Inhabited by the Iberian ibex", "Southernmost ski resort in Europe"],
     },
-    imageHint: "Sierra Nevada mountains snow capped peaks",
-  },
+    imageHint: "Sierra Nevada mountains snow capped peaks", image: "/poi-images/spain-sierra-nevada-life-v2.webp"},
   {
     id: "spain-picos-de-europa-life-v2",
     type: "park",
@@ -59,8 +57,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Primul parc național din Spania (1918)", "Habitat al ursului brun", "Prezența caprei negre cantabriene", "Sisteme de peșteri adânci prezente"],
       en: ["Spain's first national park (1918)", "Habitat of the brown bear", "Presence of the Cantabrian chamois", "Deep cave systems present"],
     },
-    imageHint: "Picos de Europa limestone mountain peaks",
-  },
+    imageHint: "Picos de Europa limestone mountain peaks", image: "/poi-images/spain-picos-de-europa-life-v2.webp"},
   {
     id: "spain-teide-life-v2",
     type: "park",
@@ -79,8 +76,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Cel mai vizitat parc național din Spania", "Înălțime de 3715 metri peste mare", "Patrimoniu Mondial UNESCO", "Formațiuni geologice unice"],
       en: ["Most visited national park in Spain", "Altitude of 3715 meters above sea level", "UNESCO World Natural Heritage", "Unique geological formations"],
     },
-    imageHint: "Mount Teide volcano landscape Tenerife",
-  },
+    imageHint: "Mount Teide volcano landscape Tenerife", image: "/poi-images/spain-teide-life-v2.webp"},
   {
     id: "spain-monfrague-life-v2",
     type: "park",
@@ -99,8 +95,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Cea mai mare colonie de vulturi negri", "Habitat important al râsului iberic", "Rezervație a Biosferei din 2003", "Cunoscut pentru stânca Salto del Gitano"],
       en: ["Largest colony of black vultures", "Important habitat of the Iberian lynx", "Biosphere Reserve since 2003", "Famous for the Salto del Gitano cliff"],
     },
-    imageHint: "Monfragüe National Park Salto del Gitano birds",
-  },
+    imageHint: "Monfragüe National Park Salto del Gitano birds", image: "/poi-images/spain-monfrague-life-v2.webp"},
   {
     id: "spain-cabaneros-life-v2",
     type: "park",
@@ -119,8 +114,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Adăpostește populații mari de cerbi", "Zonă protejată pentru vulturul negru", "Cunoscut pentru câmpiile sale ierboase", "Fost domeniu de vânătoare privat"],
       en: ["Home to large red deer populations", "Protected area for the black vulture", "Known for its vast grassy plains", "Former private hunting ground"],
     },
-    imageHint: "Cabañeros National Park deer in plains",
-  },
+    imageHint: "Cabañeros National Park deer in plains", image: "/poi-images/spain-cabaneros-life-v2.webp"},
   {
     id: "spain-tablas-de-daimiel-life-v2",
     type: "park",
@@ -139,8 +133,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Ultimul exemplu de 'Tablas Fluviale'", "Zonă umedă de importanță Ramsar", "Loc important de cuibărit pentru păsări", "Puntți de lemn pentru vizitatori"],
       en: ["Last example of 'Fluvial Tablas'", "Ramsar wetland of importance", "Major nesting site for water birds", "Wooden boardwalks for visitors"],
     },
-    imageHint: "Tablas de Daimiel National Park wetlands boardwalk",
-  },
+    imageHint: "Tablas de Daimiel National Park wetlands boardwalk", image: "/poi-images/spain-tablas-de-daimiel-life-v2.webp"},
   {
     id: "spain-timanfaya-life-v2",
     type: "park",
@@ -159,8 +152,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Peste 25 de conuri vulcanice inactive", "Prezența anomaliilor geotermale", "Rezervație a Biosferei UNESCO", "Decor pentru filme science-fiction"],
       en: ["Over 25 inactive volcanic cones", "Presence of geothermal anomalies", "UNESCO Biosphere Reserve", "Setting for science fiction films"],
     },
-    imageHint: "Timanfaya National Park volcanic landscape Lanzarote",
-  },
+    imageHint: "Timanfaya National Park volcanic landscape Lanzarote", image: "/poi-images/spain-timanfaya-life-v2.webp"},
   {
     id: "spain-garajonay-life-v2",
     type: "park",
@@ -179,8 +171,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Patrimoniu Mondial UNESCO din 1986", "Numit după legenda lui Gara și Jonay", "Numeroase animale nevertebrate endemice", "Izvoare și cursuri de apă importante"],
       en: ["UNESCO World Natural Heritage since 1986", "Named after the legend of Gara and Jonay", "Numerous endemic invertebrates", "Significant springs and watercourses"],
     },
-    imageHint: "Garajonay National Park misty laurel forest",
-  },
+    imageHint: "Garajonay National Park misty laurel forest", image: "/poi-images/spain-garajonay-life-v2.webp"},
   {
     id: "spain-caldera-de-taburiente-life-v2",
     type: "park",
@@ -199,8 +190,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Cel mai înalt punct Roque de los Muchachos", "Cunoscut pentru 'Cascada colorată'", "Observator important pe margine", "Adăpostește cioara canariană rară"],
       en: ["Highest point Roque de los Muchachos", "Known for the 'Colored Waterfall'", "Major observatory on the rim", "Home to the rare Canary Island crow"],
     },
-    imageHint: "Caldera de Taburiente National Park landscape La Palma",
-  },
+    imageHint: "Caldera de Taburiente National Park landscape La Palma", image: "/poi-images/spain-caldera-de-taburiente-life-v2.webp"},
   {
     id: "spain-ordesa-monte-perdido-life-v2",
     type: "park",
@@ -219,8 +209,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Patrimoniu Mondial UNESCO", "Prezența zăganului", "Monte Perdido are 3355 m înălțime", "Circuri glaciare impresionante"],
       en: ["UNESCO World Heritage Site", "Habitat of the bearded vulture", "Monte Perdido is 3355 m high", "Impressive glacial cirques"],
     },
-    imageHint: "Ordesa Canyon Pyrenees mountains",
-  },
+    imageHint: "Ordesa Canyon Pyrenees mountains", image: "/poi-images/spain-ordesa-monte-perdido-life-v2.webp"},
   {
     id: "spain-aiguestortes-life-v2",
     type: "park",
@@ -239,8 +228,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Cel mai înalt vârf Comaloforno (3029 m)", "Prezența cocoșului de munte", "Găzduiește munții 'Els Encantats'", "Formațiunile de granit domină"],
       en: ["Highest peak Comaloforno (3029 m)", "Habitat of the western capercaillie", "Home to the 'Els Encantats' mountains", "Granite formations dominate"],
     },
-    imageHint: "Estany de Sant Maurici lake Pyrenees",
-  },
+    imageHint: "Estany de Sant Maurici lake Pyrenees", image: "/poi-images/spain-aiguestortes-life-v2.webp"},
   {
     id: "spain-guadarrama-life-v2",
     type: "park",
@@ -259,8 +247,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Peñalara este cel mai înalt vârf (2428 m)", "Habitat al acvilei imperiale", "Cunoscut pentru stâncile din La Pedriza", "Destinație frecventă pentru madrileni"],
       en: ["Peñalara is the highest peak (2428 m)", "Habitat of the imperial eagle", "Known for the rocks of La Pedriza", "Frequent destination for Madrid residents"],
     },
-    imageHint: "Sierra de Guadarrama mountains near Madrid",
-  },
+    imageHint: "Sierra de Guadarrama mountains near Madrid", image: "/poi-images/spain-guadarrama-life-v2.webp"},
   {
     id: "spain-islas-atlanticas-life-v2",
     type: "park",
@@ -279,8 +266,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Plaja Rodas este considerată una dintre cele mai bune", "Colonii mari de pescăruși cu picioare galbene", "Rămășițe ale așezărilor romane", "Limite stricte de vizitatori pe zi"],
       en: ["Rodas beach is ranked among the best", "Large colonies of yellow-legged gulls", "Remains of Roman settlements", "Strict daily visitor limits"],
     },
-    imageHint: "Cíes Islands beach and turquoise water",
-  },
+    imageHint: "Cíes Islands beach and turquoise water", image: "/poi-images/spain-islas-atlanticas-life-v2.webp"},
   {
     id: "spain-cabrera-life-v2",
     type: "park",
@@ -299,8 +285,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Compus din 19 insule mici", "Loc important pentru migrația păsărilor", "Castel istoric din secolul al XIV-lea", "Prezența șopârlei rare de Baleare"],
       en: ["Consists of 19 small islands", "Major site for bird migration", "Historic 14th-century castle", "Presence of the rare Balearic lizard"],
     },
-    imageHint: "Cabrera island aerial view Mediterranean",
-  },
+    imageHint: "Cabrera island aerial view Mediterranean", image: "/poi-images/spain-cabrera-life-v2.webp"},
   {
     id: "spain-sierra-nieves-life-v2",
     type: "park",
@@ -319,8 +304,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Al 16-lea parc național al Spaniei (din 2021)", "Pădurile de pinsapo sunt relicte glaciare", "Prezența caprei sălbatice iberice", "Vârful cel mai înalt Torrecilla (1919 m)"],
       en: ["Spain's 16th national park (since 2021)", "Pinsapo forests are Ice Age relics", "Presence of the Iberian ibex", "Highest peak Torrecilla (1919 m)"],
     },
-    imageHint: "Sierra de las Nieves Spanish fir trees",
-  },
+    imageHint: "Sierra de las Nieves Spanish fir trees", image: "/poi-images/spain-sierra-nieves-life-v2.webp"},
   {
     id: "spain-somiedo-life-v2",
     type: "park",
@@ -339,8 +323,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Rezervație a Biosferei UNESCO", "Cea mai mare populație de urși din Spania", "Celebrele lacuri din Saliencia", "Transhumanță tradițională"],
       en: ["UNESCO Biosphere Reserve", "Largest bear population in Spain", "Famous Saliencia lakes", "Traditional transhumance farming"],
     },
-    imageHint: "Somiedo Natural Park bear landscape",
-  },
+    imageHint: "Somiedo Natural Park bear landscape", image: "/poi-images/spain-somiedo-life-v2.webp"},
   {
     id: "spain-cazorla-life-v2",
     type: "park",
@@ -359,8 +342,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Suprafață de peste 200.000 de hectare", "Numeroase plante endemice", "Prezența vulturilor suri și a zăganilor", "Rezervație a Biosferei din 1983"],
       en: ["Area of over 200,000 hectares", "Numerous endemic plants", "Home to griffon and bearded vultures", "Biosphere Reserve since 1983"],
     },
-    imageHint: "Cazorla Natural Park river and forest landscape",
-  },
+    imageHint: "Cazorla Natural Park river and forest landscape", image: "/poi-images/spain-cazorla-life-v2.webp"},
   {
     id: "spain-cabo-de-gata-life-v2",
     type: "park",
@@ -379,8 +361,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Primul parc natural maritim-terestru", "Numeroși flamingi în saline", "Vegetație specială de agave", "Locație frecventă de filmare"],
       en: ["First maritime-terrestrial natural park", "Numerous flamingos in the salt pans", "Special agave vegetation", "Frequent filming location"],
     },
-    imageHint: "Cabo de Gata volcanic cliffs and beach Almeria",
-  },
+    imageHint: "Cabo de Gata volcanic cliffs and beach Almeria", image: "/poi-images/spain-cabo-de-gata-life-v2.webp"},
   {
     id: "spain-delta-ebre-life-v2",
     type: "park",
@@ -399,8 +380,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Peste 300 de specii de păsări observate", "Cunoscut pentru cultivarea orezului", "Colonie importantă de flamingi", "Amenințată de creșterea nivelului mării"],
       en: ["Over 300 bird species observed", "Known for rice cultivation", "Significant flamingo colony", "Threatened by rising sea levels"],
     },
-    imageHint: "Ebro Delta rice fields and lagoons",
-  },
+    imageHint: "Ebro Delta rice fields and lagoons", image: "/poi-images/spain-delta-ebre-life-v2.webp"},
   {
     id: "spain-albufera-valencia-life-v2",
     type: "park",
@@ -419,8 +399,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Cel mai mare lac din Spania", "Habitat important pentru stârci", "Originea preparatului Paella Valenciana", "Protejat din 1986"],
       en: ["Spain's largest lake", "Important habitat for herons", "Birthplace of Paella Valenciana", "Protected since 1986"],
     },
-    imageHint: "Albufera Valencia lake sunset with boat",
-  },
+    imageHint: "Albufera Valencia lake sunset with boat", image: "/poi-images/spain-albufera-valencia-life-v2.webp"},
   {
     id: "spain-rjb-madrid-life-v2",
     type: "park",
@@ -439,8 +418,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Fondată în anul 1755", "Adăpostește un ierbar mare", "Sunt prezente sere istorice", "Parte a sitului UNESCO 'Paseo del Prado'"],
       en: ["Founded in 1755", "Houses a massive herbarium", "Historic greenhouses present", "Part of the UNESCO 'Paseo del Prado' site"],
     },
-    imageHint: "Royal Botanical Garden Madrid entrance",
-  },
+    imageHint: "Royal Botanical Garden Madrid entrance", image: "/poi-images/spain-rjb-madrid-life-v2.webp"},
   {
     id: "spain-loro-parque-life-v2",
     type: "wildlife",
@@ -459,8 +437,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Cea mai mare colecție de papagali din lume", "Dispune de un pinguinariu mare", "Cunoscut pentru spectacole cu orca și delfini", "Desemnat de mai multe ori cea mai bună grădină zoologică"],
       en: ["World's largest parrot collection", "Features a massive penguinarium", "Known for orca and dolphin shows", "Repeatedly ranked as top zoo"],
     },
-    imageHint: "Loro Parque parrots and gardens Tenerife",
-  },
+    imageHint: "Loro Parque parrots and gardens Tenerife", image: "/poi-images/spain-loro-parque-life-v2.webp"},
   {
     id: "spain-bioparc-valencia-life-v2",
     type: "wildlife",
@@ -479,8 +456,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Specializat în fauna africană", "Suprafață de 100.000 de metri pătrați", "Găzduiește lemuri, elefanți și gorile", "Concept de bariere naturale"],
       en: ["Specialized in African fauna", "Area of 100,000 square meters", "Home to lemurs, elephants, and gorillas", "Concept of natural barriers"],
     },
-    imageHint: "Bioparc Valencia giraffes and savana",
-  },
+    imageHint: "Bioparc Valencia giraffes and savana", image: "/poi-images/spain-bioparc-valencia-life-v2.webp"},
   {
     id: "spain-cabarceno-life-v2",
     type: "wildlife",
@@ -499,8 +475,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Peste 750 de hectare suprafață", "Reproducere reușită a elefanților africani", "Telecabină pentru a vedea parcul", "Fostă mină de fier romană"],
       en: ["Over 750 hectares in size", "Successful African elephant breeding", "Cable car to view the park", "Former Roman iron mine"],
     },
-    imageHint: "Cabarceno Natural Park elephants karst landscape",
-  },
+    imageHint: "Cabarceno Natural Park elephants karst landscape", image: "/poi-images/spain-cabarceno-life-v2.webp"},
   {
     id: "spain-selwo-aventura-life-v2",
     type: "wildlife",
@@ -519,8 +494,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Singurii gheparzi născuți în Spania", "Poduri suspendate mari prezente", "Posibilități de cazare în colibe", "Plimbări cu vehicule de teren disponibile"],
       en: ["Only cheetahs born in Spain", "Large suspension bridges present", "Accommodation available in huts", "Off-road vehicle tours available"],
     },
-    imageHint: "Selwo Aventura safari animals Estepona",
-  },
+    imageHint: "Selwo Aventura safari animals Estepona", image: "/poi-images/spain-selwo-aventura-life-v2.webp"},
   {
     id: "spain-faunia-life-v2",
     type: "wildlife",
@@ -539,8 +513,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Peste 3.000 de animale în 4 ecosisteme", "Unul dintre cele mai mari pinguinarii din Europa", "Ecosistem nocturn prezent", "Diversitate mare de insecte și reptile"],
       en: ["Over 3,000 animals in 4 ecosystems", "One of Europe's largest penguinariums", "Night ecosystem exhibit", "Great variety of insects and reptiles"],
     },
-    imageHint: "Faunia Madrid penguin exhibition",
-  },
+    imageHint: "Faunia Madrid penguin exhibition", image: "/poi-images/spain-faunia-life-v2.webp"},
   {
     id: "spain-zoo-madrid-life-v2",
     type: "wildlife",
@@ -559,8 +532,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Cunoscut pentru urșii panda uriași", "Fondată în 1770 (inițial)", "Acvariu în formă de piramidă", "Programe de reproducere pentru specii pe cale de dispariție"],
       en: ["Famous for its giant pandas", "Founded in 1770 (originally)", "Pyramid-shaped aquarium", "Breeding programs for endangered species"],
     },
-    imageHint: "Zoo Madrid panda bear",
-  },
+    imageHint: "Zoo Madrid panda bear", image: "/poi-images/spain-zoo-madrid-life-v2.webp"},
   {
     id: "spain-marismas-odiel-life-v2",
     type: "park",
@@ -579,8 +551,7 @@ export const spainLifeV2: POI[] = [
       ro: ["Cea mai mare colonie de lopătari din Europa", "Zonă protejată Ramsar", "Loc important pentru flamingi", "Numeroase puncte de observare"],
       en: ["Largest spoonbill colony in Europe", "Ramsar protected site", "Major site for flamingos", "Numerous birdwatching hides"],
     },
-    imageHint: "Marismas del Odiel marshes with birds",
-  },
+    imageHint: "Marismas del Odiel marshes with birds", image: "/poi-images/spain-marismas-odiel-life-v2.webp"},
   {
     id: "spain-gallocanta-life-v2",
     type: "lake",

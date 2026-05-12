@@ -19,8 +19,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Inaugurată în anul 1896", "A servit mult timp ca Bibliotecă Națională", "Grav avariată de bombardamente în 1992", "Redeschisă după restaurare în 2014"],
       en: ["Opened to the public in 1896", "Long served as the National Library", "Severely damaged by shelling in 1992", "Reopened after restoration in 2014"],
     },
-    imageHint: "Vijećnica City Hall building in Sarajevo",
-  },
+    imageHint: "Vijećnica City Hall building in Sarajevo", image: "/poi-images/bosniaherzegovina-sarajevo-city-hall-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-gazi-husrev-beg-mosque-landmarks-v2",
     type: "monument",
@@ -39,8 +38,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Construită în anul 1530", "Prima moschee din lume cu iluminat electric", "Cupola centrală are 26 de metri înălțime", "Proiectată de arhitectul Adjem Esir Ali"],
       en: ["Completed in 1530", "First mosque in the world to get electricity", "Main dome reaches 26 meters in height", "Designed by architect Adjem Esir Ali"],
     },
-    imageHint: "Gazi Husrev-beg Mosque courtyard and minaret",
-  },
+    imageHint: "Gazi Husrev-beg Mosque courtyard and minaret", image: "/poi-images/bosniaherzegovina-gazi-husrev-beg-mosque-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-yellow-bastion-landmarks-v2",
     type: "tower",
@@ -59,8 +57,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Construit între 1727 și 1739", "Componentă a cetății Vratnik", "Locul tradițional al focului de tun de Ramadan", "Punct de belvedere popular la apus"],
       en: ["Built between 1727 and 1739", "Part of the Vratnik fortification system", "Traditional site for the Ramadan cannon fire", "Popular spot for viewing the sunset"],
     },
-    imageHint: "Yellow Bastion fortress in Sarajevo overlooking the city",
-  },
+    imageHint: "Yellow Bastion fortress in Sarajevo overlooking the city", image: "/poi-images/bosniaherzegovina-yellow-bastion-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-pocitelj-fortress-landmarks-v2",
     type: "castle",
@@ -79,8 +76,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Fondată de regele Tvrtko I", "Cunoscută pentru turnul cu ceas distinctiv", "Candidat la patrimoniul UNESCO", "Adăpostește o moschee otomană"],
       en: ["Founded by King Tvrtko I", "Notable for its distinctive clock tower", "Tentative UNESCO World Heritage site", "Includes a historic Ottoman mosque"],
     },
-    imageHint: "Počitelj stone town and fortress",
-  },
+    imageHint: "Počitelj stone town and fortress", image: "/poi-images/bosniaherzegovina-pocitelj-fortress-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-ferhadija-mosque-landmarks-v2",
     type: "monument",
@@ -99,8 +95,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Construită în anul 1579", "Distrusă în 1993 și reconstruită în 2016", "Finanțată de Ferhad Pasha Sokolović", "Stil arhitectural otoman clasic"],
       en: ["Completed in 1579", "Destroyed in 1993 and reopened in 2016", "Funded by Ferhad Pasha Sokolović", "Masterpiece of Ottoman masonry"],
     },
-    imageHint: "Ferhadija Mosque in Banja Luka",
-  },
+    imageHint: "Ferhadija Mosque in Banja Luka", image: "/poi-images/bosniaherzegovina-ferhadija-mosque-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-cathedral-of-jesus-sacred-heart-landmarks-v2",
     type: "cathedral",
@@ -119,8 +114,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Construită între 1884 și 1889", "Proiectată în stil neogotic", "Arhitectul a fost Josip Vancaš", "Simbol al diversității religioase"],
       en: ["Built between 1884 and 1889", "Designed in the Neo-Gothic style", "Architect was Josip Vancaš", "Symbol of the city's multi-faith heritage"],
     },
-    imageHint: "Cathedral of Jesus' Sacred Heart in Sarajevo facade",
-  },
+    imageHint: "Cathedral of Jesus' Sacred Heart in Sarajevo facade", image: "/poi-images/bosniaherzegovina-cathedral-of-jesus-sacred-heart-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-old-orthodox-church-landmarks-v2",
     type: "monument",
@@ -139,8 +133,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Menționată prima dată în secolul XVI", "Deține o catapeteasmă valoroasă", "Plan pătrat unic în regiune", "Situată lângă bazarul Baščaršija"],
       en: ["First mentioned in 16th-century records", "Contains a valuable iconostasis", "Unique square architectural plan", "Located near the Baščaršija bazaar"],
     },
-    imageHint: "Old Orthodox Church in Sarajevo exterior",
-  },
+    imageHint: "Old Orthodox Church in Sarajevo exterior", image: "/poi-images/bosniaherzegovina-old-orthodox-church-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-sebilj-fountain-landmarks-v2",
     type: "monument",
@@ -159,8 +152,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Construită inițial în 1753", "Reconstruită în anul 1891", "Centrul cartierului bazarului", "Donată de Mehmed Pasha Kukavica"],
       en: ["Original built in 1753", "Reconstructed in 1891", "Central hub of the old bazaar district", "Donated by Mehmed Pasha Kukavica"],
     },
-    imageHint: "Sebilj fountain in Bascarsija Sarajevo",
-  },
+    imageHint: "Sebilj fountain in Bascarsija Sarajevo", image: "/poi-images/bosniaherzegovina-sebilj-fountain-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-national-museum-landmarks-v2",
     type: "museum",
@@ -179,8 +171,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Adăpostește faimoasa Haggadah din Sarajevo", "Compus din patru pavilioane", "Include o grădină botanică", "Arhitectul a fost Karel Pařík"],
       en: ["Home to the famous Sarajevo Haggadah", "Consists of four interconnected pavilions", "Features an internal botanical garden", "Designed by Czech architect Karel Pařík"],
     },
-    imageHint: "National Museum of Bosnia and Herzegovina building",
-  },
+    imageHint: "National Museum of Bosnia and Herzegovina building", image: "/poi-images/bosniaherzegovina-national-museum-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-ljubuski-fortress-landmarks-v2",
     type: "castle",
@@ -239,8 +230,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Inaugurat la 6 aprilie 1946", "Situat la intersecția străzii Tito", "Arde continuu, exceptând mentenanța", "Simbol al eliberării orașului"],
       en: ["Unveiled on April 6, 1946", "Located at the corner of Tito Street", "Burns continuously except during repair", "Commemorates the city's liberation"],
     },
-    imageHint: "Eternal Flame monument in Sarajevo",
-  },
+    imageHint: "Eternal Flame monument in Sarajevo", image: "/poi-images/bosniaherzegovina-eternal-flame-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-museum-of-sarajevo-1878-1918-landmarks-v2",
     type: "museum",
@@ -259,8 +249,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Prezintă exponate din perioada austro-ungară", "Situat chiar lângă Podul Latin", "Păstrează haine ale asasinilor", "Cunoscut anterior ca magazinul Schiller"],
       en: ["Focuses on the Austro-Hungarian period", "Located exactly at the Latin Bridge", "Displays artifacts related to the assassins", "Housed in the former Schiller's store"],
     },
-    imageHint: "Museum of Sarajevo corner building near Latin Bridge",
-  }
+    imageHint: "Museum of Sarajevo corner building near Latin Bridge", image: "/poi-images/bosniaherzegovina-museum-of-sarajevo-1878-1918-landmarks-v2.webp"}
 ,
   {
     id: "bosniaherzegovina-banski-dvor-landmarks-v2",
@@ -298,8 +287,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Înălțime: 107 metri", "Parte a mănăstirii franciscane", "Reconstruit după război în anul 2000", "Dispune de o platformă de observație la 75 de metri"],
       en: ["Height: 107 meters", "Part of the Franciscan monastery complex", "Rebuilt after the war in the year 2000", "Features an observation deck at 75 meters"],
     },
-    imageHint: "Mostar Peace Bell Tower Franciscan church",
-  },
+    imageHint: "Mostar Peace Bell Tower Franciscan church", image: "/poi-images/bosniaherzegovina-mostar-peace-bell-tower-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-cathedral-st-bonaventure-landmarks-v2",
     type: "cathedral",
@@ -317,8 +305,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Sediul Episcopiei de Banja Luka", "Construită între 1972 și 1973", "Turnul clopotniță separat are 42 de metri înălțime", "Proiectată de arhitectul Alfred Pichler"],
       en: ["Seat of the Diocese of Banja Luka", "Built between 1972 and 1973", "The freestanding bell tower is 42 meters high", "Designed by architect Alfred Pichler"],
     },
-    imageHint: "Cathedral Saint Bonaventure Banja Luka modern architecture",
-  },
+    imageHint: "Cathedral Saint Bonaventure Banja Luka modern architecture", image: "/poi-images/bosniaherzegovina-cathedral-st-bonaventure-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-hercegovacka-gracanica-landmarks-v2",
     type: "church",
@@ -336,8 +323,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Construită în anul 2000", "Compusă din cinci cupole", "Oferă o vedere panoramică asupra orașului Trebinje", "Au fost utilizate materiale din regiune"],
       en: ["Built in the year 2000", "Consists of five domes", "Offers a panoramic view of Trebinje city", "Local regional materials were used in construction"],
     },
-    imageHint: "Hercegovacka Gracanica Trebinje exterior",
-  },
+    imageHint: "Hercegovacka Gracanica Trebinje exterior", image: "/poi-images/bosniaherzegovina-hercegovacka-gracanica-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-museum-contemporary-art-rs-landmarks-v2",
     type: "museum",
@@ -355,8 +341,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1971", "Clădirea a fost construită în 1891 ca gară", "Adăpostește peste 1.600 de opere de artă", "Cea mai importantă instituție de artă modernă din RS"],
       en: ["Founded in 1971", "The building was built in 1891 as a railway station", "Houses over 1,600 artworks", "Most important institution for modern art in Republic of Srpska"],
     },
-    imageHint: "Museum Contemporary Art Banja Luka former railway station",
-  },
+    imageHint: "Museum Contemporary Art Banja Luka former railway station", image: "/poi-images/bosniaherzegovina-museum-contemporary-art-rs-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-gradacac-tower-landmarks-v2",
     type: "tower",
@@ -412,8 +397,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Construit în secolul al XVII-lea", "Înălțime: aprox. 30 de metri", "Singurul ceas public din lume care indică ora lunară", "Restaurat după incendiile din secolul al XVIII-lea"],
       en: ["Built in the 17th century", "Height: approximately 30 meters", "Only public clock in the world showing lunar time", "Renovated after fires in the 18th century"],
     },
-    imageHint: "Sahat kula Sarajevo clock tower Bascarsija",
-  },
+    imageHint: "Sahat kula Sarajevo clock tower Bascarsija", image: "/poi-images/bosniaherzegovina-sahat-kula-sarajevo-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-war-child-museum-landmarks-v2",
     type: "museum",
@@ -431,8 +415,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Deschis în anul 2017", "A câștigat Premiul Muzeului Consiliului Europei în 2018", "Bazat pe cartea 'War Childhood'", "Colecția cuprinde peste 3.000 de obiecte"],
       en: ["Opened in 2017", "Won the Council of Europe Museum Prize in 2018", "Based on the book 'War Childhood'", "The collection includes over 3,000 objects"],
     },
-    imageHint: "War Child Museum Sarajevo entrance",
-  },
+    imageHint: "War Child Museum Sarajevo entrance", image: "/poi-images/bosniaherzegovina-war-child-museum-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-emperors-mosque-sarajevo-landmarks-v2",
     type: "monument",
@@ -450,8 +433,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Construită în anul 1457", "Clădirea originală din lemn a fost înlocuită cu piatră în 1565", "Numită după Sultanul Mehmed Cuceritorul", "Situată pe malul stâng al râului Miljacka"],
       en: ["Built in 1457", "Original wooden structure replaced by stone in 1565", "Named after Sultan Mehmed the Conqueror", "Located on the left bank of the Miljacka River"],
     },
-    imageHint: "Emperors Mosque Sarajevo courtyard exterior",
-  },
+    imageHint: "Emperors Mosque Sarajevo courtyard exterior", image: "/poi-images/bosniaherzegovina-emperors-mosque-sarajevo-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-sarajevo-synagogue-landmarks-v2",
     type: "monument",
@@ -469,8 +451,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Construită în anul 1902", "Proiectată de arhitectul Karl Pařík", "Are turnuri de colț caracteristice cu cupole", "Centrul comunității evreiești din Sarajevo"],
       en: ["Built in 1902", "Designed by architect Karl Pařík", "Features characteristic corner towers with domes", "Center of the Jewish community in Sarajevo"],
     },
-    imageHint: "Sarajevo Synagogue Ashkenazi exterior neomoorish",
-  },
+    imageHint: "Sarajevo Synagogue Ashkenazi exterior neomoorish", image: "/poi-images/bosniaherzegovina-sarajevo-synagogue-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-muslibegovic-house-landmarks-v2",
     type: "museum",
@@ -488,8 +469,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Construită la sfârșitul secolului al XVIII-lea", "Compusă din zone separate pentru bărbați și femei", "Conține mobilier și manuscrise originale", "Monument național al Bosniei și Herțegovinei"],
       en: ["Built in the late 18th century", "Consists of separate quarters for men and women", "Contains original furniture and manuscripts", "National Monument of Bosnia and Herzegovina"],
     },
-    imageHint: "Muslibegovic House Mostar Ottoman interior",
-  },
+    imageHint: "Muslibegovic House Mostar Ottoman interior", image: "/poi-images/bosniaherzegovina-muslibegovic-house-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-jewish-museum-bih-landmarks-v2",
     type: "museum",
@@ -507,8 +487,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Sinagoga construită în anul 1581", "Muzeul deschis în anul 1966", "Adăpostește facsimilul celebrei Hagada din Sarajevo", "Clădirea a fost distrusă de mai multe ori de incendii"],
       en: ["Synagogue built in 1581", "Museum opened in 1966", "Houses a facsimile of the famous Sarajevo Haggadah", "The building was destroyed by fire several times"],
     },
-    imageHint: "Jewish Museum Sarajevo Old Synagogue building",
-  },
+    imageHint: "Jewish Museum Sarajevo Old Synagogue building", image: "/poi-images/bosniaherzegovina-jewish-museum-bih-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-tvrtko-monument-sarajevo-landmarks-v2",
     type: "monument",
@@ -526,8 +505,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       ro: ["Ridicată în anul 2023", "Situată vizavi de clădirea Președinției", "Regele Tvrtko I a domnit între 1353 și 1391", "Înălțimea statuii: aprox. 3,5 metri"],
       en: ["Erected in the year 2023", "Located opposite the Presidency Building", "King Tvrtko I reigned from 1353 to 1391", "Statue height: approximately 3.5 meters"],
     },
-    imageHint: "Tvrtko I Monument Sarajevo king statue",
-  },
+    imageHint: "Tvrtko I Monument Sarajevo king statue", image: "/poi-images/bosniaherzegovina-tvrtko-monument-sarajevo-landmarks-v2.webp"},
   {
     id: "bosniaherzegovina-svrzos-house-landmarks-v2",
     type: "museum",

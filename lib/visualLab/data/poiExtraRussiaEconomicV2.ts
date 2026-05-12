@@ -19,8 +19,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Fondat în 1929", "Peste 60.000 de angajați", "Sediul în Magnitogorsk", "Producător major de oțel"],
       en: ["Founded in 1929", "Over 60,000 employees", "Headquartered in Magnitogorsk", "Major steel producer"],
     },
-    imageHint: "Industrial skyline of Magnitogorsk Iron and Steel Works",
-  },
+    imageHint: "Industrial skyline of Magnitogorsk Iron and Steel Works", image: "/poi-images/russia-magnitogorsk-steel-economic-v2.webp"},
   {
     id: "russia-norilsk-nickel-economic-v2",
     type: "mine",
@@ -39,8 +38,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Sediul în Norilsk", "Lider mondial în producția de paladiu", "Rezerve vaste de nichel și cupru", "Fondat în 1935"],
       en: ["Headquartered in Norilsk", "World leader in palladium production", "Vast nickel and copper reserves", "Founded in 1935"],
     },
-    imageHint: "Mining industrial facility in Norilsk Arctic landscape",
-  },
+    imageHint: "Mining industrial facility in Norilsk Arctic landscape", image: "/poi-images/russia-norilsk-nickel-economic-v2.webp"},
   {
     id: "russia-moscow-city-economic-v2",
     type: "city",
@@ -59,8 +57,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Construcția a început în 1998", "Cele mai înalte turnuri din Europa", "Centrul financiar al Rusiei", "Suprafață de aproximativ 60 de hectare"],
       en: ["Construction started in 1998", "Tallest towers in Europe", "Financial hub of Russia", "Area of approximately 60 hectares"],
     },
-    imageHint: "Skyscrapers of Moscow City international business district",
-  },
+    imageHint: "Skyscrapers of Moscow City international business district", image: "/poi-images/russia-moscow-city-economic-v2.webp"},
   {
     id: "russia-avtovaz-factory-economic-v2",
     type: "factory",
@@ -79,8 +76,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Sediul în Togliatti", "Produce vehicule Lada", "Fondată în 1966", "Inițial o colaborare cu Fiat"],
       en: ["Headquartered in Tolyatti", "Produces Lada vehicles", "Founded in 1966", "Originally a collaboration with Fiat"],
     },
-    imageHint: "AvtoVAZ car factory assembly line or building in Tolyatti",
-  },
+    imageHint: "AvtoVAZ car factory assembly line or building in Tolyatti", image: "/poi-images/russia-avtovaz-factory-economic-v2.webp"},
   {
     id: "russia-kamaz-factory-economic-v2",
     type: "factory",
@@ -99,8 +95,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Sediul în Naberejnye Celnî", "Fondată în 1969", "Cunoscută prin Raliul Dakar", "Export în peste 80 de țări"],
       en: ["Headquartered in Naberezhnye Chelny", "Founded in 1969", "Famous for Dakar Rally success", "Exports to over 80 countries"],
     },
-    imageHint: "Kamaz truck manufacturing plant or heavy truck",
-  },
+    imageHint: "Kamaz truck manufacturing plant or heavy truck", image: "/poi-images/russia-kamaz-factory-economic-v2.webp"},
   {
     id: "russia-mir-mine-economic-v2",
     type: "mine",
@@ -119,8 +114,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Sediul în Mirnîi", "Adâncime: 525 metri", "Descoperită în 1955", "Spațiu aerian închis pentru elicoptere"],
       en: ["Located in Mirny", "Depth: 525 meters", "Discovered in 1955", "Airspace closed to helicopters"],
     },
-    imageHint: "Massive open-pit Mir diamond mine in Siberia",
-  },
+    imageHint: "Massive open-pit Mir diamond mine in Siberia", image: "/poi-images/russia-mir-mine-economic-v2.webp"},
   {
     id: "russia-port-novorossiysk-economic-v2",
     type: "port",
@@ -139,8 +133,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Cel mai mare port de la Marea Neagră", "Terminal petrolier major", "Liber de gheață tot anul", "Fondat în 1845"],
       en: ["Largest Black Sea port", "Major oil terminal", "Ice-free year-round", "Founded in 1845"],
     },
-    imageHint: "Cargo ships and cranes at Port of Novorossiysk",
-  },
+    imageHint: "Cargo ships and cranes at Port of Novorossiysk", image: "/poi-images/russia-port-novorossiysk-economic-v2.webp"},
   {
     id: "russia-sayano-shushenskaya-dam-economic-v2",
     type: "industry",
@@ -159,8 +152,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Capacitate: 6.400 MW", "Înălțimea barajului: 242 metri", "Situată pe Enisei", "Pusă în funcțiune în 1978"],
       en: ["Capacity: 6,400 MW", "Dam height: 242 meters", "Located on the Yenisei River", "Operational since 1978"],
     },
-    imageHint: "Massive concrete dam of Sayano-Shushenskaya power station",
-  },
+    imageHint: "Massive concrete dam of Sayano-Shushenskaya power station", image: "/poi-images/russia-sayano-shushenskaya-dam-economic-v2.webp"},
   {
     id: "russia-surgut-oil-gas-economic-v2",
     type: "industry",
@@ -179,8 +171,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Sediul Surgutneftegas", "Centrul Siberiei de Vest", "Centrale electrice majore", "Nod feroviar important"],
       en: ["Headquarters of Surgutneftegas", "Hub of West Siberia", "Major power stations", "Important railway junction"],
     },
-    imageHint: "Oil refinery and industrial skyline of Surgut",
-  },
+    imageHint: "Oil refinery and industrial skyline of Surgut", image: "/poi-images/russia-surgut-oil-gas-economic-v2.webp"},
   {
     id: "russia-vostochny-cosmodrome-economic-v2",
     type: "industry",
@@ -199,8 +190,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Prima lansare în 2016", "Regiunea Amur", "Port spațial civil", "Rampe de lansare moderne"],
       en: ["First launch in 2016", "Amur Oblast", "Civilian spaceport", "State-of-the-art launch pads"],
     },
-    imageHint: "Launch pad and rocket assembly at Vostochny Cosmodrome",
-  },
+    imageHint: "Launch pad and rocket assembly at Vostochny Cosmodrome", image: "/poi-images/russia-vostochny-cosmodrome-economic-v2.webp"},
   {
     id: "russia-uralvagonzavod-economic-v2",
     type: "factory",
@@ -219,8 +209,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Sediul în Nijni Taghil", "Cea mai mare fabrică de tancuri", "Fondată în 1936", "Produce tancurile T-90 și T-14"],
       en: ["Located in Nizhny Tagil", "World's largest tank factory", "Founded in 1936", "Produces T-90 and T-14 tanks"],
     },
-    imageHint: "Industrial complex of Uralvagonzavod in Nizhny Tagil",
-  },
+    imageHint: "Industrial complex of Uralvagonzavod in Nizhny Tagil", image: "/poi-images/russia-uralvagonzavod-economic-v2.webp"},
   {
     id: "russia-yamal-lng-sabetta-economic-v2",
     type: "industry",
@@ -239,8 +228,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Portul arctic Sabetta", "Operat de Novatek", "Export tot timpul anului", "Tancuri petroliere spărgătoare de gheață"],
       en: ["Arctic port of Sabetta", "Operated by Novatek", "Year-round exports", "Special ice-breaking LNG carriers"],
     },
-    imageHint: "LNG processing facility and port at Sabetta Arctic",
-  },
+    imageHint: "LNG processing facility and port at Sabetta Arctic", image: "/poi-images/russia-yamal-lng-sabetta-economic-v2.webp"},
   {
     id: "russia-severstal-cherepovets-economic-v2",
     type: "factory",
@@ -279,8 +267,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Cea mai mare rafinărie din Rusia", "Filială Gazprom Neft", "Fondată în 1955", "Complex ultramodern"],
       en: ["Largest refinery in Russia", "Gazprom Neft subsidiary", "Founded in 1955", "State-of-the-art complex"],
     },
-    imageHint: "Vast industrial oil refinery complex in Omsk",
-  },
+    imageHint: "Vast industrial oil refinery complex in Omsk", image: "/poi-images/russia-omsk-oil-refinery-economic-v2.webp"},
   {
     id: "russia-bratsk-aluminum-smelter-economic-v2",
     type: "factory",
@@ -299,8 +286,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Cea mai mare instalație din lume", "Aparține RUSAL", "Fondată în 1966", "Produce 1 milion de tone anual"],
       en: ["World's largest plant", "Owned by RUSAL", "Founded in 1966", "Produces 1 million tonnes annually"],
     },
-    imageHint: "Bratsk aluminum smelter industrial buildings",
-  },
+    imageHint: "Bratsk aluminum smelter industrial buildings", image: "/poi-images/russia-bratsk-aluminum-smelter-economic-v2.webp"},
   {
     id: "russia-ust-luga-port-economic-v2",
     type: "port",
@@ -319,8 +305,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Port la Marea Baltică", "Bazin de adâncime", "Terminal de cărbune major", "Aproape de granița cu Estonia"],
       en: ["Baltic Sea port", "Deep-water facility", "Major coal terminal", "Near the Estonian border"],
     },
-    imageHint: "Modern shipping terminals at Port of Ust-Luga",
-  },
+    imageHint: "Modern shipping terminals at Port of Ust-Luga", image: "/poi-images/russia-ust-luga-port-economic-v2.webp"},
   {
     id: "russia-udachnaya-pipe-economic-v2",
     type: "mine",
@@ -359,8 +344,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Sediul în Zarecinîi", "Reactoare rapide", "A doua cea mai veche centrală nucleară", "Centru de cercetare"],
       en: ["Located in Zarechny", "Fast breeder reactors", "Second oldest NPP in Russia", "Research hub"],
     },
-    imageHint: "Beloyarsk nuclear power plant reactors and cooling towers",
-  },
+    imageHint: "Beloyarsk nuclear power plant reactors and cooling towers", image: "/poi-images/russia-beloyarsk-nuclear-economic-v2.webp"},
   {
     id: "russia-alabuga-sez-economic-v2",
     type: "industry",
@@ -379,8 +363,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Sediul în Elabuga", "Fondată în 2006", "Facilități fiscale", "Peste 30 de fabrici active"],
       en: ["Located in Yelabuga", "Established in 2006", "Tax incentives", "Over 30 active factories"],
     },
-    imageHint: "Modern industrial warehouses and factories in Alabuga SEZ",
-  },
+    imageHint: "Modern industrial warehouses and factories in Alabuga SEZ", image: "/poi-images/russia-alabuga-sez-economic-v2.webp"},
   {
     id: "russia-innopolis-tech-economic-v2",
     type: "city",
@@ -399,8 +382,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Fondat în 2012", "Zonă economică specială IT", "Arhitectură modernă", "Primul oraș de acest tip"],
       en: ["Founded in 2012", "IT special economic zone", "Modern architecture", "First city of its kind"],
     },
-    imageHint: "Modern university building and tech campus in Innopolis",
-  },
+    imageHint: "Modern university building and tech campus in Innopolis", image: "/poi-images/russia-innopolis-tech-economic-v2.webp"},
   {
     id: "russia-angarsk-petrochemical-economic-v2",
     type: "factory",
@@ -419,8 +401,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Sediul în Angarsk", "Fondat în 1945", "Capacitate mare", "Furnizor major de combustibil"],
       en: ["Located in Angarsk", "Founded in 1945", "High capacity", "Major fuel supplier"],
     },
-    imageHint: "Large industrial towers of Angarsk petrochemical complex",
-  },
+    imageHint: "Large industrial towers of Angarsk petrochemical complex", image: "/poi-images/russia-angarsk-petrochemical-economic-v2.webp"},
   {
     id: "russia-vyksa-steel-economic-v2",
     type: "factory",
@@ -439,8 +420,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Fondată în 1757", "Sediul în Vyksa", "Produce roți de tren", "Producție modernă de țevi"],
       en: ["Founded in 1757", "Located in Vyksa", "Produces railway wheels", "Advanced pipe production"],
     },
-    imageHint: "Large steel factory interior or exterior in Vyksa",
-  },
+    imageHint: "Large steel factory interior or exterior in Vyksa", image: "/poi-images/russia-vyksa-steel-economic-v2.webp"},
   {
     id: "russia-port-murmansk-economic-v2",
     type: "port",
@@ -459,8 +439,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Liber de gheață tot anul", "Influențat de Curentul Golfului", "Poarta Arcticii", "Export major de cărbune"],
       en: ["Ice-free year-round", "Gulf Stream influence", "Arctic gateway", "Major coal export hub"],
     },
-    imageHint: "Cargo port with ships in Murmansk winter",
-  },
+    imageHint: "Cargo port with ships in Murmansk winter", image: "/poi-images/russia-port-murmansk-economic-v2.webp"},
   {
     id: "russia-nlmk-lipetsk-economic-v2",
     type: "factory",
@@ -479,8 +458,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Sediul în Lipetsk", "Fondat în 1931", "Exportator major", "Producție de înaltă eficiență"],
       en: ["Located in Lipetsk", "Founded in 1931", "Significant exporter", "High-efficiency production"],
     },
-    imageHint: "NLMK industrial steel factory panorama in Lipetsk",
-  },
+    imageHint: "NLMK industrial steel factory panorama in Lipetsk", image: "/poi-images/russia-nlmk-lipetsk-economic-v2.webp"},
   {
     id: "russia-chelyabinsk-tractor-economic-v2",
     type: "factory",
@@ -499,8 +477,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Fondată în 1933", "Sediul în Celeabinsk", "Fostă producție de tancuri", "Utilaje grele de construcții"],
       en: ["Founded in 1933", "Located in Chelyabinsk", "Former tank production site", "Heavy industrial machinery"],
     },
-    imageHint: "Chelyabinsk tractor plant industrial gate or vehicles",
-  },
+    imageHint: "Chelyabinsk tractor plant industrial gate or vehicles", image: "/poi-images/russia-chelyabinsk-tractor-economic-v2.webp"},
   {
     id: "russia-volzhsky-pipe-economic-v2",
     type: "factory",
@@ -519,8 +496,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Sediul în Volzhsky", "Fondată în 1970", "Parte a grupului TMK", "Țevi de diametru mare"],
       en: ["Located in Volzhsky", "Founded in 1970", "Part of TMK Group", "Large-diameter pipes"],
     },
-    imageHint: "Stacks of large steel pipes at Volzhsky factory",
-  },
+    imageHint: "Stacks of large steel pipes at Volzhsky factory", image: "/poi-images/russia-volzhsky-pipe-economic-v2.webp"},
   {
     id: "russia-krasnoyarsk-aluminum-economic-v2",
     type: "factory",
@@ -559,8 +535,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Sediul în Prigorodnoe", "Insula Sahalin", "Prima uzină GNL din Rusia", "Export major către Japonia"],
       en: ["Located in Prigorodnoye", "Sakhalin Island", "First LNG plant in Russia", "Major exporter to Japan"],
     },
-    imageHint: "LNG storage tanks and shipping terminal on Sakhalin Island",
-  },
+    imageHint: "LNG storage tanks and shipping terminal on Sakhalin Island", image: "/poi-images/russia-sakhalin-2-lng-economic-v2.webp"},
   {
     id: "russia-bilibino-nuclear-economic-v2",
     type: "industry",
@@ -579,8 +554,7 @@ export const russiaEconomicV2: POI[] = [
       ro: ["Cea mai nordică centrală", "Regiunea Ciukotka", "Zonă de permafrost", "Cea mai mică centrală nucleară rusă"],
       en: ["Northernmost NPP", "Chukotka region", "Built on permafrost", "Smallest nuclear plant in Russia"],
     },
-    imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
-  },
+    imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra", image: "/poi-images/russia-bilibino-nuclear-economic-v2.webp"},
   {
     id: "russia-st-petersburg-port-economic-v2",
     type: "port",

@@ -19,8 +19,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construcția a început în 1745", "Lungime inițială de 23 de kilometri", "Patrimoniu UNESCO din 1994", "Parte a fortificațiilor Luxemburgului"],
       en: ["Construction began in 1745", "Original length of 23 kilometers", "UNESCO World Heritage since 1994", "Part of the Fortress of Luxembourg"],
     },
-    imageHint: "Bock Casemates stone tunnels with cannon openings",
-  },
+    imageHint: "Bock Casemates stone tunnels with cannon openings", image: "/poi-images/luxembourg-bock-casemates-history-v2.webp"},
   {
     id: "luxembourg-vianden-castle-history-v2",
     type: "castle",
@@ -39,8 +38,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construit pe fundații romane", "Sediul conților de Vianden", "Restaurat complet începând cu 1977", "Exemplu de arhitectură romanică și gotică"],
       en: ["Built on Roman foundations", "Seat of the Counts of Vianden", "Fully restored starting in 1977", "Example of Romanesque and Gothic architecture"],
     },
-    imageHint: "Vianden Castle on a hill surrounded by forest",
-  },
+    imageHint: "Vianden Castle on a hill surrounded by forest", image: "/poi-images/luxembourg-vianden-castle-history-v2.webp"},
   {
     id: "luxembourg-bourscheid-castle-history-v2",
     type: "castle",
@@ -59,8 +57,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Cel mai mare castel din Luxemburg", "Prima mențiune în anul 1095", "Situat la 370 de metri altitudine", "Dispune de opt turnuri circulare"],
       en: ["Largest castle in Luxembourg", "First mentioned in 1095", "Located at 370 meters altitude", "Features eight round towers"],
     },
-    imageHint: "Bourscheid Castle ruins at night with illumination",
-  },
+    imageHint: "Bourscheid Castle ruins at night with illumination", image: "/poi-images/luxembourg-bourscheid-castle-history-v2.webp"},
   {
     id: "luxembourg-clervaux-castle-history-v2",
     type: "castle",
@@ -79,8 +76,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Datează din secolul al XII-lea", "Distrus în iarna 1944/45", "Găzduiește expoziția 'The Family of Man'", "Are un tanc Sherman în curte"],
       en: ["Dates back to the 12th century", "Destroyed in winter 1944/45", "Home to 'The Family of Man' exhibit", "Features a Sherman tank in the courtyard"],
     },
-    imageHint: "White Clervaux Castle with a tank in front",
-  },
+    imageHint: "White Clervaux Castle with a tank in front", image: "/poi-images/luxembourg-clervaux-castle-history-v2.webp"},
   {
     id: "luxembourg-esch-sur-sure-castle-history-v2",
     type: "ruins",
@@ -99,8 +95,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Fondat în anul 927", "Construit într-o buclă a râului", "Capela gotică s-a păstrat", "Ruină iluminată pe timp de noapte"],
       en: ["Founded in the year 927", "Built in a river meander", "Gothic chapel still preserved", "Illuminated ruin at night"],
     },
-    imageHint: "Ruins of Esch-sur-Sûre Castle on a ridge",
-  },
+    imageHint: "Ruins of Esch-sur-Sûre Castle on a ridge", image: "/poi-images/luxembourg-esch-sur-sure-castle-history-v2.webp"},
   {
     id: "luxembourg-larochette-castle-history-v2",
     type: "castle",
@@ -119,8 +114,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construit în secolul al XI-lea", "Distrus de incendiu în 1565", "Include 'Casa Homburg'", "Situat pe un platou de gresie"],
       en: ["Built in the 11th century", "Destroyed by fire in 1565", "Features the 'Homburg House'", "Located on a sandstone plateau"],
     },
-    imageHint: "Larochette Castle ruins on a cliff",
-  },
+    imageHint: "Larochette Castle ruins on a cliff", image: "/poi-images/luxembourg-larochette-castle-history-v2.webp"},
   {
     id: "luxembourg-hollenfels-castle-history-v2",
     type: "castle",
@@ -139,8 +133,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Turnul are 23 de metri înălțime", "Parte din Valea celor Șapte Castele", "Fondat în secolul al XI-lea", "Astăzi este un hostel pentru tineret"],
       en: ["Keep is 23 meters high", "Part of the Valley of Seven Castles", "Founded in the 11th century", "Now used as a youth hostel"],
     },
-    imageHint: "Tall square tower of Hollenfels Castle",
-  },
+    imageHint: "Tall square tower of Hollenfels Castle", image: "/poi-images/luxembourg-hollenfels-castle-history-v2.webp"},
   {
     id: "luxembourg-new-ansembourg-castle-history-v2",
     type: "palace",
@@ -159,8 +152,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construit între 1639 și 1647", "Grădini baroce terasate faimoase", "Alee cu statui mitologice", "Proprietatea privată a conților de Ansembourg"],
       en: ["Built between 1639 and 1647", "Famous Baroque terraced gardens", "Alley of mythological statues", "Private property of Counts of Ansembourg"],
     },
-    imageHint: "Gardens of New Ansembourg Castle with statues",
-  },
+    imageHint: "Gardens of New Ansembourg Castle with statues", image: "/poi-images/luxembourg-new-ansembourg-castle-history-v2.webp"},
   {
     id: "luxembourg-wiltz-castle-history-v2",
     type: "castle",
@@ -179,8 +171,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Clădire renascentistă din 1631", "Găzduiește muzeul berăritului", "Teatru în aer liber în curte", "Centrul Festivalului Wiltz"],
       en: ["Renaissance building from 1631", "Home to the brewery museum", "Open-air theater in the courtyard", "Center of the Wiltz Festival"],
     },
-    imageHint: "Renaissance facade of Wiltz Castle",
-  },
+    imageHint: "Renaissance facade of Wiltz Castle", image: "/poi-images/luxembourg-wiltz-castle-history-v2.webp"},
   {
     id: "luxembourg-patton-memorial-museum-history-v2",
     type: "museum",
@@ -199,8 +190,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Locul eliberării orașului Ettelbruck", "Peste 1.000 de obiecte expuse", "Focus pe generalul George S. Patton", "Colecție vastă de armament"],
       en: ["Site of Ettelbruck's liberation", "Over 1,000 exhibits on display", "Focused on George S. Patton", "Extensive collection of weapons"],
     },
-    imageHint: "Statue of General Patton in Ettelbruck",
-  },
+    imageHint: "Statue of General Patton in Ettelbruck", image: "/poi-images/luxembourg-patton-memorial-museum-history-v2.webp"},
   {
     id: "luxembourg-military-history-museum-diekirch-history-v2",
     type: "museum",
@@ -219,8 +209,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Focus pe Ofensiva din Ardeni", "Diorame realiste la scară naturală", "Colecție mare de vehicule și tancuri", "Fondat în anul 1984"],
       en: ["Focus on the Battle of the Bulge", "Realistic life-sized dioramas", "Large collection of vehicles and tanks", "Founded in 1984"],
     },
-    imageHint: "World War II dioramas in Diekirch museum",
-  },
+    imageHint: "World War II dioramas in Diekirch museum", image: "/poi-images/luxembourg-military-history-museum-diekirch-history-v2.webp"},
   {
     id: "luxembourg-american-cemetery-hamm-history-v2",
     type: "monument",
@@ -259,8 +248,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Peste 10.000 de morminte", "Cruci din granit în loc de marmură", "Primul cimitir german din străinătate", "Inaugurat în anul 1955"],
       en: ["Over 10,000 graves", "Granite crosses instead of marble", "First German cemetery abroad", "Inaugurated in 1955"],
     },
-    imageHint: "Dark granite crosses at Sandweiler Cemetery",
-  },
+    imageHint: "Dark granite crosses at Sandweiler Cemetery", image: "/poi-images/luxembourg-german-war-cemetery-sandweiler-history-v2.webp"},
   {
     id: "luxembourg-roman-villa-echternach-history-v2",
     type: "ruins",
@@ -279,8 +267,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construită în secolul I d.Hr.", "Peste 70 de camere descoperite", "Dispune de băi romane", "Cea mai mare vilă din zona Trier"],
       en: ["Built in the 1st century AD", "Over 70 rooms discovered", "Features Roman baths", "Largest villa in the Trier region"],
     },
-    imageHint: "Foundations of Roman Villa Echternach",
-  },
+    imageHint: "Foundations of Roman Villa Echternach", image: "/poi-images/luxembourg-roman-villa-echternach-history-v2.webp"},
   {
     id: "luxembourg-echternach-abbey-history-v2",
     type: "cathedral",
@@ -299,8 +286,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Fondată în anul 698", "Locul de înmormântare al Sf. Willibrord", "Centrul procesiunii dansante", "Găzduiește Muzeul Abației"],
       en: ["Founded in the year 698", "Burial place of Saint Willibrord", "Center of the Dancing Procession", "Home to the Abbey Museum"],
     },
-    imageHint: "Echternach Abbey basilica exterior",
-  },
+    imageHint: "Echternach Abbey basilica exterior", image: "/poi-images/luxembourg-echternach-abbey-history-v2.webp"},
   {
     id: "luxembourg-fort-thungen-history-v2",
     type: "fortification",
@@ -319,8 +305,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construit în anul 1732", "Poreclit 'Trei Ghinde'", "Parte a fortăreței Luxemburg", "Găzduiește Muzeul Cetății"],
       en: ["Built in the year 1732", "Nickname 'Three Acorns'", "Part of the Fortress of Luxembourg", "Home to the Fortress Museum"],
     },
-    imageHint: "Three Acorns towers of Fort Thüngen",
-  },
+    imageHint: "Three Acorns towers of Fort Thüngen", image: "/poi-images/luxembourg-fort-thungen-history-v2.webp"},
   {
     id: "luxembourg-gelle-fra-monument-history-v2",
     type: "monument",
@@ -339,8 +324,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Ridicat în anul 1923", "Înseamnă 'Femeia de Aur'", "Distrus în 1940, restaurat în 1984", "Memorial pentru victimele războiului"],
       en: ["Erected in the year 1923", "Name means 'Golden Lady'", "Destroyed in 1940, restored in 1984", "Memorial for war victims"],
     },
-    imageHint: "Golden Lady statue on a tall obelisk",
-  },
+    imageHint: "Golden Lady statue on a tall obelisk", image: "/poi-images/luxembourg-gelle-fra-monument-history-v2.webp"},
   {
     id: "luxembourg-grand-ducal-palace-history-v2",
     type: "palace",
@@ -359,8 +343,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Reședința Marelui Duce", "Construit în 1572 ca primărie", "Stil renascentist flamand", "Schimbarea gărzii are loc vara"],
       en: ["Residence of the Grand Duke", "Built starting 1572 as a city hall", "Flemish Renaissance style", "Changing of the guard in summer"],
     },
-    imageHint: "Ornate facade of Grand Ducal Palace",
-  },
+    imageHint: "Ornate facade of Grand Ducal Palace", image: "/poi-images/luxembourg-grand-ducal-palace-history-v2.webp"},
   {
     id: "luxembourg-notre-dame-cathedral-luxembourg-history-v2",
     type: "cathedral",
@@ -379,8 +362,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construită între 1613-1621", "Locul de veci al Marilor Duci", "Stil gotic târziu și renaștere", "Are trei turnuri distinctive"],
       en: ["Built between 1613-1621", "Burial place of Grand Dukes", "Late Gothic and Renaissance style", "Features three distinct spires"],
     },
-    imageHint: "Towers of Notre-Dame Cathedral Luxembourg",
-  },
+    imageHint: "Towers of Notre-Dame Cathedral Luxembourg", image: "/poi-images/luxembourg-notre-dame-cathedral-luxembourg-history-v2.webp"},
   {
     id: "luxembourg-place-d-armes-luxembourg-history-v2",
     type: "landmark",
@@ -399,8 +381,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Amenajată în anul 1671", "Fost teren de paradă", "Centrul orașului vechi", "Locul unde se află Cercle Cité"],
       en: ["Laid out in the year 1671", "Former parade ground", "Center of the old town", "Location of the Cercle Cité"],
     },
-    imageHint: "Place d'Armes square with cafes and trees",
-  },
+    imageHint: "Place d'Armes square with cafes and trees", image: "/poi-images/luxembourg-place-d-armes-luxembourg-history-v2.webp"},
   {
     id: "luxembourg-neumunster-abbey-history-v2",
     type: "landmark",
@@ -419,8 +400,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Abație benedictină din 1606", "Fostă închisoare de stat", "Centru cultural din 2004", "Situată în cartierul Grund"],
       en: ["Benedictine abbey from 1606", "Former state prison", "Cultural center since 2004", "Located in the scenic Grund"],
     },
-    imageHint: "Neumünster Abbey buildings by the river",
-  },
+    imageHint: "Neumünster Abbey buildings by the river", image: "/poi-images/luxembourg-neumunster-abbey-history-v2.webp"},
   {
     id: "luxembourg-schoenfels-castle-history-v2",
     type: "castle",
@@ -439,8 +419,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Donjon din secolul al XII-lea", "Parte din Valea celor Șapte Castele", "Are turnulețe de colț distinctive", "Proprietatea statului"],
       en: ["Keep from the 12th century", "Part of the Valley of Seven Castles", "Features distinctive corner turrets", "State-owned property"],
     },
-    imageHint: "Tall square keep of Schoenfels Castle",
-  },
+    imageHint: "Tall square keep of Schoenfels Castle", image: "/poi-images/luxembourg-schoenfels-castle-history-v2.webp"},
   {
     id: "luxembourg-koerich-castle-history-v2",
     type: "ruins",
@@ -459,8 +438,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Fondat în secolul al XII-lea", "Poreclit 'Grevenlass'", "Stil gotic târziu", "Castel situat la câmpie"],
       en: ["Founded in the 12th century", "Nickname 'Grevenlass'", "Late Gothic influence", "Lowland castle layout"],
     },
-    imageHint: "Stone ruins of Koerich Castle in a village",
-  },
+    imageHint: "Stone ruins of Koerich Castle in a village", image: "/poi-images/luxembourg-koerich-castle-history-v2.webp"},
   {
     id: "luxembourg-useldange-castle-history-v2",
     type: "ruins",
@@ -479,8 +457,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construit în secolul al XII-lea", "Situat deasupra văii Attert", "Are un donjon circular", "Traseu de vizitare accesibil"],
       en: ["Built in the 12th century", "Overlooks the Attert Valley", "Features a round keep", "Handicap-accessible tour path"],
     },
-    imageHint: "Useldange Castle ruins and round tower",
-  },
+    imageHint: "Useldange Castle ruins and round tower", image: "/poi-images/luxembourg-useldange-castle-history-v2.webp"},
   {
     id: "luxembourg-brandenbourg-castle-history-v2",
     type: "ruins",
@@ -499,8 +476,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIII-lea", "Distrus în secolul al XVII-lea", "Situat pe o creastă îngustă", "Structură pe patru niveluri"],
       en: ["Built in the 13th century", "Destroyed in the 17th century", "Located on a narrow ridge", "Features four levels"],
     },
-    imageHint: "Brandenbourg Castle ruins on a hilltop",
-  },
+    imageHint: "Brandenbourg Castle ruins on a hilltop", image: "/poi-images/luxembourg-brandenbourg-castle-history-v2.webp"},
   {
     id: "luxembourg-mont-saint-jean-dudelange-history-v2",
     type: "ruins",
@@ -519,8 +495,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Fost refugiu celtic", "Ruinele unui castel medieval", "Tradiția focului de Sf. Ioan", "Situl unor săpături arheologice"],
       en: ["Former Celtic refuge", "Ruins of a medieval castle", "Annual St. John's bonfire tradition", "Site of archaeological excavations"],
     },
-    imageHint: "Archaeological ruins on Mont Saint-Jean",
-  },
+    imageHint: "Archaeological ruins on Mont Saint-Jean", image: "/poi-images/luxembourg-mont-saint-jean-dudelange-history-v2.webp"},
   {
     id: "luxembourg-citadel-holy-spirit-history-v2",
     type: "fortification",
@@ -539,8 +514,7 @@ export const luxembourgHistoryV2: POI[] = [
       ro: ["Modernizată de Vauban", "Construită pe locul unei mănăstiri", "Parte a fortăreței Luxemburg", "Punct de observație strategic"],
       en: ["Modernized by Vauban", "Built on monastery grounds", "Part of the Fortress of Luxembourg", "Strategic vantage point"],
     },
-    imageHint: "Bastions of the Citadel of the Holy Spirit",
-  },
+    imageHint: "Bastions of the Citadel of the Holy Spirit", image: "/poi-images/luxembourg-citadel-holy-spirit-history-v2.webp"},
   {
     id: "luxembourg-national-museum-resistance-esch-history-v2",
     type: "museum",

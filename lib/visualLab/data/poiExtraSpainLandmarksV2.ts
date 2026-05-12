@@ -19,8 +19,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Începerea construcției: 1882", "Arhitect: Antoni Gaudí", "Înălțime planificată: 172 m", "Patrimoniu UNESCO: 2005"],
       en: ["Started in: 1882", "Architect: Antoni Gaudí", "Planned height: 172 meters", "UNESCO site since 2005"],
     },
-    imageHint: "Sagrada Familia basilica in Barcelona at sunrise",
-  },
+    imageHint: "Sagrada Familia basilica in Barcelona at sunrise", image: "/poi-images/spain-sagrada-familia-landmarks-v2.webp"},
   {
     id: "spain-mezquita-cordoba-landmarks-v2",
     type: "cathedral",
@@ -39,8 +38,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Începută în: 784", "Număr de coloane: 856", "Patrimoniu UNESCO: 1984", "Suprafață: 23.400 mp"],
       en: ["Started in: 784", "Number of columns: 856", "UNESCO site since 1984", "Area: 23,400 square meters"],
     },
-    imageHint: "Interior of Mosque-Cathedral of Cordoba with red and white arches",
-  },
+    imageHint: "Interior of Mosque-Cathedral of Cordoba with red and white arches", image: "/poi-images/spain-mezquita-cordoba-landmarks-v2.webp"},
   {
     id: "spain-seville-cathedral-landmarks-v2",
     type: "cathedral",
@@ -59,8 +57,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Construită în: 1401–1506", "Stil: gotic și renaștere", "Înălțime Giralda: 104 m", "Patrimoniu UNESCO: 1987"],
       en: ["Built: 1401–1506", "Style: Gothic and Renaissance", "Giralda height: 104 meters", "UNESCO site since 1987"],
     },
-    imageHint: "Seville Cathedral and Giralda tower at dusk",
-  },
+    imageHint: "Seville Cathedral and Giralda tower at dusk", image: "/poi-images/spain-seville-cathedral-landmarks-v2.webp"},
   {
     id: "spain-prado-museum-landmarks-v2",
     type: "museum",
@@ -79,8 +76,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Deschis în: 1819", "Număr de picturi: peste 8.000", "Arhitect: Juan de Villanueva", "Locație: Madrid"],
       en: ["Opened in: 1819", "Number of paintings: over 8,000", "Architect: Juan de Villanueva", "Location: Madrid"],
     },
-    imageHint: "Main facade of the Prado Museum in Madrid",
-  },
+    imageHint: "Main facade of the Prado Museum in Madrid", image: "/poi-images/spain-prado-museum-landmarks-v2.webp"},
   {
     id: "spain-guggenheim-bilbao-landmarks-v2",
     type: "museum",
@@ -99,8 +95,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Deschis în: 1997", "Arhitect: Frank Gehry", "Materiale: titan, sticlă, calcar", "Stil: deconstructivism"],
       en: ["Opened in: 1997", "Architect: Frank Gehry", "Materials: Titanium, glass, limestone", "Style: Deconstructivism"],
     },
-    imageHint: "Guggenheim Museum Bilbao with titanium exterior",
-  },
+    imageHint: "Guggenheim Museum Bilbao with titanium exterior", image: "/poi-images/spain-guggenheim-bilbao-landmarks-v2.webp"},
   {
     id: "spain-aqueduct-segovia-landmarks-v2",
     type: "monument",
@@ -119,8 +114,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Construit în: aprox. 50 d.Hr.", "Lungime: 813 m", "Înălțime: 28,5 m", "Număr de arcade: 167"],
       en: ["Built: approx. 50 AD", "Length: 813 meters", "Height: 28.5 meters", "Number of arches: 167"],
     },
-    imageHint: "Roman Aqueduct of Segovia at Plaza del Azoguejo",
-  },
+    imageHint: "Roman Aqueduct of Segovia at Plaza del Azoguejo", image: "/poi-images/spain-aqueduct-segovia-landmarks-v2.webp"},
   {
     id: "spain-burgos-cathedral-landmarks-v2",
     type: "cathedral",
@@ -139,8 +133,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Construită în: 1221–1567", "Stil: gotic", "Patrimoniu UNESCO: 1984", "Locație: Burgos"],
       en: ["Built: 1221–1567", "Style: Gothic", "UNESCO site since 1984", "Location: Burgos"],
     },
-    imageHint: "Burgos Cathedral exterior facade and spires",
-  },
+    imageHint: "Burgos Cathedral exterior facade and spires", image: "/poi-images/spain-burgos-cathedral-landmarks-v2.webp"},
   {
     id: "spain-santiago-cathedral-landmarks-v2",
     type: "cathedral",
@@ -159,8 +152,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Construită în: 1075–1211", "Locație: Santiago de Compostela", "Patrimoniu UNESCO: 1985", "Stil: romanic și baroc"],
       en: ["Built: 1075–1211", "Location: Santiago de Compostela", "UNESCO site since 1985", "Style: Romanesque and Baroque"],
     },
-    imageHint: "Facade of Santiago de Compostela Cathedral at Plaza del Obradoiro",
-  },
+    imageHint: "Facade of Santiago de Compostela Cathedral at Plaza del Obradoiro", image: "/poi-images/spain-santiago-cathedral-landmarks-v2.webp"},
   {
     id: "spain-casa-mila-landmarks-v2",
     type: "landmark",
@@ -179,8 +171,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Construită în: 1906–1912", "Arhitect: Antoni Gaudí", "Patrimoniu UNESCO: 1984", "Locație: Barcelona"],
       en: ["Built: 1906–1912", "Architect: Antoni Gaudí", "UNESCO site since 1984", "Location: Barcelona"],
     },
-    imageHint: "Casa Mila La Pedrera rooftop with decorated chimneys",
-  },
+    imageHint: "Casa Mila La Pedrera rooftop with decorated chimneys", image: "/poi-images/spain-casa-mila-landmarks-v2.webp"},
   {
     id: "spain-walls-avila-landmarks-v2",
     type: "monument",
@@ -199,8 +190,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Perimetru: 2.516 m", "Număr de turnuri: 88", "Construit în: sec. XI-XIV", "Patrimoniu UNESCO: 1985"],
       en: ["Perimeter: 2,516 meters", "Number of towers: 88", "Built: 11th-14th century", "UNESCO site since 1985"],
     },
-    imageHint: "Medieval walls of Avila panoramic view",
-  },
+    imageHint: "Medieval walls of Avila panoramic view", image: "/poi-images/spain-walls-avila-landmarks-v2.webp"},
   {
     id: "spain-hanging-houses-cuenca-landmarks-v2",
     type: "landmark",
@@ -219,8 +209,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Construite în: sec. XIV", "Locație: Cuenca", "Patrimoniu UNESCO: 1996", "Utilizare actuală: muzeu"],
       en: ["Built: 14th century", "Location: Cuenca", "UNESCO site since 1996", "Current use: Museum"],
     },
-    imageHint: "Hanging Houses of Cuenca overlooking the gorge",
-  },
+    imageHint: "Hanging Houses of Cuenca overlooking the gorge", image: "/poi-images/spain-hanging-houses-cuenca-landmarks-v2.webp"},
   {
     id: "spain-palau-musica-catalana-landmarks-v2",
     type: "theater",
@@ -239,8 +228,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Construit în: 1905–1908", "Arhitect: Lluís Domènech i Montaner", "Patrimoniu UNESCO: 1997", "Locație: Barcelona"],
       en: ["Built: 1905–1908", "Architect: Lluís Domènech i Montaner", "UNESCO site since 1997", "Location: Barcelona"],
     },
-    imageHint: "Palau de la Musica Catalana concert hall interior",
-  },
+    imageHint: "Palau de la Musica Catalana concert hall interior", image: "/poi-images/spain-palau-musica-catalana-landmarks-v2.webp"},
   {
     id: "spain-plaza-espana-seville-landmarks-v2",
     type: "landmark",
@@ -259,8 +247,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Finalizată în: 1928", "Arhitect: Aníbal González", "Stil: neo-mudéjar", "Locație: Parcul Maria Luisa, Sevilla"],
       en: ["Completed: 1928", "Architect: Aníbal González", "Style: Neo-Mudéjar", "Location: Maria Luisa Park, Seville"],
     },
-    imageHint: "Plaza de Espana in Seville with canal and bridges",
-  },
+    imageHint: "Plaza de Espana in Seville with canal and bridges", image: "/poi-images/spain-plaza-espana-seville-landmarks-v2.webp"},
   {
     id: "spain-alcazar-seville-landmarks-v2",
     type: "palace",
@@ -279,8 +266,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Început în: sec. X", "Stil: mudéjar, gotic, renaștere", "Patrimoniu UNESCO: 1987", "Locație: Sevilla"],
       en: ["Started in: 10th century", "Style: Mudéjar, Gothic, Renaissance", "UNESCO site since 1987", "Location: Seville"],
     },
-    imageHint: "Patio de las Doncellas in the Alcázar of Seville",
-  },
+    imageHint: "Patio de las Doncellas in the Alcázar of Seville", image: "/poi-images/spain-alcazar-seville-landmarks-v2.webp"},
   {
     id: "spain-city-arts-sciences-landmarks-v2",
     type: "landmark",
@@ -299,8 +285,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Deschis în: 1998", "Arhitect: Santiago Calatrava", "Suprafață: 350.000 mp", "Locație: Valencia"],
       en: ["Opened in: 1998", "Architect: Santiago Calatrava", "Area: 350,000 m2", "Location: Valencia"],
     },
-    imageHint: "City of Arts and Sciences Valencia at night",
-  },
+    imageHint: "City of Arts and Sciences Valencia at night", image: "/poi-images/spain-city-arts-sciences-landmarks-v2.webp"},
   {
     id: "spain-monastery-montserrat-landmarks-v2",
     type: "monument",
@@ -319,8 +304,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Fondată în: 1025", "Altitudine: 720 m", "Tip: mănăstire benedictină", "Locație: Catalonia"],
       en: ["Founded in: 1025", "Altitude: 720 meters", "Type: Benedictine monastery", "Location: Catalonia"],
     },
-    imageHint: "Monastery of Montserrat in the mountains",
-  },
+    imageHint: "Monastery of Montserrat in the mountains", image: "/poi-images/spain-monastery-montserrat-landmarks-v2.webp"},
   {
     id: "spain-generalife-landmarks-v2",
     type: "landmark",
@@ -339,8 +323,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Construit în: sec. XIII-XIV", "Semnificația numelui: 'Grădina Arhitectului'", "Patrimoniu UNESCO: 1984", "Locație: Granada"],
       en: ["Built: 13th-14th century", "Name meaning: 'Architect's Garden'", "UNESCO site since 1984", "Location: Granada"],
     },
-    imageHint: "Generalife gardens and palace in Granada",
-  },
+    imageHint: "Generalife gardens and palace in Granada", image: "/poi-images/spain-generalife-landmarks-v2.webp"},
   {
     id: "spain-puerta-del-sol-landmarks-v2",
     type: "landmark",
@@ -359,8 +342,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Semnificație: 'Poarta Soarelui'", "Simbol: Statuia Ursului și a Arborelui de Căpșuni", "Eveniment: Celebrarea Anului Nou", "Locație: Madrid"],
       en: ["Meaning: 'Gate of the Sun'", "Landmark: Statue of the Bear and the Strawberry Tree", "Event: Annual New Year's Eve celebration", "Location: Madrid"],
     },
-    imageHint: "Puerta del Sol square in Madrid with the clock tower",
-  },
+    imageHint: "Puerta del Sol square in Madrid with the clock tower", image: "/poi-images/spain-puerta-del-sol-landmarks-v2.webp"},
   {
     id: "spain-toledo-cathedral-landmarks-v2",
     type: "cathedral",
@@ -379,8 +361,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Construită în: 1226–1493", "Stil: gotic cu influențe mudéjar", "Locație: Toledo", "Rol: Scaunul Arhiepiscopului de Toledo"],
       en: ["Built: 1226–1493", "Style: Gothic with Mudéjar influences", "Location: Toledo", "Significance: Seat of the Archbishop of Toledo"],
     },
-    imageHint: "Toledo Cathedral exterior at night",
-  },
+    imageHint: "Toledo Cathedral exterior at night", image: "/poi-images/spain-toledo-cathedral-landmarks-v2.webp"},
   {
     id: "spain-casa-battlo-landmarks-v2",
     type: "landmark",
@@ -399,8 +380,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Renovată în: 1904–1906", "Arhitect: Antoni Gaudí", "Patrimoniu UNESCO: 2005", "Poreclă: 'Casa Oaselor'"],
       en: ["Renovated: 1904–1906", "Architect: Antoni Gaudí", "UNESCO site since 2005", "Nickname: 'House of Bones'"],
     },
-    imageHint: "Casa Batllo facade with colorful mosaics and bone-like columns",
-  },
+    imageHint: "Casa Batllo facade with colorful mosaics and bone-like columns", image: "/poi-images/spain-casa-battlo-landmarks-v2.webp"},
   {
     id: "spain-castillo-loarre-landmarks-v2",
     type: "castle",
@@ -419,8 +399,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Construit în: sec. XI-XII", "Stil: romanic", "Locație: Loarre, Aragon", "Importanță: Monument Național din 1906"],
       en: ["Built: 11th-12th century", "Style: Romanesque", "Location: Loarre, Aragon", "Status: National Monument since 1906"],
     },
-    imageHint: "Castillo de Loarre fortress on a rocky hill",
-  },
+    imageHint: "Castillo de Loarre fortress on a rocky hill", image: "/poi-images/spain-castillo-loarre-landmarks-v2.webp"},
   {
     id: "spain-palma-cathedral-landmarks-v2",
     type: "cathedral",
@@ -439,8 +418,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Construită în: 1229–1601", "Stil: gotic", "Lungime: 121 m", "Fapt divers: restaurată parțial de Antoni Gaudí"],
       en: ["Built: 1229–1601", "Style: Gothic", "Length: 121 meters", "Fact: Partly restored by Antoni Gaudí"],
     },
-    imageHint: "Palma de Mallorca Cathedral overlooking the sea",
-  },
+    imageHint: "Palma de Mallorca Cathedral overlooking the sea", image: "/poi-images/spain-palma-cathedral-landmarks-v2.webp"},
   {
     id: "spain-roman-bridge-cordoba-landmarks-v2",
     type: "bridge",
@@ -459,8 +437,7 @@ export const spainLandmarksV2: POI[] = [
       ro: ["Construit în: sec. I î.Hr.", "Lungime: 247 m", "Număr de arcade: 16", "Locație: Córdoba"],
       en: ["Built: 1st century BC", "Length: 247 meters", "Number of arches: 16", "Location: Córdoba"],
     },
-    imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the background",
-  },
+    imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the background", image: "/poi-images/spain-roman-bridge-cordoba-landmarks-v2.webp"},
   {
     id: "spain-monastery-poblet-landmarks-v2",
     type: "monument",

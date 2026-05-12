@@ -19,8 +19,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Altitudine de 560 metri", "Parte a masivului Ardeni", "Cel mai înalt punct din 1997", "Situat în comuna Troisvierges"],
       en: ["Elevation of 560 meters", "Part of the Ardennes massif", "Official highest point since 1997", "Located in Troisvierges commune"],
     },
-    imageHint: "Kneiff summit stone marker Luxembourg",
-  },
+    imageHint: "Kneiff summit stone marker Luxembourg", image: "/poi-images/luxembourg-kneiff-relief-v2.webp"},
   {
     id: "luxembourg-buurgplaatz-relief-v2",
     type: "peak",
@@ -39,8 +38,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Altitudine de 559 metri", "Turn de apă pe vârf", "Al doilea cel mai înalt punct", "Structură geologică din gresie"],
       en: ["Elevation of 559 meters", "Water tower at the summit", "Second highest point in the country", "Sandstone geological formation"],
     },
-    imageHint: "Buurgplaatz water tower and summit Luxembourg",
-  },
+    imageHint: "Buurgplaatz water tower and summit Luxembourg", image: "/poi-images/luxembourg-buurgplaatz-relief-v2.webp"},
   {
     id: "luxembourg-napoleonsgaart-relief-v2",
     type: "peak",
@@ -59,8 +57,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Altitudine de 548 metri", "Găzduiește un turn de transmisie", "Cel mai înalt punct din cantonul Redange", "Numele îl onorează pe Napoleon I"],
       en: ["Elevation of 548 meters", "Site of a radio transmitter", "Highest point in Redange canton", "Named in honor of Napoleon I"],
     },
-    imageHint: "Napoléonsgaart viewpoint and tower Luxembourg",
-  },
+    imageHint: "Napoléonsgaart viewpoint and tower Luxembourg", image: "/poi-images/luxembourg-napoleonsgaart-relief-v2.webp"},
   {
     id: "luxembourg-wolfsschlucht-relief-v2",
     type: "landmark",
@@ -79,8 +76,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Pereți de gresie de 50m", "Format prin falii tectonice", "Parte a traseului Müllerthal", "Fost adăpost pentru lupi"],
       en: ["Sandstone walls up to 50m", "Formed by tectonic fissures", "Part of the Müllerthal Trail", "Former refuge for wolves"],
     },
-    imageHint: "Wolfsschlucht rock gorge Echternach Luxembourg",
-  },
+    imageHint: "Wolfsschlucht rock gorge Echternach Luxembourg", image: "/poi-images/luxembourg-wolfsschlucht-relief-v2.webp"},
   {
     id: "luxembourg-priedegtstull-relief-v2",
     type: "landmark",
@@ -99,8 +95,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Structură de stâncă suspendată", "Geologie de gresie Lias", "Punct de belvedere popular", "Numele înseamnă 'Amvon'"],
       en: ["Overhanging rock structure", "Lias sandstone geology", "Popular lookout point", "Name translates to 'Pulpit'"],
     },
-    imageHint: "Priedegtstull rock formation Müllerthal Luxembourg",
-  },
+    imageHint: "Priedegtstull rock formation Müllerthal Luxembourg", image: "/poi-images/luxembourg-priedegtstull-relief-v2.webp"},
   {
     id: "luxembourg-huel-lee-relief-v2",
     type: "landmark",
@@ -119,8 +114,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Fostă carieră de pietre de moară", "Indentații rotunde vizibile", "Parte a stâncilor din Berdorf", "Numele înseamnă 'Piatră goală'"],
       en: ["Former millstone quarry", "Round indentations visible", "Part of the Berdorf rocks", "Name means 'Hollow Stone'"],
     },
-    imageHint: "Huel Lee cave Berdorf Luxembourg",
-  },
+    imageHint: "Huel Lee cave Berdorf Luxembourg", image: "/poi-images/luxembourg-huel-lee-relief-v2.webp"},
   {
     id: "luxembourg-schiessentuempel-relief-v2",
     type: "landmark",
@@ -139,8 +133,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Cascadă cu trei jeturi", "Râul Ernz Neagră", "Relief în trepte de gresie", "Simbol al regiunii Müllerthal"],
       en: ["Triple waterfall streams", "River: Black Ernz", "Sandstone step relief", "Symbol of the Müllerthal"],
     },
-    imageHint: "Schiessentümpel waterfall and bridge Luxembourg",
-  },
+    imageHint: "Schiessentümpel waterfall and bridge Luxembourg", image: "/poi-images/luxembourg-schiessentuempel-relief-v2.webp"},
   {
     id: "luxembourg-alzette-valley-relief-v2",
     type: "valley",
@@ -159,8 +152,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Săpat în gresie locală", "Centrul capitalei", "Versanți abrupți", "Diferență de nivel de 70m"],
       en: ["Carved into local sandstone", "Center of the capital city", "Steep river embankments", "70m elevation difference"],
     },
-    imageHint: "Alzette Valley Luxembourg City Grund",
-  },
+    imageHint: "Alzette Valley Luxembourg City Grund", image: "/poi-images/luxembourg-alzette-valley-relief-v2.webp"},
   {
     id: "luxembourg-petrusse-valley-relief-v2",
     type: "valley",
@@ -179,8 +171,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Șanț de apărare natural", "Traversat de podul Adolphe", "Cazemate săpate în stâncă", "Râul Pétrusse"],
       en: ["Natural defense ditch", "Spanned by Adolphe Bridge", "Casemates carved into rock", "River: Pétrusse"],
     },
-    imageHint: "Pétrusse Valley Luxembourg City park",
-  },
+    imageHint: "Pétrusse Valley Luxembourg City park", image: "/poi-images/luxembourg-petrusse-valley-relief-v2.webp"},
   {
     id: "luxembourg-moselle-valley-relief-v2",
     type: "valley",
@@ -199,8 +190,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Formațiune de calcar cochilifer", "Versanți însoriți de sud-vest", "Altitudine de 140-200m", "Câmpie riverană"],
       en: ["Shell limestone formation", "Sunny southwest slopes", "140-200m altitude", "Riverine lowland area"],
     },
-    imageHint: "Moselle Valley Luxembourg vineyards",
-  },
+    imageHint: "Moselle Valley Luxembourg vineyards", image: "/poi-images/luxembourg-moselle-valley-relief-v2.webp"},
   {
     id: "luxembourg-upper-sure-valley-relief-v2",
     type: "valley",
@@ -219,8 +209,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Relief de ardezie", "Curs de râu sinuos", "Centrul parcului natural", "Situat în regiunea Oesling"],
       en: ["Slate rock relief", "Winding river sections", "Heart of the nature park", "Embedded in the Oesling"],
     },
-    imageHint: "Upper Sûre Valley Luxembourg aerial",
-  },
+    imageHint: "Upper Sûre Valley Luxembourg aerial", image: "/poi-images/luxembourg-upper-sure-valley-relief-v2.webp"},
   {
     id: "luxembourg-our-valley-relief-v2",
     type: "valley",
@@ -239,8 +228,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Valea de eroziune în V", "Substrat de ardezie argiloasă", "Graniță de stat naturală", "Contrast de relief puternic"],
       en: ["V-shaped erosion valley", "Clay slate substrate", "Natural state border", "Strong relief contrast"],
     },
-    imageHint: "Our Valley Luxembourg Vianden",
-  },
+    imageHint: "Our Valley Luxembourg Vianden", image: "/poi-images/luxembourg-our-valley-relief-v2.webp"},
   {
     id: "luxembourg-giele-botter-relief-v2",
     type: "mine",
@@ -259,8 +247,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Peisaj terasat artificial", "Geologie de minereu de fier", "Astăzi rezervație naturală", "Relief tipic pentru sud"],
       en: ["Artificial terraced landscape", "Iron ore geology", "Now a nature reserve", "Typical southern relief"],
     },
-    imageHint: "Giele Botter red earth Luxembourg",
-  },
+    imageHint: "Giele Botter red earth Luxembourg", image: "/poi-images/luxembourg-giele-botter-relief-v2.webp"},
   {
     id: "luxembourg-widdebierg-relief-v2",
     type: "mountain",
@@ -279,8 +266,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Altitudine de 387 metri", "Martor de eroziune geologic", "Platou de calcar", "Zonă de drumeție populară"],
       en: ["Elevation of 387 meters", "Geological outlier hill", "Limestone plateau", "Popular hiking area"],
     },
-    imageHint: "Widdebierg hill Luxembourg landscape",
-  },
+    imageHint: "Widdebierg hill Luxembourg landscape", image: "/poi-images/luxembourg-widdebierg-relief-v2.webp"},
   {
     id: "luxembourg-galgenberg-relief-v2",
     type: "mountain",
@@ -299,8 +285,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Înălțime de aproximativ 400m", "Rocă bogată în fier", "Parc urban pe platou", "Vedere peste regiunea industrială"],
       en: ["Elevation of approx. 400m", "Iron-bearing rock", "City park on the plateau", "View over the industrial region"],
     },
-    imageHint: "Galgenberg Esch-sur-Alzette Luxembourg",
-  },
+    imageHint: "Galgenberg Esch-sur-Alzette Luxembourg", image: "/poi-images/luxembourg-galgenberg-relief-v2.webp"},
   {
     id: "luxembourg-perekop-relief-v2",
     type: "landmark",
@@ -319,8 +304,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Bloc de stâncă izolat", "40m deasupra drumului", "Urcare pe scară spre vârf", "Gresie tipică de tip Lias"],
       en: ["Freestanding rock block", "40m above the road", "Ladder ascent to summit", "Typical Lias sandstone"],
     },
-    imageHint: "Perekop rock Berdorf Luxembourg",
-  },
+    imageHint: "Perekop rock Berdorf Luxembourg", image: "/poi-images/luxembourg-perekop-relief-v2.webp"},
   {
     id: "luxembourg-haard-nature-relief-v2",
     type: "landmark",
@@ -339,8 +323,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Fostă mină de fier", "Cea mai mare rezervație", "Straturi de rocă Minette", "Pereți de stâncă artificiali"],
       en: ["Former iron mining site", "Largest nature reserve", "Minette rock layers", "Artificial rock faces"],
     },
-    imageHint: "Haard nature reserve Dudelange Luxembourg",
-  },
+    imageHint: "Haard nature reserve Dudelange Luxembourg", image: "/poi-images/luxembourg-haard-nature-relief-v2.webp"},
   {
     id: "luxembourg-kirchberg-plateau-relief-v2",
     type: "landmark",
@@ -359,8 +342,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Platou din gresie luxemburgheză", "Altitudine de aprox. 340m", "Izolat prin eroziune", "Sediul instituțiilor UE"],
       en: ["Luxembourg sandstone plateau", "Altitude approx. 340m", "Isolated by erosion", "Site of EU institutions"],
     },
-    imageHint: "Kirchberg Plateau Luxembourg City aerial",
-  },
+    imageHint: "Kirchberg Plateau Luxembourg City aerial", image: "/poi-images/luxembourg-kirchberg-plateau-relief-v2.webp"},
   {
     id: "luxembourg-rham-plateau-relief-v2",
     type: "landmark",
@@ -379,8 +361,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Înconjurat de o buclă de râu", "Stânci abrupte de gresie", "Parte a cetății Luxemburg", "Vizavi de stânca Bock"],
       en: ["Enclosed by a river loop", "Steep sandstone cliffs", "Part of Luxembourg Fortress", "Opposite the Bock rock"],
     },
-    imageHint: "Rham Plateau Luxembourg fortifications",
-  },
+    imageHint: "Rham Plateau Luxembourg fortifications", image: "/poi-images/luxembourg-rham-plateau-relief-v2.webp"},
   {
     id: "luxembourg-kohlscheuer-relief-v2",
     type: "landmark",
@@ -459,8 +440,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Înălțime aprox. 395m", "Granița cu regiunea Gutland", "Bază militară localizată aici", "Geologie: ardezie argiloasă"],
       en: ["Elevation approx. 395m", "Edge of the Gutland region", "Military base location", "Geology: clay slate"],
     },
-    imageHint: "Herrenberg hill Diekirch Luxembourg",
-  },
+    imageHint: "Herrenberg hill Diekirch Luxembourg", image: "/poi-images/luxembourg-herrenberg-relief-v2.webp"},
   {
     id: "luxembourg-black-ernz-valley-relief-v2",
     type: "valley",
@@ -479,8 +459,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Vale de eroziune adâncă", "Străbate straturi de gresie", "Centrul regiunii Müllerthal", "Numeroase repezișuri de apă"],
       en: ["Deep erosion valley", "Cuts through sandstone", "Center of the Müllerthal", "Numerous water rapids"],
     },
-    imageHint: "Black Ernz Valley river Luxembourg",
-  },
+    imageHint: "Black Ernz Valley river Luxembourg", image: "/poi-images/luxembourg-black-ernz-valley-relief-v2.webp"},
   {
     id: "luxembourg-kallektuffquell-relief-v2",
     type: "landmark",
@@ -499,8 +478,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Formare activă de travertin", "Relief acoperit de mușchi", "Apă la constant 8-10 grade", "Formă geologică rară"],
       en: ["Active tuff formation", "Moss-covered relief", "Constant 8-10 degree water", "Rare geological feature"],
     },
-    imageHint: "Kallektuffquell waterfall Müllerthal",
-  },
+    imageHint: "Kallektuffquell waterfall Müllerthal", image: "/poi-images/luxembourg-kallektuffquell-relief-v2.webp"},
   {
     id: "luxembourg-kuelscheier-relief-v2",
     type: "landmark",
@@ -519,8 +497,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Labirint de stâncă întunecat", "Fante sub 50cm lățime", "Formațiune de gresie", "Traseu de drumeție aventuros"],
       en: ["Dark rock labyrinth", "Crevices under 50cm wide", "Sandstone formation", "Adventurous hiking trail"],
     },
-    imageHint: "Kuelscheier rock labyrinth Luxembourg",
-  },
+    imageHint: "Kuelscheier rock labyrinth Luxembourg", image: "/poi-images/luxembourg-kuelscheier-relief-v2.webp"},
   {
     id: "luxembourg-oesling-plateau-relief-v2",
     type: "landmark",
@@ -559,8 +536,7 @@ export const luxembourgReliefV2: POI[] = [
       ro: ["Gresie luxemburgheză", "Înălțimea platoului aprox. 380m", "Punct de intersecție istoric", "Cumpăna apelor Alzette/Sauer"],
       en: ["Luxembourg sandstone", "Plateau height approx. 380m", "Historical junction point", "Alzette/Sauer watershed"],
     },
-    imageHint: "Stafelter forest plateau Luxembourg",
-  },
+    imageHint: "Stafelter forest plateau Luxembourg", image: "/poi-images/luxembourg-stafelter-relief-v2.webp"},
   {
     id: "luxembourg-bourbon-plateau-relief-v2",
     type: "landmark",

@@ -19,8 +19,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Al doilea port ca mărime din Europa", "Cel mai mare cluster chimic din lume", "Fuziunea dintre Anvers și Bruges în 2022", "Trafic de peste 280 milioane tone anual"],
       en: ["Europe's second largest port", "Largest chemical cluster in the world", "Merged Antwerp and Zeebrugge in 2022", "Handles over 280 million tonnes annually"],
     },
-    imageHint: "Aerial view of large container terminal in Port of Antwerp",
-  },
+    imageHint: "Aerial view of large container terminal in Port of Antwerp", image: "/poi-images/belgium-port-antwerp-economic-v2.webp"},
   {
     id: "belgium-antwerp-diamond-district-economic-v2",
     type: "landmark",
@@ -39,8 +38,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Capitala mondială a diamantelor", "Cifră de afaceri de aprox. 40 mld. USD anual", "Găzduiește patru burse de diamante", "Suprafață de aproximativ un kilometru pătrat"],
       en: ["World capital of diamonds", "Annual turnover of approx. $40 billion", "Home to four diamond bourses", "Covers about one square kilometer"],
     },
-    imageHint: "Antwerp Diamond District street view with jewelry shops",
-  },
+    imageHint: "Antwerp Diamond District street view with jewelry shops", image: "/poi-images/belgium-antwerp-diamond-district-economic-v2.webp"},
   {
     id: "belgium-doel-nuclear-plant-economic-v2",
     type: "industry",
@@ -59,8 +57,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Primul reactor pus în funcțiune în 1974", "Capacitate totală de aprox. 2.900 MW", "Turnuri de răcire distinctive pe malul Scheldt", "Parte a planului de eliminare nucleară"],
       en: ["First reactor commissioned in 1974", "Total capacity of approx. 2,900 MW", "Distinctive cooling towers on the Scheldt", "Part of the Belgian nuclear phase-out plan"],
     },
-    imageHint: "Cooling towers of Doel nuclear power plant by the river",
-  },
+    imageHint: "Cooling towers of Doel nuclear power plant by the river", image: "/poi-images/belgium-doel-nuclear-plant-economic-v2.webp"},
   {
     id: "belgium-brussels-north-quarter-economic-v2",
     type: "landmark",
@@ -99,8 +96,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Al treilea cel mai mare port interior din Europa", "Nod logistic central pentru Valonia", "Manipularea cerealelor și metalelor", "Legătură directă cu Canalul Albert"],
       en: ["Third largest inland port in Europe", "Central logistics hub for Wallonia", "Handles grain and metal shipments", "Direct connection to the Albert Canal"],
     },
-    imageHint: "Barges and cranes at the inland Port of Liège",
-  },
+    imageHint: "Barges and cranes at the inland Port of Liège", image: "/poi-images/belgium-port-liege-economic-v2.webp"},
   {
     id: "belgium-puurs-pharma-cluster-economic-v2",
     type: "factory",
@@ -119,8 +115,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Locul de producție al vaccinului Pfizer-BioNTech", "Una dintre cele mai mari fabrici Pfizer din lume", "Angajează mii de specialiști calificați", "Centrul sectorului biotech belgian"],
       en: ["Production site of the Pfizer-BioNTech vaccine", "One of the largest Pfizer plants globally", "Employs thousands of highly skilled workers", "Hub of the Belgian biotech sector"],
     },
-    imageHint: "Modern pharmaceutical production facility building in Puurs",
-  },
+    imageHint: "Modern pharmaceutical production facility building in Puurs", image: "/poi-images/belgium-puurs-pharma-cluster-economic-v2.webp"},
   {
     id: "belgium-seraing-steel-works-economic-v2",
     type: "industry",
@@ -159,8 +154,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Una dintre cele mai importante porți GNL ale Europei", "Conexiune directă la rețeaua europeană de gaze", "Deține rezervoare de stocare izolate uriașe", "Punct de tranzit pentru gazul arctic și qatariot"],
       en: ["One of Europe's main LNG gateways", "Direct connection to the European gas grid", "Features massive insulated storage tanks", "Transshipment point for Arctic and Qatari gas"],
     },
-    imageHint: "Large LNG storage tanks and carrier ship at Zeebrugge port",
-  },
+    imageHint: "Large LNG storage tanks and carrier ship at Zeebrugge port", image: "/poi-images/belgium-zeebrugge-lng-terminal-economic-v2.webp"},
   {
     id: "belgium-ghent-arcelormittal-steel-economic-v2",
     type: "factory",
@@ -179,8 +173,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Cel mai mare producător de oțel din Belgia", "Angajează aprox. 5.000 de persoane", "Focus pe producția de oțel cu emisii reduse de CO2", "Instalații portuare proprii pentru importul de minereu"],
       en: ["Largest steel producer in Belgium", "Employs approx. 5,000 people", "Focus on low-carbon steel production", "Own port facilities for ore imports"],
     },
-    imageHint: "Vast industrial complex of ArcelorMittal steel plant in Ghent",
-  },
+    imageHint: "Vast industrial complex of ArcelorMittal steel plant in Ghent", image: "/poi-images/belgium-ghent-arcelormittal-steel-economic-v2.webp"},
   {
     id: "belgium-leuven-ab-inbev-brewery-economic-v2",
     type: "factory",
@@ -199,8 +192,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Sediul liderului mondial al pieței de bere", "Unitate de producție pentru Stella Artois", "Angajează mii de oameni în regiune", "Centru pentru tehnologia berii și cercetare"],
       en: ["Headquarters of the world's leading brewer", "Production site of Stella Artois", "Employs thousands in the region", "Center for brewing technology and research"],
     },
-    imageHint: "Industrial brewing facility of Stella Artois in Leuven",
-  },
+    imageHint: "Industrial brewing facility of Stella Artois in Leuven", image: "/poi-images/belgium-leuven-ab-inbev-brewery-economic-v2.webp"},
   {
     id: "belgium-tihange-nuclear-plant-economic-v2",
     type: "industry",
@@ -219,8 +211,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Trei reactoare în funcțiune (istoric)", "Capacitate totală de aproximativ 3.000 MW", "Situată pe malul fluviului Meuse", "Centrală pentru infrastructura energetică valonă"],
       en: ["Three reactors in operation (historically)", "Total capacity of about 3,000 MW", "Located on the banks of the Meuse river", "Central to Walloon energy infrastructure"],
     },
-    imageHint: "Nuclear power plant Tihange with cooling towers near the river",
-  },
+    imageHint: "Nuclear power plant Tihange with cooling towers near the river", image: "/poi-images/belgium-tihange-nuclear-plant-economic-v2.webp"},
   {
     id: "belgium-liege-airport-logistics-economic-v2",
     type: "port",
@@ -239,8 +230,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Cel mai mare aeroport de marfă din Belgia", "Hub principal pentru FedEx în Europa", "Baza logistică a Alibaba (Cainiao)", "Funcționare 24/24 fără interdicții de zbor nocturn"],
       en: ["Largest cargo airport in Belgium", "Main hub for FedEx in Europe", "Logistics base for Alibaba (Cainiao)", "24-hour operation with no night flight ban"],
     },
-    imageHint: "Cargo planes and warehouses at Liège Airport at night",
-  },
+    imageHint: "Cargo planes and warehouses at Liège Airport at night", image: "/poi-images/belgium-liege-airport-logistics-economic-v2.webp"},
   {
     id: "belgium-brussels-airport-cargo-economic-v2",
     type: "port",
@@ -259,8 +249,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Lider mondial în transportul aerian farmaceutic", "Stație vamală proprie și campus logistic", "Peste 100 de hectare pentru manipularea mărfurilor", "Conexiune cu peste 200 de destinații"],
       en: ["Global leader in pharmaceutical air transport", "Features own customs station and logistics campus", "Over 100 hectares for cargo handling", "Connected to over 200 destinations"],
     },
-    imageHint: "Modern cargo logistics center Brucargo at Brussels Airport",
-  },
+    imageHint: "Modern cargo logistics center Brucargo at Brussels Airport", image: "/poi-images/belgium-brussels-airport-cargo-economic-v2.webp"},
   {
     id: "belgium-feluy-petrochemical-economic-v2",
     type: "industry",
@@ -279,8 +268,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Locație majoră a TotalEnergies", "Specializat în producția de polimeri", "Centru de cercetare important pentru mase plastice", "Locație strategică pe canalul Charleroi-Bruxelles"],
       en: ["Major site for TotalEnergies", "Specializes in polymer production", "Important research center for plastics", "Strategic location on the Charleroi-Brussels Canal"],
     },
-    imageHint: "Petrochemical plant with pipelines and storage tanks in Feluy",
-  },
+    imageHint: "Petrochemical plant with pipelines and storage tanks in Feluy", image: "/poi-images/belgium-feluy-petrochemical-economic-v2.webp"},
   {
     id: "belgium-charleroi-aerospace-economic-v2",
     type: "industry",
@@ -319,8 +307,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Fondat de Dr. Paul Janssen", "Parte a grupului Johnson & Johnson", "Focus pe cercetarea neurologică și oncologică", "Angajează peste 4.000 de cercetători și tehnicieni"],
       en: ["Founded by Dr. Paul Janssen", "Part of the Johnson & Johnson group", "Focus on neurological and oncology research", "Employs over 4,000 researchers and technicians"],
     },
-    imageHint: "Modern pharmaceutical research campus in Beerse",
-  },
+    imageHint: "Modern pharmaceutical research campus in Beerse", image: "/poi-images/belgium-beerse-pharma-center-economic-v2.webp"},
   {
     id: "belgium-wavre-biotech-hub-economic-v2",
     type: "factory",
@@ -339,8 +326,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Cea mai mare locație de producție de vaccinuri din lume", "Aparține GlaxoSmithKline (GSK)", "Producție zilnică de milioane de doze de vaccin", "Principalul motor economic al Brabantului Valon"],
       en: ["World's largest vaccine manufacturing site", "Owned by GlaxoSmithKline (GSK)", "Produces millions of vaccine doses daily", "Key economic engine of Walloon Brabant"],
     },
-    imageHint: "Large-scale biotechnology industrial park in Wavre",
-  },
+    imageHint: "Large-scale biotechnology industrial park in Wavre", image: "/poi-images/belgium-wavre-biotech-hub-economic-v2.webp"},
   {
     id: "belgium-haspengouw-fruit-region-economic-v2",
     type: "landmark",
@@ -359,8 +345,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["A doua cea mai mare regiune pomicolă din Europa", "Centrul producției de pere din Belgia", "Loc de desfășurare pentru licitații de fructe", "Zeci de mii de hectare de culturi"],
       en: ["Europe's second largest fruit region", "Center of Belgian pear production", "Home to major fruit auctions", "Tens of thousands of hectares of orchards"],
     },
-    imageHint: "Vast apple and pear orchards in bloom in Haspengouw",
-  },
+    imageHint: "Vast apple and pear orchards in bloom in Haspengouw", image: "/poi-images/belgium-haspengouw-fruit-region-economic-v2.webp"},
   {
     id: "belgium-roeselare-food-valley-economic-v2",
     type: "industry",
@@ -379,8 +364,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Centrul alimentelor congelate din Europa", "Sediul unor companii mari precum Ardo și REO", "Lanț logistic eficient pentru produse agricole", "Principalul factor economic din Flandra de Vest"],
       en: ["Center of the European frozen food industry", "Headquarters of companies like Ardo and REO", "Highly efficient agricultural logistics chain", "Major economic factor in West Flanders"],
     },
-    imageHint: "Large food processing plants and agricultural warehouses in Roeselare",
-  },
+    imageHint: "Large food processing plants and agricultural warehouses in Roeselare", image: "/poi-images/belgium-roeselare-food-valley-economic-v2.webp"},
   {
     id: "belgium-la-louviere-steel-economic-v2",
     type: "industry",
@@ -419,8 +403,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Cel mai mare sit de patrimoniu industrial din Flandra", "Centrul extracției de cărbune din Limburg", "Astăzi cunoscut sub numele de 'be-MINE'", "Modelul economiei regionale actuale"],
       en: ["Largest industrial heritage site in Flanders", "Center of Limburg coal extraction", "Now known as 'be-MINE'", "Still shapes the regional economy today"],
     },
-    imageHint: "Old coal mine headgear and redeveloped industrial site in Beringen",
-  },
+    imageHint: "Old coal mine headgear and redeveloped industrial site in Beringen", image: "/poi-images/belgium-beringen-coal-mine-site-economic-v2.webp"},
   {
     id: "belgium-maasmechelen-retail-zone-economic-v2",
     type: "landmark",
@@ -439,8 +422,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Unul dintre cele mai de succes outlet-uri din Europa", "Angajator important în estul Flandrei", "Situat la poarta Parcului Național Hoge Kempen", "Focus pe mărci de lux și designer"],
       en: ["One of Europe's most successful outlets", "Important employer in eastern Flanders", "Located at the gateway to Hoge Kempen National Park", "Focuses on luxury and designer brands"],
     },
-    imageHint: "Luxury outlet shopping village with pedestrian streets in Maasmechelen",
-  },
+    imageHint: "Luxury outlet shopping village with pedestrian streets in Maasmechelen", image: "/poi-images/belgium-maasmechelen-retail-zone-economic-v2.webp"},
   {
     id: "belgium-port-ostend-offshore-economic-v2",
     type: "port",
@@ -479,8 +461,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Sediul celor mai importante instituții UE", "Factor economic enorm pentru Bruxelles", "Locația clădirii Berlaymont", "Centrul diplomației internaționale"],
       en: ["Seat of major EU institutions", "Huge economic driver for Brussels", "Location of the Berlaymont building", "Center of international diplomacy"],
     },
-    imageHint: "European Parliament and Commission buildings in the Leopold Quarter",
-  },
+    imageHint: "European Parliament and Commission buildings in the Leopold Quarter", image: "/poi-images/belgium-leopold-quarter-economic-v2.webp"},
   {
     id: "belgium-genk-logistics-hub-economic-v2",
     type: "industry",
@@ -499,8 +480,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Reutilizarea fostei zone Ford", "Conexiune directă la Canalul Albert", "Nod important pentru logistica auto", "Centru pentru inovație și economie circulară"],
       en: ["Repurposing of the former Ford site", "Direct connection to the Albert Canal", "Major hub for automotive logistics", "Center for innovation and circular economy"],
     },
-    imageHint: "Large modern logistics warehouses and shipping canal in Genk",
-  },
+    imageHint: "Large modern logistics warehouses and shipping canal in Genk", image: "/poi-images/belgium-genk-logistics-hub-economic-v2.webp"},
   {
     id: "belgium-vilvoorde-media-cluster-economic-v2",
     type: "industry",
@@ -519,8 +499,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Sediul unor posturi precum VTM", "Numeroase studiouri de înregistrare locale", "Cea mai importantă locație media din periferia Bruxelles-ului", "Zonă de transformare din industrie în servicii"],
       en: ["Headquarters of broadcasters like VTM", "Numerous recording studios on site", "Key media location in the Brussels periphery", "Transformed from industrial to service sector"],
     },
-    imageHint: "Modern office buildings and studios of television broadcasters in Vilvoorde",
-  },
+    imageHint: "Modern office buildings and studios of television broadcasters in Vilvoorde", image: "/poi-images/belgium-vilvoorde-media-cluster-economic-v2.webp"},
   {
     id: "belgium-nivelles-business-park-economic-v2",
     type: "landmark",
@@ -539,8 +518,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Centru pentru distribuția farmaceutică", "Peste 200 de companii rezidente", "Situat strategic pe autostrada E19", "Cel mai important nod economic la sud de Bruxelles"],
       en: ["Center for pharmaceutical distribution", "Home to more than 200 companies", "Strategically located on the E19 highway", "Major economic hub south of Brussels"],
     },
-    imageHint: "Modern office park and logistics warehouses in Nivelles",
-  },
+    imageHint: "Modern office park and logistics warehouses in Nivelles", image: "/poi-images/belgium-nivelles-business-park-economic-v2.webp"},
   {
     id: "belgium-north-sea-port-ghent-economic-v2",
     type: "port",
@@ -559,8 +537,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Locația asamblării Volvo Cars", "Port verde cu focus pe biomasă", "Port de mare adâncime prin canalul Gent-Terneuzen", "Punct major de transbordare a cerealelor"],
       en: ["Site of Volvo Cars assembly", "Green port focusing on biomass", "Deep-sea port via the Ghent-Terneuzen Canal", "Major hub for grain shipments"],
     },
-    imageHint: "Automobile assembly plant and grain silos at the Port of Ghent",
-  },
+    imageHint: "Automobile assembly plant and grain silos at the Port of Ghent", image: "/poi-images/belgium-north-sea-port-ghent-economic-v2.webp"},
   {
     id: "belgium-tour-taxis-brussels-economic-v2",
     type: "landmark",
@@ -579,8 +556,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Depozit istoric vamal și logistic", "Astăzi sediul unor autorități și start-up-uri", "Cea mai mare clădire de birouri pasivă din lume (Gare Maritime)", "Centru pentru târguri și inovație"],
       en: ["Historic customs and logistics warehouse", "Now home to government agencies and startups", "World's largest passive office building (Gare Maritime)", "Center for trade fairs and innovation"],
     },
-    imageHint: "Renovated historic brick warehouse building Gare Maritime in Brussels",
-  },
+    imageHint: "Renovated historic brick warehouse building Gare Maritime in Brussels", image: "/poi-images/belgium-tour-taxis-brussels-economic-v2.webp"},
   {
     id: "belgium-puurs-pfizer-factory-economic-v2",
     type: "factory",
@@ -599,8 +575,7 @@ export const belgiumEconomicV2: POI[] = [
       ro: ["Hub global pentru vaccinuri", "Linii de producție sterile avansate", "Unul dintre cei mai mari angajatori din regiune", "Centrul economiei de export a Belgiei"],
       en: ["Global hub for vaccines", "Advanced sterile production lines", "One of the region's largest employers", "Center of the Belgian export economy"],
     },
-    imageHint: "Pfizer pharmaceutical manufacturing facility with glass facade in Puurs",
-  },
+    imageHint: "Pfizer pharmaceutical manufacturing facility with glass facade in Puurs", image: "/poi-images/belgium-puurs-pfizer-factory-economic-v2.webp"},
   {
     id: "belgium-la-louviere-canal-lift-economic-v2",
     type: "landmark",

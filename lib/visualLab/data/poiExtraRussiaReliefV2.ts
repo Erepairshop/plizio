@@ -19,8 +19,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Lungime de circa 1100 km", "Altitudinea maximă de 2409 m", "Polul frigului în lumea locuită", "Bogați în cărbune și metale prețioase"],
       en: ["Length of about 1100 km", "Highest point is 2409 m", "Pole of Cold for the inhabited world", "Rich in coal and precious metals"],
     },
-    imageHint: "Snowy Verkhoyansk Range peaks under Arctic light",
-  },
+    imageHint: "Snowy Verkhoyansk Range peaks under Arctic light", image: "/poi-images/russia-verkhoyansk-range-relief-v2.webp"},
   {
     id: "russia-chersky-range-relief-v2",
     type: "mountain",
@@ -39,8 +38,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Pobeda (3003 m)", "Numit după exploratorul Ivan Cerski", "Conține numeroși ghețari", "Se întinde pe o distanță de 1500 km"],
       en: ["Highest peak is Mount Pobeda (3003 m)", "Named after explorer Ivan Chersky", "Contains numerous glaciers", "Stretches over 1500 km"],
     },
-    imageHint: "Rugged granite peaks of the Chersky Range",
-  },
+    imageHint: "Rugged granite peaks of the Chersky Range", image: "/poi-images/russia-chersky-range-relief-v2.webp"},
   {
     id: "russia-west-siberian-plain-relief-v2",
     type: "landmark",
@@ -59,8 +57,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Suprafață de circa 2,6 milioane km²", "Deține rezerve uriașe de petrol și gaze", "Traversată de fluviile Obi și Irtîș", "Pantă extrem de lină"],
       en: ["Area of about 2.6 million square km", "Contains massive oil and gas reserves", "Drained by the Ob and Irtysh rivers", "Extremely flat topography"],
     },
-    imageHint: "Vast marshy plain with meandering rivers in West Siberia",
-  },
+    imageHint: "Vast marshy plain with meandering rivers in West Siberia", image: "/poi-images/russia-west-siberian-plain-relief-v2.webp"},
   {
     id: "russia-central-siberian-plateau-relief-v2",
     type: "landmark",
@@ -79,8 +76,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Înălțime medie de 500-700 m", "Format din roci vulcanice (trapul siberian)", "Bogat în diamante și platină", "Climat continental extrem"],
       en: ["Average elevation of 500-700 m", "Composed of volcanic Siberian Traps", "Rich in diamonds and platinum", "Extreme continental climate"],
     },
-    imageHint: "Elevated forest plateau with river canyon in Central Siberia",
-  },
+    imageHint: "Elevated forest plateau with river canyon in Central Siberia", image: "/poi-images/russia-central-siberian-plateau-relief-v2.webp"},
   {
     id: "russia-valdai-hills-relief-v2",
     type: "landmark",
@@ -99,8 +95,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Zona de izvor a Volgăi și Niprului", "Punctul maxim la 347 metri", "Format de ultima glaciațiune", "Compus din dealuri morenaice"],
       en: ["Source region of the Volga and Dnieper", "Highest point is 347 meters", "Formed during the last ice age", "Consists of glacial moraines"],
     },
-    imageHint: "Gently rolling green hills with lakes in Valdai region",
-  },
+    imageHint: "Gently rolling green hills with lakes in Valdai region", image: "/poi-images/russia-valdai-hills-relief-v2.webp"},
   {
     id: "russia-sayan-mountains-relief-v2",
     type: "mountain",
@@ -119,8 +114,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Vârfurile depășesc 3000 de metri", "Izvorul fluviului Enisei", "Celebri pentru rezervația Stolbî", "Habitat pentru renii de munte"],
       en: ["Peaks exceed 3000 meters in height", "Source of the Yenisey River", "Famous for the Stolby Nature Reserve", "Home to rare mountain reindeer"],
     },
-    imageHint: "Dramatic granite rock formations in the Sayan Mountains",
-  },
+    imageHint: "Dramatic granite rock formations in the Sayan Mountains", image: "/poi-images/russia-sayan-mountains-relief-v2.webp"},
   {
     id: "russia-stanovoy-highlands-relief-v2",
     type: "landmark",
@@ -139,8 +133,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Înălțime maximă de circa 3000 m", "Parte a zonei de rift Baikal", "Traversat de magistrala feroviară BAM", "Numeroase izvoare termale"],
       en: ["Highest elevation around 3000 m", "Part of the Baikal Rift Zone", "Traversed by the BAM railway line", "Numerous thermal springs present"],
     },
-    imageHint: "High mountain ridges and deep valleys of the Stanovoy Highlands",
-  },
+    imageHint: "High mountain ridges and deep valleys of the Stanovoy Highlands", image: "/poi-images/russia-stanovoy-highlands-relief-v2.webp"},
   {
     id: "russia-byrranga-mountains-relief-v2",
     type: "mountain",
@@ -159,8 +152,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Punctul maxim la 1125 m", "Acoperiți de zăpadă aproape tot anul", "Conțin mici ghețari arctici", "Zonă aproape nelocuită și neexplorată"],
       en: ["Highest point is about 1125 m", "Snow-covered most of the year", "Contains small Arctic glaciers", "Virtually uninhabited and unexplored"],
     },
-    imageHint: "Desolate Arctic mountain landscape of the Byrranga range",
-  },
+    imageHint: "Desolate Arctic mountain landscape of the Byrranga range", image: "/poi-images/russia-byrranga-mountains-relief-v2.webp"},
   {
     id: "russia-khibiny-mountains-relief-v2",
     type: "mountain",
@@ -179,8 +171,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Iudici-vumiciorr (1201 m)", "Unul dintre cele mai mari zăcăminte de apatit", "Aranjament muntos sub formă de potcoavă", "Destinație populară pentru drumeții în nord"],
       en: ["Highest peak is Yudychvumchorr (1201 m)", "One of the world's largest apatite deposits", "Horshoe-shaped mountain arrangement", "Popular hiking destination in the Arctic"],
     },
-    imageHint: "Flat-topped tundra mountains of the Khibiny massif",
-  },
+    imageHint: "Flat-topped tundra mountains of the Khibiny massif", image: "/poi-images/russia-khibiny-mountains-relief-v2.webp"},
   {
     id: "russia-mount-dykh-tau-relief-v2",
     type: "peak",
@@ -199,8 +190,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Înălțime de 5205 metri", "Parte a peretelui Bezengi", "Prima ascensiune de Albert Mummery în 1888", "Pereți de granit abrupți la vârf"],
       en: ["Elevation of 5205 meters", "Part of the Bezengi Wall massif", "First climbed by Albert Mummery in 1888", "Steep granite faces define the summit"],
     },
-    imageHint: "Sharp granite pyramid of Mount Dykh-Tau in the Caucasus",
-  },
+    imageHint: "Sharp granite pyramid of Mount Dykh-Tau in the Caucasus", image: "/poi-images/russia-mount-dykh-tau-relief-v2.webp"},
   {
     id: "russia-mount-koshtan-tau-relief-v2",
     type: "peak",
@@ -219,8 +209,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Înălțime de 5151 metri", "Al patrulea vârf ca înălțime din Rusia", "Prima ascensiune reușită în 1889", "Considerat extrem de periculos din cauza avalanșelor"],
       en: ["Elevation of 5151 meters", "Fourth highest peak in Russia", "First successful climb in 1889", "Known for being extremely avalanche-prone"],
     },
-    imageHint: "Snowy peak of Mount Koshtan-Tau against blue sky",
-  },
+    imageHint: "Snowy peak of Mount Koshtan-Tau against blue sky", image: "/poi-images/russia-mount-koshtan-tau-relief-v2.webp"},
   {
     id: "russia-mount-pobeda-relief-v2",
     type: "peak",
@@ -239,8 +228,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Înălțime de 3003 metri", "Cel mai înalt munte din nord-estul Rusiei", "Accesibilitate logistică foarte dificilă", "Acoperit de ghețari permanenți"],
       en: ["Elevation of 3003 meters", "Highest mountain in northeastern Russia", "Logistically very difficult to access", "Glaciated throughout the year"],
     },
-    imageHint: "Isolated snowy peak of Mount Pobeda in Yakutia",
-  },
+    imageHint: "Isolated snowy peak of Mount Pobeda in Yakutia", image: "/poi-images/russia-mount-pobeda-relief-v2.webp"},
   {
     id: "russia-mount-munku-sardyk-relief-v2",
     type: "peak",
@@ -259,8 +247,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Înălțime de 3491 metri", "Cel mai înalt punct din Munții Saian", "Accesul necesită permise speciale de frontieră", "Prezintă mici ghețari suspendați"],
       en: ["Elevation of 3491 meters", "Highest point of the Sayan Mountains", "Border crossing requires special permits", "Features small hanging glaciers"],
     },
-    imageHint: "Snowy peak of Munku-Sardyk on the Mongolian border",
-  },
+    imageHint: "Snowy peak of Munku-Sardyk on the Mongolian border", image: "/poi-images/russia-mount-munku-sardyk-relief-v2.webp"},
   {
     id: "russia-kronotsky-volcano-relief-v2",
     type: "peak",
@@ -279,8 +266,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Înălțime de 3528 metri", "Con aproape perfect simetric", "Situat lângă Lacul Kronoțki", "Parte a Rezervației Biosferei Kronoțki"],
       en: ["Elevation of 3528 meters", "Nearly perfect symmetrical cone", "Located next to Lake Kronotsky", "Part of the Kronotsky Biosphere Reserve"],
     },
-    imageHint: "Symmetrical snowy volcano cone reflected in a lake",
-  },
+    imageHint: "Symmetrical snowy volcano cone reflected in a lake", image: "/poi-images/russia-kronotsky-volcano-relief-v2.webp"},
   {
     id: "russia-koryaksky-volcano-relief-v2",
     type: "peak",
@@ -299,8 +285,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Înălțime de 3456 metri", "Ultima erupție majoră în 2008", "Landmark dominant pentru capitala Kamceatkăi", "Inclus în lista 'Vulcanii Deceniului'"],
       en: ["Elevation of 3456 meters", "Last major eruption in 2008", "Dominant landmark for Kamchatka's capital", "Designated as a 'Decade Volcano'"],
     },
-    imageHint: "Large volcano overlooking Petropavlovsk-Kamchatsky city",
-  },
+    imageHint: "Large volcano overlooking Petropavlovsk-Kamchatsky city", image: "/poi-images/russia-koryaksky-volcano-relief-v2.webp"},
   {
     id: "russia-avachinsky-volcano-relief-v2",
     type: "peak",
@@ -319,8 +304,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Înălțime de 2741 metri", "Situat imediat lângă vulcanul Koriakski", "Craterul este umplut cu lavă din 1991", "Cea mai populară destinație de drumeție din Kamceatka"],
       en: ["Elevation of 2741 meters", "Located directly adjacent to Koryaksky volcano", "Crater is filled with lava from 1991", "Most popular hiking destination in Kamchatka"],
     },
-    imageHint: "Volcano crater with solidified lava and steam vents",
-  },
+    imageHint: "Volcano crater with solidified lava and steam vents", image: "/poi-images/russia-avachinsky-volcano-relief-v2.webp"},
   {
     id: "russia-dzhugdzhur-mountains-relief-v2",
     type: "mountain",
@@ -339,8 +323,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Lungime de circa 700 km", "Vârful maxim: Topko (1906 m)", "Versanți foarte abrupți spre mare", "Zonă de sălbăticie slab populată"],
       en: ["Length of about 700 km", "Highest elevation is Topko Peak (1906 m)", "Very steep slopes facing the sea", "Sparsely populated wilderness area"],
     },
-    imageHint: "Mountain range meeting the cold Okhotsk sea coast",
-  },
+    imageHint: "Mountain range meeting the cold Okhotsk sea coast", image: "/poi-images/russia-dzhugdzhur-mountains-relief-v2.webp"},
   {
     id: "russia-kolyma-mountains-relief-v2",
     type: "mountain",
@@ -359,8 +342,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Se întind pe 1100 km", "Altitudinea maximă de circa 1962 m", "Centrul exploatărilor de aur sovietice", "Situat aproape integral în zona de permafrost"],
       en: ["Stretches for about 1100 km", "Highest peak is around 1962 m", "Center of historical Soviet gold mining", "Almost entirely within the permafrost zone"],
     },
-    imageHint: "Vast undulating mountain tundra of the Kolyma region",
-  },
+    imageHint: "Vast undulating mountain tundra of the Kolyma region", image: "/poi-images/russia-kolyma-mountains-relief-v2.webp"},
   {
     id: "russia-anadyr-plateau-relief-v2",
     type: "landmark",
@@ -379,8 +361,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Înălțime medie de 800-1100 m", "Izvorul râului Anadîr", "Compus în principal din bazalt", "Habitat pentru turme mari de reni sălbatici"],
       en: ["Average elevation of 800-1100 m", "Source of the Anadyr River", "Composed primarily of basalt", "Home to large herds of wild reindeer"],
     },
-    imageHint: "Barren rocky plateau in the Chukotka wilderness",
-  },
+    imageHint: "Barren rocky plateau in the Chukotka wilderness", image: "/poi-images/russia-anadyr-plateau-relief-v2.webp"},
   {
     id: "russia-barguzin-range-relief-v2",
     type: "mountain",
@@ -399,8 +380,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Înălțime maximă de 2841 m", "Faimoși pentru Rezervația Naturală Barguzin", "Habitatul celebrului samur de Barguzin", "Ajung direct până la malul Lacului Baikal"],
       en: ["Highest elevation is 2841 m", "Famous for the Barguzin Nature Reserve", "Home to the famous Barguzin sable", "Extends directly to the shores of Lake Baikal"],
     },
-    imageHint: "Jagged mountain peaks overlooking Lake Baikal",
-  },
+    imageHint: "Jagged mountain peaks overlooking Lake Baikal", image: "/poi-images/russia-barguzin-range-relief-v2.webp"},
   {
     id: "russia-khamar-daban-relief-v2",
     type: "mountain",
@@ -419,8 +399,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Înălțime maximă de circa 2371 m", "Unul dintre cei mai vechi munți de pe Pământ", "Cunoscut pentru speciile de plante endemice", "Destinație populară de trekking din Irkutsk"],
       en: ["Highest elevation is about 2371 m", "One of the oldest mountain ranges on Earth", "Known for endemic plant species", "Popular hiking destination from Irkutsk"],
     },
-    imageHint: "Lush green mountain forests and rocky ridges south of Baikal",
-  },
+    imageHint: "Lush green mountain forests and rocky ridges south of Baikal", image: "/poi-images/russia-khamar-daban-relief-v2.webp"},
   {
     id: "russia-baikal-mountains-relief-v2",
     type: "mountain",
@@ -439,8 +418,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Vârful Cerski (2588 m)", "Compus din șisturi cristaline și granit", "Cutremure frecvente din cauza tectonicii", "Zona de izvor a fluviului Lena"],
       en: ["Highest peak is Chersky Peak (2588 m)", "Composed of crystalline schists and granite", "Frequent earthquakes due to active tectonics", "Source region of the Lena River"],
     },
-    imageHint: "Snow-capped mountains rising directly from the blue Baikal water",
-  },
+    imageHint: "Snow-capped mountains rising directly from the blue Baikal water", image: "/poi-images/russia-baikal-mountains-relief-v2.webp"},
   {
     id: "russia-mount-narodnaya-relief-v2",
     type: "peak",
@@ -459,8 +437,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Înălțime de 1895 metri", "Descoperit și numit în anul 1927", "Situat în Parcul Național Iugîd Va", "Format din cuarțite și șisturi"],
       en: ["Elevation of 1895 meters", "Discovered and named in 1927", "Located within the Yugyd Va National Park", "Composed of quartzites and schists"],
     },
-    imageHint: "Highest peak of the Ural mountains with rocky terrain",
-  },
+    imageHint: "Highest peak of the Ural mountains with rocky terrain", image: "/poi-images/russia-mount-narodnaya-relief-v2.webp"},
   {
     id: "russia-stanovoy-range-relief-v2",
     type: "mountain",
@@ -479,8 +456,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Lungime de aproximativ 700 km", "Înălțime maximă de circa 2412 m", "Importantă graniță istorică (Tratatul de la Nercinsk)", "Păduri dese de taiga pe versanți"],
       en: ["Length of about 700 km", "Highest peak is around 2412 m", "Significant historical border (Treaty of Nerchinsk)", "Slopes are covered in dense taiga forest"],
     },
-    imageHint: "Forested mountain ridges in the Russian Far East",
-  }
+    imageHint: "Forested mountain ridges in the Russian Far East", image: "/poi-images/russia-stanovoy-range-relief-v2.webp"}
 ,
   {
     id: "russia-central-russian-upland-relief-v2",
@@ -520,8 +496,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct este Vârful BAM la 3072 m", "Are aproximativ 30 de ghețari montani mici", "Este format predominant din granit și gnais", "Parte a podișului Stanovoi din Siberia de Est"],
       en: ["Highest point is Pik BAM at 3,072 meters", "Contains about 30 small mountain glaciers", "Composed mostly of granite and gneiss", "Part of the Stanovoy Highlands in East Siberia"],
     },
-    imageHint: "Sharp peaks of Kodar Mountains in Transbaikalia",
-  },
+    imageHint: "Sharp peaks of Kodar Mountains in Transbaikalia", image: "/poi-images/russia-kodar-mountains-relief-v2.webp"},
   {
     id: "russia-chukchi-highlands-relief-v2",
     type: "mountain",
@@ -560,8 +535,7 @@ export const russiaReliefV2: POI[] = [
       ro: ["Altitudinea maximă este de 471 metri", "Se întinde pe aproximativ 900 kilometri", "Format în timpul orogenezei baikaliene", "Bogat în resurse minerale precum titan și bauxită"],
       en: ["Maximum elevation is 471 meters", "Stretches for approximately 900 kilometers", "Formed during the Baikalid orogeny", "Rich in mineral resources like titanium and bauxite"],
     },
-    imageHint: "Eroded hills and forests of Timan Ridge",
-  },
+    imageHint: "Eroded hills and forests of Timan Ridge", image: "/poi-images/russia-timan-ridge-relief-v2.webp"},
   {
     id: "russia-volga-upland-relief-v2",
     type: "mountain",

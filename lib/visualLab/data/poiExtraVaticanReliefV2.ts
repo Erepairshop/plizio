@@ -19,8 +19,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Cel mai înalt punct al statului", "Situat în interiorul grădinilor", "Zonă de frontieră cu Roma", "Vedere spre Monte Mario"],
       en: ["Highest point of the state", "Located within the gardens", "Border location with Rome", "View of Monte Mario"],
     },
-    imageHint: "Highest point of Vatican Gardens near the wall",
-  },
+    imageHint: "Highest point of Vatican Gardens near the wall", image: "/poi-images/vatican-colle-vaticano-summit-relief-v2.webp"},
   {
     id: "vatican-west-slope-gardens-relief-v2",
     type: "park",
@@ -39,8 +38,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Înclinație accentuată spre vest", "Pantă dens împădurită", "Parte a peisajului grădinilor", "Funcție de barieră naturală"],
       en: ["Strong westward inclination", "Densely wooded slope", "Part of the garden landscape", "Natural barrier function"],
     },
-    imageHint: "Steep wooded slope in Vatican Gardens",
-  },
+    imageHint: "Steep wooded slope in Vatican Gardens", image: "/poi-images/vatican-west-slope-gardens-relief-v2.webp"},
   {
     id: "vatican-radio-tower-plateau-relief-v2",
     type: "landmark",
@@ -59,8 +57,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Terasă situată la înălțime", "Locația antenelor radio", "Vizibilitate până la mare", "Poziție strategică înaltă"],
       en: ["High-altitude terrace", "Site of radio antennas", "Visibility to the sea", "Strategic high elevation"],
     },
-    imageHint: "Vatican Radio antenna on high ground",
-  },
+    imageHint: "Vatican Radio antenna on high ground", image: "/poi-images/vatican-radio-tower-plateau-relief-v2.webp"},
   {
     id: "vatican-heliport-terrace-relief-v2",
     type: "landmark",
@@ -79,8 +76,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Cel mai vestic punct al statului", "Relief nivelat", "Se învecinează cu teritoriul italian", "Altitudine de aprox. 70 metri"],
       en: ["Westernmost point of the state", "Leveled relief", "Borders Italian territory", "Altitude of approx. 70 meters"],
     },
-    imageHint: "Vatican heliport on a flat terrace",
-  },
+    imageHint: "Vatican heliport on a flat terrace", image: "/poi-images/vatican-heliport-terrace-relief-v2.webp"},
   {
     id: "vatican-st-peters-square-basin-relief-v2",
     type: "landmark",
@@ -99,8 +95,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Cel mai jos punct la aprox. 19 m", "Ușoară înclinație spre est", "Fostă zonă mlăștinoasă", "Câmpie pavată artificial"],
       en: ["Lowest point approx. 19 meters", "Slight eastward slope", "Former marshy area", "Artificially paved level"],
     },
-    imageHint: "Wide view of St. Peter's Square from above",
-  },
+    imageHint: "Wide view of St. Peter's Square from above", image: "/poi-images/vatican-st-peters-square-basin-relief-v2.webp"},
   {
     id: "vatican-leonine-wall-crest-relief-v2",
     type: "landmark",
@@ -119,8 +114,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Creastă de-a lungul graniței", "Linie istorică de fortificație", "Urmează topografia", "Cele mai înalte secțiuni de zid"],
       en: ["High ridge along the border", "Historical fortification line", "Follows the topography", "Highest wall sections"],
     },
-    imageHint: "Leonine Wall following the hill crest",
-  },
+    imageHint: "Leonine Wall following the hill crest", image: "/poi-images/vatican-leonine-wall-crest-relief-v2.webp"},
   {
     id: "vatican-lourdes-grotto-slope-relief-v2",
     type: "park",
@@ -139,8 +133,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Poziționare pe panta de NV", "Loc de devoțiune religioasă", "Formațiuni stâncoase artificiale", "Microclimat mai răcoros"],
       en: ["Northwestern slope location", "Religious devotional site", "Artificial rock formations", "Cooler microclimate"],
     },
-    imageHint: "Lourdes Grotto replica on a hillside",
-  },
+    imageHint: "Lourdes Grotto replica on a hillside", image: "/poi-images/vatican-lourdes-grotto-slope-relief-v2.webp"},
   {
     id: "vatican-governor-palace-slope-relief-v2",
     type: "landmark",
@@ -159,8 +152,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Grădini terasate", "Zonă de tranziție", "Vedere spre cupolă", "Situat central în stat"],
       en: ["Terraced garden areas", "Transition zone", "View of the dome", "Centrally located in the state"],
     },
-    imageHint: "Gardens in front of the Governor's Palace",
-  },
+    imageHint: "Gardens in front of the Governor's Palace", image: "/poi-images/vatican-governor-palace-slope-relief-v2.webp"},
   {
     id: "vatican-railway-embankment-relief-v2",
     type: "landmark",
@@ -179,8 +171,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Cea mai sudică zonă a dealului", "Rambleu artificial", "Cea mai scurtă cale ferată", "Viaduct spre gară"],
       en: ["Southernmost hill area", "Artificial embankment", "Shortest railway in the world", "Viaduct to the station"],
     },
-    imageHint: "Vatican railway station and viaduct",
-  },
+    imageHint: "Vatican railway station and viaduct", image: "/poi-images/vatican-railway-embankment-relief-v2.webp"},
   {
     id: "vatican-teutonic-cemetery-plateau-relief-v2",
     type: "landmark",
@@ -219,8 +210,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Nivel de altitudine central", "Integrat în grădini", "Locație istorică a clădirii", "Sisteme de ziduri de sprijin"],
       en: ["Central elevation step", "Embedded in gardens", "Historical building site", "Retaining wall systems present"],
     },
-    imageHint: "Ethiopian College in Vatican Gardens",
-  },
+    imageHint: "Ethiopian College in Vatican Gardens", image: "/poi-images/vatican-ethiopian-college-terrace-relief-v2.webp"},
   {
     id: "vatican-casina-pio-iv-slope-relief-v2",
     type: "park",
@@ -239,8 +229,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Parte a terenului Academiei", "Floră de pantă îngrijită", "Orientare nord-estică", "Relief istoric de grădină"],
       en: ["Part of the Academy grounds", "Well-kept slope flora", "Northeastern orientation", "Historical garden relief"],
     },
-    imageHint: "Casina Pio IV and surrounding slopes",
-  },
+    imageHint: "Casina Pio IV and surrounding slopes", image: "/poi-images/vatican-casina-pio-iv-slope-relief-v2.webp"},
   {
     id: "vatican-vatican-gardens-central-ridge-relief-v2",
     type: "mountain",
@@ -259,8 +248,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Cea mai înaltă zonă a grădinilor", "Traseu natural al terenului", "Vedere panoramică spre Roma", "Funcție de cumpănă a apelor"],
       en: ["Highest zone of the gardens", "Natural terrain course", "Panoramic view of Rome", "Watershed function"],
     },
-    imageHint: "Ridge path in the Vatican Gardens",
-  },
+    imageHint: "Ridge path in the Vatican Gardens", image: "/poi-images/vatican-vatican-gardens-central-ridge-relief-v2.webp"},
   {
     id: "vatican-eagle-fountain-terrace-relief-v2",
     type: "landmark",
@@ -279,8 +267,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Nivel mediu al dealului", "Utilizare hidraulică", "Artă barocă a grădinilor", "Vedere spre Palatul Guvernatorului"],
       en: ["Mid-level hill step", "Hydraulic utilization", "Baroque garden art", "View of the Governor's Palace"],
     },
-    imageHint: "Eagle Fountain in Vatican Gardens",
-  },
+    imageHint: "Eagle Fountain in Vatican Gardens", image: "/poi-images/vatican-eagle-fountain-terrace-relief-v2.webp"},
   {
     id: "vatican-st-johns-tower-elevation-relief-v2",
     type: "landmark",
@@ -299,8 +286,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Punct de frontieră vestic", "Poziție elevată a turnului", "Parte a Zidului Leonin", "Folosit pentru oaspeți diplomatici"],
       en: ["Western border point", "Elevated tower location", "Part of the Leonine Wall", "Used for diplomatic guests"],
     },
-    imageHint: "St. John's Tower on the Vatican hill",
-  },
+    imageHint: "St. John's Tower on the Vatican hill", image: "/poi-images/vatican-st-johns-tower-elevation-relief-v2.webp"},
   {
     id: "vatican-apostolic-palace-ridge-relief-v2",
     type: "landmark",
@@ -319,8 +305,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Marginea estică a dealului", "Locația apartamentelor papale", "Abrupt spre oraș", "Structură stâncoasă fundamental"],
       en: ["Eastern hill edge", "Site of papal apartments", "Steep drop to the city", "Fundamental rock structure"],
     },
-    imageHint: "Apostolic Palace overlooking Rome",
-  },
+    imageHint: "Apostolic Palace overlooking Rome", image: "/poi-images/vatican-apostolic-palace-ridge-relief-v2.webp"},
   {
     id: "vatican-mosaic-studio-slope-relief-v2",
     type: "landmark",
@@ -339,8 +324,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Poziționare pe panta sudică", "Ziduri de sprijin necesare", "Construcții dense pe pantă", "Parte a cartierului atelierelor"],
       en: ["South-facing slope", "Retaining walls required", "Dense building on the slope", "Part of the workshop district"],
     },
-    imageHint: "Buildings on the slope behind St. Peter's",
-  },
+    imageHint: "Buildings on the slope behind St. Peter's", image: "/poi-images/vatican-mosaic-studio-slope-relief-v2.webp"},
   {
     id: "vatican-observatory-crest-relief-v2",
     type: "landmark",
@@ -359,8 +343,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Poziție înaltă nordică", "Fost observator astronomic", "Vedere spre nord", "Parte a arhitecturii grădinii"],
       en: ["Northern high elevation", "Former observatory site", "View to the north", "Part of the garden architecture"],
     },
-    imageHint: "Old Vatican Observatory building",
-  },
+    imageHint: "Old Vatican Observatory building", image: "/poi-images/vatican-observatory-crest-relief-v2.webp"},
   {
     id: "vatican-via-del-belvedere-slope-relief-v2",
     type: "landmark",
@@ -399,8 +382,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Relief terasat", "Element de peisagistică", "Parte a parcului superior", "Funcție de sprijin a zidurilor"],
       en: ["Terraced relief", "Landscaping element", "Part of the upper park", "Wall support function"],
     },
-    imageHint: "Terraced garden with stone niches",
-  },
+    imageHint: "Terraced garden with stone niches", image: "/poi-images/vatican-niche-of-shell-slope-relief-v2.webp"},
   {
     id: "vatican-grotto-nativity-slope-relief-v2",
     type: "park",
@@ -419,8 +401,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Pantă nordică accentuată", "Pantă împădurită naturală", "Nișă topografică", "Parte a grădinilor de nord"],
       en: ["Steep northern incline", "Natural wooded slope", "Topographic niche", "Part of the northern gardens"],
     },
-    imageHint: "Wooded slope in the Vatican Gardens",
-  },
+    imageHint: "Wooded slope in the Vatican Gardens", image: "/poi-images/vatican-grotto-nativity-slope-relief-v2.webp"},
   {
     id: "vatican-st-stephen-abyssinian-terrace-relief-v2",
     type: "landmark",
@@ -439,8 +420,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Locație veche pe platou", "În spatele corului bazilicii", "Treaptă topografică", "Fundație istorică de biserică"],
       en: ["Ancient plateau location", "Behind the basilica's choir", "Topographic step", "Historical church foundation"],
     },
-    imageHint: "Ancient church behind St. Peter's Basilica",
-  },
+    imageHint: "Ancient church behind St. Peter's Basilica", image: "/poi-images/vatican-st-stephen-abyssinian-terrace-relief-v2.webp"},
   {
     id: "vatican-library-courtyard-plateau-relief-v2",
     type: "landmark",
@@ -459,8 +439,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Teren de construcție nivelat", "Stabilitate ridicată a solului", "Prelungire estică a dealului", "Utilizare densă a spațiului"],
       en: ["Leveled building ground", "High soil stability", "Eastern hill extension", "Dense urban-like usage"],
     },
-    imageHint: "Vatican Library buildings from above",
-  },
+    imageHint: "Vatican Library buildings from above", image: "/poi-images/vatican-library-courtyard-plateau-relief-v2.webp"},
   {
     id: "vatican-vatican-hill-south-edge-relief-v2",
     type: "landmark",
@@ -499,8 +478,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Pantă pe suprafață mare", "Straturi terasate", "Expunere nordică", "Floră diversă pe pantă"],
       en: ["Large-scale incline", "Terraced flowerbeds", "Northern exposure", "Diverse flora on the slope"],
     },
-    imageHint: "Terraced gardens on the northern slope",
-  },
+    imageHint: "Terraced gardens on the northern slope", image: "/poi-images/vatican-gardens-northern-slope-relief-v2.webp"},
   {
     id: "vatican-radio-station-plateau-relief-v2",
     type: "landmark",
@@ -519,8 +497,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Punct situat la înălțime", "Infrastructură tehnică", "Vedere spre suburbiile Romei", "Culmea vestică a dealului"],
       en: ["High-altitude point", "Technical infrastructure", "View of Rome's suburbs", "Western hill crest"],
     },
-    imageHint: "Vatican Radio station on the hill",
-  },
+    imageHint: "Vatican Radio station on the hill", image: "/poi-images/vatican-radio-station-plateau-relief-v2.webp"},
   {
     id: "vatican-belvedere-upper-terrace-relief-v2",
     type: "landmark",
@@ -539,8 +516,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Terasare arhitecturală", "Zonă nordică a dealului", "Centru cultural", "Compensare de nivel"],
       en: ["Architectural terracing", "Northern hill area", "Cultural center", "Height compensation"],
     },
-    imageHint: "Courtyard of the Belvedere in Vatican",
-  },
+    imageHint: "Courtyard of the Belvedere in Vatican", image: "/poi-images/vatican-belvedere-upper-terrace-relief-v2.webp"},
   {
     id: "vatican-pigna-lower-terrace-relief-v2",
     type: "landmark",
@@ -559,8 +535,7 @@ export const vaticanReliefV2: POI[] = [
       ro: ["Cea mai nordică zonă plată", "În spatele conului de pin", "Substrat consolidat", "Fundațiile muzeului"],
       en: ["Northernmost flat area", "Behind the Pinecone", "Fortified ground", "Museum foundations"],
     },
-    imageHint: "Cortile della Pigna in Vatican Museums",
-  },
+    imageHint: "Cortile della Pigna in Vatican Museums", image: "/poi-images/vatican-pigna-lower-terrace-relief-v2.webp"},
   {
     id: "vatican-vatican-hill-foot-relief-v2",
     type: "landmark",

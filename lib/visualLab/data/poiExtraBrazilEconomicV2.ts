@@ -605,8 +605,7 @@ export const poiExtraBrazilEconomicV2: POI[] = [
       hu: ["Brazília technológiai és repülőgépipari fővárosa, az Embraer központjának és fő gyártólétesítményeinek otthona.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Kapcsolódik az ország mindennapjaihoz és történelméhez.", "Brazília túlnyomóan trópusi éghajlatának hatása alatt áll."],
       ro: ["Capitala tehnologică și aerospațială a Braziliei, sediul central și principalele facilități de producție ale Embraer.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii.", "Este legat de viața cotidiană și de istoria țării.", "Se află sub influența climei predominant tropicale a Braziliei."],
       en: ["The technological and aerospace capital of Brazil, home to Embraer's headquarters and main manufacturing facilities.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region.", "Connected to the everyday life and history of the country.", "Influenced by Brazil's predominantly tropical climate."],
-    }
-  },
+    }, image: "/poi-images/sao-jose-dos-campos-aerospace-economic-v2.webp"},
   {
     id: "betim-automotive-economic-v2",
     type: "industry",
@@ -636,8 +635,7 @@ export const poiExtraBrazilEconomicV2: POI[] = [
       hu: ["A világ egyik legnagyobb autógyártó üzeme, amely döntő szerepet játszik Brazília ipari ágazatában.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Kapcsolódik az ország mindennapjaihoz és történelméhez.", "Brazília túlnyomóan trópusi éghajlatának hatása alatt áll."],
       ro: ["Una dintre cele mai mari fabrici de producție auto din lume, jucând un rol crucial în sectorul industrial al Braziliei.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii.", "Este legat de viața cotidiană și de istoria țării.", "Se află sub influența climei predominant tropicale a Braziliei."],
       en: ["One of the largest automotive manufacturing plants in the world, playing a crucial role in Brazil's industrial sector.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region.", "Connected to the everyday life and history of the country.", "Influenced by Brazil's predominantly tropical climate."],
-    }
-  },
+    }, image: "/poi-images/betim-automotive-economic-v2.webp"},
   {
     id: "sao-bernardo-industrial-economic-v2",
     type: "industry",
@@ -759,8 +757,7 @@ export const poiExtraBrazilEconomicV2: POI[] = [
       hu: ["A Campos-medencében zajló tengeri olajkutatás operatív bázisa, amely a brazil kőolajgazdaságot hajtja.", "A Brazil Szövetségi Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Kapcsolódik az ország mindennapjaihoz és történelméhez.", "Brazília túlnyomóan trópusi éghajlatának hatása alatt áll."],
       ro: ["Baza operațională pentru explorarea petrolieră offshore în Bazinul Campos, stimulând economia petrolieră braziliană.", "Se află pe teritoriul Republicii Federative a Braziliei.", "Are un rol în identitatea locală a regiunii.", "Este legat de viața cotidiană și de istoria țării.", "Se află sub influența climei predominant tropicale a Braziliei."],
       en: ["The operational base for offshore oil exploration in the Campos Basin, driving the Brazilian petroleum economy.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region.", "Connected to the everyday life and history of the country.", "Influenced by Brazil's predominantly tropical climate."],
-    }
-  },
+    }, image: "/poi-images/macae-oil-base-economic-v2.webp"},
   {
     id: "itabira-iron-mine-economic-v2",
     type: "industry",

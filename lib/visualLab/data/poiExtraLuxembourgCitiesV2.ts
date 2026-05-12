@@ -19,8 +19,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Al doilea oraș ca mărime din Luxemburg", "Capitală Europeană a Culturii în 2022", "Sediul Universității din Luxemburg", "Locația unor foste furnale gigantice"],
       en: ["Second largest city in Luxembourg", "European Capital of Culture in 2022", "Home to the University of Luxembourg", "Site of massive former blast furnaces"],
     },
-    imageHint: "Blast furnaces in Belval district of Esch-sur-Alzette",
-  },
+    imageHint: "Blast furnaces in Belval district of Esch-sur-Alzette", image: "/poi-images/luxembourg-esch-sur-alzette-cities-v2.webp"},
   {
     id: "luxembourg-differdange-cities-v2",
     type: "city",
@@ -39,8 +38,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Al treilea oraș ca mărime din Luxemburg", "Locația unei importante oțelării", "Găzduiește Centrul de Științe din Luxemburg", "Deține un castel din secolul al XVI-lea"],
       en: ["Third largest city in Luxembourg", "Location of a major steel plant", "Home to the Luxembourg Science Center", "Features a 16th-century castle"],
     },
-    imageHint: "Modern architecture and industrial heritage in Differdange",
-  },
+    imageHint: "Modern architecture and industrial heritage in Differdange", image: "/poi-images/luxembourg-differdange-cities-v2.webp"},
   {
     id: "luxembourg-dudelange-cities-v2",
     type: "city",
@@ -59,8 +57,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Al patrulea oraș ca mărime din țară", "Cunoscut pentru stația de radio RTL", "Găzduiește Centrul Național de Fotografie", "Situat la poalele muntelui Hardt"],
       en: ["Fourth largest city in the country", "Known for the RTL radio station", "Houses the National Audiovisual Centre", "Located at the foot of Mount Hardt"],
     },
-    imageHint: "City hall and central square of Dudelange",
-  },
+    imageHint: "City hall and central square of Dudelange", image: "/poi-images/luxembourg-dudelange-cities-v2.webp"},
   {
     id: "luxembourg-petange-cities-v2",
     type: "town",
@@ -79,8 +76,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Comună populată în sud-vest", "Gară de frontieră importantă către Belgia", "Punct de plecare pentru trenul istoric Train 1900", "Primul oraș luxemburghez eliberat în 1944"],
       en: ["Populous municipality in the southwest", "Important border railway station to Belgium", "Starting point of the Train 1900 heritage railway", "First Luxembourgish town liberated in 1944"],
     },
-    imageHint: "Historic steam train near Pétange station",
-  },
+    imageHint: "Historic steam train near Pétange station", image: "/poi-images/luxembourg-petange-cities-v2.webp"},
   {
     id: "luxembourg-sanem-cities-v2",
     type: "town",
@@ -99,8 +95,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Formată din patru localități principale", "Găzduiește Castelul Sanem", "Parte a proiectului de dezvoltare Belval", "Sediul unor companii internaționale de logistică"],
       en: ["Consists of four main localities", "Home to Sanem Castle", "Part of the Belval development project", "Host to international logistics companies"],
     },
-    imageHint: "Sanem Castle and its surrounding gardens",
-  },
+    imageHint: "Sanem Castle and its surrounding gardens", image: "/poi-images/luxembourg-sanem-cities-v2.webp"},
   {
     id: "luxembourg-hesperange-cities-v2",
     type: "town",
@@ -119,8 +114,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Zonă rezidențială populară lângă capitală", "Deține o ruină de castel distinctivă", "Nod rutier important în sud", "Situat pe râul Alzette"],
       en: ["Popular residential area near the capital", "Features a prominent castle ruin", "Important traffic hub in the south", "Located on the Alzette river"],
     },
-    imageHint: "Ruins of Hesperange Castle overlooking the town",
-  },
+    imageHint: "Ruins of Hesperange Castle overlooking the town", image: "/poi-images/luxembourg-hesperange-cities-v2.webp"},
   {
     id: "luxembourg-bettembourg-cities-v2",
     type: "town",
@@ -139,8 +133,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Sediul unei mari gări de marfă", "Găzduiește parcul de distracții Parc Merveilleux", "Nod feroviar vital", "Deține un castel din secolul al XVIII-lea"],
       en: ["Site of a large freight railway station", "Home to the Parc Merveilleux amusement park", "Crucial railway junction", "Features an 18th-century castle"],
     },
-    imageHint: "Entrance to Parc Merveilleux in Bettembourg",
-  },
+    imageHint: "Entrance to Parc Merveilleux in Bettembourg", image: "/poi-images/luxembourg-bettembourg-cities-v2.webp"},
   {
     id: "luxembourg-schifflange-cities-v2",
     type: "town",
@@ -159,8 +152,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Locația unei mari oțelării", "Situat la poalele dealului Lallingerberg", "Important loc de reședință pentru muncitorii industriali", "Zonă dens populată în sud"],
       en: ["Site of a large steel plant", "Located at the foot of Lallingerberg", "Significant residence for industrial workers", "Densely populated area in the south"],
     },
-    imageHint: "Industrial steel structures in Schifflange",
-  },
+    imageHint: "Industrial steel structures in Schifflange", image: "/poi-images/luxembourg-schifflange-cities-v2.webp"},
   {
     id: "luxembourg-ettelbruck-cities-v2",
     type: "town",
@@ -179,8 +171,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Sediul Muzeului Memorial General Patton", "Nod feroviar important în nord", "Gazda celui mai mare târg agricol", "Eliberat de trupele americane în 1944"],
       en: ["Home to the General Patton Memorial Museum", "Major railway junction in the north", "Host of the country's largest agricultural fair", "Liberated by US troops in 1944"],
     },
-    imageHint: "Patton Square and monument in Ettelbruck",
-  },
+    imageHint: "Patton Square and monument in Ettelbruck", image: "/poi-images/luxembourg-ettelbruck-cities-v2.webp"},
   {
     id: "luxembourg-kayl-cities-v2",
     type: "town",
@@ -199,8 +190,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Locația Monumentului Național al Minerilor", "Centru istoric al extracției de minereu de fier", "Trasee de drumeție în rezervația naturală Haard", "Deține o biserică din secolul al XVIII-lea"],
       en: ["Site of the National Miners' Monument", "Historic center of iron ore extraction", "Hiking opportunities in the Haard nature reserve", "Features an 18th-century church"],
     },
-    imageHint: "The National Miners' Monument in Kayl",
-  },
+    imageHint: "The National Miners' Monument in Kayl", image: "/poi-images/luxembourg-kayl-cities-v2.webp"},
   {
     id: "luxembourg-mamer-cities-v2",
     type: "town",
@@ -219,8 +209,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Locul de naștere al ciclistului Nicolas Frantz", "Locația unor ruine de termale romane", "Găzduiește un centru cultural mare", "Sediul Școlii Europene II"],
       en: ["Birthplace of cyclist Nicolas Frantz", "Site of ancient Roman thermal baths", "Houses a large cultural center", "Location of the European School II"],
     },
-    imageHint: "Roman bath ruins in Mamer",
-  },
+    imageHint: "Roman bath ruins in Mamer", image: "/poi-images/luxembourg-mamer-cities-v2.webp"},
   {
     id: "luxembourg-strassen-cities-v2",
     type: "town",
@@ -239,8 +228,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Una dintre cele mai bogate comune din Luxemburg", "Situată pe un vechi drum roman", "Cunoscută pentru centrul wellness Les Thermes", "Sediul multor instituții internaționale"],
       en: ["One of the wealthiest municipalities in Luxembourg", "Located on an ancient Roman road", "Famous for the Les Thermes wellness center", "Host to many international institutions"],
     },
-    imageHint: "Modern architecture of Les Thermes in Strassen",
-  },
+    imageHint: "Modern architecture of Les Thermes in Strassen", image: "/poi-images/luxembourg-strassen-cities-v2.webp"},
   {
     id: "luxembourg-bertrange-cities-v2",
     type: "town",
@@ -259,8 +247,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Găzduiește centrul comercial City Concorde", "Deține un castel din secolul al XVIII-lea", "Sediul Centrului Național de Literatură", "Loc de reședință popular pentru navetiști"],
       en: ["Home to the City Concorde shopping center", "Features an 18th-century castle", "Site of the National Literature Centre", "Popular residential area for commuters"],
     },
-    imageHint: "Main square and church in Bertrange",
-  },
+    imageHint: "Main square and church in Bertrange", image: "/poi-images/luxembourg-bertrange-cities-v2.webp"},
   {
     id: "luxembourg-walferdange-cities-v2",
     type: "town",
@@ -279,8 +266,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Găzduiește Castelul Walferdange", "Fostă locație a Universității din Luxemburg", "Deține sisteme de apeducte romane", "Stație feroviară importantă pe linia de nord"],
       en: ["Home to Walferdange Castle", "Former site of the University of Luxembourg", "Features Roman water pipe systems", "Important railway stop on the North line"],
     },
-    imageHint: "Walferdange Castle facade",
-  },
+    imageHint: "Walferdange Castle facade", image: "/poi-images/luxembourg-walferdange-cities-v2.webp"},
   {
     id: "luxembourg-junglinster-cities-v2",
     type: "town",
@@ -299,8 +285,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Sediul emițătoarelor de unde lungi ale RTL", "Găzduiește un liceu internațional modern", "Unul dintre cele mai mari situri fotovoltaice", "Situat în regiunea Müllerthal"],
       en: ["Host to the RTL long-wave transmitters", "Home to a modern international secondary school", "One of the largest sites for photovoltaics", "Located near the Müllerthal region"],
     },
-    imageHint: "Tall radio towers of Junglinster",
-  },
+    imageHint: "Tall radio towers of Junglinster", image: "/poi-images/luxembourg-junglinster-cities-v2.webp"},
   {
     id: "luxembourg-diekirch-cities-v2",
     type: "town",
@@ -319,8 +304,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Sediul Muzeului Național de Istorie Militară", "Cunoscut pentru berea Diekirch", "Locația singurei cazărmi din țară", "Primul oraș cu o zonă pietonală"],
       en: ["Home to the National Museum of Military History", "Famous for Diekirch beer", "Site of the country's only military barracks", "First town to have a pedestrian zone"],
     },
-    imageHint: "Central square of Diekirch with the donkey fountain",
-  },
+    imageHint: "Central square of Diekirch with the donkey fountain", image: "/poi-images/luxembourg-diekirch-cities-v2.webp"},
   {
     id: "luxembourg-bascharage-cities-v2",
     type: "town",
@@ -339,8 +323,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Găzduiește fabrica de bere Bofferding", "Sit industrial important în sud-vest", "Situat aproape de granița cu Belgia", "Parte a comunei fuzionate Käerjeng"],
       en: ["Home to the Bofferding brewery", "Major industrial site in the southwest", "Located near the Belgian border", "Part of the merged municipality Käerjeng"],
     },
-    imageHint: "Bofferding brewery buildings in Bascharage",
-  },
+    imageHint: "Bofferding brewery buildings in Bascharage", image: "/poi-images/luxembourg-bascharage-cities-v2.webp"},
   {
     id: "luxembourg-kehlen-cities-v2",
     type: "town",
@@ -359,8 +342,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Situat pe un platou fertil", "Cunoscut pentru cultivarea cartofilor", "Deține o istorie galo-romană importantă", "Oferă vederi panoramice asupra împrejurimilor"],
       en: ["Situated on a fertile plateau", "Known for potato cultivation", "Has significant Gallo-Roman history", "Offers wide views over the countryside"],
     },
-    imageHint: "Aerial view of Kehlen on the plateau",
-  },
+    imageHint: "Aerial view of Kehlen on the plateau", image: "/poi-images/luxembourg-kehlen-cities-v2.webp"},
   {
     id: "luxembourg-wiltz-cities-v2",
     type: "town",
@@ -379,8 +361,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Sediul unui castel cu muzeu", "Centru al mișcării internaționale de cercetași", "Faimos pentru Festivalul de la Wiltz", "Scena unor lupte grele în 1944"],
       en: ["Home to a castle with a museum", "Center of the international scouting movement", "Famous for the Wiltz Festival", "Scene of heavy fighting in 1944"],
     },
-    imageHint: "Wiltz Castle with its outdoor amphitheater",
-  },
+    imageHint: "Wiltz Castle with its outdoor amphitheater", image: "/poi-images/luxembourg-wiltz-cities-v2.webp"},
   {
     id: "luxembourg-echternach-cities-v2",
     type: "town",
@@ -399,8 +380,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Cel mai vechi oraș din Marele Ducat", "Sediul procesiunii dansante incluse în UNESCO", "Găzduiește o basilică importantă", "Poarta către regiunea Müllerthal"],
       en: ["Oldest town in the Grand Duchy", "Home to the UNESCO-listed jumping procession", "Houses a significant basilica", "Gateway to the Müllerthal region"],
     },
-    imageHint: "Echternach Abbey and its gardens",
-  },
+    imageHint: "Echternach Abbey and its gardens", image: "/poi-images/luxembourg-echternach-cities-v2.webp"},
   {
     id: "luxembourg-mondercange-cities-v2",
     type: "town",
@@ -419,8 +399,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Sediul federației luxemburgheze de fotbal", "Găzduiește o pistă de karting cunoscută", "Comună rezidențială modernă în sud", "Istoric marcat de agricultură"],
       en: ["Home of the Luxembourg Football Federation", "Host to a well-known karting track", "Modern residential community in the south", "Historically dominated by agriculture"],
     },
-    imageHint: "Modern church tower in Mondercange",
-  },
+    imageHint: "Modern church tower in Mondercange", image: "/poi-images/luxembourg-mondercange-cities-v2.webp"},
   {
     id: "luxembourg-roeser-cities-v2",
     type: "town",
@@ -439,8 +418,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Situat în valea pârâului Roeser", "Cunoscut pentru Festivalul Ecvestru de la Roeser", "Deține rezervații naturale valoroase", "Loc de excursie popular pentru bicicliști"],
       en: ["Located in the valley of the Roeser stream", "Known for the Roeser Horse Festival", "Has valuable nature reserves", "Popular excursion spot for cyclists"],
     },
-    imageHint: "Rural landscape and fields near Roeser",
-  },
+    imageHint: "Rural landscape and fields near Roeser", image: "/poi-images/luxembourg-roeser-cities-v2.webp"},
   {
     id: "luxembourg-steinsel-cities-v2",
     type: "town",
@@ -459,8 +437,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Centrul cultivării căpșunilor în Luxemburg", "Deține o vilă romană în apropiere", "Situat pe versanții pădurii Bambësch", "Gazda unui festival anual al căpșunilor"],
       en: ["Center of Luxembourgish strawberry growing", "Features a Roman villa nearby", "Located on the slopes of the Bambësch forest", "Host of an annual strawberry festival"],
     },
-    imageHint: "Strawberry fields in the Alzette valley near Steinsel",
-  },
+    imageHint: "Strawberry fields in the Alzette valley near Steinsel", image: "/poi-images/luxembourg-steinsel-cities-v2.webp"},
   {
     id: "luxembourg-niederanven-cities-v2",
     type: "town",
@@ -479,8 +456,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Locația aeroportului din Luxemburg", "Găzduiește centrul wellness Syrdall Schwemm", "Deține suprafețe mari de pădure (Grünewald)", "Sediul unor companii aeriene internaționale"],
       en: ["Site of the Luxembourg Airport", "Home to the Syrdall Schwemm wellness pool", "Features large forest areas (Grünewald)", "Host to international airlines"],
     },
-    imageHint: "The terminal of Luxembourg Airport in Findel",
-  },
+    imageHint: "The terminal of Luxembourg Airport in Findel", image: "/poi-images/luxembourg-niederanven-cities-v2.webp"},
   {
     id: "luxembourg-rumelange-cities-v2",
     type: "town",
@@ -499,8 +475,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Cel mai sudic oraș al Marelui Ducat", "Sediul Muzeului Național al Minereului de Fier", "Semnificativ istoric pentru regiunea Minette", "Fost centru de extracție a minereului"],
       en: ["Southernmost town in the Grand Duchy", "Home to the National Iron Mining Museum", "Historically significant for the Minette region", "Former hub of ore extraction"],
     },
-    imageHint: "Mining cart outside the museum in Rumelange",
-  },
+    imageHint: "Mining cart outside the museum in Rumelange", image: "/poi-images/luxembourg-rumelange-cities-v2.webp"},
   {
     id: "luxembourg-steinfort-cities-v2",
     type: "town",
@@ -519,8 +494,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Situat direct la granița cu Belgia", "Găzduiește un centru de protecție a naturii cunoscut", "Fostă locație a unor topitorii de fier importante", "Punct de plecare pentru trasee cicliste în valea Attert"],
       en: ["Directly on the border with Belgium", "Home to a well-known nature center", "Former site of important ironworks", "Starting point for cycling tours in the Attert valley"],
     },
-    imageHint: "Historic villa in Steinfort near the border",
-  },
+    imageHint: "Historic villa in Steinfort near the border", image: "/poi-images/luxembourg-steinfort-cities-v2.webp"},
   {
     id: "luxembourg-mondorf-les-bains-cities-v2",
     type: "town",
@@ -539,8 +513,7 @@ export const luxembourgCitiesV2: POI[] = [
       ro: ["Singura stațiune termală din Luxemburg", "Locația Casino 2000", "Deține un parc balnear mare", "Sediul Muzeului Aviației"],
       en: ["Only thermal spa resort in Luxembourg", "Location of Casino 2000", "Features a large spa park", "Home to the Aviation Museum"],
     },
-    imageHint: "Thermal baths building in Mondorf-les-Bains",
-  },
+    imageHint: "Thermal baths building in Mondorf-les-Bains", image: "/poi-images/luxembourg-mondorf-les-bains-cities-v2.webp"},
   {
     id: "luxembourg-grevenmacher-cities-v2",
     type: "town",

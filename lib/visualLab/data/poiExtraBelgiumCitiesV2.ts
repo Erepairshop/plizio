@@ -31,8 +31,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-antwerp-cities-v2.webp"},
   {
     id: "belgium-ghent-cities-v2",
     type: "city",
@@ -63,8 +62,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-ghent-cities-v2.webp"},
   {
     id: "belgium-bruges-cities-v2",
     type: "city",
@@ -95,8 +93,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-bruges-cities-v2.webp"},
   {
     id: "belgium-liege-cities-v2",
     type: "city",
@@ -127,8 +124,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-liege-cities-v2.webp"},
   {
     id: "belgium-namur-cities-v2",
     type: "capital",
@@ -159,8 +155,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-namur-cities-v2.webp"},
   {
     id: "belgium-leuven-cities-v2",
     type: "city",
@@ -191,8 +186,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-leuven-cities-v2.webp"},
   {
     id: "belgium-mons-cities-v2",
     type: "city",
@@ -223,8 +217,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-mons-cities-v2.webp"},
   {
     id: "belgium-charleroi-cities-v2",
     type: "city",
@@ -255,8 +248,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-charleroi-cities-v2.webp"},
   {
     id: "belgium-mechelen-cities-v2",
     type: "city",
@@ -287,8 +279,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-mechelen-cities-v2.webp"},
   {
     id: "belgium-aalst-cities-v2",
     type: "city",
@@ -319,8 +310,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-aalst-cities-v2.webp"},
   {
     id: "belgium-la-louviere-cities-v2",
     type: "city",
@@ -351,8 +341,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-la-louviere-cities-v2.webp"},
   {
     id: "belgium-kortrijk-cities-v2",
     type: "city",
@@ -383,8 +372,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-kortrijk-cities-v2.webp"},
   {
     id: "belgium-hasselt-cities-v2",
     type: "city",
@@ -415,8 +403,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-hasselt-cities-v2.webp"},
   {
     id: "belgium-sint-niklaas-cities-v2",
     type: "city",
@@ -447,8 +434,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-sint-niklaas-cities-v2.webp"},
   {
     id: "belgium-ostend-cities-v2",
     type: "city",
@@ -480,8 +466,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-ostend-cities-v2.webp"},
   {
     id: "belgium-tournai-cities-v2",
     type: "city",
@@ -512,8 +497,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-tournai-cities-v2.webp"},
   {
     id: "belgium-genk-cities-v2",
     type: "city",
@@ -544,8 +528,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-genk-cities-v2.webp"},
   {
     id: "belgium-seraing-cities-v2",
     type: "city",
@@ -576,8 +559,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-seraing-cities-v2.webp"},
   {
     id: "belgium-roeselare-cities-v2",
     type: "city",
@@ -608,8 +590,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-roeselare-cities-v2.webp"},
   {
     id: "belgium-mouscron-cities-v2",
     type: "city",
@@ -640,8 +621,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-mouscron-cities-v2.webp"},
   {
     id: "belgium-verviers-cities-v2",
     type: "city",
@@ -672,8 +652,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-verviers-cities-v2.webp"},
   {
     id: "belgium-beringen-cities-v2",
     type: "city",
@@ -704,8 +683,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-beringen-cities-v2.webp"},
   {
     id: "belgium-dendermonde-cities-v2",
     type: "city",
@@ -736,8 +714,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-dendermonde-cities-v2.webp"},
   {
     id: "belgium-vilvoorde-cities-v2",
     type: "city",
@@ -768,8 +745,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-vilvoorde-cities-v2.webp"},
   {
     id: "belgium-turnhout-cities-v2",
     type: "city",
@@ -800,8 +776,7 @@ export const belgiumCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belgium-turnhout-cities-v2.webp"},
   {
     id: "belgium-sint-truiden-cities-v2",
     type: "city",
@@ -820,8 +795,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Centrul pomiculturii belgiene", "Abația din Sint-Truiden", "A doua cea mai mare piață din Belgia", "Numeroase monumente romanice"],
       en: ["Center of Belgian fruit growing", "Abbey of Sint-Truiden", "Second largest market square in Belgium", "Many Romanesque monuments"],
     },
-    imageHint: "Sint-Truiden Abbey tower",
-  },
+    imageHint: "Sint-Truiden Abbey tower", image: "/poi-images/belgium-sint-truiden-cities-v2.webp"},
   {
     id: "belgium-lokeren-cities-v2",
     type: "city",
@@ -840,8 +814,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Festivalul Lokerse Feesten", "Rezervația naturală Molsbroek", "Oraș pe râul Durme", "Biserica Sfântul Laurențiu"],
       en: ["Lokerse Feesten festival", "Molsbroek nature reserve", "City on the Durme river", "St. Lawrence's Church"],
     },
-    imageHint: "Lokeren city hall and square",
-  },
+    imageHint: "Lokeren city hall and square", image: "/poi-images/belgium-lokeren-cities-v2.webp"},
   {
     id: "belgium-geel-cities-v2",
     type: "city",
@@ -860,8 +833,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Sistem de îngrijire familială renumit", "Biserica Sfânta Dymphna", "Centru al regiunii Kempen", "Orașul Galben (numele Geel)"],
       en: ["World-famous family care system", "St. Dymphna's Church", "Center of the Kempen region", "Yellow city (meaning of Geel)"],
     },
-    imageHint: "Geel St. Dymphna Church",
-  },
+    imageHint: "Geel St. Dymphna Church", image: "/poi-images/belgium-geel-cities-v2.webp"},
   {
     id: "belgium-halle-cities-v2",
     type: "city",
@@ -880,8 +852,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Bazilica Sfântul Martin", "Pelerinaj la Madona Neagră", "Poartă către Pajottenland", "Aproape de pădurea Hallerbos"],
       en: ["Basilica of Saint Martin", "Pilgrimage to the Black Madonna", "Gateway to Pajottenland", "Near the Hallerbos forest"],
     },
-    imageHint: "Halle Basilica of Saint Martin",
-  },
+    imageHint: "Halle Basilica of Saint Martin", image: "/poi-images/belgium-halle-cities-v2.webp"},
   {
     id: "belgium-waregem-cities-v2",
     type: "city",
@@ -900,8 +871,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Cursa de cai Waregem Koerse", "Cimitir militar american", "Orașul cailor", "Centru al regiunii textile"],
       en: ["Waregem Koerse horse race", "American Military Cemetery", "City of horses", "Center of the textile region"],
     },
-    imageHint: "Waregem horse racing stadium",
-  },
+    imageHint: "Waregem horse racing stadium", image: "/poi-images/belgium-waregem-cities-v2.webp"},
   {
     id: "belgium-chatelet-cities-v2",
     type: "city",
@@ -920,8 +890,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Locul de naștere al lui René Magritte", "Oraș pe malul râului Sambre", "Producție istorică de ceramică", "Parte a zonei industriale"],
       en: ["Birthplace of René Magritte", "City on the Sambre river", "Historic stoneware production", "Part of the industrial belt"],
     },
-    imageHint: "Châtelet city view and Sambre river",
-  },
+    imageHint: "Châtelet city view and Sambre river", image: "/poi-images/belgium-chatelet-cities-v2.webp"},
   {
     id: "belgium-mol-cities-v2",
     type: "city",
@@ -940,8 +909,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Centrul de Cercetare Nucleară", "Abația Postel", "Zona de agrement Molse Meren", "Centru de extracție a nisipului alb"],
       en: ["Belgian Nuclear Research Centre", "Postel Abbey", "Molse Meren recreation area", "Center of white sand extraction"],
     },
-    imageHint: "Mol Postel Abbey architecture",
-  },
+    imageHint: "Mol Postel Abbey architecture", image: "/poi-images/belgium-mol-cities-v2.webp"},
   {
     id: "belgium-ypres-cities-v2",
     type: "city",
@@ -960,8 +928,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Poarta Menin și Last Post", "Hala Postăvarilor reconstruită", "Muzeul In Flanders Fields", "Locul unor bătălii majore în WWI"],
       en: ["Menin Gate and the Last Post", "Rebuilt Cloth Hall", "In Flanders Fields Museum", "Site of heavy WWI battles"],
     },
-    imageHint: "Ypres Cloth Hall and Menin Gate",
-  },
+    imageHint: "Ypres Cloth Hall and Menin Gate", image: "/poi-images/belgium-ypres-cities-v2.webp"},
   {
     id: "belgium-lier-cities-v2",
     type: "city",
@@ -980,8 +947,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Turnul Zimmer cu ceas astronomic", "Beguinage (sit UNESCO)", "Oraș la confluența râurilor Nete", "Locul de origine al lui Felix Timmermans"],
       en: ["Zimmer Tower with world clock", "UNESCO-listed Beguinage", "City at the confluence of the Netes", "Home of writer Felix Timmermans"],
     },
-    imageHint: "Lier Zimmer Tower astronomical clock",
-  },
+    imageHint: "Lier Zimmer Tower astronomical clock", image: "/poi-images/belgium-lier-cities-v2.webp"},
   {
     id: "belgium-lommel-cities-v2",
     type: "city",
@@ -1000,8 +966,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Sahara din Lommel (dune de nisip)", "Cimitir militar german", "Centrul de artă a sticlei Glashaus", "Centru de extracție a nisipului"],
       en: ["Lommel Sahara (dune landscape)", "German military cemetery", "House of Glass (art center)", "Center of sand extraction"],
     },
-    imageHint: "Lommel Sahara dunes and lake",
-  },
+    imageHint: "Lommel Sahara dunes and lake", image: "/poi-images/belgium-lommel-cities-v2.webp"},
   {
     id: "belgium-nivelles-cities-v2",
     type: "city",
@@ -1020,8 +985,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Biserica colegială Sainte-Gertrude", "Arhitectură romanică pură", "Specialitatea Tarte al d'jote", "Fortificații istorice"],
       en: ["Collegiate Church of St. Gertrude", "Romanesque architectural gem", "Tarte al d'jote specialty", "Historic city fortifications"],
     },
-    imageHint: "Nivelles Collegiate Church of St. Gertrude",
-  },
+    imageHint: "Nivelles Collegiate Church of St. Gertrude", image: "/poi-images/belgium-nivelles-cities-v2.webp"},
   {
     id: "belgium-binche-cities-v2",
     type: "city",
@@ -1040,8 +1004,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Carnavalul din Binche (UNESCO)", "Personajele Gilles de Binche", "Ziduri medievale de apărare", "Muzeul Internațional al Măștii"],
       en: ["Carnival of Binche (UNESCO)", "Gilles of Binche characters", "Medieval city walls", "International Mask Museum"],
     },
-    imageHint: "Binche Carnival Gilles characters",
-  },
+    imageHint: "Binche Carnival Gilles characters", image: "/poi-images/belgium-binche-cities-v2.webp"},
   {
     id: "belgium-wavre-cities-v2",
     type: "city",
@@ -1060,8 +1023,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Parcul de distracții Walibi Belgium", "Bătălia de la Wavre (1815)", "Capitala Brabantului Valon", "Biserica Sfântul Ioan Botezătorul"],
       en: ["Walibi Belgium theme park", "Battle of Wavre (1815)", "Capital of Walloon Brabant", "Church of St. John the Baptist"],
     },
-    imageHint: "Wavre city hall and church",
-  },
+    imageHint: "Wavre city hall and church", image: "/poi-images/belgium-wavre-cities-v2.webp"},
   {
     id: "belgium-arlon-cities-v2",
     type: "city",
@@ -1080,8 +1042,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Cel mai vechi oraș din Belgia (roman)", "Muzeul de Arheologie", "Biserica Saint-Donat pe deal", "Capitala provinciei Luxemburg"],
       en: ["Oldest city in Belgium (Roman)", "Archaeological Museum", "St. Donat's Church on the hill", "Capital of Luxembourg province"],
     },
-    imageHint: "Arlon St. Donat's Church on hill",
-  },
+    imageHint: "Arlon St. Donat's Church on hill", image: "/poi-images/belgium-arlon-cities-v2.webp"},
   {
     id: "belgium-heist-op-den-berg-cities-v2",
     type: "town",
@@ -1100,8 +1061,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Situat pe un deal de 48m", "Piață celebră de duminică", "Centru al regiunii Zuiderkempen", "Turn de apă istoric"],
       en: ["Located on a 48m high hill", "Famous Sunday market", "Center of the Zuiderkempen region", "Historic water tower"],
     },
-    imageHint: "Heist-op-den-Berg church on the hill",
-  },
+    imageHint: "Heist-op-den-Berg church on the hill", image: "/poi-images/belgium-heist-op-den-berg-cities-v2.webp"},
   {
     id: "belgium-tongeren-cities-v2",
     type: "city",
@@ -1120,8 +1080,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Cel mai vechi oraș din Belgia", "Statuia lui Ambiorix", "Cea mai mare piață de antichități din Benelux", "Bazilica Notre-Dame (UNESCO)"],
       en: ["Oldest city in Belgium", "Ambiorix monument", "Largest antiques market in Benelux", "UNESCO-listed Basilica of Our Lady"],
     },
-    imageHint: "Tongeren Ambiorix statue and basilica",
-  },
+    imageHint: "Tongeren Ambiorix statue and basilica", image: "/poi-images/belgium-tongeren-cities-v2.webp"},
   {
     id: "belgium-dinant-cities-v2",
     type: "city",
@@ -1140,8 +1099,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Locul de naștere al lui Adolphe Sax", "Citadela pe stâncă", "Biserica colegială Notre-Dame", "Celebru pentru biscuiții Couques de Dinant"],
       en: ["Birthplace of Adolphe Sax", "Citadel high on the cliff", "Collegiate Church of Notre-Dame", "Famous for 'Couques de Dinant' biscuits"],
     },
-    imageHint: "Dinant citadel and church on the Meuse",
-  },
+    imageHint: "Dinant citadel and church on the Meuse", image: "/poi-images/belgium-dinant-cities-v2.webp"},
   {
     id: "belgium-bastogne-cities-v2",
     type: "town",
@@ -1160,8 +1118,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Locul Bătăliei din Ardeni", "Monumentul Mardasson", "Bastogne War Museum", "Poartă către regiunea Hautes Fagnes"],
       en: ["Site of the Battle of the Bulge", "Mardasson Memorial", "Bastogne War Museum", "Gateway to the High Fens"],
     },
-    imageHint: "Bastogne Mardasson Memorial",
-  },
+    imageHint: "Bastogne Mardasson Memorial", image: "/poi-images/belgium-bastogne-cities-v2.webp"},
   {
     id: "belgium-eupen-cities-v2",
     type: "city",
@@ -1180,8 +1137,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Sediul Comunității germanofone", "Barajul Vesdre (cel mai mare)", "Case istorice ale postăvarilor", "Poartă către Parcul Hautes Fagnes"],
       en: ["Seat of the German-speaking Community", "Vesdre Dam (largest in Belgium)", "Historic wool merchant houses", "Gateway to High Fens Nature Park"],
     },
-    imageHint: "Eupen town hall and Vesdre dam",
-  },
+    imageHint: "Eupen town hall and Vesdre dam", image: "/poi-images/belgium-eupen-cities-v2.webp"},
   {
     id: "belgium-herstal-cities-v2",
     type: "city",
@@ -1200,8 +1156,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Sediul FN Herstal", "Locul de naștere al lui Carol cel Mare (presupus)", "Industrie de armament majoră", "Parte a zonei metropolitane Liège"],
       en: ["Headquarters of FN Herstal", "Probable birthplace of Charlemagne", "Major firearms industry", "Part of the Liège urban area"],
     },
-    imageHint: "Herstal industrial zone view",
-  },
+    imageHint: "Herstal industrial zone view", image: "/poi-images/belgium-herstal-cities-v2.webp"},
   {
     id: "belgium-oudenaarde-cities-v2",
     type: "city",
@@ -1220,8 +1175,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Primărie în stil gotic târziu (UNESCO)", "Centru istoric al tapiseriei", "Centru al Turului Flandrei", "Biserica Sfânta Walburga"],
       en: ["Late Gothic town hall (UNESCO)", "Historic center for tapestry", "Hub for the Tour of Flanders race", "St. Walburga's Church"],
     },
-    imageHint: "Oudenaarde Town Hall Gothic architecture",
-  },
+    imageHint: "Oudenaarde Town Hall Gothic architecture", image: "/poi-images/belgium-oudenaarde-cities-v2.webp"},
   {
     id: "belgium-tienen-cities-v2",
     type: "city",
@@ -1240,8 +1194,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Centrul industriei zahărului din Belgia", "Biserica Sfântul Germanus (UNESCO)", "Festivalul anual Suikerrock", "Piață istorică centrală"],
       en: ["Center of Belgian sugar industry", "St. Germanus Church (UNESCO)", "Annual Suikerrock festival", "Historic market square"],
     },
-    imageHint: "Tienen sugar refinery and church",
-  },
+    imageHint: "Tienen sugar refinery and church", image: "/poi-images/belgium-tienen-cities-v2.webp"},
   {
     id: "belgium-geraardsbergen-cities-v2",
     type: "city",
@@ -1260,8 +1213,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Zidul din Geraardsbergen (ciclism)", "Mattentaart (specialitate culinară)", "Cea mai veche statuie Manneken Pis", "Dealul Oudenberg"],
       en: ["Wall of Geraardsbergen (cycling)", "Mattentaart (protected pastry)", "Oldest Manneken Pis in Belgium", "Oudenberg hill"],
     },
-    imageHint: "Geraardsbergen Muur climb view",
-  },
+    imageHint: "Geraardsbergen Muur climb view", image: "/poi-images/belgium-geraardsbergen-cities-v2.webp"},
   {
     id: "belgium-knokke-heist-cities-v2",
     type: "town",
@@ -1280,8 +1232,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Cea mai exclusivistă stațiune din Belgia", "Rezervația naturală Zwin", "Cazinoul din Knokke", "Centru de artă contemporană"],
       en: ["Most exclusive Belgian resort", "Zwin Nature Park", "Casino of Knokke", "Center for contemporary art"],
     },
-    imageHint: "Knokke-Heist beach and promenade",
-  },
+    imageHint: "Knokke-Heist beach and promenade", image: "/poi-images/belgium-knokke-heist-cities-v2.webp"},
   {
     id: "belgium-menen-cities-v2",
     type: "city",
@@ -1300,8 +1251,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Oraș la granița cu Franța", "Turn belfry (sit UNESCO)", "Fortificații istorice", "Centru al industriei de mobilier"],
       en: ["Border city with France", "UNESCO-listed belfry", "Historic fortifications", "Center of the furniture industry"],
     },
-    imageHint: "Menen belfry and town square",
-  },
+    imageHint: "Menen belfry and town square", image: "/poi-images/belgium-menen-cities-v2.webp"},
   {
     id: "belgium-bilzen-cities-v2",
     type: "city",
@@ -1320,8 +1270,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Comanderia Alden Biesen", "Centru istoric al orașului", "Parte a regiunii pomicole Haspengouw", "Centru de evenimente culturale"],
       en: ["Alden Biesen Castle", "Historic city center", "Part of the Haspengouw fruit region", "Hub for cultural events"],
     },
-    imageHint: "Bilzen Alden Biesen Castle view",
-  },
+    imageHint: "Bilzen Alden Biesen Castle view", image: "/poi-images/belgium-bilzen-cities-v2.webp"},
   {
     id: "belgium-houthalen-helchteren-cities-v2",
     type: "town",
@@ -1340,8 +1289,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Parcul de vacanță Molenheide", "Fost centru de exploatare a cărbunelui", "Centru al regiunii Limburgse Kempen", "Rezervația naturală De Teut"],
       en: ["Molenheide holiday park", "Former coal mining history", "Center of the Limburgse Kempen", "De Teut nature reserve"],
     },
-    imageHint: "Houthalen-Helchteren park scenery",
-  },
+    imageHint: "Houthalen-Helchteren park scenery", image: "/poi-images/belgium-houthalen-helchteren-cities-v2.webp"},
   {
     id: "belgium-evergem-cities-v2",
     type: "town",
@@ -1360,8 +1308,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Conexiune cu portul din Gent", "Castelul Wippelgem", "Suburbie a orașului Gent", "Arhitectură rurală istorică"],
       en: ["Connected to the Port of Ghent", "Wippelgem Castle", "Suburb of Ghent", "Historic rural architecture"],
     },
-    imageHint: "Evergem castle Wippelgem",
-  },
+    imageHint: "Evergem castle Wippelgem", image: "/poi-images/belgium-evergem-cities-v2.webp"},
   {
     id: "belgium-brasschaat-cities-v2",
     type: "town",
@@ -1380,8 +1327,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Cunoscut drept comuna parcurilor", "Cartier rezidențial de lux", "Parcul din Brasschaat", "Aerodromul militar Brasschaat"],
       en: ["Known as the park municipality", "Wealthy villa district", "Park of Brasschaat", "Brasschaat military airfield"],
     },
-    imageHint: "Brasschaat park and castle",
-  },
+    imageHint: "Brasschaat park and castle", image: "/poi-images/belgium-brasschaat-cities-v2.webp"},
   {
     id: "belgium-grimbergen-cities-v2",
     type: "town",
@@ -1400,8 +1346,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Celebra bere de abație Grimbergen", "Abația Premonstratensă", "Muzeul Tehnicilor Vechi (MOT)", "Aproape de Bruxelles"],
       en: ["Famous Grimbergen abbey beer", "Norbertine Abbey of Grimbergen", "Museum of Old Techniques (MOT)", "Proximity to Brussels"],
     },
-    imageHint: "Grimbergen Abbey church",
-  },
+    imageHint: "Grimbergen Abbey church", image: "/poi-images/belgium-grimbergen-cities-v2.webp"},
   {
     id: "belgium-herentals-cities-v2",
     type: "city",
@@ -1420,8 +1365,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Primăria istorică din piață", "Porți medievale ale orașului", "Centrul regiunii Kempen", "Conexiune la Canalul Albert"],
       en: ["Historic Town Hall on the market", "Medieval city gates", "Center of the Kempen region", "Albert Canal connection"],
     },
-    imageHint: "Herentals historic town hall",
-  },
+    imageHint: "Herentals historic town hall", image: "/poi-images/belgium-herentals-cities-v2.webp"},
   {
     id: "belgium-ronse-cities-v2",
     type: "city",
@@ -1440,8 +1384,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Cripta Sfântul Hermes", "Muzeul textil MUST", "Localizat în Ardenii Flamazi", "Procesiunea Foleterie"],
       en: ["Saint Hermes Crypt", "MUST Textile Museum", "Flemish Ardennes location", "Foleterie parade"],
     },
-    imageHint: "Ronse St. Hermes Crypt architecture",
-  },
+    imageHint: "Ronse St. Hermes Crypt architecture", image: "/poi-images/belgium-ronse-cities-v2.webp"},
   {
     id: "belgium-ninove-cities-v2",
     type: "city",
@@ -1460,8 +1403,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Fosta abație din Ninove", "Carnavalul din Ninove", "Oraș pe râul Dender", "Poarta orașului Koepoort"],
       en: ["Former Abbey of Ninove", "Ninove Carnival", "City on the Dender river", "Koepoort city gate"],
     },
-    imageHint: "Ninove abbey church facade",
-  },
+    imageHint: "Ninove abbey church facade", image: "/poi-images/belgium-ninove-cities-v2.webp"},
   {
     id: "belgium-izegem-cities-v2",
     type: "city",
@@ -1480,8 +1422,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Muzeul Eperon d'Or", "Tradiția fabricării pantofilor", "Castelul Blauwhuis", "Industrie de-a lungul canalului"],
       en: ["Eperon d'Or Museum", "Tradition of shoe making", "Blauwhuis Castle", "Industry along the canal"],
     },
-    imageHint: "Izegem Eperon d'Or museum building",
-  },
+    imageHint: "Izegem Eperon d'Or museum building", image: "/poi-images/belgium-izegem-cities-v2.webp"},
   {
     id: "belgium-knokke-v2-cities-v2",
     type: "town",
@@ -1500,8 +1441,7 @@ export const belgiumCitiesV2: POI[] = [
       ro: ["Stațiune de lux", "Lângă Parcul Natural Zwin", "Cazinou faimos", "Numeroase galerii de artă"],
       en: ["Luxury seaside resort", "Near Zwin Nature Park", "Famous casino", "Numerous art galleries"],
     },
-    imageHint: "Knokke luxury storefronts and beach",
-  },
+    imageHint: "Knokke luxury storefronts and beach", image: "/poi-images/belgium-knokke-v2-cities-v2.webp"},
   {
     id: "belgium-blankenberge-cities-v2",
     type: "town",

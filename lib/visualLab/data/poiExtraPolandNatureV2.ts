@@ -31,8 +31,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-morskie-oko-nature-v2.webp"},
   {
     id: "poland-rysy-peak-nature-v2",
     type: "peak",
@@ -63,8 +62,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-rysy-peak-nature-v2.webp"},
   {
     id: "poland-bialowieza-forest-nature-v2",
     type: "forest",
@@ -95,8 +93,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-bialowieza-forest-nature-v2.webp"},
   {
     id: "poland-slowinski-dunes-nature-v2",
     type: "park",
@@ -127,8 +124,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-slowinski-dunes-nature-v2.webp"},
   {
     id: "poland-dunajec-gorge-nature-v2",
     type: "valley",
@@ -159,8 +155,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-dunajec-gorge-nature-v2.webp"},
   {
     id: "poland-tarnica-peak-nature-v2",
     type: "peak",
@@ -191,8 +186,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-tarnica-peak-nature-v2.webp"},
   {
     id: "poland-sniardwy-lake-nature-v2",
     type: "lake",
@@ -223,8 +217,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-sniardwy-lake-nature-v2.webp"},
   {
     id: "poland-hel-peninsula-nature-v2",
     type: "landmark",
@@ -255,8 +248,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-hel-peninsula-nature-v2.webp"},
   {
     id: "poland-babia-gora-nature-v2",
     type: "peak",
@@ -287,8 +279,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-babia-gora-nature-v2.webp"},
   {
     id: "poland-szczeliniec-wielki-nature-v2",
     type: "peak",
@@ -319,8 +310,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-szczeliniec-wielki-nature-v2.webp"},
   {
     id: "poland-sniezka-peak-nature-v2",
     type: "peak",
@@ -351,8 +341,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-sniezka-peak-nature-v2.webp"},
   {
     id: "poland-biebrza-marshes-nature-v2",
     type: "wildlife",
@@ -383,8 +372,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-biebrza-marshes-nature-v2.webp"},
   {
     id: "poland-kampinos-forest-nature-v2",
     type: "forest",
@@ -415,8 +403,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-kampinos-forest-nature-v2.webp"},
   {
     id: "poland-wigry-lake-nature-v2",
     type: "lake",
@@ -447,8 +434,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-wigry-lake-nature-v2.webp"},
   {
     id: "poland-ojcow-valley-nature-v2",
     type: "valley",
@@ -479,8 +465,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-ojcow-valley-nature-v2.webp"},
   {
     id: "poland-trzy-korony-nature-v2",
     type: "peak",
@@ -511,8 +496,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-trzy-korony-nature-v2.webp"},
   {
     id: "poland-narew-river-nature-v2",
     type: "river",
@@ -543,8 +527,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-narew-river-nature-v2.webp"},
   {
     id: "poland-siklawa-waterfall-nature-v2",
     type: "landmark",
@@ -575,8 +558,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-siklawa-waterfall-nature-v2.webp"},
   {
     id: "poland-bear-cave-nature-v2",
     type: "landmark",
@@ -607,8 +589,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-bear-cave-nature-v2.webp"},
   {
     id: "poland-vistula-spit-nature-v2",
     type: "landmark",
@@ -639,8 +620,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-vistula-spit-nature-v2.webp"},
   {
     id: "poland-krutynia-river-nature-v2",
     type: "river",
@@ -671,8 +651,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-krutynia-river-nature-v2.webp"},
   {
     id: "poland-turbacz-peak-nature-v2",
     type: "peak",
@@ -703,8 +682,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-turbacz-peak-nature-v2.webp"},
   {
     id: "poland-mount-sleza-nature-v2",
     type: "peak",
@@ -735,8 +713,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-mount-sleza-nature-v2.webp"},
   {
     id: "poland-solina-lake-nature-v2",
     type: "lake",
@@ -767,8 +744,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-solina-lake-nature-v2.webp"},
   {
     id: "poland-dunajec-river-nature-v2",
     type: "river",
@@ -799,8 +775,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-dunajec-river-nature-v2.webp"},
   {
     id: "poland-five-lakes-valley-nature-v2",
     type: "valley",
@@ -831,8 +806,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-five-lakes-valley-nature-v2.webp"},
   {
     id: "poland-wolin-cliffs-nature-v2",
     type: "landmark",
@@ -863,8 +837,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-wolin-cliffs-nature-v2.webp"},
   {
     id: "poland-roztocze-forest-nature-v2",
     type: "forest",
@@ -895,8 +868,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-roztocze-forest-nature-v2.webp"},
   {
     id: "poland-czarna-hancza-river-nature-v2",
     type: "river",
@@ -927,8 +899,7 @@ export const polandNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-czarna-hancza-river-nature-v2.webp"},
   {
     id: "poland-drawsko-lake-nature-v2",
     type: "lake",

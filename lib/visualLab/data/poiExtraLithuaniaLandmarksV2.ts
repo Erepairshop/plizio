@@ -19,8 +19,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Construit în jurul anului 1409 sub Vytautas", "Înălțime de 48 de metri deasupra nivelului mării", "Parte a patrimoniului mondial UNESCO", "Locul arborării primului steag național în 1919"],
       en: ["Built around 1409 under Vytautas", "Height of 48 meters above sea level", "Part of the UNESCO World Heritage site", "Site of the first national flag raising in 1919"],
     },
-    imageHint: "Gediminas Tower on the hill in Vilnius at sunset",
-  },
+    imageHint: "Gediminas Tower on the hill in Vilnius at sunset", image: "/poi-images/lithuania-gediminas-tower-landmarks-v2.webp"},
   {
     id: "lithuania-vilnius-cathedral-landmarks-v2",
     type: "cathedral",
@@ -39,8 +38,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Forma actuală de Laurynas Gucevičius", "Loc de înhumare pentru marii duci", "Turnul clopotniță are 57 de metri", "Fost sit al unui templu păgân"],
       en: ["Current design by Laurynas Gucevičius", "Burial place of Lithuanian Grand Dukes", "Bell tower stands 57 meters tall", "Former site of a pagan temple"],
     },
-    imageHint: "Vilnius Cathedral and its bell tower on Cathedral Square",
-  },
+    imageHint: "Vilnius Cathedral and its bell tower on Cathedral Square", image: "/poi-images/lithuania-vilnius-cathedral-landmarks-v2.webp"},
   {
     id: "lithuania-st-annes-church-landmarks-v2",
     type: "church",
@@ -59,8 +57,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Finalizată în jurul anului 1500", "Exemplu de stil gotic flamboyant", "Fațada a rămas neschimbată de 500 ani", "Parte a complexului mănăstirii Bernardine"],
       en: ["Completed around the year 1500", "Example of Flamboyant Gothic style", "Facade unchanged for 500 years", "Part of the Bernardine monastery complex"],
     },
-    imageHint: "St. Anne's Church Vilnius red brick facade",
-  },
+    imageHint: "St. Anne's Church Vilnius red brick facade", image: "/poi-images/lithuania-st-annes-church-landmarks-v2.webp"},
   {
     id: "lithuania-gates-of-dawn-landmarks-v2",
     type: "landmark",
@@ -79,8 +76,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Construită între 1503 și 1522", "Parte a fostelor fortificații ale orașului", "Icoană pictată în stil renascentist", "Vizitată de Papa Ioan Paul al II-lea în 1993"],
       en: ["Built between 1503 and 1522", "Part of the former city defensive wall", "Icon painted in Renaissance style", "Visited by Pope John Paul II in 1993"],
     },
-    imageHint: "Gates of Dawn Vilnius exterior with chapel window",
-  },
+    imageHint: "Gates of Dawn Vilnius exterior with chapel window", image: "/poi-images/lithuania-gates-of-dawn-landmarks-v2.webp"},
   {
     id: "lithuania-kaunas-castle-landmarks-v2",
     type: "castle",
@@ -99,8 +95,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Menționat pentru prima dată în 1361", "Apărare importantă împotriva cavalerilor teutoni", "Stil arhitectural gotic", "Găzduiește o secție a muzeului orașului"],
       en: ["First mentioned in 1361", "Crucial defense against Teutonic Knights", "Gothic architectural style", "Houses a branch of the Kaunas City Museum"],
     },
-    imageHint: "Kaunas Castle round tower and ruins",
-  },
+    imageHint: "Kaunas Castle round tower and ruins", image: "/poi-images/lithuania-kaunas-castle-landmarks-v2.webp"},
   {
     id: "lithuania-hill-of-witches-landmarks-v2",
     type: "landmark",
@@ -139,8 +134,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Fondat în 1991 de Gintaras Karosas", "Peste 100 de opere de artă din toată lumea", "Găzduiește cel mai mare labirint de televizoare", "Situat lângă capitala Vilnius"],
       en: ["Founded in 1991 by Gintaras Karosas", "Over 100 artworks from around the world", "Home to the world's largest TV labyrinth", "Located near the capital, Vilnius"],
     },
-    imageHint: "Europos Parkas outdoor sculptures in Lithuania",
-  },
+    imageHint: "Europos Parkas outdoor sculptures in Lithuania", image: "/poi-images/lithuania-europos-parkas-landmarks-v2.webp"},
   {
     id: "lithuania-grutas-park-landmarks-v2",
     type: "museum",
@@ -159,8 +153,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Găzduiește 86 de sculpturi monumentale", "Fondat de Viliumas Malinauskas", "Include turnuri de pază și sârmă ghimpată", "Expune ideologia erei sovietice"],
       en: ["Home to 86 monumental sculptures", "Founded by Viliumas Malinauskas", "Features guard towers and barbed wire", "Showcases Soviet-era ideology"],
     },
-    imageHint: "Grutas Park Soviet statues and monuments",
-  },
+    imageHint: "Grutas Park Soviet statues and monuments", image: "/poi-images/lithuania-grutas-park-landmarks-v2.webp"},
   {
     id: "lithuania-open-air-museum-landmarks-v2",
     type: "museum",
@@ -179,8 +172,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1966", "Se întinde pe 195 de hectare", "Include aproximativ 150 de clădiri", "Gazdă a festivalurilor populare regulate"],
       en: ["Founded in 1966", "Spans over 195 hectares", "Contains about 150 buildings", "Host to regular folk culture festivals"],
     },
-    imageHint: "Rumsiskes Open Air Museum traditional wooden houses",
-  },
+    imageHint: "Rumsiskes Open Air Museum traditional wooden houses", image: "/poi-images/lithuania-open-air-museum-landmarks-v2.webp"},
   {
     id: "lithuania-vilnius-tv-tower-landmarks-v2",
     type: "tower",
@@ -199,8 +191,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Înălțime totală de 326,5 metri", "Construit între 1974 și 1980", "Platforma se rotește în 45 de minute", "Monument pentru victimele din ianuarie 1991"],
       en: ["Total height of 326.5 meters", "Built between 1974 and 1980", "Platform rotates in 45 minutes", "Memorial to the victims of January 1991"],
     },
-    imageHint: "Vilnius TV Tower skyscraper view",
-  },
+    imageHint: "Vilnius TV Tower skyscraper view", image: "/poi-images/lithuania-vilnius-tv-tower-landmarks-v2.webp"},
   {
     id: "lithuania-st-peter-paul-church-landmarks-v2",
     type: "church",
@@ -219,8 +210,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Construită la sfârșitul secolului XVII", "Stucaturi realizate de maeștri italieni", "Candelabru în formă de corabie", "Fără picturi murale colorate în interior"],
       en: ["Built in the late 17th century", "Stucco work by Italian masters", "Features a boat-shaped chandelier", "No colored wall paintings inside"],
     },
-    imageHint: "St. Peter and St. Paul's Church Vilnius interior stucco",
-  },
+    imageHint: "St. Peter and St. Paul's Church Vilnius interior stucco", image: "/poi-images/lithuania-st-peter-paul-church-landmarks-v2.webp"},
   {
     id: "lithuania-kaunas-town-hall-landmarks-v2",
     type: "landmark",
@@ -239,8 +229,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Înălțimea turnului este de 53 de metri", "Construcție începută în secolul al XVI-lea", "Folosită azi pentru nunți și ceremonii", "Găzduiește un muzeu al ceramicii"],
       en: ["Tower height is 53 meters", "Construction started in the 16th century", "Now used for weddings and ceremonies", "Houses a ceramics museum"],
     },
-    imageHint: "Kaunas Town Hall 'White Swan' building",
-  },
+    imageHint: "Kaunas Town Hall 'White Swan' building", image: "/poi-images/lithuania-kaunas-town-hall-landmarks-v2.webp"},
   {
     id: "lithuania-kaunas-cathedral-landmarks-v2",
     type: "cathedral",
@@ -259,8 +248,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Construcție începută în jurul anului 1413", "Statut de bazilică din 1921", "Locul de odihnă al poetului Maironis", "84 metri lungime și 34 metri lățime"],
       en: ["Construction started around 1413", "Granted basilica status in 1921", "Burial place of the poet Maironis", "84 meters long and 34 meters wide"],
     },
-    imageHint: "Kaunas Cathedral Basilica brick exterior",
-  },
+    imageHint: "Kaunas Cathedral Basilica brick exterior", image: "/poi-images/lithuania-kaunas-cathedral-landmarks-v2.webp"},
   {
     id: "lithuania-christ-resurrection-church-landmarks-v2",
     type: "church",
@@ -279,8 +267,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Cea mai mare bazilică din Țările Baltice", "Construcție începută în 1932", "Folosită ca fabrică de radio în epoca URSS", "Terasa de pe acoperiș oferă panoramă"],
       en: ["Largest basilica in the Baltic States", "Construction started in 1932", "Used as a radio factory during USSR", "Roof terrace offers a city panorama"],
     },
-    imageHint: "Christ's Resurrection Church Kaunas white modern architecture",
-  },
+    imageHint: "Christ's Resurrection Church Kaunas white modern architecture", image: "/poi-images/lithuania-christ-resurrection-church-landmarks-v2.webp"},
   {
     id: "lithuania-museum-ethnocosmology-landmarks-v2",
     type: "museum",
@@ -299,8 +286,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Deschis în anul 1990", "Design futurist (renovat în 2008)", "Dispune de două telescoape", "Situat lângă satul Kulionys"],
       en: ["Opened in 1990", "Futuristic design (renovated 2008)", "Equipped with two telescopes", "Located near the village of Kulionys"],
     },
-    imageHint: "Lithuanian Museum of Ethnocosmology futuristic building",
-  },
+    imageHint: "Lithuanian Museum of Ethnocosmology futuristic building", image: "/poi-images/lithuania-museum-ethnocosmology-landmarks-v2.webp"},
   {
     id: "lithuania-treetop-walking-path-landmarks-v2",
     type: "landmark",
@@ -319,8 +305,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Lungimea traseului este de 300 metri", "Turnul are 34 de metri înălțime", "Primul de acest fel din Țările Baltice", "Vedere asupra râului Šventoji"],
       en: ["Path length is 300 meters", "Observation tower is 34 meters high", "First of its kind in the Baltics", "View of the Šventoji River"],
     },
-    imageHint: "Anyksciai treetop walking path forest view",
-  },
+    imageHint: "Anyksciai treetop walking path forest view", image: "/poi-images/lithuania-treetop-walking-path-landmarks-v2.webp"},
   {
     id: "lithuania-uzupis-angel-landmarks-v2",
     type: "monument",
@@ -339,8 +324,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Dezvelit în anul 2002", "Sculptor: Romas Vilčiauskas", "Situat pe o coloană înaltă", "Simbol al constituției Užupis"],
       en: ["Unveiled in 2002", "Sculptor: Romas Vilčiauskas", "Stands on a high column", "Centerpiece of the Užupis Republic"],
     },
-    imageHint: "Uzupis Angel statue on column in Vilnius",
-  },
+    imageHint: "Uzupis Angel statue on column in Vilnius", image: "/poi-images/lithuania-uzupis-angel-landmarks-v2.webp"},
   {
     id: "lithuania-vilnius-bastion-landmarks-v2",
     type: "museum",
@@ -359,8 +343,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Construit la începutul secolului XVII", "Include tuneluri subterane", "Reconstruit în anul 1987", "Servește ca punct de belvedere"],
       en: ["Built in the early 17th century", "Includes underground tunnels", "Reconstructed in 1987", "Serves as an observation point"],
     },
-    imageHint: "Bastion of the Vilnius Defensive Wall brick structure",
-  }
+    imageHint: "Bastion of the Vilnius Defensive Wall brick structure", image: "/poi-images/lithuania-vilnius-bastion-landmarks-v2.webp"}
 ,
   {
     id: "lithuania-vilnius-town-hall-landmarks-v2",
@@ -398,8 +381,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Proiectat de sculptorul Antanas Vivulskis", "Înălțimea monumentului este de 12 metri", "Simbol al identității naționale și rezistenței", "Oferă o vedere panoramică asupra centrului vechi"],
       en: ["Designed by sculptor Antanas Vivulskis", "The monument stands 12 meters high", "Symbol of national identity and resistance", "Provides a panoramic view of the Old Town"],
     },
-    imageHint: "Three Crosses monument Vilnius on a hill at sunset",
-  },
+    imageHint: "Three Crosses monument Vilnius on a hill at sunset", image: "/poi-images/lithuania-three-crosses-landmarks-v2.webp"},
   {
     id: "lithuania-bernardine-church-landmarks-v2",
     type: "church",
@@ -417,8 +399,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Parte a unui fost complex defensiv", "Deține 14 altare elaborate", "Picturi murale din secolul al XVI-lea", "Dedicată Sfinților Francisc și Bernard"],
       en: ["Part of a former defensive complex", "Contains 14 elaborate altars", "Features 16th-century wall paintings", "Dedicated to Saints Francis and Bernard"],
     },
-    imageHint: "Bernardine Church Vilnius red brick gothic exterior",
-  },
+    imageHint: "Bernardine Church Vilnius red brick gothic exterior", image: "/poi-images/lithuania-bernardine-church-landmarks-v2.webp"},
   {
     id: "lithuania-mo-museum-landmarks-v2",
     type: "museum",
@@ -436,8 +417,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Deschis în octombrie 2018", "Arhitectură de Daniel Libeskind", "Bazat pe o colecție privată de artă", "Suprafață de aproximativ 3.100 metri pătrați"],
       en: ["Opened in October 2018", "Architecture by Daniel Libeskind", "Based on a private art collection", "Total area of 3,100 square meters"],
     },
-    imageHint: "MO Museum Vilnius modern architecture by Libeskind",
-  },
+    imageHint: "MO Museum Vilnius modern architecture by Libeskind", image: "/poi-images/lithuania-mo-museum-landmarks-v2.webp"},
   {
     id: "lithuania-national-museum-landmarks-v2",
     type: "museum",
@@ -455,8 +435,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1855", "Situat în Noul Arsenal al Castelului Vilnius", "Peste 1 milion de piese în colecție", "Accent pe etnografia lituaniană"],
       en: ["Established in 1855", "Located in the New Arsenal of Vilnius Castle", "Collection of over 1 million items", "Focuses on Lithuanian ethnography"],
     },
-    imageHint: "National Museum of Lithuania New Arsenal building Vilnius",
-  },
+    imageHint: "National Museum of Lithuania New Arsenal building Vilnius", image: "/poi-images/lithuania-national-museum-landmarks-v2.webp"},
   {
     id: "lithuania-ciurlionis-museum-landmarks-v2",
     type: "museum",
@@ -474,8 +453,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Cel mai vechi muzeu de artă din Lituania", "Găzduiește moștenirea lui M. K. Čiurlionis", "Stil mixt de neoclasicism și art deco", "Situat în centrul orașului Kaunas"],
       en: ["Oldest art museum in Lithuania", "Houses the heritage of M. K. Čiurlionis", "Mix of Neoclassical and Art Deco styles", "Located in the city center of Kaunas"],
     },
-    imageHint: "Ciurlionis Art Museum Kaunas exterior building",
-  },
+    imageHint: "Ciurlionis Art Museum Kaunas exterior building", image: "/poi-images/lithuania-ciurlionis-museum-landmarks-v2.webp"},
   {
     id: "lithuania-raudondvaris-castle-landmarks-v2",
     type: "castle",
@@ -493,8 +471,7 @@ export const lithuaniaLandmarksV2: POI[] = [
       ro: ["Construit în secolul al XVII-lea", "Fostă proprietate a familiei Tiškevičius", "Găzduiește în prezent un centru cultural", "Loc popular pentru nunți și concerte"],
       en: ["Built in the 17th century", "Former estate of the Tiškevičius family", "Currently houses a cultural center", "Popular venue for weddings and concerts"],
     },
-    imageHint: "Raudondvaris Castle manor and red brick tower",
-  },
+    imageHint: "Raudondvaris Castle manor and red brick tower", image: "/poi-images/lithuania-raudondvaris-castle-landmarks-v2.webp"},
   {
     id: "lithuania-amber-museum-palanga-landmarks-v2",
     type: "museum",

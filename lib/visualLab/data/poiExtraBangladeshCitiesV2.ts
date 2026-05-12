@@ -1139,8 +1139,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
       hu: ["Jhenaidah több mint 20 történelmi mecsetnek ad otthont a 15. és 16. századból.", "A város híres a kiváló minőségű jutafonál gyártásáról.", "A Nabaganga-folyó folyik keresztül a város szívén.", "Jhenaidah úttörő a közösségi hulladékgazdálkodás és higiénia területén.", "A régió a 'Sagor' típusú banán egyik vezető termelője.", "Történelmileg Jhenaidah az indigótermesztés fontos központja volt a britek alatt.", "A városban működik egy neves katonai iskola (Cadet College)."],
       ro: ["Situat în sud-vestul țării, acest oraș liniștit este bogat în moschei istorice și terenuri agricole.", "Este situat în statul sud-asiatic Bangladesh.", "Regiunea este definită de Delta Gange-Brahmaputra și Golful Bengal.", "Climatul este de tip muson tropical, cu sezon ploios și sezon secetos pronunțate.", "Accesibil prin rețeaua rutieră și prin sistemul fluvial extins al deltei.", "Legat de moștenirea culturii bengaleze și a Bengalului istoric.", "Sundarbans, cea mai mare pădure de mangrove din lume, domină sudul țării.", "Economia este puternic marcată de industria textilă, a iutei și a transportului naval."],
       en: ["Jhenaidah is home to several 15th-century mosques from the Sultanate era.", "The city is a major hub for banana and mango production in the southwest.", "Jhenaidah Cadet College is one of the most prestigious educational institutions in the country.", "The Nabaganga River flows through the city, providing essential irrigation.", "The district is known for its traditional 'Baul' music and folk festivals.", "Historically, Jhenaidah was a center for indigo cultivation during the British period.", "The KPIL (Kaliganj-Pabna-Ishwardi-Lalonshah) highway passes through this district."]
-    }
-  }
+    }, image: "/poi-images/jhenaidah-cities-v2.webp"}
 ];
 
 

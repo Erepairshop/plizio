@@ -270,8 +270,7 @@ export const montenegroCitiesExtra = ([
       hu: ["Az Ulcinji Nagystrand (Velika Plaža) mintegy 13 kilométer hosszú.", "A város a 17. században egy hírhedt kalózközpont volt.", "Ulcinj az egyik legrégebbi település az adriai parton."],
       ro: ["Marea Plajă (Velika Plaža) are o lungime de aproximativ 13 kilometri.", "Orașul a fost un faimos centru al piraților în secolul al XVII-lea.", "Ulcinj este una dintre cele mai vechi așezări de pe coasta Adriatică."],
       en: ["The Great Beach (Velika Plaža) is about 13 kilometers long.", "The city was a notorious pirate stronghold in the 17th century.", "Ulcinj is one of the oldest settlements on the Adriatic coast."]
-    }
-  }
+    }, image: "/poi-images/me-ulcinj.webp"}
 ] as unknown as POI[]);
 export const montenegroHistoryExtra = ([
   ] as unknown as POI[]);

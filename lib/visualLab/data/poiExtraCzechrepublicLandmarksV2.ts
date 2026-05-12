@@ -19,8 +19,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Piatra de temelie pusă la 9 iulie 1357, ora 5:31", "Lungime de 516 metri și lățime de 10 metri", "Numit inițial 'Podul de Piatră'", "Decorat cu 30 de statui, majoritatea baroce"],
       en: ["Foundation stone laid on 9 July 1357 at 5:31 AM", "Length of 516 meters and width of 10 meters", "Originally called the Stone Bridge", "Decorated with 30 mostly Baroque statues"],
     },
-    imageHint: "Charles Bridge Prague with statues at dawn",
-  },
+    imageHint: "Charles Bridge Prague with statues at dawn", image: "/poi-images/czechrepublic-charles-bridge-landmarks-v2.webp"},
   {
     id: "czechrepublic-astronomical-clock-landmarks-v2",
     type: "monument",
@@ -39,8 +38,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Indică poziția Soarelui, a Lunii și zodiacul", "Defilarea orară a figurilor celor doisprezece apostoli", "Cea mai veche parte datează de la meșterul Mikuláš", "Cadranul ceasului este un astrolab"],
       en: ["Shows positions of Sun and Moon and zodiac signs", "Hourly procession of the twelve Apostle figures", "Oldest parts date back to clockmaker Mikuláš", "The dial is an astronomical astrolabe"],
     },
-    imageHint: "Prague Astronomical Clock Orloj close up",
-  },
+    imageHint: "Prague Astronomical Clock Orloj close up", image: "/poi-images/czechrepublic-astronomical-clock-landmarks-v2.webp"},
   {
     id: "czechrepublic-st-vitus-cathedral-landmarks-v2",
     type: "cathedral",
@@ -59,8 +57,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Construită între 1344 și finalizată în 1929", "Înălțimea turnului principal este de 96,5 metri", "Găzduiește capela Sfântului Wenceslas", "Locul de încoronare al regilor boemi"],
       en: ["Construction period from 1344 to completion in 1929", "Height of the main tower is 96.5 meters", "Houses the St. Wenceslas Chapel", "Site of coronations of Bohemian kings"],
     },
-    imageHint: "St Vitus Cathedral Prague Gothic facade",
-  },
+    imageHint: "St Vitus Cathedral Prague Gothic facade", image: "/poi-images/czechrepublic-st-vitus-cathedral-landmarks-v2.webp"},
   {
     id: "czechrepublic-konopiste-castle-landmarks-v2",
     type: "castle",
@@ -79,8 +76,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Găzduiește o colecție uriașă de arme", "Deține una dintre cele mai mari colecții de trofee", "Parc englezesc extins și grădină de trandafiri", "Fondat inițial în secolul al XIII-lea"],
       en: ["Houses a massive collection of weapons", "Features one of the largest trophy collections", "Extensive English park and rose garden", "Originally founded in the 13th century"],
     },
-    imageHint: "Konopiste Castle with circular tower",
-  },
+    imageHint: "Konopiste Castle with circular tower", image: "/poi-images/czechrepublic-konopiste-castle-landmarks-v2.webp"},
   {
     id: "czechrepublic-cesky-krumlov-castle-landmarks-v2",
     type: "castle",
@@ -99,8 +95,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Conține un teatru baroc conservat", "Podul Mantel leagă părți ale castelului", "Șanț cu urși la intrare din secolul al XVI-lea", "Ansamblu format din 40 de clădiri și palate"],
       en: ["Contains a preserved Baroque theater", "Unique Cloak Bridge connects building parts", "Bear moat at the entrance since the 16th century", "Ensemble of 40 buildings and palaces"],
     },
-    imageHint: "Cesky Krumlov Castle with round tower and river",
-  },
+    imageHint: "Cesky Krumlov Castle with round tower and river", image: "/poi-images/czechrepublic-cesky-krumlov-castle-landmarks-v2.webp"},
   {
     id: "czechrepublic-lednice-chateau-landmarks-v2",
     type: "palace",
@@ -119,8 +114,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Face parte din patrimoniul mondial UNESCO", "Deține o seră de palmieri din fontă", "Minaret în parc utilizat ca turn de observație", "Una dintre cele mai mari zone de parcuri din Europa"],
       en: ["Part of the UNESCO World Heritage list", "Features a massive cast-iron palm house", "Includes a 60-meter minaret in the park", "One of Europe's largest artificial park areas"],
     },
-    imageHint: "Lednice Chateau Neo-Gothic facade South Moravia",
-  },
+    imageHint: "Lednice Chateau Neo-Gothic facade South Moravia", image: "/poi-images/czechrepublic-lednice-chateau-landmarks-v2.webp"},
   {
     id: "czechrepublic-valtice-chateau-landmarks-v2",
     type: "palace",
@@ -139,8 +133,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Sediul Salonului Național de Vinuri al Cehiei", "Cramă extinsă sub castel", "Teatru baroc în incinta castelului", "Reședința principală a Liechtensteinerilor până în 1945"],
       en: ["Seat of the National Wine Salon of Czechia", "Extensive wine cellars beneath the chateau", "Baroque theater within the castle grounds", "Main residence of the Liechtensteins until 1945"],
     },
-    imageHint: "Valtice Chateau Baroque courtyard",
-  },
+    imageHint: "Valtice Chateau Baroque courtyard", image: "/poi-images/czechrepublic-valtice-chateau-landmarks-v2.webp"},
   {
     id: "czechrepublic-st-barbara-cathedral-landmarks-v2",
     type: "cathedral",
@@ -159,8 +152,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Construcția a început în 1388 de Johann Parler", "Are trei acoperișuri distincte în formă de cort", "Frescele înfățișează scene din viața minerilor", "Construcția a durat cu intermitențe 500 de ani"],
       en: ["Construction started in 1388 by Johann Parler", "Features three distinctive tent-like roofs", "Frescoes depict scenes from miners' lives", "Construction took 500 years with interruptions"],
     },
-    imageHint: "St Barbara Cathedral Kutna Hora exterior",
-  },
+    imageHint: "St Barbara Cathedral Kutna Hora exterior", image: "/poi-images/czechrepublic-st-barbara-cathedral-landmarks-v2.webp"},
   {
     id: "czechrepublic-bouzov-castle-landmarks-v2",
     type: "castle",
@@ -179,8 +171,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Locație populară pentru filmarea basmelor", "Dispune de două poduri mobile funcționale", "Are un turn de pază înalt de 58 de metri", "Interioare istorice complet mobilate"],
       en: ["Popular filming location for fairy-tale movies", "Features two functional drawbridges", "Has a 58-meter tall watchtower", "Fully furnished historical interiors"],
     },
-    imageHint: "Bouzov Castle aerial romantic towers",
-  },
+    imageHint: "Bouzov Castle aerial romantic towers", image: "/poi-images/czechrepublic-bouzov-castle-landmarks-v2.webp"},
   {
     id: "czechrepublic-kromeriz-palace-landmarks-v2",
     type: "palace",
@@ -199,8 +190,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1998", "Găzduiește pictura lui Titian 'Jupuirea lui Marsyas'", "Locul primului parlament austriac în 1848", "Grădină barocă faimoasă cu design geometric"],
       en: ["UNESCO World Heritage site since 1998", "Houses Titian's 'The Flaying of Marsyas'", "Site of the first Austrian Parliament in 1848", "Famous geometrically designed Flower Garden"],
     },
-    imageHint: "Kromeriz Archbishop Palace and Flower Garden",
-  },
+    imageHint: "Kromeriz Archbishop Palace and Flower Garden", image: "/poi-images/czechrepublic-kromeriz-palace-landmarks-v2.webp"},
   {
     id: "czechrepublic-villa-tugendhat-landmarks-v2",
     type: "landmark",
@@ -219,8 +209,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Prima vilă modernă cu structură de oțel", "Utilizarea materialelor exclusive precum onixul", "Ferestre imense din sticlă retractabile spre grădină", "Locul semnării separării Cehoslovaciei"],
       en: ["First modern villa with a steel frame", "Use of exclusive materials like onyx", "Large retractable glass walls facing the garden", "Site where the split of Czechoslovakia was signed"],
     },
-    imageHint: "Villa Tugendhat Brno modern architecture facade",
-  },
+    imageHint: "Villa Tugendhat Brno modern architecture facade", image: "/poi-images/czechrepublic-villa-tugendhat-landmarks-v2.webp"},
   {
     id: "czechrepublic-spilberk-castle-landmarks-v2",
     type: "castle",
@@ -239,8 +228,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Cunoscut sub numele de 'Închisoarea Națiunilor'", "Găzduiește astăzi Muzeul Orașului Brno", "Dispune de cazemate adânci deschise vizitatorilor", "Fondat la mijlocul secolului al XIII-lea"],
       en: ["Known as the 'Prison of Nations'", "Currently houses the Brno City Museum", "Features deep casemates open for tours", "Founded in the mid-13th century"],
     },
-    imageHint: "Spilberk Castle Brno fortress aerial",
-  },
+    imageHint: "Spilberk Castle Brno fortress aerial", image: "/poi-images/czechrepublic-spilberk-castle-landmarks-v2.webp"},
   {
     id: "czechrepublic-jested-tower-landmarks-v2",
     type: "tower",
@@ -259,8 +247,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Combină hotelul, restaurantul și turnul TV", "Proiectat de arhitectul Karel Hubáček", "Câștigător al prestigiosului Premiu Perret", "Înălțimea clădirii este de 94 de metri"],
       en: ["Combines a hotel, restaurant, and TV tower", "Designed by architect Karel Hubáček", "Winner of the prestigious Perret Prize", "The building's height is 94 meters"],
     },
-    imageHint: "Jested Tower Liberec sci-fi architecture",
-  },
+    imageHint: "Jested Tower Liberec sci-fi architecture", image: "/poi-images/czechrepublic-jested-tower-landmarks-v2.webp"},
   {
     id: "czechrepublic-holy-trinity-column-landmarks-v2",
     type: "monument",
@@ -299,8 +286,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Deține un pavilion rotund (Rondel) faimos", "Are 320 de camere bogat decorate", "Legenda 'Doamnei Albe' este legată de acest loc", "Construit pe o suprafață de 3 hectare"],
       en: ["Features a famous garden music pavilion (Rondel)", "Includes 320 richly decorated rooms", "Legend of the 'White Lady' is tied to this castle", "Built on an area of 3 hectares"],
     },
-    imageHint: "Jindrichuv Hradec Castle aerial view",
-  },
+    imageHint: "Jindrichuv Hradec Castle aerial view", image: "/poi-images/czechrepublic-jindrichuv-hradec-castle-landmarks-v2.webp"},
   {
     id: "czechrepublic-st-bartholomew-cathedral-landmarks-v2",
     type: "cathedral",
@@ -319,8 +305,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Înălțimea turnului este de 102,26 metri", "Adăpostește valoroasa sculptură 'Madona din Plzeň'", "Turnul oferă vedere până la Munții Šumava", "Construcția bisericii a început în jurul anului 1295"],
       en: ["The church tower height is 102.26 meters", "Houses the valuable 'Pilsen Madonna' statue", "The tower offers views as far as the Bohemian Forest", "Construction of the church began around 1295"],
     },
-    imageHint: "St Bartholomew Cathedral Plzen square",
-  },
+    imageHint: "St Bartholomew Cathedral Plzen square", image: "/poi-images/czechrepublic-st-bartholomew-cathedral-landmarks-v2.webp"},
   {
     id: "czechrepublic-telc-historic-centre-landmarks-v2",
     type: "landmark",
@@ -339,8 +324,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Casele au frontoane și arcade uniforme", "Deține un castel renascentist magnific", "Ansamblu reconstruit uniform după incendiul din 1530", "Deseori decor pentru producții cinematografice istorice"],
       en: ["Houses feature uniform gables and arcades", "Includes a magnificent Renaissance chateau", "Rebuilt uniformly after a fire in 1530", "Frequently used as a set for historical films"],
     },
-    imageHint: "Telc main square Renaissance houses",
-  }
+    imageHint: "Telc main square Renaissance houses", image: "/poi-images/czechrepublic-telc-historic-centre-landmarks-v2.webp"}
 ,
   {
     id: "czechrepublic-vranov-nad-dyji-chateau-landmarks-v2",
@@ -378,8 +362,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Fondat în secolul al XIV-lea", "Numele înseamnă os în limba cehă", "Situat la confluența a trei văi", "Turnul are o bază trapezoidală"],
       en: ["Founded in the 14th century", "The name means Bone in Czech", "Located at the junction of three valleys", "The tower has a trapezoidal floor plan"],
     },
-    imageHint: "Kost castle in Bohemian Paradise valley",
-  },
+    imageHint: "Kost castle in Bohemian Paradise valley", image: "/poi-images/czechrepublic-kost-castle-landmarks-v2.webp"},
   {
     id: "czechrepublic-national-theatre-prague-landmarks-v2",
     type: "theater",
@@ -397,8 +380,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Piatra de temelie a fost pusă în 1868", "Clădire în stil neo-renascentist", "Deschis cu opera Libuše de Smetana", "Motto-ul Națiunea pentru sine este scris"],
       en: ["Foundation stone laid in 1868", "Neo-Renaissance style building", "Opened with Smetana's opera Libuše", "Motto Nation for Itself is on the portal"],
     },
-    imageHint: "National Theatre Prague exterior facade",
-  },
+    imageHint: "National Theatre Prague exterior facade", image: "/poi-images/czechrepublic-national-theatre-prague-landmarks-v2.webp"},
   {
     id: "czechrepublic-troja-palace-landmarks-v2",
     type: "palace",
@@ -416,8 +398,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Construit între 1679 și 1691", "Proiectat de Jean Baptiste Mathey", "Găzduiește artă cehă din secolul al XIX-lea", "Grădina este în stil francez"],
       en: ["Built between 1679 and 1691", "Designed by Jean Baptiste Mathey", "Houses 19th-century Czech art", "The garden is in French style"],
     },
-    imageHint: "Troja palace prague garden facade",
-  },
+    imageHint: "Troja palace prague garden facade", image: "/poi-images/czechrepublic-troja-palace-landmarks-v2.webp"},
   {
     id: "czechrepublic-zelena-hora-church-landmarks-v2",
     type: "church",
@@ -435,8 +416,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Operă a lui Jan Blažej Santini-Aichel", "Sit UNESCO din anul 1994", "Cifra 5 domină simbolistica", "Stil arhitectural baroc-gotic"],
       en: ["Work of Jan Blažej Santini-Aichel", "UNESCO World Heritage since 1994", "The number 5 dominates the symbolism", "Baroque-Gothic architectural style"],
     },
-    imageHint: "Zelena hora church aerial star shape",
-  },
+    imageHint: "Zelena hora church aerial star shape", image: "/poi-images/czechrepublic-zelena-hora-church-landmarks-v2.webp"},
   {
     id: "czechrepublic-sychrov-castle-landmarks-v2",
     type: "castle",
@@ -454,8 +434,7 @@ export const czechrepublicLandmarksV2: POI[] = [
       ro: ["Reconstrucție neo-gotică în sec. XIX", "Găzduiește galeria de portrete Rohan", "Parc englezesc vast de peisaj", "Antonín Dvořák a fost un oaspete frecvent"],
       en: ["Neo-Gothic reconstruction in 19th c.", "Houses largest Rohan portrait gallery", "Large English landscape park", "Antonín Dvořák was a frequent guest"],
     },
-    imageHint: "Sychrov castle neo-gothic exterior",
-  },
+    imageHint: "Sychrov castle neo-gothic exterior", image: "/poi-images/czechrepublic-sychrov-castle-landmarks-v2.webp"},
   {
     id: "czechrepublic-buchlov-castle-landmarks-v2",
     type: "castle",

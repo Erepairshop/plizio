@@ -135,6 +135,5 @@ export const montenegroOtherExtra = ([
       hu: ["Az őserdő néhány fája több mint 400 éves.", "A Biogradsko-tó a park legnagyobb gleccsertava.", "Nikola király 1878-ban védetté nyilvánította, így a világ egyik legrégebbi védett területe."],
       ro: ["Unii copaci din pădurea primordială au peste 400 de ani.", "Lacul Biogradsko este cel mai mare dintre lacurile glaciare ale parcului.", "A fost protejat de regele Nikola în 1878, devenind una dintre cele mai vechi arii protejate din lume."],
       en: ["Some trees in the primeval forest are over 400 years old.", "Biogradsko Lake is the largest of the park's glacial lakes.", "It was protected by King Nikola in 1878, making it one of the oldest protected areas in the world."]
-    }
-  }
+    }, image: "/poi-images/me-biogradska-gora.webp"}
 ] as unknown as POI[]);

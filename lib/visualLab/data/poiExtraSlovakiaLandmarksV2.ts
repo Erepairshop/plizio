@@ -19,8 +19,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Sediul Muzeului Național Slovac", "Distrus de un incendiu în 1811", "Patru turnuri de colț distinctive", "Înălțime de 85 de metri deasupra Dunării"],
       en: ["Home to the Slovak National Museum", "Destroyed by fire in 1811", "Features four distinctive corner towers", "Stands 85 meters above the Danube river"],
     },
-    imageHint: "Bratislava Castle and Danube river at sunset",
-  },
+    imageHint: "Bratislava Castle and Danube river at sunset", image: "/poi-images/slovakia-bratislava-castle-landmarks-v2.webp"},
   {
     id: "slovakia-st-martins-cathedral-landmarks-v2",
     type: "cathedral",
@@ -39,8 +38,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Locul de încoronare pentru 11 regi și 8 regine", "Construită între secolele XIII și XVI", "Coroană aurită de 300 kg pe vârful turnului", "Turnul bisericii are 85 de metri înălțime"],
       en: ["Coronation site of 11 kings and 8 queens", "Built between the 13th and 16th centuries", "300 kg gilded Crown of St. Stephen on the spire", "The church tower reaches a height of 85 meters"],
     },
-    imageHint: "St. Martin's Cathedral Bratislava spire with crown",
-  },
+    imageHint: "St. Martin's Cathedral Bratislava spire with crown", image: "/poi-images/slovakia-st-martins-cathedral-landmarks-v2.webp"},
   {
     id: "slovakia-grassalkovich-palace-landmarks-v2",
     type: "palace",
@@ -59,8 +57,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Construit în anul 1760", "Centrul vieții sociale baroce", "Grădină franceză mare deschisă publicului", "Sediul președintelui Slovaciei din 1996"],
       en: ["Built in the year 1760", "Former center of Baroque social life", "Large French garden open to the public", "Seat of the Slovak President since 1996"],
     },
-    imageHint: "Grassalkovich Palace Bratislava facade and fountain",
-  },
+    imageHint: "Grassalkovich Palace Bratislava facade and fountain", image: "/poi-images/slovakia-grassalkovich-palace-landmarks-v2.webp"},
   {
     id: "slovakia-bratislava-old-town-hall-landmarks-v2",
     type: "landmark",
@@ -79,8 +76,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Cea mai veche primărie din țară", "Ghiulea din epoca napoleoniană încastrată în perete", "Sediul Muzeului Orașului din 1868", "Turn de observație cu vedere spre piața principală"],
       en: ["Oldest town hall in the country", "Napoleonic cannonball embedded in the wall", "Home to the City Museum since 1868", "Observation tower overlooking the Main Square"],
     },
-    imageHint: "Old Town Hall Bratislava courtyard and tower",
-  },
+    imageHint: "Old Town Hall Bratislava courtyard and tower", image: "/poi-images/slovakia-bratislava-old-town-hall-landmarks-v2.webp"},
   {
     id: "slovakia-michaels-gate-landmarks-v2",
     type: "tower",
@@ -99,8 +95,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Construită în secolul al XIV-lea", "Singura păstrată din cele patru porți ale orașului", "Kilometrul zero marcat sub arcada porții", "Turn cu o înălțime de 51 de metri"],
       en: ["Built in the 14th century", "Only remaining of the four original gates", "Zero kilometer marker located under the arch", "Tower stands 51 meters tall"],
     },
-    imageHint: "Michael's Gate Bratislava view from the street",
-  },
+    imageHint: "Michael's Gate Bratislava view from the street", image: "/poi-images/slovakia-michaels-gate-landmarks-v2.webp"},
   {
     id: "slovakia-blue-church-landmarks-v2",
     type: "church",
@@ -119,8 +114,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Proiectată de Ödön Lechner", "Sfințită în anul 1913", "Turn rotund cu înălțimea de 36,8 metri", "Mozaicuri și glazuri albastre în interior"],
       en: ["Designed by architect Ödön Lechner", "Consecrated in the year 1913", "Round tower stands 36.8 meters high", "Blue mosaics and glazes decorate the interior"],
     },
-    imageHint: "The Blue Church of Bratislava facade detail",
-  },
+    imageHint: "The Blue Church of Bratislava facade detail", image: "/poi-images/slovakia-blue-church-landmarks-v2.webp"},
   {
     id: "slovakia-slavin-memorial-landmarks-v2",
     type: "monument",
@@ -139,8 +133,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Locul de odihnă pentru 6.845 de soldați", "Pilon central înalt de 39,5 metri", "Inaugurat în anul 1960", "Statuie de 7 metri a unui soldat în vârf"],
       en: ["Burial ground for 6,845 soldiers", "Central pylon reaches 39.5 meters", "Inaugurated in the year 1960", "7-meter-tall statue of a soldier on the summit"],
     },
-    imageHint: "Slavin memorial Bratislava obelisk and statue",
-  },
+    imageHint: "Slavin memorial Bratislava obelisk and statue", image: "/poi-images/slovakia-slavin-memorial-landmarks-v2.webp"},
   {
     id: "slovakia-devin-castle-landmarks-v2",
     type: "castle",
@@ -159,8 +152,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Distrus de trupele napoleoniene în 1809", "Simbol al identității slave", "Situat pe o stâncă de 212 metri înălțime", "Menționat încă din anul 864 d.Hr."],
       en: ["Destroyed by Napoleonic troops in 1809", "Symbol of Slavic identity", "Perched on a 212-meter-high rock", "Mentioned in written records as early as 864 AD"],
     },
-    imageHint: "Devin Castle ruins near the Danube river",
-  },
+    imageHint: "Devin Castle ruins near the Danube river", image: "/poi-images/slovakia-devin-castle-landmarks-v2.webp"},
   {
     id: "slovakia-orava-castle-landmarks-v2",
     type: "castle",
@@ -179,8 +171,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Sistem defensiv pe trei niveluri", "Locul de filmare pentru filmul mut 'Nosferatu' (1922)", "Construit în secolul al XIII-lea", "Cea mai înaltă parte se află la 112 metri deasupra râului"],
       en: ["Three-tiered defensive system", "Filming location for the 1922 movie 'Nosferatu'", "Origins date back to the 13th century", "Highest part stands 112 meters above the river"],
     },
-    imageHint: "Orava Castle on a steep limestone cliff",
-  },
+    imageHint: "Orava Castle on a steep limestone cliff", image: "/poi-images/slovakia-orava-castle-landmarks-v2.webp"},
   {
     id: "slovakia-bojnice-castle-landmarks-v2",
     type: "castle",
@@ -199,8 +190,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Proprietatea familiei Pálffy până în 1945", "Peșteră de stalactite sub castel", "Cea mai veche grădină zoologică din țară în parc", "Gazda Festivalului Internațional de Spirite și Fantome"],
       en: ["Owned by the Pálffy family until 1945", "Stalactite cave located beneath the castle", "Country's oldest zoo located in the castle park", "Host of the International Festival of Ghosts and Spirits"],
     },
-    imageHint: "Bojnice Castle fairytale exterior and towers",
-  },
+    imageHint: "Bojnice Castle fairytale exterior and towers", image: "/poi-images/slovakia-bojnice-castle-landmarks-v2.webp"},
   {
     id: "slovakia-trencin-castle-landmarks-v2",
     type: "castle",
@@ -219,8 +209,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Legendară 'Fântână a Iubirii' în curte", "Reședința lui Matei Csák în secolul al XIII-lea", "Inscripție romană care amintește victoria de la Laugaricio", "Turnul lui Matei domină complexul"],
       en: ["Legendary 'Well of Love' in the courtyard", "Seat of Matthew Csák in the 13th century", "Roman inscription commemorates victory at Laugaricio", "The dominant Matthew's Tower"],
     },
-    imageHint: "Trencin Castle view from the city below",
-  },
+    imageHint: "Trencin Castle view from the city below", image: "/poi-images/slovakia-trencin-castle-landmarks-v2.webp"},
   {
     id: "slovakia-st-elisabeth-cathedral-landmarks-v2",
     type: "cathedral",
@@ -239,8 +228,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Cea mai estică catedrală gotică de tip vestic din Europa", "Capacitate de peste 5.000 de persoane", "Cripta lui Francisc al II-lea Rákóczi în interior", "Construită între anii 1378 și 1508"],
       en: ["Easternmost Gothic cathedral of Western type in Europe", "Can accommodate over 5,000 worshippers", "Contains the crypt of Francis II Rákóczi", "Constructed between 1378 and 1508"],
     },
-    imageHint: "St. Elisabeth Cathedral Kosice Gothic facade",
-  },
+    imageHint: "St. Elisabeth Cathedral Kosice Gothic facade", image: "/poi-images/slovakia-st-elisabeth-cathedral-landmarks-v2.webp"},
   {
     id: "slovakia-cachtice-castle-landmarks-v2",
     type: "ruins",
@@ -259,8 +247,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Elisabeta Báthory a murit aici în arest în 1614", "Construit în secolul al XIII-lea ca cetate de frontieră", "Sistem de pasaje secrete sub castel", "Cucerit de trupele lui Rákóczi în 1708"],
       en: ["Elizabeth Báthory died here under arrest in 1614", "Built in the 13th century as a border fortress", "Features a network of secret tunnels", "Captured by Francis II Rákóczi's troops in 1708"],
     },
-    imageHint: "Cachtice Castle ruins on a hilltop",
-  },
+    imageHint: "Cachtice Castle ruins on a hilltop", image: "/poi-images/slovakia-cachtice-castle-landmarks-v2.webp"},
   {
     id: "slovakia-beckov-castle-landmarks-v2",
     type: "ruins",
@@ -279,8 +266,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Construit în secolul al XII-lea", "Distrus de un incendiu major în 1729", "Legenda spune că a fost construit pentru bufonul Becko", "Punct important în sistemul defensiv de frontieră"],
       en: ["Built in the 12th century", "Destroyed by a major fire in 1729", "Legend says it was built for the jester Becko", "Key point in the defensive border system of Hungary"],
     },
-    imageHint: "Beckov Castle ruins on a high rock cliff",
-  },
+    imageHint: "Beckov Castle ruins on a high rock cliff", image: "/poi-images/slovakia-beckov-castle-landmarks-v2.webp"},
   {
     id: "slovakia-krasna-horka-castle-landmarks-v2",
     type: "castle",
@@ -299,8 +285,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Incendiu grav în martie 2012", "Mausoleul familiei Andrássy la poalele dealului", "Construit în secolul al XIV-lea", "Singurul castel din regiune care nu a fost distrus de războaie"],
       en: ["Suffered a severe fire in March 2012", "Andrássy family mausoleum located at the hill's base", "Origins date to the 14th century", "Only castle in the region never destroyed by war"],
     },
-    imageHint: "Krasna Horka Castle on a conical hill",
-  },
+    imageHint: "Krasna Horka Castle on a conical hill", image: "/poi-images/slovakia-krasna-horka-castle-landmarks-v2.webp"},
   {
     id: "slovakia-betliar-mansion-landmarks-v2",
     type: "palace",
@@ -319,8 +304,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Bibliotecă cu peste 15.000 de volume", "Mumii egiptene în colecție", "Parc englezesc de 80 de hectare", "Singurul conac din Slovacia cu inventar original complet"],
       en: ["Library contains over 15,000 volumes", "Features Egyptian mummies in its collection", "Surrounded by an 80-hectare English park", "Only manor in Slovakia with fully preserved original inventory"],
     },
-    imageHint: "Betliar Mansion exterior and park",
-  },
+    imageHint: "Betliar Mansion exterior and park", image: "/poi-images/slovakia-betliar-mansion-landmarks-v2.webp"},
   {
     id: "slovakia-strecno-castle-landmarks-v2",
     type: "castle",
@@ -339,8 +323,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Locul unde a fost găsit corpul mumificat al Sophiei Bosnyák", "Construit la trecerea dintre secolele XIII și XIV", "Distrus de trupele imperiale în 1698", "Înălțime de 103 metri deasupra oglinzii apei"],
       en: ["Discovery site of Sophia Bosnyák's mummified body", "Built at the turn of the 13th and 14th centuries", "Destroyed by imperial troops in 1698", "Stands 103 meters above the river level"],
     },
-    imageHint: "Strecno Castle ruins above the Vah river",
-  },
+    imageHint: "Strecno Castle ruins above the Vah river", image: "/poi-images/slovakia-strecno-castle-landmarks-v2.webp"},
   {
     id: "slovakia-nitra-castle-landmarks-v2",
     type: "castle",
@@ -359,8 +342,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Sediul Episcopiei de Nitra", "Locul primei biserici creștine din Europa Centrală (830 d.Hr.)", "Fortificații masive din perioada războaielor cu turcii", "Cea mai veche dioceză din Slovacia"],
       en: ["Seat of the Diocese of Nitra", "Site of the first Christian church in Central Europe (830 AD)", "Massive fortifications from the Ottoman wars era", "Oldest diocese in Slovakia"],
     },
-    imageHint: "Nitra Castle cathedral and palace towers",
-  },
+    imageHint: "Nitra Castle cathedral and palace towers", image: "/poi-images/slovakia-nitra-castle-landmarks-v2.webp"},
   {
     id: "slovakia-hronsek-wooden-church-landmarks-v2",
     type: "church",
@@ -379,8 +361,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Patrimoniu Mondial UNESCO din 2008", "Construită în anul 1726", "Capacitate de 1.100 de persoane", "Turnul clopotniță din lemn este situat separat"],
       en: ["UNESCO World Heritage site since 2008", "Built in the year 1726", "Can accommodate up to 1,100 worshippers", "Wooden bell tower stands separately next to the church"],
     },
-    imageHint: "Hronsek wooden articular church exterior",
-  },
+    imageHint: "Hronsek wooden articular church exterior", image: "/poi-images/slovakia-hronsek-wooden-church-landmarks-v2.webp"},
   {
     id: "slovakia-levoca-town-hall-landmarks-v2",
     type: "landmark",
@@ -399,8 +380,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Construită după incendiul orașului din 1550", "Situată lângă 'Cușca Rușinii'", "Patrimoniu Mondial UNESCO din 2009", "Arcade la parter în stil renascentist târziu"],
       en: ["Built after the city fire of 1550", "Located next to the 'Cage of Shame'", "UNESCO World Heritage site since 2009", "Features late Renaissance arcades on the ground floor"],
     },
-    imageHint: "Old Town Hall Levoča Renaissance building",
-  },
+    imageHint: "Old Town Hall Levoča Renaissance building", image: "/poi-images/slovakia-levoca-town-hall-landmarks-v2.webp"},
   {
     id: "slovakia-st-james-basilica-landmarks-v2",
     type: "church",
@@ -419,8 +399,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["A doua cea mai înaltă biserică gotică din Slovacia", "Altarul principal are o înălțime de 18,62 metri", "Patrimoniu Mondial UNESCO din 2009", "Construită în secolul al XIV-lea"],
       en: ["Second tallest Gothic church in Slovakia", "Main altar stands 18.62 meters tall", "UNESCO World Heritage site since 2009", "Constructed in the 14th century"],
     },
-    imageHint: "Interior of Basilica of St. James Levoča main altar",
-  },
+    imageHint: "Interior of Basilica of St. James Levoča main altar", image: "/poi-images/slovakia-st-james-basilica-landmarks-v2.webp"},
   {
     id: "slovakia-stiavnica-old-castle-landmarks-v2",
     type: "castle",
@@ -439,8 +418,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Inițial o biserică din secolul al XIII-lea", "Transformat în fortăreață între 1546 și 1559", "Patrimoniu Mondial UNESCO din 1993", "Găzduiește expoziții despre istoria mineritului"],
       en: ["Originally built as a church in the 13th century", "Converted into a fortress between 1546 and 1559", "UNESCO World Heritage site since 1993", "Houses exhibitions on mining history"],
     },
-    imageHint: "Old Castle in Banska Stiavnica courtyard view",
-  },
+    imageHint: "Old Castle in Banska Stiavnica courtyard view", image: "/poi-images/slovakia-stiavnica-old-castle-landmarks-v2.webp"},
   {
     id: "slovakia-bardejov-town-hall-landmarks-v2",
     type: "landmark",
@@ -459,8 +437,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Construită între anii 1505 și 1509", "Patrimoniu Mondial UNESCO din 2000", "Găzduiește Muzeul Šariš", "Combinație de elemente gotice și renascentiste"],
       en: ["Built between 1505 and 1509", "UNESCO World Heritage site since 2000", "Home to the Šariš Museum", "Features a mix of Gothic and Renaissance styles"],
     },
-    imageHint: "Bardejov Town Hall square building",
-  },
+    imageHint: "Bardejov Town Hall square building", image: "/poi-images/slovakia-bardejov-town-hall-landmarks-v2.webp"},
   {
     id: "slovakia-red-stone-castle-landmarks-v2",
     type: "castle",
@@ -479,8 +456,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Cele mai mari pivnițe de castel din Europa Centrală", "Transformat în fortăreață de familia Fugger în secolul XVI", "Mobilier original din secolele XVI-XIX", "Locație frecventă pentru filmări și basme"],
       en: ["Largest castle cellars in Central Europe", "Converted into a fortress by the Fuggers in the 16th century", "Original furnishings from the 16th to 19th centuries", "Frequent filming location for movies and fairytales"],
     },
-    imageHint: "Red Stone Castle Cerveny Kamen aerial view",
-  },
+    imageHint: "Red Stone Castle Cerveny Kamen aerial view", image: "/poi-images/slovakia-red-stone-castle-landmarks-v2.webp"},
   {
     id: "slovakia-stara-lubovna-castle-landmarks-v2",
     type: "castle",
@@ -499,8 +475,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Construit la sfârșitul secolului al XIII-lea", "Ascunzătoarea bijuteriilor coroanei poloneze (1655–1661)", "Închisoarea aventurierului Maurice Benyovszky", "Muzeu etnografic în aer liber situat la poale"],
       en: ["Built at the end of the 13th century", "Hiding place of Polish crown jewels (1655–1661)", "Imprisonment site of adventurer Maurice Benyovszky", "Features a historic open-air museum in the valley"],
     },
-    imageHint: "Stara Lubovna Castle and open-air museum",
-  },
+    imageHint: "Stara Lubovna Castle and open-air museum", image: "/poi-images/slovakia-stara-lubovna-castle-landmarks-v2.webp"},
   {
     id: "slovakia-kezmarok-castle-landmarks-v2",
     type: "castle",

@@ -31,8 +31,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-minsk-tractor-works-economic-v2.webp"},
   {
     id: "belarus-belaz-zhodino-economic-v2",
     type: "factory",
@@ -63,8 +62,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-belaz-zhodino-economic-v2.webp"},
   {
     id: "belarus-maz-minsk-economic-v2",
     type: "factory",
@@ -127,8 +125,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-belaruskali-soligorsk-economic-v2.webp"},
   {
     id: "belarus-naftan-oil-refinery-economic-v2",
     type: "industry",
@@ -191,8 +188,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-mozyr-refinery-economic-v2.webp"},
   {
     id: "belarus-grodno-azot-economic-v2",
     type: "industry",
@@ -223,8 +219,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-grodno-azot-economic-v2.webp"},
   {
     id: "belarus-bmz-zhlobin-economic-v2",
     type: "industry",
@@ -255,8 +250,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-bmz-zhlobin-economic-v2.webp"},
   {
     id: "belarus-gomselmash-economic-v2",
     type: "factory",
@@ -287,8 +281,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-gomselmash-economic-v2.webp"},
   {
     id: "belarus-belshina-babruysk-economic-v2",
     type: "factory",
@@ -319,8 +312,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-belshina-babruysk-economic-v2.webp"},
   {
     id: "belarus-mogilevkhimvolokno-economic-v2",
     type: "industry",
@@ -351,8 +343,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-mogilevkhimvolokno-economic-v2.webp"},
   {
     id: "belarus-great-stone-industrial-park-economic-v2",
     type: "industry",
@@ -383,8 +374,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-great-stone-industrial-park-economic-v2.webp"},
   {
     id: "belarus-nuclear-power-plant-economic-v2",
     type: "industry",
@@ -415,8 +405,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-nuclear-power-plant-economic-v2.webp"},
   {
     id: "belarus-orsha-linen-mill-economic-v2",
     type: "factory",
@@ -447,8 +436,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-orsha-linen-mill-economic-v2.webp"},
   {
     id: "belarus-kommunarka-confectionery-economic-v2",
     type: "factory",
@@ -479,8 +467,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-kommunarka-confectionery-economic-v2.webp"},
   {
     id: "belarus-spartak-confectionery-economic-v2",
     type: "factory",
@@ -511,8 +498,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-spartak-confectionery-economic-v2.webp"},
   {
     id: "belarus-lukoml-power-station-economic-v2",
     type: "industry",
@@ -543,8 +529,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-lukoml-power-station-economic-v2.webp"},
   {
     id: "belarus-granit-mikashevichi-economic-v2",
     type: "mine",
@@ -575,8 +560,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-granit-mikashevichi-economic-v2.webp"},
   {
     id: "belarus-integral-minsk-economic-v2",
     type: "factory",
@@ -607,8 +591,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-integral-minsk-economic-v2.webp"},
   {
     id: "belarus-belgee-factory-economic-v2",
     type: "factory",
@@ -639,8 +622,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-belgee-factory-economic-v2.webp"},
   {
     id: "belarus-borisov-medical-preparations-economic-v2",
     type: "factory",
@@ -703,8 +685,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-polotsk-steklovolokno-economic-v2.webp"},
   {
     id: "belarus-milavitsa-minsk-economic-v2",
     type: "factory",
@@ -767,8 +748,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-atlant-minsk-economic-v2.webp"},
   {
     id: "belarus-horizont-minsk-economic-v2",
     type: "factory",
@@ -831,8 +811,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-minsk-motor-plant-economic-v2.webp"},
   {
     id: "belarus-lida-paint-plant-economic-v2",
     type: "factory",
@@ -863,8 +842,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-lida-paint-plant-economic-v2.webp"},
   {
     id: "belarus-berezovskaya-power-station-economic-v2",
     type: "industry",
@@ -895,8 +873,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-berezovskaya-power-station-economic-v2.webp"},
   {
     id: "belarus-brest-economic-zone-economic-v2",
     type: "city",
@@ -927,8 +904,7 @@ export const belarusEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-brest-economic-zone-economic-v2.webp"},
   {
     id: "belarus-vitebsk-economic-zone-economic-v2",
     type: "city",

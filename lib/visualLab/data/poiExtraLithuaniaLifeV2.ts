@@ -19,8 +19,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Fondat în 1974", "Suprafață: 405 km²", "Conține 126 de lacuri", "Habitat pentru vulturul de mare"],
       en: ["Founded in 1974", "Area: 405 km²", "Contains 126 lakes", "Home to white-tailed eagles"],
     },
-    imageHint: "Aukštaitija National Park lake and forest",
-  },
+    imageHint: "Aukštaitija National Park lake and forest", image: "/poi-images/lithuania-aukstaitija-national-park-life-v2.webp"},
   {
     id: "lithuania-dzukija-national-park-life-v2",
     type: "park",
@@ -39,8 +38,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Fondat în 1991", "Suprafață: 585 km²", "91% acoperit de păduri", "30 de specii de pești"],
       en: ["Founded in 1991", "Area: 585 km²", "91% forest coverage", "30 fish species in rivers"],
     },
-    imageHint: "Dzūkija National Park pine forest and river",
-  },
+    imageHint: "Dzūkija National Park pine forest and river", image: "/poi-images/lithuania-dzukija-national-park-life-v2.webp"},
   {
     id: "lithuania-zemaitija-national-park-life-v2",
     type: "park",
@@ -59,8 +57,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Fondat în 1991", "Cel mai mare lac: Plateliai", "Habitat pentru barza neagră", "7 insule pe lacul Plateliai"],
       en: ["Founded in 1991", "Largest lake: Plateliai", "Black stork nesting site", "7 islands in Lake Plateliai"],
     },
-    imageHint: "Žemaitija National Park Lake Plateliai",
-  },
+    imageHint: "Žemaitija National Park Lake Plateliai", image: "/poi-images/lithuania-zemaitija-national-park-life-v2.webp"},
   {
     id: "lithuania-trakai-historical-national-park-life-v2",
     type: "park",
@@ -79,8 +76,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Fondat în 1991", "Include 32 de lacuri", "Protecția zonelor mlaștinoase", "Găzduiește specii rare de rațe"],
       en: ["Founded in 1991", "Includes 32 lakes", "Protects marshy areas", "Home to rare duck species"],
     },
-    imageHint: "Trakai lakes and nature landscape",
-  },
+    imageHint: "Trakai lakes and nature landscape", image: "/poi-images/lithuania-trakai-historical-national-park-life-v2.webp"},
   {
     id: "lithuania-cepkeliai-nature-reserve-life-v2",
     type: "wildlife",
@@ -99,8 +95,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Fondată în 1975", "Cea mai mare mlaștină", "Acces permis doar cu ghid", "Protecția cocorilor"],
       en: ["Founded in 1975", "Largest bog in Lithuania", "Access restricted to guided tours", "Protects crane populations"],
     },
-    imageHint: "Čepkeliai bog and swamp landscape",
-  },
+    imageHint: "Čepkeliai bog and swamp landscape", image: "/poi-images/lithuania-cepkeliai-nature-reserve-life-v2.webp"},
   {
     id: "lithuania-zhuvintas-biosphere-reserve-life-v2",
     type: "wildlife",
@@ -119,8 +114,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Fondată în 1937", "Prima rezervație naturală", "Rezervație a biosferei UNESCO", "Peste 220 de specii de păsări"],
       en: ["Founded in 1937", "First nature reserve in Lithuania", "UNESCO Biosphere Reserve", "Over 220 bird species"],
     },
-    imageHint: "Žuvintas lake and wetlands birds",
-  },
+    imageHint: "Žuvintas lake and wetlands birds", image: "/poi-images/lithuania-zhuvintas-biosphere-reserve-life-v2.webp"},
   {
     id: "lithuania-kamanos-nature-reserve-life-v2",
     type: "wildlife",
@@ -139,8 +133,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Fondată în 1979", "Conține 120 de ochiuri de apă", "Plante carnivore prezente", "Habitat pentru broasca de mlaștină"],
       en: ["Founded in 1979", "Contains 120 bog pools", "Home to carnivorous plants", "Moor frog population"],
     },
-    imageHint: "Kamanos bog pools landscape",
-  },
+    imageHint: "Kamanos bog pools landscape", image: "/poi-images/lithuania-kamanos-nature-reserve-life-v2.webp"},
   {
     id: "lithuania-viesvile-nature-reserve-life-v2",
     type: "wildlife",
@@ -159,8 +152,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Fondată în 1991", "Protejează râul Viešvilė", "Prezența păstrăvului de râu", "Habitat pentru barza neagră"],
       en: ["Founded in 1991", "Protects the Viešvilė river", "Presence of brown trout", "Nesting site for black stork"],
     },
-    imageHint: "Viešvilė river in forest",
-  },
+    imageHint: "Viešvilė river in forest", image: "/poi-images/lithuania-viesvile-nature-reserve-life-v2.webp"},
   {
     id: "lithuania-vente-cape-ornithological-station-life-v2",
     type: "wildlife",
@@ -179,8 +171,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Fondată în 1929", "Cea mai mare capcană de păsări", "Milioane de păsări anual", "Centru important de inelare"],
       en: ["Founded in 1929", "World's largest bird trap", "Millions of migrants annually", "Major bird ringing site"],
     },
-    imageHint: "Ventė Cape bird ringing station",
-  },
+    imageHint: "Ventė Cape bird ringing station", image: "/poi-images/lithuania-vente-cape-ornithological-station-life-v2.webp"},
   {
     id: "lithuania-lithuanian-zoo-life-v2",
     type: "wildlife",
@@ -219,8 +210,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Fondată în 1781", "Cea mai mare din Țările Baltice", "Peste 10.000 de specii", "Colecție celebră de liliac"],
       en: ["Founded in 1781", "Largest garden in the Baltics", "Over 10,000 plant species", "Famous lilac collection"],
     },
-    imageHint: "Vilnius University Botanical Garden Kairėnai",
-  },
+    imageHint: "Vilnius University Botanical Garden Kairėnai", image: "/poi-images/lithuania-vilnius-university-botanical-garden-life-v2.webp"},
   {
     id: "lithuania-kaunas-botanical-garden-life-v2",
     type: "park",
@@ -239,8 +229,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Fondată în 1923", "Sera mare de palmieri", "Peste 7.000 de specii", "Conacul istoric Freda"],
       en: ["Founded in 1923", "Large palm house", "Over 7,000 plant species", "Historical Freda estate"],
     },
-    imageHint: "Kaunas Botanical Garden greenhouse",
-  },
+    imageHint: "Kaunas Botanical Garden greenhouse", image: "/poi-images/lithuania-kaunas-botanical-garden-life-v2.webp"},
   {
     id: "lithuania-labanoras-regional-park-life-v2",
     type: "park",
@@ -259,8 +248,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Cel mai mare parc regional", "Conține 285 de lacuri", "Habitat pentru elani", "Protejează păduri de pini vechi"],
       en: ["Largest regional park", "Contains 285 lakes", "Important moose habitat", "Protects ancient pine forests"],
     },
-    imageHint: "Labanoras forest and lakes aerial",
-  },
+    imageHint: "Labanoras forest and lakes aerial", image: "/poi-images/lithuania-labanoras-regional-park-life-v2.webp"},
   {
     id: "lithuania-nemunas-delta-regional-park-life-v2",
     type: "park",
@@ -279,8 +267,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Zonă Ramsar UNESCO", "Prezența vulturului de mare", "Punct major pentru păsări migratoare", "Bogat în pești de apă dulce"],
       en: ["UNESCO Ramsar site", "Presence of white-tailed eagles", "Major stopover for migrants", "Rich in freshwater fish"],
     },
-    imageHint: "Nemunas Delta river landscape",
-  },
+    imageHint: "Nemunas Delta river landscape", image: "/poi-images/lithuania-nemunas-delta-regional-park-life-v2.webp"},
   {
     id: "lithuania-birzai-regional-park-life-v2",
     type: "park",
@@ -299,8 +286,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Peste 9.000 de doline", "Cea mai faimoasă: Peștera Vacii", "Lacuri carstice cu bacterii", "Protecția ferigilor rare"],
       en: ["Over 9,000 karst sinkholes", "Most famous: Cow's Cave", "Karst lakes with sulfur bacteria", "Protects rare ferns"],
     },
-    imageHint: "Biržai karst sinkhole landscape",
-  },
+    imageHint: "Biržai karst sinkhole landscape", image: "/poi-images/lithuania-birzai-regional-park-life-v2.webp"},
   {
     id: "lithuania-neris-regional-park-life-v2",
     type: "park",
@@ -319,8 +305,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Cea mai mare pădure de stejari", "Protecția pârșului", "Valea râului Neris", "Specii rare de ferigi"],
       en: ["Largest oak forest in Lithuania", "Protects edible dormouse", "Neris river valley", "Rare fern species"],
     },
-    imageHint: "Neris River valley and oak forest",
-  },
+    imageHint: "Neris River valley and oak forest", image: "/poi-images/lithuania-neris-regional-park-life-v2.webp"},
   {
     id: "lithuania-grazute-regional-park-life-v2",
     type: "park",
@@ -339,8 +324,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Peste 70 de lacuri", "Prezența castorilor", "Lacul de acumulare Antalieptė", "Bogat în plante medicinale"],
       en: ["Over 70 lakes", "Presence of beavers", "Deep Antalieptė reservoir", "Rich in medicinal plants"],
     },
-    imageHint: "Gražutė Regional Park forest lake",
-  },
+    imageHint: "Gražutė Regional Park forest lake", image: "/poi-images/lithuania-grazute-regional-park-life-v2.webp"},
   {
     id: "lithuania-meteliai-regional-park-life-v2",
     type: "park",
@@ -359,8 +343,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Protecția țestoasei de baltă", "Trei lacuri: Dusia, Metelys, Obelija", "Punct major pentru rațe", "Pajiști cu orhidee"],
       en: ["Protects pond turtles", "Three lakes: Dusia, Metelys, Obelija", "Major resting site for ducks", "Orchid meadows"],
     },
-    imageHint: "Meteliai Regional Park Lake Dusia",
-  },
+    imageHint: "Meteliai Regional Park Lake Dusia", image: "/poi-images/lithuania-meteliai-regional-park-life-v2.webp"},
   {
     id: "lithuania-pavilniai-regional-park-life-v2",
     type: "park",
@@ -379,8 +362,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Cel mai înalt afloriment", "Parc urban în Vilnius", "Prezența ciocănitoarei negre", "Valea râului Vilnia"],
       en: ["Highest exposure in Lithuania", "Urban park in Vilnius", "Black woodpecker presence", "Vilnia river valley"],
     },
-    imageHint: "Pūčkoriai outcrop Pavilniai park",
-  },
+    imageHint: "Pūčkoriai outcrop Pavilniai park", image: "/poi-images/lithuania-pavilniai-regional-park-life-v2.webp"},
   {
     id: "lithuania-verkiu-regional-park-life-v2",
     type: "park",
@@ -399,8 +381,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Șase Lacuri Verzi", "Protecția liliecilor", "Zonă de recreere majoră", "Bogat în izvoare"],
       en: ["Six Green Lakes", "Protects bat populations", "Major recreation area", "Rich in natural springs"],
     },
-    imageHint: "Verkiai Green Lakes landscape",
-  },
+    imageHint: "Verkiai Green Lakes landscape", image: "/poi-images/lithuania-verkiu-regional-park-life-v2.webp"},
   {
     id: "lithuania-sartai-regional-park-life-v2",
     type: "park",
@@ -419,8 +400,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Cea mai lungă linie de țărm", "Curse tradiționale de cai", "Protecția păsărilor de apă", "Prezența vidrei"],
       en: ["Longest shoreline (79 km)", "Traditional horse races", "Protects waterfowl", "Presence of otters"],
     },
-    imageHint: "Sartai lake and islands aerial",
-  },
+    imageHint: "Sartai lake and islands aerial", image: "/poi-images/lithuania-sartai-regional-park-life-v2.webp"},
   {
     id: "lithuania-dubysa-regional-park-life-v2",
     type: "park",
@@ -439,8 +419,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Valea râului Dubysa", "Prezența pescărușului albastru", "Protecția pajiștilor uscate", "Specii rare de fluturi"],
       en: ["Dubysa river valley", "Kingfisher habitat", "Protects dry grasslands", "Rare butterfly species"],
     },
-    imageHint: "Dubysa river valley landscape",
-  },
+    imageHint: "Dubysa river valley landscape", image: "/poi-images/lithuania-dubysa-regional-park-life-v2.webp"},
   {
     id: "lithuania-pagramantis-regional-park-life-v2",
     type: "park",
@@ -459,8 +438,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Văile râurilor Akmena și Jūra", "Numeroase aflorimente", "Protecția pădurilor de luncă", "Specii rare de mușchi"],
       en: ["Valleys of Akmena and Jūra", "Numerous geological exposures", "Protects floodplain forests", "Presence of rare mosses"],
     },
-    imageHint: "Akmena river valley Pagramantis",
-  },
+    imageHint: "Akmena river valley Pagramantis", image: "/poi-images/lithuania-pagramantis-regional-park-life-v2.webp"},
   {
     id: "lithuania-rambynas-regional-park-life-v2",
     type: "park",
@@ -479,8 +457,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Cea mai mare densitate de berze", "Protecția brațelor vechi", "Dealul sacru Rambynas", "Prezența castorilor"],
       en: ["Highest stork density", "Protects Nemunas oxbows", "Sacred Rambynas Hill", "Presence of beavers"],
     },
-    imageHint: "Nemunas river floodplains Rambynas",
-  },
+    imageHint: "Nemunas river floodplains Rambynas", image: "/poi-images/lithuania-rambynas-regional-park-life-v2.webp"},
   {
     id: "lithuania-sirveta-regional-park-life-v2",
     type: "park",
@@ -499,8 +476,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Peisaj de morene deluros", "Peste 30 de lacuri mici", "Protecția stejarilor vechi", "Habitat pentru gândaci rari"],
       en: ["Hilly terminal moraine", "Over 30 small lakes", "Protects ancient oaks", "Habitat for rare beetles"],
     },
-    imageHint: "Sirvėta hilly landscape and forest",
-  },
+    imageHint: "Sirvėta hilly landscape and forest", image: "/poi-images/lithuania-sirveta-regional-park-life-v2.webp"},
   {
     id: "lithuania-tytuvenai-regional-park-life-v2",
     type: "park",
@@ -519,8 +495,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Punct major pentru cocori", "Protecția mlaștinilor", "Prezența vidrei", "Plante de mlaștină rare"],
       en: ["Major crane resting site", "Protects raised bogs", "Presence of otters", "Rare bog plants"],
     },
-    imageHint: "Tytuvėnai bog and lake landscape",
-  },
+    imageHint: "Tytuvėnai bog and lake landscape", image: "/poi-images/lithuania-tytuvenai-regional-park-life-v2.webp"},
   {
     id: "lithuania-vistytis-regional-park-life-v2",
     type: "park",
@@ -539,8 +514,7 @@ export const lithuaniaLifeV2: POI[] = [
       ro: ["Locație la granița triplă", "Lacul adânc Vištytis", "Bogat în cerbi", "Protecția pădurilor de fag"],
       en: ["Triple border location", "Deep Lake Vištytis", "Rich in red deer", "Protects beech forests"],
     },
-    imageHint: "Vištytis lake and hills landscape",
-  },
+    imageHint: "Vištytis lake and hills landscape", image: "/poi-images/lithuania-vistytis-regional-park-life-v2.webp"},
   {
     id: "lithuania-krekenava-regional-park-life-v2",
     type: "park",

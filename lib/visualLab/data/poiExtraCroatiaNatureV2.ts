@@ -19,8 +19,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Fondat în 1960", "Două lacuri sărate", "Mănăstire din secolul XII", "90% pădure"],
       en: ["Established in 1960", "Two saltwater lakes", "12th century monastery", "90% forest cover"],
     },
-    imageHint: "Mljet island monastery on lake",
-  },
+    imageHint: "Mljet island monastery on lake", image: "/poi-images/croatia-mljet-island-nature-v2.webp"},
   {
     id: "croatia-kornati-islands-nature-v2",
     type: "park",
@@ -39,8 +38,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Fondat în 1980", "89 de insule și stânci", "Cea mai înaltă stâncă 82 m", "Suprafață de 217 km²"],
       en: ["Established in 1980", "89 islands and rocks", "Highest cliff 82 meters", "Total area 217 km²"],
     },
-    imageHint: "Kornati islands aerial view",
-  },
+    imageHint: "Kornati islands aerial view", image: "/poi-images/croatia-kornati-islands-nature-v2.webp"},
   {
     id: "croatia-brijuni-islands-nature-v2",
     type: "park",
@@ -59,8 +57,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Fondat în 1983", "14 insule", "Parc safari existent", "Vile romane antice"],
       en: ["Established in 1983", "14 islands", "Safari park present", "Ancient Roman villas"],
     },
-    imageHint: "Brijuni islands landscape and sea",
-  },
+    imageHint: "Brijuni islands landscape and sea", image: "/poi-images/croatia-brijuni-islands-nature-v2.webp"},
   {
     id: "croatia-north-velebit-park-nature-v2",
     type: "park",
@@ -79,8 +76,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Fondat în 1999", "Suprafață de 109 km²", "Peștera Lukina jama", "Grădină botanică"],
       en: ["Established in 1999", "109 km² area", "Lukina jama deep cave", "Botanical garden"],
     },
-    imageHint: "North Velebit rocky peaks",
-  },
+    imageHint: "North Velebit rocky peaks", image: "/poi-images/croatia-north-velebit-park-nature-v2.webp"},
   {
     id: "croatia-kopacki-rit-nature-v2",
     type: "park",
@@ -99,8 +95,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Fondat în 1976", "Suprafață de 177 km²", "Peste 300 specii păsări", "Confluența Dunăre-Drava"],
       en: ["Established in 1976", "177 km² area", "Over 300 bird species", "Danube and Drava confluence"],
     },
-    imageHint: "Kopacki Rit wetland birds",
-  },
+    imageHint: "Kopacki Rit wetland birds", image: "/poi-images/croatia-kopacki-rit-nature-v2.webp"},
   {
     id: "croatia-lonjsko-polje-nature-v2",
     type: "park",
@@ -119,8 +114,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Fondat în 1990", "Suprafață de 506 km²", "Satul berzelor Čigoč", "Case tradiționale din lemn"],
       en: ["Established in 1990", "506 km² area", "Čigoč stork village", "Traditional wooden houses"],
     },
-    imageHint: "Lonjsko Polje wooden houses and storks",
-  },
+    imageHint: "Lonjsko Polje wooden houses and storks", image: "/poi-images/croatia-lonjsko-polje-nature-v2.webp"},
   {
     id: "croatia-medvednica-mountain-nature-v2",
     type: "park",
@@ -139,8 +133,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Vârful maxim 1033 m", "Peștera Veternica", "Cetatea Medvedgrad", "Cupă Mondială de Schi"],
       en: ["Highest peak 1033 m", "Veternica cave", "Medvedgrad fortress", "Ski World Cup slalom"],
     },
-    imageHint: "Medvednica mountain forest",
-  },
+    imageHint: "Medvednica mountain forest", image: "/poi-images/croatia-medvednica-mountain-nature-v2.webp"},
   {
     id: "croatia-lastovo-archipelago-nature-v2",
     type: "park",
@@ -159,8 +152,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["44 de insule", "Fondat în 2006", "Mare albastru intens", "Poluare luminoasă minimă"],
       en: ["44 islands", "Established in 2006", "Deep blue sea", "Minimal light pollution"],
     },
-    imageHint: "Lastovo islands aerial view",
-  },
+    imageHint: "Lastovo islands aerial view", image: "/poi-images/croatia-lastovo-archipelago-nature-v2.webp"},
   {
     id: "croatia-vransko-lake-nature-v2",
     type: "lake",
@@ -179,8 +171,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Cel mai mare lac", "Rezervație ornitologică", "Lângă coasta Adriaticii", "Suprafață de 30 km²"],
       en: ["Largest lake in Croatia", "Ornithological reserve", "Near Adriatic coast", "Area of 30 km²"],
     },
-    imageHint: "Vrana lake bird sanctuary",
-  },
+    imageHint: "Vrana lake bird sanctuary", image: "/poi-images/croatia-vransko-lake-nature-v2.webp"},
   {
     id: "croatia-cetina-spring-nature-v2",
     type: "landmark",
@@ -199,8 +190,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Adâncime peste 150 m", "Numit „Ochiul Pământului”", "Apă cristalină", "Originea Cetinei"],
       en: ["Depth over 150 m", "Nicknamed 'Eye of the Earth'", "Crystal clear water", "Source of Cetina"],
     },
-    imageHint: "Cetina river spring Eye of the Earth",
-  },
+    imageHint: "Cetina river spring Eye of the Earth", image: "/poi-images/croatia-cetina-spring-nature-v2.webp"},
   {
     id: "croatia-zrmanja-river-nature-v2",
     type: "river",
@@ -239,8 +229,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Insulă în formă de inimă", "Proprietate privată", "Nelocuită", "Faimoasă pe Google Earth"],
       en: ["Heart-shaped island", "Private property", "Uninhabited", "Famous via Google Earth"],
     },
-    imageHint: "Galesnjak heart shaped island aerial",
-  },
+    imageHint: "Galesnjak heart shaped island aerial", image: "/poi-images/croatia-galesnjak-island-nature-v2.webp"},
   {
     id: "croatia-lim-fjord-nature-v2",
     type: "landmark",
@@ -259,8 +248,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Lungime 12 km", "Cultură de stridii", "Tehnic este o ria", "Rezervație naturală"],
       en: ["12 km long", "Oyster farming", "Actually a ria", "Protected area"],
     },
-    imageHint: "Lim Fjord Istria aerial",
-  },
+    imageHint: "Lim Fjord Istria aerial", image: "/poi-images/croatia-lim-fjord-nature-v2.webp"},
   {
     id: "croatia-dinara-peak-nature-v2",
     type: "mountain",
@@ -279,8 +267,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Altitudine maximă 1831 m", "Munții Dinarici", "Munte de frontieră", "Peisaj carstic"],
       en: ["Highest peak 1831 m", "Dinaric Alps", "Border mountain", "Karst landscape"],
     },
-    imageHint: "Dinara mountain rocky summit",
-  },
+    imageHint: "Dinara mountain rocky summit", image: "/poi-images/croatia-dinara-peak-nature-v2.webp"},
   {
     id: "croatia-neretva-delta-nature-v2",
     type: "wildlife",
@@ -299,8 +286,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Cultivarea mandarinelor", "Ruta migrației păsărilor", "Gura de vărsare a râului", "Bărci tradiționale Lađa"],
       en: ["Mandarin cultivation", "Bird migration route", "River estuary", "Traditional Lađa boats"],
     },
-    imageHint: "Neretva delta mandarin fields",
-  },
+    imageHint: "Neretva delta mandarin fields", image: "/poi-images/croatia-neretva-delta-nature-v2.webp"},
   {
     id: "croatia-rastoke-falls-nature-v2",
     type: "landmark",
@@ -319,8 +305,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Micul Plitvice", "Mori de apă", "Confluența a două râuri", "Sat istoric"],
       en: ["Little Plitvice", "Watermills", "Confluence of two rivers", "Historic village"],
     },
-    imageHint: "Rastoke waterfalls and houses",
-  },
+    imageHint: "Rastoke waterfalls and houses", image: "/poi-images/croatia-rastoke-falls-nature-v2.webp"},
   {
     id: "croatia-dragons-eye-lake-nature-v2",
     type: "lake",
@@ -339,8 +324,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Lac sărat", "Adâncime 15 m", "Rogoznica", "Fenomen natural"],
       en: ["Saltwater lake", "Depth 15 m", "Rogoznica", "Natural phenomenon"],
     },
-    imageHint: "Dragons Eye lake Rogoznica",
-  },
+    imageHint: "Dragons Eye lake Rogoznica", image: "/poi-images/croatia-dragons-eye-lake-nature-v2.webp"},
   {
     id: "croatia-zlatni-rat-beach-nature-v2",
     type: "landmark",
@@ -359,8 +343,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Insula Brač", "Formă variabilă", "Plajă cu pietriș alb", "Monument geomorfologic"],
       en: ["Brač island", "Shifting shape", "White pebble beach", "Geomorphological monument"],
     },
-    imageHint: "Zlatni Rat beach aerial view",
-  },
+    imageHint: "Zlatni Rat beach aerial view", image: "/poi-images/croatia-zlatni-rat-beach-nature-v2.webp"},
   {
     id: "croatia-blue-lake-imotski-nature-v2",
     type: "lake",
@@ -379,8 +362,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Dolină carstică", "Poate seca", "Lângă Imotski", "Traseu până la apă"],
       en: ["Karst sinkhole", "Can dry out", "Near Imotski", "Walking path to water"],
     },
-    imageHint: "Blue lake Imotski sinkhole",
-  },
+    imageHint: "Blue lake Imotski sinkhole", image: "/poi-images/croatia-blue-lake-imotski-nature-v2.webp"},
   {
     id: "croatia-red-lake-imotski-nature-v2",
     type: "lake",
@@ -399,8 +381,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Adâncime peste 500 m", "Pereți roșiatici", "A treia dolină ca adâncime", "Fenomen carstic"],
       en: ["Depth over 500 m", "Reddish cliffs", "3rd deepest sinkhole globally", "Karst phenomenon"],
     },
-    imageHint: "Red lake Imotski deep hole",
-  }
+    imageHint: "Red lake Imotski deep hole", image: "/poi-images/croatia-red-lake-imotski-nature-v2.webp"}
 ,
   {
     id: "croatia-blue-cave-bisevo-nature-v2",
@@ -438,8 +419,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Înălțime maximă de 1181 metri", "Locul de naștere al alpinismului croat", "Legenda spune că vrăjitoarele se adună pe vârf", "Situat în apropierea orașului Ogulin"],
       en: ["Maximum elevation of 1181 meters", "Cradle of the Croatian mountaineering movement", "Legend claims witches gather on the summit", "Located near the town of Ogulin"],
     },
-    imageHint: "Klek mountain peak sleeping giant shape",
-  },
+    imageHint: "Klek mountain peak sleeping giant shape", image: "/poi-images/croatia-klek-mountain-nature-v2.webp"},
   {
     id: "croatia-krupa-river-nature-v2",
     type: "river",
@@ -457,8 +437,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Are 19 cascade pe o distanță scurtă", "Podul Kudin most a fost construit în secolul XIX", "Curge printr-un canion carstic adânc", "Lungimea totală este de aproximativ 7 kilometri"],
       en: ["Features 19 waterfalls along its short course", "Kudin most bridge was built in the early 19th century", "Flows through a deep limestone canyon", "Total length is only about 7 kilometers"],
     },
-    imageHint: "Krupa river canyon Kudin most bridge",
-  },
+    imageHint: "Krupa river canyon Kudin most bridge", image: "/poi-images/croatia-krupa-river-nature-v2.webp"},
   {
     id: "croatia-stiniva-cove-nature-v2",
     type: "landmark",
@@ -476,8 +455,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Accesul maritim se face printr-o fantă de 4 metri", "Protejat ca monument geomorfologic din 1967", "Situat în apropierea satului Marinje Zemlje", "Plaja cu pietriș este accesibilă prin poteci abrupte"],
       en: ["Seaward entrance is only about 4 meters wide", "Protected geomorphological monument since 1967", "Located near the village of Marinje Zemlje", "The pebble beach is accessible by steep hiking paths"],
     },
-    imageHint: "Stiniva cove Vis island cliffs beach",
-  },
+    imageHint: "Stiniva cove Vis island cliffs beach", image: "/poi-images/croatia-stiniva-cove-nature-v2.webp"},
   {
     id: "croatia-bijele-samarske-rocks-nature-v2",
     type: "park",
@@ -495,8 +473,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Parte a lanțului muntos Velika Kapela", "Cel mai înalt punct atinge 1335 metri", "Cunoscut pentru formațiunea Degetul Împăratului", "Statutul de rezervație strictă interzice orice activitate"],
       en: ["Part of the Velika Kapela mountain range", "Highest point reaches 1335 meters", "Famous for the Emperor's Finger rock formation", "Strict protection status prohibits all economic activity"],
     },
-    imageHint: "Bijele stijene karst rocks Gorski Kotar",
-  },
+    imageHint: "Bijele stijene karst rocks Gorski Kotar", image: "/poi-images/croatia-bijele-samarske-rocks-nature-v2.webp"},
   {
     id: "croatia-bacina-lakes-nature-v2",
     type: "lake",
@@ -514,8 +491,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Șase din cele șapte lacuri sunt conectate", "Adâncimea maximă este de 34 metri", "Conțin un amestec de apă dulce și salubră", "Zonă importantă de cuibărit pentru păsările de mlaștină"],
       en: ["Six of the seven lakes are interconnected", "Maximum depth reaches 34 meters", "Contains a mixture of fresh and brackish water", "Important nesting site for marsh birds"],
     },
-    imageHint: "Bacina lakes aerial view Croatia",
-  },
+    imageHint: "Bacina lakes aerial view Croatia", image: "/poi-images/croatia-bacina-lakes-nature-v2.webp"},
   {
     id: "croatia-mreznica-river-nature-v2",
     type: "river",
@@ -533,8 +509,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Are 93 de cascade distinctive", "Se varsă în râul Korana lângă Karlovac", "Destinație populară pentru caiac și rafting", "Temperatura apei atinge 24 de grade vara"],
       en: ["Features 93 distinct waterfalls", "Joins the Korana river near Karlovac", "Popular destination for kayaking and rafting", "Water temperature reaches 24 degrees in summer"],
     },
-    imageHint: "Mreznica river waterfalls kayaking",
-  },
+    imageHint: "Mreznica river waterfalls kayaking", image: "/poi-images/croatia-mreznica-river-nature-v2.webp"},
   {
     id: "croatia-susak-island-nature-v2",
     type: "island",
@@ -552,8 +527,7 @@ export const croatiaNatureV2: POI[] = [
       ro: ["Straturile de nisip au o grosime de până la 100 metri", "Nu există drumuri asfaltate pe insulă", "Locuitorii poartă costume populare tradiționale scurte", "Face parte din arhipelagul Cres-Lošinj"],
       en: ["Sand layers are up to 100 meters thick", "There are no asphalt roads on the island", "Inhabitants wear traditionally very short folk costumes", "Part of the Cres-Lošinj island group"],
     },
-    imageHint: "Susak island sandy paths yellow loess cliffs",
-  },
+    imageHint: "Susak island sandy paths yellow loess cliffs", image: "/poi-images/croatia-susak-island-nature-v2.webp"},
   {
     id: "croatia-kamacnik-canyon-nature-v2",
     type: "valley",

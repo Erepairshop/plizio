@@ -15,7 +15,7 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       en: ["Elevation: 7,492 meters", "Highest mountain in the country", "Part of the Hindu Kush", "Border mountain with Pakistan"]
     }
   ,
-    factsAdvanced: { multi4: ["Elevation: 7,492 m (24,580 ft)", "First ascent: 1960 by a Japanese team", "First winter ascent: 1973 by a Polish team", "Part of the Hindu Kush mountain range", "Second highest peak in the Hindu Kush", "Located on the Afghanistan-Pakistan border", "The surrounding area is a habitat for snow leopards", "Part of the Wakhan National Park"] }},
+    factsAdvanced: { multi4: ["Elevation: 7,492 m (24,580 ft)", "First ascent: 1960 by a Japanese team", "First winter ascent: 1973 by a Polish team", "Part of the Hindu Kush mountain range", "Second highest peak in the Hindu Kush", "Located on the Afghanistan-Pakistan border", "The surrounding area is a habitat for snow leopards", "Part of the Wakhan National Park"] }, image: "/poi-images/afghanistan-noshaq-nature-v2.webp"},
   {
     id: "afghanistan-hindukusch-nature-v2",
     type: "mountain",
@@ -30,7 +30,7 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       en: ["Over 800 km long", "Separates Central and South Asia", "Highest peaks over 7,000m", "Important watershed"]
     }
   ,
-    factsAdvanced: { multi4: ["Length: Over 800 kilometers (500 miles)", "Highest peak: Tirich Mir (7,708 m)", "Separates the Amu Darya valley from the Indus River valley", "Historically known as the 'Caucasus Indicus'", "Crossed by Alexander the Great in 329 BC", "Source of major rivers like the Helmand, Hari Rud, and Kabul", "Prone to significant seismic activity", "The name translates to 'Killer of Hindus'"] }},
+    factsAdvanced: { multi4: ["Length: Over 800 kilometers (500 miles)", "Highest peak: Tirich Mir (7,708 m)", "Separates the Amu Darya valley from the Indus River valley", "Historically known as the 'Caucasus Indicus'", "Crossed by Alexander the Great in 329 BC", "Source of major rivers like the Helmand, Hari Rud, and Kabul", "Prone to significant seismic activity", "The name translates to 'Killer of Hindus'"] }, image: "/poi-images/afghanistan-hindukusch-nature-v2.webp"},
   {
     id: "afghanistan-pamir-nature-v2",
     type: "mountain",
@@ -45,7 +45,7 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       en: ["Located in the Wakhan Corridor", "Extreme high alpine climate", "Home to rare animal species", "Roof of the World"]
     }
   ,
-    factsAdvanced: { multi4: ["Known as the 'Roof of the World'", "Junction of several major Asian mountain ranges", "Average elevation exceeds 4,000 meters (13,123 ft)", "Afghan portion is mainly in the Wakhan Corridor", "Home to nomadic Kyrgyz and Wakhi people", "Habitat for the Marco Polo sheep", "Lake Zorkul, a major lake, is located here", "Contains extensive glacial systems"] }},
+    factsAdvanced: { multi4: ["Known as the 'Roof of the World'", "Junction of several major Asian mountain ranges", "Average elevation exceeds 4,000 meters (13,123 ft)", "Afghan portion is mainly in the Wakhan Corridor", "Home to nomadic Kyrgyz and Wakhi people", "Habitat for the Marco Polo sheep", "Lake Zorkul, a major lake, is located here", "Contains extensive glacial systems"] }, image: "/poi-images/afghanistan-pamir-nature-v2.webp"},
   {
     id: "afghanistan-wakhan-national-park-nature-v2",
     type: "national-park",
@@ -60,7 +60,7 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       en: ["Afghanistan's second national park", "Protected area for snow leopards", "Established in 2014", "Alpine desert landscape"]
     }
   ,
-    factsAdvanced: { multi4: ["Established on April 3, 2014", "Afghanistan's second national park", "Area: 10,951 square kilometers", "Covers the entire Wakhan District", "Protects over 120 snow leopards", "Home to the Marco Polo sheep and Siberian ibex", "Supports the indigenous Wakhi and Kyrgyz communities", "Connects to protected areas in Tajikistan, Pakistan, and China"] }},
+    factsAdvanced: { multi4: ["Established on April 3, 2014", "Afghanistan's second national park", "Area: 10,951 square kilometers", "Covers the entire Wakhan District", "Protects over 120 snow leopards", "Home to the Marco Polo sheep and Siberian ibex", "Supports the indigenous Wakhi and Kyrgyz communities", "Connects to protected areas in Tajikistan, Pakistan, and China"] }, image: "/poi-images/afghanistan-wakhan-national-park-nature-v2.webp"},
   {
     id: "afghanistan-nuristan-national-park-nature-v2",
     type: "national-park",
@@ -90,7 +90,7 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       en: ["Longest river in Central Asia", "Forms the northern border", "Flows into the Aral Sea", "Historically known as Oxus"]
     }
   ,
-    factsAdvanced: { multi4: ["Ancient name: Oxus River", "Length: Approximately 2,540 km (1,578 miles)", "Forms the border between Afghanistan and several Central Asian countries", "Source: Pamir Mountains, from the confluence of the Vakhsh and Panj rivers", "Historically flowed into the Aral Sea", "Vital for irrigation, especially for cotton crops", "Mentioned in the works of ancient Greek historians", "Its flow has significantly decreased in modern times"] }},
+    factsAdvanced: { multi4: ["Ancient name: Oxus River", "Length: Approximately 2,540 km (1,578 miles)", "Forms the border between Afghanistan and several Central Asian countries", "Source: Pamir Mountains, from the confluence of the Vakhsh and Panj rivers", "Historically flowed into the Aral Sea", "Vital for irrigation, especially for cotton crops", "Mentioned in the works of ancient Greek historians", "Its flow has significantly decreased in modern times"] }, image: "/poi-images/afghanistan-amudarja-nature-v2.webp"},
   {
     id: "afghanistan-helmand-river-nature-v2",
     type: "river",
@@ -105,7 +105,7 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       en: ["Longest inner-Afghan river", "Ends in the Sistan Basin", "Important for agriculture", "Rises near Kabul"]
     }
   ,
-    factsAdvanced: { multi4: ["Length: 1,150 km (715 miles)", "Longest river entirely within Afghanistan", "Source: Koh-e Baba range of the Hindu Kush", "Mouth: Hamun Lake in the Sistan Basin", "The Kajaki Dam is a major hydroelectric station on the river", "Main tributary is the Arghandab River", "Crucial for agriculture in southern Afghanistan", "Water rights are a point of dispute with Iran"] }},
+    factsAdvanced: { multi4: ["Length: 1,150 km (715 miles)", "Longest river entirely within Afghanistan", "Source: Koh-e Baba range of the Hindu Kush", "Mouth: Hamun Lake in the Sistan Basin", "The Kajaki Dam is a major hydroelectric station on the river", "Main tributary is the Arghandab River", "Crucial for agriculture in southern Afghanistan", "Water rights are a point of dispute with Iran"] }, image: "/poi-images/afghanistan-helmand-river-nature-v2.webp"},
   {
     id: "afghanistan-hari-rud-nature-v2",
     type: "river",

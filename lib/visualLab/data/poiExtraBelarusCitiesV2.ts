@@ -31,8 +31,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-minsk-cities-v2.webp"},
   {
     id: "belarus-gomel-cities-v2",
     type: "city",
@@ -63,8 +62,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-gomel-cities-v2.webp"},
   {
     id: "belarus-mogilev-cities-v2",
     type: "city",
@@ -95,8 +93,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-mogilev-cities-v2.webp"},
   {
     id: "belarus-vitebsk-cities-v2",
     type: "city",
@@ -127,8 +124,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-vitebsk-cities-v2.webp"},
   {
     id: "belarus-grodno-cities-v2",
     type: "city",
@@ -159,8 +155,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-grodno-cities-v2.webp"},
   {
     id: "belarus-babruysk-cities-v2",
     type: "city",
@@ -191,8 +186,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-babruysk-cities-v2.webp"},
   {
     id: "belarus-baranovichi-cities-v2",
     type: "city",
@@ -223,8 +217,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-baranovichi-cities-v2.webp"},
   {
     id: "belarus-barysaw-cities-v2",
     type: "city",
@@ -255,8 +248,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-barysaw-cities-v2.webp"},
   {
     id: "belarus-pinsk-cities-v2",
     type: "city",
@@ -287,8 +279,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-pinsk-cities-v2.webp"},
   {
     id: "belarus-orsha-cities-v2",
     type: "city",
@@ -319,8 +310,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-orsha-cities-v2.webp"},
   {
     id: "belarus-mozyr-cities-v2",
     type: "city",
@@ -351,8 +341,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-mozyr-cities-v2.webp"},
   {
     id: "belarus-soligorsk-cities-v2",
     type: "city",
@@ -383,8 +372,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-soligorsk-cities-v2.webp"},
   {
     id: "belarus-lida-cities-v2",
     type: "city",
@@ -415,8 +403,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-lida-cities-v2.webp"},
   {
     id: "belarus-novopolotsk-cities-v2",
     type: "city",
@@ -447,8 +434,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-novopolotsk-cities-v2.webp"},
   {
     id: "belarus-maladzyechna-cities-v2",
     type: "city",
@@ -479,8 +465,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-maladzyechna-cities-v2.webp"},
   {
     id: "belarus-polotsk-cities-v2",
     type: "city",
@@ -511,8 +496,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-polotsk-cities-v2.webp"},
   {
     id: "belarus-zhlobin-cities-v2",
     type: "city",
@@ -543,8 +527,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-zhlobin-cities-v2.webp"},
   {
     id: "belarus-svetlogorsk-cities-v2",
     type: "city",
@@ -575,8 +558,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-svetlogorsk-cities-v2.webp"},
   {
     id: "belarus-rechitsa-cities-v2",
     type: "city",
@@ -607,8 +589,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-rechitsa-cities-v2.webp"},
   {
     id: "belarus-slutsk-cities-v2",
     type: "city",
@@ -639,8 +620,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-slutsk-cities-v2.webp"},
   {
     id: "belarus-zhodzina-cities-v2",
     type: "city",
@@ -671,8 +651,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-zhodzina-cities-v2.webp"},
   {
     id: "belarus-slonim-cities-v2",
     type: "city",
@@ -703,8 +682,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-slonim-cities-v2.webp"},
   {
     id: "belarus-kobrin-cities-v2",
     type: "city",
@@ -735,8 +713,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-kobrin-cities-v2.webp"},
   {
     id: "belarus-vawkavysk-cities-v2",
     type: "city",
@@ -767,8 +744,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-vawkavysk-cities-v2.webp"},
   {
     id: "belarus-kalinkavichy-cities-v2",
     type: "city",
@@ -799,8 +775,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-kalinkavichy-cities-v2.webp"},
   {
     id: "belarus-smarhon-cities-v2",
     type: "city",
@@ -831,8 +806,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-smarhon-cities-v2.webp"},
   {
     id: "belarus-rahachow-cities-v2",
     type: "city",
@@ -863,8 +837,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-rahachow-cities-v2.webp"},
   {
     id: "belarus-asipovichy-cities-v2",
     type: "city",
@@ -895,8 +868,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-asipovichy-cities-v2.webp"},
   {
     id: "belarus-horki-cities-v2",
     type: "city",
@@ -927,8 +899,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-horki-cities-v2.webp"},
   {
     id: "belarus-navahrudak-cities-v2",
     type: "city",
@@ -959,8 +930,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-navahrudak-cities-v2.webp"},
   {
     id: "belarus-vileyka-cities-v2",
     type: "city",
@@ -991,8 +961,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-vileyka-cities-v2.webp"},
   {
     id: "belarus-byaroza-cities-v2",
     type: "city",
@@ -1023,8 +992,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-byaroza-cities-v2.webp"},
   {
     id: "belarus-krychaw-cities-v2",
     type: "city",
@@ -1055,8 +1023,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-krychaw-cities-v2.webp"},
   {
     id: "belarus-dzyarzhynsk-cities-v2",
     type: "city",
@@ -1087,8 +1054,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-dzyarzhynsk-cities-v2.webp"},
   {
     id: "belarus-ivatsevichy-cities-v2",
     type: "city",
@@ -1119,8 +1085,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-ivatsevichy-cities-v2.webp"},
   {
     id: "belarus-luninyets-cities-v2",
     type: "city",
@@ -1151,8 +1116,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-luninyets-cities-v2.webp"},
   {
     id: "belarus-maryina-horka-cities-v2",
     type: "city",
@@ -1183,8 +1147,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-maryina-horka-cities-v2.webp"},
   {
     id: "belarus-pastavy-cities-v2",
     type: "city",
@@ -1215,8 +1178,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-pastavy-cities-v2.webp"},
   {
     id: "belarus-pruzhany-cities-v2",
     type: "city",
@@ -1247,8 +1209,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-pruzhany-cities-v2.webp"},
   {
     id: "belarus-dobrush-cities-v2",
     type: "city",
@@ -1279,8 +1240,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-dobrush-cities-v2.webp"},
   {
     id: "belarus-hlybokaye-cities-v2",
     type: "city",
@@ -1312,8 +1272,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-hlybokaye-cities-v2.webp"},
   {
     id: "belarus-stowbtsy-cities-v2",
     type: "city",
@@ -1376,8 +1335,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-lepel-cities-v2.webp"},
   {
     id: "belarus-bykhaw-cities-v2",
     type: "city",
@@ -1408,8 +1366,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-bykhaw-cities-v2.webp"},
   {
     id: "belarus-ivanava-cities-v2",
     type: "city",
@@ -1440,8 +1397,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-ivanava-cities-v2.webp"},
   {
     id: "belarus-shklow-cities-v2",
     type: "city",
@@ -1472,8 +1428,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-shklow-cities-v2.webp"},
   {
     id: "belarus-zhitkavichy-cities-v2",
     type: "city",
@@ -1504,8 +1459,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-zhitkavichy-cities-v2.webp"},
   {
     id: "belarus-lyuban-cities-v2",
     type: "city",
@@ -1536,8 +1490,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-lyuban-cities-v2.webp"},
   {
     id: "belarus-hantsavichy-cities-v2",
     type: "city",
@@ -1568,8 +1521,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-hantsavichy-cities-v2.webp"},
   {
     id: "belarus-fanipol-cities-v2",
     type: "city",
@@ -1600,8 +1552,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-fanipol-cities-v2.webp"},
   {
     id: "belarus-masty-cities-v2",
     type: "city",
@@ -1632,8 +1583,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-masty-cities-v2.webp"},
   {
     id: "belarus-vyetka-cities-v2",
     type: "city",
@@ -1664,8 +1614,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-vyetka-cities-v2.webp"},
   {
     id: "belarus-mikashevichy-cities-v2",
     type: "city",
@@ -1696,8 +1645,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-mikashevichy-cities-v2.webp"},
   {
     id: "belarus-byerazino-cities-v2",
     type: "city",
@@ -1728,8 +1676,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-byerazino-cities-v2.webp"},
   {
     id: "belarus-skidal-cities-v2",
     type: "city",
@@ -1760,8 +1707,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-skidal-cities-v2.webp"},
   {
     id: "belarus-pyetrykaw-cities-v2",
     type: "city",
@@ -1792,8 +1738,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-pyetrykaw-cities-v2.webp"},
   {
     id: "belarus-chavusy-cities-v2",
     type: "city",
@@ -1824,8 +1769,7 @@ export const belarusCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-chavusy-cities-v2.webp"},
   {
     id: "belarus-kastsyukovichy-cities-v2",
     type: "city",

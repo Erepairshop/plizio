@@ -19,8 +19,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2740 metri", "Al doilea vârf ca înălțime", "Munții Alpii Julieni", "Numele înseamnă Muntele Stacojiu"],
       en: ["Elevation: 2,740 meters", "Second highest peak", "Julian Alps range", "Name means Scarlet Mountain"],
     },
-    imageHint: "Skrlatica mountain summit Julian Alps",
-  },
+    imageHint: "Skrlatica mountain summit Julian Alps", image: "/poi-images/slovenia-skrlatica-relief-v2.webp"},
   {
     id: "slovenia-mangart-relief-v2",
     type: "peak",
@@ -39,8 +38,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2679 metri", "Cea mai înaltă șosea din țară", "Munte de frontieră cu Italia", "Al treilea vârf ca înălțime"],
       en: ["Elevation: 2,679 meters", "Highest road in Slovenia", "Border peak with Italy", "Third highest peak"],
     },
-    imageHint: "Mangart mountain peak and saddle",
-  },
+    imageHint: "Mangart mountain peak and saddle", image: "/poi-images/slovenia-mangart-relief-v2.webp"},
   {
     id: "slovenia-jalovec-relief-v2",
     type: "peak",
@@ -59,8 +57,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2645 metri", "Simbolul asociației montane", "Formă de piramidă cristalină", "Munții Alpii Julieni"],
       en: ["Elevation: 2,645 meters", "Alpine Association symbol", "Crystalline pyramid shape", "Julian Alps"],
     },
-    imageHint: "Jalovec mountain peak Slovenia",
-  },
+    imageHint: "Jalovec mountain peak Slovenia", image: "/poi-images/slovenia-jalovec-relief-v2.webp"},
   {
     id: "slovenia-grintovec-relief-v2",
     type: "peak",
@@ -79,8 +76,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2558 metri", "Cel mai înalt din Alpii Kamnik", "Trasee populare de drumeție", "La nord de Ljubljana"],
       en: ["Elevation: 2,558 meters", "Highest in Kamnik Alps", "Popular hiking destination", "North of Ljubljana"],
     },
-    imageHint: "Grintovec mountain peak Kamnik Alps",
-  },
+    imageHint: "Grintovec mountain peak Kamnik Alps", image: "/poi-images/slovenia-grintovec-relief-v2.webp"},
   {
     id: "slovenia-stol-relief-v2",
     type: "peak",
@@ -99,8 +95,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2236 metri", "Cel mai înalt din Karawanks", "Munte de frontieră cu Austria", "Cabana Prešeren lângă vârf"],
       en: ["Elevation: 2,236 meters", "Highest in Karawanks", "Border peak with Austria", "Preseren Hut near summit"],
     },
-    imageHint: "Stol mountain Karawanks",
-  },
+    imageHint: "Stol mountain Karawanks", image: "/poi-images/slovenia-stol-relief-v2.webp"},
   {
     id: "slovenia-vogel-relief-v2",
     type: "peak",
@@ -119,8 +114,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 1922 metri", "Stațiune de schi la Bohinj", "Parte din Parcul Triglav", "Vedere spre vârful Triglav"],
       en: ["Elevation: 1,922 meters", "Ski resort above Bohinj", "Part of Triglav National Park", "View of Mount Triglav"],
     },
-    imageHint: "Vogel mountain ski resort Slovenia",
-  },
+    imageHint: "Vogel mountain ski resort Slovenia", image: "/poi-images/slovenia-vogel-relief-v2.webp"},
   {
     id: "slovenia-krn-relief-v2",
     type: "peak",
@@ -139,8 +133,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2244 metri", "Câmp de luptă în WWI", "Deasupra văii Soča", "Versant sud-vestic abrupt"],
       en: ["Elevation: 2,244 meters", "WWI battlefield site", "Above the Soča Valley", "Distinctive southwest flank"],
     },
-    imageHint: "Krn mountain peak Soca valley",
-  },
+    imageHint: "Krn mountain peak Soca valley", image: "/poi-images/slovenia-krn-relief-v2.webp"},
   {
     id: "slovenia-smarna-gora-relief-v2",
     type: "peak",
@@ -159,8 +152,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 669 metri", "Muntele local al Ljubljana", "Biserică barocă pe vârf", "Clopotul sună la 11:30"],
       en: ["Elevation: 669 meters", "Ljubljana's local mountain", "Baroque church on summit", "Bell rings at 11:30 AM"],
     },
-    imageHint: "Smarna gora mountain Ljubljana view",
-  },
+    imageHint: "Smarna gora mountain Ljubljana view", image: "/poi-images/slovenia-smarna-gora-relief-v2.webp"},
   {
     id: "slovenia-pokljuka-relief-v2",
     type: "mountain",
@@ -179,8 +171,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 1100–1400 m", "Centru de biatlon", "Păduri de molid și mlaștini", "Poarta către Triglav"],
       en: ["Elevation: 1,100–1,400 m", "Biathlon center", "Spruce forests and bogs", "Gateway to Mount Triglav"],
     },
-    imageHint: "Pokljuka plateau forest snow",
-  },
+    imageHint: "Pokljuka plateau forest snow", image: "/poi-images/slovenia-pokljuka-relief-v2.webp"},
   {
     id: "slovenia-jelovica-relief-v2",
     type: "mountain",
@@ -199,8 +190,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: cca. 1100 m", "Platou carstic împădurit", "La sud de Bled", "Zonă de protecție a păsărilor"],
       en: ["Elevation: approx. 1,100 m", "Wooded karst plateau", "South of Bled", "Special protection area for birds"],
     },
-    imageHint: "Jelovica plateau forest landscape",
-  },
+    imageHint: "Jelovica plateau forest landscape", image: "/poi-images/slovenia-jelovica-relief-v2.webp"},
   {
     id: "slovenia-nanos-relief-v2",
     type: "mountain",
@@ -219,8 +209,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Punct maxim: 1313 metri", "Releu de televiziune pe vârf", "Cunoscut pentru vântul Burja", "Formațiune de calcar"],
       en: ["Highest point: 1,313 meters", "Prominent TV transmitter", "Known for Burja winds", "Limestone formation"],
     },
-    imageHint: "Nanos plateau steep slopes Slovenia",
-  },
+    imageHint: "Nanos plateau steep slopes Slovenia", image: "/poi-images/slovenia-nanos-relief-v2.webp"},
   {
     id: "slovenia-slavnik-relief-v2",
     type: "peak",
@@ -239,8 +228,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 1028 metri", "Vedere spre Marea Mediterană", "Popular pentru cicliști", "Parte din Munții Čičarija"],
       en: ["Elevation: 1,028 meters", "View of the Mediterranean", "Popular with mountain bikers", "Part of the Cicarija range"],
     },
-    imageHint: "Slavnik mountain summit view",
-  },
+    imageHint: "Slavnik mountain summit view", image: "/poi-images/slovenia-slavnik-relief-v2.webp"},
   {
     id: "slovenia-ojstrica-relief-v2",
     type: "peak",
@@ -259,8 +247,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2350 metri", "Deasupra văii Logar", "Formă de piramidă", "Destinație pentru alpiniști"],
       en: ["Elevation: 2,350 meters", "Above the Logar Valley", "Pyramidal shape", "Popular alpine destination"],
     },
-    imageHint: "Ojstrica mountain peak Logar Valley",
-  },
+    imageHint: "Ojstrica mountain peak Logar Valley", image: "/poi-images/slovenia-ojstrica-relief-v2.webp"},
   {
     id: "slovenia-raduha-relief-v2",
     type: "peak",
@@ -279,8 +266,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2062 metri", "Peștera de Zăpadă situată aici", "Munții Alpii Kamnik", "Vedere spre Valea Savinja"],
       en: ["Elevation: 2,062 meters", "Snow Cave on its slope", "Kamnik–Savinja Alps", "Panoramic view of Savinja"],
     },
-    imageHint: "Raduha mountain peak Slovenia",
-  },
+    imageHint: "Raduha mountain peak Slovenia", image: "/poi-images/slovenia-raduha-relief-v2.webp"},
   {
     id: "slovenia-gorjanci-relief-v2",
     type: "mountain",
@@ -299,8 +285,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Punct maxim: 1178 metri", "Munte de frontieră", "Păduri dese de fag", "Vârful Trdinov"],
       en: ["Highest point: 1,178 meters", "Border range with Croatia", "Dense beech forests", "Trdinov vrh summit"],
     },
-    imageHint: "Gorjanci mountains forest trail",
-  },
+    imageHint: "Gorjanci mountains forest trail", image: "/poi-images/slovenia-gorjanci-relief-v2.webp"},
   {
     id: "slovenia-haloze-relief-v2",
     type: "mountain",
@@ -319,8 +304,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Relief deluros", "Regiune viticolă celebră", "Podgorii abrupte", "Slovenia de Est"],
       en: ["Hilly relief", "Famous wine region", "Steep vineyards", "Eastern Slovenia"],
     },
-    imageHint: "Haloze hills vineyards Slovenia",
-  },
+    imageHint: "Haloze hills vineyards Slovenia", image: "/poi-images/slovenia-haloze-relief-v2.webp"},
   {
     id: "slovenia-slovenske-gorice-relief-v2",
     type: "mountain",
@@ -339,8 +323,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Cea mai întinsă zonă deluroasă", "Între Mura și Drava", "Regiune agricolă", "Lanțuri de dealuri joase"],
       en: ["Largest hilly area", "Between Mura and Drava", "Agricultural landscape", "Low hill chains"],
     },
-    imageHint: "Slovenske gorice hills landscape",
-  },
+    imageHint: "Slovenske gorice hills landscape", image: "/poi-images/slovenia-slovenske-gorice-relief-v2.webp"},
   {
     id: "slovenia-cerknisko-polje-relief-v2",
     type: "valley",
@@ -359,8 +342,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Polje carstic", "Lac intermitent", "Carstul dinaric", "Hidrologie unică"],
       en: ["Karst polje", "Intermittent lake", "Dinaric karst region", "Unique hydrology"],
     },
-    imageHint: "Cerknica plain karst landscape",
-  },
+    imageHint: "Cerknica plain karst landscape", image: "/poi-images/slovenia-cerknisko-polje-relief-v2.webp"},
   {
     id: "slovenia-planinsko-polje-relief-v2",
     type: "valley",
@@ -379,8 +361,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Polje carstic", "Râul Unica cu meandre", "Inundații regulate", "Sit Natura 2000"],
       en: ["Karst polje", "Meandering Unica river", "Regular flooding", "Natura 2000 site"],
     },
-    imageHint: "Planina plain karst field Unica river",
-  },
+    imageHint: "Planina plain karst field Unica river", image: "/poi-images/slovenia-planinsko-polje-relief-v2.webp"},
   {
     id: "slovenia-prisojnik-relief-v2",
     type: "peak",
@@ -399,8 +380,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2547 metri", "Chipul Fetei Păgâne", "Fereastră naturală în stâncă", "Munții Alpii Julieni"],
       en: ["Elevation: 2,547 meters", "Heathen Maiden rock face", "Natural rock window", "Julian Alps"],
     },
-    imageHint: "Prisojnik mountain Heathen Maiden face",
-  },
+    imageHint: "Prisojnik mountain Heathen Maiden face", image: "/poi-images/slovenia-prisojnik-relief-v2.webp"},
   {
     id: "slovenia-razor-relief-v2",
     type: "peak",
@@ -419,8 +399,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 2601 metri", "Vârf central", "Munții Alpii Julieni", "Deasupra văii Trenta"],
       en: ["Elevation: 2,601 meters", "Central mountain peak", "Julian Alps range", "Above the Trenta Valley"],
     },
-    imageHint: "Razor mountain peak Julian Alps",
-  },
+    imageHint: "Razor mountain peak Julian Alps", image: "/poi-images/slovenia-razor-relief-v2.webp"},
   {
     id: "slovenia-krim-relief-v2",
     type: "peak",
@@ -439,8 +418,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: 1107 metri", "La sud de Ljubljana", "Releu important de emisie", "Vedere spre mlaștină"],
       en: ["Elevation: 1,107 meters", "South of Ljubljana", "Important transmitter site", "View of the marshes"],
     },
-    imageHint: "Krim mountain peak Ljubljana",
-  },
+    imageHint: "Krim mountain peak Ljubljana", image: "/poi-images/slovenia-krim-relief-v2.webp"},
   {
     id: "slovenia-menina-planina-relief-v2",
     type: "mountain",
@@ -459,8 +437,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Altitudine: cca. 1500 m", "Platou carstic", "Vârful Vivodnik", "Economie pastorală"],
       en: ["Elevation: approx. 1,500 m", "Karst plateau", "Vivodnik peak", "Alpine farming"],
     },
-    imageHint: "Menina planina plateau landscape",
-  },
+    imageHint: "Menina planina plateau landscape", image: "/poi-images/slovenia-menina-planina-relief-v2.webp"},
   {
     id: "slovenia-goricko-relief-v2",
     type: "mountain",
@@ -479,8 +456,7 @@ export const sloveniaReliefV2: POI[] = [
       ro: ["Peisaj deluros", "Nord-estul Sloveniei", "Parc natural", "Punct maxim: 418 metri"],
       en: ["Hilly landscape", "Northeastern Slovenia", "Landscape park", "Highest point: 418 meters"],
     },
-    imageHint: "Goricko hills landscape Slovenia",
-  },
+    imageHint: "Goricko hills landscape Slovenia", image: "/poi-images/slovenia-goricko-relief-v2.webp"},
   {
     id: "slovenia-kolovrat-relief-v2",
     type: "mountain",

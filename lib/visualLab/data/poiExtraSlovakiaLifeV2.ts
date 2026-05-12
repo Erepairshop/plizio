@@ -19,8 +19,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondat în anul 1978", "Suprafață de 728 kilometri pătrați", "Cel mai înalt punct este Ďumbier la 2043 m", "Include sistemul de peșteri Demänová"],
       en: ["Established in 1978", "Area of 728 square kilometers", "Highest point is Ďumbier at 2043 m", "Contains the Demänová cave system"],
     },
-    imageHint: "Low Tatras mountains landscape",
-  },
+    imageHint: "Low Tatras mountains landscape", image: "/poi-images/slovakia-low-tatras-national-park-life-v2.webp"},
   {
     id: "slovakia-slovak-paradise-national-park-life-v2",
     type: "park",
@@ -39,8 +38,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondat în anul 1988", "Format din 11 chei", "Peste 300 de kilometri de trasee", "Găzduiește peștera de gheață Dobšiná"],
       en: ["Established in 1988", "Consists of 11 gorges", "Over 300 kilometers of hiking trails", "Home to the Dobšiná Ice Cave"],
     },
-    imageHint: "Wooden bridges in Slovak Paradise gorge",
-  },
+    imageHint: "Wooden bridges in Slovak Paradise gorge", image: "/poi-images/slovakia-slovak-paradise-national-park-life-v2.webp"},
   {
     id: "slovakia-mala-fatra-national-park-life-v2",
     type: "park",
@@ -59,8 +57,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondat în anul 1988", "Suprafață de 226 kilometri pătrați", "Cel mai înalt vârf este Veľký Kriváň (1709 m)", "Cunoscut pentru cheile Jánošíkove diery"],
       en: ["Established in 1988", "Area of 226 square kilometers", "Highest peak is Veľký Kriváň (1709 m)", "Known for the Jánošík Gorges"],
     },
-    imageHint: "Malá Fatra mountain ridge",
-  },
+    imageHint: "Malá Fatra mountain ridge", image: "/poi-images/slovakia-mala-fatra-national-park-life-v2.webp"},
   {
     id: "slovakia-muranska-planina-national-park-life-v2",
     type: "park",
@@ -79,8 +76,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondat în anul 1997", "Conține peste 1150 de peșteri și abisuri", "Cunoscut pentru creșterea cailor Noriker", "Singurul habitat al plantei Daphne arbuscula"],
       en: ["Established in 1997", "Contains over 1150 caves and pits", "Known for breeding Noriker horses", "Only home to the Muráň daphne plant"],
     },
-    imageHint: "Muránska planina karst plateau",
-  },
+    imageHint: "Muránska planina karst plateau", image: "/poi-images/slovakia-muranska-planina-national-park-life-v2.webp"},
   {
     id: "slovakia-poloniny-national-park-life-v2",
     type: "park",
@@ -99,8 +95,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondat în anul 1997", "Patrimoniu Mondial UNESCO din 2007", "Prezența zimbrilor în sălbăticie", "Parc de cer înstelat cu poluare luminoasă redusă"],
       en: ["Established in 1997", "UNESCO World Heritage since 2007", "Presence of European bison in the wild", "Dark sky park with low light pollution"],
     },
-    imageHint: "Primeval beech forest in Poloniny",
-  },
+    imageHint: "Primeval beech forest in Poloniny", image: "/poi-images/slovakia-poloniny-national-park-life-v2.webp"},
   {
     id: "slovakia-slovak-karst-national-park-life-v2",
     type: "park",
@@ -119,8 +114,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondat în anul 2002", "Peste 1350 de peșteri înregistrate", "Rezervație a Biosferei UNESCO din 1977", "Suprafață de 346 kilometri pătrați"],
       en: ["Established in 2002", "Over 1350 registered caves", "UNESCO Biosphere Reserve since 1977", "Area of 346 square kilometers"],
     },
-    imageHint: "Karst landscape in Slovakia",
-  },
+    imageHint: "Karst landscape in Slovakia", image: "/poi-images/slovakia-slovak-karst-national-park-life-v2.webp"},
   {
     id: "slovakia-velka-fatra-national-park-life-v2",
     type: "park",
@@ -139,8 +133,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondat în anul 2002", "Suprafață de 403 kilometri pătrați", "Cel mai înalt punct este Ostredok (1596 m)", "Cea mai importantă ocurență a tisului european"],
       en: ["Established in 2002", "Area of 403 square kilometers", "Highest point is Ostredok (1596 m)", "Most important occurrence of European yew"],
     },
-    imageHint: "Veľká Fatra mountain meadows",
-  },
+    imageHint: "Veľká Fatra mountain meadows", image: "/poi-images/slovakia-velka-fatra-national-park-life-v2.webp"},
   {
     id: "slovakia-bojnice-zoo-life-v2",
     type: "wildlife",
@@ -159,8 +152,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Deschisă în anul 1955", "Suprafață de 41 de hectare", "Găzduiește peste 430 de specii de animale", "Deține o turmă importantă de elefanți"],
       en: ["Opened in 1955", "Area of 41 hectares", "Home to over 430 animal species", "Has a significant elephant herd"],
     },
-    imageHint: "Elephants in Bojnice Zoo",
-  },
+    imageHint: "Elephants in Bojnice Zoo", image: "/poi-images/slovakia-bojnice-zoo-life-v2.webp"},
   {
     id: "slovakia-bratislava-zoo-life-v2",
     type: "wildlife",
@@ -179,8 +171,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Deschisă în anul 1960", "Suprafață de 96 de hectare", "Adăpostește un Dinopark", "Centru pentru creșterea tigrilor albi"],
       en: ["Opened in 1960", "Area of 96 hectares", "Houses a Dinopark", "Center for breeding white tigers"],
     },
-    imageHint: "Tigers in Bratislava Zoo",
-  },
+    imageHint: "Tigers in Bratislava Zoo", image: "/poi-images/slovakia-bratislava-zoo-life-v2.webp"},
   {
     id: "slovakia-kosice-zoo-life-v2",
     type: "wildlife",
@@ -199,8 +190,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Deschisă în anul 1985", "Suprafață totală de 288 de hectare", "Specializată pe fauna eurasiatică", "Cea mai mare incintă pentru urși din Europa Centrală"],
       en: ["Opened in 1985", "Total area of 288 hectares", "Specialized in Eurasian fauna", "Largest bear enclosure in Central Europe"],
     },
-    imageHint: "Bears in Košice Zoo enclosure",
-  },
+    imageHint: "Bears in Košice Zoo enclosure", image: "/poi-images/slovakia-kosice-zoo-life-v2.webp"},
   {
     id: "slovakia-mlynany-arboretum-life-v2",
     type: "park",
@@ -219,8 +209,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondat în anul 1892", "Suprafață de 67 de hectare", "Peste 2300 de specii de plante lemnoase", "Cunoscut pentru flora sa est-asiatică"],
       en: ["Established in 1892", "Area of 67 hectares", "Over 2300 different woody species", "Known for its East Asian flora"],
     },
-    imageHint: "Arboretum Mlyňany botanical garden",
-  },
+    imageHint: "Arboretum Mlyňany botanical garden", image: "/poi-images/slovakia-mlynany-arboretum-life-v2.webp"},
   {
     id: "slovakia-topolcianky-bison-park-life-v2",
     type: "wildlife",
@@ -239,8 +228,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondată în anul 1958", "Suprafață de 140 de hectare", "A contribuit la salvarea speciei", "Situată lângă Topoľčianky"],
       en: ["Established in 1958", "Area of 140 hectares", "Contributed to the rescue of the species", "Located near Topoľčianky"],
     },
-    imageHint: "European bison in forest enclosure",
-  },
+    imageHint: "European bison in forest enclosure", image: "/poi-images/slovakia-topolcianky-bison-park-life-v2.webp"},
   {
     id: "slovakia-morske-oko-lake-life-v2",
     type: "lake",
@@ -259,8 +247,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Suprafață de 13,8 hectare", "Situat la 618 m altitudine", "Adâncimea maximă este de 25 de metri", "Rezervație naturală națională"],
       en: ["Area of 13.8 hectares", "Located at 618 m elevation", "Maximum depth is 25 meters", "National nature reserve"],
     },
-    imageHint: "Morské oko lake in Vihorlat forest",
-  },
+    imageHint: "Morské oko lake in Vihorlat forest", image: "/poi-images/slovakia-morske-oko-lake-life-v2.webp"},
   {
     id: "slovakia-sur-nature-reserve-life-v2",
     type: "park",
@@ -279,8 +266,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondată în anul 1952", "Suprafață de 6,5 kilometri pătrați", "Sit Ramsar de importanță internațională", "Prezența plantelor rare de mlaștină"],
       en: ["Established in 1952", "Area of 6.5 square kilometers", "Ramsar site of international importance", "Presence of rare bog plants"],
     },
-    imageHint: "Alder fen forest in Šúr",
-  },
+    imageHint: "Alder fen forest in Šúr", image: "/poi-images/slovakia-sur-nature-reserve-life-v2.webp"},
   {
     id: "slovakia-devinska-kobyla-life-v2",
     type: "park",
@@ -299,8 +285,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Punctul maxim 514 m", "Sandberg conține peste 300 de specii de fosile", "Prezența a 25 de specii de orhidee", "Parte a Ariei Protejate Carpații Mici"],
       en: ["Highest point 514 m", "Sandberg contains over 300 fossil species", "Presence of 25 orchid species", "Part of the Small Carpathians Protected Area"],
     },
-    imageHint: "Sandberg fossils on Devínska Kobyla",
-  },
+    imageHint: "Sandberg fossils on Devínska Kobyla", image: "/poi-images/slovakia-devinska-kobyla-life-v2.webp"},
   {
     id: "slovakia-latorica-protected-area-life-v2",
     type: "park",
@@ -319,8 +304,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondată în anul 1990", "Suprafață de 156 kilometri pătrați", "Zonă umedă importantă (Ramsar)", "Habitat pentru broasca țestoasă de baltă"],
       en: ["Established in 1990", "Area of 156 square kilometers", "Important wetland (Ramsar)", "Habitat for the European pond turtle"],
     },
-    imageHint: "Latorica river and wetlands",
-  },
+    imageHint: "Latorica river and wetlands", image: "/poi-images/slovakia-latorica-protected-area-life-v2.webp"},
   {
     id: "slovakia-danube-floodplains-life-v2",
     type: "park",
@@ -339,8 +323,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondată în anul 1998", "Suprafață de 122 kilometri pătrați", "Compusă din cinci secțiuni separate", "Adăpostește vulturul codalb"],
       en: ["Established in 1998", "Area of 122 square kilometers", "Consists of five separate parts", "Home to the white-tailed eagle"],
     },
-    imageHint: "Danube river floodplain forest",
-  },
+    imageHint: "Danube river floodplain forest", image: "/poi-images/slovakia-danube-floodplains-life-v2.webp"},
   {
     id: "slovakia-polana-protected-area-life-v2",
     type: "park",
@@ -359,8 +342,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Cel mai înalt vârf Poľana (1458 m)", "Rezervație a Biosferei UNESCO din 1990", "Diametrul caldeirei este de cca. 6 km", "Bogat în cerbi și urși"],
       en: ["Highest peak Poľana (1458 m)", "UNESCO Biosphere Reserve since 1990", "Diameter of the caldera approx. 6 km", "Rich in red deer and bears"],
     },
-    imageHint: "Poľana mountain forest landscape",
-  },
+    imageHint: "Poľana mountain forest landscape", image: "/poi-images/slovakia-polana-protected-area-life-v2.webp"},
   {
     id: "slovakia-kysuce-protected-area-life-v2",
     type: "park",
@@ -379,8 +361,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondată în anul 1984", "Suprafață de 655 kilometri pătrați", "Cunoscută pentru formațiunile de gresie", "Habitat pentru ursul brun și lup"],
       en: ["Established in 1984", "Area of 655 square kilometers", "Known for sandstone formations", "Home to brown bears and wolves"],
     },
-    imageHint: "Kysuce mountain village and meadows",
-  },
+    imageHint: "Kysuce mountain village and meadows", image: "/poi-images/slovakia-kysuce-protected-area-life-v2.webp"},
   {
     id: "slovakia-horna-orava-protected-area-life-v2",
     type: "park",
@@ -399,8 +380,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondată în anul 1979", "Suprafață de 587 kilometri pătrați", "Conține mlaștini de turbă valoroase", "Loc important de popas pentru păsări"],
       en: ["Established in 1979", "Area of 587 square kilometers", "Contains valuable raised bogs", "Important resting place for migratory birds"],
     },
-    imageHint: "Orava reservoir with mountains",
-  },
+    imageHint: "Orava reservoir with mountains", image: "/poi-images/slovakia-horna-orava-protected-area-life-v2.webp"},
   {
     id: "slovakia-male-karpaty-protected-area-life-v2",
     type: "park",
@@ -419,8 +399,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondată în anul 1976", "Suprafață de 646 kilometri pătrați", "Cel mai înalt vârf Záruby (768 m)", "Numeroase castele și ruine"],
       en: ["Established in 1976", "Area of 646 square kilometers", "Highest peak Záruby (768 m)", "Numerous castles and ruins"],
     },
-    imageHint: "Small Carpathians forest and vineyard",
-  },
+    imageHint: "Small Carpathians forest and vineyard", image: "/poi-images/slovakia-male-karpaty-protected-area-life-v2.webp"},
   {
     id: "slovakia-vihorlat-protected-area-life-v2",
     type: "park",
@@ -439,8 +418,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondată în anul 1973", "Suprafață de 149 kilometri pătrați", "Parte din patrimoniul UNESCO al pădurilor de fag", "Cel mai înalt punct Vihorlat (1076 m)"],
       en: ["Established in 1973", "Area of 149 square kilometers", "Part of the UNESCO beech forest heritage", "Highest point Vihorlat (1076 m)"],
     },
-    imageHint: "Vihorlat mountains forest",
-  },
+    imageHint: "Vihorlat mountains forest", image: "/poi-images/slovakia-vihorlat-protected-area-life-v2.webp"},
   {
     id: "slovakia-badin-primeval-forest-life-v2",
     type: "forest",
@@ -459,8 +437,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondată în anul 1913", "Zonă centrală de cca. 30 de hectare", "Prezența unor brazi albi uriași", "Vizitarea este permisă doar cu ghid"],
       en: ["Established in 1913", "Core area of approx. 30 hectares", "Presence of giant silver firs", "Visiting allowed only with a guide"],
     },
-    imageHint: "Old growth forest in Badín",
-  },
+    imageHint: "Old growth forest in Badín", image: "/poi-images/slovakia-badin-primeval-forest-life-v2.webp"},
   {
     id: "slovakia-dobroc-primeval-forest-life-v2",
     type: "forest",
@@ -479,8 +456,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fondată în anul 1913", "Suprafață de 104 hectare", "Brazii au atins aici peste 50 m înălțime", "Una dintre cele mai valoroase rezervații din Europa"],
       en: ["Established in 1913", "Area of 104 hectares", "Firs here reached over 50 m in height", "One of the most valuable reserves in Europe"],
     },
-    imageHint: "Giant primeval forest trees",
-  },
+    imageHint: "Giant primeval forest trees", image: "/poi-images/slovakia-dobroc-primeval-forest-life-v2.webp"},
   {
     id: "slovakia-stuzica-primeval-forest-life-v2",
     type: "forest",
@@ -499,8 +475,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Patrimoniu Mondial UNESCO", "Suprafață de 7,6 kilometri pătrați", "Conține arbori vechi de sute de ani", "Parte a Carpaților Orientali"],
       en: ["UNESCO World Heritage site", "Area of 7.6 square kilometers", "Contains trees hundreds of years old", "Part of the Eastern Carpathians"],
     },
-    imageHint: "Stužica primeval forest interior",
-  },
+    imageHint: "Stužica primeval forest interior", image: "/poi-images/slovakia-stuzica-primeval-forest-life-v2.webp"},
   {
     id: "slovakia-havesova-nature-reserve-life-v2",
     type: "forest",
@@ -519,8 +494,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Fagii ating peste 50 m înălțime", "Suprafață de 1,7 kilometri pătrați", "Parte a patrimoniului mondial UNESCO", "Situată în Parcul Național Poloniny"],
       en: ["Beech trees reach over 50 m height", "Area of 1.7 square kilometers", "Part of the UNESCO World Heritage", "Located in Poloniny National Park"],
     },
-    imageHint: "Tall beech trees in Havešová",
-  },
+    imageHint: "Tall beech trees in Havešová", image: "/poi-images/slovakia-havesova-nature-reserve-life-v2.webp"},
   {
     id: "slovakia-rozok-nature-reserve-life-v2",
     type: "forest",
@@ -539,8 +513,7 @@ export const slovakiaLifeV2: POI[] = [
       ro: ["Suprafață de 0,67 kilometri pătrați", "Patrimoniu Mondial UNESCO", "Prezența unor specii rare de ciuperci", "Pădure pură de fag"],
       en: ["Area of 0.67 square kilometers", "UNESCO World Heritage site", "Presence of rare fungi species", "Pure beech stand"],
     },
-    imageHint: "Compact beech forest Rožok",
-  },
+    imageHint: "Compact beech forest Rožok", image: "/poi-images/slovakia-rozok-nature-reserve-life-v2.webp"},
   {
     id: "slovakia-maninska-tiesnava-life-v2",
     type: "valley",

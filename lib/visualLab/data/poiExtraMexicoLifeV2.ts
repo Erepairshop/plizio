@@ -1110,7 +1110,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
       hu: ["Ataulfo mangó fő exportőre", "Trópusi tengerparti klíma", "Nyári csúcsszezon a betakarításkor"],
       ro: ["Lider în exportul de mango Ataulfo", "Climă de coastă caldă și tropicală", "Vârful recoltei are loc în lunile de vară"],
       en: ["Leading exporter of Ataulfo mangoes", "Warm, tropical coastal climate", "Peak harvest in summer months"]
-    }
-  },
+    }, image: "/poi-images/sinaloa-mango-orchards-life-v2.webp"},
 ];
 

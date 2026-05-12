@@ -19,8 +19,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Cel mai mare forum roman din Croația", "Găzduiește instalația Orga Mării", "Prima universitate din Croația (1396)", "Faimos pentru lichiorul Maraschino"],
       en: ["Largest Roman forum in Croatia", "Home to the Sea Organ installation", "First university in Croatia (1396)", "Famous for Maraschino liqueur"],
     },
-    imageHint: "Zadar sea organ and sun salutation",
-  },
+    imageHint: "Zadar sea organ and sun salutation", image: "/poi-images/croatia-zadar-cities-v2.webp"},
   {
     id: "croatia-osijek-cities-v2",
     type: "city",
@@ -39,8 +38,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Cel mai mare oraș din regiunea Slavonia", "Fortăreața barocă Tvrđa din secolul XVIII", "Primul tramvai din Croația (1884)", "Port fluvial important pe Drava"],
       en: ["Largest city in the Slavonia region", "18th-century Tvrđa baroque fortress", "First tram in Croatia (1884)", "Important river port on the Drava"],
     },
-    imageHint: "Osijek Tvrdja fortress aerial view",
-  },
+    imageHint: "Osijek Tvrdja fortress aerial view", image: "/poi-images/croatia-osijek-cities-v2.webp"},
   {
     id: "croatia-slavonski-brod-cities-v2",
     type: "city",
@@ -59,8 +57,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Cetatea Brod a fost construită în 1715", "Nod de transport important pe Sava", "Casa poetei Ivana Brlić-Mažuranić", "Centru al industriei metalurgice"],
       en: ["The Brod Fortress was built in 1715", "Important transport hub on the Sava", "Home of writer Ivana Brlić-Mažuranić", "Center of metal industry"],
     },
-    imageHint: "Brod Fortress Slavonski Brod aerial",
-  },
+    imageHint: "Brod Fortress Slavonski Brod aerial", image: "/poi-images/croatia-slavonski-brod-cities-v2.webp"},
   {
     id: "croatia-karlovac-cities-v2",
     type: "city",
@@ -79,8 +76,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Fondat în 1579 de Arhiducele Carol", "Proiectat ca un oraș renascentist ideal", "Faimos pentru berăria Karlovačko", "Deține un acvariu de apă dulce unic"],
       en: ["Founded in 1579 by Archduke Charles", "Planned as an ideal Renaissance city", "Famous for the Karlovačko brewery", "Has a unique freshwater aquarium"],
     },
-    imageHint: "Karlovac star shaped city layout",
-  },
+    imageHint: "Karlovac star shaped city layout", image: "/poi-images/croatia-karlovac-cities-v2.webp"},
   {
     id: "croatia-varazdin-cities-v2",
     type: "city",
@@ -99,8 +95,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Capitala Croației între 1767 și 1776", "Cunoscut pentru festivalul de muzică barocă", "Fortăreața albă Stari Grad (Orașul Vechi)", "Cimitir faimos amenajat ca parc"],
       en: ["Capital of Croatia from 1767 to 1776", "Known for the Baroque Music Festival", "White Stari Grad (Old Town) fortress", "Famous cemetery designed as a park"],
     },
-    imageHint: "Varazdin Stari Grad castle white",
-  },
+    imageHint: "Varazdin Stari Grad castle white", image: "/poi-images/croatia-varazdin-cities-v2.webp"},
   {
     id: "croatia-sibenik-cities-v2",
     type: "city",
@@ -119,8 +114,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Catedrala este patrimoniu mondial UNESCO", "Cel mai vechi oraș fondat de croați la Adriatică", "Patru fortărețe istorice protejează orașul", "Loc de filmare pentru Urzeala Tronurilor (Braavos)"],
       en: ["Cathedral is a UNESCO World Heritage site", "Oldest city on the Adriatic founded by Croats", "Four historic fortresses protect the city", "Filming location for Game of Thrones (Braavos)"],
     },
-    imageHint: "Sibenik St James Cathedral and waterfront",
-  },
+    imageHint: "Sibenik St James Cathedral and waterfront", image: "/poi-images/croatia-sibenik-cities-v2.webp"},
   {
     id: "croatia-sisak-cities-v2",
     type: "city",
@@ -139,8 +133,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Locul bătăliei de la Sisak (1593)", "Așezarea romană se numea Siscia", "Primul tunel feroviar din Croația", "Centru al industriei petroliere și siderurgice"],
       en: ["Site of the important Battle of Sisak (1593)", "Roman settlement was called Siscia", "First railway tunnel in Croatia", "Center of oil and iron industry"],
     },
-    imageHint: "Sisak fortress Stari Grad triangular",
-  },
+    imageHint: "Sisak fortress Stari Grad triangular", image: "/poi-images/croatia-sisak-cities-v2.webp"},
   {
     id: "croatia-vinkovci-cities-v2",
     type: "city",
@@ -159,8 +152,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Peste 8000 de ani de locuire continuă", "Locul de naștere al împăraților romani Valens și Valentinian", "Locul descoperirii celui mai vechi calendar indoeuropean", "Cel mai important nod feroviar din Slavonia"],
       en: ["Over 8000 years of continuous settlement", "Birthplace of Roman emperors Valens and Valentinian", "Discovery site of the oldest Indo-European calendar", "Most important railway hub in Slavonia"],
     },
-    imageHint: "Vinkovci central square and church",
-  },
+    imageHint: "Vinkovci central square and church", image: "/poi-images/croatia-vinkovci-cities-v2.webp"},
   {
     id: "croatia-velika-gorica-cities-v2",
     type: "city",
@@ -179,8 +171,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Găzduiește Aeroportul Franjo Tuđman", "Situl arheologic Andautonia se află în apropiere", "Centrul istoric al regiunii Turopolje", "Deține numeroase capele de lemn în împrejurimi"],
       en: ["Home to the Franjo Tuđman Airport", "Andautonia archaeological site is nearby", "Historical center of the Turopolje region", "Features numerous wooden chapels in the area"],
     },
-    imageHint: "Velika Gorica Turopolje museum building",
-  },
+    imageHint: "Velika Gorica Turopolje museum building", image: "/poi-images/croatia-velika-gorica-cities-v2.webp"},
   {
     id: "croatia-samobor-cities-v2",
     type: "city",
@@ -199,8 +190,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Faimos pentru prăjitura Kremšnita", "Ruinele castelului medieval pe dealul Tepec", "Carnavalul tradițional din Samobor (Fašnik)", "Poarta către Parcul Natural Žumberak"],
       en: ["Famous for the Samobor Kremšnita custard cake", "Medieval castle ruins on Tepec hill", "Traditional Samobor Carnival (Fašnik)", "Gateway to the Žumberak Nature Park"],
     },
-    imageHint: "Samobor town square and church",
-  },
+    imageHint: "Samobor town square and church", image: "/poi-images/croatia-samobor-cities-v2.webp"},
   {
     id: "croatia-vukovar-cities-v2",
     type: "city",
@@ -219,8 +209,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Cel mai mare port fluvial croat de pe Dunăre", "Turnul de apă este simbolul rezistenței", "Muzeul Culturii Vučedol se află în apropiere", "Palatul baroc Eltz găzduiește muzeul orașului"],
       en: ["Largest Croatian river port on the Danube", "Water tower is a symbol of resistance", "Vučedol Culture Museum is located nearby", "Baroque Eltz Palace houses the city museum"],
     },
-    imageHint: "Vukovar water tower memorial",
-  },
+    imageHint: "Vukovar water tower memorial", image: "/poi-images/croatia-vukovar-cities-v2.webp"},
   {
     id: "croatia-bjelovar-cities-v2",
     type: "city",
@@ -239,8 +228,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Fondat în 1756 de împărăteasa Maria Tereza", "Centrul industriei lactatelor din Croația", "Catedrala barocă Sfânta Tereza de Avila", "Festivalul cultural anual Terezijana"],
       en: ["Founded in 1756 by Empress Maria Theresa", "Center of the Croatian dairy industry", "Baroque Cathedral of St. Teresa of Avila", "Annual Terezijana cultural festival"],
     },
-    imageHint: "Bjelovar central park and cathedral",
-  },
+    imageHint: "Bjelovar central park and cathedral", image: "/poi-images/croatia-bjelovar-cities-v2.webp"},
   {
     id: "croatia-koprivnica-cities-v2",
     type: "city",
@@ -259,8 +247,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Casa companiei Podravka și a condimentului Vegeta", "Festival istoric al Renașterii", "Unul dintre cele mai prietenoase orașe pentru biciclete", "Menționat ca oraș regal liber în 1356"],
       en: ["Home to Podravka and Vegeta seasoning", "Historic Renaissance Festival", "One of Croatia's most bicycle-friendly cities", "Mentioned as a free royal city in 1356"],
     },
-    imageHint: "Koprivnica Podravka building and square",
-  },
+    imageHint: "Koprivnica Podravka building and square", image: "/poi-images/croatia-koprivnica-cities-v2.webp"},
   {
     id: "croatia-pozega-cities-v2",
     type: "city",
@@ -279,8 +266,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Sediul Episcopiei de Požega", "Piața barocă a Sfintei Treimi", "Gazda festivalului croat de tamburica", "Considerat 'Atena slavonă' în Evul Mediu"],
       en: ["Seat of the Diocese of Požega", "Baroque Holy Trinity Square", "Home to the Croatian Tamburitza Festival", "Known as 'Slavonian Athens' in the Middle Ages"],
     },
-    imageHint: "Pozega Holy Trinity Square baroque",
-  },
+    imageHint: "Pozega Holy Trinity Square baroque", image: "/poi-images/croatia-pozega-cities-v2.webp"},
   {
     id: "croatia-dakovo-cities-v2",
     type: "city",
@@ -299,8 +285,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Catedrala Sfântul Petru în stil neogotic", "Herghelia de stat de lipițani din 1506", "Vizita Papei Ioan Paul al II-lea în 2003", "Festivalul anual de folclor 'Đakovački vezovi'"],
       en: ["St. Peter's Cathedral in Neo-Gothic style", "State Lipizzaner stud farm since 1506", "Visit by Pope John Paul II in 2003", "Annual folklore festival 'Đakovački vezovi'"],
     },
-    imageHint: "Dakovo Cathedral red brick",
-  },
+    imageHint: "Dakovo Cathedral red brick", image: "/poi-images/croatia-dakovo-cities-v2.webp"},
   {
     id: "croatia-cakovec-cities-v2",
     type: "city",
@@ -319,8 +304,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Castelul Zrinski găzduiește muzeul regional", "Numit după contele Dimitrius Csaktornyi", "Centru al industriei textile și alimentare", "Premiat ca unul dintre cele mai locuibile orașe"],
       en: ["Zrinski Castle houses the regional museum", "Named after Count Dimitrius Csaktornyi", "Center of textile and food industry", "Awarded as one of the most livable cities"],
     },
-    imageHint: "Cakovec Zrinski castle park",
-  },
+    imageHint: "Cakovec Zrinski castle park", image: "/poi-images/croatia-cakovec-cities-v2.webp"},
   {
     id: "croatia-virovitica-cities-v2",
     type: "city",
@@ -339,8 +323,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Castelul baroc Pejačević a fost construit în 1804", "Reședința județului Virovitica-Podravina", "Locație importantă a industriei lemnului", "Menționat într-un document din 1234"],
       en: ["Baroque Pejačević Castle was built in 1804", "Seat of Virovitica-Podravina County", "Important location for the wood industry", "Mentioned in a charter from 1234"],
     },
-    imageHint: "Virovitica Pejacevic castle aerial",
-  },
+    imageHint: "Virovitica Pejacevic castle aerial", image: "/poi-images/croatia-virovitica-cities-v2.webp"},
   {
     id: "croatia-zapresic-cities-v2",
     type: "city",
@@ -359,8 +342,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Rezidența banului Josip Jelačić", "Complexul Novi Dvori Jelačićevi", "Centru pentru industria ceramicii și porțelanului", "Casa clubului de fotbal Inter Zaprešić"],
       en: ["Residence of Ban Josip Jelačić", "Novi Dvori Jelačićevi historical complex", "Center for ceramic and porcelain industry", "Home to the football club Inter Zaprešić"],
     },
-    imageHint: "Zapresic Novi Dvori Jelacic manor",
-  },
+    imageHint: "Zapresic Novi Dvori Jelacic manor", image: "/poi-images/croatia-zapresic-cities-v2.webp"},
   {
     id: "croatia-kutina-cities-v2",
     type: "city",
@@ -379,8 +361,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Sediul fabricii de îngrășăminte Petrokemija", "Poarta către Parcul Natural Lonjsko Polje", "Biserica Sfânta Maria a Zăpezii", "Centrul regiunii Moslavina"],
       en: ["Headquarters of the Petrokemija fertilizer factory", "Gateway to the Lonjsko Polje Nature Park", "Church of St. Mary of the Snow", "Center of the Moslavina region"],
     },
-    imageHint: "Kutina church St Mary of the Snow",
-  },
+    imageHint: "Kutina church St Mary of the Snow", image: "/poi-images/croatia-kutina-cities-v2.webp"},
   {
     id: "croatia-petrinja-cities-v2",
     type: "city",
@@ -399,8 +380,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Faimos pentru fabrica de salam Gavrilović", "Casa olăritului 'stucki' din Petrinja", "Grav afectat de cutremurul din 2020", "Fondat ca fortăreață militară în secolul XVI"],
       en: ["Famous for the Gavrilović salami factory", "Home of the Petrinja 'stucki' pottery", "Severely damaged by the 2020 earthquake", "Founded as a military fortress in the 16th century"],
     },
-    imageHint: "Petrinja central square before earthquake",
-  },
+    imageHint: "Petrinja central square before earthquake", image: "/poi-images/croatia-petrinja-cities-v2.webp"},
   {
     id: "croatia-solin-cities-v2",
     type: "city",
@@ -419,8 +399,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Antica Salona a fost locul de naștere al lui Dioclețian", "Deține un mare amfiteatru roman", "Râul Jadro traversează orașul", "Loc important al istoriei timpurii a Croației"],
       en: ["Ancient Salona was the birthplace of Diocletian", "Features a large Roman amphitheater", "The Jadro river flows through the city", "Important site of early Croatian history"],
     },
-    imageHint: "Solin Salona ancient Roman ruins",
-  },
+    imageHint: "Solin Salona ancient Roman ruins", image: "/poi-images/croatia-solin-cities-v2.webp"},
   {
     id: "croatia-metkovic-cities-v2",
     type: "city",
@@ -439,8 +418,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Faimos pentru cultivarea mandarinelor", "Muzeul Arheologic Narona din Vid", "Maratonul anual al bărcilor de pe Neretva (Lada)", "Centrul rezervației ornitologice din Delta Neretvei"],
       en: ["Famous for growing mandarins", "Narona Archaeological Museum in nearby Vid", "Annual Marathon of Neretva boats (Lada)", "Center of the Neretva Delta bird sanctuary"],
     },
-    imageHint: "Metkovic Neretva river bridge",
-  },
+    imageHint: "Metkovic Neretva river bridge", image: "/poi-images/croatia-metkovic-cities-v2.webp"},
   {
     id: "croatia-porec-cities-v2",
     type: "city",
@@ -459,8 +437,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Bazilica Eufrasiană cu mozaicuri din secolul VI", "Configurația romană a străzilor în centru", "Destinație turistică populară la Marea Adriatică", "Deține două ruine de temple romane antice"],
       en: ["Euphrasian Basilica with 6th-century mosaics", "Roman street layout in the town center", "Popular tourist destination on the Adriatic", "Features ruins of two ancient Roman temples"],
     },
-    imageHint: "Porec Euphrasian Basilica mosaics",
-  },
+    imageHint: "Porec Euphrasian Basilica mosaics", image: "/poi-images/croatia-porec-cities-v2.webp"},
   {
     id: "croatia-sinj-cities-v2",
     type: "city",
@@ -479,8 +456,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Sinjska Alka are loc din 1715", "Casa sanctuarului marian Gospa Sinjska", "Jocul cavaleriesc este patrimoniu UNESCO", "Situat strategic pe drumul istoric"],
       en: ["Sinjska Alka has been held since 1715", "Home to the Gospa Sinjska Marian pilgrimage site", "The tilting tournament is UNESCO intangible heritage", "Strategically located on the historic road"],
     },
-    imageHint: "Sinj Alka knight tournament",
-  },
+    imageHint: "Sinj Alka knight tournament", image: "/poi-images/croatia-sinj-cities-v2.webp"},
   {
     id: "croatia-nasice-cities-v2",
     type: "city",
@@ -499,8 +475,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Deține un castel Pejačević mare și unul mic", "Casa compozitoarei Dora Pejačević", "Centru al industriei de ciment și cărămidă", "Parc mare cu specii rare de arbori"],
       en: ["Features a large and a small Pejačević castle", "Home of composer Dora Pejačević", "Center of cement and brick industry", "Large park with rare tree species"],
     },
-    imageHint: "Nasice Pejacevic castle and park",
-  },
+    imageHint: "Nasice Pejacevic castle and park", image: "/poi-images/croatia-nasice-cities-v2.webp"},
   {
     id: "croatia-sveta-nedelja-cities-v2",
     type: "city",
@@ -519,8 +494,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Sediul companiei Rimac Automobili", "Numeroase lacuri de carieră pentru pescuit", "Declarat oficial oraș în 2006", "Considerat cel mai prietenos oraș fiscal din Croația"],
       en: ["Headquarters of Rimac Automobili", "Numerous artificial lakes for fishing", "Officially granted city status in 2006", "Considered Croatia's most tax-friendly city"],
     },
-    imageHint: "Sveta Nedelja Rimac Automobili factory",
-  },
+    imageHint: "Sveta Nedelja Rimac Automobili factory", image: "/poi-images/croatia-sveta-nedelja-cities-v2.webp"},
   {
     id: "croatia-makarska-cities-v2",
     type: "city",
@@ -539,8 +513,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Situat la poalele muntelui Biokovo", "Faimosul Muzeu de Malacologie (scoici)", "Mănăstire franciscană din secolul XVI", "Centrul unei fâșii de coastă de 60 km"],
       en: ["Located at the foot of Mount Biokovo", "Famous Malacological Museum (shells)", "16th-century Franciscan monastery", "Center of a 60 km long coastal strip"],
     },
-    imageHint: "Makarska beach and Biokovo mountain background",
-  },
+    imageHint: "Makarska beach and Biokovo mountain background", image: "/poi-images/croatia-makarska-cities-v2.webp"},
   {
     id: "croatia-umag-cities-v2",
     type: "city",
@@ -559,8 +532,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Gazda turneului de tenis ATP Croatia Open", "Port de iahturi important la Adriatică", "Origini romane ca rezidență de vară", "Centru al producției de vin și ulei de măsline"],
       en: ["Host of the ATP Croatia Open tennis tournament", "Major marina on the Adriatic coast", "Roman origins as a summer residence", "Center for Croatian wine and olive production"],
     },
-    imageHint: "Umag tennis stadium aerial",
-  },
+    imageHint: "Umag tennis stadium aerial", image: "/poi-images/croatia-umag-cities-v2.webp"},
   {
     id: "croatia-kastela-cities-v2",
     type: "city",
@@ -579,8 +551,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Compus din 7 Kaštels (castele) diferite", "Originea strugurilor Zinfandel (Crljenak)", "Găzduiește Grădina Biblică Stojdraga", "Cea mai lungă linie de coastă urbană din Dalmația"],
       en: ["Consists of 7 distinct Kaštels (castles)", "Home to the original Zinfandel grape (Crljenak)", "Biblical Garden Stojdraga is located here", "Longest city coastline in Dalmatia"],
     },
-    imageHint: "Kastela waterfront with castle",
-  },
+    imageHint: "Kastela waterfront with castle", image: "/poi-images/croatia-kastela-cities-v2.webp"},
   {
     id: "croatia-ivanic-grad-cities-v2",
     type: "city",
@@ -599,8 +570,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Singura stațiune cu petrol terapeutic Naftalan din Europa", "Centrul industriei petroliere din Croația", "Festivalul anual al dovleacului (Bučijada)", "Fortăreață istorică împotriva otomanilor"],
       en: ["Only health resort with Naftalan healing oil in Europe", "Center of the Croatian oil industry", "Annual Pumpkin Festival (Bučijada)", "Historic fortress against the Ottomans"],
     },
-    imageHint: "Ivanic Grad Naftalan spa building",
-  },
+    imageHint: "Ivanic Grad Naftalan spa building", image: "/poi-images/croatia-ivanic-grad-cities-v2.webp"},
   {
     id: "croatia-labin-cities-v2",
     type: "city",
@@ -619,8 +589,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Fost centru al mineritului de cărbune din Istria", "Republica Labin a fost proclamată în 1921", "Centru vechi medieval cu palate baroce", "Parcul de sculptură Dubrova în apropiere"],
       en: ["Former center of Istrian coal mining", "The Labin Republic was proclaimed in 1921", "Medieval old town with baroque palaces", "Dubrova Sculpture Park is nearby"],
     },
-    imageHint: "Labin old town hill view",
-  },
+    imageHint: "Labin old town hill view", image: "/poi-images/croatia-labin-cities-v2.webp"},
   {
     id: "croatia-krizevci-cities-v2",
     type: "city",
@@ -639,8 +608,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Sediul celei mai vechi școli agricole din Croația", "Locul 'Adunării însângerate din Križevci' (1397)", "Cunoscut pentru statuia Sfântului Marcu din Križevci", "Centrul regiunii viticole Prigorje"],
       en: ["Home to the oldest agricultural school in Croatia", "Site of the 'Bloody Assembly of Križevci' (1397)", "Known for the statue of St. Marek of Križevci", "Center of the Prigorje wine region"],
     },
-    imageHint: "Krizevci church towers panoramic view",
-  },
+    imageHint: "Krizevci church towers panoramic view", image: "/poi-images/croatia-krizevci-cities-v2.webp"},
   {
     id: "croatia-knin-cities-v2",
     type: "city",
@@ -659,8 +627,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Fosta capitală a Croației medievale", "Cetatea Knin este a doua ca mărime din Europa", "Situat lângă izvorul râului Krka", "Nod feroviar important între Zagreb și Split"],
       en: ["Former capital of medieval Croatia", "Knin Fortress is the second largest in Europe", "Located near the source of the Krka River", "Major railway junction between Zagreb and Split"],
     },
-    imageHint: "Knin fortress aerial view mountain",
-  },
+    imageHint: "Knin fortress aerial view mountain", image: "/poi-images/croatia-knin-cities-v2.webp"},
   {
     id: "croatia-valpovo-cities-v2",
     type: "city",
@@ -679,8 +646,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Castelul Prandau-Normann cu turn medieval", "Una dintre cele mai importante grădini englezești din Croația", "Gazda festivalului 'Ljeto valpovačko'", "Locație importantă a industriei lemnului și alimentare"],
       en: ["Prandau-Normann Castle with a medieval tower", "One of the most significant English gardens in Croatia", "Home to the 'Ljeto valpovačko' festival", "Important site for wood and food industries"],
     },
-    imageHint: "Valpovo Prandau Normann castle tower",
-  },
+    imageHint: "Valpovo Prandau Normann castle tower", image: "/poi-images/croatia-valpovo-cities-v2.webp"},
   {
     id: "croatia-trogir-cities-v2",
     type: "city",
@@ -699,8 +665,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Întregul centru vechi este patrimoniu UNESCO", "Catedrala Sfântul Laurențiu cu celebrul său portal", "Fortăreața Kamerlengo pe malul mării", "Fondat de coloniștii greci în secolul III î.Hr."],
       en: ["Entire old town is a UNESCO World Heritage site", "Cathedral of St. Lawrence with its famous portal", "Kamerlengo Fortress on the waterfront", "Founded by Greek colonists in the 3rd century BC"],
     },
-    imageHint: "Trogir old town aerial island",
-  },
+    imageHint: "Trogir old town aerial island", image: "/poi-images/croatia-trogir-cities-v2.webp"},
   {
     id: "croatia-zupanja-cities-v2",
     type: "city",
@@ -719,8 +684,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Locul unde s-a jucat primul fotbal în Croația", "Casa festivalului 'Šokačko sijelo'", "Singura colibă de graniță militară conservată (Čardak)", "Centrul industriei zahărului din Croația"],
       en: ["Place where the first football was played in Croatia", "Home to the 'Šokačko sijelo' festival", "The only preserved military frontier hut (Čardak)", "Center of the Croatian sugar industry"],
     },
-    imageHint: "Zupanja Sava river bank and park",
-  },
+    imageHint: "Zupanja Sava river bank and park", image: "/poi-images/croatia-zupanja-cities-v2.webp"},
   {
     id: "croatia-ogulin-cities-v2",
     type: "city",
@@ -739,8 +703,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Locul de naștere al scriitoarei de basme Ivana Brlić-Mažuranić", "Muntele Klek este considerat leagănul alpinismului croat", "Cetatea Frankopan din secolul XVI", "Gazda festivalului verzei din Ogulin"],
       en: ["Birthplace of fairy tale writer Ivana Brlić-Mažuranić", "Mount Klek is considered the cradle of Croatian mountaineering", "16th-century Frankopan fortress", "Home to the Ogulin Cabbage Festival"],
     },
-    imageHint: "Ogulin Frankopan castle and Djulin ponor",
-  },
+    imageHint: "Ogulin Frankopan castle and Djulin ponor", image: "/poi-images/croatia-ogulin-cities-v2.webp"},
   {
     id: "croatia-slatina-cities-v2",
     type: "city",
@@ -759,8 +722,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Deține un arbore sequoia gigant în centrul orașului", "Locul de origine al primului vin spumant croat", "Centrul regiunii Podravina", "Aproape de Geoparcul UNESCO Papuk"],
       en: ["Features a giant sequoia tree in the city center", "Birthplace of the first Croatian sparkling wine", "Center of the Podravina region", "Near the UNESCO Papuk Geopark"],
     },
-    imageHint: "Slatina sequoia tree city center",
-  },
+    imageHint: "Slatina sequoia tree city center", image: "/poi-images/croatia-slatina-cities-v2.webp"},
   {
     id: "croatia-novska-cities-v2",
     type: "city",
@@ -779,8 +741,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Centru pentru dezvoltarea jocurilor video (Incubatorul Pismo)", "Situat lângă autostrada A3", "Nod feroviar important", "Centru pentru industria de prelucrare a lemnului"],
       en: ["Center for video game development (Pismo Incubator)", "Located near the A3 motorway", "Important railway junction", "Center for the wood processing industry"],
     },
-    imageHint: "Novska Pismo incubator building",
-  },
+    imageHint: "Novska Pismo incubator building", image: "/poi-images/croatia-novska-cities-v2.webp"},
   {
     id: "croatia-dugo-selo-cities-v2",
     type: "city",
@@ -799,8 +760,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Biserica Sfântul Martin pe dealul Martin Breg", "Cel mai important nod feroviar pentru traficul spre est", "Cunoscut pentru podgoriile sale", "Parte a aglomerației urbane Zagreb"],
       en: ["Church of St. Martin on Martin Breg hill", "Most important railway junction for eastbound traffic", "Known for its vineyards", "Part of the Zagreb urban agglomeration"],
     },
-    imageHint: "Dugo Selo St Martin church hill",
-  },
+    imageHint: "Dugo Selo St Martin church hill", image: "/poi-images/croatia-dugo-selo-cities-v2.webp"},
   {
     id: "croatia-opatija-cities-v2",
     type: "city",
@@ -819,8 +779,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Lungomare este o faleză lungă de 12 km", "Villa Angiolina a fost primul hotel (1844)", "Statuia 'Fata cu pescărușul' este simbolul orașului", "Cea mai veche stațiune balneară de pe coasta Adriaticii"],
       en: ["Lungomare is a 12 km long seaside promenade", "Villa Angiolina was the first hotel (1844)", "Statue 'Maiden with the Seagull' is the city symbol", "Oldest health resort on the Adriatic coast"],
     },
-    imageHint: "Opatija Maiden with the Seagull statue",
-  },
+    imageHint: "Opatija Maiden with the Seagull statue", image: "/poi-images/croatia-opatija-cities-v2.webp"},
   {
     id: "croatia-jastrebarsko-cities-v2",
     type: "city",
@@ -839,8 +798,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Castelul Erdödy în stil renascentist", "Faimos pentru vinurile spumante din Plešivica", "Numit după vânătorii de ulii (Jastreb)", "Poarta către Parcul Natural Žumberak"],
       en: ["Renaissance-style Erdödy Castle", "Famous for Plešivica sparkling wines", "Named after hawk hunters (Jastreb)", "Gateway to the Žumberak-Samoborsko gorje Nature Park"],
     },
-    imageHint: "Jastrebarsko Erdoedy castle park",
-  },
+    imageHint: "Jastrebarsko Erdoedy castle park", image: "/poi-images/croatia-jastrebarsko-cities-v2.webp"},
   {
     id: "croatia-pazin-cities-v2",
     type: "city",
@@ -859,8 +817,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Castelul Pazin este cea mai mare fortăreață din Istria", "Abisul Pazin l-a inspirat pe Jules Verne", "Sediul Arhivelor de Stat din Istria", "Centrul limbii croate în Istria"],
       en: ["Pazin Castle is the largest fortress in Istria", "The Pazin Abyss inspired Jules Verne", "Seat of the Istrian State Archives", "Center of the Croatian language in Istria"],
     },
-    imageHint: "Pazin castle and abyss view",
-  },
+    imageHint: "Pazin castle and abyss view", image: "/poi-images/croatia-pazin-cities-v2.webp"},
   {
     id: "croatia-crikvenica-cities-v2",
     type: "city",
@@ -879,8 +836,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Numit după biserica mănăstirii (Crkva)", "Stațiune oficială de sănătate din 1906", "Deține un mare acvariu marin", "Cel mai important centru turistic din regiunea Vinodol"],
       en: ["Named after the monastery church (Crkva)", "Official health resort since 1906", "Features a large marine aquarium", "Main tourist center of the Vinodol region"],
     },
-    imageHint: "Crikvenica beach and hotels",
-  },
+    imageHint: "Crikvenica beach and hotels", image: "/poi-images/croatia-crikvenica-cities-v2.webp"},
   {
     id: "croatia-vodice-cities-v2",
     type: "city",
@@ -899,8 +855,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Numele derivă de la izvoarele de apă", "Port de iahturi important pentru navigatori", "Biserica barocă a Găsirii Sfintei Cruci", "Punct de plecare popular pentru excursii în Kornati"],
       en: ["Name is derived from water springs", "Major marina for sailors", "Baroque Church of the Holy Cross", "Popular starting point for Kornati Islands tours"],
     },
-    imageHint: "Vodice harbor and town view",
-  },
+    imageHint: "Vodice harbor and town view", image: "/poi-images/croatia-vodice-cities-v2.webp"},
   {
     id: "croatia-imotski-cities-v2",
     type: "city",
@@ -919,8 +874,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Lacul Albastru se află într-o dolină adâncă", "Lacul Roșu este una dintre cele mai adânci doline din lume", "Cetatea Topana domină orașul", "Arhitectură urbană din piatră locală"],
       en: ["Blue Lake is located in a deep sinkhole", "Red Lake is one of the deepest sinkholes in the world", "Topana Fortress overlooks the city", "City architecture made of local stone"],
     },
-    imageHint: "Imotski Blue Lake aerial view",
-  },
+    imageHint: "Imotski Blue Lake aerial view", image: "/poi-images/croatia-imotski-cities-v2.webp"},
   {
     id: "croatia-daruvar-cities-v2",
     type: "city",
@@ -939,8 +893,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Băile termale Daruvar din epoca romană", "Casa unui arbore ginkgo din 1777", "Castelul baroc Janković", "Minoritate cehă semnificativă"],
       en: ["Daruvar thermal spa since Roman times", "Home to a ginkgo tree dating from 1777", "Baroque Janković Castle", "Significant Czech minority population"],
     },
-    imageHint: "Daruvar Ginkgo tree and castle",
-  },
+    imageHint: "Daruvar Ginkgo tree and castle", image: "/poi-images/croatia-daruvar-cities-v2.webp"},
   {
     id: "croatia-gospic-cities-v2",
     type: "city",
@@ -959,8 +912,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Centrul Memorial Nikola Tesla în Smiljan", "Centrul regiunii Lika", "Casa Muzeului regiunii Lika", "Poarta către munții Velebit"],
       en: ["Nikola Tesla Memorial Center in nearby Smiljan", "Administrative center of the Lika region", "Home to the Museum of Lika", "Gateway to the Velebit mountains"],
     },
-    imageHint: "Gospic Nikola Tesla monument",
-  },
+    imageHint: "Gospic Nikola Tesla monument", image: "/poi-images/croatia-gospic-cities-v2.webp"},
   {
     id: "croatia-biograd-na-moru-cities-v2",
     type: "city",
@@ -979,8 +931,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Fosta cetate de încoronare a regilor croați", "Centrul turismului nautic la Marea Adriatică", "Găzduiește cel mai mare parc de distracții din Croația", "Situat vizavi de insula Pašman"],
       en: ["Former coronation city of Croatian kings", "Center of nautical tourism on the Adriatic", "Home to Croatia's largest amusement park", "Located opposite the island of Pašman"],
     },
-    imageHint: "Biograd na Moru harbor and promenade",
-  },
+    imageHint: "Biograd na Moru harbor and promenade", image: "/poi-images/croatia-biograd-na-moru-cities-v2.webp"},
   {
     id: "croatia-benkovac-cities-v2",
     type: "city",
@@ -999,8 +950,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Cetatea istorică Kličevica se află în apropiere", "Faimos pentru târgul din Benkovac", "Centrul regiunii viticole Ravni Kotari", "Deține castelul medieval Benković"],
       en: ["Historic Kličevica fortress is nearby", "Famous for the Benkovac fair market", "Center of the Ravni Kotari wine region", "Features the medieval Benković Castle"],
     },
-    imageHint: "Benkovac castle and town view",
-  },
+    imageHint: "Benkovac castle and town view", image: "/poi-images/croatia-benkovac-cities-v2.webp"},
   {
     id: "croatia-kastav-cities-v2",
     type: "city",
@@ -1019,8 +969,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Gazda Verii Culturale din Kastav", "Centrul istoric numit Lokvina", "Originea vinului Belica", "Locul de desfășurare a carnavalului (Zvončari)"],
       en: ["Home to the Kastav Cultural Summer", "Historical center called Lokvina", "Home of the Belica wine", "Site of traditional carnival (Zvončari)"],
     },
-    imageHint: "Kastav old town hill view Kvarner bay",
-  },
+    imageHint: "Kastav old town hill view Kvarner bay", image: "/poi-images/croatia-kastav-cities-v2.webp"},
   {
     id: "croatia-ivanec-cities-v2",
     type: "city",
@@ -1039,8 +988,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Casa meșteșugului dantelei din Ivanec", "Poarta către cel mai înalt munte din nordul Croației", "Fost centru al mineritului de cărbune brun", "Locație importantă a industriei de încălțăminte"],
       en: ["Home of the Ivanec lace craft", "Gateway to the highest mountain in northern Croatia", "Former center of lignite coal mining", "Important site for the footwear industry"],
     },
-    imageHint: "Ivanec town and Ivanscica mountain",
-  },
+    imageHint: "Ivanec town and Ivanscica mountain", image: "/poi-images/croatia-ivanec-cities-v2.webp"},
   {
     id: "croatia-pleternica-cities-v2",
     type: "city",
@@ -1059,8 +1007,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Loc de pelerinaj dedicat Maicii Domnului", "Deține o expoziție unică Terra Panonica", "Centru al industriei lemnului și agriculturii", "Situat la confluența râurilor Orljava și Londža"],
       en: ["Pilgrimage site of Our Lady of Tears", "Features a unique Terra Panonica exhibition", "Center for wood and agriculture industries", "Located at the confluence of Orljava and Londža"],
     },
-    imageHint: "Pleternica church and town park",
-  },
+    imageHint: "Pleternica church and town park", image: "/poi-images/croatia-pleternica-cities-v2.webp"},
   {
     id: "croatia-mursko-sredisce-cities-v2",
     type: "city",
@@ -1079,8 +1026,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Cel mai nordic oraș din Croația", "Muzeul memorial al mineritului 'Cimper'", "Punct de trecere a frontierei cu Slovenia", "Situat pe râul Mura"],
       en: ["The northernmost city in Croatia", "Mining memorial museum 'Cimper'", "Border crossing to Slovenia", "Located on the Mura River"],
     },
-    imageHint: "Mursko Sredisce Mura river bank",
-  },
+    imageHint: "Mursko Sredisce Mura river bank", image: "/poi-images/croatia-mursko-sredisce-cities-v2.webp"},
   {
     id: "croatia-beli-manastir-cities-v2",
     type: "city",
@@ -1099,8 +1045,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Singurul oraș din Baranja croată", "Nod de transport important pentru călătorii spre Ungaria", "Numit după o 'Mănăstire Albă'", "Centrul regiunii viticole Baranja"],
       en: ["The only city in the Croatian Baranja", "Important transport hub for travelers to Hungary", "Named after a 'White Monastery'", "Center of the Baranja wine region"],
     },
-    imageHint: "Beli Manastir central square monument",
-  },
+    imageHint: "Beli Manastir central square monument", image: "/poi-images/croatia-beli-manastir-cities-v2.webp"},
   {
     id: "croatia-otocac-cities-v2",
     type: "city",
@@ -1119,8 +1064,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Casa râului Gacka", "Cetatea Fortica din secolul XVII", "Centrul silviculturii din regiunea Lika", "Cunoscut pentru Centrul Cultural Gacka"],
       en: ["Home of the Gacka River", "17th-century Fortica fortress", "Center for forestry in the Lika region", "Known for the Gacka Cultural Center"],
     },
-    imageHint: "Otocac Gacka river spring scenery",
-  },
+    imageHint: "Otocac Gacka river spring scenery", image: "/poi-images/croatia-otocac-cities-v2.webp"},
   {
     id: "croatia-senj-cities-v2",
     type: "city",
@@ -1139,8 +1083,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Cetatea Nehaj a fost sediul uscocilor", "Cel mai vechi oraș de pe coasta croată", "Faimos pentru vântul rece Bura", "Catedrala Sfânta Maria din secolul XII"],
       en: ["Nehaj Fortress was the seat of the Uskoks", "Oldest city on the Croatian coast", "Infamous for the cold Bura wind", "12th-century Cathedral of St. Mary"],
     },
-    imageHint: "Senj Nehaj fortress hill",
-  },
+    imageHint: "Senj Nehaj fortress hill", image: "/poi-images/croatia-senj-cities-v2.webp"},
   {
     id: "croatia-pucko-toplice-cities-v2",
     type: "city",
@@ -1159,8 +1102,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Temperaturi ale apei de până la 41 grade Celsius", "Centru de cardiologie și ortopedie", "Parcul acvatic Aquae Vivae", "Tradiție balneară din secolul XVIII"],
       en: ["Water temperatures up to 41 degrees Celsius", "Center for cardiology and orthopedics", "Aquae Vivae water park", "Traditional spa since the 18th century"],
     },
-    imageHint: "Krapinske Toplice spa pools aerial",
-  },
+    imageHint: "Krapinske Toplice spa pools aerial", image: "/poi-images/croatia-pucko-toplice-cities-v2.webp"},
   {
     id: "croatia-ludbreg-cities-v2",
     type: "city",
@@ -1179,8 +1121,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Se autointitulează centrul geografic al lumii", "Locul miracolului sângelui din 1411", "Castelul Batthyany cu atelier de restaurare", "Sanctuarul Preasfântului Sânge"],
       en: ["Claims to be the geographical center of the world", "Site of the Ludbreg Blood Miracle (1411)", "Batthyany Castle with a restoration workshop", "Sanctuary of the Precious Blood of Jesus"],
     },
-    imageHint: "Ludbreg center of the world monument",
-  },
+    imageHint: "Ludbreg center of the world monument", image: "/poi-images/croatia-ludbreg-cities-v2.webp"},
   {
     id: "croatia-pula-v2-cities-v2",
     type: "town",
@@ -1199,8 +1140,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Cea mai veche cramă datând din 1232", "Castelul ieziuit din Kutjevo", "Originea faimosului vin Graševina", "Situat pe paralela 45"],
       en: ["Oldest wine cellar dating back to 1232", "Jesuit castle of Kutjevo", "Home to the famous Graševina wine", "Located on the 45th parallel north"],
     },
-    imageHint: "Kutjevo wine cellar entrance old",
-  },
+    imageHint: "Kutjevo wine cellar entrance old", image: "/poi-images/croatia-pula-v2-cities-v2.webp"},
   {
     id: "croatia-biograd-v2-cities-v2",
     type: "town",
@@ -1219,8 +1159,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Cea mai mică catedrală din lume (Sfânta Cruce)", "Primul sediu episcopal croat", "Salina Nin cu extracție tradițională", "Nămol terapeutic pe plaja din Nin"],
       en: ["Smallest cathedral in the world (Holy Cross)", "First Croatian episcopal seat", "Nin Saltworks with traditional extraction", "Medicinal mud at the Nin beaches"],
     },
-    imageHint: "Nin smallest cathedral Holy Cross",
-  },
+    imageHint: "Nin smallest cathedral Holy Cross", image: "/poi-images/croatia-biograd-v2-cities-v2.webp"},
   {
     id: "croatia-novi-marof-cities-v2",
     type: "city",
@@ -1239,8 +1178,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Castelul Erdödy găzduiește un spital", "Fondat în secolul XVIII", "Nod de transport important pe autostrada A4", "Centru al industriei de mobilier"],
       en: ["Erdödy Castle houses a hospital", "Founded in the 18th century", "Major transport junction on the A4 motorway", "Center for the furniture industry"],
     },
-    imageHint: "Novi Marof Erdody castle park",
-  },
+    imageHint: "Novi Marof Erdody castle park", image: "/poi-images/croatia-novi-marof-cities-v2.webp"},
   {
     id: "croatia-prelog-cities-v2",
     type: "city",
@@ -1259,8 +1197,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Biserica barocă Sfântul Iacob", "Centru al industriei metalurgice și plastice", "Situat lângă lacul de acumulare Dubrava", "Menționat ca loc de comerț în 1264"],
       en: ["Baroque Church of St. Jacob", "Center for metal and plastic industries", "Located near the Dubrava reservoir", "Mentioned as a trading place in 1264"],
     },
-    imageHint: "Prelog church St Jacob square",
-  },
+    imageHint: "Prelog church St Jacob square", image: "/poi-images/croatia-prelog-cities-v2.webp"},
   {
     id: "croatia-grubisno-polje-cities-v2",
     type: "city",
@@ -1279,8 +1216,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Gazda festivalului ceh al recoltei Dožinky", "Locație importantă a industriei cărnii", "Deține o biserică parohială barocă", "Centru al silviculturii în regiune"],
       en: ["Home to the Czech harvest festival Dožinky", "Major location for the meat industry", "Features a baroque parish church", "Center for forestry in the region"],
     },
-    imageHint: "Grubisno Polje city park and church",
-  },
+    imageHint: "Grubisno Polje city park and church", image: "/poi-images/croatia-grubisno-polje-cities-v2.webp"},
   {
     id: "croatia-belisce-cities-v2",
     type: "city",
@@ -1299,8 +1235,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Fondat în 1884 de familia Gutmann", "Centru al industriei hârtiei și cartonului", "Casa campionului olimpic la canoe Matija Ljubek", "Palatul Gutmann în centru"],
       en: ["Founded in 1884 by the Gutmann family", "Center for paper and cardboard industry", "Home of Olympic canoe champion Matija Ljubek", "Gutmann Palace in the city center"],
     },
-    imageHint: "Belisce Gutmann palace building",
-  },
+    imageHint: "Belisce Gutmann palace building", image: "/poi-images/croatia-belisce-cities-v2.webp"},
   {
     id: "croatia-pazin-v2-cities-v2",
     type: "town",
@@ -1319,8 +1254,7 @@ export const croatiaCitiesV2: POI[] = [
       ro: ["Supranumit paznicul Istriei datorită locației pe deal", "Centru al producției de vin și ulei de măsline", "Biserica istorică Sfântul Servulus", "Sediul berăriei istriene San Servolo"],
       en: ["Called the Sentinel of Istria due to its hill location", "Center for wine and olive oil production", "Historical Church of St. Servulus", "Home to the San Servolo Istrian brewery"],
     },
-    imageHint: "Buje old town hill sunset",
-  },
+    imageHint: "Buje old town hill sunset", image: "/poi-images/croatia-pazin-v2-cities-v2.webp"},
   {
     id: "croatia-vukovar-v2-cities-v2",
     type: "town",

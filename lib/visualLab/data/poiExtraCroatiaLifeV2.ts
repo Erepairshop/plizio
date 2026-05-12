@@ -19,8 +19,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Centru important pentru alpinism", "Cel mai înalt perete este Anića Kuk", "Păduri de fag protejate de UNESCO", "Sistem de buncăre din anii 1950"],
       en: ["Major center for rock climbing", "Anića Kuk is the highest rock face", "UNESCO ancient beech forests", "Underground bunkers from the 1950s"],
     },
-    imageHint: "Paklenica canyon cliffs",
-  },
+    imageHint: "Paklenica canyon cliffs", image: "/poi-images/croatia-paklenica-life-v2.webp"},
   {
     id: "croatia-mljet-life-v2",
     type: "park",
@@ -39,8 +38,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Lacurile sărate Malo și Veliko", "Mănăstire pe insula din lac", "Înființat în anul 1960", "Păduri dese de pin de Alep"],
       en: ["Salt lakes Malo and Veliko Jezero", "Monastery on an islet in the lake", "Established in 1960", "Dense Aleppo pine forests"],
     },
-    imageHint: "Mljet island salt lake monastery",
-  },
+    imageHint: "Mljet island salt lake monastery", image: "/poi-images/croatia-mljet-life-v2.webp"},
   {
     id: "croatia-sjeverni-velebit-life-v2",
     type: "park",
@@ -59,8 +57,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Înființat în anul 1999", "Peștera adâncă Lukina Jama", "Grădina Botanică Velebit", "Traseul Premužić are 57 km"],
       en: ["Established in 1999", "Home to the deep Lukina Jama pit", "Velebit Botanical Garden on site", "Premužić trail is 57 km long"],
     },
-    imageHint: "Northern Velebit karst peaks",
-  },
+    imageHint: "Northern Velebit karst peaks", image: "/poi-images/croatia-sjeverni-velebit-life-v2.webp"},
   {
     id: "croatia-kopacki-rit-life-v2",
     type: "wildlife",
@@ -79,8 +76,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Peste 260 de specii de păsări", "Zonă majoră de depunere a icrelor", "Cea mai mare deltă interioară", "Situl Ramsar din anul 1993"],
       en: ["Over 260 bird species recorded", "Major fish spawning ground", "Largest inner delta in Europe", "Ramsar wetland site since 1993"],
     },
-    imageHint: "Kopacki rit wetland birds",
-  },
+    imageHint: "Kopacki rit wetland birds", image: "/poi-images/croatia-kopacki-rit-life-v2.webp"},
   {
     id: "croatia-lonjsko-polje-life-v2",
     type: "wildlife",
@@ -99,8 +95,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Satul Čigoč, satul berzelor", "Conservarea cailor de Posavina", "Case tradiționale din lemn de stejar", "Zonă de popas pentru păsări migratoare"],
       en: ["Čigoč village is a 'Stork Village'", "Preserves the Posavina horse breed", "Traditional oak wooden houses", "Crucial stopover for migratory birds"],
     },
-    imageHint: "Lonjsko polje wooden houses storks",
-  },
+    imageHint: "Lonjsko polje wooden houses storks", image: "/poi-images/croatia-lonjsko-polje-life-v2.webp"},
   {
     id: "croatia-velebit-nature-park-life-v2",
     type: "park",
@@ -119,8 +114,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Cea mai mare zonă protejată", "Planta endemică Degenia velebitica", "Rezervație a biosferei UNESCO", "Include două parcuri naționale"],
       en: ["Largest protected area in Croatia", "Home to endemic Velebit Degenia", "UNESCO Biosphere Reserve", "Includes two national parks"],
     },
-    imageHint: "Velebit mountain range view",
-  },
+    imageHint: "Velebit mountain range view", image: "/poi-images/croatia-velebit-nature-park-life-v2.webp"},
   {
     id: "croatia-biokovo-nature-park-life-v2",
     type: "park",
@@ -139,8 +133,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Vârful cel mai înalt Sv. Jure", "Punct de belvedere Skywalk", "Peste 1500 specii de plante", "Groapa Amfora adâncă de 788m"],
       en: ["Highest peak is Sveti Jure", "Skywalk Ravna Vlaška viewpoint", "Over 1,500 plant species", "Amfora pit is 788 meters deep"],
     },
-    imageHint: "Biokovo mountain Skywalk",
-  },
+    imageHint: "Biokovo mountain Skywalk", image: "/poi-images/croatia-biokovo-nature-park-life-v2.webp"},
   {
     id: "croatia-telascica-life-v2",
     type: "park",
@@ -159,8 +152,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Lacul sărat Mir cu nămol", "Faleze de până la 161m înălțime", "Rezervație de măgari în parc", "Peste 250 specii de plante marine"],
       en: ["Salt lake Mir with healing mud", "Cliffs rise up to 161 meters", "Donkey sanctuary within the park", "Over 250 marine plant species"],
     },
-    imageHint: "Telascica bay and cliffs",
-  },
+    imageHint: "Telascica bay and cliffs", image: "/poi-images/croatia-telascica-life-v2.webp"},
   {
     id: "croatia-ucka-life-v2",
     type: "park",
@@ -179,8 +171,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Turn pe vârful Vojak", "Clopoțelul endemic de Učka", "Habitat pentru vulturul pleșuv", "Păduri tradiționale de castan"],
       en: ["Tower on the Vojak peak", "Endemic Učka bellflower", "Habitat for the griffon vulture", "Traditional chestnut forests"],
     },
-    imageHint: "Ucka mountain Vojak tower view",
-  },
+    imageHint: "Ucka mountain Vojak tower view", image: "/poi-images/croatia-ucka-life-v2.webp"},
   {
     id: "croatia-papuk-life-v2",
     type: "park",
@@ -199,8 +190,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Primul geoparc din Croația", "Cascada Skakavac în Jankovac", "Vestigii ale Mării Panonice", "Roci vulcanice la Rupnica"],
       en: ["First Geopark in Croatia", "Skakavac waterfall in Jankovac", "Remnants of the Pannonian Sea", "Volcanic rocks at Rupnica site"],
     },
-    imageHint: "Papuk nature park forest waterfall",
-  },
+    imageHint: "Papuk nature park forest waterfall", image: "/poi-images/croatia-papuk-life-v2.webp"},
   {
     id: "croatia-medvednica-life-v2",
     type: "park",
@@ -219,8 +209,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Cel mai înalt punct este Sljeme", "Peștera Veternica cu lilieci", "Cetatea Medvedgrad din sec. XIII", "Gazdă a Cupei Mondiale de schi"],
       en: ["Highest point is Sljeme", "Veternica cave with bat colonies", "13th-century Medvedgrad castle", "Host of alpine ski world cup"],
     },
-    imageHint: "Medvednica mountain Zagreb view",
-  },
+    imageHint: "Medvednica mountain Zagreb view", image: "/poi-images/croatia-medvednica-life-v2.webp"},
   {
     id: "croatia-zumberak-life-v2",
     type: "park",
@@ -239,8 +228,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Cascada Sopote de 40m", "Morminte celtice în Budinjak", "Habitat pentru pisica sălbatică", "Vârful cel mai înalt Sveta Gera"],
       en: ["Sopote waterfall is 40m high", "Celtic graves in Budinjak", "Habitat for wild cats", "Highest peak is Sveta Gera"],
     },
-    imageHint: "Zumberak green hills landscape",
-  },
+    imageHint: "Zumberak green hills landscape", image: "/poi-images/croatia-zumberak-life-v2.webp"},
   {
     id: "croatia-lastovo-life-v2",
     type: "park",
@@ -259,8 +247,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Cel mai întunecat cer nocturn", "Coșuri de fum tradiționale", "Habitat rar de corali", "Carnavalul tradițional 'Poklad'"],
       en: ["Darkest skies in Croatia", "Famous unique Lastovo chimneys", "Rare coral reef habitats", "Traditional 'Poklad' carnival"],
     },
-    imageHint: "Lastovo island village and sea",
-  },
+    imageHint: "Lastovo island village and sea", image: "/poi-images/croatia-lastovo-life-v2.webp"},
   {
     id: "croatia-vransko-jezero-life-v2",
     type: "lake",
@@ -279,8 +266,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Cel mai mare lac natural", "Peste 250 de specii de păsări", "Pești de apă dulce și anghile", "Punctul de belvedere Kamenjak"],
       en: ["Largest natural lake in Croatia", "Home to over 250 bird species", "Freshwater fish and eels", "Kamenjak viewpoint overlooking sea"],
     },
-    imageHint: "Vransko jezero lake birds view",
-  },
+    imageHint: "Vransko jezero lake birds view", image: "/poi-images/croatia-vransko-jezero-life-v2.webp"},
   {
     id: "croatia-zagreb-zoo-life-v2",
     type: "wildlife",
@@ -299,8 +285,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Fondată la 27 iunie 1925", "Găzduiește panda roșii", "Situată în parcul Maksimir", "Participă la programe de conservare"],
       en: ["Founded on June 27, 1925", "Home to Red Pandas", "Part of the historic Maksimir Park", "Participates in breeding programs"],
     },
-    imageHint: "Zagreb zoo entrance and red panda",
-  },
+    imageHint: "Zagreb zoo entrance and red panda", image: "/poi-images/croatia-zagreb-zoo-life-v2.webp"},
   {
     id: "croatia-botanical-garden-zagreb-life-v2",
     type: "park",
@@ -319,8 +304,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Înființată în anul 1889", "Peste 10.000 de specii de plante", "Pod istoric în stil victorian", "Parte a 'Potcoavei Verzi'"],
       en: ["Founded in 1889", "Houses over 10,000 plant species", "Features a Victorian wooden bridge", "Part of the Zagreb 'Green Horseshoe'"],
     },
-    imageHint: "Zagreb botanical garden flowers bridge",
-  },
+    imageHint: "Zagreb botanical garden flowers bridge", image: "/poi-images/croatia-botanical-garden-zagreb-life-v2.webp"},
   {
     id: "croatia-arboretum-trsteno-life-v2",
     type: "park",
@@ -339,8 +323,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Fondat în anul 1492", "Platani uriași de 500 de ani", "Loc de filmare pentru 'Game of Thrones'", "Reședință de vară renascentistă"],
       en: ["Established in 1492", "500-year-old giant plane trees", "Filming location for 'Game of Thrones'", "Renaissance-style summer residence"],
     },
-    imageHint: "Arboretum Trsteno fountain garden",
-  },
+    imageHint: "Arboretum Trsteno fountain garden", image: "/poi-images/croatia-arboretum-trsteno-life-v2.webp"},
   {
     id: "croatia-lokrum-life-v2",
     type: "wildlife",
@@ -359,8 +342,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Lac sărat numit 'Marea Moartă'", "Grădină botanică exotică", "Păuni care umblă liberi", "Nu are locuitori permanenți"],
       en: ["'Dead Sea' salt lake on the island", "Exotic botanical garden", "Populated by free-roaming peacocks", "No permanent residents allowed"],
     },
-    imageHint: "Lokrum island peacocks and sea",
-  },
+    imageHint: "Lokrum island peacocks and sea", image: "/poi-images/croatia-lokrum-life-v2.webp"},
   {
     id: "croatia-palud-life-v2",
     type: "wildlife",
@@ -379,8 +361,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Singura rezervație din Istria", "Peste 219 specii observate", "Amestec de apă dulce și sărată", "Zonă importantă de cuibărit"],
       en: ["Only such reserve in Istria", "Over 219 bird species recorded", "Mix of fresh and salt water", "Crucial nesting ground"],
     },
-    imageHint: "Palud birdwatching swamp",
-  },
+    imageHint: "Palud birdwatching swamp", image: "/poi-images/croatia-palud-life-v2.webp"},
   {
     id: "croatia-crna-mlaka-life-v2",
     type: "wildlife",
@@ -399,8 +380,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Situl Ramsar din anul 1993", "Centru de creștere a crapului", "Loc de cuibărit pentru codalb", "Proprietate privată protejată"],
       en: ["Ramsar site since 1993", "Center for carp fish farming", "White-tailed eagle nesting site", "Private property under protection"],
     },
-    imageHint: "Crna mlaka ponds birds",
-  },
+    imageHint: "Crna mlaka ponds birds", image: "/poi-images/croatia-crna-mlaka-life-v2.webp"},
   {
     id: "croatia-lim-channel-life-v2",
     type: "wildlife",
@@ -419,8 +399,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Golf asemănător unui fjord", "Ferme de stridii și midii", "Peștera lui Romuald la capăt", "Pereți stâncoși de peste 100m"],
       en: ["Fjord-like sunken canyon", "Famous for oyster/mussel farming", "Romuald's Cave is nearby", "Cliffs rise over 100 meters high"],
     },
-    imageHint: "Lim channel Istria fjord",
-  },
+    imageHint: "Lim channel Istria fjord", image: "/poi-images/croatia-lim-channel-life-v2.webp"},
   {
     id: "croatia-arboretum-opeka-life-v2",
     type: "park",
@@ -439,8 +418,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Înființat în anul 1860", "Creat în jurul castelului Opeka", "Arbori exotici din toată lumea", "Suprafață de circa 65 hectare"],
       en: ["Established in 1860", "Surrounds the Opeka Castle", "Exotic trees from all over the world", "Covers about 65 hectares"],
     },
-    imageHint: "Arboretum Opeka trees castle",
-  },
+    imageHint: "Arboretum Opeka trees castle", image: "/poi-images/croatia-arboretum-opeka-life-v2.webp"},
   {
     id: "croatia-osijek-zoo-life-v2",
     type: "wildlife",
@@ -459,8 +437,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Cea mai mare grădină zoologică", "Înființată în anul 1955", "Situată pe malul râului Drava", "Peste 100 de specii de animale"],
       en: ["Largest zoo in HR by area", "Established in 1955", "Located on the Drava riverbank", "Over 100 animal species"],
     },
-    imageHint: "Osijek zoo tiger or lion",
-  },
+    imageHint: "Osijek zoo tiger or lion", image: "/poi-images/croatia-osijek-zoo-life-v2.webp"},
   {
     id: "croatia-kuterevo-bear-sanctuary-life-v2",
     type: "wildlife",
@@ -479,8 +456,7 @@ export const croatiaLifeV2: POI[] = [
       ro: ["Refugiu pentru urșii bruni", "Fondat în anul 2002", "Administrat de voluntari", "Educație despre protecția urșilor"],
       en: ["Sanctuary for brown bears", "Established in 2002", "Run by international volunteers", "Focuses on bear conservation education"],
     },
-    imageHint: "Kuterevo brown bear sanctuary",
-  },
+    imageHint: "Kuterevo brown bear sanctuary", image: "/poi-images/croatia-kuterevo-bear-sanctuary-life-v2.webp"},
   {
     id: "croatia-golubinjak-forest-life-v2",
     type: "forest",

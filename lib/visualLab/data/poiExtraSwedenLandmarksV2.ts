@@ -19,8 +19,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Are peste 600 de camere pe 11 etaje", "Proiectat de Nicodemus Tessin cel Tânăr", "Construcția a durat din 1697 până în 1754", "Găzduiește trei muzee istorice"],
       en: ["Contains over 600 rooms across 11 floors", "Designed by Nicodemus Tessin the Younger", "Built between 1697 and 1754", "Houses three historical museums"],
     },
-    imageHint: "Stockholm Royal Palace facade at day",
-  },
+    imageHint: "Stockholm Royal Palace facade at day", image: "/poi-images/sweden-stockholm-palace-landmarks-v2.webp"},
   {
     id: "sweden-stockholm-city-hall-landmarks-v2",
     type: "landmark",
@@ -39,8 +38,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Construită din aproximativ 8 milioane de cărămizi", "Turn de observație înalt de 106 metri", "Finalizată în anul 1923", "Sala Albastră are 10.000 m²"],
       en: ["Built from approximately 8 million bricks", "106-meter high observation tower", "Completed in 1923", "The Blue Hall covers 10,000 m²"],
     },
-    imageHint: "Stockholm City Hall with golden crowns on tower",
-  },
+    imageHint: "Stockholm City Hall with golden crowns on tower", image: "/poi-images/sweden-stockholm-city-hall-landmarks-v2.webp"},
   {
     id: "sweden-skansen-landmarks-v2",
     type: "museum",
@@ -59,8 +57,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1891", "Găzduiește o grădină zoologică cu elani", "Fondatorul a fost Artur Hazelius", "Găzduiește sărbători tradiționale suedeze"],
       en: ["Founded in 1891", "Houses a zoo with Nordic animals like moose", "Founder was Artur Hazelius", "Venue for traditional Swedish celebrations"],
     },
-    imageHint: "Skansen open air museum traditional wooden houses",
-  },
+    imageHint: "Skansen open air museum traditional wooden houses", image: "/poi-images/sweden-skansen-landmarks-v2.webp"},
   {
     id: "sweden-turning-torso-landmarks-v2",
     type: "tower",
@@ -79,8 +76,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Înălțime de 190 de metri", "Proiectat de Santiago Calatrava", "Inaugurat în anul 2005", "Compus din nouă segmente"],
       en: ["Height of 190 meters", "Designed by Santiago Calatrava", "Opened in 2005", "Consists of nine segments"],
     },
-    imageHint: "Turning Torso skyscraper Malmö",
-  },
+    imageHint: "Turning Torso skyscraper Malmö", image: "/poi-images/sweden-turning-torso-landmarks-v2.webp"},
   {
     id: "sweden-oresund-bridge-landmarks-v2",
     type: "bridge",
@@ -99,8 +95,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Lungime totală de 7.845 metri", "Inaugurat în anul 2000", "Include un tunel artificial", "Pilonii principali au 204 metri înălțime"],
       en: ["Total length of 7,845 meters", "Opened in 2000", "Includes an underwater tunnel", "Main pylons are 204 meters high"],
     },
-    imageHint: "Oresund bridge connecting Sweden and Denmark",
-  },
+    imageHint: "Oresund bridge connecting Sweden and Denmark", image: "/poi-images/sweden-oresund-bridge-landmarks-v2.webp"},
   {
     id: "sweden-avicii-arena-landmarks-v2",
     type: "landmark",
@@ -119,8 +114,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Diametru de 110 metri", "Inaugurată în anul 1989", "Capacitate de până la 16.000 locuri", "Dispune de o gondolă de sticlă exterioară"],
       en: ["Diameter of 110 meters", "Opened in 1989", "Capacity of up to 16,000 people", "Features an external glass gondola lift"],
     },
-    imageHint: "Avicii Arena globe building Stockholm",
-  },
+    imageHint: "Avicii Arena globe building Stockholm", image: "/poi-images/sweden-avicii-arena-landmarks-v2.webp"},
   {
     id: "sweden-gota-canal-landmarks-v2",
     type: "landmark",
@@ -139,8 +133,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Are un total de 58 de ecluze", "Inaugurat în anul 1832", "Proiectat de Baltzar von Platen", "Numit adesea 'Panglica Albastră'"],
       en: ["Includes a total of 58 locks", "Opened in 1832", "Designed by Baltzar von Platen", "Often called the 'Blue Ribbon' of Sweden"],
     },
-    imageHint: "Gota canal boat passing through locks",
-  },
+    imageHint: "Gota canal boat passing through locks", image: "/poi-images/sweden-gota-canal-landmarks-v2.webp"},
   {
     id: "sweden-kiruna-church-landmarks-v2",
     type: "church",
@@ -159,8 +152,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Construită în 1912", "Una dintre cele mai mari clădiri de lemn din țară", "Pictura altarului este de Prințul Eugen", "Va fi mutată din cauza mineritului"],
       en: ["Completed in 1912", "One of Sweden's largest wooden buildings", "Altarpiece painted by Prince Eugen", "Scheduled to be moved due to mining activity"],
     },
-    imageHint: "Kiruna Church red wooden building",
-  },
+    imageHint: "Kiruna Church red wooden building", image: "/poi-images/sweden-kiruna-church-landmarks-v2.webp"},
   {
     id: "sweden-carlsten-fortress-landmarks-v2",
     type: "landmark",
@@ -179,8 +171,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Construcția a început în 1658", "Situată pe cel mai înalt punct din Marstrand", "Închisoarea hoțului Lasse-Maja", "Oferă vedere spre Kattegat"],
       en: ["Construction began in 1658", "Situated on Marstrand's highest point", "Prison of the famous thief Lasse-Maja", "Offers views over the Kattegat sea"],
     },
-    imageHint: "Carlsten Fortress Marstrand island",
-  },
+    imageHint: "Carlsten Fortress Marstrand island", image: "/poi-images/sweden-carlsten-fortress-landmarks-v2.webp"},
   {
     id: "sweden-stockholm-old-town-landmarks-v2",
     type: "landmark",
@@ -199,8 +190,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Fondat în secolul al XIII-lea", "Găzduiește piața Stortorget", "Cea mai îngustă stradă are 90 cm", "Locul 'Băii de sânge din Stockholm'"],
       en: ["Founded in the 13th century", "Home to the Stortorget square", "Narrowest alley is only 90 cm wide", "Site of the Stockholm Bloodbath (1520)"],
     },
-    imageHint: "Gamla Stan colorful buildings Stortorget",
-  },
+    imageHint: "Gamla Stan colorful buildings Stortorget", image: "/poi-images/sweden-stockholm-old-town-landmarks-v2.webp"},
   {
     id: "sweden-royal-opera-landmarks-v2",
     type: "theater",
@@ -219,8 +209,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Fondată de Gustav al III-lea", "Inaugurată în anul 1898", "Locul asasinării lui Gustav al III-lea", "Sediul Baletului Regal Suedez"],
       en: ["Founded by King Gustav III", "Opened in 1898", "Site of King Gustav III's assassination", "Home of the Royal Swedish Ballet"],
     },
-    imageHint: "Royal Swedish Opera building Stockholm",
-  },
+    imageHint: "Royal Swedish Opera building Stockholm", image: "/poi-images/sweden-royal-opera-landmarks-v2.webp"},
   {
     id: "sweden-nordic-museum-landmarks-v2",
     type: "museum",
@@ -239,8 +228,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1873", "Construit între 1888 și 1907", "Deține 1,5 milioane de obiecte", "Statuie mare a lui Gustav Vasa în interior"],
       en: ["Founded in 1873", "Built between 1888 and 1907", "Collection includes 1.5 million items", "Houses a massive statue of King Gustav Vasa"],
     },
-    imageHint: "Nordiska museet building Stockholm",
-  }
+    imageHint: "Nordiska museet building Stockholm", image: "/poi-images/sweden-nordic-museum-landmarks-v2.webp"}
 ,
   {
     id: "sweden-nationalmuseum-landmarks-v2",
@@ -278,8 +266,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Finalizată în anul 1914", "Proiectată de Sigfrid Ericson", "Turn distinctiv de 60 de metri", "Simbol al orașului Göteborg"],
       en: ["Completed in the year 1914", "Designed by Sigfrid Ericson", "Striking 60-meter high tower", "Landmark of the city of Gothenburg"],
     },
-    imageHint: "Masthuggskyrkan Gothenburg exterior at dusk",
-  },
+    imageHint: "Masthuggskyrkan Gothenburg exterior at dusk", image: "/poi-images/sweden-masthugget-church-landmarks-v2.webp"},
   {
     id: "sweden-vadstena-castle-landmarks-v2",
     type: "castle",
@@ -297,8 +284,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Construcția a început în 1545", "Înconjurat de un șanț cu apă", "Găzduiește Arhivele Provinciale", "Inițial o fortăreață de apărare"],
       en: ["Construction began in 1545", "Surrounded by a water-filled moat", "Houses the Provincial Archives", "Formerly a defensive fortress"],
     },
-    imageHint: "Vadstena Castle and moat in summer",
-  },
+    imageHint: "Vadstena Castle and moat in summer", image: "/poi-images/sweden-vadstena-castle-landmarks-v2.webp"},
   {
     id: "sweden-high-coast-bridge-landmarks-v2",
     type: "bridge",
@@ -316,8 +302,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Lungime totală de 1.867 metri", "Inaugurat pe 1 decembrie 1997", "Pilonii au 180 de metri înălțime", "Al doilea cel mai lung pod din Scandinavia"],
       en: ["Total length of 1,867 meters", "Opened on December 1, 1997", "Pylons are 180 meters high", "Second longest suspension bridge in Scandinavia"],
     },
-    imageHint: "Högakustenbron suspension bridge over the river",
-  },
+    imageHint: "Högakustenbron suspension bridge over the river", image: "/poi-images/sweden-high-coast-bridge-landmarks-v2.webp"},
   {
     id: "sweden-skara-cathedral-landmarks-v2",
     type: "cathedral",
@@ -335,8 +320,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Fondată în jurul anului 1000", "Două turnuri de 63 de metri înălțime", "Găzduiește artă medievală valoroasă", "Arhitectură gotică din secolul al XIII-lea"],
       en: ["Founded around the year 1000", "Two distinctive 63-meter high towers", "Houses valuable medieval art", "13th-century Gothic architecture"],
     },
-    imageHint: "Skara Cathedral twin towers and facade",
-  },
+    imageHint: "Skara Cathedral twin towers and facade", image: "/poi-images/sweden-skara-cathedral-landmarks-v2.webp"},
   {
     id: "sweden-stromsholm-palace-landmarks-v2",
     type: "palace",
@@ -354,8 +338,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Construit între 1669 și 1674", "Proiectat de Nicodemus Tessin cel Bătrân", "Sediul școlii de echitație suedeze", "Construit pentru regina Hedwig Eleonora"],
       en: ["Built between 1669 and 1674", "Designed by Nicodemus Tessin the Elder", "Seat of the Swedish riding school", "Built for Queen Hedwig Eleonora"],
     },
-    imageHint: "Strömsholm Palace yellow facade and gardens",
-  },
+    imageHint: "Strömsholm Palace yellow facade and gardens", image: "/poi-images/sweden-stromsholm-palace-landmarks-v2.webp"},
   {
     id: "sweden-moderna-museet-landmarks-v2",
     type: "museum",
@@ -373,8 +356,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Inaugurat în anul 1958", "Clădire nouă proiectată de Rafael Moneo", "Parc de sculpturi faimos în exterior", "Accesul la colecție este adesea gratuit"],
       en: ["Opened in the year 1958", "New building designed by Rafael Moneo", "World-famous outdoor sculpture park", "Entry to the collection is often free"],
     },
-    imageHint: "Moderna Museet Stockholm exterior on Skeppsholmen",
-  },
+    imageHint: "Moderna Museet Stockholm exterior on Skeppsholmen", image: "/poi-images/sweden-moderna-museet-landmarks-v2.webp"},
   {
     id: "sweden-gothenburg-city-theatre-landmarks-v2",
     type: "theater",
@@ -392,8 +374,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Inaugurat în anul 1934", "Proiectat de Carl Bergsten", "Cel mai vechi teatru municipal din Suedia", "Renumit pentru interiorul său elegant"],
       en: ["Opened in the year 1934", "Designed by Carl Bergsten", "Sweden's oldest city theatre", "Famous for its elegant interior"],
     },
-    imageHint: "Gothenburg City Theatre facade at Götaplatsen",
-  },
+    imageHint: "Gothenburg City Theatre facade at Götaplatsen", image: "/poi-images/sweden-gothenburg-city-theatre-landmarks-v2.webp"},
   {
     id: "sweden-svaneholm-castle-landmarks-v2",
     type: "castle",
@@ -411,8 +392,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Construit în anii 1530", "Structură cu patru aripi și curte interioară", "Faimos datorită reformatorului Macklean", "Înconjurat de un parc vast"],
       en: ["Built in the 1530s", "Four-wing structure with a courtyard", "Famous due to reformer Rutger Macklean", "Surrounded by a large park"],
     },
-    imageHint: "Svaneholm Castle red brick building by the lake",
-  },
+    imageHint: "Svaneholm Castle red brick building by the lake", image: "/poi-images/sweden-svaneholm-castle-landmarks-v2.webp"},
   {
     id: "sweden-technical-museum-landmarks-v2",
     type: "museum",
@@ -430,8 +410,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1924", "Clădire situată în Gärdet din 1936", "Găzduiește un cinema modern Wisdome", "Peste 50.000 de piese în colecție"],
       en: ["Founded in the year 1924", "Located in Gärdet since 1936", "Houses a modern Wisdome cinema", "Over 50,000 items in the collection"],
     },
-    imageHint: "Tekniska museet Stockholm exterior and Wisdome building",
-  },
+    imageHint: "Tekniska museet Stockholm exterior and Wisdome building", image: "/poi-images/sweden-technical-museum-landmarks-v2.webp"},
   {
     id: "sweden-alvsborg-bridge-landmarks-v2",
     type: "bridge",
@@ -449,8 +428,7 @@ export const swedenLandmarksV2: POI[] = [
       ro: ["Inaugurat în anul 1966", "Lungime totală de 933 metri", "Deschiderea principală are 417 metri", "Pilonii au 107 metri înălțime"],
       en: ["Opened in the year 1966", "Total length of 933 meters", "Main span measures 417 meters", "Pylons are 107 meters high"],
     },
-    imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
-  },
+    imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers", image: "/poi-images/sweden-alvsborg-bridge-landmarks-v2.webp"},
   {
     id: "sweden-sofia-church-landmarks-v2",
     type: "church",

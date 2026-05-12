@@ -39,8 +39,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Forma actuală datează în principal din secolul al XVII-lea", "Găzduiește o faimoasă colecție de măști Kurenti", "Punct strategic de apărare împotriva otomanilor", "Deține o curte cu arcade magnifică în stil renascentist"],
       en: ["Present form dates mainly from the 17th century", "Houses a famous collection of Kurenti masks", "Strategic point for defense against the Ottomans", "Features a magnificent Renaissance-style arcaded courtyard"],
     },
-    imageHint: "Ptuj Castle on a hill overlooking the town and Drava river",
-  },
+    imageHint: "Ptuj Castle on a hill overlooking the town and Drava river", image: "/poi-images/slovenia-ptuj-castle-history-v2.webp"},
   {
     id: "slovenia-celje-castle-history-v2",
     type: "castle",
@@ -79,8 +78,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Aspectul actual renascentist datează din 1570", "Un pasaj secret trece prin sistemul de peșteri carstice", "A supraviețuit unui asediu de un an în secolul al XV-lea", "Înscris în Guinness Book of World Records"],
       en: ["Present Renaissance appearance dates from 1570", "A secret passage leads through the karst cave system", "Survived a year-long siege in the 15th century", "Listed in the Guinness World Records"],
     },
-    imageHint: "Renaissance castle built into a massive cliff face cave",
-  },
+    imageHint: "Renaissance castle built into a massive cliff face cave", image: "/poi-images/slovenia-predjama-castle-history-v2.webp"},
   {
     id: "slovenia-bled-castle-history-v2",
     type: "castle",
@@ -99,8 +97,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Menționat documentar pentru prima dată în 1011", "Deține o tipografie Gutenberg reconstruită", "Capela castelului are fresce baroce din jurul anului 1700", "A servit ca sediu german în timpul celui de-al Doilea Război Mondial"],
       en: ["First mentioned in documents in 1011", "Features a reconstructed Gutenberg printing press", "The castle chapel has Baroque frescoes from 1700", "Served as a German headquarters during WWII"],
     },
-    imageHint: "Medieval castle on a cliff overlooking a blue lake",
-  },
+    imageHint: "Medieval castle on a cliff overlooking a blue lake", image: "/poi-images/slovenia-bled-castle-history-v2.webp"},
   {
     id: "slovenia-sticna-abbey-history-v2",
     type: "monument",
@@ -119,8 +116,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Fondată în 1132 de patriarhul de Aquileia", "Găzduiește astăzi Muzeul Sloven al Religiei", "Deține un claustru gotic cu motive florale", "Fortificată în secolul al XV-lea împotriva atacurilor otomane"],
       en: ["Founded in 1132 by the Patriarch of Aquileia", "Currently houses the Slovenian Museum of Religion", "Features a Gothic cloister with floral motifs", "Fortified in the 15th century against Ottoman raids"],
     },
-    imageHint: "Ancient monastery complex with a large stone church",
-  },
+    imageHint: "Ancient monastery complex with a large stone church", image: "/poi-images/slovenia-sticna-abbey-history-v2.webp"},
   {
     id: "slovenia-zice-charterhouse-history-v2",
     type: "ruins",
@@ -139,8 +135,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Fondată în jurul anului 1160 de Ottokar al III-lea de Stiria", "A găzduit cândva a doua cea mai mare bibliotecă din Europa", "Deține cel mai vechi han încă activ din Slovenia", "Dizolvată în 1782 de împăratul Iosif al II-lea"],
       en: ["Founded around 1160 by Ottokar III of Styria", "Once home to the second largest library in Europe", "Features the oldest continuously operating inn in Slovenia", "Dissolved in 1782 by Emperor Joseph II"],
     },
-    imageHint: "Ruins of a medieval Carthusian monastery in a green valley",
-  },
+    imageHint: "Ruins of a medieval Carthusian monastery in a green valley", image: "/poi-images/slovenia-zice-charterhouse-history-v2.webp"},
   {
     id: "slovenia-idrija-anthony-shaft-history-v2",
     type: "mine",
@@ -159,8 +154,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Săpăturile în Galeria lui Anton au început în 1500", "Parte a Patrimoniului Mondial UNESCO din 2012", "Mercurul a fost extras aici până în 1995", "Găzduiește o capelă subterană pentru mineri"],
       en: ["Excavation of Anthony's Shaft began in 1500", "Part of the UNESCO World Heritage list since 2012", "Mercury was mined here until 1995", "Houses an underground chapel for miners"],
     },
-    imageHint: "Historical entrance to a mercury mine in Idrija",
-  },
+    imageHint: "Historical entrance to a mercury mine in Idrija", image: "/poi-images/slovenia-idrija-anthony-shaft-history-v2.webp"},
   {
     id: "slovenia-franja-hospital-history-v2",
     type: "museum",
@@ -179,8 +173,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Numit după doctorița Franja Bojc Bidovec", "Format din 14 barăci de lemn adânc în strâmtoare", "A îngrijit peste 500 de răniți de diverse naționalități", "Deține Marca Patrimoniului European"],
       en: ["Named after the physician Dr. Franja Bojc Bidovec", "Consists of 14 wooden barracks deep in the gorge", "Treated over 500 wounded of various nationalities", "Holds the European Heritage Label"],
     },
-    imageHint: "Wooden barracks of a secret hospital in a rocky gorge",
-  },
+    imageHint: "Wooden barracks of a secret hospital in a rocky gorge", image: "/poi-images/slovenia-franja-hospital-history-v2.webp"},
   {
     id: "slovenia-kobarid-ossuary-history-v2",
     type: "monument",
@@ -199,8 +192,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Găzduiește rămășițele a 7.014 soldați italieni", "Inaugurat personal de Benito Mussolini", "Singurul monument funerar italian de acest tip din Slovenia", "Numele celor identificați sunt gravate în marmură"],
       en: ["Houses the remains of 7,014 Italian soldiers", "Inaugurated personally by Benito Mussolini", "Only Italian memorial of this kind in Slovenia", "The names of identified soldiers are engraved in marble"],
     },
-    imageHint: "Large stone monument with circular terraces on a hill",
-  },
+    imageHint: "Large stone monument with circular terraces on a hill", image: "/poi-images/slovenia-kobarid-ossuary-history-v2.webp"},
   {
     id: "slovenia-russian-chapel-vrsic-history-v2",
     type: "church",
@@ -219,8 +211,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Construită în 1916 în stil ortodox rus", "Comemorează peste 300 de victime ale avalanșei", "Deține două turnuri caracteristice în formă de ceapă", "Locul ceremoniilor anuale de comemorare a prieteniei sloveno-ruse"],
       en: ["Built in 1916 in Russian Orthodox style", "Commemorates over 300 victims of the avalanche", "Features two characteristic onion-shaped towers", "Site of annual memorial services for Slovenian-Russian friendship"],
     },
-    imageHint: "Small wooden Orthodox chapel in a forest setting",
-  },
+    imageHint: "Small wooden Orthodox chapel in a forest setting", image: "/poi-images/slovenia-russian-chapel-vrsic-history-v2.webp"},
   {
     id: "slovenia-hrastovlje-church-history-v2",
     type: "church",
@@ -239,8 +230,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Biserica datează din secolul al XII-lea sau al XIII-lea", "Ciclul Dansul Morții a fost pictat în 1490 de Johannes de Castua", "Zidul de apărare servea protecției împotriva incursiunilor otomane", "Frescele au fost redescoperite abia în 1949"],
       en: ["The church dates back to the 12th or 13th century", "The Dance of Death cycle was painted in 1490 by Johannes de Castua", "The defensive wall protected against Ottoman raids", "The frescoes were rediscovered only in 1949"],
     },
-    imageHint: "Small fortified church with ancient stone wall and tower",
-  },
+    imageHint: "Small fortified church with ancient stone wall and tower", image: "/poi-images/slovenia-hrastovlje-church-history-v2.webp"},
   {
     id: "slovenia-piran-walls-history-v2",
     type: "landmark",
@@ -299,8 +289,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Aspectul actual datează în principal din secolul al XVIII-lea", "Deține o sală a cavalerilor magnifică cu picturi pe tavan", "Clădirea găzduiește și muzeul turtelor dulci", "Cândva reședința conților de Thurn-Valsassina"],
       en: ["Present appearance dates mainly from the 18th century", "Features a grand Knight's Hall with ceiling paintings", "The building also houses a gingerbread museum", "Once the residence of the Counts of Thurn-Valsassina"],
     },
-    imageHint: "Baroque manor house in a medieval town square",
-  },
+    imageHint: "Baroque manor house in a medieval town square", image: "/poi-images/slovenia-radovljica-manor-history-v2.webp"},
   {
     id: "slovenia-kamnik-mali-grad-history-v2",
     type: "ruins",
@@ -339,8 +328,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Deține unul dintre cele mai înalte turnuri de castel din Slovenia", "Menționat în scris pentru prima dată în 1230", "A fost aproape complet distrus în al Doilea Război Mondial", "A servit conților de Gorizia ca bază strategică"],
       en: ["Features one of the highest castle towers in Slovenia", "First mentioned in writing in 1230", "Was almost completely destroyed during World War II", "Served as a strategic base for the Counts of Gorizia"],
     },
-    imageHint: "Large medieval castle with a high stone tower and walls",
-  },
+    imageHint: "Large medieval castle with a high stone tower and walls", image: "/poi-images/slovenia-rihemberk-castle-history-v2.webp"},
   {
     id: "slovenia-turjak-castle-history-v2",
     type: "castle",
@@ -359,8 +347,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Are forma unui triunghi neregulat", "Centrul protestantismului în Slovenia în secolul al XVI-lea", "Locul unui asediu faimos în anul 1943", "Găzduiește arsenalul familiei Auersperg"],
       en: ["Has the shape of an irregular triangle", "Center of Protestantism in Slovenia in the 16th century", "Site of a famous siege in 1943", "Houses the Auersperg armory"],
     },
-    imageHint: "Strong stone castle with round towers and thick walls",
-  },
+    imageHint: "Strong stone castle with round towers and thick walls", image: "/poi-images/slovenia-turjak-castle-history-v2.webp"},
   {
     id: "slovenia-sneznik-castle-history-v2",
     type: "palace",
@@ -379,8 +366,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Menționat documentar pentru prima dată în 1269", "Fost castel de vânătoare al familiei Schönburg-Waldenburg", "Unul dintre puținele castele din Slovenia cu mobilier original", "În mijlocul unui vast parc peisagistic englezesc"],
       en: ["First mentioned in documents in 1269", "Former hunting lodge of the Schönburg-Waldenburg family", "One of the few castles in Slovenia with original furniture", "Surrounded by an extensive English landscape park"],
     },
-    imageHint: "White Renaissance-style castle with a bridge and a pond",
-  },
+    imageHint: "White Renaissance-style castle with a bridge and a pond", image: "/poi-images/slovenia-sneznik-castle-history-v2.webp"},
   {
     id: "slovenia-bogensperk-castle-history-v2",
     type: "castle",
@@ -399,8 +385,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Clădire renascentistă din secolul al XVI-lea", "Valvasor a operat aici propriul atelier de gravură în cupru", "Găzduiește un muzeu de topografie și geografie", "Loc popular pentru nunți și evenimente culturale"],
       en: ["16th-century Renaissance building", "Valvasor operated his own copper engraving workshop here", "Houses a museum of surveying and geography", "Popular venue for weddings and cultural events"],
     },
-    imageHint: "Renaissance castle with four corner towers in a forest",
-  },
+    imageHint: "Renaissance castle with four corner towers in a forest", image: "/poi-images/slovenia-bogensperk-castle-history-v2.webp"},
   {
     id: "slovenia-maribor-castle-history-v2",
     type: "castle",
@@ -419,8 +404,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XV-lea de împăratul Frederic al III-lea", "Deține o scară rococo somptuoasă", "Capela castelului este dedicată Fecioarei Maria", "Cunoscut pentru sala cavalerilor barocă cu picturi pe tavan"],
       en: ["Built in the 15th century by Emperor Frederick III", "Features a magnificent Rococo staircase", "The castle chapel is dedicated to the Virgin Mary", "Famous for its Baroque Knight's Hall with ceiling paintings"],
     },
-    imageHint: "Historical castle building in the city center of Maribor",
-  },
+    imageHint: "Historical castle building in the city center of Maribor", image: "/poi-images/slovenia-maribor-castle-history-v2.webp"},
   {
     id: "slovenia-stanjel-history-v2",
     type: "village",
@@ -439,8 +423,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Fortificat în secolul al XV-lea împotriva atacurilor otomane", "Deține o poartă medievală a orașului cu turn de apărare", "Grădina Ferrari a fost proiectată de Max Fabiani", "Găzduiește un muzeu etnografic în 'Kraška hiša'"],
       en: ["Fortified in the 15th century against Ottoman attacks", "Features a medieval city gate with a defensive tower", "The Ferrari Garden was designed by Max Fabiani", "Houses an ethnological museum in the 'Kraška hiša' house"],
     },
-    imageHint: "Stone village on a hill with a castle and a scenic garden",
-  },
+    imageHint: "Stone village on a hill with a castle and a scenic garden", image: "/poi-images/slovenia-stanjel-history-v2.webp"},
   {
     id: "slovenia-sempeter-necropolis-history-v2",
     type: "ruins",
@@ -459,8 +442,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Monumentele datează din secolele II și III d.Hr.", "Descoperite accidental în 1952 în timpul unor lucrări în grădină", "Cel mai mare mormânt este monumentul familiei Ennier", "Prezintă scene din mitologia greco-romană"],
       en: ["The monuments date from the 2nd and 3rd centuries AD", "Discovered by chance in 1952 during gardening work", "The largest tomb is the monument of the Ennier family", "Displays scenes from Greco-Roman mythology"],
     },
-    imageHint: "Ornate Roman stone tomb monuments in an outdoor park",
-  },
+    imageHint: "Ornate Roman stone tomb monuments in an outdoor park", image: "/poi-images/slovenia-sempeter-necropolis-history-v2.webp"},
   {
     id: "slovenia-divje-babe-history-v2",
     type: "ruins",
@@ -479,8 +461,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["'Flautul Neandertalian' are o vechime de aproximativ 60.000 de ani", "Fabricat din femurul unui urs de peșteră", "Descoperit în 1995 de arheologul Ivan Turk", "Situat pe un platou abrupt deasupra văii Idrijca"],
       en: ["The 'Neanderthal flute' is approximately 60,000 years old", "Made from the femur of a cave bear", "Discovered in 1995 by archaeologist Ivan Turk", "Located on a steep plateau above the Idrijca Valley"],
     },
-    imageHint: "Entrance to a prehistoric cave in a rocky cliff",
-  },
+    imageHint: "Entrance to a prehistoric cave in a rocky cliff", image: "/poi-images/slovenia-divje-babe-history-v2.webp"},
   {
     id: "slovenia-loka-castle-history-v2",
     type: "castle",
@@ -519,8 +500,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Construită între 1752 și 1761 în stil baroc", "Cândva reședința episcopilor de Ljubljana", "Deține picturi valoroase de Fortunat Bergant", "Cupola atinge o înălțime de peste 50 de metri"],
       en: ["Built between 1752 and 1761 in Baroque style", "Once the residence of the Bishops of Ljubljana", "Contains valuable paintings by Fortunat Bergant", "The dome reaches a height of over 50 meters"],
     },
-    imageHint: "Massive Baroque cathedral with a large dome in a small town",
-  },
+    imageHint: "Massive Baroque cathedral with a large dome in a small town", image: "/poi-images/slovenia-gornji-grad-cathedral-history-v2.webp"},
   {
     id: "slovenia-kostanjevica-monastery-history-v2",
     type: "monument",
@@ -539,8 +519,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Fondată în 1234 de Bernhard von Spanheim", "Deține o curte cu arcade cu 82 de piloni de piatră", "Locul simpozionului internațional de sculptură Forma Viva", "Biserica mănăstirii este o capodoperă a goticului timpuriu"],
       en: ["Founded in 1234 by Bernhard von Spanheim", "Features an arcaded courtyard with 82 stone pillars", "Host to the Forma Viva international sculpture symposium", "The monastery church is a masterpiece of early Gothic"],
     },
-    imageHint: "Large monastery complex with a huge inner courtyard and arches",
-  },
+    imageHint: "Large monastery complex with a huge inner courtyard and arches", image: "/poi-images/slovenia-kostanjevica-monastery-history-v2.webp"},
   {
     id: "slovenia-otocec-castle-history-v2",
     type: "castle",
@@ -559,8 +538,7 @@ export const sloveniaHistoryV2: POI[] = [
       ro: ["Inițial o cetate medievală", "Grav avariat de un incendiu în al Doilea Război Mondial", "Restaurat fidel în stilul Renașterii", "Găzduiește astăzi un hotel exclusivist"],
       en: ["Originally a medieval fortress", "Severely damaged by fire during World War II", "Restored to its original state in Renaissance style", "Currently houses an exclusive hotel"],
     },
-    imageHint: "Medieval castle on a small island surrounded by a river",
-  },
+    imageHint: "Medieval castle on a small island surrounded by a river", image: "/poi-images/slovenia-otocec-castle-history-v2.webp"},
   {
     id: "slovenia-ljubljana-castle-history-v2",
     type: "castle",

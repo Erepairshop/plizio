@@ -19,8 +19,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Cel mai înalt punct este Mulhacén la 3479 metri.", "Declarată rezervă a biosferei UNESCO în 1986.", "Cea mai sudică stațiune de schi din Europa.", "Găzduiește peste 60 de specii de plante endemice."],
       en: ["Highest point is Mulhacén at 3479 meters.", "Declared a UNESCO Biosphere Reserve in 1986.", "Southernmost ski resort in Europe.", "Home to over 60 endemic plant species."],
     },
-    imageHint: "Snow-capped Sierra Nevada mountains in Andalusia",
-  },
+    imageHint: "Snow-capped Sierra Nevada mountains in Andalusia", image: "/poi-images/spain-sierra-nevada-relief-v2.webp"},
   {
     id: "spain-pyrenees-relief-v2",
     type: "mountain",
@@ -39,8 +38,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Pico Aneto este cel mai înalt vârf la 3404 metri.", "Format prin coliziunea plăcii iberice cu Eurasia.", "Găzduiește Parcul Național Ordesa y Monte Perdido.", "Graniță culturală importantă din antichitate."],
       en: ["Pico Aneto is the highest peak at 3404 meters.", "Formed by the collision of the Iberian plate with Eurasia.", "Home to the Ordesa y Monte Perdido National Park.", "Important cultural border since ancient times."],
     },
-    imageHint: "Dramatic peaks of the Pyrenees on the Spanish border",
-  },
+    imageHint: "Dramatic peaks of the Pyrenees on the Spanish border", image: "/poi-images/spain-pyrenees-relief-v2.webp"},
   {
     id: "spain-meseta-central-relief-v2",
     type: "landmark",
@@ -59,8 +57,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Se află la o altitudine medie de 660 de metri.", "Este împărțit de Sistemul Central într-o jumătate de nord și una de sud.", "Definește climatul continental al Spaniei centrale.", "Compus în principal din roci paleozoice."],
       en: ["Sits at an average altitude of 660 meters.", "Divided by the Central System into northern and southern halves.", "Shapes the continental climate of central Spain.", "Consists mainly of Paleozoic rocks."],
     },
-    imageHint: "Vast horizontal plains of the Spanish Meseta Central",
-  },
+    imageHint: "Vast horizontal plains of the Spanish Meseta Central", image: "/poi-images/spain-meseta-central-relief-v2.webp"},
   {
     id: "spain-sistema-central-relief-v2",
     type: "mountain",
@@ -79,8 +76,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Se întinde pe 600 de kilometri din Portugalia până în Sistemul Iberic.", "Cel mai înalt vârf este Pico Almanzor la 2592 metri.", "Format din granit și gnais.", "Include lanțuri muntoase precum Sierra de Gredos și Guadarrama."],
       en: ["Stretches for 600 kilometers from Portugal to the Iberian System.", "Highest peak is Pico Almanzor at 2592 meters.", "Composed of granite and gneiss rocks.", "Includes ranges like Sierra de Gredos and Guadarrama."],
     },
-    imageHint: "Granite mountains of the Sistema Central in Spain",
-  },
+    imageHint: "Granite mountains of the Sistema Central in Spain", image: "/poi-images/spain-sistema-central-relief-v2.webp"},
   {
     id: "spain-sistema-iberico-relief-v2",
     type: "mountain",
@@ -99,8 +95,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Moncayo este cel mai înalt vârf la 2314 metri.", "Sursă importantă pentru râuri precum Tajo și Duero.", "Format dintr-o serie complexă de lanțuri muntoase.", "Găzduiește situri paleontologice semnificative."],
       en: ["Moncayo is the highest peak at 2314 meters.", "Important source for rivers like the Tagus and the Duero.", "Composed of a complex series of mountain ranges.", "Home to significant paleontological sites."],
     },
-    imageHint: "Rugged terrain of the Iberian System mountains",
-  },
+    imageHint: "Rugged terrain of the Iberian System mountains", image: "/poi-images/spain-sistema-iberico-relief-v2.webp"},
   {
     id: "spain-cordillera-cantabrica-relief-v2",
     type: "mountain",
@@ -119,8 +114,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Se întinde pe 300 de kilometri de la Pirinei până în Galiția.", "Are profile asimetrice cu pante nordice abrupte.", "Include Picos de Europa ca cel mai proeminent masiv.", "Habitat important pentru ursul brun cantabric."],
       en: ["Stretches for 300 kilometers from the Pyrenees to Galicia.", "Features asymmetrical profiles with steep northern slopes.", "Contains the Picos de Europa as its most prominent massif.", "Key habitat for the Cantabrian brown bear."],
     },
-    imageHint: "Lush green slopes of the Cantabrian Mountains",
-  },
+    imageHint: "Lush green slopes of the Cantabrian Mountains", image: "/poi-images/spain-cordillera-cantabrica-relief-v2.webp"},
   {
     id: "spain-sierra-morena-relief-v2",
     type: "mountain",
@@ -139,8 +133,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Formată prin ridicarea marginii Masivului Hesperic.", "Cel mai înalt vârf este Bañuela la 1332 metri.", "Cunoscută pentru zăcăminte bogate de plumb, cupru și mercur.", "Cea mai importantă zonă de refugiu pentru râsul iberic."],
       en: ["Formed by the uplift of the edge of the Hesperian Massif.", "Highest peak is Bañuela at 1332 meters.", "Known for rich deposits of lead, copper, and mercury.", "Primary refuge area for the Iberian lynx."],
     },
-    imageHint: "Rolling hills and oak forests of Sierra Morena",
-  },
+    imageHint: "Rolling hills and oak forests of Sierra Morena", image: "/poi-images/spain-sierra-morena-relief-v2.webp"},
   {
     id: "spain-depresion-del-ebro-relief-v2",
     type: "valley",
@@ -159,8 +152,7 @@ export const spainReliefV2: POI[] = [
       ro: ["A fost umplută de sedimentele râului Ebru de-a lungul milioanelor de ani.", "Este una dintre cele mai fertile regiuni agricole ale Spaniei.", "Conține semideșertul Bardenas Reales.", "A fost o mare interioară în trecutul geologic."],
       en: ["Filled by sediments from the Ebro river over millions of years.", "One of Spain's most fertile agricultural regions.", "Contains the Bardenas Reales semi-desert.", "Was an inland sea in geological history."],
     },
-    imageHint: "Fertile plains and riverbed of the Ebro Basin",
-  },
+    imageHint: "Fertile plains and riverbed of the Ebro Basin", image: "/poi-images/spain-depresion-del-ebro-relief-v2.webp"},
   {
     id: "spain-depresion-del-guadalquivir-relief-v2",
     type: "valley",
@@ -199,8 +191,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Pico Almanzor este cea mai înaltă cotă la 2592 metri.", "Cunoscută pentru valea glaciară Circo de Gredos.", "Cel mai important habitat pentru capra iberică.", "Caracterizată prin stânci abrupte de granit."],
       en: ["Pico Almanzor is the highest point at 2592 meters.", "Famous for the Circo de Gredos glacial valley.", "Most important habitat for the Spanish ibex.", "Characterized by rugged granite cliffs."],
     },
-    imageHint: "Granite peaks and glacial lagoons of Sierra de Gredos",
-  },
+    imageHint: "Granite peaks and glacial lagoons of Sierra de Gredos", image: "/poi-images/spain-sierra-de-gredos-relief-v2.webp"},
   {
     id: "spain-sierra-de-tramuntana-relief-v2",
     type: "mountain",
@@ -219,8 +210,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Puig Major este cel mai înalt vârf din Baleare la 1445 metri.", "Patrimoniu Mondial UNESCO la categoria peisaj cultural.", "Formată din stânci calcaroase abrupte direct pe malul mării.", "Dispune de un sistem istoric ingenios de irigații."],
       en: ["Puig Major is the highest peak in the Balearics at 1445 meters.", "UNESCO World Heritage site in the cultural landscape category.", "Consists of steep limestone cliffs right by the sea.", "Features a sophisticated historic irrigation system."],
     },
-    imageHint: "Coastal limestone mountains of Sierra de Tramuntana",
-  },
+    imageHint: "Coastal limestone mountains of Sierra de Tramuntana", image: "/poi-images/spain-sierra-de-tramuntana-relief-v2.webp"},
   {
     id: "spain-moncayo-relief-v2",
     type: "peak",
@@ -239,8 +229,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Atinge o altitudine de 2314 metri.", "Prezintă o zonare verticală pronunțată a vegetației.", "Considerat un munte sfânt și legendar încă din antichitate.", "Prezintă urme de glaciațiune cuaternară."],
       en: ["Reaches an altitude of 2314 meters.", "Features distinct vertical zonation of vegetation.", "Considered a sacred and legendary mountain since antiquity.", "Shows traces of Pleistocene glaciation."],
     },
-    imageHint: "Isolated snow-covered Moncayo peak",
-  },
+    imageHint: "Isolated snow-covered Moncayo peak", image: "/poi-images/spain-moncayo-relief-v2.webp"},
   {
     id: "spain-cabo-de-gata-relief-v2",
     type: "landmark",
@@ -259,8 +248,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Cea mai mare formațiune vulcanică din Peninsula Iberică.", "Include recife fosile și coloane de bazalt.", "Cel mai arid loc din Europa continentală.", "Rezervă a biosferei și geoparc."],
       en: ["Largest volcanic formation on the Iberian Peninsula.", "Includes fossil reefs and basalt columns.", "Driest place in mainland Europe.", "Biosphere Reserve and Geopark."],
     },
-    imageHint: "Volcanic cliffs and arid coastline of Cabo de Gata",
-  },
+    imageHint: "Volcanic cliffs and arid coastline of Cabo de Gata", image: "/poi-images/spain-cabo-de-gata-relief-v2.webp"},
   {
     id: "spain-sierra-de-cazorla-relief-v2",
     type: "mountain",
@@ -279,8 +267,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Zona de izvoare a râului Guadalquivir.", "Format din formațiuni calcaroase abrupte și văi adânci.", "Cel mai înalt vârf este Empanadas la 2106 metri.", "Deține una dintre cele mai mari biodiversități din bazinul mediteraneen."],
       en: ["Source region of the Guadalquivir river.", "Composed of rugged limestone formations and deep valleys.", "Highest peak is Empanadas at 2106 meters.", "Features one of the highest biodiversity levels in the Mediterranean."],
     },
-    imageHint: "Rugged limestone mountains and pine forests of Cazorla",
-  },
+    imageHint: "Rugged limestone mountains and pine forests of Cazorla", image: "/poi-images/spain-sierra-de-cazorla-relief-v2.webp"},
   {
     id: "spain-montes-de-toledo-relief-v2",
     type: "mountain",
@@ -299,8 +286,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este La Villuerca la 1603 metri.", "Format din creste dure de cuarțit care ies în evidență.", "Găzduiește Parcul Național Cabañeros.", "Cea mai importantă zonă de vânătoare și silvicultură din centrul Spaniei."],
       en: ["Highest peak is La Villuerca at 1603 meters.", "Composed of hard quartzite ridges protruding as resistant landforms.", "Home to the Cabañeros National Park.", "Key hunting and forestry region of central Spain."],
     },
-    imageHint: "Quartzite ridges of the Montes de Toledo",
-  },
+    imageHint: "Quartzite ridges of the Montes de Toledo", image: "/poi-images/spain-montes-de-toledo-relief-v2.webp"},
   {
     id: "spain-sierra-de-urbion-relief-v2",
     type: "mountain",
@@ -319,8 +305,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Pico de Urbión atinge o altitudine de 2228 metri.", "Găzduiește faimoasa Laguna Negra.", "Caracterizat prin păduri dese de pin și fag.", "Format prin ridicarea alpină în perioada terțiară."],
       en: ["Pico de Urbión reaches an altitude of 2228 meters.", "Home to the famous Laguna Negra.", "Characterized by dense pine and beech forests.", "Formed by Alpine uplift during the Tertiary period."],
     },
-    imageHint: "Glacial Laguna Negra surrounded by Urbion mountains",
-  },
+    imageHint: "Glacial Laguna Negra surrounded by Urbion mountains", image: "/poi-images/spain-sierra-de-urbion-relief-v2.webp"},
   {
     id: "spain-peñalara-relief-v2",
     type: "peak",
@@ -339,8 +324,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Înălțimea vârfului este de 2428 metri.", "Găzduiește resturi de forme glaciare pleistocene, cum ar fi circurile.", "Cel mai important refugiu pentru amfibienii de munte înalt.", "Compus din roci masive de granit."],
       en: ["Summit altitude is 2428 meters.", "Contains remains of Pleistocene glacial landforms such as cirques.", "Crucial refuge for high-altitude amphibians.", "Composed of massive granite rock."],
     },
-    imageHint: "Glacial cirque of Peñalara in the Guadarrama range",
-  },
+    imageHint: "Glacial cirque of Peñalara in the Guadarrama range", image: "/poi-images/spain-peñalara-relief-v2.webp"},
   {
     id: "spain-montes-de-leon-relief-v2",
     type: "mountain",
@@ -359,8 +343,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Teleno este cel mai înalt vârf la 2188 metri.", "Format în principal din șisturi și cuarțite paleozoice.", "Include peisajul antropic semnificativ de la Las Médulas.", "Zonă minieră importantă din punct de vedere istoric."],
       en: ["Teleno is the highest peak at 2188 meters.", "Composed mainly of Paleozoic slates and quartzites.", "Contains the significant anthropogenic landscape of Las Médulas.", "Historically important mining region."],
     },
-    imageHint: "Slate mountains of the Montes de Leon",
-  },
+    imageHint: "Slate mountains of the Montes de Leon", image: "/poi-images/spain-montes-de-leon-relief-v2.webp"},
   {
     id: "spain-aneto-relief-v2",
     type: "peak",
@@ -379,8 +362,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Atinge o altitudine de 3404 metri.", "Situat în masivul Maladeta din provincia Huesca.", "Deține creasta infamă 'Pas des Mahomet'.", "Ghețarul său se micșorează drastic din cauza schimbărilor climatice."],
       en: ["Reaches an altitude of 3404 meters.", "Located in the Maladeta massif in the province of Huesca.", "Features the notorious 'Pas des Mahomet' ridge.", "Its glacier is shrinking rapidly due to climate change."],
     },
-    imageHint: "Snowy peak of Aneto with its glacier",
-  },
+    imageHint: "Snowy peak of Aneto with its glacier", image: "/poi-images/spain-aneto-relief-v2.webp"},
   {
     id: "spain-torre-de-cerredo-relief-v2",
     type: "peak",
@@ -399,8 +381,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Înălțimea este de 2648 metri.", "Format din calcar masiv din perioada carboniferă.", "Oferă vederi spectaculoase asupra Golfului Biscaya.", "Prima ascensiune a avut loc în anul 1882."],
       en: ["Altitude is 2648 meters.", "Composed of massive Carboniferous limestone.", "Offers spectacular views of the Bay of Biscay.", "First ascent took place in 1882."],
     },
-    imageHint: "Craggy limestone peak of Torre de Cerredo",
-  },
+    imageHint: "Craggy limestone peak of Torre de Cerredo", image: "/poi-images/spain-torre-de-cerredo-relief-v2.webp"},
   {
     id: "spain-pico-almanzor-relief-v2",
     type: "peak",
@@ -419,8 +400,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Atinge o altitudine de 2592 metri.", "Numit după generalul maur Al-Mansur.", "Are o formă caracteristică de corn datorită eroziunii glaciare.", "Format din granit hercinic foarte dur."],
       en: ["Reaches an altitude of 2592 meters.", "Named after the Moorish general Al-Mansur.", "Features a characteristic horn shape due to glacial erosion.", "Composed of very hard Hercynian granite."],
     },
-    imageHint: "Sharp granite horn of Pico Almanzor",
-  },
+    imageHint: "Sharp granite horn of Pico Almanzor", image: "/poi-images/spain-pico-almanzor-relief-v2.webp"},
   {
     id: "spain-sierra-magina-relief-v2",
     type: "mountain",
@@ -439,8 +419,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Pico Mágina la 2167 metri.", "Refugiu important pentru flora montană mediteraneană rară.", "Prezintă numeroase fenomene carstice precum dolinele.", "Înconjurat de o imensă 'mare' de măslini."],
       en: ["Highest peak is Pico Mágina at 2167 meters.", "Key refuge for rare Mediterranean high-mountain flora.", "Features numerous karst phenomena such as sinkholes.", "Surrounded by a vast 'sea' of olive trees."],
     },
-    imageHint: "Limestone slopes of Sierra Magina rising above olive groves",
-  },
+    imageHint: "Limestone slopes of Sierra Magina rising above olive groves", image: "/poi-images/spain-sierra-magina-relief-v2.webp"},
   {
     id: "spain-sierra-de-la-demanda-relief-v2",
     type: "mountain",
@@ -459,8 +438,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Pico San Lorenzo este cea mai înaltă cotă la 2271 metri.", "Format din roci paleozoice precum cuarțitul și șistul.", "Stațiune de schi importantă (Valdezcaray) în nordul Spaniei.", "Găzduiește păduri întinse de fag și stejar."],
       en: ["Pico San Lorenzo is the highest point at 2271 meters.", "Composed of Paleozoic rocks like quartzite and slate.", "Major ski area (Valdezcaray) in northern Spain.", "Home to extensive beech and oak forests."],
     },
-    imageHint: "Forested slopes and peaks of Sierra de la Demanda",
-  }
+    imageHint: "Forested slopes and peaks of Sierra de la Demanda", image: "/poi-images/spain-sierra-de-la-demanda-relief-v2.webp"}
 ,
   {
     id: "spain-macizo-galaico-relief-v2",
@@ -498,8 +476,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Găzduiește orașul de piatră Ciudad Encantada", "Altitudinea medie depășește 1200 de metri", "Sursa râurilor Júcar și Cuervo", "Compus din roci calcaroase"],
       en: ["Home to the Ciudad Encantada rock formations", "Average elevation exceeds 1,200 meters", "Source of the Júcar and Cuervo rivers", "Composed of calcareous rock"],
     },
-    imageHint: "Ciudad Encantada karst formations Cuenca",
-  },
+    imageHint: "Ciudad Encantada karst formations Cuenca", image: "/poi-images/spain-serrania-de-cuenca-relief-v2.webp"},
   {
     id: "spain-cordillera-costero-catalana-relief-v2",
     type: "mountain",
@@ -536,8 +513,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Aitxuri la 1551 m", "Compus în principal din calcar", "Formează diviziunea apelor între Atlantic și Mediterana", "Caracterizat prin pajiști verzi și păduri de fag"],
       en: ["Highest peak is Aitxuri at 1,551 m", "Primarily composed of limestone", "Forms the watershed between Atlantic and Mediterranean", "Characterized by green meadows and beech forests"],
     },
-    imageHint: "Basque Mountains Aitxuri peak landscape",
-  },
+    imageHint: "Basque Mountains Aitxuri peak landscape", image: "/poi-images/spain-montes-vascos-relief-v2.webp"},
   {
     id: "spain-sierra-de-albarracin-relief-v2",
     type: "mountain",
@@ -555,8 +531,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Altitudini între 1200 și 1900 de metri", "Considerată una dintre cele mai reci zone locuite din Spania", "Zona de izvor a râului Tajo", "Bogat în descoperiri paleontologice"],
       en: ["Elevation ranges between 1,200 and 1,900 meters", "Considered one of the coldest inhabited zones in Spain", "Source region of the Tagus River", "Rich in paleontological findings"],
     },
-    imageHint: "Sierra de Albarracín mountains and pine forest",
-  },
+    imageHint: "Sierra de Albarracín mountains and pine forest", image: "/poi-images/spain-sierra-de-albarracin-relief-v2.webp"},
   {
     id: "spain-serrania-de-ronda-relief-v2",
     type: "mountain",
@@ -574,8 +549,7 @@ export const spainReliefV2: POI[] = [
       ro: ["Cunoscută pentru defileul adânc Tajo de Ronda", "Cel mai înalt vârf este Torrecilla la 1919 m", "Compusă în principal din relief calcaros", "Găzduiește brazi rari Pinsapo"],
       en: ["Known for the deep Tajo de Ronda gorge", "Highest peak is Torrecilla at 1,919 m", "Primarily composed of limestone relief", "Home to rare Pinsapo fir trees"],
     },
-    imageHint: "Serranía de Ronda mountains and white villages",
-  },
+    imageHint: "Serranía de Ronda mountains and white villages", image: "/poi-images/spain-serrania-de-ronda-relief-v2.webp"},
   {
     id: "spain-pre-pyrenees-relief-v2",
     type: "mountain",

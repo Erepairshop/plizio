@@ -19,8 +19,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Fondată în anul 1993", "Găzduiește o crescătorie de zimbri", "Cea mai mare rezervație de luncă din țară", "Include recife de corali din Miocen"],
       en: ["Founded in the year 1993", "Home to a European bison breeding station", "Largest floodplain forest reserve in the country", "Includes coral reefs from the Miocene"],
     },
-    imageHint: "European bison in a forest clearing in Moldova",
-  },
+    imageHint: "European bison in a forest clearing in Moldova", image: "/poi-images/moldova-padurea-domneasca-reserve-nature-v2.webp"},
   {
     id: "moldova-plaiul-fagului-reserve-nature-v2",
     type: "forest",
@@ -39,8 +38,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 5.642 hectare", "Fondată în anul 1992", "Protejează fagi rari de tip central-european", "Loc important pentru cercetare științifică"],
       en: ["Area is about 5,642 hectares", "Founded in the year 1992", "Protects rare Central European beech trees", "Important site for scientific research"],
     },
-    imageHint: "Dense beech forest canopy in autumn colors",
-  },
+    imageHint: "Dense beech forest canopy in autumn colors", image: "/poi-images/moldova-plaiul-fagului-reserve-nature-v2.webp"},
   {
     id: "moldova-suta-de-movile-nature-v2",
     type: "valley",
@@ -59,8 +57,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Se întinde pe 1.600 de hectare", "Movilele ating înălțimi de până la 30 metri", "Situat între satele Braniște și Cobani", "Parte a rezervației Pădurea Domnească"],
       en: ["Covers 1,600 hectares", "Knolls reach heights up to 30 meters", "Located between Braniște and Cobani villages", "Part of the Royal Forest Reserve"],
     },
-    imageHint: "Green landscape with many small symmetrical hills",
-  },
+    imageHint: "Green landscape with many small symmetrical hills", image: "/poi-images/moldova-suta-de-movile-nature-v2.webp"},
   {
     id: "moldova-balanesti-hill-nature-v2",
     type: "peak",
@@ -79,8 +76,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Altitudine maximă de 430 metri", "Cea mai înaltă culme dintre Carpați și Urali", "Compus din calcare sarmațiene", "Destinație populară pentru drumeții locale"],
       en: ["Maximum height of 430 meters", "Highest peak between the Carpathians and the Urals", "Composed of Sarmatian limestone", "Popular destination for local hiking"],
     },
-    imageHint: "Green hilltop with panoramic views of the Moldovan countryside",
-  },
+    imageHint: "Green hilltop with panoramic views of the Moldovan countryside", image: "/poi-images/moldova-balanesti-hill-nature-v2.webp"},
   {
     id: "moldova-duruitoarea-gorge-nature-v2",
     type: "valley",
@@ -119,8 +115,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Lungime totală de 1.352 kilometri", "Principala sursă de apă potabilă a Moldovei", "Formează granița cu regiunea transnistreană", "Izvorăște din Carpații ucraineni"],
       en: ["Total length of 1,352 kilometers", "Primary source of drinking water for Moldova", "Forms the boundary with the Transnistrian region", "Originates in the Ukrainian Carpathians"],
     },
-    imageHint: "Wide river winding through a valley with green hills",
-  },
+    imageHint: "Wide river winding through a valley with green hills", image: "/poi-images/moldova-nistru-river-nature-v2.webp"},
   {
     id: "moldova-stinca-costesti-reservoir-nature-v2",
     type: "lake",
@@ -139,8 +134,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Suprafață maximă de cca. 59 km²", "Proiect comun al Moldovei și României", "Adâncimea medie este de 24 de metri", "Important pentru controlul inundațiilor"],
       en: ["Maximum area of about 59 km²", "Joint project between Moldova and Romania", "Average depth is 24 meters", "Crucial for flood control"],
     },
-    imageHint: "Large expanse of blue water with a dam in the distance",
-  },
+    imageHint: "Large expanse of blue water with a dam in the distance", image: "/poi-images/moldova-stinca-costesti-reservoir-nature-v2.webp"},
   {
     id: "moldova-naslavcea-hills-nature-v2",
     type: "peak",
@@ -179,8 +173,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 128 kilometri", "Cel mai vechi lac de acumulare mare din Moldova", "Volum maxim de apă de 0,48 km³", "Utilizat și pentru irigații"],
       en: ["Length of about 128 kilometers", "Oldest large reservoir in Moldova", "Maximum water volume of 0.48 km³", "Also used for irrigation purposes"],
     },
-    imageHint: "Long river reservoir reflecting the sky",
-  },
+    imageHint: "Long river reservoir reflecting the sky", image: "/poi-images/moldova-dubasari-reservoir-nature-v2.webp"},
   {
     id: "moldova-trebujeni-gorge-nature-v2",
     type: "valley",
@@ -199,8 +192,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Parte a Parcului Național Orhei", "Pereții stâncoși au până la 100 metri înălțime", "Conține urme de așezări antice", "Cunoscut pentru curenții termici ascendenți"],
       en: ["Part of the Orhei National Park", "Rock walls are up to 100 meters high", "Contains traces of ancient settlements", "Known for its thermal updrafts"],
     },
-    imageHint: "Dramatic river bend inside a deep limestone canyon",
-  },
+    imageHint: "Dramatic river bend inside a deep limestone canyon", image: "/poi-images/moldova-trebujeni-gorge-nature-v2.webp"},
   {
     id: "moldova-tigheci-hills-nature-v2",
     type: "forest",
@@ -219,8 +211,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Altitudinea maximă este de 301 metri", "Arie protejată importantă în sud", "Dominat de păduri de stejar și carpen", "Habitat pentru plante rare de stepă"],
       en: ["Highest point is at 301 meters", "Important nature reserve in the south", "Dominated by oak and hornbeam forests", "Habitat for rare steppe plants"],
     },
-    imageHint: "Rolling hills covered with dense green forest in southern Moldova",
-  },
+    imageHint: "Rolling hills covered with dense green forest in southern Moldova", image: "/poi-images/moldova-tigheci-hills-nature-v2.webp"},
   {
     id: "moldova-cobani-reef-nature-v2",
     type: "landmark",
@@ -239,8 +230,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Format din calcare de corali și alge", "Înălțime de cca. 60 metri deasupra Prutului", "Vârsta estimată la 15-20 milioane de ani", "Loc de cuibărit popular pentru păsări răpitoare"],
       en: ["Composed of coral and algal limestones", "Height of about 60 meters above the Prut", "Estimated age is 15-20 million years", "Popular nesting site for birds of prey"],
     },
-    imageHint: "Rugged limestone cliffs rising above a flat river plain",
-  },
+    imageHint: "Rugged limestone cliffs rising above a flat river plain", image: "/poi-images/moldova-cobani-reef-nature-v2.webp"},
   {
     id: "moldova-trinca-gorge-nature-v2",
     type: "valley",
@@ -259,8 +249,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Lățimea defileului este de până la 250 metri", "Lungime de aproximativ 500 de metri", "Protejează plante calcicole rare", "Situat în raionul Edineț"],
       en: ["Width of the gorge is up to 250 meters", "Length of about 500 meters", "Protects rare lime-loving plants", "Located in the Edinet district"],
     },
-    imageHint: "Wide rocky gorge with steep limestone walls and a small river",
-  },
+    imageHint: "Wide rocky gorge with steep limestone walls and a small river", image: "/poi-images/moldova-trinca-gorge-nature-v2.webp"},
   {
     id: "moldova-varatic-gorge-nature-v2",
     type: "valley",
@@ -299,8 +288,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Vedere panoramică spre lacul Dubăsari", "Pereții de calcar sunt bogați în fosile", "Loc popular pentru camping și pescuit", "Parte a platoului sarmațian"],
       en: ["View overlooking the Dubasari reservoir", "Limestone walls are rich in fossils", "Popular spot for camping and fishing", "Part of the Sarmatian plateau"],
     },
-    imageHint: "White limestone cliffs overlooking a wide blue river",
-  },
+    imageHint: "White limestone cliffs overlooking a wide blue river", image: "/poi-images/moldova-molovata-cliffs-nature-v2.webp"},
   {
     id: "moldova-giurgiulesti-point-nature-v2",
     type: "river",
@@ -319,8 +307,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Singurul acces al Moldovei la Dunăre", "Cel mai sudic punct al țării", "Granița între Moldova, România și Ucraina", "Zonă protejată importantă pentru pești"],
       en: ["Moldova's only access to the Danube", "Southernmost point of the country", "Border between Moldova, Romania, and Ukraine", "Important protected area for fish"],
     },
-    imageHint: "River confluence with muddy water meeting clearer river water",
-  },
+    imageHint: "River confluence with muddy water meeting clearer river water", image: "/poi-images/moldova-giurgiulesti-point-nature-v2.webp"},
   {
     id: "moldova-bic-river-nature-v2",
     type: "river",
@@ -339,8 +326,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Lungime totală de 155 kilometri", "Curge prin inima Codrilor", "Afluent al Nistrului", "Formează lacul Ghidighici"],
       en: ["Total length of 155 kilometers", "Flows through the heart of the Codrii", "Tributary of the Dniester", "Forms the Ghidighici reservoir"],
     },
-    imageHint: "Small river winding through a wooded valley",
-  },
+    imageHint: "Small river winding through a wooded valley", image: "/poi-images/moldova-bic-river-nature-v2.webp"},
   {
     id: "moldova-cogilnic-river-nature-v2",
     type: "river",
@@ -359,8 +345,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Lungime totală de 243 kilometri", "Se varsă în limanul Sasîk de la Marea Neagră", "Important pentru irigațiile locale", "Traversează orașul Hîncești"],
       en: ["Total length of 243 kilometers", "Flows into the Sasyk Liman at the Black Sea", "Crucial for local irrigation systems", "Flows through the town of Hincesti"],
     },
-    imageHint: "River channel through a dry steppe landscape",
-  },
+    imageHint: "River channel through a dry steppe landscape", image: "/poi-images/moldova-cogilnic-river-nature-v2.webp"},
   {
     id: "moldova-ichel-river-nature-v2",
     type: "river",
@@ -379,8 +364,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 101 kilometri", "Izvorăște în raionul Telenești", "Modelează peisajul în zona Criuleni", "Habitat pentru diverse specii de amfibieni"],
       en: ["Length of about 101 kilometers", "Originates in the Telenesti district", "Shapes the landscape near Criuleni", "Home to various amphibian species"],
     },
-    imageHint: "Small river flowing through a rocky valley with shrubs",
-  },
+    imageHint: "Small river flowing through a rocky valley with shrubs", image: "/poi-images/moldova-ichel-river-nature-v2.webp"},
   {
     id: "moldova-botna-river-nature-v2",
     type: "river",
@@ -478,8 +462,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Suprafața apei de cca. 8,8 km²", "Finalizat în anul 1963", "Adâncime maximă de 13 metri", "Loc popular pentru sporturi nautice"],
       en: ["Water surface area of approx. 8.8 km²", "Completed in 1963", "Maximum depth of 13 meters", "Popular location for sailing"],
     },
-    imageHint: "Large reservoir lake Ghidighici with small boats near Chisinau",
-  },
+    imageHint: "Large reservoir lake Ghidighici with small boats near Chisinau", image: "/poi-images/moldova-ghidighici-lake-nature-v2.webp"},
   {
     id: "moldova-silver-forest-nature-v2",
     type: "forest",
@@ -497,8 +480,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Situată lângă Moara Domnească", "Suprafață de aproximativ 50 hectare", "Formată predominant din plopi albi", "Parte importantă a Pădurii Domnești"],
       en: ["Located near Moara Domnească", "Area of approx. 50 hectares", "Consists primarily of white poplars", "Key part of the Royal Forest reserve"],
     },
-    imageHint: "White poplar forest Silver Forest in the Prut valley",
-  },
+    imageHint: "White poplar forest Silver Forest in the Prut valley", image: "/poi-images/moldova-silver-forest-nature-v2.webp"},
   {
     id: "moldova-ialpug-river-nature-v2",
     type: "river",
@@ -516,8 +498,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Lungime totală de 142 kilometri", "Principalul râu al stepei Bugeac", "Se varsă în cel mai mare lac din Ucraina", "Debitul variază mult în funcție de sezon"],
       en: ["Total length of 142 kilometers", "Primary river of the Bugeac Steppe", "Flows into Ukraine's largest lake", "Water level fluctuates seasonally"],
     },
-    imageHint: "Ialpug river flowing through the dry Bugeac steppe landscape",
-  },
+    imageHint: "Ialpug river flowing through the dry Bugeac steppe landscape", image: "/poi-images/moldova-ialpug-river-nature-v2.webp"},
   {
     id: "moldova-cimislia-paleontological-nature-v2",
     type: "landmark",
@@ -535,8 +516,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Fosile din Miocenul târziu", "Rămășițe ale faunei Hipparion", "Protejat de stat din anul 1962", "Loc crucial pentru cercetări evolutive"],
       en: ["Late Miocene epoch fossils", "Remains of Hipparion fauna", "State protected since 1962", "Crucial site for evolutionary research"],
     },
-    imageHint: "Archaeological excavation of prehistoric fossils in Cimișlia",
-  },
+    imageHint: "Archaeological excavation of prehistoric fossils in Cimișlia", image: "/poi-images/moldova-cimislia-paleontological-nature-v2.webp"},
   {
     id: "moldova-cuconestii-vechi-gorge-nature-v2",
     type: "valley",
@@ -554,8 +534,7 @@ export const moldovaNatureV2: POI[] = [
       ro: ["Parte a toltrelor moldovenești", "Format din recife fosile", "Situat în raionul Edineț", "Formațiuni carstice spectaculoase"],
       en: ["Part of the Moldavian Toltry", "Formed from fossilized reefs", "Located in the Edineț District", "Impressive karst formations"],
     },
-    imageHint: "Limestone cliffs of Cuconeștii Vechi gorge near the river",
-  },
+    imageHint: "Limestone cliffs of Cuconeștii Vechi gorge near the river", image: "/poi-images/moldova-cuconestii-vechi-gorge-nature-v2.webp"},
   {
     id: "moldova-zloti-forest-nature-v2",
     type: "forest",

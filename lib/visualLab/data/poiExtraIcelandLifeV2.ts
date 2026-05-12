@@ -19,8 +19,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Fondat în anul 1930", "Patrimoniu UNESCO din 2004", "172 de specii de plante", "Protejează păstrăvul arctic"],
       en: ["Established in 1930", "UNESCO site since 2004", "172 species of vascular plants", "Protects Arctic char evolution"],
     },
-    imageHint: "Thingvellir National Park moss covered lava fields",
-  },
+    imageHint: "Thingvellir National Park moss covered lava fields", image: "/poi-images/iceland-thingvellir-life-v2.webp"},
   {
     id: "iceland-vatnajokull-life-v2",
     type: "park",
@@ -39,8 +38,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Suprafață de 14.141 km²", "Fondat în iunie 2008", "Habitat pentru vulpile polare", "Cel mai mare parc din Islanda"],
       en: ["Area of 14,141 sq km", "Established in June 2008", "Home to Arctic foxes", "Largest national park in Iceland"],
     },
-    imageHint: "Skaftafell birch forest with glacier background",
-  },
+    imageHint: "Skaftafell birch forest with glacier background", image: "/poi-images/iceland-vatnajokull-life-v2.webp"},
   {
     id: "iceland-snaefellsjokull-life-v2",
     type: "park",
@@ -59,8 +57,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Fondat în iunie 2001", "Suprafață de 170 km²", "Populații bogate de ferigi", "Observări de balene minke"],
       en: ["Established in June 2001", "Area of 170 sq km", "Rich fern populations", "Minke whale sightings"],
     },
-    imageHint: "Snaefellsjokull National Park coastline with birds",
-  },
+    imageHint: "Snaefellsjokull National Park coastline with birds", image: "/poi-images/iceland-snaefellsjokull-life-v2.webp"},
   {
     id: "iceland-myvatn-bird-reserve-life-v2",
     type: "wildlife",
@@ -79,8 +76,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["15 specii de rațe cuibăresc", "Sit Ramsar din 1977", "Alge Marimo unice", "Zăcământ de diatomit"],
       en: ["15 duck species nest here", "Ramsar site since 1977", "Unique Marimo algae balls", "Source of diatomaceous earth"],
     },
-    imageHint: "Lake Myvatn with ducks and wetlands",
-  },
+    imageHint: "Lake Myvatn with ducks and wetlands", image: "/poi-images/iceland-myvatn-bird-reserve-life-v2.webp"},
   {
     id: "iceland-dyrholaey-life-v2",
     type: "wildlife",
@@ -99,8 +95,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Protejat din 1978", "Loc de cuibărit pentru pufini", "Stâncă înaltă de 120 metri", "Acces restricționat la cuibărit"],
       en: ["Protected since 1978", "Nesting site for puffins", "120-meter high cliff wall", "Restricted access during nesting"],
     },
-    imageHint: "Dyrholaey puffins on green cliffs",
-  },
+    imageHint: "Dyrholaey puffins on green cliffs", image: "/poi-images/iceland-dyrholaey-life-v2.webp"},
   {
     id: "iceland-hornstrandir-life-v2",
     type: "wildlife",
@@ -119,8 +114,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Înființată în 1975", "Fără locuitori permanenți", "Vânătoarea de vulpi e interzisă", "Stânci uriașe cu păsări"],
       en: ["Established in 1975", "No permanent residents", "Arctic fox hunting prohibited", "Massive bird cliffs"],
     },
-    imageHint: "Arctic fox in Hornstrandir landscape",
-  },
+    imageHint: "Arctic fox in Hornstrandir landscape", image: "/poi-images/iceland-hornstrandir-life-v2.webp"},
   {
     id: "iceland-grimsey-life-v2",
     type: "wildlife",
@@ -139,8 +133,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Situată pe Cercul Polar", "Peste 30 specii de păsări", "Ecosistem marin bogat", "Important pentru rațe eider"],
       en: ["Located on the Arctic Circle", "Over 30 bird species nest", "Rich marine ecosystem", "Important for eider ducks"],
     },
-    imageHint: "Puffins on Grimsey Island Arctic Circle",
-  },
+    imageHint: "Puffins on Grimsey Island Arctic Circle", image: "/poi-images/iceland-grimsey-life-v2.webp"},
   {
     id: "iceland-latrabjarg-life-v2",
     type: "wildlife",
@@ -159,8 +152,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Până la 441 metri înălțime", "Habitat pentru păsări alca", "Cel mai vestic punct islandez", "Cel mai important loc de puiet"],
       en: ["Up to 441 meters high", "Home to auk species", "Westernmost point of Iceland", "World's most vital breeding site"],
     },
-    imageHint: "Latrabjarg cliffs covered in seabirds",
-  },
+    imageHint: "Latrabjarg cliffs covered in seabirds", image: "/poi-images/iceland-latrabjarg-life-v2.webp"},
   {
     id: "iceland-heidmork-life-v2",
     type: "forest",
@@ -179,8 +171,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Împădurită din 1950", "Peste 3200 de hectare", "Loc de cuibărit pentru ploier", "Zonă de protecție a apei"],
       en: ["Afforested since 1950", "Over 3200 hectares", "Golden plover nesting site", "Drinking water protection zone"],
     },
-    imageHint: "Heidmork forest walking paths",
-  },
+    imageHint: "Heidmork forest walking paths", image: "/poi-images/iceland-heidmork-life-v2.webp"},
   {
     id: "iceland-reykjavik-botanical-garden-life-v2",
     type: "park",
@@ -199,8 +190,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Fondată în anul 1961", "8 colecții diferite", "Protejează plante native", "Focus pe flora montană"],
       en: ["Established in 1961", "8 different collections", "Native plant conservation", "Focus on highland flora"],
     },
-    imageHint: "Reykjavik Botanical Garden flowers",
-  },
+    imageHint: "Reykjavik Botanical Garden flowers", image: "/poi-images/iceland-reykjavik-botanical-garden-life-v2.webp"},
   {
     id: "iceland-reykjavik-zoo-life-v2",
     type: "wildlife",
@@ -219,8 +209,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Deschis în mai 1990", "Îngrijește animale rănite", "Rase domestice native", "Țarc pentru reni"],
       en: ["Opened in May 1990", "Cares for injured wildlife", "Native domestic breeds", "Reindeer enclosure on site"],
     },
-    imageHint: "Arctic fox in Reykjavik Zoo",
-  },
+    imageHint: "Arctic fox in Reykjavik Zoo", image: "/poi-images/iceland-reykjavik-zoo-life-v2.webp"},
   {
     id: "iceland-eldey-life-v2",
     type: "wildlife",
@@ -239,8 +228,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["70.000 de păsări cuibăresc", "Protejată din 1940", "Ultimul loc al marelui pinguin", "Stânci de 77 metri"],
       en: ["70,000 nesting birds", "Protected since 1940", "Last site of the Great Auk", "77-meter high cliffs"],
     },
-    imageHint: "Eldey island rock with gannets",
-  },
+    imageHint: "Eldey island rock with gannets", image: "/poi-images/iceland-eldey-life-v2.webp"},
   {
     id: "iceland-ingolfshofdi-life-v2",
     type: "wildlife",
@@ -259,8 +247,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Accesibil doar cu tractorul", "Rezervație privată", "Zonă de cuibărit vitală", "Loc istoric de debarcare"],
       en: ["Accessible only by tractor", "Private nature reserve", "Vital breeding area", "Historical landing site"],
     },
-    imageHint: "Ingolfshofdi headland with birds",
-  },
+    imageHint: "Ingolfshofdi headland with birds", image: "/poi-images/iceland-ingolfshofdi-life-v2.webp"},
   {
     id: "iceland-papey-life-v2",
     type: "wildlife",
@@ -279,8 +266,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Suprafață de circa 2 km²", "Mari colonii de foci", "Sursă de puf de eider", "Nelocuită din 1966"],
       en: ["Roughly 2 sq km in size", "Large seal colonies", "Source of eiderdown", "Uninhabited since 1966"],
     },
-    imageHint: "Papey island coastline with seals",
-  },
+    imageHint: "Papey island coastline with seals", image: "/poi-images/iceland-papey-life-v2.webp"},
   {
     id: "iceland-flatey-life-v2",
     type: "wildlife",
@@ -299,8 +285,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Peste 30 de specii cuibăresc", "Rezervație naturală", "Fără mașini permise", "Locul manuscriselor medievale"],
       en: ["Over 30 nesting bird species", "Nature reserve status", "Car-free island", "Site of medieval manuscripts"],
     },
-    imageHint: "Flatey island birds and meadows",
-  },
+    imageHint: "Flatey island birds and meadows", image: "/poi-images/iceland-flatey-life-v2.webp"},
   {
     id: "iceland-akureyri-botanical-garden-life-v2",
     type: "park",
@@ -319,8 +304,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Fondată în anul 1912", "7.000 de specii în colecție", "400 de specii native", "Intrarea este gratuită"],
       en: ["Established in 1912", "7,000 species in collection", "400 native species", "Free admission for all"],
     },
-    imageHint: "Akureyri Botanical Garden flowers and trees",
-  },
+    imageHint: "Akureyri Botanical Garden flowers and trees", image: "/poi-images/iceland-akureyri-botanical-garden-life-v2.webp"},
   {
     id: "iceland-surtsey-life-v2",
     type: "wildlife",
@@ -339,8 +323,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Formată între 1963-1967", "Patrimoniu Mondial UNESCO", "Acces strict interzis", "Observarea succesiunii"],
       en: ["Formed 1963-1967", "UNESCO Natural World Heritage", "Strictly forbidden to enter", "Succession study site"],
     },
-    imageHint: "Surtsey island volcanic landscape",
-  },
+    imageHint: "Surtsey island volcanic landscape", image: "/poi-images/iceland-surtsey-life-v2.webp"},
   {
     id: "iceland-jokulsarlon-life-v2",
     type: "wildlife",
@@ -359,8 +342,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Habitat pentru foci", "Loc de cuibărit pentru rândunele", "Zonă de hrănire vitală", "Cel mai adânc lac islandez"],
       en: ["Home to harbor seals", "Arctic tern nesting site", "Vital feeding ground", "Deepest lake in Iceland"],
     },
-    imageHint: "Seals on icebergs in Jokulsarlon",
-  },
+    imageHint: "Seals on icebergs in Jokulsarlon", image: "/poi-images/iceland-jokulsarlon-life-v2.webp"},
   {
     id: "iceland-borgarfjordur-eystri-life-v2",
     type: "wildlife",
@@ -379,8 +361,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["10.000 de perechi", "Observare din mijlocul lui aprilie", "Marina pufinilor", "Acces sigur pentru turiști"],
       en: ["10,000 breeding pairs", "Observe from mid-April", "Puffin marina area", "Safe access for visitors"],
     },
-    imageHint: "Puffins at Borgarfjordur Eystri marina",
-  },
+    imageHint: "Puffins at Borgarfjordur Eystri marina", image: "/poi-images/iceland-borgarfjordur-eystri-life-v2.webp"},
   {
     id: "iceland-vigur-life-v2",
     type: "wildlife",
@@ -399,8 +380,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Centru de colectare a pufului", "Mii de păsări care cuibăresc", "Mică colonie de foci", "Moară de vânt istorică"],
       en: ["Center of eiderdown production", "Thousands of nesting birds", "Small seal colony", "Historical windmill site"],
     },
-    imageHint: "Vigur island with eider ducks",
-  },
+    imageHint: "Vigur island with eider ducks", image: "/poi-images/iceland-vigur-life-v2.webp"},
   {
     id: "iceland-asbyrgi-life-v2",
     type: "forest",
@@ -419,8 +399,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Parte din parcul Vatnajökull", "Habitat pentru păsări de pădure", "Microfloră unică", "Formă de potcoavă"],
       en: ["Part of Vatnajokull Park", "Home to woodland birds", "Unique microflora", "Horseshoe-shaped cliffs"],
     },
-    imageHint: "Asbyrgi canyon birch forest",
-  },
+    imageHint: "Asbyrgi canyon birch forest", image: "/poi-images/iceland-asbyrgi-life-v2.webp"},
   {
     id: "iceland-hrisey-life-v2",
     type: "wildlife",
@@ -439,8 +418,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["A doua insulă ca mărime", "Fără prădători naturali", "Trasee prin zone de tundră", "Bogată în potârnichi"],
       en: ["Second largest island in Iceland", "No natural predators", "Hiking trails through heathland", "Rich ptarmigan population"],
     },
-    imageHint: "Ptarmigan on Hrisey island",
-  },
+    imageHint: "Ptarmigan on Hrisey island", image: "/poi-images/iceland-hrisey-life-v2.webp"},
   {
     id: "iceland-tjornin-life-v2",
     type: "lake",
@@ -459,8 +437,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Peste 40 specii observate", "Loc popular pentru hrănit rațe", "Încălzit parțial iarna", "Căsuțe pentru păsări pe mal"],
       en: ["Over 40 bird species seen", "Popular duck feeding spot", "Partially heated in winter", "Bird houses along the shore"],
     },
-    imageHint: "Swans and ducks on Tjornin lake",
-  },
+    imageHint: "Swans and ducks on Tjornin lake", image: "/poi-images/iceland-tjornin-life-v2.webp"},
   {
     id: "iceland-thjorsarver-life-v2",
     type: "wildlife",
@@ -479,8 +456,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Sit Ramsar", "Loc crucial de cuibărit gâște", "Plante montane rare", "Zonă protejată riguros"],
       en: ["Ramsar site since 1990", "Main pink-footed goose site", "Rare highland flora", "Strictly protected area"],
     },
-    imageHint: "Thjorsarver highland wetland tundra",
-  },
+    imageHint: "Thjorsarver highland wetland tundra", image: "/poi-images/iceland-thjorsarver-life-v2.webp"},
   {
     id: "iceland-grunnafjordur-life-v2",
     type: "wildlife",
@@ -499,8 +475,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Sit Ramsar din 1996", "Vital pentru gâsca neagră", "Faună bogată de mâl", "Situat la sud de Akranes"],
       en: ["Ramsar site since 1996", "Vital for brent geese", "Rich mudflat invertebrate life", "Located south of Akranes"],
     },
-    imageHint: "Grunnafjordur estuary with migratory birds",
-  },
+    imageHint: "Grunnafjordur estuary with migratory birds", image: "/poi-images/iceland-grunnafjordur-life-v2.webp"},
   {
     id: "iceland-herdubreidarlindir-life-v2",
     type: "wildlife",
@@ -519,8 +494,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Izvoare de apă în deșert", "Habitat pentru vulpi polare", "Bogată în păsări montane", "Rezervație naturală"],
       en: ["Freshwater springs in desert", "Home to Arctic foxes", "Rich highland birdlife", "Nature reserve status"],
     },
-    imageHint: "Herdubreidarlindir oasis with green plants",
-  },
+    imageHint: "Herdubreidarlindir oasis with green plants", image: "/poi-images/iceland-herdubreidarlindir-life-v2.webp"},
   {
     id: "iceland-skrudur-life-v2",
     type: "park",
@@ -539,8 +513,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Fondată în anul 1909", "Pionier în silvicultură", "Premiată internațional", "Livadă istorică"],
       en: ["Established in 1909", "Forestry pioneer site", "International award winner", "Historic fruit garden"],
     },
-    imageHint: "Skrudur botanical garden in Westfjords",
-  },
+    imageHint: "Skrudur botanical garden in Westfjords", image: "/poi-images/iceland-skrudur-life-v2.webp"},
   {
     id: "iceland-hunafjordur-life-v2",
     type: "wildlife",
@@ -559,8 +532,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Populație mare de foci", "Lângă Centrul Islandez al Focii", "Ecosistem costier vital", "Puncte de observare amenajate"],
       en: ["Large harbor seal population", "Near the Icelandic Seal Center", "Vital coastal ecosystem", "Designated viewing points"],
     },
-    imageHint: "Seals on rocks in Hunafjordur",
-  },
+    imageHint: "Seals on rocks in Hunafjordur", image: "/poi-images/iceland-hunafjordur-life-v2.webp"},
   {
     id: "iceland-drangey-life-v2",
     type: "wildlife",
@@ -579,8 +551,7 @@ export const icelandLifeV2: POI[] = [
       ro: ["Stânci abrupte de 180m", "Loc important de colectat ouă", "Viață aviară marină bogată", "Loc de cuibărit pentru șoimi"],
       en: ["Steep 180m high cliffs", "Traditional egg-collecting site", "Rich marine birdlife", "Falcon nesting site"],
     },
-    imageHint: "Drangey island steep cliffs with birds",
-  },
+    imageHint: "Drangey island steep cliffs with birds", image: "/poi-images/iceland-drangey-life-v2.webp"},
   {
     id: "iceland-heimaey-life-v2",
     type: "wildlife",

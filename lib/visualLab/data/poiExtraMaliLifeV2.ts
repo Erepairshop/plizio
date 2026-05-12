@@ -319,8 +319,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Mangótermesztés", "Citrusfélék", "Regionális mezőgazdaság", "Napos éghajlat"],
       ro: ["Cultivarea mangoului", "Citrice", "Agricultură regională", "Climat însorit"],
       en: ["Mango cultivation", "Citrus fruits", "Regional agriculture", "Sunny climate"]
-    }
-  },
+    }, image: "/poi-images/kayes-orchards-life-v2.webp"},
   {
     id: "sikasso-garden-life-v2",
     type: "kid-landmark",
@@ -367,8 +366,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Vízimadarak", "Megfigyelőhely", "Folyó ökoszisztéma", "Fontos fészkelőhely"],
       ro: ["Păsări acvatice", "Loc de observare", "Ecosistem fluvial", "Loc important de cuibărit"],
       en: ["Water birds", "Observation spot", "River ecosystem", "Important nesting site"]
-    }
-  },
+    }, image: "/poi-images/niger-river-bird-sanctuary-life-v2.webp"},
   {
     id: "fatoma-cattle-market-life-v2",
     type: "agriculture",

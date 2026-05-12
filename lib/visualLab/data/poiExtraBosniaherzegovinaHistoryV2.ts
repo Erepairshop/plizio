@@ -39,8 +39,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea", "Asasinat pe 28 iunie 1914", "Numit anterior după Gavrilo Princip", "Patru arcuri traversează râul Miljacka"],
       en: ["Built in the 16th century", "Assassination on June 28, 1914", "Formerly named after Gavrilo Princip", "Four arches cross the Miljacka river"],
     },
-    imageHint: "Latin Bridge in Sarajevo over Miljacka river",
-  },
+    imageHint: "Latin Bridge in Sarajevo over Miljacka river", image: "/poi-images/bosniaherzegovina-latin-bridge-history-v2.webp"},
   {
     id: "bosniaherzegovina-bobovac-history-v2",
     type: "castle",
@@ -59,8 +58,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Construită în secolul al XIV-lea", "Sediul dinastiei Kotromanić", "Cucerită de otomani în 1463", "Adăpostește capela funerară regală"],
       en: ["Built in the 14th century", "Seat of the Kotromanić dynasty", "Conquered by Ottomans in 1463", "Houses the royal burial chapel"],
     },
-    imageHint: "Bobovac royal fortress ruins in Bosnia",
-  },
+    imageHint: "Bobovac royal fortress ruins in Bosnia", image: "/poi-images/bosniaherzegovina-bobovac-history-v2.webp"},
   {
     id: "bosniaherzegovina-jajce-fortress-history-v2",
     type: "castle",
@@ -79,8 +77,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Fondată în secolul al XIV-lea", "Reședința lui Hrvoje Vukčić Hrvatinić", "Locul ultimei încoronări regale", "Include catacombe rare"],
       en: ["Founded in the 14th century", "Residence of Hrvoje Vukčić Hrvatinić", "Site of the last Bosnian coronation", "Includes rare catacombs"],
     },
-    imageHint: "Jajce fortress ruins on top of the hill",
-  },
+    imageHint: "Jajce fortress ruins on top of the hill", image: "/poi-images/bosniaherzegovina-jajce-fortress-history-v2.webp"},
   {
     id: "bosniaherzegovina-daorson-history-v2",
     type: "ruins",
@@ -99,8 +96,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Construit în secolul III î.Hr.", "Zidurile megalitice au 65 metri lungime", "Distrus în anul 43 î.Hr.", "Cel mai important centru cultural ilir"],
       en: ["Built in the 3rd century BC", "Megalithic walls are 65 meters long", "Destroyed in 43 BC", "Key Illyrian cultural center"],
     },
-    imageHint: "Ancient megalithic walls of Daorson ruins",
-  },
+    imageHint: "Ancient megalithic walls of Daorson ruins", image: "/poi-images/bosniaherzegovina-daorson-history-v2.webp"},
   {
     id: "bosniaherzegovina-mogorjelo-history-v2",
     type: "ruins",
@@ -119,8 +115,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Situat lângă orașul Čapljina", "Plan dreptunghiular cu turnuri", "Distrus în secolul al V-lea", "Parte a unei vechi rute comerciale"],
       en: ["Located near the town of Čapljina", "Rectangular layout with towers", "Destroyed in the 5th century", "Part of an ancient trade route"],
     },
-    imageHint: "Mogorjelo Roman villa rustica ruins",
-  },
+    imageHint: "Mogorjelo Roman villa rustica ruins", image: "/poi-images/bosniaherzegovina-mogorjelo-history-v2.webp"},
   {
     id: "bosniaherzegovina-pocitelj-history-v2",
     type: "landmark",
@@ -159,8 +154,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Conține 133 de pietre funerare", "Datată între secolele XIV-XVI", "Celebră pentru relieful unui vânător", "Parte a patrimoniului mondial UNESCO"],
       en: ["Contains 133 tombstones (stećci)", "Dated to 14th-16th centuries", "Famous for the relief of a hunter", "Part of UNESCO World Heritage"],
     },
-    imageHint: "Radimlja necropolis with medieval stećci stones",
-  },
+    imageHint: "Radimlja necropolis with medieval stećci stones", image: "/poi-images/bosniaherzegovina-radimlja-history-v2.webp"},
   {
     id: "bosniaherzegovina-butmir-history-v2",
     type: "ruins",
@@ -279,8 +273,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Fondată pe ruine romane", "A atins forma actuală în secolul XVIII", "Situată la confluența râurilor Crkvena și Vrbas", "Loc important pentru evenimente culturale"],
       en: ["Founded on Roman ruins", "Reached current form in 18th century", "Located at confluence of Crkvena and Vrbas", "Key venue for cultural events"],
     },
-    imageHint: "Kastel fortress in Banja Luka by the river",
-  },
+    imageHint: "Kastel fortress in Banja Luka by the river", image: "/poi-images/bosniaherzegovina-kastel-fortress-history-v2.webp"},
   {
     id: "bosniaherzegovina-vidoski-fortress-history-v2",
     type: "castle",
@@ -299,8 +292,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Una dintre cele mai mari cetăți din Bosnia", "Prima mențiune în secolul al XV-lea", "Centrul regiunii Hum", "A avut importanță strategică pentru Herțegovina"],
       en: ["One of the largest fortresses in Bosnia", "First mentioned in the 15th century", "Center of the Hum region", "Had strategic importance for Herzegovina"],
     },
-    imageHint: "Vidoški fortress walls above Stolac",
-  },
+    imageHint: "Vidoški fortress walls above Stolac", image: "/poi-images/bosniaherzegovina-vidoski-fortress-history-v2.webp"},
   {
     id: "bosniaherzegovina-kraljeva-sutjeska-history-v2",
     type: "monument",
@@ -359,8 +351,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Numele înseamnă 'Cheie'", "Ultimul refugiu al regelui în 1463", "Combină secțiuni medievale și otomane", "Oferă o panoramă asupra orașului Ključ"],
       en: ["Name means 'Key'", "The king's last refuge in 1463", "Combines medieval and Ottoman parts", "Offers panorama over the town of Ključ"],
     },
-    imageHint: "Ključ fortress ruins on a hill over Sana river",
-  },
+    imageHint: "Ključ fortress ruins on a hill over Sana river", image: "/poi-images/bosniaherzegovina-kljuc-fortress-history-v2.webp"},
   {
     id: "bosniaherzegovina-sokolac-fortress-history-v2",
     type: "castle",
@@ -379,8 +370,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Menționată prima dată în 1380", "Are un turn rotund bine conservat", "A fost reședința nobililor locali", "Vedere asupra văii Bihać"],
       en: ["First mentioned in 1380", "Features a well-preserved round tower", "Was once residence of local nobles", "View over the Bihać valley"],
     },
-    imageHint: "Sokolac fortress tower near Bihać",
-  },
+    imageHint: "Sokolac fortress tower near Bihać", image: "/poi-images/bosniaherzegovina-sokolac-fortress-history-v2.webp"},
   {
     id: "bosniaherzegovina-vraca-memorial-history-v2",
     type: "monument",
@@ -399,8 +389,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Inaugurat în anul 1981", "Liste cu peste 11.000 de victime", "Poziție strategică deasupra orașului", "Grav avariat în timpul războiului bosniac"],
       en: ["Opened in 1981", "Lists over 11,000 victims", "Strategic location above Sarajevo", "Heavily damaged during the Bosnian war"],
     },
-    imageHint: "Vraca memorial park stone walls in Sarajevo",
-  },
+    imageHint: "Vraca memorial park stone walls in Sarajevo", image: "/poi-images/bosniaherzegovina-vraca-memorial-history-v2.webp"},
   {
     id: "bosniaherzegovina-kozara-memorial-history-v2",
     type: "monument",
@@ -419,8 +408,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Proiectat de Dušan Džamonja", "Inaugurat în anul 1972", "Înălțimea turnului de beton: 33 metri", "Parte a Parcului Național Kozara"],
       en: ["Designed by Dušan Džamonja", "Inaugurated in 1972", "Concrete tower height: 33 meters", "Part of the Kozara National Park"],
     },
-    imageHint: "Kozara abstract modernist monument Mrakovica",
-  },
+    imageHint: "Kozara abstract modernist monument Mrakovica", image: "/poi-images/bosniaherzegovina-kozara-memorial-history-v2.webp"},
   {
     id: "bosniaherzegovina-tjentiste-history-v2",
     type: "battlefield",
@@ -459,8 +447,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Săpat în anul 1993", "Lega cartierele Dobrinja și Butmir", "Trece pe sub pista aeroportului", "Astăzi deschis ca muzeu vizitatorilor"],
       en: ["Dug in 1993", "Connected Dobrinja and Butmir districts", "Runs under the airport runway", "Today open as a museum for visitors"],
     },
-    imageHint: "Sarajevo Tunnel of Hope entrance and museum",
-  },
+    imageHint: "Sarajevo Tunnel of Hope entrance and museum", image: "/poi-images/bosniaherzegovina-sarajevo-tunnel-history-v2.webp"},
   {
     id: "bosniaherzegovina-bijela-tabija-history-v2",
     type: "ruins",
@@ -479,8 +466,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Parte a vechii fortărețe Vratnik", "Construit pe resturi medievale", "Forma actuală datează din 1550", "S-a folosit calcar alb pentru construcție"],
       en: ["Part of the old Vratnik fortress system", "Built on medieval remains", "Current form dates to 1550", "Used white limestone for construction"],
     },
-    imageHint: "Bijela Tabija white fortress ruins Sarajevo",
-  },
+    imageHint: "Bijela Tabija white fortress ruins Sarajevo", image: "/poi-images/bosniaherzegovina-bijela-tabija-history-v2.webp"},
   {
     id: "bosniaherzegovina-zuta-tabija-history-v2",
     type: "ruins",

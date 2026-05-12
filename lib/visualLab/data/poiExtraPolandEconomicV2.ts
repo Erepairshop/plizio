@@ -31,8 +31,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["A Varsói Értéktőzsde (WSE) otthona.", "Itt található a Varso Tower, az EU legmagasabb épülete (310 m).", "Főként Wola és Śródmieście kerületekben helyezkedik el.", "Nagy része 1990 után épült.", "Számos nemzetközi bank, mint a JP Morgan és a Goldman Sachs székhelye.", "Fontos tömegközlekedési csomópont az M2-es metróvonallal.", "Több mint 1,5 millió négyzetméter modern irodaterület.", "Modern építészetéről ismert.", "Lengyelország piacgazdaságra való áttérésének szimbóluma.", "Fontos útvonalai a Jana Pawła II és az Emilii Plater sugárutak.", "Wola kerület régi ipari területeit váltotta fel.", "Az üzleti szolgáltatások és az IT-kiszervezés központja."],
       ro: ["Sediul Bursei de Valori din Varșovia (WSE).", "Găzduiește Turnul Varso, cea mai înaltă clădire din UE (310 m).", "Situat în principal în districtele Wola și Śródmieście.", "Dezvoltat în mare parte după 1990.", "Sediul multor bănci internaționale, precum JP Morgan și Goldman Sachs.", "Nod important de transport public, cu linia de metrou M2.", "Peste 1,5 milioane de metri pătrați de spații de birouri moderne.", "Cunoscut pentru arhitectura sa modernă.", "Simbolizează tranziția Poloniei la o economie de piață.", "Străzi importante includ Jana Pawła II și Emilii Plater.", "A înlocuit vechile zone industriale din districtul Wola.", "Un centru pentru servicii de afaceri și outsourcing IT."],
       en: ["Home to the Warsaw Stock Exchange (WSE).", "Features Varso Tower, the tallest building in the EU (310 m).", "Located primarily in the Wola and Śródmieście districts.", "Largely developed after 1990.", "Headquarters for many international banks like JP Morgan and Goldman Sachs.", "Major public transport hub with the M2 metro line.", "Over 1.5 million square meters of modern office space.", "Known for its modern architecture.", "Symbolizes Poland's transition to a market economy.", "Key thoroughfares include Jana Pawła II and Emilii Plater avenues.", "Replaced old industrial areas of the Wola district.", "A hub for business services and IT outsourcing."],
-    },
-  },
+    }, image: "/poi-images/poland-warsaw-business-district-economic-v2.webp"},
   {
     id: "poland-port-of-gdansk-economic-v2",
     type: "port",
@@ -63,8 +62,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["Lengyelország legnagyobb kikötője a kezelt áru mennyisége alapján.", "Stratégiai elhelyezkedés a Gdański-öbölben.", "Itt található a DCT Gdańsk, a Balti-tenger legnagyobb konténerterminálja.", "A kikötő története a 10. századig nyúlik vissza.", "Egész évben jégmentes.", "Közvetlen összeköttetés az európai autópálya- és vasúthálózattal.", "Évente több mint 50 millió tonna rakományt kezel.", "Fontos átrakodási pont a lengyelországi nyersolaj és üzemanyagok számára.", "A Belső Kikötő darabárukra és ömlesztett árukra specializálódott.", "A Külső Kikötőt (Északi Kikötő) a legnagyobb hajók fogadására tervezték.", "Fontos csomópont az Ázsiával folytatott kereskedelemben.", "Jelentős munkaadó a Pomerániai vajdaságban."],
       ro: ["Cel mai mare port din Polonia după tonajul de marfă.", "Locație strategică în Golful Gdańsk.", "Găzduiește DCT Gdańsk, cel mai mare terminal de containere de la Marea Baltică.", "Portul are o istorie care datează din secolul al X-lea.", "Fără gheață pe tot parcursul anului.", "Conexiuni directe la rețeaua europeană de autostrăzi și căi ferate.", "Gestionează peste 50 de milioane de tone de marfă anual.", "Punct major de transbordare pentru țiței și combustibili pentru Polonia.", "Portul Interior este specializat în mărfuri generale și vrac.", "Portul Exterior (Portul de Nord) este proiectat pentru cele mai mari nave.", "Un nod important pentru comerțul cu Asia.", "Un angajator important în regiunea Pomerania."],
       en: ["Largest port in Poland by cargo tonnage.", "Strategic location on the Gdańsk Bay.", "Home to DCT Gdańsk, the largest container terminal on the Baltic Sea.", "The port has a history dating back to the 10th century.", "Ice-free throughout the year.", "Direct connections to the European highway and railway networks.", "Handles over 50 million tonnes of cargo annually.", "Major transshipment point for crude oil and fuels for Poland.", "The Inner Port specializes in general and bulk cargo.", "The Outer Port (Northern Port) is designed for the largest vessels.", "A key node for trade with Asia.", "A major employer in the Pomerania region."],
-    },
-  },
+    }, image: "/poi-images/poland-port-of-gdansk-economic-v2.webp"},
   {
     id: "poland-belchatow-power-station-economic-v2",
     type: "industry",
@@ -95,8 +93,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["Európa legnagyobb lignittüzelésű erőműve.", "Több mint 5100 MW beépített kapacitással rendelkezik.", "A Polska Grupa Energetyczna (PGE) tulajdona.", "Lengyelország áramtermelésének kb. 20%-át adja.", "Évente körülbelül 40-42 millió tonna lignitet használ fel.", "A fő blokkot 1988-ban helyezték üzembe.", "Több erőművi blokkból áll.", "A kéménye 300 méter magas.", "Az EU legnagyobb egyedi CO2-kibocsátója.", "A bełchatówi lignitbánya mellett található.", "Az energetikai átállás részeként fokozatos leállítását tervezik.", "Fontos munkaadó a Łódźi régióban."],
       ro: ["Cea mai mare termocentrală pe lignit din Europa.", "Capacitate instalată de peste 5.100 MW.", "Deținută de Polska Grupa Energetyczna (PGE).", "Produce aproximativ 20% din electricitatea Poloniei.", "Consumă aproximativ 40-42 de milioane de tone de lignit anual.", "Unitatea principală a fost pusă în funcțiune în 1988.", "Constă din mai multe unități de putere.", "Coșul de fum are o înălțime de 300 de metri.", "Cel mai mare emitent unic de CO2 din UE.", "Situată lângă mina de lignit în aer liber Bełchatów.", "Planuri pentru dezafectare treptată ca parte a tranziției energetice.", "Un angajator important în regiunea Łódź."],
       en: ["Largest lignite-fired power plant in Europe.", "Installed capacity of over 5,100 MW.", "Owned by Polska Grupa Energetyczna (PGE).", "Produces roughly 20% of Poland's electricity.", "Consumes approximately 40-42 million tonnes of lignite annually.", "The main unit was commissioned in 1988.", "Consists of multiple power generation units.", "Its flue-gas stack is 300 meters tall.", "The largest single CO2 emitter in the EU.", "Located next to the Bełchatów open-pit lignite mine.", "Plans for gradual decommissioning as part of energy transition.", "A major employer in the Łódź region."],
-    },
-  },
+    }, image: "/poi-images/poland-belchatow-power-station-economic-v2.webp"},
   {
     id: "poland-pkn-orlen-plock-economic-v2",
     type: "factory",
@@ -159,8 +156,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["A KGHM Polska Miedź S.A., egy globális réztermelő része.", "A Legnica-Głogów rézmedencében található.", "1968 óta működik.", "Mélyműveléssel termel ki rézércet.", "Az ezüst a rézbányászat fontos mellékterméke.", "A rézlelőhelyeket 1957-ben fedezték fel.", "A KGHM a világ egyik legnagyobb ezüsttermelője.", "A bánya Lubin városa alatt terül el.", "Jelentősen hozzájárul Alsó-Szilézia gazdaságához.", "A bányászat mélysége meghaladja az 1000 métert.", "Fejlett bányászati technológiákat alkalmaz.", "Az ércet közeli kohókban dolgozzák fel."],
       ro: ["Parte a KGHM Polska Miedź S.A., un producător global de cupru.", "Situată în Centura de Cupru Legnica-Głogów.", "În funcțiune din 1968.", "Extrage minereu de cupru prin metode de minerit în adâncime.", "Argintul este un produs secundar important al extracției de cupru.", "Zăcămintele de cupru au fost descoperite în 1957.", "KGHM este unul dintre cei mai mari producători de argint din lume.", "Mina se extinde pe sub orașul Lubin.", "Contribuție majoră la economia Sileziei Inferioare.", "Adâncimea de extracție ajunge la peste 1.000 de metri.", "Utilizează tehnici miniere avansate.", "Minereul este procesat la topitoriile din apropiere."],
       en: ["Part of KGHM Polska Miedź S.A., a global copper producer.", "Located in the Legnica-Głogów Copper Belt.", "In operation since 1968.", "Extracts copper ore using deep mining methods.", "Silver is a significant by-product of the copper extraction.", "The copper deposits were discovered in 1957.", "KGHM is one of the world's largest producers of silver.", "The mine extends underneath the town of Lubin.", "Major contributor to the economy of Lower Silesia.", "Mining depth reaches over 1,000 meters.", "Employs advanced mining techniques.", "The ore is processed at nearby smelters."],
-    },
-  },
+    }, image: "/poi-images/poland-kghm-lubin-mine-economic-v2.webp"},
   {
     id: "poland-huta-katowice-economic-v2",
     type: "factory",
@@ -191,8 +187,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["Lengyelország legnagyobb acélműve.", "Dąbrowa Górniczában, Felső-Sziléziában található.", "1972 és 1976 között épült.", "Az ArcelorMittal Poland része.", "Hosszútermékekre, például sínekre és szádpallókra specializálódott.", "A sínek 120 méter hosszúak, a leghosszabbak Európában.", "Integrált acélmű nagyolvasztókkal és konverterekkel.", "Évente több millió tonna acél gyártására képes.", "Eredetileg a kommunista korszak hatalmának szimbóluma volt.", "2004 után átfogóan modernizálták.", "Fontos beszállító az építő- és vasútipar számára.", "Egykor önálló várost képezett a munkásai számára."],
       ro: ["Cea mai mare oțelărie din Polonia.", "Situată în Dąbrowa Górnicza, Silezia Superioară.", "Construită între 1972 și 1976.", "Parte a ArcelorMittal Poland.", "Specializată în produse lungi, cum ar fi șine și palplanșe.", "Șinele sale au 120 de metri, cele mai lungi produse în Europa.", "O oțelărie integrată, cu furnale și convertoare.", "Capacitate de producție de câteva milioane de tone de oțel pe an.", "Inițial un simbol al puterii din era comunistă.", "A fost modernizată pe scară largă după 2004.", "Un furnizor cheie pentru industriile de construcții și feroviare.", "Odinioară un oraș de sine stătător pentru muncitorii săi."],
       en: ["Largest steelworks in Poland.", "Located in Dąbrowa Górnicza, Upper Silesia.", "Built between 1972 and 1976.", "Part of ArcelorMittal Poland.", "Specializes in long products like rails and sheet piling.", "Its rails are 120 meters long, the longest produced in Europe.", "An integrated steelworks with blast furnaces and converters.", "Production capacity of several million tonnes of steel per year.", "Originally a symbol of power of the communist era.", "Was extensively modernized after 2004.", "A key supplier for the construction and railway industries.", "Once a self-contained town for its workers."],
-    },
-  },
+    }, image: "/poi-images/poland-huta-katowice-economic-v2.webp"},
   {
     id: "poland-port-of-gdynia-economic-v2",
     type: "port",
@@ -223,8 +218,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["Az 1920-as években épült, mint Lengyelország 'ablaka a világra'.", "A 'Hármasváros' része Gdańskkal és Sopottal együtt.", "Konténer-, ro-ro- és darabáru-forgalomra szakosodott.", "A Baltic Container Terminal (BCT) otthona.", "Fontos kompkikötő, összeköttetéssel Svédországgal (Karlskrona).", "Építése 1921-ben kezdődött parlamenti határozat alapján.", "Hivatalosan 1926-ban nyitották meg.", "A lengyel haditengerészet fontos hadikikötője.", "Akár 400 méter hosszú hajók fogadására is képes.", "Fontos átrakodási pont a mezőgazdasági termékek számára.", "A kikötői infrastruktúra folyamatosan bővül.", "A két világháború közötti lengyel függetlenség szimbóluma."],
       ro: ["Construit în anii 1920 ca 'fereastra Poloniei către lume'.", "Parte a 'Tri-City' alături de Gdańsk și Sopot.", "Specializat în manipularea containerelor, a mărfurilor ro-ro și generale.", "Sediul Baltic Container Terminal (BCT).", "Port important de feriboturi cu legături către Suedia (Karlskrona).", "Construcția a început în 1921 prin decizie parlamentară.", "Inaugurat oficial în 1926.", "O bază navală importantă pentru Marina Poloneză.", "Poate găzdui nave de până la 400 de metri lungime.", "Un punct cheie de transbordare pentru produsele agricole.", "Infrastructura portuară este în continuă extindere.", "Simbol al independenței poloneze interbelice."],
       en: ["Built in the 1920s as Poland's 'window to the world'.", "Part of the 'Tri-City' with Gdańsk and Sopot.", "Specializes in container, ro-ro, and general cargo handling.", "Home to the Baltic Container Terminal (BCT).", "Major ferry port with connections to Sweden (Karlskrona).", "Construction began in 1921 by parliamentary decision.", "Officially opened in 1926.", "An important naval base for the Polish Navy.", "Can accommodate vessels up to 400 meters in length.", "A key transshipment point for agricultural products.", "Continuously expanding its port infrastructure.", "Symbol of interwar Polish independence."],
-    },
-  },
+    }, image: "/poi-images/poland-port-of-gdynia-economic-v2.webp"},
   {
     id: "poland-port-of-szczecin-economic-v2",
     type: "port",
@@ -255,8 +249,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["Świnoujście-vel együtt alkotja a Szczecin-Świnoujście kikötőkomplexumot.", "Az Odera folyónál, a Balti-tengertől kb. 65 km-re fekszik.", "Fontos kikötő a cseh és szlovák külkereskedelem számára.", "Ömlesztett és darabárukra specializálódott.", "Fontos átrakodási pont a műtrágyák és mezőgazdasági termékek számára.", "Történelmileg fontos német kikötő volt (Stettin).", "Csatlakozik a német és lengyel autópálya-hálózathoz.", "Jelentős munkaadó a Nyugat-pomerániai vajdaságban.", "Évente több mint 20 millió tonna rakományt kezel (a komplexum részeként).", "Fontos helyszín a tengeri szélenergia-ipar számára.", "Speciális terminálokkal rendelkezik szén, érc és gabona számára.", "Kapu a Berlin-Brandenburg nagyvárosi régióhoz."],
       ro: ["Formează complexul portuar Szczecin-Świnoujście împreună cu Świnoujście.", "Situat pe râul Oder, la aproximativ 65 km de Marea Baltică.", "Port important pentru comerțul exterior ceh și slovac.", "Specializat în mărfuri vrac și generale.", "Punct important de transbordare pentru îngrășăminte și produse agricole.", "Istoric, un port german important (Stettin).", "Conectat la rețelele de autostrăzi germane și poloneze.", "Angajator semnificativ în Voievodatul Pomerania de Vest.", "Gestionează peste 20 de milioane de tone de marfă anual (ca parte a complexului).", "Locație cheie pentru industria eoliană offshore.", "Dispune de terminale specializate pentru cărbune, minereu și cereale.", "Poartă de acces către regiunea metropolitană Berlin-Brandenburg."],
       en: ["Forms the Szczecin-Świnoujście port complex with Świnoujście.", "Located on the Oder River, approx. 65 km from the Baltic Sea.", "Important port for Czech and Slovak foreign trade.", "Specializes in bulk and general cargo.", "Major transshipment point for fertilizers and agricultural products.", "Historically an important German port (Stettin).", "Connected to German and Polish motorway networks.", "Significant employer in the West Pomeranian Voivodeship.", "Handles over 20 million tonnes of cargo annually (as part of the complex).", "Key location for the offshore wind industry.", "Has specialized terminals for coal, ore, and grain.", "Gateway to the Berlin-Brandenburg metropolitan region."],
-    },
-  },
+    }, image: "/poi-images/poland-port-of-szczecin-economic-v2.webp"},
   {
     id: "poland-swinoujscie-lng-terminal-economic-v2",
     type: "industry",
@@ -287,8 +280,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["Hivatalos neve: Lech Kaczyński Elnök LNG Terminál.", "Świnoujście-ben, a Balti-tenger partján található.", "Lehetővé teszi az LNG importját a világ minden tájáról (pl. USA, Katar).", "2015 óta működik.", "A Gaz-System S.A. üzemelteti.", "Kulcsfontosságú Lengyelország gázellátásának diverzifikálásában.", "Kezdeti visszagázosítási kapacitása évi 5 milliárd köbméter volt.", "Jelenleg bővítik a kapacitás növelése érdekében.", "Két nagy LNG tárolótartállyal rendelkezik.", "Erősíti az egész közép-európai régió energiabiztonságát.", "Hozzáférést biztosít Lengyelországnak a globális LNG-piachoz.", "Csökkenti az orosz vezetékes gáztól való függőséget."],
       ro: ["Nume oficial: Terminalul GNL Președintele Lech Kaczyński.", "Situat în Świnoujście, pe coasta Mării Baltice.", "Permite importul de GNL din întreaga lume (de ex. SUA, Qatar).", "În funcțiune din 2015.", "Operat de Gaz-System S.A.", "Crucial pentru diversificarea aprovizionării cu gaze a Poloniei.", "Capacitate inițială de regazeificare de 5 miliarde de metri cubi pe an.", "În prezent, în curs de extindere pentru a crește capacitatea.", "Are două rezervoare mari de stocare a GNL.", "Întărește securitatea energetică a întregii regiuni a Europei Centrale.", "Oferă Poloniei acces la piața globală de GNL.", "Reduce dependența de gazul rusesc prin conducte."],
       en: ["Official name: President Lech Kaczyński LNG Terminal.", "Located in Świnoujście, on the Baltic coast.", "Allows import of LNG from around the world (e.g., USA, Qatar).", "In operation since 2015.", "Operated by Gaz-System S.A.", "Crucial for diversifying Poland's gas supply.", "Initial regasification capacity of 5 billion cubic meters per year.", "Currently undergoing expansion to increase capacity.", "Features two large LNG storage tanks.", "Strengthens the energy security of the entire Central European region.", "Gives Poland access to the global LNG market.", "Reduces reliance on Russian pipeline gas."],
-    },
-  },
+    }, image: "/poi-images/poland-swinoujscie-lng-terminal-economic-v2.webp"},
   {
     id: "poland-fiat-factory-tychy-economic-v2",
     type: "factory",
@@ -319,8 +311,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["Korábban Fiat Auto Poland, ma a Stellantis része.", "Lengyelország egyik legnagyobb autógyára.", "Tychyben, a Sziléziai vajdaságban található.", "Itt gyártották az ikonikus Polski Fiat 126p-t ('Maluch').", "A Fiat 500 és Abarth 500 fő gyártási helyszíne.", "A Lancia Ypsilont is itt gyártják.", "Itt indult a Jeep Avenger, a 2023-as Év Autója gyártása.", "Magas termelési hatékonyságáról és minőségéről ismert.", "Évente több százezer autó gyártására képes.", "Jelentős exportőr, a világ minden tájára szállít autókat.", "Több ezer munkavállalót foglalkoztat a régióban.", "Számos díjat nyert a gyártási minőségért."],
       ro: ["Fostă Fiat Auto Poland, acum parte a Stellantis.", "Una dintre cele mai mari fabrici de automobile din Polonia.", "Situată în Tychy, Voievodatul Silezia.", "A produs emblematicul Polski Fiat 126p ('Maluch').", "Principalul centru de producție pentru Fiat 500 și Abarth 500.", "Produce, de asemenea, Lancia Ypsilon.", "A început producția pentru Jeep Avenger, Mașina Anului 2023.", "Cunoscută pentru eficiența și calitatea înaltă a producției.", "Capacitate de producție de sute de mii de mașini pe an.", "Un exportator major, livrând mașini în întreaga lume.", "Angajează mii de muncitori în regiune.", "A primit numeroase premii pentru calitatea fabricației."],
       en: ["Formerly Fiat Auto Poland, now part of Stellantis.", "One of the largest car factories in Poland.", "Located in Tychy, Silesian Voivodeship.", "Produced the iconic Polski Fiat 126p ('Maluch').", "Main production site for the Fiat 500 and Abarth 500.", "Also produces the Lancia Ypsilon.", "Started production for the Jeep Avenger, Car of the Year 2023.", "Known for high production efficiency and quality.", "Production capacity of hundreds of thousands of cars per year.", "A major exporter, shipping cars worldwide.", "Employs thousands of workers in the region.", "Has received numerous awards for manufacturing quality."],
-    },
-  },
+    }, image: "/poi-images/poland-fiat-factory-tychy-economic-v2.webp"},
   {
     id: "poland-stellantis-factory-gliwice-economic-v2",
     type: "factory",
@@ -383,8 +374,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["Lengyelország és Közép-Európa legnagyobb vásárszervezője.", "1921-ben alapították.", "Poznań városközpontjában található.", "Több mint 110 000 m² kiállítási területtel rendelkezik.", "Évente több mint 100 vásárt és konferenciát rendez.", "Olyan vásárokról ismert, mint a Poznań Motor Show és a Polagra (mezőgazdaság).", "A hidegháború idején a kelet-nyugati kereskedelem fontos helyszíne volt.", "Néhány pavilonja építészeti műemlék.", "Fontos gazdasági tényező Poznań és a Nagy-lengyelországi régió számára.", "Évente több százezer látogatót vonz.", "Az első vásárt 1921-ben tartották.", "Fontos szerepet játszik a lengyel export előmozdításában."],
       ro: ["Cel mai mare organizator de târguri din Polonia și Europa Centrală.", "Fondat în 1921.", "Situat în centrul orașului Poznań.", "Acoperă peste 110.000 m² de spațiu expozițional.", "Găzduiește peste 100 de târguri și conferințe pe an.", "Cunoscut pentru târguri precum Poznań Motor Show și Polagra (agricultură).", "Un loc important pentru comerțul Est-Vest în timpul Războiului Rece.", "Unele dintre pavilioanele sale sunt repere arhitecturale.", "Un factor economic major pentru Poznań și regiunea Polonia Mare.", "Atrage sute de mii de vizitatori anual.", "Primul târg a avut loc în 1921.", "Joacă un rol important în promovarea exporturilor poloneze."],
       en: ["Largest fair organizer in Poland and Central Europe.", "Established in 1921.", "Located in the city center of Poznań.", "Covers over 110,000 m² of exhibition space.", "Hosts over 100 trade fairs and conferences per year.", "Known for fairs like the Poznań Motor Show and Polagra (agriculture).", "An important venue for East-West trade during the Cold War.", "Some of its pavilions are architectural landmarks.", "A major economic driver for Poznań and the Greater Poland region.", "Attracts hundreds of thousands of visitors annually.", "The first fair was held in 1921.", "Plays a major role in promoting Polish exports."],
-    },
-  },
+    }, image: "/poi-images/poland-poznan-international-fair-economic-v2.webp"},
   {
     id: "poland-wieliczka-salt-mine-economic-v2",
     type: "mine",
@@ -415,8 +405,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["1978 óta az UNESCO Világörökség része.", "A bánya legnagyobb mélysége 327 méter.", "A föld alatti járatrendszer több mint 287 km hosszú.", "A világ egyik legrégebbi sóbányája.", "A Szent Kinga-kápolnát teljes egészében sóból faragták.", "Évente mintegy 1,2 millió turista látogatja meg."],
       ro: ["Inclusă în Patrimoniul Mondial UNESCO din 1978.", "Atinge o adâncime maximă de 327 de metri.", "Rețeaua subterană de galerii depășește 287 km.", "Una dintre cele mai vechi saline din lume.", "Capela Sf. Kinga este sculptată integral din sare.", "Atrage anual aproximativ 1,2 milioane de turiști."],
       en: ["Inscribed on the UNESCO World Heritage list in 1978.", "Reaches a maximum depth of 327 meters.", "The subterranean network of galleries exceeds 287 km.", "Recognized as one of the world's oldest salt mines.", "The Chapel of St. Kinga is carved entirely out of rock salt.", "Welcomes approximately 1.2 million tourists each year."]
-    }
-  },
+    }, image: "/poi-images/poland-wieliczka-salt-mine-economic-v2.webp"},
   {
     id: "poland-pulawy-nitrogen-works-economic-v2",
     type: "factory",
@@ -447,8 +436,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["Lengyelország legnagyobb vegyipari vállalatának, a Grupa Azoty-nak a része.", "A világ egyik legnagyobb melamingyártója.", "Évente több mint 1 millió tonna nitrogénműtrágyát állít elő.", "Saját kikötővel rendelkezik a Visztula folyón.", "A termelés az 1960-as évek végén kezdődött.", "A lublini régió egyik legfontosabb gazdasági motorja."],
       ro: ["Face parte din cea mai mare companie chimică poloneză, Grupa Azoty.", "Unul dintre cei mai mari producători de melamină la nivel mondial.", "Produce peste 1 milion de tone de îngrășăminte cu azot anual.", "Deține propriul port pe râul Vistula.", "Producția a început la sfârșitul anilor 1960.", "Un motor economic major pentru regiunea Lublin."],
       en: ["Forms a core part of Grupa Azoty, Poland's largest chemical company.", "Ranks among the world's leading producers of melamine.", "Manufactures over 1 million tonnes of nitrogen fertilizers annually.", "Features a dedicated river port along the Vistula.", "Industrial production officially commenced in the late 1960s.", "Serves as a primary economic driver for the Lublin Voivodeship."]
-    }
-  },
+    }, image: "/poi-images/poland-pulawy-nitrogen-works-economic-v2.webp"},
   {
     id: "poland-police-chemical-plant-economic-v2",
     type: "factory",
@@ -479,8 +467,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["A Grupa Azoty fontos északnyugat-lengyelországi telephelye.", "Többkomponensű (NPK) műtrágyákra specializálódott.", "Európa egyik legnagyobb titán-dioxid gyártója.", "Közvetlen tengeri kikötői csatlakozással rendelkezik az Odera torkolatánál.", "A Polimery Police projekt Lengyelország egyik legnagyobb vegyipari beruházása.", "A termelés mintegy felét világszerte exportálják."],
       ro: ["O unitate cheie a Grupa Azoty în nord-vestul Poloniei.", "Specializat în producția de îngrășăminte complexe (NPK).", "Unul dintre cei mai mari producători de dioxid de titan din Europa.", "Beneficiază de conexiune directă la portul maritim de pe estuarul Odrei.", "Proiectul Polimery Police este o investiție chimică uriașă pentru Polonia.", "Aproximativ jumătate din producție este exportată la nivel mondial."],
       en: ["A key industrial site for Grupa Azoty in northwestern Poland.", "Heavily specialized in the production of multi-component (NPK) fertilizers.", "Ranks among Europe's largest producers of titanium dioxide.", "Enjoys direct seaport access located at the Oder River estuary.", "The Polimery Police project represents a massive chemical investment in Poland.", "Roughly half of the plant's total production is exported globally."]
-    }
-  },
+    }, image: "/poi-images/poland-police-chemical-plant-economic-v2.webp"},
   {
     id: "poland-stalowa-wola-ironworks-economic-v2",
     type: "factory",
@@ -511,8 +498,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["1938-ban alapították a Központi Ipari Körzet (COP) projekt keretében.", "Az állami Polska Grupa Zbrojeniowa (PGZ) fegyvergyártó konszern része.", "Az AHS Krab önjáró lövegek fő gyártója.", "Itt készül az M120 Rak önjáró aknavető is.", "Stalowa Wola városát kifejezetten a gyár munkásai számára építették.", "Korábban bulldózerek és kotrógépek jelentős gyártója is volt."],
       ro: ["Fondată în 1938 ca parte a inițiativei Regiunii Industriale Centrale.", "Parte a consorțiului de stat din industria de apărare Polska Grupa Zbrojeniowa (PGZ).", "Producătorul principal al obuzierelor autopropulsate AHS Krab.", "Produce de asemenea mortierul autopropulsat M120 Rak.", "Orașul Stalowa Wola a fost construit special pentru a găzdui muncitorii fabricii.", "În trecut, un producător major de buldozere și excavatoare civile."],
       en: ["Founded in 1938 as a cornerstone of the Central Industrial Region project.", "Currently operates as part of the state-owned Polska Grupa Zbrojeniowa (PGZ).", "Primary manufacturer of the advanced AHS Krab self-propelled howitzer.", "Also produces the M120 Rak self-propelled mortar system.", "The town of Stalowa Wola was purpose-built to house the facility's workforce.", "Historically held a strong market position producing civilian bulldozers and excavators."]
-    }
-  },
+    }, image: "/poi-images/poland-stalowa-wola-ironworks-economic-v2.webp"},
   {
     id: "poland-mielec-aviation-valley-economic-v2",
     type: "industry",
@@ -543,8 +529,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["A PZL Mielec, Lengyelország legnagyobb légiközlekedési vállalatának székhelye.", "2015 óta a Lockheed Martin (a Sikorsky révén) 100%-os tulajdonában van.", "Itt végzik az S-70i Black Hawk helikopterek végszerelését.", "Itt gyártják a kétmotoros PZL M28 Skytruck szállító repülőgépet.", "Az EURO-PARK MIELEC különleges gazdasági övezetet itt alapították 1995-ben.", "A több mint 160 vállalatot tömörítő Dolina Lotnicza (Repülési Völgy) klaszter központja."],
       ro: ["Sediul PZL Mielec, cea mai mare companie aerospațială din Polonia.", "Deținută integral de Lockheed Martin (prin Sikorsky) din 2015.", "Realizează asamblarea finală a elicopterelor militare S-70i Black Hawk.", "Produce avionul de transport utilitar bimotor PZL M28 Skytruck.", "Zona economică specială EURO-PARK MIELEC a fost înființată aici în 1995.", "Centrul clusterului Dolina Lotnicza (Valea Aviației), cu peste 160 de companii."],
       en: ["Headquarters of PZL Mielec, the largest aerospace manufacturer in Poland.", "Fully acquired and owned by Lockheed Martin (via Sikorsky) since 2015.", "Responsible for the final assembly of the S-70i Black Hawk helicopters.", "Continues to produce the twin-engine PZL M28 Skytruck utility aircraft.", "The EURO-PARK MIELEC Special Economic Zone was established here in 1995.", "Serves as the central node of the Dolina Lotnicza (Aviation Valley) cluster comprising over 160 firms."]
-    }
-  },
+    }, image: "/poi-images/poland-mielec-aviation-valley-economic-v2.webp"},
   {
     id: "poland-bogdanka-coal-mine-economic-v2",
     type: "mine",
@@ -575,8 +560,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["Lengyelország legjövedelmezőbb kőszénbányája.", "A lublini szénmedencében található.", "A kitermelés 1982-ben kezdődött.", "A kozienicei erőmű egyik fő beszállítója.", "A fejtési frontok nagymértékben gépesítettek és automatizáltak.", "Fontos munkaadó, amely több ezer embert foglalkoztat a régióban."],
       ro: ["Cea mai profitabilă mină de huilă din Polonia.", "Situată în Bazinul Carbonifer Lublin.", "Extracția a început oficial în anul 1982.", "Unul dintre principalii furnizori pentru centrala electrică Kozienice.", "Fronturile de extracție sunt puternic mecanizate și automatizate.", "Un angajator cheie care susține mii de locuri de muncă în regiune."],
       en: ["Ranked as the most profitable hard coal mine in Poland.", "Situated within the geographically distinct Lublin Coal Basin.", "Commercial coal extraction operations commenced in 1982.", "Serves as a primary fuel supplier to the Kozienice Power Station.", "Features highly mechanized and automated longwall mining faces.", "Acts as a major regional employer, providing thousands of jobs."]
-    }
-  },
+    }, image: "/poi-images/poland-bogdanka-coal-mine-economic-v2.webp"},
   {
     id: "poland-turow-lignite-mine-economic-v2",
     type: "mine",
@@ -607,8 +591,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["A Turoszówi szénmedencében található a lengyel-cseh-német határon.", "Közvetlenül a PGE turówi erőművét látja el barnakőszénnel.", "A külszíni fejtés mélysége meghaladja a 200 métert.", "Az Európai Bíróság előtti eljárás tárgya volt.", "Bogatynia városának fontos gazdasági horgonya.", "A szénkitermelés tervezett élettartama 2044-ig tart."],
       ro: ["Situată în bazinul carbonifer Turoszów, la granița polono-ceho-germană.", "Furnizează lignit direct centralei electrice PGE Turów.", "Mina de suprafață atinge o adâncime de peste 200 de metri.", "A fost subiectul unui litigiu major la Curtea Europeană de Justiție.", "O ancoră economică vitală pentru orașul Bogatynia.", "Durata planificată a extracției de cărbune se extinde până în 2044."],
       en: ["Located in the Turoszów coal basin at the Polish-Czech-German border.", "Directly supplies lignite fuel to the PGE-owned Turów Power Station.", "The massive open-pit excavation reaches depths exceeding 200 meters.", "Was the subject of a high-profile legal dispute at the European Court of Justice.", "Serves as the primary economic anchor for the local municipality of Bogatynia.", "The planned operational lifespan for coal extraction extends until 2044."]
-    }
-  },
+    }, image: "/poi-images/poland-turow-lignite-mine-economic-v2.webp"},
   {
     id: "poland-kozienice-power-station-economic-v2",
     type: "industry",
@@ -639,8 +622,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["Lengyelország legnagyobb kőszén-tüzelésű erőműve.", "Az állami Enea energiacsoport tulajdona.", "A teljes beépített kapacitás mintegy 4000 MW.", "A varsói nagyvárosi régió áramigényének jelentős részét fedezi.", "Az új, 1075 MW-os B11-es blokkot 2017-ben adták át.", "A hűtővizet közvetlenül a szomszédos Visztula folyóból nyerik."],
       ro: ["Cea mai mare centrală pe huilă din Polonia.", "Aparține grupului energetic de stat Enea.", "Capacitatea totală instalată este de aproximativ 4.000 MW.", "Acoperă o parte substanțială din necesarul de energie al zonei metropolitane Varșovia.", "Noul bloc B11 de 1.075 MW a fost dat în exploatare în 2017.", "Apa de răcire este extrasă direct din râul adiacent Vistula."],
       en: ["Ranks as the largest hard coal-fired power plant in Poland.", "Operated by the state-owned Enea energy group.", "Features a massive total installed capacity of roughly 4,000 MW.", "Supplies a substantial portion of the electricity required by the Warsaw metropolitan area.", "The state-of-the-art 1,075 MW B11 power unit was commissioned in 2017.", "Draws its cooling water directly from the adjacent Vistula River."]
-    }
-  },
+    }, image: "/poi-images/poland-kozienice-power-station-economic-v2.webp"},
   {
     id: "poland-tarnow-chemical-plant-economic-v2",
     type: "factory",
@@ -671,8 +653,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["A vegyipari óriás, a Grupa Azoty központja.", "1927-ben alapították Ignacy Mościcki akkori elnök kezdeményezésére.", "Európa egyik vezető poliamid 6 (Tarnamid) gyártója.", "Hatalmas ipari komplexum Tarnów városának szélén.", "Erősen elkötelezett a szponzoráció iránt, többek között a helyi sportklubok támogatásában.", "A gyár katalizátorokat gyártó berendezéseket is magában foglal."],
       ro: ["Sediul central al gigantului chimic Grupa Azoty.", "Fondat în 1927 la inițiativa președintelui de atunci, Ignacy Mościcki.", "Unul dintre principalii producători europeni de poliamidă 6 (Tarnamid).", "Un complex industrial uriaș situat la periferia orașului Tarnów.", "Puternic implicat în sponsorizări, inclusiv pentru cluburile sportive locale.", "Uzina include și facilități avansate pentru producția de catalizatori."],
       en: ["Serves as the global headquarters for the chemical giant Grupa Azoty.", "Founded in 1927 under the initiative of then-President Ignacy Mościcki.", "Ranks among the leading European producers of polyamide 6 (marketed as Tarnamid).", "Forms a massive industrial complex sprawling on the outskirts of Tarnów.", "Heavily engaged in corporate sponsorship, significantly supporting local sports clubs.", "The expansive plant also houses dedicated facilities for manufacturing chemical catalysts."]
-    }
-  },
+    }, image: "/poi-images/poland-tarnow-chemical-plant-economic-v2.webp"},
   {
     id: "poland-jaworzno-power-station-economic-v2",
     type: "industry",
@@ -703,8 +684,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["A Tauron Wytwarzanie, egy nagy lengyel energetikai vállalat üzemelteti.", "A Sziléziai vajdaságban, Jaworznóban található.", "A legújabb 910 MW-os blokk Európa egyik legmodernebb szénerőműve.", "Kőszenet használ, amely főleg a közeli Tauron-bányákból származik.", "A komplexum távfűtési kapacitással is rendelkezik a helyi lakosság számára.", "Az új blokk építése egy több milliárd złoty értékű projekt volt."],
       ro: ["Operat de Tauron Wytwarzanie, o importantă companie energetică poloneză.", "Situat în orașul Jaworzno din Voievodatul Silezia.", "Cel mai nou bloc de 910 MW este una dintre cele mai moderne centrale pe cărbune din Europa.", "Folosește huilă provenită în principal din minele Tauron din apropiere.", "Complexul include, de asemenea, capacități de termoficare pentru populația locală.", "Construcția noului bloc a fost un proiect de investiții de mai multe miliarde de zloți."],
       en: ["Operated by Tauron Wytwarzanie, a major Polish energy utility company.", "Strategically located in the city of Jaworzno within the Silesian Voivodeship.", "The newest 910 MW unit ranks among the most modern coal facilities in Europe.", "Primarily burns hard coal sourced directly from nearby Tauron-owned mines.", "The expansive complex also provides crucial district heating capabilities for the local population.", "The construction of the new power block was a multi-billion zloty infrastructure project."]
-    }
-  },
+    }, image: "/poi-images/poland-jaworzno-power-station-economic-v2.webp"},
   {
     id: "poland-legnica-copper-smelter-economic-v2",
     type: "factory",
@@ -735,8 +715,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["A KGHM Polska Miedź legrégebbi működő rézkohója.", "Évente több mint 100 000 tonna elektrolitrezet állít elő.", "Globális referenciaként szolgáló rézkatódokat gyárt.", "Nemesfémeket, például aranyat, ezüstöt és palládiumot nyer ki a réziszapból.", "Az üzem építése 1951-ben kezdődött, a termelés 1953-ban indult.", "Kulcsszerepet játszik Legnica ipari ökoszisztémájában."],
       ro: ["Cea mai veche topitorie de cupru funcțională a KGHM Polska Miedź.", "Produce anual peste 100.000 de tone de cupru electrolitic.", "Fabrică catozi de cupru care servesc drept marcă de referință globală.", "Recuperează metale prețioase precum aurul, argintul și paladiul din nămolul de cupru.", "Construcția uzinei a început în 1951, iar producția a demarat în 1953.", "Joacă un rol cheie în ecosistemul industrial din Legnica."],
       en: ["The oldest continuously operating copper smelter within the KGHM Polska Miedź group.", "Produces well over 100,000 tonnes of high-grade electrolytic copper annually.", "Manufactures copper cathodes that are recognized as a global benchmark standard.", "Efficiently extracts precious metals like gold, silver, and palladium from anode slimes.", "Construction of the massive facility began in 1951, with initial production in 1953.", "Plays a foundational role in the broader industrial ecosystem of the Legnica region."]
-    }
-  },
+    }, image: "/poi-images/poland-legnica-copper-smelter-economic-v2.webp"},
   {
     id: "poland-elblag-turbine-factory-economic-v2",
     type: "factory",
@@ -767,8 +746,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["A második világháború romjain alapították Zamech néven.", "Ma a General Electric (GE) nemzetközi konszern része.", "A világ egyik legnagyobb teljesítményű gőzturbináit gyártja.", "Az elblągi turbinák a világ több tucat országában termelnek áramot.", "Több száz magasan képzett mérnököt és kohászt foglalkoztat.", "Egy modern kohászati laboratóriumnak is otthont ad az anyagvizsgálatokhoz."],
       ro: ["Fondată pe ruinele celui de-al Doilea Război Mondial sub numele Zamech.", "Astăzi aparține corporației internaționale General Electric (GE).", "Produce unele dintre cele mai puternice turbine cu abur din lume.", "Turbinele de la Elbląg generează electricitate în zeci de țări de pe glob.", "Angajează sute de ingineri și metalurgiști cu o înaltă specializare.", "Găzduiește un laborator metalurgic modern, dedicat testării materialelor."],
       en: ["Originally founded in the aftermath of World War II under the name Zamech.", "Currently operates as a key manufacturing hub for General Electric (GE).", "Produces some of the most powerful and efficient steam turbines in the world.", "Turbines manufactured in Elbląg generate electricity in dozens of countries globally.", "Employs hundreds of highly specialized mechanical engineers and metallurgists.", "Houses an advanced metallurgical laboratory dedicated to rigorous material testing."]
-    }
-  },
+    }, image: "/poi-images/poland-elblag-turbine-factory-economic-v2.webp"},
   {
     id: "poland-kwidzyn-paper-mill-economic-v2",
     type: "factory",
@@ -799,8 +777,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["Európa egyik legnagyobb integrált cellulóz- és papírgyára.", "Korábban az International Paper tulajdonában volt, ma a Mayr-Melnhof csoport része.", "Másolópapírt, kartont és csomagolóanyagokat gyárt.", "Nagy mennyiségben használ megújuló nyersanyagokat és biomasszát energiatermelésre.", "A gyár hatalmas kapacitású, ultramodern papírgépekkel rendelkezik.", "Jelentős exportőr, amely világszerte szállít az ügyfeleknek."],
       ro: ["Una dintre cele mai mari fabrici integrate de celuloză și hârtie din Europa.", "Anterior deținută de International Paper, acum parte a Grupului Mayr-Melnhof.", "Produce hârtie de copiator, carton și diverse materiale de ambalare.", "Utilizează pe scară largă materii prime regenerabile și biomasă pentru generarea de energie.", "Fabrica dispune de mașini de hârtie ultramoderne, cu o capacitate enormă.", "Un exportator major care deservește clienți de pe tot globul."],
       en: ["Ranks as one of the largest integrated pulp and paper manufacturing facilities in Europe.", "Formerly owned by International Paper, currently a core asset of the Mayr-Melnhof Group.", "Produces immense volumes of copy paper, heavy carton, and packaging materials.", "Extensively utilizes renewable resources and biomass for on-site energy generation.", "The factory is equipped with state-of-the-art paper machines boasting enormous capacity.", "Acts as a major national exporter, supplying paper products to clients worldwide."]
-    }
-  },
+    }, image: "/poi-images/poland-kwidzyn-paper-mill-economic-v2.webp"},
   {
     id: "poland-opole-cement-works-economic-v2",
     type: "factory",
@@ -831,8 +808,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["Az Opolei régió állítja elő a teljes lengyel cementtermelés nagy részét.", "A régió mészkőbányái a leggazdagabbak közé tartoznak egész Közép-Európában.", "A Górażdże cementgyár Európa egyik legnagyobb és legkorszerűbb üzeme.", "A gyárak nagy mértékben használnak újrahasznosított hulladékot alternatív tüzelőanyagként.", "A cementgyártás hagyománya Opoléban a 19. század közepéig nyúlik vissza.", "Az Odera folyó közelsége történelmileg lehetővé tette az építőanyagok könnyű szállítását."],
       ro: ["Regiunea Opole produce o mare parte din totalul cimentului fabricat în Polonia.", "Carierele de calcar din regiune sunt printre cele mai bogate din Europa Centrală.", "Fabrica de ciment Górażdże este una dintre cele mai mari și mai moderne din Europa.", "Uzinele utilizează pe scară largă deșeuri reciclate ca și combustibil alternativ.", "Tradiția cimentului în Opole datează de la mijlocul secolului al XIX-lea.", "Proximitatea râului Odra a facilitat istoric transportul ușor al materialelor de construcție."],
       en: ["The Opole region accounts for a massive proportion of all cement produced in Poland.", "The area's limestone quarries are considered among the most abundant in Central Europe.", "The Górażdże cement plant ranks as one of the largest and most modern facilities in Europe.", "These plants heavily utilize processed, recycled waste as an alternative energy fuel.", "The commercial cement-making tradition in Opole dates back to the mid-19th century.", "The proximity to the Oder River historically facilitated the easy bulk transport of building materials."]
-    }
-  },
+    }, image: "/poi-images/poland-opole-cement-works-economic-v2.webp"},
   {
     id: "poland-starachowice-truck-plant-economic-v2",
     type: "factory",
@@ -863,8 +839,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["Az egész Lengyelországot motorizáló híres Star teherautók történelmi szülőhelye.", "Ma az MAN városi buszgyártásának 'Kiválósági Központja'.", "Alvázakat és komplett MAN Lion's City buszokat gyárt.", "Erőteljes fókusz a zéró emissziós elektromos buszok gyártására.", "A gyár fejlett katódos merítőfestő (KTL) berendezéssel rendelkezik.", "Starachowice régiójának legnagyobb magánmunkaadója."],
       ro: ["Locul de naștere istoric al celebrelor camioane Star care au motorizat toată Polonia.", "Astăzi un 'Centru de Excelență' pentru producția de autobuze urbane a MAN.", "Produce șasiuri și autobuze urbane complete MAN Lion's City.", "Un accent puternic pe asamblarea autobuzelor electrice cu emisii zero.", "Fabrica dispune de o instalație avansată de vopsire prin scufundare catodică (KTL).", "Cel mai mare angajator din sectorul privat din regiunea Starachowice."],
       en: ["The historical birthplace of the famous Star trucks that effectively motorized post-war Poland.", "Currently operates as a designated 'Center of Excellence' for MAN's city bus production.", "Manufactures bare chassis structures alongside fully assembled MAN Lion's City buses.", "Maintains a strong, forward-looking focus on assembling zero-emission electric buses.", "The factory is equipped with a highly advanced cathodic dip painting (KTL) facility.", "Ranks unequivocally as the largest private-sector employer in the Starachowice region."]
-    }
-  },
+    }, image: "/poi-images/poland-starachowice-truck-plant-economic-v2.webp"},
   {
     id: "poland-bydgoszcz-nitro-chem-economic-v2",
     type: "factory",
@@ -927,8 +902,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["Európa egyik leggyorsabban növekvő különleges gazdasági övezete.", "A Toyota Motor Manufacturing Poland a legnagyobb befektető az övezetben.", "Több tucat alövezetet foglal magában Délnyugat-Lengyelországban.", "Alapítása óta több mint 50 000 munkahelyet teremtett.", "Kiemelten fókuszál az autóipari beszállítókra.", "Akár 50%-os adómentességet is kínál a befektetőknek a beruházási költségeik után."],
       ro: ["Una dintre zonele economice speciale cu cea mai rapidă creștere din Europa.", "Toyota Motor Manufacturing Poland este cel mai mare investitor din zonă.", "Cuprinde zeci de subzone răspândite în sud-vestul Poloniei.", "A generat peste 50.000 de locuri de muncă directe de la înființare.", "Se concentrează masiv pe furnizorii de componente pentru industria auto.", "Oferă investitorilor scutiri de taxe de până la 50% din costurile investiției."],
       en: ["Ranks among the fastest-growing special economic zones anywhere in Europe.", "Toyota Motor Manufacturing Poland stands as the undisputed largest investor.", "Comprises dozens of strategically located sub-zones across southwestern Poland.", "Has successfully facilitated the creation of over 50,000 jobs since its inception.", "Maintains a heavy industrial focus on hosting tier-1 automotive suppliers.", "Offers highly lucrative corporate tax exemptions covering up to 50% of capital investments."]
-    }
-  },
+    }, image: "/poi-images/poland-walbrzych-economic-zone-economic-v2.webp"},
   {
     id: "poland-lodz-manufaktura-economic-v2",
     type: "landmark",
@@ -959,8 +933,7 @@ export const polandEconomicV2: POI[] = [
       hu: ["Kelet-Európa egyik legnagyobb bevásárló- és szórakoztató központja.", "Egy 27 hektáros egykori ipari területen található.", "Több mint 300 üzletet, butikot és szolgáltató vállalatot foglal magában.", "Itt kapott helyet a híres Modern Művészeti Múzeum (ms²).", "A központi tér nyáron strandként, télen jégpályaként üzemel.", "A projektet számos díjjal jutalmazták kiemelkedő városfejlesztési értékéért."],
       ro: ["Unul dintre cele mai mari centre comerciale și de divertisment din Europa de Est.", "Situat pe un fost sit industrial imens, care acoperă 27 de hectare.", "Găzduiește peste 300 de magazine retail, buticuri și furnizori de servicii.", "Include renumitul Muzeu de Artă Modernă (ms²).", "Piața centrală este transformată în plajă vara și în patinoar iarna.", "Proiectul a câștigat numeroase premii internaționale pentru dezvoltare urbană."],
       en: ["Recognized as one of the largest retail and entertainment complexes in Eastern Europe.", "Sprawls across a massive 27-hectare former heavy industrial site.", "Contains well over 300 diverse retail stores, specialized boutiques, and service outlets.", "Proudly hosts the highly esteemed Museum of Modern Art (ms²).", "The expansive central plaza functions as a sandy beach in summer and an ice rink in winter.", "The ambitious redevelopment project has won multiple prestigious awards for urban regeneration."]
-    }
-  },
+    }, image: "/poi-images/poland-lodz-manufaktura-economic-v2.webp"},
   {
     id: "poland-katowice-business-center-economic-v2",
     type: "city",

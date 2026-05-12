@@ -17,8 +17,7 @@ export const serbiaCountry: POI = {
     hu: ["Főváros: Belgrád", "A Balkánon fekszik", "Pénznem: Szerb dinár", "Hivatalos nyelv: Szerb", "Nem EU-tag"],
     ro: ["Capitala: Belgrad", "Situată în Balcani", "Moneda: Dinar sârbesc", "Limba oficială: Sârbă", "Nu este membră UE"],
     en: ["Capital: Belgrade", "Located in the Balkans", "Currency: Serbian Dinar", "Official language: Serbian", "Non-EU member"]
-  }
-};
+  }, image: "/poi-images/country-serbia.webp"};
 
 // 2. Fő régiók / Tartományok
 export const serbiaRegions: POI[] = [
@@ -58,8 +57,7 @@ export const serbiaRegions: POI[] = [
       hu: ["Közép-Szerbia", "Dombos táj", "Történelmi magterület", "Gyümölcstermesztés", "Erdők"],
       ro: ["Serbia Centrală", "Peisaj deluros", "Zona istorică centrală", "Pomicultură", "Păduri"],
       en: ["Central Serbia", "Hilly landscape", "Historical heartland", "Fruit growing", "Forests"]
-    }
-  }
+    }, image: "/poi-images/region-sumadija.webp"}
 ];
 
 // 3. Városok
@@ -100,8 +98,7 @@ export const serbiaCities: POI[] = [
       hu: ["Második legnagyobb város", "Vajdaság fővárosa", "EXIT Fesztivál", "Péterváradi erőd", "A Duna mentén"],
       ro: ["Al doilea oraș ca mărime", "Capitala Voivodinei", "Festivalul EXIT", "Cetatea Petrovaradin", "Pe Dunăre"],
       en: ["Second largest city", "Capital of Vojvodina", "EXIT Festival", "Petrovaradin Fortress", "On the Danube"]
-    }
-  },
+    }, image: "/poi-images/city-novi-sad.webp"},
   {
     id: "city-nis",
     type: "city",
@@ -119,8 +116,7 @@ export const serbiaCities: POI[] = [
       hu: ["Harmadik legnagyobb város", "Nagy Konstantin szülőhelye", "Niši erőd", "Dél-szerbiai központ", "Koponyatorony a közelben"],
       ro: ["Al treilea oraș ca mărime", "Locul de naștere al lui Constantin cel Mare", "Cetatea Niș", "Centrul sudului Serbiei", "Turnul Craniilor în apropiere"],
       en: ["Third largest city", "Birthplace of Constantine the Great", "Niš Fortress", "Southern Serbian center", "Skull Tower nearby"]
-    }
-  },
+    }, image: "/poi-images/city-nis.webp"},
   {
     id: "city-kragujevac",
     type: "city",
@@ -138,8 +134,7 @@ export const serbiaCities: POI[] = [
       hu: ["Negyedik legnagyobb város", "Šumadija központja", "Autóipar", "A modern Szerbia első fővárosa", "Egyetemváros"],
       ro: ["Al patrulea oraș ca mărime", "Centrul Šumadija", "Industria auto", "Prima capitală a Serbiei moderne", "Oraș universitar"],
       en: ["Fourth largest city", "Center of Šumadija", "Automotive industry", "First capital of modern Serbia", "University city"]
-    }
-  },
+    }, image: "/poi-images/city-kragujevac.webp"},
   {
     id: "city-subotica",
     type: "city",
@@ -157,8 +152,7 @@ export const serbiaCities: POI[] = [
       hu: ["Határváros Magyarországgal", "Szecessziós építészet", "Multikulturális", "Palić-tó a közelben", "Jelentős magyar kisebbség"],
       ro: ["Oraș de graniță cu Ungaria", "Arhitectură Art Nouveau", "Multicultural", "Lacul Palić în apropiere", "Minoritate maghiară semnificativă"],
       en: ["Border city with Hungary", "Art Nouveau architecture", "Multicultural", "Palić Lake nearby", "Significant Hungarian minority"]
-    }
-  },
+    }, image: "/poi-images/city-subotica.webp"},
   {
     id: "city-cacak",
     type: "city",
@@ -176,8 +170,7 @@ export const serbiaCities: POI[] = [
       hu: ["Ipari központ", "Az Ovčar-Kablar-szoros közelében", "Nyugati-Morava", "Nemzeti Szabadság Emlékmű", "Nagy hagyományú város"],
       ro: ["Centru industrial", "Lângă Defileul Ovčar-Kablar", "Morava de Vest", "Monumentul Libertății Naționale", "Oraș plin de tradiții"],
       en: ["Industrial center", "Near Ovčar-Kablar Gorge", "West Morava", "National Freedom Monument", "City with deep traditions"]
-    }
-  },
+    }, image: "/poi-images/city-cacak.webp"},
   {
     id: "city-zrenjanin",
     type: "city",
@@ -195,8 +188,7 @@ export const serbiaCities: POI[] = [
       hu: ["A Bánát központja", "Béga folyó", "Történelmi hidak", "Városháza építészete", "Egykori Nagybecskerek"],
       ro: ["Centrul Banatului", "Râul Bega", "Poduri istorice", "Arhitectura primăriei", "Fostul Veliki Bečkerek"],
       en: ["Center of the Banat", "Begej River", "Historical bridges", "City hall architecture", "Former Veliki Bečkerek"]
-    }
-  }
+    }, image: "/poi-images/city-zrenjanin.webp"}
 ];
 
 // 4. Kultúra és Történelem
@@ -237,8 +229,7 @@ export const serbiaCulture: POI[] = [
       hu: ["A Duna Gibraltárja", "Az EXIT fesztivál helyszíne", "Híres óratorony", "Katakombák", "Újvidékre néz"],
       ro: ["Gibraltarul Dunării", "Locul festivalului EXIT", "Turnul cu ceas faimos", "Catacombe", "Vedere spre Novi Sad"],
       en: ["Gibraltar of the Danube", "EXIT Festival venue", "Famous clock tower", "Catacombs", "Overlooks Novi Sad"]
-    }
-  },
+    }, image: "/poi-images/castle-petrovaradin.webp"},
   {
     id: "church-studenica",
     type: "landmark",
@@ -256,8 +247,7 @@ export const serbiaCulture: POI[] = [
       hu: ["UNESCO Világörökség", "12. század", "Márvány építészet", "Jelentős freskók", "Szerb ortodox"],
       ro: ["Patrimoniul Mondial UNESCO", "Secolul al XII-lea", "Arhitectură din marmură", "Fresce importante", "Ortodoxă sârbă"],
       en: ["UNESCO World Heritage Site", "12th century", "Marble architecture", "Important frescoes", "Serbian Orthodox"]
-    }
-  },
+    }, image: "/poi-images/church-studenica.webp"},
   {
     id: "castle-golubac",
     type: "historical",
@@ -275,8 +265,7 @@ export const serbiaCulture: POI[] = [
       hu: ["A Duna mentén", "A Vaskapu bejárata", "Középkori vár", "Tíz torony", "Turisztikai látványosság"],
       ro: ["Pe Dunăre", "Intrarea în Porțile de Fier", "Cetate medievală", "Zece turnuri", "Atracție turistică"],
       en: ["On the Danube", "Entrance to the Iron Gates", "Medieval castle", "Ten towers", "Tourist attraction"]
-    }
-  },
+    }, image: "/poi-images/castle-golubac.webp"},
   {
     id: "archaeology-felix-romuliana",
     type: "landmark",
@@ -294,8 +283,7 @@ export const serbiaCulture: POI[] = [
       hu: ["UNESCO Világörökség", "Római császári palota", "Mozaikok", "Zaječar közelében", "Ókori romok"],
       ro: ["Patrimoniul Mondial UNESCO", "Palat imperial roman", "Mozaicuri", "Lângă Zaječar", "Ruine antice"],
       en: ["UNESCO World Heritage Site", "Roman imperial palace", "Mosaics", "Near Zaječar", "Ancient ruins"]
-    }
-  },
+    }, image: "/poi-images/archaeology-felix-romuliana.webp"},
   {
     id: "monument-skull-tower",
     type: "landmark",
@@ -313,8 +301,7 @@ export const serbiaCulture: POI[] = [
       hu: ["Egyedülálló emlékmű", "Lázadók koponyái", "Első szerb felkelés", "Oszmán uralom", "Nišben"],
       ro: ["Monument unic", "Craniile rebelilor", "Prima Răscoală Sârbă", "Dominația otomană", "În Niș"],
       en: ["Unique monument", "Skulls of rebels", "First Serbian Uprising", "Ottoman rule", "In Niš"]
-    }
-  },
+    }, image: "/poi-images/monument-skull-tower.webp"},
   {
     id: "church-saint-sava",
     type: "landmark",
@@ -332,8 +319,7 @@ export const serbiaCulture: POI[] = [
       hu: ["A Balkán legnagyobb ortodox temploma", "Szent Szávának szentelve", "Domináns kupola", "Belgrádi jelkép", "Mozaik díszítés"],
       ro: ["Cea mai mare biserică ortodoxă din Balcani", "Dedicată Sfântului Sava", "Cupolă dominantă", "Simbol al Belgradului", "Decorațiuni cu mozaic"],
       en: ["Largest Orthodox church in the Balkans", "Dedicated to Saint Sava", "Dominating dome", "Belgrade landmark", "Mosaic interior"]
-    }
-  },
+    }, image: "/poi-images/church-saint-sava.webp"},
   {
     id: "castle-smederevo",
     type: "historical",
@@ -351,8 +337,7 @@ export const serbiaCulture: POI[] = [
       hu: ["Európa legnagyobb síkvidéki erődje", "A Duna mentén", "15. század", "Egykori főváros", "Lenyűgöző falak"],
       ro: ["Cea mai mare fortăreață de șes din Europa", "Pe Dunăre", "Secolul al XV-lea", "Fostă capitală", "Ziduri impresionante"],
       en: ["Largest flatland fortress in Europe", "On the Danube", "15th century", "Former capital", "Impressive walls"]
-    }
-  },
+    }, image: "/poi-images/castle-smederevo.webp"},
   {
     id: "monument-oplenac",
     type: "landmark",
@@ -370,8 +355,7 @@ export const serbiaCulture: POI[] = [
       hu: ["Királyi mauzóleum", "Szent György-templom", "Lélegzetelállító mozaikok", "Topola", "Karađorđević dinasztia"],
       ro: ["Mausoleu regal", "Biserica Sfântul Gheorghe", "Mozaicuri uimitoare", "Topola", "Dinastia Karadjordjevic"],
       en: ["Royal mausoleum", "St. George's Church", "Stunning mosaics", "Topola", "Karadjordjevic dynasty"]
-    }
-  },
+    }, image: "/poi-images/monument-oplenac.webp"},
   {
     id: "spa-vrnjacka-banja",
     type: "landmark",
@@ -389,8 +373,7 @@ export const serbiaCulture: POI[] = [
       hu: ["Legismertebb gyógyfürdő", "Ásványvízforrások", "Közép-Szerbia", "Szerelem hídja", "Nagy fürdőhagyomány"],
       ro: ["Cea mai cunoscută stațiune", "Izvoare minerale", "Serbia Centrală", "Podul iubirii", "Tradiție balneară îndelungată"],
       en: ["Most famous spa resort", "Mineral springs", "Central Serbia", "Bridge of Love", "Long spa tradition"]
-    }
-  },
+    }, image: "/poi-images/spa-vrnjacka-banja.webp"},
   {
     id: "spa-sokobanja",
     type: "landmark",
@@ -408,8 +391,7 @@ export const serbiaCulture: POI[] = [
       hu: ["Klimatikus gyógyhely", "Kelet-Szerbia", "Történelmi hammamok", "Moravica-folyó", "Magas ózontartalom"],
       ro: ["Stațiune climatică", "Estul Serbiei", "Hamamuri istorice", "Râul Moravica", "Conținut ridicat de ozon"],
       en: ["Air spa", "Eastern Serbia", "Historical hammams", "Moravica River", "High ozone content"]
-    }
-  }
+    }, image: "/poi-images/spa-sokobanja.webp"}
 ];
 
 // 5. Természet (Hegyek, Tavak, Nemzeti Parkok)
@@ -450,8 +432,7 @@ export const serbiaNature: POI[] = [
       hu: ["Vaskapu", "Európa leghosszabb szurdoka", "A Duna mentén", "Gazdag növény- és állatvilág", "Lepenski Vir a közelben"],
       ro: ["Porțile de Fier", "Cel mai lung defileu din Europa", "Pe Dunăre", "Floră și faună bogate", "Lepenski Vir în apropiere"],
       en: ["Iron Gates", "Europe's longest gorge", "On the Danube", "Rich flora and fauna", "Lepenski Vir nearby"]
-    }
-  },
+    }, image: "/poi-images/nature-djerdap-national-park.webp"},
   {
     id: "mountain-kopaonik",
     type: "mountain",
@@ -469,8 +450,7 @@ export const serbiaNature: POI[] = [
       hu: ["Legnagyobb síterep", "Nemzeti Park", "Pančićev Vrh csúcs", "Nyári és téli turizmus", "Biológiai sokféleség"],
       ro: ["Cea mai mare stațiune de schi", "Parc Național", "Vârful Pančićev Vrh", "Turism de vară și de iarnă", "Biodiversitate"],
       en: ["Largest ski resort", "National Park", "Pančićev Vrh peak", "Summer and winter tourism", "Biodiversity"]
-    }
-  },
+    }, image: "/poi-images/mountain-kopaonik.webp"},
   {
     id: "mountain-fruska-gora",
     type: "mountain",
@@ -488,8 +468,7 @@ export const serbiaNature: POI[] = [
       hu: ["Nemzeti Park", "Ortodox kolostorok", "Borászat", "Újvidék közelében", "Dombvidék a Pannon-síkságon"],
       ro: ["Parc Național", "Mănăstiri ortodoxe", "Viticultură", "Lângă Novi Sad", "Deal în Câmpia Panonică"],
       en: ["National Park", "Orthodox monasteries", "Viticulture", "Near Novi Sad", "Hill in the Pannonian Plain"]
-    }
-  },
+    }, image: "/poi-images/mountain-fruska-gora.webp"},
   {
     id: "nature-uvac",
     type: "landmark",
@@ -507,8 +486,7 @@ export const serbiaNature: POI[] = [
       hu: ["Folyókanyarulatok", "Fakó keselyű", "Délnyugat-Szerbia", "Molitva kilátó", "Természetvédelmi terület"],
       ro: ["Meandrele râului", "Vulturul sur", "Sud-vestul Serbiei", "Punctul de belvedere Molitva", "Rezervație naturală"],
       en: ["River meanders", "Griffon vulture", "Southwestern Serbia", "Molitva viewpoint", "Nature reserve"]
-    }
-  },
+    }, image: "/poi-images/nature-uvac.webp"},
   {
     id: "nature-zlatibor",
     type: "mountain",
@@ -526,8 +504,7 @@ export const serbiaNature: POI[] = [
       hu: ["Hegyi üdülőhely", "Egészségturizmus", "Aranyfenyő", "Nyugat-Szerbia", "Goldola felvonó"],
       ro: ["Stațiune montană", "Turism de sănătate", "Pinul auriu", "Vestul Serbiei", "Telecabina Goldola"],
       en: ["Mountain resort", "Health tourism", "Golden pine", "Western Serbia", "Goldola cable car"]
-    }
-  },
+    }, image: "/poi-images/nature-zlatibor.webp"},
   {
     id: "nature-djavolja-varos",
     type: "landmark",
@@ -545,8 +522,7 @@ export const serbiaNature: POI[] = [
       hu: ["Természeti jelenség", "Földpiramisok", "Dél-Szerbia", "Savas források", "Misztikus legendák"],
       ro: ["Fenomen natural", "Piramide de pământ", "Sudul Serbiei", "Izvoare acide", "Legende mistice"],
       en: ["Natural phenomenon", "Earth pyramids", "Southern Serbia", "Acid springs", "Mystical legends"]
-    }
-  },
+    }, image: "/poi-images/nature-djavolja-varos.webp"},
   {
     id: "lake-palic",
     type: "lake",
@@ -564,8 +540,7 @@ export const serbiaNature: POI[] = [
       hu: ["Sekélyvizű tó", "Szabadka közelében", "Turisztikai központ", "Szecesszió", "Filmfesztivál"],
       ro: ["Lac cu apă puțin adâncă", "Lângă Subotica", "Centru turistic", "Art Nouveau", "Festival de film"],
       en: ["Shallow lake", "Near Subotica", "Tourism center", "Art Nouveau", "Film festival"]
-    }
-  }
+    }, image: "/poi-images/lake-palic.webp"}
 ];
 
 export const serbiaRivers: POI[] = [
@@ -605,8 +580,7 @@ export const serbiaRivers: POI[] = [
       hu: ["A Dunába ömlik", "Átfolyik Belgrádon", "Fontos vízi út", "Elválasztja Közép-Szerbiát a Vajdaságtól", "Számos híd"],
       ro: ["Se varsă în Dunăre", "Curge prin Belgrad", "Cale navigabilă importantă", "Separă Serbia Centrală de Voivodina", "Multe poduri"],
       en: ["Flows into the Danube", "Flows through Belgrade", "Important waterway", "Separates Central Serbia from Vojvodina", "Numerous bridges"]
-    }
-  }
+    }, image: "/poi-images/river-sava.webp"}
 ];
 
 export const serbiaDistrictPoi: POI[] = [
@@ -647,8 +621,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Nagy állatkert", "Víztorony", "Nyári filmfesztivál"],
       ro: ["Grădină zoologică mare", "Turnul de apă", "Festival de film de vară"],
       en: ["Large zoo", "Water tower", "Summer film festival"]
-    }
-  },
+    }, image: "/poi-images/RS-001-palic.webp"},
   // RS-002 Zapadno-Backi
   {
     id: "RS-002-sombor",
@@ -686,8 +659,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Jelen sörgyár", "Dunai kikötő", "Halászati hagyományok"],
       ro: ["Fabrica de bere Jelen", "Port la Dunăre", "Tradiții pescărești"],
       en: ["Jelen Brewery", "Danube port", "Fishing traditions"]
-    }
-  },
+    }, image: "/poi-images/RS-002-apatin.webp"},
   // RS-003 Severno-Banatski
   {
     id: "RS-003-kikinda",
@@ -725,8 +697,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Tisza-part", "Csata emlékműve", "Pompás városháza"],
       ro: ["Malul Tisei", "Monumentul bătăliei", "Primărie splendidă"],
       en: ["Tisa riverbank", "Battle monument", "Splendid city hall"]
-    }
-  },
+    }, image: "/poi-images/RS-003-senta.webp"},
   // RS-004 Pcinjski
   {
     id: "RS-004-vranje",
@@ -764,8 +735,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["IV. Rómanosz császár alapította", "Szellemi központ", "Érintetlen természetben"],
       ro: ["Fondată de împăratul Romanos al IV-lea", "Centru spiritual", "În mijlocul naturii virgine"],
       en: ["Founded by Emperor Romanos IV", "Spiritual center", "In untouched nature"]
-    }
-  },
+    }, image: "/poi-images/RS-004-prohor-pcinjski.webp"},
   // RS-005 Borski
   {
     id: "RS-005-bor",
@@ -803,8 +773,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Negotini borpincék", "Stevan Mokranjac hazája", "A Vaskapu közelében"],
       ro: ["Cramele din Negotin", "Casa lui Stevan Mokranjac", "Lângă Porțile de Fier"],
       en: ["Negotin wine cellars", "Home of Stevan Mokranjac", "Near the Iron Gates"]
-    }
-  },
+    }, image: "/poi-images/RS-005-negotin.webp"},
   // RS-006 Zajecarski
   {
     id: "RS-006-zajecar",
@@ -842,8 +811,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["UNESCO Világörökség", "Pompás mozaikok", "Jó állapotú várfalak"],
       ro: ["Patrimoniul Mondial UNESCO", "Mozaicuri magnifice", "Ziduri de cetate bine conservate"],
       en: ["UNESCO World Heritage Site", "Magnificent mosaics", "Well-preserved fortress walls"]
-    }
-  },
+    }, image: "/poi-images/RS-006-felix-romuliana-site.webp"},
   // RS-007 Pirotski
   {
     id: "RS-007-pirot",
@@ -881,8 +849,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Legmagasabb csúcs: Midžor", "Téli sportközpont", "Számos vízesés"],
       ro: ["Cel mai înalt vârf: Midžor", "Centru de sporturi de iarnă", "Numeroase cascade"],
       en: ["Highest peak: Midžor", "Winter sports center", "Numerous waterfalls"]
-    }
-  },
+    }, image: "/poi-images/RS-007-stara-planina.webp"},
   // RS-008 Jablanicki
   {
     id: "RS-008-leskovac",
@@ -920,8 +887,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Jelentős régészeti lelőhely", "Korakeresztény bazilikák", "Tervezett város"],
       ro: ["Sit arheologic important", "Bazilici creștine timpurii", "Oraș planificat"],
       en: ["Important archaeological site", "Early Christian basilicas", "Planned city"]
-    }
-  },
+    }, image: "/poi-images/RS-008-caricin-grad.webp"},
   // RS-009 Raški
   {
     id: "RS-009-kraljevo",
@@ -959,8 +925,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Koronázótemplom", "Az első érsek székhelye", "Egyedülálló vörös szín"],
       ro: ["Biserica de încoronare", "Sediul primului arhiepiscop", "Culoare roșie unică"],
       en: ["Coronation church", "Seat of the first archbishop", "Unique red color"]
-    }
-  },
+    }, image: "/poi-images/RS-009-zica.webp"},
   // RS-010 Pomoravski
   {
     id: "RS-010-jagodina",
@@ -998,8 +963,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Stefan Lazarević alapította", "Tizenegy védőtorony", "Resava irodalmi iskola"],
       ro: ["Fondată de Stefan Lazarević", "Unsprezece turnuri de apărare", "Școala literară Resava"],
       en: ["Founded by Stefan Lazarević", "Eleven defense towers", "Resava school of literature"]
-    }
-  },
+    }, image: "/poi-images/RS-010-manasija.webp"},
   // RS-011 Toplicki
   {
     id: "RS-011-prokuplje",
@@ -1037,8 +1001,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Földpiramisok", "Savas források", "Misztikus képződmények"],
       ro: ["Piramide de pământ", "Izvoare acide", "Formațiuni mistice"],
       en: ["Earth pyramids", "Acid springs", "Mystical formations"]
-    }
-  },
+    }, image: "/poi-images/RS-011-djavolja-varos-site.webp"},
   // RS-012 Zlatiborski
   {
     id: "RS-012-uzice",
@@ -1076,8 +1039,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Pančić-lucfenyő", "Banjska Stena kilátó", "Medverezervátum"],
       ro: ["Molidul lui Pančić", "Punct de belvedere Banjska Stena", "Rezervație de urși"],
       en: ["Pančić's spruce", "Banjska Stena viewpoint", "Bear sanctuary"]
-    }
-  },
+    }, image: "/poi-images/RS-012-tara-national-park-site.webp"},
   // RS-013 Sremski
   {
     id: "RS-013-sremska-mitrovica",
@@ -1115,8 +1077,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Szerb királyok mauzóleuma", "Barokk építészet", "Tarcal-hegység vidéke"],
       ro: ["Mausoleul regilor sârbi", "Arhitectură barocă", "Regiunea Fruška Gora"],
       en: ["Mausoleum of Serbian kings", "Baroque architecture", "Fruška Gora region"]
-    }
-  },
+    }, image: "/poi-images/RS-013-krusedol.webp"},
   // RS-014 Macvanski
   {
     id: "RS-014-sabac",
@@ -1193,8 +1154,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["EXIT fesztivál", "Földalatti alagutak", "Gibraltár a Dunán"],
       ro: ["Festivalul EXIT", "Tuneluri subterane", "Gibraltarul de pe Dunăre"],
       en: ["EXIT Festival", "Underground tunnels", "Gibraltar on the Danube"]
-    }
-  },
+    }, image: "/poi-images/RS-015-petrovaradin-fort.webp"},
   // RS-016 Srednje-Banatski
   {
     id: "RS-016-zrenjanin-city",
@@ -1232,8 +1192,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Mocsaras vidék", "Ritka madarak", "Természetvédelmi terület"],
       ro: ["Peisaj mlăștinos", "Păsări rare", "Rezervație naturală"],
       en: ["Marshland", "Rare birds", "Nature reserve"]
-    }
-  },
+    }, image: "/poi-images/RS-016-carska-bara.webp"},
   // RS-017 Južno-Banatski
   {
     id: "RS-017-pancevo",
@@ -1271,8 +1230,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Verseci torony", "Püspöki palota", "Hatalmas borászatok"],
       ro: ["Turnul Vârșeț", "Palatul Episcopal", "Podgorii mari"],
       en: ["Vršac Tower", "Bishop's Palace", "Large wineries"]
-    }
-  },
+    }, image: "/poi-images/RS-017-vrsac.webp"},
   // RS-018 Branicevski
   {
     id: "RS-018-pozarevac",
@@ -1310,8 +1268,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Régészeti park", "Római sírok", "Mammutcsontvázak lelethelye"],
       ro: ["Parc arheologic", "Morminte romane", "Schelete de mamut găsite"],
       en: ["Archaeological park", "Roman tombs", "Mammoth skeletons found"]
-    }
-  },
+    }, image: "/poi-images/RS-018-viminacium.webp"},
   // RS-019 Grad Beograd
   {
     id: "RS-019-belgrade-capital",
@@ -1349,8 +1306,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Belgrád eredete", "Hadtörténeti Múzeum", "Győzelem emlékmű (Pobednik)"],
       ro: ["Originea Belgradului", "Muzeul militar", "Monumentul Învingătorului (Pobednik)"],
       en: ["Belgrade's origin", "Military museum", "Victor Monument (Pobednik)"]
-    }
-  },
+    }, image: "/poi-images/RS-019-kalemegdan-fort.webp"},
   // RS-020 Podunavski
   {
     id: "RS-020-smederevo-city",
@@ -1388,8 +1344,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["25 torony", "Duna-part", "Az utolsó középkori főváros"],
       ro: ["25 de turnuri", "Malul Dunării", "Ultima capitală medievală"],
       en: ["25 towers", "Danube bank", "Last medieval capital"]
-    }
-  },
+    }, image: "/poi-images/RS-020-smederevo-fort.webp"},
   // RS-021 Nišavski
   {
     id: "RS-021-nis-city",
@@ -1427,8 +1382,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Eredetileg 952 koponya", "Szabadságharc emléke", "Világszinten egyedülálló"],
       ro: ["Inițial 952 de cranii", "Lupta pentru eliberare", "Unic în lume"],
       en: ["952 skulls originally", "Liberation struggle", "Unique in the world"]
-    }
-  },
+    }, image: "/poi-images/RS-021-skull-tower-monument.webp"},
   // RS-022 Pomoravski (Rasinski/South area) -> Kruševac
   {
     id: "RS-022-krusevac",
@@ -1466,8 +1420,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Milica fejedelemasszony alapította", "Gazdagon díszített ablakok", "Festői környezet"],
       ro: ["Fondată de prințesa Milica", "Ferestre bogat decorate", "Locație pitorească"],
       en: ["Founded by Princess Milica", "Richly decorated windows", "Picturesque setting"]
-    }
-  },
+    }, image: "/poi-images/RS-022-ljubostinja.webp"},
   // RS-023 Šumadijski
   {
     id: "RS-023-kragujevac-city",
@@ -1505,8 +1458,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Pompás mozaikok", "Szent György-templom", "Királyi borászatok"],
       ro: ["Mozaicuri magnifice", "Biserica Sfântul Gheorghe", "Crame regale"],
       en: ["Magnificent mosaics", "St. George's Church", "Royal wineries"]
-    }
-  },
+    }, image: "/poi-images/RS-023-oplenac-hill.webp"},
   // RS-024 Moravicki
   {
     id: "RS-024-cacak-city",
@@ -1544,8 +1496,7 @@ export const serbiaDistrictPoi: POI[] = [
       hu: ["Számos kolostor", "Gyógyfürdő központ", "Túraútvonalak"],
       ro: ["Numeroase mănăstiri", "Centru de wellness", "Trasee de drumeție"],
       en: ["Numerous monasteries", "Wellness center", "Hiking trails"]
-    }
-  },
+    }, image: "/poi-images/RS-024-ovcar-kablar.webp"},
   // RS-025 Kolubarski
   {
     id: "RS-025-valjevo",

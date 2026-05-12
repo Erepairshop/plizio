@@ -19,8 +19,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Construit între 3000 și 2000 î.Hr.", "Cele mai mari pietre cântăresc peste 25 de tone", "Sit UNESCO din anul 1986", "Aliniat cu solstițiul de vară"],
       en: ["Built between 3000 BC and 2000 BC", "Largest stones weigh over 25 tons", "UNESCO World Heritage site since 1986", "Aligned with the summer solstice sunrise"],
     },
-    imageHint: "Stonehenge monoliths at sunrise",
-  },
+    imageHint: "Stonehenge monoliths at sunrise", image: "/poi-images/uk-stonehenge-history-v2.webp"},
   {
     id: "uk-hadrians-wall-history-v2",
     type: "ruins",
@@ -39,8 +38,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Construit de împăratul Hadrian din 122 d.Hr.", "Lungime totală de 117 kilometri", "Includea 80 de forturi mici și numeroase turnuri", "Marca granița de nord a Imperiului Roman"],
       en: ["Built by Emperor Hadrian from AD 122", "Total length of 73 miles (117 km)", "Featured 80 milecastles and numerous towers", "Marked the northern limit of the Roman Empire"],
     },
-    imageHint: "Hadrian's Wall ruins in Northumberland landscape",
-  },
+    imageHint: "Hadrian's Wall ruins in Northumberland landscape", image: "/poi-images/uk-hadrians-wall-history-v2.webp"},
   {
     id: "uk-tower-of-london-history-v2",
     type: "castle",
@@ -59,8 +57,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Fondat în anul 1066", "Găzduiește Bijuteriile Coroanei britanice", "Turnul Alb a fost construit în jurul anului 1078", "Prizonieri celebri: Anne Boleyn și Guy Fawkes"],
       en: ["Founded in 1066 by William the Conqueror", "Home to the British Crown Jewels", "The White Tower was built around 1078", "Famous prisoners included Anne Boleyn and Guy Fawkes"],
     },
-    imageHint: "Tower of London White Tower view",
-  },
+    imageHint: "Tower of London White Tower view", image: "/poi-images/uk-tower-of-london-history-v2.webp"},
   {
     id: "uk-hastings-battlefield-history-v2",
     type: "battlefield",
@@ -79,8 +76,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Data bătăliei: 14 octombrie 1066", "Victoria lui William Cuceritorul", "Fondarea Abației Battle în 1070", "Localitatea se numește astăzi simplu Battle"],
       en: ["Date of battle: 14 October 1066", "Victory of William the Conqueror", "Battle Abbey founded in 1070", "The site is located in the town now called Battle"],
     },
-    imageHint: "Battle Abbey ruins and Hastings battlefield",
-  },
+    imageHint: "Battle Abbey ruins and Hastings battlefield", image: "/poi-images/uk-hastings-battlefield-history-v2.webp"},
   {
     id: "uk-roman-baths-history-v2",
     type: "museum",
@@ -99,8 +95,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Construite în jurul anului 70 d.Hr.", "Singurele izvoare termale din Marea Britanie", "Peste 1 milion de litri de apă curg zilnic", "Marea Baie este situată sub cerul liber"],
       en: ["Built around AD 70", "Britain's only natural hot springs", "1.17 million liters of spring water flow daily", "The Great Bath is an open-air pool"],
     },
-    imageHint: "Roman Baths Great Bath and Bath Abbey",
-  },
+    imageHint: "Roman Baths Great Bath and Bath Abbey", image: "/poi-images/uk-roman-baths-history-v2.webp"},
   {
     id: "uk-canterbury-cathedral-history-v2",
     type: "cathedral",
@@ -119,8 +114,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Fondată în anul 597", "Locul asasinării lui Thomas Becket în 1170", "Sit UNESCO din anul 1988", "Centrul Comuniunii Anglicane"],
       en: ["Founded in 597 by St Augustine", "Site of Thomas Becket's murder in 1170", "UNESCO World Heritage site since 1988", "Mother church of the Anglican Communion"],
     },
-    imageHint: "Canterbury Cathedral gothic architecture",
-  },
+    imageHint: "Canterbury Cathedral gothic architecture", image: "/poi-images/uk-canterbury-cathedral-history-v2.webp"},
   {
     id: "uk-culloden-battlefield-history-v2",
     type: "battlefield",
@@ -139,8 +133,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Data bătăliei: 16 aprilie 1746", "A durat mai puțin de o oră", "Ultima bătălie terestră în Marea Britanie", "Pietre funerare marchează mormintele clanurilor"],
       en: ["Date of battle: 16 April 1746", "Battle lasted less than one hour", "Final pitched battle on British soil", "Memorial stones mark the graves of the clans"],
     },
-    imageHint: "Culloden Battlefield memorial cairn",
-  },
+    imageHint: "Culloden Battlefield memorial cairn", image: "/poi-images/uk-culloden-battlefield-history-v2.webp"},
   {
     id: "uk-iron-bridge-history-v2",
     type: "bridge",
@@ -159,8 +152,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Deschis în anul 1779", "Primul pod de fontă din lume", "Costul construcției a fost de cca. 6.000 de lire", "Parte a sitului UNESCO Ironbridge Gorge"],
       en: ["Opened in 1779", "First cast-iron bridge in the world", "Construction cost was approximately £6,000", "Part of the Ironbridge Gorge UNESCO site"],
     },
-    imageHint: "Iron Bridge Shropshire across River Severn",
-  },
+    imageHint: "Iron Bridge Shropshire across River Severn", image: "/poi-images/uk-iron-bridge-history-v2.webp"},
   {
     id: "uk-skara-brae-history-v2",
     type: "ruins",
@@ -179,8 +171,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Locuit între 3180 și 2500 î.Hr.", "Mai vechi decât Stonehenge și piramidele", "Descoperit în 1850 după o furtună puternică", "Sit UNESCO din anul 1999"],
       en: ["Inhabited between 3180 BC and 2500 BC", "Older than Stonehenge and the Pyramids", "Uncovered by a storm in 1850", "UNESCO World Heritage site since 1999"],
     },
-    imageHint: "Skara Brae Neolithic village ruins",
-  },
+    imageHint: "Skara Brae Neolithic village ruins", image: "/poi-images/uk-skara-brae-history-v2.webp"},
   {
     id: "uk-old-sarum-history-v2",
     type: "ruins",
@@ -199,8 +190,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Prima locuire în jurul anului 3000 î.Hr.", "Locul primei catedrale din Salisbury", "Abandonat în secolul al XIII-lea", "Faimos ca fiind un 'rotten borough' politic"],
       en: ["First inhabited around 3000 BC", "Site of Salisbury's first cathedral", "Abandoned in the 13th century for New Salisbury", "Infamous as a 'rotten borough' in political history"],
     },
-    imageHint: "Old Sarum hillfort and castle ruins",
-  }
+    imageHint: "Old Sarum hillfort and castle ruins", image: "/poi-images/uk-old-sarum-history-v2.webp"}
 ,
   {
     id: "uk-battle-of-hastings-history-v2",
@@ -240,8 +230,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Fondată de 13 călugări benedictini", "Dizolvată de Henric al VIII-lea în 1539", "Inclusă în Patrimoniul Mondial UNESCO", "Parte a grădinilor de apă Studley Royal"],
       en: ["Founded by 13 Benedictine monks", "Dissolved by Henry VIII in 1539", "Designated as a UNESCO World Heritage site", "Part of the Studley Royal Water Gardens"],
     },
-    imageHint: "Ruins of Fountains Abbey in North Yorkshire",
-  },
+    imageHint: "Ruins of Fountains Abbey in North Yorkshire", image: "/poi-images/uk-fountains-abbey-history-v2.webp"},
   {
     id: "uk-tintagel-castle-history-v2",
     type: "castle",
@@ -260,8 +249,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Ruinele actuale construite de Richard de Cornwall", "Centru comercial important în secolele V și VI", "Menționat de Geoffrey de Monmouth în 1136", "Locația faimoasei peșteri a lui Merlin"],
       en: ["Current ruins built by Richard, Earl of Cornwall", "Major trading post in the 5th and 6th centuries", "Mentioned by Geoffrey of Monmouth around 1136", "Location of the famous Merlin's Cave"],
     },
-    imageHint: "Tintagel Castle ruins on Cornwall coast",
-  },
+    imageHint: "Tintagel Castle ruins on Cornwall coast", image: "/poi-images/uk-tintagel-castle-history-v2.webp"},
   {
     id: "uk-warwick-castle-history-v2",
     type: "castle",
@@ -280,8 +268,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Sediul conților de Warwick timp de secole", "Deține unul dintre cele mai mari trebuchete din lume", "Grădini proiectate de Capability Brown", "Conține armurării medievale originale"],
       en: ["Seat of the Earls of Warwick for centuries", "Home to one of the world's largest trebuchets", "Parkland designed by Capability Brown", "Contains original medieval armouries"],
     },
-    imageHint: "Warwick Castle and River Avon",
-  },
+    imageHint: "Warwick Castle and River Avon", image: "/poi-images/uk-warwick-castle-history-v2.webp"},
   {
     id: "uk-hampton-court-palace-history-v2",
     type: "palace",
@@ -300,8 +287,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Construit inițial pentru Cardinalul Wolsey în 1514", "Faimos labirint de gard viu în grădină", "Găzduiește un ceas astronomic din 1540", "Include un domeniu de 241 de hectare"],
       en: ["Originally built for Cardinal Wolsey from 1514", "Famous hedge maze located in the gardens", "Home to an astronomical clock from 1540", "Covers an area of 241 hectares"],
     },
-    imageHint: "Hampton Court Palace Tudor architecture",
-  },
+    imageHint: "Hampton Court Palace Tudor architecture", image: "/poi-images/uk-hampton-court-palace-history-v2.webp"},
   {
     id: "uk-battle-of-culloden-history-v2",
     type: "battlefield",
@@ -320,8 +306,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Data bătăliei: 16 aprilie 1746", "Sfârșitul revoltei lui Bonnie Prince Charlie", "Pietre memoriale pentru clanurile scoțiene", "Durata bătăliei propriu-zise: doar 40 de minute"],
       en: ["Battle date: 16 April 1746", "End of the Bonnie Prince Charlie uprising", "Memorial cairns mark the graves of Scottish clans", "The actual battle lasted only 40 minutes"],
     },
-    imageHint: "Culloden Moor battlefield memorial cairn",
-  },
+    imageHint: "Culloden Moor battlefield memorial cairn", image: "/poi-images/uk-battle-of-culloden-history-v2.webp"},
   {
     id: "uk-jarrow-monastery-history-v2",
     type: "ruins",
@@ -340,8 +325,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Fondată în anul 681 d.Hr.", "Locul de reședință al istoricului Beda Venerabilul", "Deține cele mai vechi vitralii din Anglia", "Parte a mănăstirii duble Monkwearmouth-Jarrow"],
       en: ["Founded in 681 AD", "Home of the historian Venerable Bede", "Contains the oldest stained glass in England", "Part of the Monkwearmouth-Jarrow twin monastery"],
     },
-    imageHint: "St Paul's Church and Jarrow monastery ruins",
-  },
+    imageHint: "St Paul's Church and Jarrow monastery ruins", image: "/poi-images/uk-jarrow-monastery-history-v2.webp"},
   {
     id: "uk-caernarfon-castle-history-v2",
     type: "castle",
@@ -360,8 +344,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Construcția a început în anul 1283", "Patrimoniu Mondial UNESCO din 1986", "Locul investiturii Prințului de Wales", "Include impresionantul Turn al Vulturului"],
       en: ["Construction started in 1283", "UNESCO World Heritage site since 1986", "Site of the investiture of the Prince of Wales", "Features the distinctive Eagle Tower"],
     },
-    imageHint: "Caernarfon Castle fortress in Wales",
-  }
+    imageHint: "Caernarfon Castle fortress in Wales", image: "/poi-images/uk-caernarfon-castle-history-v2.webp"}
 ,
   {
     id: "uk-blenheim-palace-history-v2",
@@ -401,8 +384,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Primul castru construit în jurul anului 85 d.Hr.", "Locul unde au fost găsite 'Tăblițele de la Vindolanda'", "A avut nouă faze diferite de ocupație", "Conține cele mai vechi scrisori cunoscute de la femei"],
       en: ["First fort built around 85 AD", "Site of the discovery of 'Vindolanda Tablets'", "Had nine different phases of occupation", "Contains the oldest known handwriting by a woman"],
     },
-    imageHint: "Vindolanda Roman fort archaeological ruins",
-  },
+    imageHint: "Vindolanda Roman fort archaeological ruins", image: "/poi-images/uk-vindolanda-history-v2.webp"},
   {
     id: "uk-bannockburn-battlefield-history-v2",
     type: "battlefield",
@@ -421,8 +403,7 @@ export const ukHistoryV2: POI[] = [
       ro: ["Data bătăliei: 23-24 iunie 1314", "A asigurat independența Scoției", "Statuie ecvestră de bronz a lui Robert the Bruce", "Punct de cotitură în Primul Război de Independență"],
       en: ["Battle dates: June 23–24, 1314", "Secured Scottish independence", "Features a bronze equestrian statue of Robert the Bruce", "Key turning point in the First War of Scottish Independence"],
     },
-    imageHint: "Bannockburn monument Robert the Bruce statue",
-  },
+    imageHint: "Bannockburn monument Robert the Bruce statue", image: "/poi-images/uk-bannockburn-battlefield-history-v2.webp"},
   {
     id: "uk-sutton-hoo-history-v2",
     type: "ruins",

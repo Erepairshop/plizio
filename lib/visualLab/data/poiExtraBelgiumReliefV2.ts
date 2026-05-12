@@ -19,8 +19,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Peisaj de tip bocage (garduri vii)", "Altitudine între 200 și 350 metri", "Regiune faimoasă pentru brânza Herve", "Se învecinează cu Germania și Olanda"],
       en: ["Hilly bocage landscape", "Elevation from 200 to 350 meters", "Famous for Herve cheese production", "Borders Germany and the Netherlands"],
     },
-    imageHint: "Hilly green pastures and orchards of the Herve Plateau",
-  },
+    imageHint: "Hilly green pastures and orchards of the Herve Plateau", image: "/poi-images/belgium-plateau-de-herve-relief-v2.webp"},
   {
     id: "belgium-condroz-plateau-relief-v2",
     type: "landmark",
@@ -39,8 +38,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Altitudine între 200 și 350 metri", "Orașul principal este Ciney", "Format din creste de calcar paralele", "Zonă agricolă fertilă"],
       en: ["Elevation between 200 and 350 meters", "Ciney is the principal town", "Consists of parallel limestone ridges", "Fertile agricultural land"],
     },
-    imageHint: "Rolling hills and valleys of the Condroz region",
-  },
+    imageHint: "Rolling hills and valleys of the Condroz region", image: "/poi-images/belgium-condroz-plateau-relief-v2.webp"},
   {
     id: "belgium-famenne-depression-relief-v2",
     type: "valley",
@@ -99,8 +97,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Parte a orogenezei varistice", "Cele mai înalte culmi depășesc 600m", "Format în principal din ardezie", "Zonă forestieră vastă în Europa Centrală"],
       en: ["Part of the Variscan orogeny", "Highest elevations exceed 600 meters", "Primarily composed of shale and slate", "Major forest area of Central Europe"],
     },
-    imageHint: "Dense green forests and rolling hills of the Ardennes",
-  },
+    imageHint: "Dense green forests and rolling hills of the Ardennes", image: "/poi-images/belgium-ardennes-highlands-relief-v2.webp"},
   {
     id: "belgium-kemmelberg-relief-v2",
     type: "peak",
@@ -119,8 +116,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Cel mai înalt punct din Flandra de Vest", "Altitudine de 156 metri", "Urcare celebră în cursa Gent-Wevelgem", "Locul unor lupte grele în 1918"],
       en: ["Highest point in West Flanders", "Elevation of 156 meters", "Famous climb in the Gent-Wevelgem race", "Site of intense fighting in 1918"],
     },
-    imageHint: "Aerial view of the Kemmelberg hill and surrounding fields",
-  },
+    imageHint: "Aerial view of the Kemmelberg hill and surrounding fields", image: "/poi-images/belgium-kemmelberg-relief-v2.webp"},
   {
     id: "belgium-mont-de-l-enclus-relief-v2",
     type: "peak",
@@ -139,8 +135,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Înălțime de 141 metri", "Deal de frontieră (Kluisberg în flamandă)", "Zonă populară de recreere", "Parte a Ardenilor Flamanzi"],
       en: ["Elevation of 141 meters", "Border hill (called Kluisberg in Flemish)", "Popular recreational area", "Part of the Flemish Ardennes"],
     },
-    imageHint: "Wooded summit of Mont de l'Enclus",
-  },
+    imageHint: "Wooded summit of Mont de l'Enclus", image: "/poi-images/belgium-mont-de-l-enclus-relief-v2.webp"},
   {
     id: "belgium-mont-saint-aubert-relief-v2",
     type: "peak",
@@ -159,8 +154,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Altitudine de 147 metri", "Cunoscut și sub numele de 'Mont de la Trinité'", "Vedere panoramică spre Tournai", "Destinație populară pentru cicliști"],
       en: ["Elevation of 147 meters", "Also known as 'Mont de la Trinité'", "Panoramic view of Tournai", "Popular destination for cyclists"],
     },
-    imageHint: "Hill of Mont Saint-Aubert overlooking the valley",
-  },
+    imageHint: "Hill of Mont Saint-Aubert overlooking the valley", image: "/poi-images/belgium-mont-saint-aubert-relief-v2.webp"},
   {
     id: "belgium-mont-noir-relief-v2",
     type: "peak",
@@ -179,8 +173,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Altitudine de 152 metri", "Situat pe granița cu Franța", "Locul copilăriei scriitoarei Marguerite Yourcenar", "Parte a lanțului deluros Heuvelland"],
       en: ["Elevation of 152 meters", "Located on the French border", "Childhood home of author Marguerite Yourcenar", "Part of the Heuvelland hill chain"],
     },
-    imageHint: "Hillside landscape of Mont Noir",
-  },
+    imageHint: "Hillside landscape of Mont Noir", image: "/poi-images/belgium-mont-noir-relief-v2.webp"},
   {
     id: "belgium-mont-rouge-relief-v2",
     type: "peak",
@@ -199,8 +192,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Altitudine de 138 metri", "Format din gresie roșiatică", "Dotat cu un telescaun turistic", "Învecinat cu Mont Noir"],
       en: ["Elevation of 138 meters", "Composed of reddish sandstone", "Features a tourist chairlift", "Located adjacent to Mont Noir"],
     },
-    imageHint: "Aerial lift on the Rodeberg hill",
-  },
+    imageHint: "Aerial lift on the Rodeberg hill", image: "/poi-images/belgium-mont-rouge-relief-v2.webp"},
   {
     id: "belgium-koppenberg-relief-v2",
     type: "peak",
@@ -219,8 +211,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Altitudine de 78 metri", "Panta maximă de 22%", "Monument de piatră cubică", "Punct cheie în Turul Flandrei"],
       en: ["Elevation of 78 meters", "Maximum gradient of 22%", "Protected cobblestone road", "Key section of the Tour of Flanders"],
     },
-    imageHint: "Steep cobblestone road up the Koppenberg",
-  },
+    imageHint: "Steep cobblestone road up the Koppenberg", image: "/poi-images/belgium-koppenberg-relief-v2.webp"},
   {
     id: "belgium-paterberg-relief-v2",
     type: "peak",
@@ -239,8 +230,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Altitudine de 80 metri", "Panta maximă de 20%", "Pavată artificial în 1986", "Adesea finalul marilor curse"],
       en: ["Elevation of 80 meters", "Maximum gradient of 20%", "Artificially paved in 1986", "Often serves as the race finale"],
     },
-    imageHint: "Steep paved ascent of the Paterberg",
-  },
+    imageHint: "Steep paved ascent of the Paterberg", image: "/poi-images/belgium-paterberg-relief-v2.webp"},
   {
     id: "belgium-kanarieberg-relief-v2",
     type: "peak",
@@ -259,8 +249,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Altitudine de 126 metri", "Situat în pădurea Muziekbos", "Panta ajunge la 14%", "Faimos pentru zambilele sălbatice"],
       en: ["Elevation of 126 meters", "Located in the Muziekbos forest", "Gradient up to 14%", "Known for wild bluebell carpets"],
     },
-    imageHint: "Forested slope of the Kanarieberg",
-  },
+    imageHint: "Forested slope of the Kanarieberg", image: "/poi-images/belgium-kanarieberg-relief-v2.webp"},
   {
     id: "belgium-brabant-plateau-relief-v2",
     type: "landmark",
@@ -279,8 +268,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Altitudine între 50 și 160 metri", "Soluri lutoase fertile", "Locația pădurii Soignes", "Regiune agricolă foarte bogată"],
       en: ["Elevation from 50 to 160 meters", "Composed of loess/loam soils", "Site of the Sonian Forest", "Highly fertile agricultural region"],
     },
-    imageHint: "Rolling agricultural fields of the Brabant Plateau",
-  },
+    imageHint: "Rolling agricultural fields of the Brabant Plateau", image: "/poi-images/belgium-brabant-plateau-relief-v2.webp"},
   {
     id: "belgium-hesbaye-plateau-relief-v2",
     type: "landmark",
@@ -299,8 +287,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Altitudine de aproximativ 100-150m", "Format din loess fertil", "Centrul pomiculturii belgiene", "Peisaj deluros în est"],
       en: ["Elevation around 100-150 meters", "Composed of fertile loess soil", "Center of Belgian fruit growing", "Hilly landscape in eastern Belgium"],
     },
-    imageHint: "Orchards and fields of the Hesbaye region",
-  },
+    imageHint: "Orchards and fields of the Hesbaye region", image: "/poi-images/belgium-hesbaye-plateau-relief-v2.webp"},
   {
     id: "belgium-campine-relief-v2",
     type: "landmark",
@@ -319,8 +306,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Compoziție nisipoasă a solului", "Altitudine între 30 și 80m", "Vaste zone de câmpie cu iarbă neagră", "Cunoscută pentru minele de cărbune (trecut)"],
       en: ["Sandy soil composition", "Elevation from 30 to 80 meters", "Large heathland areas", "Known for former coal mining history"],
     },
-    imageHint: "Sandy paths and pine forests of the Kempen",
-  },
+    imageHint: "Sandy paths and pine forests of the Kempen", image: "/poi-images/belgium-campine-relief-v2.webp"},
   {
     id: "belgium-polders-relief-v2",
     type: "landmark",
@@ -339,8 +325,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Situat la nivelul mării sau sub acesta", "Protejat de rețele de diguri", "Sol fertil de aluviuni marine", "Teren drenat artificial"],
       en: ["Located at or below sea level", "Protected by a system of dikes", "Fertile marine clay soil", "Artificially drained land area"],
     },
-    imageHint: "Flat polder fields with drainage canals",
-  },
+    imageHint: "Flat polder fields with drainage canals", image: "/poi-images/belgium-polders-relief-v2.webp"},
   {
     id: "belgium-meuse-valley-relief-v2",
     type: "valley",
@@ -359,8 +344,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Vale de străpungere adâncă", "Pereți abrupți de calcar", "Cale navigabilă vitală", "Centrul istoric al industriei valone"],
       en: ["Deep incised river valley", "Steep limestone cliffs", "Major transport corridor", "Historical heart of Walloon industry"],
     },
-    imageHint: "Meuse river winding between high rocky cliffs",
-  },
+    imageHint: "Meuse river winding between high rocky cliffs", image: "/poi-images/belgium-meuse-valley-relief-v2.webp"},
   {
     id: "belgium-ourthe-valley-relief-v2",
     type: "valley",
@@ -379,8 +363,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Vale foarte sinuoasă", "Populară pentru caiac și drumeții", "Conține stâncile din Sy", "Parte a masivului Ardeni"],
       en: ["Highly meandering river valley", "Popular for kayaking and hiking", "Home to the Rocks of Sy", "Part of the Ardennes massif"],
     },
-    imageHint: "Meandering Ourthe river in a narrow wooded valley",
-  },
+    imageHint: "Meandering Ourthe river in a narrow wooded valley", image: "/poi-images/belgium-ourthe-valley-relief-v2.webp"},
   {
     id: "belgium-plateau-de-saint-hubert-relief-v2",
     type: "landmark",
@@ -399,8 +382,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Altitudine medie de 500m", "Vastă zonă forestieră compactă", "Habitat natural pentru cerbi", "Centru al silviculturii"],
       en: ["Average elevation of 500 meters", "Large continuous forest area", "Prime habitat for red deer", "Center of the forestry industry"],
     },
-    imageHint: "Endless forests on the Saint-Hubert plateau",
-  },
+    imageHint: "Endless forests on the Saint-Hubert plateau", image: "/poi-images/belgium-plateau-de-saint-hubert-relief-v2.webp"},
   {
     id: "belgium-plateau-des-tailles-relief-v2",
     type: "landmark",
@@ -439,8 +421,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Altitudine de 504 metri", "Cel mai înalt punct din Namur", "Găzduiește turnul 'Tour du Millénaire'", "Fost refugiu al Rezistenței"],
       en: ["Elevation of 504 meters", "Highest point in Namur province", "Home to the Millennium Tower", "Former hideout for the Resistance"],
     },
-    imageHint: "Millennium Tower on top of Croix Scaille",
-  },
+    imageHint: "Millennium Tower on top of Croix Scaille", image: "/poi-images/belgium-croix-scaille-relief-v2.webp"},
   {
     id: "belgium-montagne-saint-pierre-relief-v2",
     type: "landmark",
@@ -459,8 +440,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Altitudine de circa 100m", "Labirint extins de tuneluri", "Bogat în fosile (Mosasaurus)", "Format din rocă marnoasă"],
       en: ["Elevation around 100 meters", "Extensive maze of tunnels", "Rich in fossils (Mosasaurus found here)", "Composed of marlstone (limestone)"],
     },
-    imageHint: "Limestone cliffs of Sint-Pietersberg by the river",
-  },
+    imageHint: "Limestone cliffs of Sint-Pietersberg by the river", image: "/poi-images/belgium-montagne-saint-pierre-relief-v2.webp"},
   {
     id: "belgium-rocher-bayard-relief-v2",
     type: "landmark",
@@ -479,8 +459,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Ac stâncos de 40 de metri", "Separat de masivul principal", "Permite trecerea mașinilor", "Legenda celor patru fii ai lui Aymon"],
       en: ["40-meter high rock needle", "Separated from the main cliff", "Road passes through the base", "Legend of the four sons of Aymon"],
     },
-    imageHint: "Tall narrow rock needle next to the road and river",
-  },
+    imageHint: "Tall narrow rock needle next to the road and river", image: "/poi-images/belgium-rocher-bayard-relief-v2.webp"},
   {
     id: "belgium-tier-de-dieupart-relief-v2",
     type: "peak",
@@ -499,8 +478,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Deal calcaros abrupt", "Oferă vedere panoramică", "Relief tipic pentru Calestienne", "Popular pentru drumeții scurte"],
       en: ["Steep limestone hill", "Provides panoramic views", "Typical Calestienne topography", "Popular for short hikes"],
     },
-    imageHint: "Steep rocky hill overlooking a small town",
-  },
+    imageHint: "Steep rocky hill overlooking a small town", image: "/poi-images/belgium-tier-de-dieupart-relief-v2.webp"},
   {
     id: "belgium-collines-des-flandres-relief-v2",
     type: "landmark",
@@ -519,8 +497,7 @@ export const belgiumReliefV2: POI[] = [
       ro: ["Format din dealuri izolate", "Resturi ale unui podiș terțiar", "Cele mai înalte puncte din Flandra", "Repere geografice importante"],
       en: ["Composed of isolated hills", "Remnants of a Tertiary plateau", "Highest elevations in Flanders", "Major geographic landmarks"],
     },
-    imageHint: "Series of green hills rising from flat plains",
-  },
+    imageHint: "Series of green hills rising from flat plains", image: "/poi-images/belgium-collines-des-flandres-relief-v2.webp"},
   {
     id: "belgium-plateau-de-bastogne-relief-v2",
     type: "landmark",

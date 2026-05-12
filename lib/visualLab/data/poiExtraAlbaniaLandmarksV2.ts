@@ -19,8 +19,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["A rezistat la trei asedii majore", "Construit în secolul V sau VI", "Găzduiește Muzeul Etnografic", "Sediul lui Skanderbeg din 1443"],
       en: ["Resisted three major Ottoman sieges", "Built in the 5th or 6th century", "Houses the Ethnographic Museum", "Skanderbeg's headquarters from 1443"],
     },
-    imageHint: "Kruje Castle with the Skanderbeg Museum building",
-  },
+    imageHint: "Kruje Castle with the Skanderbeg Museum building", image: "/poi-images/albania-kruje-castle-landmarks-v2.webp"},
   {
     id: "albania-gjirokaster-castle-landmarks-v2",
     type: "castle",
@@ -39,8 +38,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["A doua cetate ca mărime din Balcani", "Deține un turn cu ceas distinctiv", "Conține un avion spion american", "Construită începând cu secolul XII"],
       en: ["Second largest castle in the Balkans", "Features a prominent clock tower", "Contains a captured US spy plane", "Built starting from the 12th century"],
     },
-    imageHint: "Gjirokaster Castle with the clock tower and mountains",
-  },
+    imageHint: "Gjirokaster Castle with the clock tower and mountains", image: "/poi-images/albania-gjirokaster-castle-landmarks-v2.webp"},
   {
     id: "albania-skanderbeg-square-landmarks-v2",
     type: "landmark",
@@ -59,8 +57,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Suprafață de aproximativ 40.000 m²", "Statuia ecvestră a lui Skanderbeg în centru", "Înconjurată de clădiri ministeriale", "Sediul Muzeului Național de Istorie"],
       en: ["Size of approximately 40,000 m²", "Central equestrian statue of Skanderbeg", "Surrounded by ministry buildings", "Site of the National History Museum"],
     },
-    imageHint: "Skanderbeg Square in Tirana with the statue",
-  },
+    imageHint: "Skanderbeg Square in Tirana with the statue", image: "/poi-images/albania-skanderbeg-square-landmarks-v2.webp"},
   {
     id: "albania-national-history-museum-landmarks-v2",
     type: "museum",
@@ -79,8 +76,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Deschis pe 28 octombrie 1981", "Cel mai mare muzeu din Albania", "Mozaicul înfățișează 13 figuri", "Include un pavilion al terorii"],
       en: ["Opened on October 28, 1981", "Largest museum in Albania", "Mosaic depicts 13 Albanian figures", "Features a Pavilion of Communist Terror"],
     },
-    imageHint: "Facade of the National History Museum with the mosaic",
-  },
+    imageHint: "Facade of the National History Museum with the mosaic", image: "/poi-images/albania-national-history-museum-landmarks-v2.webp"},
   {
     id: "albania-pyramid-of-tirana-landmarks-v2",
     type: "landmark",
@@ -99,8 +95,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Inaugurată în anul 1988", "Proiectată de fiica lui Hoxha", "Propusă pentru demolare în trecut", "Acum este hub cultural și tech"],
       en: ["Opened in 1988", "Designed by Hoxha's daughter", "Once proposed for demolition", "Now a cultural and tech hub"],
     },
-    imageHint: "The Pyramid of Tirana structure after renovation",
-  },
+    imageHint: "The Pyramid of Tirana structure after renovation", image: "/poi-images/albania-pyramid-of-tirana-landmarks-v2.webp"},
   {
     id: "albania-butrint-amphitheatre-landmarks-v2",
     type: "ruins",
@@ -119,8 +114,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Parte din patrimoniul UNESCO", "Capacitate de 2.500 de spectatori", "Construit pe origini grecești", "Adiacent sanctuarului lui Asclepios"],
       en: ["Part of UNESCO World Heritage", "Capacity of 2,500 spectators", "Built on Greek foundations", "Adjacent to the Sanctuary of Asclepius"],
     },
-    imageHint: "Ancient Greek theater in Butrint archaeological park",
-  },
+    imageHint: "Ancient Greek theater in Butrint archaeological park", image: "/poi-images/albania-butrint-amphitheatre-landmarks-v2.webp"},
   {
     id: "albania-apollonia-archaeological-park-landmarks-v2",
     type: "ruins",
@@ -139,8 +133,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Fondat în anul 588 î.Hr.", "Augustus a studiat aici retorica", "Fost oraș-port important", "Deține o mănăstire medievală"],
       en: ["Founded in 588 BC", "Augustus studied rhetoric here", "Once a major port city", "Features a medieval monastery"],
     },
-    imageHint: "Ruins of the Buleuterion in Apollonia",
-  },
+    imageHint: "Ruins of the Buleuterion in Apollonia", image: "/poi-images/albania-apollonia-archaeological-park-landmarks-v2.webp"},
   {
     id: "albania-clock-tower-tirana-landmarks-v2",
     type: "tower",
@@ -159,8 +152,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Construit în anul 1822", "Are 90 de trepte în spirală", "Clopot adus din Veneția", "Iluminat noaptea"],
       en: ["Built in 1822", "Has 90 spiral stairs", "Bell was brought from Venice", "Brightly illuminated at night"],
     },
-    imageHint: "The Clock Tower of Tirana at sunset",
-  },
+    imageHint: "The Clock Tower of Tirana at sunset", image: "/poi-images/albania-clock-tower-tirana-landmarks-v2.webp"},
   {
     id: "albania-bunkart-1-landmarks-v2",
     type: "museum",
@@ -179,8 +171,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Are peste 100 de camere", "5 etaje sub pământ", "Deschis ca muzeu în 2014", "Locație secretă în Războiul Rece"],
       en: ["Features over 100 rooms", "5 floors underground", "Opened as a museum in 2014", "Secret location during Cold War"],
     },
-    imageHint: "Underground tunnel entrance to Bunk'Art 1",
-  },
+    imageHint: "Underground tunnel entrance to Bunk'Art 1", image: "/poi-images/albania-bunkart-1-landmarks-v2.webp"},
   {
     id: "albania-resurrection-cathedral-landmarks-v2",
     type: "cathedral",
@@ -199,8 +190,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Sfințită în anul 2012", "Cupolă înaltă de 32 de metri", "Turn clopotniță de 46 metri", "Include un centru cultural"],
       en: ["Consecrated in 2012", "Dome height of 32 meters", "46-meter high bell tower", "Contains a cultural center"],
     },
-    imageHint: "Modern Resurrection of Christ Orthodox Cathedral in Tirana",
-  },
+    imageHint: "Modern Resurrection of Christ Orthodox Cathedral in Tirana", image: "/poi-images/albania-resurrection-cathedral-landmarks-v2.webp"},
   {
     id: "albania-lead-mosque-landmarks-v2",
     type: "landmark",
@@ -219,8 +209,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Construită în anul 1773", "Singura moschee otomană de acest tip", "Ctitorită de Pașa din Shkodra", "A supraviețuit campaniei ateiste"],
       en: ["Built in 1773", "Unique Ottoman architectural style", "Built by the Pasha of Shkodër", "Survived the anti-religious campaign"],
     },
-    imageHint: "The Lead Mosque in Shkoder near Rozafa Castle",
-  },
+    imageHint: "The Lead Mosque in Shkoder near Rozafa Castle", image: "/poi-images/albania-lead-mosque-landmarks-v2.webp"},
   {
     id: "albania-venetian-tower-durres-landmarks-v2",
     type: "tower",
@@ -239,8 +228,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Parte din zidurile cetății Durrës", "Înălțime de 9 metri", "Punct strategic de observație", "Destinație turistică populară"],
       en: ["Part of the Durrës Castle walls", "Height of 9 meters", "Strategic observation point", "Popular tourist destination"],
     },
-    imageHint: "The circular Venetian Tower in Durres",
-  },
+    imageHint: "The circular Venetian Tower in Durres", image: "/poi-images/albania-venetian-tower-durres-landmarks-v2.webp"},
   {
     id: "albania-amphitheatre-durres-landmarks-v2",
     type: "ruins",
@@ -259,8 +247,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Capacitate de până la 20.000 locuri", "Include o capelă cu mozaicuri", "Candidat pentru patrimoniul UNESCO", "Situat în mijlocul unui cartier"],
       en: ["Capacity for up to 20,000 people", "Contains a chapel with mosaics", "UNESCO candidate site", "Located in a residential area"],
     },
-    imageHint: "Remains of the large Roman amphitheatre in Durres",
-  },
+    imageHint: "Remains of the large Roman amphitheatre in Durres", image: "/poi-images/albania-amphitheatre-durres-landmarks-v2.webp"},
   {
     id: "albania-petrele-castle-landmarks-v2",
     type: "castle",
@@ -279,8 +266,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Construit în secolul VI", "Formă triunghiulară", "Vedere asupra văii Erzen", "Găzduiește un restaurant astăzi"],
       en: ["Built in the 6th century", "Triangular ground plan", "Overlooks the Erzen valley", "Now houses a popular restaurant"],
     },
-    imageHint: "Petrele Castle on top of a rocky hill",
-  },
+    imageHint: "Petrele Castle on top of a rocky hill", image: "/poi-images/albania-petrele-castle-landmarks-v2.webp"},
   {
     id: "albania-marubi-museum-landmarks-v2",
     type: "museum",
@@ -299,8 +285,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Peste 500.000 de negative", "Prima fotografie albaneză (1858)", "Clădire modernă în Shkodra", "Prezintă costume istorice"],
       en: ["Over 500,000 negatives", "Albania's first photo (1858)", "Modern building in Shkodër", "Displays historical costumes"],
     },
-    imageHint: "Inside the Marubi National Photography Museum",
-  },
+    imageHint: "Inside the Marubi National Photography Museum", image: "/poi-images/albania-marubi-museum-landmarks-v2.webp"},
   {
     id: "albania-onufri-museum-landmarks-v2",
     type: "museum",
@@ -319,8 +304,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1986", "Celebru pentru roșul lui Onufri", "Iconostas din secolul XIX", "În interiorul unei biserici"],
       en: ["Established in 1986", "Famous Onufri-Red color", "19th-century iconostasis", "Inside a Byzantine church"],
     },
-    imageHint: "Iconography by Onufri in the Berat museum",
-  },
+    imageHint: "Iconography by Onufri in the Berat museum", image: "/poi-images/albania-onufri-museum-landmarks-v2.webp"},
   {
     id: "albania-gorica-bridge-landmarks-v2",
     type: "bridge",
@@ -378,8 +362,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1980", "Peste 7.000 de exponate", "Colecție majoră de icoane", "Clădire nouă în 2016"],
       en: ["Founded in 1980", "Over 7,000 artifacts", "Major icon collection", "New building opened 2016"],
     },
-    imageHint: "National Museum of Medieval Art Korce icons",
-  },
+    imageHint: "National Museum of Medieval Art Korce icons", image: "/poi-images/albania-medieval-art-museum-landmarks-v2.webp"},
   {
     id: "albania-tanners-bridge-landmarks-v2",
     type: "bridge",
@@ -397,8 +380,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Construit în secolul XVIII", "Pod tipic cu boltă de piatră", "Lungime de 8 metri", "Restaurat în anii 1990"],
       en: ["Built in the 18th century", "Stone arch bridge", "Length of 8 meters", "Restored in the 1990s"],
     },
-    imageHint: "Tanners Bridge Tirana Ottoman stone bridge",
-  },
+    imageHint: "Tanners Bridge Tirana Ottoman stone bridge", image: "/poi-images/albania-tanners-bridge-landmarks-v2.webp"},
   {
     id: "albania-st-stephens-cathedral-landmarks-v2",
     type: "cathedral",
@@ -416,8 +398,7 @@ export const albaniaLandmarksV2: POI[] = [
       ro: ["Sfințită în anul 1867", "Lungime totală de 74 metri", "Vizita Papei Ioan Paul al II-lea", "Restaurare completă în 1991"],
       en: ["Consecrated in 1867", "74 meters total length", "Pope John Paul II visit", "Major restoration in 1991"],
     },
-    imageHint: "St Stephen's Cathedral Shkoder interior",
-  },
+    imageHint: "St Stephen's Cathedral Shkoder interior", image: "/poi-images/albania-st-stephens-cathedral-landmarks-v2.webp"},
   {
     id: "albania-archaeological-museum-durres-landmarks-v2",
     type: "museum",

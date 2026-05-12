@@ -1713,8 +1713,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Sikasso régió fontos gyapottermelő városa", "Modern gyapottisztító üzemmel rendelkezik", "Szenufo és bambara lakosság", "Dinamikusan fejlődő agrárközpont", "Gazdag csapadék és termékeny talaj jellemzi", "Fontos gabonapiaca van", "Strategiai pont a dél-mali úthálózaton"],
       ro: ["Situat în regiunea agricolă fertilă Sikasso", "Centru major pentru colectarea bumbacului", "Bastion al culturii și muzicii Minianka", "Zonă cu resurse de apă bogate pentru irigații", "Piață regională pentru cereale și vite", "Centru de servicii pentru comunitățile rurale", "Renumit pentru calitatea porumbului produs local"],
       en: ["Major hub for cotton production and storage in the Sikasso Region", "Strategically located in the highly fertile southern agricultural zone", "Key producer of maize, yams, and grain for the national market", "Administrative capital of the productive Kignan district", "Center for Minianka and Bambara agricultural traditions", "Important market for the trade of industrial and food crops", "Connected to the vital transport networks of southern Mali", "Supports a large population of farmers and agricultural workers"]
-    }
-  },
+    }, image: "/poi-images/kignan-cities-v2.webp"},
   {
     id: "zegoua-cities-v2",
     type: "city",

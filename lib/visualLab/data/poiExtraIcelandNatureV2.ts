@@ -19,8 +19,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Înălțime totală de 32 de metri", "Două trepte de 11 și 21 de metri", "Debit mediu de 140 m³/s vara", "Parte a circuitului Cercul de Aur"],
       en: ["Total height of 32 meters", "Two stages of 11 and 21 meters", "Average flow rate of 140 m³/s in summer", "Part of the Golden Circle tourist route"],
     },
-    imageHint: "Gullfoss waterfall Iceland rainbow",
-  },
+    imageHint: "Gullfoss waterfall Iceland rainbow", image: "/poi-images/iceland-gullfoss-nature-v2.webp"},
   {
     id: "iceland-skogafoss-nature-v2",
     type: "landmark",
@@ -39,8 +38,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Cădere de apă de fix 60 de metri", "Lățime de 25 de metri", "Produce frecvent curcubee duble", "Punct de plecare pentru traseul Fimmvörðuháls"],
       en: ["Drop height of exactly 60 meters", "Width of 25 meters", "Often produces double rainbows", "Starting point for the Fimmvörðuháls trail"],
     },
-    imageHint: "Skogafoss waterfall South Iceland",
-  },
+    imageHint: "Skogafoss waterfall South Iceland", image: "/poi-images/iceland-skogafoss-nature-v2.webp"},
   {
     id: "iceland-seljalandsfoss-nature-v2",
     type: "landmark",
@@ -59,8 +57,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Înălțime de 60 de metri", "Face parte din râul Seljalandsá", "Accesibil în spatele perdelei de apă", "Iluminat pe timp de noapte"],
       en: ["Height of 60 meters", "Part of the Seljalandsá river", "Path behind the waterfall is accessible", "Illuminated by floodlights at night"],
     },
-    imageHint: "Seljalandsfoss waterfall from behind",
-  },
+    imageHint: "Seljalandsfoss waterfall from behind", image: "/poi-images/iceland-seljalandsfoss-nature-v2.webp"},
   {
     id: "iceland-dettifoss-nature-v2",
     type: "landmark",
@@ -79,8 +76,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Lățime de 100 de metri", "Înălțime de 44 de metri", "Debit de până la 500 m³/s", "Alimentată de râul glaciar Jökulsá á Fjöllum"],
       en: ["Width of 100 meters", "Height of 44 meters", "Water flow up to 500 m³/s", "Fed by the glacial river Jökulsá á Fjöllum"],
     },
-    imageHint: "Dettifoss waterfall North Iceland powerful",
-  },
+    imageHint: "Dettifoss waterfall North Iceland powerful", image: "/poi-images/iceland-dettifoss-nature-v2.webp"},
   {
     id: "iceland-godafoss-nature-v2",
     type: "landmark",
@@ -99,8 +95,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Lățime de 30 de metri", "Înălțime de 12 metri", "Locul unde au fost aruncate statuile zeilor păgâni în anul 1000", "Face parte din râul Skjálfandafljót"],
       en: ["Width of 30 meters", "Height of 12 meters", "Site where pagan idols were cast around 1000 AD", "Part of the Skjálfandafljót river"],
     },
-    imageHint: "Godafoss waterfall Iceland horseshoe shape",
-  },
+    imageHint: "Godafoss waterfall Iceland horseshoe shape", image: "/poi-images/iceland-godafoss-nature-v2.webp"},
   {
     id: "iceland-kirkjufell-nature-v2",
     type: "mountain",
@@ -119,8 +114,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Înălțime de 463 de metri", "Cel mai fotografiat munte din Islanda", "Compus din straturi vulcanice și sedimentare", "Locație de filmare pentru Urzeala Tronurilor"],
       en: ["Elevation of 463 meters", "Most photographed mountain in Iceland", "Composed of volcanic and sedimentary layers", "Filming location for Game of Thrones"],
     },
-    imageHint: "Kirkjufell mountain Snaefellsnes peninsula",
-  },
+    imageHint: "Kirkjufell mountain Snaefellsnes peninsula", image: "/poi-images/iceland-kirkjufell-nature-v2.webp"},
   {
     id: "iceland-hekla-nature-v2",
     type: "peak",
@@ -139,8 +133,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Altitudine de 1.491 de metri", "Peste 20 de erupții din anul 874", "Parte a unui sistem vulcanic lung de 40 km", "Ultima erupție a avut loc în anul 2000"],
       en: ["Elevation of 1,491 meters", "Over 20 eruptions recorded since 874 AD", "Part of a 40 km long volcanic ridge", "Last eruption occurred in the year 2000"],
     },
-    imageHint: "Hekla volcano Iceland snowy peak",
-  },
+    imageHint: "Hekla volcano Iceland snowy peak", image: "/poi-images/iceland-hekla-nature-v2.webp"},
   {
     id: "iceland-katla-nature-v2",
     type: "peak",
@@ -159,8 +152,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Caldera are un diametru de 10 km", "Situat sub 200-700 metri de gheață", "Erupțiile cauzează inundații glaciare masive", "Ultima erupție majoră a fost în 1918"],
       en: ["Caldera diameter of 10 km", "Located under 200 to 700 meters of ice", "Eruptions trigger catastrophic glacial floods", "Last major eruption occurred in 1918"],
     },
-    imageHint: "Katla volcano Myrdalsjokull glacier",
-  },
+    imageHint: "Katla volcano Myrdalsjokull glacier", image: "/poi-images/iceland-katla-nature-v2.webp"},
   {
     id: "iceland-snaefellsjokull-nature-v2",
     type: "peak",
@@ -179,8 +171,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Altitudine de 1.446 de metri", "Decorul cărții 'Călătorie spre centrul Pământului'", "Ultima erupție a avut loc acum aproximativ 1.800 ani", "Piesă centrală a unui parc național"],
       en: ["Elevation of 1,446 meters", "Setting for 'Journey to the Center of the Earth'", "Last eruption occurred about 1,800 years ago", "Centerpiece of a National Park"],
     },
-    imageHint: "Snaefellsjokull glacier volcano Iceland",
-  },
+    imageHint: "Snaefellsjokull glacier volcano Iceland", image: "/poi-images/iceland-snaefellsjokull-nature-v2.webp"},
   {
     id: "iceland-myvatn-nature-v2",
     type: "lake",
@@ -199,8 +190,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 37 km²", "Cunoscut pentru pseudocraterere și formațiunile de lavă", "Loc important de cuibărit pentru rațe", "Numele se traduce prin 'Lacul Musculițelor'"],
       en: ["Surface area of about 37 km²", "Known for pseudocraters and lava formations", "Major breeding ground for various duck species", "Name translates to 'Midge Lake'"],
     },
-    imageHint: "Lake Myvatn Iceland volcanic landscape",
-  },
+    imageHint: "Lake Myvatn Iceland volcanic landscape", image: "/poi-images/iceland-myvatn-nature-v2.webp"},
   {
     id: "iceland-thingvallavatn-nature-v2",
     type: "lake",
@@ -219,8 +209,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Suprafață de 84 km²", "Adâncime maximă de 114 metri", "Găzduiește patru varietăți de păstrăv arctic", "Parte a Parcului Național Þingvellir"],
       en: ["Surface area of 84 km²", "Maximum depth of 114 meters", "Home to four distinct varieties of Arctic char", "Part of the Þingvellir National Park"],
     },
-    imageHint: "Thingvallavatn lake Iceland aerial view",
-  },
+    imageHint: "Thingvallavatn lake Iceland aerial view", image: "/poi-images/iceland-thingvallavatn-nature-v2.webp"},
   {
     id: "iceland-jokulsarlon-nature-v2",
     type: "lake",
@@ -239,8 +228,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Cel mai adânc lac din Islanda (cca. 248 m)", "S-a format începând cu 1934 prin retragerea ghețarului", "Faimos pentru 'Plaja de Diamant' din apropiere", "Locație frecventă pentru filme de la Hollywood"],
       en: ["Deepest lake in Iceland (approx. 248 m)", "Started forming around 1934 as the glacier retreated", "Famous for the adjacent 'Diamond Beach'", "Popular filming location for Hollywood movies"],
     },
-    imageHint: "Jokulsarlon glacier lagoon icebergs",
-  },
+    imageHint: "Jokulsarlon glacier lagoon icebergs", image: "/poi-images/iceland-jokulsarlon-nature-v2.webp"},
   {
     id: "iceland-reynisfjara-nature-v2",
     type: "landmark",
@@ -259,8 +247,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Compusă din nisip negru vulcanic", "Coloane de bazalt spectaculoase la muntele Reynisfjall", "Periculoasă din cauza valurilor 'sneaker' bruște", "Aleasă în 1991 printre cele mai frumoase 10 plaje"],
       en: ["Composed of volcanic black sand", "Distinctive basalt columns at Mount Reynisfjall", "Dangerous due to powerful 'sneaker waves'", "Voted one of the 10 most beautiful beaches in 1991"],
     },
-    imageHint: "Reynisfjara black sand beach basalt columns",
-  },
+    imageHint: "Reynisfjara black sand beach basalt columns", image: "/poi-images/iceland-reynisfjara-nature-v2.webp"},
   {
     id: "iceland-dyrholaey-nature-v2",
     type: "landmark",
@@ -279,8 +266,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Numele se traduce prin 'insula dealului cu ușă'", "Loc important de cuibărit pentru pufini", "Fostă insulă vulcanică transformată în promontoriu", "Găzduiește un far construit în 1927"],
       en: ["Name translates to 'door-hill-island'", "Major nesting ground for puffins", "Former volcanic island now connected to the coast", "Home to a lighthouse built in 1927"],
     },
-    imageHint: "Dyrholaey rock arch puffins Iceland",
-  },
+    imageHint: "Dyrholaey rock arch puffins Iceland", image: "/poi-images/iceland-dyrholaey-nature-v2.webp"},
   {
     id: "iceland-landmannalaugar-nature-v2",
     type: "valley",
@@ -299,8 +285,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Faimoasă pentru izvoarele termale naturale", "Roca de riolit creează nuanțe de galben, roz și albastru", "Punctul de pornire al traseului Laugavegur", "Accesibilă doar vara prin drumuri montane"],
       en: ["Famous for natural hot springs", "Rhyolite rock creates yellow, pink, and blue hues", "Starting point of the Laugavegur trekking trail", "Accessible only in summer via F-roads"],
     },
-    imageHint: "Landmannalaugar colorful rhyolite mountains",
-  },
+    imageHint: "Landmannalaugar colorful rhyolite mountains", image: "/poi-images/iceland-landmannalaugar-nature-v2.webp"},
   {
     id: "iceland-asbyrgi-nature-v2",
     type: "valley",
@@ -319,8 +304,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Cca. 3,5 km lungime și 1,1 km lățime", "Pereții stâncoși au până la 100 de metri înălțime", "Format de inundații glaciare catastrofale", "Adăpostește o pădure neobișnuit de densă"],
       en: ["Approx. 3.5 km long and 1.1 km wide", "Cliffs reach up to 100 meters in height", "Formed by catastrophic glacial floods", "Home to an unusually dense forest"],
     },
-    imageHint: "Asbyrgi canyon horseshoe shape aerial",
-  },
+    imageHint: "Asbyrgi canyon horseshoe shape aerial", image: "/poi-images/iceland-asbyrgi-nature-v2.webp"},
   {
     id: "iceland-fjadrargljufur-nature-v2",
     type: "valley",
@@ -339,8 +323,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Format acum aproximativ două milioane de ani", "Adâncime de până la 100 de metri", "Săpat de apele glaciare la sfârșitul epocii de gheață", "Devenit faimos după un videoclip al lui Justin Bieber"],
       en: ["Formed about two million years ago", "Depth of up to 100 meters", "Carved by glacial meltwater at the end of the last ice age", "Became world-famous after a Justin Bieber music video"],
     },
-    imageHint: "Fjadrargljufur canyon Iceland green cliffs",
-  },
+    imageHint: "Fjadrargljufur canyon Iceland green cliffs", image: "/poi-images/iceland-fjadrargljufur-nature-v2.webp"},
   {
     id: "iceland-askja-nature-v2",
     type: "peak",
@@ -359,8 +342,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Include lacul adânc Öskjuvatn", "Craterul Víti conține apă caldă albastru-lăptos", "Loc de antrenament NASA pentru misiunile pe Lună", "Erupție masivă în anul 1875"],
       en: ["Contains the deep Öskjuvatn lake", "Víti crater contains milky blue geothermal water", "NASA training site for Apollo moon missions", "Site of a massive eruption in 1875"],
     },
-    imageHint: "Askja caldera Viti crater blue water",
-  },
+    imageHint: "Askja caldera Viti crater blue water", image: "/poi-images/iceland-askja-nature-v2.webp"},
   {
     id: "iceland-krafla-nature-v2",
     type: "peak",
@@ -379,8 +361,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Caldera are un diametru de cca. 10 km", "Include lacul de crater Víti", "Locul 'Focurilor Krafla' (1975–1984)", "Sursă pentru o mare centrală geotermală"],
       en: ["Caldera diameter of about 10 km", "Home to the Víti crater lake (distinct from Askja's)", "Site of the 'Krafla Fires' (1975–1984)", "Utilized by a major geothermal power plant"],
     },
-    imageHint: "Krafla Viti crater lake North Iceland",
-  },
+    imageHint: "Krafla Viti crater lake North Iceland", image: "/poi-images/iceland-krafla-nature-v2.webp"},
   {
     id: "iceland-dynjandi-nature-v2",
     type: "landmark",
@@ -399,8 +380,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Înălțime totală de 100 de metri", "Lățime de 30 m sus și 60 m jos", "Cunoscută și sub numele de 'Fjallfoss'", "Cea mai mare cascadă din Fiordurile de Vest"],
       en: ["Total height of 100 meters", "Width of 30 m at the top and 60 m at the bottom", "Also known as 'Fjallfoss'", "Largest waterfall in the Westfjords"],
     },
-    imageHint: "Dynjandi waterfall Westfjords fan shape",
-  },
+    imageHint: "Dynjandi waterfall Westfjords fan shape", image: "/poi-images/iceland-dynjandi-nature-v2.webp"},
   {
     id: "iceland-glymur-nature-v2",
     type: "landmark",
@@ -419,8 +399,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Înălțime de 198 de metri", "Accesibilă doar printr-o drumeție dificilă", "Situată pe râul Botnsá", "A deținut recordul de înălțime în Islanda până în 2011"],
       en: ["Drop height of 198 meters", "Accessible only via a challenging hike", "Located on the river Botnsá", "Highest in Iceland until surpassed by Morsárfoss in 2011"],
     },
-    imageHint: "Glymur waterfall Iceland high canyon",
-  },
+    imageHint: "Glymur waterfall Iceland high canyon", image: "/poi-images/iceland-glymur-nature-v2.webp"},
   {
     id: "iceland-svartifoss-nature-v2",
     type: "landmark",
@@ -439,8 +418,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Înălțime de 20 de metri", "A inspirat arhitectura bisericii Hallgrímskirkja", "Coloanele s-au format prin răcirea lentă a lavei", "Ușor accesibilă printr-un traseu de drumeție"],
       en: ["Drop height of 20 meters", "Inspired the architecture of Hallgrímskirkja church", "Columns formed by slow cooling of lava", "Easily accessible via a hiking trail"],
     },
-    imageHint: "Svartifoss waterfall basalt columns black",
-  },
+    imageHint: "Svartifoss waterfall basalt columns black", image: "/poi-images/iceland-svartifoss-nature-v2.webp"},
   {
     id: "iceland-eldgja-nature-v2",
     type: "valley",
@@ -459,8 +437,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Formată în timpul unei erupții masive în anul 934", "Adâncime de până la 270 de metri", "Numele înseamnă 'Canionul de Foc'", "Parte a sistemului vulcanic Katla"],
       en: ["Formed during a massive eruption in 934 AD", "Depth of up to 270 meters", "Name translates to 'Fire Canyon'", "Part of the Katla volcanic system"],
     },
-    imageHint: "Eldgja canyon volcanic fissure Iceland",
-  },
+    imageHint: "Eldgja canyon volcanic fissure Iceland", image: "/poi-images/iceland-eldgja-nature-v2.webp"},
   {
     id: "iceland-heimaey-nature-v2",
     type: "landmark",
@@ -479,8 +456,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Suprafață de 13,4 km²", "Găzduiește una dintre cele mai mari colonii de pufini", "Vulcanul Eldfell s-a format în timpul erupției din 1973", "Centru important al industriei pescuitului"],
       en: ["Surface area of 13.4 km²", "Home to one of the world's largest puffin colonies", "Mount Eldfell was formed during the 1973 eruption", "Major hub for the Icelandic fishing industry"],
     },
-    imageHint: "Heimaey island Eldfell volcano puffins",
-  },
+    imageHint: "Heimaey island Eldfell volcano puffins", image: "/poi-images/iceland-heimaey-nature-v2.webp"},
   {
     id: "iceland-surtsey-nature-v2",
     type: "landmark",
@@ -499,8 +475,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Inclusă în patrimoniul UNESCO din 2008", "Numită după uriașul de foc Surtur", "Accesul turiștilor este strict interzis", "Eroziunea reduce treptat suprafața insulei"],
       en: ["UNESCO World Heritage site since 2008", "Named after the fire giant Surtur", "Access for tourists is strictly prohibited", "Island surface is shrinking due to erosion"],
     },
-    imageHint: "Surtsey island volcanic eruption 1963",
-  },
+    imageHint: "Surtsey island volcanic eruption 1963", image: "/poi-images/iceland-surtsey-nature-v2.webp"},
   {
     id: "iceland-grimsey-nature-v2",
     type: "landmark",
@@ -519,8 +494,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 5,3 km²", "Punctul maxim este la 105 metri altitudine", "Faimoasă pentru pufini și păsări marine", "Locuitorii trăiesc în principal din pescuit"],
       en: ["Surface area of approx. 5.3 km²", "Highest point is 105 meters above sea level", "Famous for puffins and other seabirds", "Inhabitants live mainly on fishing"],
     },
-    imageHint: "Grimsey island Arctic Circle marker",
-  },
+    imageHint: "Grimsey island Arctic Circle marker", image: "/poi-images/iceland-grimsey-nature-v2.webp"},
   {
     id: "iceland-hornbjarg-nature-v2",
     type: "landmark",
@@ -539,8 +513,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Înălțime maximă de 534 de metri", "Una dintre cele mai mari colonii de păsări marine", "Accesibilă doar cu barca sau prin drumeții lungi", "Cel mai nordic punct al Fiordurilor de Vest"],
       en: ["Maximum height of 534 meters", "One of the largest seabird colonies in the world", "Accessible only by boat or long-distance hiking", "Northernmost point of the Westfjords"],
     },
-    imageHint: "Hornbjarg sea cliffs Westfjords Iceland",
-  },
+    imageHint: "Hornbjarg sea cliffs Westfjords Iceland", image: "/poi-images/iceland-hornbjarg-nature-v2.webp"},
   {
     id: "iceland-raudasandur-nature-v2",
     type: "landmark",
@@ -559,8 +532,7 @@ export const icelandNatureV2: POI[] = [
       ro: ["Numele se traduce prin 'Nisip Roșu'", "Culoarea provine de la cochiliile zdrobite de scoici", "Loc popular pentru observarea focilor", "Se întinde pe o lungime de 10 kilometri"],
       en: ["Name translates to 'Red Sand'", "Color originates from pulverized scallop shells", "Popular spot for seal watching", "Extends over 10 kilometers in length"],
     },
-    imageHint: "Raudasandur red sand beach Westfjords",
-  },
+    imageHint: "Raudasandur red sand beach Westfjords", image: "/poi-images/iceland-raudasandur-nature-v2.webp"},
   {
     id: "iceland-lakagigar-nature-v2",
     type: "landmark",

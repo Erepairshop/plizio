@@ -19,8 +19,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Conține ruinele unui oraș tătar numit Shehr al-Jedid.", "Găzduiește o mănăstire ortodoxă rupestră săpată în stâncă.", "Situl prezintă urme ale fortificațiilor geto-dacice.", "Situat într-o curbă spectaculoasă a râului Răut."],
       en: ["Contains ruins of a Tatar city named Shehr al-Jedid.", "Houses an Orthodox cave monastery carved into the rock.", "The site shows traces of Geto-Dacian fortifications.", "Located in a spectacular bend of the Răut River."],
     },
-    imageHint: "Orheiul Vechi cave monastery and river landscape",
-  },
+    imageHint: "Orheiul Vechi cave monastery and river landscape", image: "/poi-images/moldova-orheiul-vechi-history-v2.webp"},
   {
     id: "moldova-soroca-fortress-history-v2",
     type: "castle",
@@ -39,8 +38,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Construită inițial din lemn de domnitorul Ștefan cel Mare.", "Are cinci turnuri dispuse la distanțe egale.", "Reconstruită din piatră de Petru Rareș între 1543 și 1546.", "Este un monument important al arhitecturii militare moldovenești."],
       en: ["Originally built of wood by Prince Stephen the Great.", "Features five towers arranged at equal distances.", "Rebuilt in stone by Petru Rareș between 1543 and 1546.", "It is a key monument of Moldovan military architecture."],
     },
-    imageHint: "Soroca Fortress circular stone walls and towers",
-  },
+    imageHint: "Soroca Fortress circular stone walls and towers", image: "/poi-images/moldova-soroca-fortress-history-v2.webp"},
   {
     id: "moldova-bender-fortress-history-v2",
     type: "castle",
@@ -59,8 +57,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Proiectată de arhitectul Sinan în 1538 pentru sultanul Soliman.", "Carol al XII-lea al Suediei s-a refugiat aici după bătălia de la Poltava.", "Complexul include muzee de tortură și istorie militară.", "Cetatea controla strategic trecerea peste fluviul Nistru."],
       en: ["Designed by architect Sinan in 1538 for Sultan Suleiman.", "Charles XII of Sweden took refuge here after the Battle of Poltava.", "The complex includes torture and military history museums.", "The fortress strategically controlled the Dniester River crossing."],
     },
-    imageHint: "Bender Fortress stone walls and red roofs",
-  },
+    imageHint: "Bender Fortress stone walls and red roofs", image: "/poi-images/moldova-bender-fortress-history-v2.webp"},
   {
     id: "moldova-manuc-bei-mansion-history-v2",
     type: "palace",
@@ -79,8 +76,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Clădirea principală a fost proiectată de arhitectul Bernardazzi.", "Include un castel de vânătoare, un turn de veghe și tuneluri subterane.", "Manuc Bei a negociat Pacea de la București în 1812.", "Redeschis în 2015 după o restaurare amplă."],
       en: ["The main building was designed by architect Bernardazzi.", "Includes a hunting castle, a watchtower, and underground tunnels.", "Manuc Bei negotiated the 1812 Treaty of Bucharest.", "Reopened in 2015 after an extensive restoration project."],
     },
-    imageHint: "Manuc Bei Mansion French chateau style building",
-  },
+    imageHint: "Manuc Bei Mansion French chateau style building", image: "/poi-images/moldova-manuc-bei-mansion-history-v2.webp"},
   {
     id: "moldova-saharna-monastery-history-v2",
     type: "church",
@@ -99,8 +95,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Mănăstirea rupestră 'Buna Vestire' datează din secolul al XIII-lea.", "O legendă locală spune că Fecioara Maria a lăsat o urmă de picior aici.", "Complexul include 22 de cascade ale râului Saharna.", "Pe dealul 'Grădiște' se află resturi ale unei cetăți geto-dacice."],
       en: ["The 'Annunciation' rock monastery dates back to the 13th century.", "Local legend says the Virgin Mary left a footprint here on a rock.", "The complex encompasses 22 waterfalls of the Saharna River.", "Geto-Dacian fortress remains are located on the 'Grădiște' hill."],
     },
-    imageHint: "Saharna Monastery blue church and rocky cliffs",
-  },
+    imageHint: "Saharna Monastery blue church and rocky cliffs", image: "/poi-images/moldova-saharna-monastery-history-v2.webp"},
   {
     id: "moldova-rudi-monastery-history-v2",
     type: "church",
@@ -119,8 +114,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Biserica a fost construită în 1777 în stil moldovenesc.", "Situată într-o rezervație naturală lângă fluviul Nistru.", "Mănăstirea a fost închisă în 1948 și redeschisă în 1992.", "În apropiere se află 'Peștera Răposaților' și așezări antice."],
       en: ["The church was built in 1777 in the Moldovan style.", "Located within a natural reserve near the Dniester River.", "The monastery was closed in 1948 and reopened in 1992.", "Nearby attractions include the 'Cave of the Dead' and ancient settlements."],
     },
-    imageHint: "Rudi Monastery stone church in the forest",
-  },
+    imageHint: "Rudi Monastery stone church in the forest", image: "/poi-images/moldova-rudi-monastery-history-v2.webp"},
   {
     id: "moldova-pommer-manor-history-v2",
     type: "palace",
@@ -139,8 +133,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Construit pentru bancherul Andrei Pommer între 1901 și 1912.", "Parcul găzduiește peste 150 de specii de arbori și arbuști.", "Clădirea îmbină elemente renascentiste și eclectice.", "Este un monument semnificativ al arhitecturii peisajere."],
       en: ["Built for banker Andrei Pommer between 1901 and 1912.", "The park houses over 150 species of trees and shrubs.", "The building combines Renaissance and eclectic architectural elements.", "It is a significant monument of landscape architecture."],
     },
-    imageHint: "Pommer Manor Taul red brick building in park",
-  },
+    imageHint: "Pommer Manor Taul red brick building in park", image: "/poi-images/moldova-pommer-manor-history-v2.webp"},
   {
     id: "moldova-zamfir-ralli-mansion-history-v2",
     type: "palace",
@@ -159,8 +152,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Include un muzeu dedicat șederii lui Pușkin.", "Conacul a fost construit la începutul secolului al XIX-lea în stil clasicist.", "Pușkin s-a îndrăgostit aici de tiganca Zemfira.", "Moșia este situată în mijlocul pitoreștilor Codri."],
       en: ["Includes a museum dedicated to Pushkin's stay in Moldova.", "The manor was built in the early 19th century in Classicist style.", "Pushkin famously fell in love with a Roma woman named Zemfira here.", "The estate is located in the middle of the scenic Codru forests."],
     },
-    imageHint: "Zamfir Ralli Mansion Dolna yellow building",
-  },
+    imageHint: "Zamfir Ralli Mansion Dolna yellow building", image: "/poi-images/moldova-zamfir-ralli-mansion-history-v2.webp"},
   {
     id: "moldova-chisinau-triumphal-arch-history-v2",
     type: "monument",
@@ -179,8 +171,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["A fost construit în 1840 de arhitectul Luca Zaușchevici.", "Adăpostește un clopot uriaș turnat din tunurile capturate.", "Mai este numit și 'Porțile Sfinte'.", "Se află direct vizavi de clădirea Guvernului."],
       en: ["Built in 1840 by architect Luca Zaushkevich.", "It houses a huge bell cast from captured Ottoman cannons.", "It is also known as the 'Holy Gates'.", "Stands directly opposite the Government House."],
     },
-    imageHint: "Triumphal Arch Chisinau monument with clock",
-  },
+    imageHint: "Triumphal Arch Chisinau monument with clock", image: "/poi-images/moldova-chisinau-triumphal-arch-history-v2.webp"},
   {
     id: "moldova-stephen-the-great-monument-history-v2",
     type: "monument",
@@ -199,8 +190,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Creat în 1927 de sculptorul Alexandru Plămădeală.", "Monumentul a fost mutat de mai multe ori și ascuns în timpul războaielor.", "Ștefan cel Mare a condus Moldova timp de 47 de ani.", "Statuia este din bronz și stă pe un soclu de granit."],
       en: ["Created in 1927 by sculptor Alexandru Plămădeală.", "The monument was moved several times and hidden during wars.", "Stephen the Great ruled Moldova for 47 years.", "The statue is made of bronze and stands on a granite pedestal."],
     },
-    imageHint: "Stephen the Great monument Chisinau bronze statue",
-  },
+    imageHint: "Stephen the Great monument Chisinau bronze statue", image: "/poi-images/moldova-stephen-the-great-monument-history-v2.webp"},
   {
     id: "moldova-eternity-memorial-complex-history-v2",
     type: "monument",
@@ -219,8 +209,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Dispune de o piramidă înaltă de 25 de metri formată din cinci puști stilizate.", "În centru arde o flacără veșnică.", "Situl a fost inaugurat în 1975, la a 30-a aniversare a victoriei.", "Include numeroase plăci de marmură cu numele celor căzuți."],
       en: ["Features a 25-meter-high pyramid of five stylized rifles.", "An eternal flame burns in the center of the complex.", "The site was inaugurated in 1975 on the 30th anniversary of victory.", "Includes numerous marble plaques with the names of the fallen."],
     },
-    imageHint: "Eternity Memorial Complex Chisinau red pyramid rifles",
-  },
+    imageHint: "Eternity Memorial Complex Chisinau red pyramid rifles", image: "/poi-images/moldova-eternity-memorial-complex-history-v2.webp"},
   {
     id: "moldova-struve-arc-rudi-history-v2",
     type: "monument",
@@ -239,8 +228,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Creat între 1816 și 1855 de Friedrich Georg Wilhelm Struve.", "Punctul de la Rudi a fost stabilit în anul 1847.", "Constă dintr-un lanț de puncte de măsurare prin 10 țări.", "Marcat în 2005 cu un monument sub formă de obelisc."],
       en: ["Created between 1816 and 1855 by Friedrich Georg Wilhelm Struve.", "The Rudi point was accurately established in 1847.", "Consists of a chain of survey triangulations stretching through 10 countries.", "Marked in 2005 with a monument in the shape of an obelisk."],
     },
-    imageHint: "Struve Geodetic Arc Rudi monument obelisk",
-  },
+    imageHint: "Struve Geodetic Arc Rudi monument obelisk", image: "/poi-images/moldova-struve-arc-rudi-history-v2.webp"},
   {
     id: "moldova-condrita-monastery-history-v2",
     type: "church",
@@ -299,8 +287,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Fondată în anul 1740 pe malul pârâului Hîrjauca.", "Biserica principală a fost construită în 1836 în stil clasicist.", "Folosită ca sanatoriu în perioada sovietică.", "Include grădini frumos amenajate și izvoare."],
       en: ["Founded in 1740 on the banks of the Hîrjauca stream.", "The main church was built in 1836 in a classicist style.", "Used as a sanatorium during the Soviet era.", "Features beautifully landscaped gardens and natural springs."],
     },
-    imageHint: "Hirjauca Monastery neoclassical church",
-  },
+    imageHint: "Hirjauca Monastery neoclassical church", image: "/poi-images/moldova-hirjauca-monastery-history-v2.webp"},
   {
     id: "moldova-raciula-monastery-history-v2",
     type: "church",
@@ -359,8 +346,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Fondată în 1784 de boierul Gheorghe Russo.", "Are două biserici: 'Adormirea Maicii Domnului' și 'Sfântul Pantelimon'.", "Închisă în 1959 și folosită ca club sătesc.", "Retrocedată credincioșilor și restaurată în 1990."],
       en: ["Founded in 1784 by the boyar Gheorghe Russo.", "Has two churches: 'Assumption of Mary' and 'St. Panteleimon'.", "Closed in 1959 and used as a village club.", "Returned to the faithful and restored in 1990."],
     },
-    imageHint: "Tabara Monastery Orhei church facade",
-  },
+    imageHint: "Tabara Monastery Orhei church facade", image: "/poi-images/moldova-tabara-monastery-history-v2.webp"},
   {
     id: "moldova-cuizauca-monastery-history-v2",
     type: "church",
@@ -379,8 +365,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["A fost inițial un schit al mănăstirii Saharna.", "Biserica este dedicată Sfântului Vasile cel Mare.", "Situată într-un peisaj forestier liniștit.", "Redeschisă în anii 1990 după decenii de utilizare necorespunzătoare."],
       en: ["Originally a small hermitage (skete) belonging to Saharna.", "The church is dedicated to Saint Basil the Great.", "Located in a quiet and peaceful forest landscape.", "Reopened in the 1990s after decades of neglect and misuse."],
     },
-    imageHint: "Cuizauca Monastery forest church",
-  },
+    imageHint: "Cuizauca Monastery forest church", image: "/poi-images/moldova-cuizauca-monastery-history-v2.webp"},
   {
     id: "moldova-stolniceni-ancient-fortress-history-v2",
     type: "ruins",
@@ -399,8 +384,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Datează din secolele IV-III î.Hr.", "Include valuri de apărare și șanțuri.", "Arheologii au găsit aici amfore grecești și ceramică autohtonă.", "Este una dintre cele mai mari cetăți antice din nordul Moldovei."],
       en: ["Dates back to the 4th-3rd centuries BC.", "Features defensive earthen walls and ditches.", "Archaeologists found Greek amphorae and local pottery here.", "It is one of the largest ancient fortresses in northern Moldova."],
     },
-    imageHint: "Stolniceni archaeological site earthen mounds",
-  },
+    imageHint: "Stolniceni archaeological site earthen mounds", image: "/poi-images/moldova-stolniceni-ancient-fortress-history-v2.webp"},
   {
     id: "moldova-hansca-archaeological-site-history-v2",
     type: "ruins",
@@ -419,8 +403,7 @@ export const moldovaHistoryV2: POI[] = [
       ro: ["Cunoscut pentru descoperirile culturii Cerniahov (sec. III-IV d.Hr.).", "Conține resturi de locuințe adâncite și cuptoare de olar.", "Cercetat intens în anii 1960.", "Considerat o mărturie importantă pentru epoca migrațiilor."],
       en: ["Known for finds from the Chernyakhov culture (3rd-4th centuries AD).", "Contains remains of pit-houses and pottery kilns.", "Extensively researched during the 1960s.", "Regarded as an important testimony to the Migration Period."],
     },
-    imageHint: "Hansca archaeological excavations pottery fragments",
-  },
+    imageHint: "Hansca archaeological excavations pottery fragments", image: "/poi-images/moldova-hansca-archaeological-site-history-v2.webp"},
   {
     id: "moldova-butuceni-village-history-v2",
     type: "village",

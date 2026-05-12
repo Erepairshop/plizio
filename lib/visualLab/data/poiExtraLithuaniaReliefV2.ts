@@ -19,8 +19,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Altitudine de 292,7 metri", "Fostul cel mai înalt punct al țării", "Situat în districtul Vilnius", "Format prin procese glaciare"],
       en: ["Elevation of 292.7 meters", "Formerly the highest point of Lithuania", "Located near Medininkai village", "Formed during the last ice age"],
     },
-    imageHint: "Juozapine Hill summit area Lithuania",
-  },
+    imageHint: "Juozapine Hill summit area Lithuania", image: "/poi-images/lithuania-juozapine-hill-relief-v2.webp"},
   {
     id: "lithuania-kruopine-hill-relief-v2",
     type: "peak",
@@ -39,8 +38,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Al doilea vârf ca înălțime din țară", "Altitudine de 293,4 metri", "Situat în Podișul Medininkai", "Aproape de satul Medininkai"],
       en: ["Second highest point in Lithuania", "Elevation of 293.4 meters", "Part of the Medininkai Highland", "Located near the Belarusian border"],
     },
-    imageHint: "Kruopine hill landscape Lithuania",
-  },
+    imageHint: "Kruopine hill landscape Lithuania", image: "/poi-images/lithuania-kruopine-hill-relief-v2.webp"},
   {
     id: "lithuania-nevaisiai-hill-relief-v2",
     type: "peak",
@@ -59,8 +57,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct din Aukštaitija", "Altitudine de 289 metri", "Situat în districtul Ignalina", "Zonă populară pentru drumeții"],
       en: ["Highest point in Aukštaitija Highland", "Elevation of 289 meters", "Located in Ignalina district", "Significant viewpoint in eastern Lithuania"],
     },
-    imageHint: "Nevaisiai hill landscape Ignalina Lithuania",
-  },
+    imageHint: "Nevaisiai hill landscape Ignalina Lithuania", image: "/poi-images/lithuania-nevaisiai-hill-relief-v2.webp"},
   {
     id: "lithuania-medvegalis-hill-relief-v2",
     type: "peak",
@@ -79,8 +76,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct din regiunea Žemaitija", "Altitudine de 234,6 metri", "Locul unei vechi fortificații", "Format din două culmi apropiate"],
       en: ["Highest point in the Žemaitija Highland", "Elevation of 234.6 meters", "Site of a historical hill fort", "Consists of two distinct peaks"],
     },
-    imageHint: "Medvegalis hill fort and landscape Lithuania",
-  },
+    imageHint: "Medvegalis hill fort and landscape Lithuania", image: "/poi-images/lithuania-medvegalis-hill-relief-v2.webp"},
   {
     id: "lithuania-satrija-hill-relief-v2",
     type: "peak",
@@ -99,8 +95,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Altitudine de 228,7 metri", "Vechi loc de cult păgân", "Proeminent în peisajul din Žemaitija", "Găzduiește un sit arheologic"],
       en: ["Elevation of 228.7 meters", "Ancient pagan cult site", "Part of the Žemaitija Highland", "Significant archaeological hill fort"],
     },
-    imageHint: "Satrija hill and landscape Telšiai district Lithuania",
-  },
+    imageHint: "Satrija hill and landscape Telšiai district Lithuania", image: "/poi-images/lithuania-satrija-hill-relief-v2.webp"},
   {
     id: "lithuania-pavistytis-hill-relief-v2",
     type: "peak",
@@ -119,8 +114,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Altitudine de 282,4 metri", "Vârful maxim din Podișul Sūduva", "Situat în Parcul Regional Vištytis", "Aproape de punctul triplu de frontieră"],
       en: ["Elevation of 282.4 meters", "Highest point in Sūduva Highland", "Located in Vištytis Regional Park", "Near the Polish and Russian borders"],
     },
-    imageHint: "Pavistytis hill view near Vistytis lake Lithuania",
-  },
+    imageHint: "Pavistytis hill view near Vistytis lake Lithuania", image: "/poi-images/lithuania-pavistytis-hill-relief-v2.webp"},
   {
     id: "lithuania-girniu-hill-relief-v2",
     type: "peak",
@@ -139,8 +133,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Altitudine de 194 metri", "Situat în districtul Anykščiai", "Oferă panoramă spre valea Šventoji", "Relief proeminent în regiune"],
       en: ["Elevation of 194 meters", "Located in Anykščiai district", "Views over the Šventoji valley", "Prominent local landform"],
     },
-    imageHint: "Girniu hill Anyksciai district Lithuania",
-  },
+    imageHint: "Girniu hill Anyksciai district Lithuania", image: "/poi-images/lithuania-girniu-hill-relief-v2.webp"},
   {
     id: "lithuania-ladakalnis-hill-relief-v2",
     type: "peak",
@@ -159,8 +152,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Altitudine de 175 metri", "Panoramă asupra a șase lacuri", "În Parcul Național Aukštaitija", "Venerat în trecut de păgâni"],
       en: ["Elevation of 175 meters", "Views of six surrounding lakes", "In Aukštaitija National Park", "Ancient pagan sacrificial site"],
     },
-    imageHint: "Ladakalnis hill view with lakes Lithuania",
-  },
+    imageHint: "Ladakalnis hill view with lakes Lithuania", image: "/poi-images/lithuania-ladakalnis-hill-relief-v2.webp"},
   {
     id: "lithuania-aukstaiciai-upland-relief-v2",
     type: "mountain",
@@ -179,8 +171,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct: Nevaišiai", "Format de activitatea glaciară", "Nucleul zonei lacustre lituaniene", "Situat în partea de est a țării"],
       en: ["Highest point is Nevaišiai Hill", "Formed by glacial processes", "Center of the Lithuanian lake district", "Located in eastern Lithuania"],
     },
-    imageHint: "Aukstaitija highland hilly landscape with lakes Lithuania",
-  },
+    imageHint: "Aukstaitija highland hilly landscape with lakes Lithuania", image: "/poi-images/lithuania-aukstaiciai-upland-relief-v2.webp"},
   {
     id: "lithuania-zemaiciai-upland-relief-v2",
     type: "mountain",
@@ -219,8 +210,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Caracterizat prin soluri nisipoase", "Situat în sud-estul Lituaniei", "Traversat de râul Merkys", "Acoperit de păduri vaste de pin"],
       en: ["Features sandy soil composition", "Located in southeastern Lithuania", "Traversed by the Merkys river", "Vast pine forest coverage"],
     },
-    imageHint: "Dzukija highland forest and hills Lithuania",
-  },
+    imageHint: "Dzukija highland forest and hills Lithuania", image: "/poi-images/lithuania-dzukai-upland-relief-v2.webp"},
   {
     id: "lithuania-medininkai-upland-relief-v2",
     type: "mountain",
@@ -259,8 +249,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct: Pavištytis", "Terenuri agricole fertile", "Situat în sud-vestul țării", "Zonă de frontieră cu Polonia"],
       en: ["Highest point is Pavištytis Hill", "Features very fertile agricultural land", "Located in southwestern Lithuania", "Borders Poland to the south"],
     },
-    imageHint: "Suduva highland agricultural hills Lithuania",
-  },
+    imageHint: "Suduva highland agricultural hills Lithuania", image: "/poi-images/lithuania-suduva-upland-relief-v2.webp"},
   {
     id: "lithuania-middle-lithuanian-lowland-relief-v2",
     type: "valley",
@@ -279,8 +268,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Cea mai mare câmpie din țară", "Inima agriculturii lituaniene", "Formată prin sedimentare", "Relief plat și deschis"],
       en: ["Largest lowland in the country", "Agricultural heartland of Lithuania", "Formed by glaciolacustrine sediments", "Features flat and open relief"],
     },
-    imageHint: "Middle Lithuanian lowland flat agricultural fields",
-  },
+    imageHint: "Middle Lithuanian lowland flat agricultural fields", image: "/poi-images/lithuania-middle-lithuanian-lowland-relief-v2.webp"},
   {
     id: "lithuania-pajuris-lowland-relief-v2",
     type: "valley",
@@ -299,8 +287,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Situată pe coasta Mării Baltice", "Relief nisipos și jos", "Include Laguna Curoniană", "Regiune importantă pentru turism"],
       en: ["Located along the Baltic coast", "Features sandy and flat relief", "Includes the Curonian Lagoon coast", "Major region for tourism"],
     },
-    imageHint: "Pajuris lowland coastal landscape Lithuania",
-  },
+    imageHint: "Pajuris lowland coastal landscape Lithuania", image: "/poi-images/lithuania-pajuris-lowland-relief-v2.webp"},
   {
     id: "lithuania-nemunas-delta-relief-v2",
     type: "valley",
@@ -339,8 +326,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Creastă de sedimente glaciare", "Lungime de 1,1 kilometri", "Monument al naturii în Vilnius", "Înălțime de până la 18 metri"],
       en: ["Glacial sediment ridge", "Length of 1.1 kilometers", "Natural monument in Vilnius", "Height up to 18 meters"],
     },
-    imageHint: "Seskine esker ridge park Vilnius Lithuania",
-  },
+    imageHint: "Seskine esker ridge park Vilnius Lithuania", image: "/poi-images/lithuania-seskine-esker-relief-v2.webp"},
   {
     id: "lithuania-linkuva-ridge-relief-v2",
     type: "peak",
@@ -359,8 +345,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Morenă glaciară în nord", "Situată lângă Linkuva", "Altitudine de până la 100 m", "Formată de ghețari"],
       en: ["Moraine ridge in the north", "Located near Linkuva town", "Elevation up to 100 meters", "Formed by glacial activity"],
     },
-    imageHint: "Linkuva ridge moraine landscape Lithuania",
-  },
+    imageHint: "Linkuva ridge moraine landscape Lithuania", image: "/poi-images/lithuania-linkuva-ridge-relief-v2.webp"},
   {
     id: "lithuania-karsuva-plain-relief-v2",
     type: "valley",
@@ -379,8 +364,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Câmpie joasă nisipoasă", "Acoperită de păduri mari", "Conține dune continentale", "Situată în sud-vest"],
       en: ["Sandy lowland area", "Large forest coverage", "Contains inland sand dunes", "Located in southwestern Lithuania"],
     },
-    imageHint: "Karsuva plain forest and sandy landscape",
-  },
+    imageHint: "Karsuva plain forest and sandy landscape", image: "/poi-images/lithuania-karsuva-plain-relief-v2.webp"},
   {
     id: "lithuania-zeimena-plain-relief-v2",
     type: "valley",
@@ -399,8 +383,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Câmpie de tip sandur", "Sol preponderent nisipos", "Păduri de pin extinse", "Traversată de râul Žeimena"],
       en: ["Glacial outwash plain", "Sandy soil composition", "Dominated by pine forests", "Traversed by the Žeimena river"],
     },
-    imageHint: "Zeimena plain pine forest Lithuania",
-  },
+    imageHint: "Zeimena plain pine forest Lithuania", image: "/poi-images/lithuania-zeimena-plain-relief-v2.webp"},
   {
     id: "lithuania-dysna-plain-relief-v2",
     type: "valley",
@@ -419,8 +402,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Fost fund de lac glaciar", "Zonă joasă mlăștinoasă", "Situată în nord-est", "Parte din bazinul râului Dysna"],
       en: ["Former glacial lake bed", "Marshy lowland area", "Located in the northeast", "Part of the Dysna river basin"],
     },
-    imageHint: "Dysna plain marshy landscape Lithuania",
-  },
+    imageHint: "Dysna plain marshy landscape Lithuania", image: "/poi-images/lithuania-dysna-plain-relief-v2.webp"},
   {
     id: "lithuania-musa-nemunelis-lowland-relief-v2",
     type: "valley",
@@ -439,8 +421,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Zonă carstică în nord", "Prezintă numeroase doline", "Biržai este situat aici", "Soluri argiloase fertile"],
       en: ["Karst region in the north", "Numerous sinkholes present", "Biržai town is located here", "Fertile clay soil composition"],
     },
-    imageHint: "Musa-Nemunelis lowland karst sinkhole Birzai Lithuania",
-  },
+    imageHint: "Musa-Nemunelis lowland karst sinkhole Birzai Lithuania", image: "/poi-images/lithuania-musa-nemunelis-lowland-relief-v2.webp"},
   {
     id: "lithuania-sesupe-lowland-relief-v2",
     type: "valley",
@@ -459,8 +440,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Bazinul râului Šešupė", "Soluri aluviale fertile", "Relief plat în sud-vest", "Inima agriculturii din Suvalkija"],
       en: ["Basin of the Šešupė river", "Fertile alluvial soils", "Flat relief in the southwest", "Core of Suvalkija agriculture"],
     },
-    imageHint: "Sesupe lowland river valley and fields Lithuania",
-  },
+    imageHint: "Sesupe lowland river valley and fields Lithuania", image: "/poi-images/lithuania-sesupe-lowland-relief-v2.webp"},
   {
     id: "lithuania-birute-hill-relief-v2",
     type: "peak",
@@ -479,8 +459,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Altitudine de 21 metri", "Dună litorală în Palanga", "Vechi loc de cult păgân", "Găzduiește o capelă pe vârf"],
       en: ["Elevation of 21 meters", "Coastal dune in Palanga", "Ancient pagan cult site", "Topped by a small chapel"],
     },
-    imageHint: "Birute hill with chapel Palanga Lithuania",
-  },
+    imageHint: "Birute hill with chapel Palanga Lithuania", image: "/poi-images/lithuania-birute-hill-relief-v2.webp"},
   {
     id: "lithuania-ginuciai-hill-relief-v2",
     type: "peak",
@@ -499,8 +478,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Pante abrupte ale dealului", "Situat între două lacuri", "În Parcul Național Aukštaitija", "Monument arheologic protejat"],
       en: ["Steep hill slopes", "Located between two lakes", "In Aukštaitija National Park", "Significant archaeological site"],
     },
-    imageHint: "Ginuciai hill fort and lakes Lithuania",
-  },
+    imageHint: "Ginuciai hill fort and lakes Lithuania", image: "/poi-images/lithuania-ginuciai-hill-relief-v2.webp"},
   {
     id: "lithuania-dyburiai-escarpment-relief-v2",
     type: "peak",
@@ -519,8 +497,7 @@ export const lithuaniaReliefV2: POI[] = [
       ro: ["Vedere spre bucla Minija", "Escarpament fluvial abrupt", "În Parcul Regional Salantai", "Formațiune geologică vizibilă"],
       en: ["View of the Minija River loop", "Steep river escarpment", "In Salantai Regional Park", "Exposed geological formation"],
     },
-    imageHint: "Dyburiai river loop view Minija Lithuania",
-  },
+    imageHint: "Dyburiai river loop view Minija Lithuania", image: "/poi-images/lithuania-dyburiai-escarpment-relief-v2.webp"},
   {
     id: "lithuania-puckoriai-exposure-relief-v2",
     type: "peak",

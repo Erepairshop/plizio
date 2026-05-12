@@ -19,8 +19,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Formată din nouă capele individuale", "Construită între anii 1555 și 1561", "Nume oficial: Catedrala Acoperământului Maicii Domnului", "Inclusă în patrimoniul UNESCO din 1990"],
       en: ["Consists of nine individual chapels", "Built between 1555 and 1561", "Official name: Cathedral of the Intercession of the Most Holy Theotokos", "UNESCO World Heritage site since 1990"],
     },
-    imageHint: "Saint Basil's Cathedral Moscow Red Square colorful domes",
-  },
+    imageHint: "Saint Basil's Cathedral Moscow Red Square colorful domes", image: "/poi-images/russia-saint-basils-cathedral-landmarks-v2.webp"},
   {
     id: "russia-hermitage-museum-landmarks-v2",
     type: "museum",
@@ -39,8 +38,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Fondat în 1764 de Ecaterina cea Mare", "Clădirea principală este Palatul de Iarnă", "Deține opere de Leonardo da Vinci și Rembrandt", "Are o colonie proprie de pisici pentru paza contra rozătoarelor"],
       en: ["Founded in 1764 by Catherine the Great", "The main building is the Winter Palace", "Houses works by Leonardo da Vinci and Rembrandt", "Maintains a colony of cats to protect art from rodents"],
     },
-    imageHint: "Winter Palace Hermitage Museum Saint Petersburg green facade",
-  },
+    imageHint: "Winter Palace Hermitage Museum Saint Petersburg green facade", image: "/poi-images/russia-hermitage-museum-landmarks-v2.webp"},
   {
     id: "russia-motherland-calls-landmarks-v2",
     type: "monument",
@@ -59,8 +57,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Înălțimea statuii fără soclu este de 85 de metri", "Finalizată în anul 1967", "Numai sabia cântărește 14 tone", "Simbolizează rezistența împotriva fascismului"],
       en: ["Height of the statue without pedestal is 85 meters", "Completed in 1967", "The sword alone weighs 14 tons", "Symbolizes the resistance against fascism"],
     },
-    imageHint: "The Motherland Calls statue Volgograd Mamayev Kurgan",
-  },
+    imageHint: "The Motherland Calls statue Volgograd Mamayev Kurgan", image: "/poi-images/russia-motherland-calls-landmarks-v2.webp"},
   {
     id: "russia-savior-on-spilled-blood-landmarks-v2",
     type: "church",
@@ -79,8 +76,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Construită între 1883 și 1907", "Conține peste 7.500 de metri pătrați de mozaicuri", "Stilul seamănă cu cel al Catedralei Sf. Vasile din Moscova", "A servit drept depozit de legume în Al Doilea Război Mondial"],
       en: ["Built between 1883 and 1907", "Contains over 7,500 square meters of mosaics", "Style resembles Saint Basil's Cathedral in Moscow", "Used as a vegetable warehouse during WWII"],
     },
-    imageHint: "Church of the Savior on Spilled Blood Saint Petersburg mosaics",
-  },
+    imageHint: "Church of the Savior on Spilled Blood Saint Petersburg mosaics", image: "/poi-images/russia-savior-on-spilled-blood-landmarks-v2.webp"},
   {
     id: "russia-bolshoi-theatre-landmarks-v2",
     type: "theater",
@@ -99,8 +95,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Apare pe bancnota rusească de 100 de ruble", "Numele 'Bolșoi' înseamnă pur și simplu 'Mare'", "Are una dintre cele mai bune acustici din lume", "Renovat complet între anii 2005 și 2011"],
       en: ["Depicted on the Russian 100-ruble banknote", "The name 'Bolshoi' simply means 'Big'", "Boasts one of the best acoustics in the world", "Underwent massive renovation between 2005 and 2011"],
     },
-    imageHint: "Bolshoi Theatre Moscow facade and Quadriga statue",
-  },
+    imageHint: "Bolshoi Theatre Moscow facade and Quadriga statue", image: "/poi-images/russia-bolshoi-theatre-landmarks-v2.webp"},
   {
     id: "russia-ostankino-tower-landmarks-v2",
     type: "tower",
@@ -119,8 +114,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Înălțime totală: 540 de metri", "Dat în folosință în anul 1967", "Are o platformă de observație cu podea de sticlă", "A deținut recordul mondial de înălțime timp de 10 ani"],
       en: ["Total height is 540 meters", "Commissioned in 1967", "Features an observation deck with a glass floor", "Held the world record for tallest tower for 10 years"],
     },
-    imageHint: "Ostankino Tower Moscow tall structure",
-  },
+    imageHint: "Ostankino Tower Moscow tall structure", image: "/poi-images/russia-ostankino-tower-landmarks-v2.webp"},
   {
     id: "russia-christ-the-saviour-cathedral-landmarks-v2",
     type: "cathedral",
@@ -139,8 +133,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Înălțime maximă: 103 metri", "Capacitate de până la 10.000 de credincioși", "Pe locul bisericii a existat o piscină în epoca sovietică", "Construită inițial pentru a marca victoria asupra lui Napoleon"],
       en: ["Maximum height is 103 meters", "Capacity for up to 10,000 worshippers", "An outdoor swimming pool once stood on its site", "Built to commemorate the victory over Napoleon"],
     },
-    imageHint: "Cathedral of Christ the Saviour Moscow white walls golden domes",
-  },
+    imageHint: "Cathedral of Christ the Saviour Moscow white walls golden domes", image: "/poi-images/russia-christ-the-saviour-cathedral-landmarks-v2.webp"},
   {
     id: "russia-smolny-convent-landmarks-v2",
     type: "monastery",
@@ -159,8 +152,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Arhitectul a fost Bartolomeo Rastrelli", "Construcția a durat aproape 90 de ani", "Catedrala principală a rămas mult timp nefinalizată la interior", "A servit ca institut de educație în secolul al XIX-lea"],
       en: ["Designed by architect Bartolomeo Rastrelli", "Construction spanned nearly 90 years", "The main cathedral remained unfinished internally for decades", "Served as an educational institute in the 19th century"],
     },
-    imageHint: "Smolny Convent Saint Petersburg blue and white Baroque",
-  },
+    imageHint: "Smolny Convent Saint Petersburg blue and white Baroque", image: "/poi-images/russia-smolny-convent-landmarks-v2.webp"},
   {
     id: "russia-pskov-krom-landmarks-v2",
     type: "fortress",
@@ -179,8 +171,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Inima complexului este Catedrala Sfânta Treime", "Înconjurat de ziduri masive de piatră", "A servit drept bastion defensiv în Evul Mediu", "Adăpostește cea mai mare cameră de adunare medievală"],
       en: ["The Trinity Cathedral is the heart of the complex", "Enclosed by massive medieval stone walls", "Served as a defensive bastion against the West", "Contains the largest medieval assembly chamber"],
     },
-    imageHint: "Pskov Krom fortress walls and river",
-  },
+    imageHint: "Pskov Krom fortress walls and river", image: "/poi-images/russia-pskov-krom-landmarks-v2.webp"},
   {
     id: "russia-rostov-kremlin-landmarks-v2",
     type: "fortress",
@@ -199,8 +190,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Construit la sfârșitul secolului al XVII-lea", "Are 15 clopote magnifice în galeria de clopote", "A servit ca platou de filmare pentru filme sovietice celebre", "Situat chiar pe malul lacului Nero"],
       en: ["Built in the late 17th century", "Features 15 magnificent bells in its belfry", "Used as a filming location for classic Soviet movies", "Located right on the shores of Lake Nero"],
     },
-    imageHint: "Rostov Kremlin white walls and silver domes",
-  },
+    imageHint: "Rostov Kremlin white walls and silver domes", image: "/poi-images/russia-rostov-kremlin-landmarks-v2.webp"},
   {
     id: "russia-kul-sharif-mosque-landmarks-v2",
     type: "church",
@@ -219,8 +209,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Inaugurată în anul 2005", "Are opt minarete", "Găzduiește un muzeu al Islamului din regiunea Volgăi", "Simbol important pentru Republica Tatarstan"],
       en: ["Opened in 2005", "Features eight minarets", "Houses a museum of Islam in the Volga region", "Major symbol of the Republic of Tatarstan"],
     },
-    imageHint: "Kul Sharif Mosque Kazan blue roof white walls",
-  },
+    imageHint: "Kul Sharif Mosque Kazan blue roof white walls", image: "/poi-images/russia-kul-sharif-mosque-landmarks-v2.webp"},
   {
     id: "russia-gum-landmarks-v2",
     type: "landmark",
@@ -239,8 +228,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Construit între 1890 și 1893", "Are o lungime totală de aproape 250 de metri", "Format din trei galerii comerciale paralele", "Cunoscut în epoca țaristă sub numele de 'Rândurile Comerciale de Sus'"],
       en: ["Built between 1890 and 1893", "Total length is nearly 250 meters", "Consists of three parallel shopping arcades", "Known as the Upper Trading Rows during the Tsarist era"],
     },
-    imageHint: "GUM department store Moscow interior glass roof",
-  },
+    imageHint: "GUM department store Moscow interior glass roof", image: "/poi-images/russia-gum-landmarks-v2.webp"},
   {
     id: "russia-mariinsky-theatre-landmarks-v2",
     type: "theater",
@@ -259,8 +247,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Deschis în anul 1860", "Numit după împărăteasa Maria Alexandrovna", "Casa celebrului Balet Kirov", "Are o a doua scenă modernă (Mariinski-2)"],
       en: ["Opened in 1860", "Named after Empress Maria Alexandrovna", "Home to the world-famous Kirov Ballet", "Features a modern second stage (Mariinsky II)"],
     },
-    imageHint: "Mariinsky Theatre Saint Petersburg facade",
-  },
+    imageHint: "Mariinsky Theatre Saint Petersburg facade", image: "/poi-images/russia-mariinsky-theatre-landmarks-v2.webp"},
   {
     id: "russia-palace-bridge-landmarks-v2",
     type: "bridge",
@@ -279,8 +266,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Construit între 1912 și 1916", "Traversează râul Neva", "Are o greutate totală de aproximativ 700 de tone", "Vizitat intens în timpul perioadei 'Nopților Albe'"],
       en: ["Built between 1912 and 1916", "Spans the Neva River", "Total weight is approximately 700 tons", "Particularly popular during the 'White Nights' season"],
     },
-    imageHint: "Palace Bridge Saint Petersburg open at night",
-  },
+    imageHint: "Palace Bridge Saint Petersburg open at night", image: "/poi-images/russia-palace-bridge-landmarks-v2.webp"},
   {
     id: "russia-peter-the-great-monument-landmarks-v2",
     type: "monument",
@@ -299,8 +285,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Înălțime totală: aproximativ 98 de metri", "Proiectat de sculptorul Zurab Tsereteli", "Conține circa 600 de tone de oțel inoxidabil și bronz", "Este unul dintre cele mai controversate monumente din Moscova"],
       en: ["Total height is approximately 98 meters", "Designed by the sculptor Zurab Tsereteli", "Contains around 600 tons of stainless steel and bronze", "Considered one of Moscow's most controversial landmarks"],
     },
-    imageHint: "Peter the Great Monument Moscow river ship",
-  },
+    imageHint: "Peter the Great Monument Moscow river ship", image: "/poi-images/russia-peter-the-great-monument-landmarks-v2.webp"},
   {
     id: "russia-church-of-ascension-kolomenskoye-landmarks-v2",
     type: "church",
@@ -319,8 +304,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Patrimoniu Mondial UNESCO din 1994", "Construită în anul 1532", "Prima biserică majoră din piatră cu acest tip de acoperiș", "Situată pe o colină înaltă deasupra râului Moscova"],
       en: ["UNESCO World Heritage site since 1994", "Built in 1532", "The first major stone church of this design type", "Located on a high hill overlooking the Moskva River"],
     },
-    imageHint: "Church of the Ascension Kolomenskoye tent roof",
-  }
+    imageHint: "Church of the Ascension Kolomenskoye tent roof", image: "/poi-images/russia-church-of-ascension-kolomenskoye-landmarks-v2.webp"}
 ,
   {
     id: "russia-novodevichy-convent-landmarks-v2",
@@ -360,8 +344,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1872 la Moscova", "Situat direct în Piața Roșie", "Găzduiește peste 4 milioane de exponate", "Arhitectură în stil neogotic rus"],
       en: ["Founded in 1872 in Moscow", "Located directly on Red Square", "Houses over 4 million historical exhibits", "Architecture in the Russian Neo-Gothic style"],
     },
-    imageHint: "State Historical Museum red brick building on Red Square Moscow",
-  },
+    imageHint: "State Historical Museum red brick building on Red Square Moscow", image: "/poi-images/russia-state-historical-museum-landmarks-v2.webp"},
   {
     id: "russia-alexander-palace-landmarks-v2",
     type: "palace",
@@ -380,8 +363,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Reședința preferată a împăratului Nicolae al II-lea", "Proiectat de arhitectul Giacomo Quarenghi", "Construit în stil neoclasic", "Locul arestului la domiciliu al familiei țarului în 1917"],
       en: ["Favorite residence of Emperor Nicholas II", "Designed by the architect Giacomo Quarenghi", "Built in the Neoclassical style", "Site of the imperial family's house arrest in 1917"],
     },
-    imageHint: "Alexander Palace Neoclassical facade in Tsarskoye Selo",
-  }
+    imageHint: "Alexander Palace Neoclassical facade in Tsarskoye Selo", image: "/poi-images/russia-alexander-palace-landmarks-v2.webp"}
 ,
   {
     id: "russia-saint-isaacs-cathedral-landmarks-v2",
@@ -421,8 +403,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Construită între 1801 și 1811", "96 de coloane corintice în colonadă", "Modelată după Bazilica Sfântul Petru din Roma", "Adăpostește icoana Maicii Domnului din Kazan"],
       en: ["Built from 1801 to 1811", "96 Corinthian columns in the colonnade", "Modeled after St. Peter's Basilica in Rome", "Houses the icon of Our Lady of Kazan"],
     },
-    imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
-  },
+    imageHint: "Kazan Cathedral Saint Petersburg colonnade view", image: "/poi-images/russia-kazan-cathedral-landmarks-v2.webp"},
   {
     id: "russia-tsaritsyno-palace-landmarks-v2",
     type: "palace",
@@ -441,8 +422,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Singura rezidență gotică din Rusia", "Construcția a început în 1775", "Restaurat complet în anul 2007", "Include un parc de 400 de hectare"],
       en: ["Only Gothic residence in Russia", "Construction began in 1775", "Fully restored and completed in 2007", "Surrounded by a 400-hectare park"],
     },
-    imageHint: "Tsaritsyno Palace red brick architecture Moscow",
-  },
+    imageHint: "Tsaritsyno Palace red brick architecture Moscow", image: "/poi-images/russia-tsaritsyno-palace-landmarks-v2.webp"},
   {
     id: "russia-tretyakov-gallery-landmarks-v2",
     type: "museum",
@@ -461,8 +441,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Fondată în 1856 de Pavel Tretiakov", "Peste 130.000 de opere de artă", "Deține icoana Treimii de Andrei Rubliov", "Fațadă proiectată de Viktor Vasnețov"],
       en: ["Founded in 1856 by Pavel Tretyakov", "Over 130,000 works of art", "Home to Rublev's Trinity icon", "Facade designed by Viktor Vasnetsov"],
     },
-    imageHint: "Tretyakov Gallery facade in Moscow",
-  },
+    imageHint: "Tretyakov Gallery facade in Moscow", image: "/poi-images/russia-tretyakov-gallery-landmarks-v2.webp"},
   {
     id: "russia-russian-museum-landmarks-v2",
     type: "museum",
@@ -481,8 +460,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Fondat în 1895 de Nicolae al II-lea", "Colecția cuprinde 400.000 de obiecte", "Clădirea principală este un palat Empire", "Opere din secolul X până în secolul XXI"],
       en: ["Established in 1895 by Nicholas II", "Collection includes 400,000 items", "Main building is an Empire-style palace", "Works from 10th to 21st century"],
     },
-    imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg",
-  },
+    imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg", image: "/poi-images/russia-russian-museum-landmarks-v2.webp"},
   {
     id: "russia-tobolsk-kremlin-landmarks-v2",
     type: "castle",
@@ -501,8 +479,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Construit la sfârșitul secolului al XVII-lea", "Include Catedrala Sfânta Sofia", "Exemplu unic de arhitectură siberiană", "Fostul centru administrativ al Siberiei"],
       en: ["Built in the late 17th century", "Includes the St. Sophia Cathedral", "Unique example of Siberian architecture", "Former administrative center of Siberia"],
     },
-    imageHint: "Tobolsk Kremlin white stone walls Siberia",
-  },
+    imageHint: "Tobolsk Kremlin white stone walls Siberia", image: "/poi-images/russia-tobolsk-kremlin-landmarks-v2.webp"},
   {
     id: "russia-russky-bridge-landmarks-v2",
     type: "bridge",
@@ -521,8 +498,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Deschidere principală de 1.104 metri", "Pilonii au 324 de metri înălțime", "Construit pentru summitul APEC 2012", "Reprezentat pe bancnota de 2000 de ruble"],
       en: ["Main span of 1,104 meters", "Pylons are 324 meters high", "Built for the 2012 APEC summit", "Featured on the 2000 ruble banknote"],
     },
-    imageHint: "Russky Bridge cable-stayed Vladivostok",
-  },
+    imageHint: "Russky Bridge cable-stayed Vladivostok", image: "/poi-images/russia-russky-bridge-landmarks-v2.webp"},
   {
     id: "russia-tula-kremlin-landmarks-v2",
     type: "castle",
@@ -541,8 +517,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Construit între 1507 și 1520", "Are 9 turnuri de apărare", "Nu a fost niciodată cucerit în istoria sa", "Adăpostește Catedrala Adormirii"],
       en: ["Built from 1507 to 1520", "Features 9 defensive towers", "Never captured in its entire history", "Houses the Uspensky Cathedral"],
     },
-    imageHint: "Tula Kremlin red brick walls and towers",
-  },
+    imageHint: "Tula Kremlin red brick walls and towers", image: "/poi-images/russia-tula-kremlin-landmarks-v2.webp"},
   {
     id: "russia-kuskovo-estate-landmarks-v2",
     type: "palace",
@@ -561,8 +536,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Palat din lemn în stil neoclasic", "Are o grădină barocă franceză", "Găzduiește Muzeul de Ceramică", "Construit între 1737 și 1792"],
       en: ["Wooden palace in Neoclassical style", "Features a large French formal park", "Houses the State Museum of Ceramics", "Built between 1737 and 1792"],
     },
-    imageHint: "Kuskovo Estate pink palace and pond",
-  },
+    imageHint: "Kuskovo Estate pink palace and pond", image: "/poi-images/russia-kuskovo-estate-landmarks-v2.webp"},
   {
     id: "russia-nizhny-novgorod-kremlin-landmarks-v2",
     type: "castle",
@@ -581,8 +555,7 @@ export const russiaLandmarksV2: POI[] = [
       ro: ["Construit între 1500 și 1515", "Are 13 turnuri de apărare masive", "Ziduri groase de până la 5 metri", "Centrul mișcării de eliberare din 1612"],
       en: ["Built between 1500 and 1515", "Has 13 massive defensive towers", "Walls are up to 5 meters thick", "Center of the 1612 national uprising"],
     },
-    imageHint: "Nizhny Novgorod Kremlin walls on a hill",
-  },
+    imageHint: "Nizhny Novgorod Kremlin walls on a hill", image: "/poi-images/russia-nizhny-novgorod-kremlin-landmarks-v2.webp"},
   {
     id: "russia-smolensk-fortress-wall-landmarks-v2",
     type: "landmark",

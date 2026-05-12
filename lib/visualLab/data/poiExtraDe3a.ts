@@ -47,8 +47,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Universitatea din Rostock a fost fondată în anul 1419, fiind a treia ca vechime din Germania.", "Biserica Sf. Maria deține un ceas astronomic din 1472 care funcționează și astăzi.", "Hanse Sail atrage anual peste un milion de vizitatori și sute de nave cu pânze.", "Primăria orașului combină fațada gotică cu elemente baroce adăugate ulterior.", "Warnemünde este unul dintre cele mai populare porturi de croazieră din Germania.", "Zidul orașului păstrează secțiuni lungi și porți fortificate precum Kröpeliner Tor."],
       en: ["Home to the University of Rostock, the oldest in Northern Europe (1419).", "Host of the Hanse Sail, attracting over 200 traditional tall ships annually.", "Features St. Mary's Church with its 15th-century astronomical clock.", "The city's seaside resort, Warnemünde, has one of the widest beaches.", "A major European center for the offshore wind energy industry.", "Rostock Port is the busiest ferry port on the German Baltic coast."]
-    },
-  },
+    }, image: "/poi-images/city-rostock-extra.webp"},
   {
     id: "city-stralsund-extra",
     type: "city",
@@ -94,8 +93,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Centrul vechi al orașului face parte din UNESCO împreună cu Wismar din 2002.", "Ozeaneum a fost ales 'Muzeul European al Anului' în 2010.", "Primăria din Stralsund este o capodoperă a stilului gotic în cărămidă nord-german.", "Nava-școală istorică 'Gorch Fock' este ancorată permanent în portul orașului.", "Pacea de la Stralsund din 1370 a marcat victoria Ligii Hanseatice asupra Danemarcei.", "Orașul este înconjurat aproape complet de apă, fiind conectat la uscat prin diguri."],
       en: ["UNESCO World Heritage site since 2002 (Old Town ensemble).", "Known as the 'Gateway to Rügen' due to its strategic location.", "Home to the Ozeaneum, European Museum of the Year 2010.", "The Town Hall features a spectacular 14th-century brick facade.", "Historically a major center for the Hanseatic herring trade.", "Features three massive brick-Gothic 'parish' churches."]
-    },
-  },
+    }, image: "/poi-images/city-stralsund-extra.webp"},
   {
     id: "island-ruegen-extra",
     type: "island",
@@ -141,8 +139,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Rügen are o suprafață de 926 de kilometri pătrați, fiind cea mai mare insulă germană.", "Stânca Königsstuhl (Scaunul Regelui) are o înălțime de 118 metri deasupra mării.", "Podul Rügenbrücke de 2,8 km leagă insula de orașul hanseatic Stralsund.", "Găzduiește două parcuri naționale și o rezervație a biosferei UNESCO.", "Calea ferată istorică 'Rasender Roland' funcționează cu locomotive cu aburi din 1895.", "Prora, 'Colosul de la Rügen', este o clădire lungă de 4,5 km construită în perioada nazistă."],
       en: ["Germany's largest island, covering an area of 926 square kilometers.", "Home to the Königsstuhl, a 118-meter high white chalk cliff.", "Features the Jasmund National Park, a UNESCO World Heritage site.", "Famous for its historic 'Racing Roland' (Rasender Roland) steam railway.", "Connected to the mainland via the 4-kilometer long Rügen Bridge.", "The Prora complex is one of the world's longest continuous buildings."]
-    },
-  },
+    }, image: "/poi-images/island-ruegen-extra.webp"},
   {
     id: "island-usedom-extra",
     type: "island",
@@ -188,8 +185,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Usedom este cea mai însorită regiune a Germaniei, cu o medie de 1.900 de ore de soare anual.", "Promenada care leagă Bansin de Świnoujście are o lungime totală de 12 kilometri.", "Podul de la Heringsdorf este cel mai lung pod de agrement (pier) din Germania (508 m).", "Peenemünde a fost locul unde s-au dezvoltat primele rachete balistice din lume (V2).", "Insula are peste 40 de kilometri de plajă continuă cu nisip alb și fin.", "Este a doua cea mai mare insulă germană după Rügen, cu 445 km pătrați."],
       en: ["Known as the 'Sun Island' due to its high number of sunshine hours.", "Features Europe's longest continuous sandy beach (42 kilometers).", "Home to the three historic 'Imperial Spas' (Kaiserbäder).", "Heringsdorf Pier is the longest in Germany at 508 meters.", "Historically the site of the Peenemünde Army Research Center.", "The island is shared between Germany (approx. 80%) and Poland."]
-    },
-  },
+    }, image: "/poi-images/island-usedom-extra.webp"},
   {
     id: "city-schwerin-extra",
     type: "state-capital",
@@ -235,8 +231,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Castelul Schwerin este inclus în patrimoniul mondial UNESCO din anul 2024.", "Este cea mai mică capitală de land din Germania după numărul de locuitori.", "Castelul are 635 de camere, cea mai spectaculoasă fiind Sala Tronului.", "Lacul Schwerin este al patrulea ca mărime din Germania, cu o suprafață de 61 km².", "Muzeul de Stat deține una dintre cele mai importante colecții de pictură olandeză.", "Orașul a fost sediul ducilor de Mecklenburg-Schwerin timp de secole."],
       en: ["The smallest state capital in Germany, known for its seven lakes.", "Home to Schwerin Castle, the 'Neuschwanstein of the North'.", "The castle served as the seat of the Grand Dukes for centuries.", "Features a 14th-century Gothic cathedral made of red brick.", "The castle gardens are a masterpiece of Baroque and English styles.", "A premier candidate for UNESCO World Heritage status (Residence ensemble)."]
-    },
-  },
+    }, image: "/poi-images/city-schwerin-extra.webp"},
   {
     id: "lake-mueritz-extra",
     type: "lake",
@@ -282,8 +277,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Suprafața lacului Müritz este de 117 kilometri pătrați.", "Face parte dintr-o rețea de peste 1.000 de lacuri în platoul Mecklenburg.", "Adâncimea medie este relativ mică, de aproximativ 6 metri.", "Müritz-Nationalpark este cel mai mare parc național terestru din Germania.", "Apa lacului este de o calitate excelentă, fiind o sursă importantă de biodiversitate.", "Canalul Elde-Müritz leagă lacul de fluviul Elbe."],
       en: ["The largest lake entirely within Germany (117 square kilometers).", "The name 'Müritz' is derived from a Slavic word meaning 'Little Sea'.", "Home to the Müritz National Park, a UNESCO Natural Heritage site.", "The lake reaches a maximum depth of approximately 31 meters.", "A major European center for sustainable canoe and houseboat tourism.", "A critical stopover point for thousands of migrating cranes."]
-    },
-  },
+    }, image: "/poi-images/lake-mueritz-extra.webp"},
   {
     id: "river-warnow-extra",
     type: "river",
@@ -329,8 +323,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Are o lungime de 155 de kilometri.", "Tunelul Warnow este primul tunel rutier privat din Germania construit pe sub un râu.", "Warnemünde (Gura Warnow-ului) a fost cumpărat de Rostock în 1323 pentru a asigura accesul la mare.", "Cursul superior al râului este o arie protejată pentru conservarea speciilor de pești.", "Râul este scena festivalului Hanse Sail, unde nave istorice defilează pe apele sale.", "Warnow este un râu cu maree în secțiunea sa inferioară, sub influența Mării Baltice."],
       en: ["A 155-kilometer long river flowing into the Baltic Sea.", "Forms the natural harbor of Rostock at its mouth (Warnemünde).", "Passes through the scenic 'Warnow-Durchbruchstal' nature reserve.", "Historically the primary defensive line for the city of Rostock.", "The river is navigated by thousands of sailing ships every summer.", "Provides the source of cooling water for Rostock's industrial zones."]
-    },
-  },
+    }, image: "/poi-images/river-warnow-extra.webp"},
   {
     id: "port-wismar-extra",
     type: "port",
@@ -376,8 +369,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Centrul istoric al orașului Wismar este în lista UNESCO din anul 2002.", "Portul este un lider în manipularea componentelor pentru parcurile eoliene.", "Bazinul portuar istoric (Alter Hafen) este o destinație turistică celebră pentru peștele proaspăt.", "Wismar a aparținut regatului Suediei între 1648 și 1903, fapt ce a marcat arhitectura portului.", "Șantierul naval local deține una dintre cele mai mari hale de construcție navale din Europa.", "Este situat strategic pe traseul autostrăzii A20, facilitând distribuția spre interiorul țării."],
       en: ["Part of the Wismar UNESCO World Heritage site since 2002.", "A leading European hub for the export of forest products.", "Features the 'Alter Hafen', one of the most authentic medieval ports.", "Home to one of the largest covered shipbuilding halls in the world.", "The port was a major Swedish naval base in the 17th and 18th centuries.", "The 'Poeler Kogge' is a faithful reconstruction of a 14th-century ship."]
-    },
-  },
+    }, image: "/poi-images/port-wismar-extra.webp"},
   {
     id: "forest-darss-extra",
     type: "forest",
@@ -423,8 +415,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Face parte din Parcul Național Vorpommersche Boddenlandschaft, fondat în 1990.", "Copacii 'Windflüchter' sunt simbolul parcului, fiind modelați de vântul marin.", "Pădurea se întinde pe o suprafață de aproximativ 5.800 de hectare.", "Este interzisă intervenția umană în zonele de nucleu pentru a permite dezvoltarea naturală.", "Farul Darßer Ort, situat la marginea pădurii, este un punct de reper din 1848.", "Adăpostește specii rare precum cerbul roșu și vulturul codalb."],
       en: ["Part of the Western Pomerania Lagoon Area National Park.", "Famous for the 'Darßer Weststrand', one of Europe's wildest beaches.", "Features unique 'Windflüchter' – trees permanently bent by the wind.", "Home to a massive population of red deer that roam the dunes.", "The forest covers approximately 4,700 hectares of the peninsula.", "Contains the 'Darßer Ort' lighthouse, a 19th-century landmark."]
-    },
-  },
+    }, image: "/poi-images/forest-darss-extra.webp"},
   {
     id: "historical-greifswald-extra",
     type: "historical",
@@ -470,8 +461,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Caspar David Friedrich, cel mai important pictor romantic german, s-a născut aici în 1774.", "Universitatea din Greifswald, fondată în 1456, este a doua ca vechime din nordul Europei.", "Orașul a aparținut regatului Suediei timp de aproape 200 de ani (1648-1815).", "Catedrala Sf. Nicolae deține un turn baroc spectaculos, simbol al orașului.", "Găzduiește Centrul Caspar David Friedrich, dedicat operei marelui artist.", "Muzeul Pomeraniei (Pommersches Landesmuseum) deține importante colecții de artă și istorie."],
       en: ["The birthplace of Caspar David Friedrich, the great Romantic painter.", "Home to the University of Greifswald, founded in the year 1456.", "Features the St. Nicholas Cathedral, a masterpiece of Brick Gothic.", "The 'Museumshafen' is the largest museum harbor in Germany.", "A major center for nuclear fusion research (Wendelstein 7-X).", "Historically an important member of the Hanseatic League."]
-    },
-  },
+    }, image: "/poi-images/historical-greifswald-extra.webp"},
   {
     id: "landmark-schwerin-schloss-extra",
     type: "landmark",
@@ -517,8 +507,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Inclus în patrimoniul mondial UNESCO din iulie 2024.", "Cea mai spectaculoasă încăpere este Sala Tronului, decorată cu marmură de Carrara și aur.", "Grădina Castelului (Schlossgarten) este o capodoperă a artei peisagistice baroce și englezești.", "Conform legendei, castelul este bântuit de spiritul binevoitor 'Petermännchen'.", "Include o capelă superbă, construită inițial în secolul al XVI-lea în stil renascentist.", "Turnul principal are o înălțime de 70 de metri și este decorat cu stema aurită a ducatului."],
       en: ["Seat of the State Parliament of Mecklenburg-Western Pomerania.", "The palace features exactly 635 rooms and numerous golden spires.", "Located on its own island between Lake Schwerin and Lake Burgsee.", "The current structure was completed between 1845 and 1857.", "Home to the legendary ghost 'Petermännchen', the castle's guardian.", "Features a world-class collection of porcelain and hunting weapons."]
-    },
-  },
+    }, image: "/poi-images/landmark-schwerin-schloss-extra.webp"},
   {
     id: "historical-kloster-eldena-extra",
     type: "historical",
@@ -564,8 +553,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Mănăstirea a fost fondată în anul 1199 de călugării veniți de la Dargun.", "Ruinele au fost imortalizate în peste 20 de tablouri de Caspar David Friedrich.", "A servit ca sursă de piatră pentru construcții în secolul al XVII-lea.", "Karl Friedrich Schinkel a declarat ruinele monument protejat în anul 1827.", "Situl este un exemplu clasic de arhitectură gotică în cărămidă nord-germană.", "Face parte din 'Traseul European al Goticului în Cărămidă'."],
       en: ["Founded in 1199 by Cistercian monks from Denmark.", "Immortalized by Caspar David Friedrich in numerous paintings.", "A prime example of North German Brick Gothic architecture.", "The abbey was the original owner of the site where Greifswald was built.", "Used as a quarry for centuries before being protected as a ruin.", "Now serves as a picturesque venue for the 'Eldenaer Jazz Evenings'."]
-    },
-  },
+    }, image: "/poi-images/historical-kloster-eldena-extra.webp"},
   {
     id: "lake-schweriner-see-extra",
     type: "lake",
@@ -611,8 +599,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Suprafața totală a lacului este de aproximativ 61 de kilometri pătrați.", "Paulsdamm este digul care separă lacul în 'Lacul Interior' și 'Lacul Exterior'.", "Adâncimea medie a lacului este de aproximativ 13 metri.", "Insula Kaninchenwerder este o rezervație naturală populară accesibilă cu barca.", "Este conectat prin râul Stör la rețeaua navigabilă a fluviului Elbe.", "Găzduiește numeroase regate de navigație și competiții de canotaj."],
       en: ["The fourth-largest lake in Germany, covering 61 square kilometers.", "Divided into an Inner and Outer Lake by a 4-kilometer long dam.", "Overlooked by the spectacular Schwerin Castle island.", "The lake reaches a maximum depth of approximately 52 meters.", "Home to the island of Kaninchenwerder, a protected nature reserve.", "A central venue for major North German sailing regattas."]
-    },
-  },
+    }, image: "/poi-images/lake-schweriner-see-extra.webp"},
   {
     id: "city-neubrandenburg-extra",
     type: "city",
@@ -658,8 +645,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Zidul orașului, lung de 2,3 kilometri, este complet conservat și are o înălțime de 7 metri.", "Cele patru porți medievale sunt Poarta Friedländer, Treptower, Stargarder și Poarta Nouă.", "Biserica Sf. Maria a fost reconstruită ca sală de concerte premiată internațional.", "Orașul a fost fondat în anul 1248 de către contele Herbord von Raven.", "Lacul Tollensesee, aflat la marginea orașului, are o adâncime de până la 33 de metri.", "Neubrandenburg deține cea mai mare densitate de artă gotică în cărămidă din regiune."],
       en: ["Famous for its four monumental brick-Gothic city gates.", "Features a complete 2.3-kilometer long medieval city wall.", "Home to the St. Mary's Concert Church, a masterclass in acoustic design.", "Known as the 'City of the Four Gates' (Stadt der vier Tore).", "Located on the scenic Tollensesee, a major lake in the district.", "Founded in 1248 by the Margraves of Brandenburg."]
-    },
-  },
+    }, image: "/poi-images/city-neubrandenburg-extra.webp"},
   {
     id: "animal-habitat-mv-kraniche-extra",
     type: "animal-habitat",
@@ -705,8 +691,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Până la 100.000 de cocori se odihnesc simultan în regiune în timpul vârfului de migrație.", "Cocorul este una dintre cele mai mari păsări din Europa, cu o anvergură a aripilor de 2,45 metri.", "Păsările parcurg distanțe de până la 2.000 km în zbor continuu către zonele de iernare.", "Centrul 'Kranoram' oferă facilități moderne de observare fără a deranja păsările.", "Cocorii zboară adesea în formație de 'V' pentru a economisi energie în timpul migrației.", "Sunetul lor specific, asemănător unei trâmbițe, se aude de la kilometri distanță."],
       en: ["Up to 100,000 cranes gather in the region during peak migration.", "The 'Kranoram' near Günz is a specialized barrier-free observation post.", "Cranes are known as 'Birds of Luck' in German folklore.", "The region is the most important crane stopover in Central Europe.", "Autumn migration peaks in October, attracting thousands of nature lovers.", "Cranes feed in the local corn fields and sleep in the shallow lagoons."]
-    },
-  },
+    }, image: "/poi-images/animal-habitat-mv-kraniche-extra.webp"},
 
   // ─── DE-SH (Schleswig-Holstein) — 15 POIs ──────────────────────────────────
   {
@@ -801,8 +786,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["A fost capitala de facto a Ligii Hanseatice timp de secole.", "Poarta Holstentor este una dintre cele mai cunoscute construcții medievale din Germania.", "Orașul este locul de naștere al scriitorilor Thomas Mann și Günter Grass.", "Marțipanul de Lübeck beneficiază de protecție IGP la nivel european.", "Biserica Sf. Maria (Marienkirche) are cea mai înaltă boltă din cărămidă din lume.", "Centrul istoric a fost primul din Germania inclus în lista patrimoniului UNESCO (1987)."],
       en: ["The first city in Northern Europe to be named a UNESCO World Heritage site.", "Historically the capital and 'Queen' of the Hanseatic League.", "Famous for the Holstentor, a monumental 15th-century city gate.", "The city of three Nobel Prize winners: Mann, Grass, and Brandt.", "World-renowned for 'Lübecker Marzipan', a traditional sweet.", "The old town is an island surrounded by the Trave river and canals."]
-    },
-  },
+    }, image: "/poi-images/city-luebeck-extra.webp"},
   {
     id: "island-sylt-extra",
     type: "island",
@@ -848,8 +832,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Insula are o lungime de 38 de kilometri și o lățime minimă de doar 320 de metri.", "Este conectată la continent din 1927 prin digul feroviar Hindenburgdamm lung de 11 km.", "Kampen este considerat cel mai exclusivist sat din Germania, renumit pentru celebrități.", "Faleza 'Rotes Kliff' are o înălțime de 30 de metri și capătă o culoare roșie aprinsă la apus.", "Peste 50% din suprafața insulei este declarată arie naturală protejată.", "Westerland este capitala insulei și centrul său administrativ și turistic."],
       en: ["Germany's northernmost island, located in the North Sea.", "Connected to the mainland via the 11-kilometer Hindenburgdamm.", "Home to the 'Rotes Kliff', a 30-meter high red clay cliff.", "A premier destination for windsurfing (hosting the World Cup).", "Part of the UNESCO World Heritage site of the Wadden Sea.", "Features over 40 kilometers of continuous sandy beaches."]
-    },
-  },
+    }, image: "/poi-images/island-sylt-extra.webp"},
   {
     id: "river-eider-extra",
     type: "river",
@@ -895,8 +878,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Are o lungime totală de 188 de kilometri.", "Barajul Eidersperrwerk este cea mai mare structură de protecție a coastelor din Germania.", "În Evul Mediu, râul a fost menționat ca graniță sub formula 'Egidora terminus imperii'.", "Eider este conectat la Canalul Kiel (Nord-Ostsee-Kanal) în mai multe puncte.", "Delta râului este renumită pentru colonia de foci de la gura de vărsare.", "Orașul Friedrichstadt, supranumit 'Micul Amsterdam', este situat la confluența Eiderului cu Treene."],
       en: ["The longest river in the state of Schleswig-Holstein (188 km).", "Historically defined the border between the Duchies of Schleswig and Holstein.", "Home to the Eidersperrwerk, Germany's largest storm surge barrier.", "The precursor to the Kiel Canal used the upper course of the Eider.", "A major European destination for recreational boating and fishing.", "The river's mouth at Tönning is a vital part of the Wadden Sea park."]
-    },
-  },
+    }, image: "/poi-images/river-eider-extra.webp"},
   {
     id: "port-kiel-kanal-extra",
     type: "port",
@@ -942,8 +924,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Canalul are o lungime de 98,2 kilometri și o lățime de peste 100 de metri.", "Peste 30.000 de nave tranzitează anual canalul, transportând milioane de tone de marfă.", "Traversarea canalului durează în medie între 7 și 9 ore.", "Include 10 poduri înalte de fier, cel mai faimos fiind cel de la Rendsburg.", "Sunt utilizate feriboturi gratuite pentru pietoni și mașini pe tot parcursul canalului.", "Ecluzele de la ambele capete reglează diferențele de nivel ale mareelor."],
       en: ["The world's busiest artificial waterway by vessel traffic.", "Connects the North Sea (Brunsbüttel) with the Baltic Sea (Kiel).", "Stretches for 98.26 kilometers across the state of Schleswig-Holstein.", "Opened in 1895 and widened several times to accommodate larger ships.", "Features 10 spectacular high-level bridges and one hanging ferry.", "Saves an average of 460 kilometers compared to the route around Denmark."]
-    },
-  },
+    }, image: "/poi-images/port-kiel-kanal-extra.webp"},
   {
     id: "historical-schleswig-dom-extra",
     type: "historical",
@@ -989,8 +970,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Altarul Bordesholm (1521) are 12 metri înălțime și a fost sculptat în lemn de stejar.", "Turnul catedralei are o înălțime de 112 metri și a fost finalizat în anul 1894.", "Edificiul adăpostește cenotaful regelui Frederic I al Danemarcei.", "Prima biserică pe acest loc a fost ctitorită în jurul anului 850 de sfântul Ansgar.", "Deține fresce medievale rare, inclusiv reprezentarea unui leu ('Leul de Schleswig').", "Schleswig a fost sediul unei episcopii importante începând cu anul 948."],
       en: ["Home to the Bordesholm Altar, one of the greatest woodcarvings in Europe.", "The cathedral tower is 112 meters high, a landmark of the Schlei region.", "Founded in the 11th century and a former burial site for Danish kings.", "Features a stunning 14th-century cloister with unique frescoes.", "Located in Schleswig, one of the oldest cities in the Baltic region.", "A major stop on the 'European Route of Brick Gothic'."]
-    },
-  },
+    }, image: "/poi-images/historical-schleswig-dom-extra.webp"},
   {
     id: "landmark-holstentor-extra",
     type: "landmark",
@@ -1036,8 +1016,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Grosimea pereților turnurilor atinge până la 3,5 metri în punctele cheie.", "Poarta a fost construită în stil gotic târziu și făcea parte dintr-un sistem de patru porți.", "A fost salvată de la demolare în 1863 prin votul consiliului municipal (un singur vot diferență).", "Muzeul interior expune machete de nave hanseatice (Koggen) și instrumente de tortură medievale.", "Zidăria exterioară este decorată cu benzi de cărămidă smălțuită neagră.", "Este elementul central al centrului istoric din Lübeck inclus în UNESCO."],
       en: ["UNESCO World Heritage site and Germany's most famous city gate.", "Built in the late 15th century to defend the western entrance of Lübeck.", "Famous for its significant tilt and sinking into the soft soil.", "Features walls up to 3.5 meters thick to withstand cannon fire.", "The gate was featured on the 50 DM banknote and the 2 Euro coin.", "Houses a museum exploring the 'Power of Trade' in the Middle Ages."]
-    },
-  },
+    }, image: "/poi-images/landmark-holstentor-extra.webp"},
   {
     id: "island-foehr-extra",
     type: "island",
@@ -1083,8 +1062,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Este a doua ca mărime dintre insulele germane de la Marea Nordului.", "Aproximativ 82 de kilometri pătrați de pajiști verzi îi conferă titlul de 'Insula Verde'.", "Wyk auf Föhr a fost înființat ca stațiune balneară oficială în anul 1819.", "Insula este accesibilă doar cu feribotul, călătoria durând circa 45 de minute din Dagebüll.", "Casele tradiționale 'Kapitänshäuser' din sate precum Nieblum sunt celebre pentru acoperișurile din stuf.", "Föhr are o climă blândă datorită influenței Gulf Stream-ului și a protecției insulare."],
       en: ["Known as the 'Green Island' due to its lack of high shifting dunes.", "Wyck auf Föhr is the oldest North Sea spa in the state (1819).", "Home to three 'Islands Cathedrals' – historic medieval churches.", "Frisian is still spoken by a significant part of the population.", "The island is approximately 82 square kilometers in size.", "Part of the UNESCO World Heritage site of the Wadden Sea."]
-    },
-  },
+    }, image: "/poi-images/island-foehr-extra.webp"},
   {
     id: "lake-ploenesee-extra",
     type: "lake",
@@ -1130,8 +1108,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Suprafața lacului este de aproximativ 28 de kilometri pătrați.", "Castelul Plön a servit drept reședință de vară pentru regii danezi în secolul XIX.", "Lacul are o adâncime maximă de 56 de metri.", "Insula Prinzeninsel este celebră pentru plajele sale și pavilionul istoric.", "Găzduiește una dintre cele mai mari populații de vulturi codalbi din regiune.", "Este un sit protejat prin directiva habitate a Uniunii Europene."],
       en: ["The largest lake in Schleswig-Holstein, covering 28 km².", "Home to over 30 islands, including the nature reserve of Prinzeninsel.", "Overlooked by the majestic 17th-century Plön Castle.", "The lake reaches a maximum depth of approximately 56 meters.", "A central hub for the Holstein Switzerland Nature Park.", "Site of the historic Plön cadet school (Prussian history)."]
-    },
-  },
+    }, image: "/poi-images/lake-ploenesee-extra.webp"},
   {
     id: "historical-haithabu-extra",
     type: "historical",
@@ -1177,8 +1154,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Haithabu și sistemul de fortificații Danevirke sunt situri UNESCO din anul 2018.", "A fost cel mai mare oraș comercial din Scandinavia în perioada vikingă.", "Situl este înconjurat de un dig de pământ semicircular lung de 1,3 kilometri.", "Muzeul expune nava de război vikingă 'Haithabu 1', găsită în portul local.", "Casele reconstruite utilizează materiale și tehnici originale din secolul al X-lea.", "Așezarea a fost abandonată definitiv în anul 1066 după un atac masiv."],
       en: ["UNESCO World Heritage site representing the Viking age (Haithabu/Danewerk).", "The primary trading hub of the Viking world for over 300 years.", "Features a monumental semicircular rampart, still 10 meters high.", "The first major city in Northern Europe, founded around 770 AD.", "Abandoned in 1066 after several attacks and the rise of Schleswig.", "Home to a world-class museum with seven reconstructed Viking houses."]
-    },
-  },
+    }, image: "/poi-images/historical-haithabu-extra.webp"},
   {
     id: "forest-sachsenwald-extra",
     type: "forest",
@@ -1224,8 +1200,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Pădurea are o suprafață totală de aproximativ 70 de kilometri pătrați.", "A fost dăruită lui Otto von Bismarck de către împăratul Wilhelm I în 1871.", " Friedrichsruh găzduiește sediul Fundației Otto von Bismarck și muzeul familiei.", "Este traversată de râul Bille, oferind un peisaj forestier umed divers.", "Mausoleul lui Bismarck din Friedrichsruh este un loc de pelerinaj istoric.", "Pădurea este o zonă de vânătoare și silvicultură privată de generații."],
       en: ["Schleswig-Holstein's largest contiguous forest (approx. 60 km²).", "Gifted to Otto von Bismarck, the 'Iron Chancellor', in 1871.", "Home to the Bismarck family seat in Friedrichsruh.", "Characterized by magnificent old beech and spruce stands.", "A designated Nature Conservation Area since the mid-20th century.", "A critical recreational area for the metropolitan region of Hamburg."]
-    },
-  },
+    }, image: "/poi-images/forest-sachsenwald-extra.webp"},
   {
     id: "sea-wattenmeer-sh-extra",
     type: "sea",
@@ -1271,8 +1246,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Inclusă în patrimoniul mondial UNESCO din anul 2009.", "Parcul Național Wattenmeer din SH este cel mai mare parc național din Europa Centrală.", "Peste 10 milioane de păsări migratoare se opresc aici anual pentru hrană.", "Diferența de nivel a apei între flux și reflux poate depăși 3 metri în anumite zone.", "Găzduiește 'Cele cinci mari' ale mării: foca, foca cenușie, marsuinul, vulturul codalb și sturionul.", "Include faimoasele insule 'Halligen', mici petice de pământ care sunt inundate regulat."],
       en: ["The largest National Park in Germany and a UNESCO World Heritage site.", "Part of the world's largest contiguous system of intertidal mudflats.", "Home to over 10,000 species of plants and animals.", "A vital resting ground for up to 12 million migrating birds annually.", "Features the 'Halligen', unique undiked islands that flood regularly.", "Covers an area of approximately 4,400 square kilometers."]
-    },
-  },
+    }, image: "/poi-images/sea-wattenmeer-sh-extra.webp"},
   {
     id: "city-flensburg-extra",
     type: "city",
@@ -1318,8 +1292,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["Este cel mai nordic oraș din Germania, situat direct la granița daneză.", "A fost cel mai important oraș de import de zahăr și rom din nordul Europei.", "Poarta Nordertor, construită în 1595, este simbolul istoric al orașului.", "Găzduiește Registrul Federal al Permiselor de Conducere (KBA), celebru pentru 'punctele de penalizare'.", "Universitatea din Flensburg este renumită pentru programele sale internaționale bilingve.", "Linia de demarcație între limba germană și daneză trece chiar prin inima orașului."],
       en: ["Germany's northernmost city, known for its German-Danish history.", "Historically the primary center for the European rum trade.", "Home to the Flensburg Fjord, a 34-kilometer long arm of the Baltic Sea.", "The seat of the German Federal Motor Transport Authority (KBA).", "Features one of the most authentic old town ensembles in Northern Germany.", "The city was the last seat of the German Reich government in 1945."]
-    },
-  },
+    }, image: "/poi-images/city-flensburg-extra.webp"},
   {
     id: "landmark-nordertor-flensburg-extra",
     type: "landmark",
@@ -1365,8 +1338,7 @@ export const poiExtraDe3a: POI[] = [
     ],
       ro: ["A fost finalizată în anul 1595 în stilul Renașterii olandeze.", "Inscripția 'Friede ernährt, Unfriede verzehrt' (Pacea hrănește, vrajba mistuie) este vizibilă pe fațadă.", "Poarta a apărut pe un timbru poștal german în anul 1966.", "Este ultima dintre cele două porți de oraș care s-au păstrat în Flensburg.", "Restaurarea majoră din 1990 a redat clădirii aspectul său policrom original.", "Zona din jurul porții găzduiește centre de cercetare științifică precum 'Phänomenta'."],
       en: ["The only preserved city gate in Schleswig-Holstein, built around 1595.", "Marks the historic northern boundary of the city of Flensburg.", "Features the coat of arms of the Danish King Christian IV.", "A prime example of the transition from late-Gothic to Renaissance brickwork.", "The gate was featured on a special 5-pfennig stamp in 1966.", "Served as a symbol of the city on the official seal for centuries."]
-    },
-  },
+    }, image: "/poi-images/landmark-nordertor-flensburg-extra.webp"},
   {
     id: "port-hamburg-altona-sh-extra",
     type: "port",

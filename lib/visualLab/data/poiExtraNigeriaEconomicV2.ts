@@ -396,8 +396,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["Az Escravos Terminál (Escravos Tank Farm) 3,6 millió hordó nyersolaj tárolási kapacitással rendelkezik.", "A Chevron üzemelteti a terminált, amely a cég legfontosabb afrikai bázisa.", "Az Escravos Gas-to-Liquids (EGTL) üzem az ország legnagyobb ilyen jellegű 10 milliárd dolláros befektetése.", "A terminált a Nyugat-Afrikai Gázvezeték (WAGP) táplálja, amely a kontinens egyik leghosszabb csöve.", "Az Escravos folyó torkolatát hatalmas mesterséges hullámtörőkkel védik az óceán erejétől.", "A nyersolaj berakodása nem a parton, hanem offshore kikötőbójákon (SPM) történik a szupertankerekbe."],
       ro: ["Găzduiește faimoasa instalație GTL (Gas-to-Liquids) deținută de Chevron.", "Terminalul stochează barili extrași pentru export la nivel global.", "Acostarea tancurilor masive (VLCC) se face pe terminalele din larg.", "Ajută masiv la reducerea practicii poluante de ardere a gazelor naturale (flaring).", "Satul Ugborodo este cea mai apropiată comunitate indigenă de terminal.", "Dispune de un aerodrom privat esențial pentru schimbul personalului offshore."],
       en: ["A massive crude oil export terminal located in Delta State.", "Operated by Chevron as part of a joint venture with the Nigerian government.", "Features an extensive tank farm for the storage of crude before export.", "Home to the innovative Escravos Gas-to-Liquids (EGTL) project.", "Accessible to large ocean-going oil tankers via the Escravos bar.", "A critical asset for the reduction of natural gas flaring in the Niger Delta."]
-    }
-  },
+    }, image: "/poi-images/escravos-terminal-economic-v2.webp"},
   {
     id: "forcados-terminal-economic-v2",
     type: "port",
@@ -432,8 +431,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["A terminált 1971-ben adta át a Shell Petroleum Development Company (SPDC).", "A Forcados Pipeline System (FPS) kapacitása napi 400 000 hordó kőolaj szállítását teszi lehetővé.", "A 'Forcados Blend' a nigériai kőolaj egyik prémium, tőzsdén jegyzett referenciatípusa (alacsony kéntartalommal).", "A terminál hatalmas kőolajtartályai (Tank Farm) a mocsaras szárazföldön helyezkednek el.", "A nyersolaj exportálása két nyíltvízi egypontos kikötőbóján (SPM - Single Point Mooring) keresztül zajlik.", "A név a portugál 'Forcados' (villák/ágak) szóból ered, utalva a folyó deltatorkolatára."],
       ro: ["A fost inaugurat de gigantul petrolier SPDC (Shell) în 1971.", "Rețeaua de conducte Forcados are o lungime și complexitate monumentală.", "Țițeiul exportat este extrem de popular global, fiind denumit 'Forcados Blend'.", "Facilitatea exportă sute de mii de barili zilnic pe super-tancuri marine.", "Este des ținta avariilor sau a actelor de sabotaj din cauza amplasamentului vulnerabil.", "Este singura soluție de colectare pentru foarte multe firme mai mici de extracție."],
       en: ["A premier crude oil export terminal located at the Forcados River estuary.", "Operated primarily by Shell Petroleum Development Company (SPDC).", "Exports the 'Forcados blend', a highly valued light, sweet crude oil.", "Connected to the western Niger Delta via the massive Trans Forcados Pipeline.", "Utilizes Single Point Mooring (SPM) buoys for loading ultra-large crude carriers offshore.", "A historically critical asset, highly sensitive to regional security issues."]
-    }
-  },
+    }, image: "/poi-images/forcados-terminal-economic-v2.webp"},
   {
     id: "bonny-oil-terminal-economic-v2",
     type: "port",
@@ -540,8 +538,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["A terminált a Nigerian Agip Oil Company (NAOC/ENI) építette és üzemelteti a Brass szigeten.", "A létesítmény napi szinten több mint 100 000 hordó 'Brass River' keveréket (minőségi könnyű olajat) exportál.", "A terminál körüli történelmi település, Twon-Brass a 19. századi brit 'Nembe Királyság' központja volt.", "A tengerparti erózió miatt a létesítmény partvonalát folyamatosan védeni kell, évente métereket mos el az óceán.", "A Brass LNG (cseppfolyósított földgáz) projektet ide tervezték az NLNG mintájára, de megvalósítása évtizedek óta csúszik.", "A Brass River kikötőjét az amerikai polgárháború alatt a Konföderáció csempészhajói is használták."],
       ro: ["A reprezentat sediul colonial inițial al comercianților britanici de pe Coastă.", "Consorțiul italian Agip a transformat regiunea în port petrolier în anii '70.", "Stochează produsul denumit internațional 'Brass River Crude Oil'.", "Insula funcționează aproape independent cu rețele proprii de utilități.", "Transportul de barili pe nave gigant se face tot folosind facilități la adâncime offshore.", "Accesul la așezare din restul țării este adesea permis doar cu elicoptere și șalupe."],
       en: ["Located on Brass Island in the mangrove swamps of Bayelsa State.", "Operated primarily by Nigerian Agip Oil Company (NAOC/Eni).", "Exports the 'Brass River blend' of crude oil.", "The island was historically a major administrative base for British colonial authorities.", "Serves as a collection hub for highly challenging onshore and swamp oil fields.", "Accessible primarily by water and helicopter due to the surrounding terrain."]
-    }
-  },
+    }, image: "/poi-images/brass-terminal-economic-v2.webp"},
   {
     id: "dangote-refinery-economic-v2",
     type: "industry",
@@ -685,8 +682,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["Kaduna Finomító a nigériai oktatási térképek visszatérő helyszíne.", "A környező régió gazdasági és kulturális életében meghatározó szerepet játszik.", "Kaduna Finomító földrajzi helyzete régóta befolyásolja a helyi közösségek mindennapjait.", "A környék éghajlati és tájképi jellemzői hosszú ideje formálják a használatát."],
       ro: ["Este singura rafinărie petrolieră operațională din nordul Nigeriei.", "A fost dată în funcțiune în 1980 de către conglomeratul de stat NNPC.", "Este proiectată pentru a rafina atât țiței ușor național, cât și țiței greu de import.", "Se bazează pe o conductă lungă de 600 de km din sud pentru aprovizionare.", "Include unități pentru fabricarea uleiurilor de bază, asfaltului și lubrifianților.", "Vandalismul conductelor a provocat istoric pierderi operaționale enorme."],
       en: ["Commissioned in 1980 as the only oil refinery in northern Nigeria.", "Has a designed capacity of 110,000 barrels per day.", "Uniquely configured to process both domestic light crude and imported heavy crude.", "Relies on a massive, 600-kilometer pipeline network to receive crude from the Delta.", "The only Nigerian refinery designed to produce lubricating oils, asphalt, and wax.", "A state-owned facility operated by the NNPC, currently undergoing rehabilitation."]
-    }
-  },
+    }, image: "/poi-images/kaduna-refinery-economic-v2.webp"},
   {
     id: "ajaokuta-steel-mill-economic-v2",
     type: "industry",
@@ -721,8 +717,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["Ajaokuta Acélmű a nigériai oktatási térképek visszatérő helyszíne.", "A környező régió gazdasági és kulturális életében meghatározó szerepet játszik.", "Ajaokuta Acélmű földrajzi helyzete régóta befolyásolja a helyi közösségek mindennapjait.", "A környék éghajlati és tájképi jellemzői hosszú ideje formálják a használatát."],
       ro: ["Construcția complexului a început în anul 1979 cu asistența Uniunii Sovietice.", "A fost planificat ca cel mai mare hub siderurgic integrat de pe continent.", "Proiectul a consumat investiții publice evaluate la peste 8 miliarde de dolari.", "Orașul Ajaokuta a fost construit special pentru a găzdui mii de muncitori siderurgiști.", "Deși este complet 98%, cuptoarele principale nu au topit oțel niciodată.", "Beneficiază de depozitele mari de minereu de fier din statul Kogi."],
       en: ["Located in Kogi State on the western bank of the Niger River.", "Construction began in 1979 with massive technical assistance from the Soviet Union.", "Designed to be the largest integrated steel complex in Sub-Saharan Africa.", "Relies on nearby iron ore deposits at Itakpe and coal from Enugu.", "Has absorbed billions of dollars in funding but has never been fully completed.", "Often cited as the ultimate example of a 'white elephant' mega-project in Africa."]
-    }
-  },
+    }, image: "/poi-images/ajaokuta-steel-mill-economic-v2.webp"},
   {
     id: "delta-steel-company-economic-v2",
     type: "industry",
@@ -757,8 +752,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["Delta Acélipari Vállalat a nigériai oktatási térképek visszatérő helyszíne.", "A környező régió gazdasági és kulturális életében meghatározó szerepet játszik.", "Delta Acélipari Vállalat földrajzi helyzete régóta befolyásolja a helyi közösségek mindennapjait.", "A környék éghajlati és tájképi jellemzői hosszú ideje formálják a használatát."],
       ro: ["A fost prima fabrică din Africa ce utiliza tehnologia Reducerii Directe a Fierului (DRI).", "A fost inaugurată de guvernul președintelui Shehu Shagari în anul 1982.", "Concepută inițial pentru a produce un milion de tone de oțel lichid pe an.", "Funcționarea sa a fost grav perturbată de datorii uriașe și lipsă de fonduri.", "A fost supusă unui lung și controversat proces de privatizare în anii 2000.", "Utilizează gazul natural extras local pentru cuptoarele sale masive."],
       en: ["Commissioned in 1982 in Aladja, near Warri in Delta State.", "The first steel plant in Africa to utilize Direct Reduction (DR) technology.", "Designed to produce over 1 million tons of liquid steel annually.", "Relied heavily on the abundant local supply of natural gas.", "Suffered complete operational collapse in the late 1990s due to mismanagement.", "Currently under private management attempting to rehabilitate the rolling mills."]
-    }
-  },
+    }, image: "/poi-images/delta-steel-company-economic-v2.webp"},
   {
     id: "obajana-cement-plant-economic-v2",
     type: "industry",

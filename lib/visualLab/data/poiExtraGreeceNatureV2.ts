@@ -19,8 +19,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Situat la 750 m în munții Agrafa", "Creat în 1959 prin bararea râului Tavropos", "Circumferința lacului este de circa 45 km", "Numit după generalul Nikolaos Plastiras"],
       en: ["Located at 750m altitude in Agrafa mountains", "Formed in 1959 by damming the Tavropos River", "The lake's perimeter is about 45 kilometers", "Named after General Nikolaos Plastiras"],
     },
-    imageHint: "Lake Plastira panoramic view with mountains",
-  },
+    imageHint: "Lake Plastira panoramic view with mountains", image: "/poi-images/greece-lake-plastira-nature-v2.webp"},
   {
     id: "greece-vikos-gorge-nature-v2",
     type: "valley",
@@ -39,8 +38,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai adânc defileu conform Guinness", "Lungime de cca. 20 km în munții Pindului", "Parte a Parcului Național Vikos-Aoos", "Adăpostește păsări de pradă rare și urși"],
       en: ["Deepest gorge in the world per Guinness", "Stretches 20 km through the Pindus range", "Part of the Vikos-Aoos National Park", "Home to rare birds of prey and bears"],
     },
-    imageHint: "Vikos Gorge deep canyon landscape",
-  },
+    imageHint: "Vikos Gorge deep canyon landscape", image: "/poi-images/greece-vikos-gorge-nature-v2.webp"},
   {
     id: "greece-samaria-gorge-nature-v2",
     type: "park",
@@ -59,8 +57,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Lungime de 16 km până la Marea Libiei", "Rezervație a biosferei UNESCO în Creta", "Punctul cel mai îngust are doar 3 m lățime", "Habitatul caprelor sălbatice protejate Kri-Kri"],
       en: ["16 km long, ending at the Libyan Sea", "UNESCO Biosphere Reserve on Crete island", "Narrowest point 'Iron Gates' is 3m wide", "Home to protected Kri-Kri wild goats"],
     },
-    imageHint: "Samaria Gorge narrow canyon walls",
-  },
+    imageHint: "Samaria Gorge narrow canyon walls", image: "/poi-images/greece-samaria-gorge-nature-v2.webp"},
   {
     id: "greece-lake-prespa-nature-v2",
     type: "lake",
@@ -79,8 +76,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Lacurile la cea mai mare altitudine din Balcani", "Principalul loc de cuibărit pentru pelicani", "Împărțite între Grecia, Albania și Macedonia de Nord", "Bogate în specii endemice de pești și plante"],
       en: ["Highest tectonic lakes in the Balkans at 850m", "Europe's largest colony of Dalmatian pelicans", "Shared by Greece, Albania, and North Macedonia", "Rich in endemic fish and plant species"],
     },
-    imageHint: "Lake Prespa with pelicans",
-  },
+    imageHint: "Lake Prespa with pelicans", image: "/poi-images/greece-lake-prespa-nature-v2.webp"},
   {
     id: "greece-mount-athos-nature-v2",
     type: "mountain",
@@ -99,8 +95,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Vârf de 2033 m situat direct pe malul mării", "Republică monastică autonomă din sec. X", "Accesul femeilor este strict interzis", "Situl UNESCO pentru natură și cultură"],
       en: ["Peak reaches 2,033 meters above the sea", "Autonomous monastic state since the 10th century", "Access for women is strictly prohibited", "UNESCO World Heritage site for nature and culture"],
     },
-    imageHint: "Mount Athos peak from the sea",
-  },
+    imageHint: "Mount Athos peak from the sea", image: "/poi-images/greece-mount-athos-nature-v2.webp"},
   {
     id: "greece-aliakmon-river-nature-v2",
     type: "river",
@@ -119,8 +114,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai lung râu integral grecesc (297 km)", "Izvorăște din munții Grammos la graniță", "Se varsă în Golful Thermaic al Marii Egee", "Sursă importantă de hidroenergie și irigații"],
       en: ["Longest river entirely within Greek borders", "Originates in the Grammos mountain range", "Flows into the Thermaic Gulf of the Aegean", "Major source of hydroelectric power and irrigation"],
     },
-    imageHint: "Aliakmon River aerial view",
-  },
+    imageHint: "Aliakmon River aerial view", image: "/poi-images/greece-aliakmon-river-nature-v2.webp"},
   {
     id: "greece-pindus-mountains-nature-v2",
     type: "mountain",
@@ -139,8 +133,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cunoscuți ca 'coloana vertebrală a Greciei'", "Cel mai înalt vârf este Smolikas (2637 m)", "Include două parcuri naționale importante", "Habitat esențial pentru urși bruni și lupi"],
       en: ["Known as the 'Backbone of Greece'", "Highest peak is Mount Smolikas at 2,637m", "Contains two major National Parks", "Vital habitat for brown bears and wolves"],
     },
-    imageHint: "Pindus Mountains snow-capped peaks",
-  },
+    imageHint: "Pindus Mountains snow-capped peaks", image: "/poi-images/greece-pindus-mountains-nature-v2.webp"},
   {
     id: "greece-mount-pelion-nature-v2",
     type: "mountain",
@@ -159,8 +152,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Casa mitologică a centaurilor", "Acoperit cu păduri dese de fagi și castani", "Cel mai înalt vârf are 1624 de metri", "Face legătura între Golful Pagasetic și Egee"],
       en: ["Mythological home of the Centaurs", "Densely forested with beech and chestnut trees", "Highest peak is Pourianos Stavros at 1,624m", "Borders both the Pagasetic Gulf and Aegean Sea"],
     },
-    imageHint: "Mount Pelion lush forest landscape",
-  },
+    imageHint: "Mount Pelion lush forest landscape", image: "/poi-images/greece-mount-pelion-nature-v2.webp"},
   {
     id: "greece-mount-ida-nature-v2",
     type: "peak",
@@ -179,8 +171,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai înalt munte din Creta (2456 m)", "Geoparc Global UNESCO din anul 2015", "Peștera Ideon este legată de nașterea lui Zeus", "Vârful este acoperit de zăpadă până primăvara"],
       en: ["Highest peak on Crete island at 2,456m", "Part of the UNESCO Global Geoparks network", "The Idaean Cave is a legendary birthplace of Zeus", "Snow often stays on its peaks until late spring"],
     },
-    imageHint: "Mount Ida Psiloritis Crete rocky peak",
-  },
+    imageHint: "Mount Ida Psiloritis Crete rocky peak", image: "/poi-images/greece-mount-ida-nature-v2.webp"},
   {
     id: "greece-lake-volvi-nature-v2",
     type: "lake",
@@ -199,8 +190,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Al doilea cel mai mare lac natural din Grecia", "Lac tectonic cu o adâncime de până la 23 m", "Zonă protejată prin Convenția Ramsar", "Habitat pentru specii rare de pești precum Liparia"],
       en: ["Second largest natural lake in Greece", "Tectonic lake reaching depths of 23 meters", "Protected under the Ramsar Convention", "Home to rare endemic fish species like Liparia"],
     },
-    imageHint: "Lake Volvi landscape Macedonia Greece",
-  },
+    imageHint: "Lake Volvi landscape Macedonia Greece", image: "/poi-images/greece-lake-volvi-nature-v2.webp"},
   {
     id: "greece-acheloos-river-nature-v2",
     type: "river",
@@ -219,8 +209,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Al doilea cel mai lung râu din Grecia (220 km)", "Venerat ca zeu al râului în mitologie", "Formează o deltă mare la vărsarea în Marea Ionică", "Principalul râu utilizat pentru energia electrică"],
       en: ["Second longest river in Greece at 220 km", "Venerated as a river god in ancient mythology", "Creates a vast delta at its mouth in the Ionian Sea", "Primary river for Greek hydroelectric power"],
     },
-    imageHint: "Acheloos River valley and dam",
-  },
+    imageHint: "Acheloos River valley and dam", image: "/poi-images/greece-acheloos-river-nature-v2.webp"},
   {
     id: "greece-mount-smolikas-nature-v2",
     type: "peak",
@@ -239,8 +228,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf din masivul Pindului", "Găzduiește lacul alpin Drakolimni", "Al doilea cel mai înalt munte din Grecia", "Compus în principal din roci ofiolitice"],
       en: ["Highest peak of the Pindus range (2,637m)", "Home to the alpine Dragon Lake (Drakolimni)", "Second highest mountain in Greece after Olympus", "Composed largely of ophiolite rocks"],
     },
-    imageHint: "Mount Smolikas Drakolimni alpine lake",
-  },
+    imageHint: "Mount Smolikas Drakolimni alpine lake", image: "/poi-images/greece-mount-smolikas-nature-v2.webp"},
   {
     id: "greece-edessa-waterfalls-nature-v2",
     type: "park",
@@ -259,8 +247,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cea mai mare cascadă, Karanos, are 70 m", "Formate în urma unui cutremur în sec. XIV", "Singurul loc unde poți merge în spatele cascadei", "Situate într-un parc chiar în centrul orașului"],
       en: ["Largest waterfall, Karanos, is 70 meters high", "Formed after a major earthquake in the 14th century", "Visitors can walk behind the curtain of water", "Located within a park in the heart of Edessa city"],
     },
-    imageHint: "Edessa Waterfalls Karanos waterfall",
-  },
+    imageHint: "Edessa Waterfalls Karanos waterfall", image: "/poi-images/greece-edessa-waterfalls-nature-v2.webp"},
   {
     id: "greece-mount-helmos-nature-v2",
     type: "peak",
@@ -279,8 +266,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Vârful cel mai înalt este Psili Koryfi (2341 m)", "Găzduiește apele mitologice ale râului Styx", "Locația telescopului Aristarchos", "Parte a Geoparcului Global UNESCO Helmos-Vouraikos"],
       en: ["Highest peak is Psili Koryfi at 2,341 meters", "Site of the mythological waters of the Styx", "Home to the powerful Aristarchos telescope", "Part of the Helmos-Vouraikos UNESCO Geopark"],
     },
-    imageHint: "Mount Helmos snow peaks observatory",
-  },
+    imageHint: "Mount Helmos snow peaks observatory", image: "/poi-images/greece-mount-helmos-nature-v2.webp"},
   {
     id: "greece-mount-parnassus-nature-v2",
     type: "peak",
@@ -299,8 +285,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Liakoura (2457 m)", "Casa mitologică a muzelor", "Una dintre cele mai mari zone de schi din Grecia", "Situat chiar deasupra sitului antic Delphi"],
       en: ["Highest peak is Liakoura at 2,457 meters", "Mythological home of the Muses and Apollo", "One of the most popular ski centers in Greece", "Overlooks the ancient sanctuary of Delphi"],
     },
-    imageHint: "Mount Parnassus snow peaks",
-  },
+    imageHint: "Mount Parnassus snow peaks", image: "/poi-images/greece-mount-parnassus-nature-v2.webp"},
   {
     id: "greece-mount-taygetos-nature-v2",
     type: "mountain",
@@ -319,8 +304,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Profitis Ilias (2407 m)", "Vârful are o formă naturală de piramidă", "Domină orașul antic și modern Sparta", "Bogat în plante endemice din regiunea Mani"],
       en: ["Highest peak is Profitis Ilias at 2,407m", "Features a natural pyramid-shaped summit", "Overlooks the historic city of Sparta", "Rich in endemic flora of the Mani peninsula"],
     },
-    imageHint: "Mount Taygetos pyramid peak",
-  },
+    imageHint: "Mount Taygetos pyramid peak", image: "/poi-images/greece-mount-taygetos-nature-v2.webp"},
   {
     id: "greece-nestos-river-nature-v2",
     type: "river",
@@ -339,8 +323,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Formează granița dintre Macedonia și Tracia", "Faimos pentru meandrele din defileul Nestos", "Delta râului este o zonă umedă protejată", "Lungime totală de 230 km (140 km în Grecia)"],
       en: ["Forms the border between Macedonia and Thrace", "Famous for its scenic meanders in the Nestos Gorge", "The river's delta is a RAMSAR-protected wetland", "Total length of 230 km (140 km within Greece)"],
     },
-    imageHint: "Nestos River meanders gorge",
-  },
+    imageHint: "Nestos River meanders gorge", image: "/poi-images/greece-nestos-river-nature-v2.webp"},
   {
     id: "greece-pineios-river-nature-v2",
     type: "river",
@@ -379,8 +362,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Unul dintre cele mai adânci lacuri grecești", "Situat la o altitudine de 540 m", "Inclus în rețeaua ecologică Natura 2000", "Renumit pentru calitatea ridicată a apei"],
       en: ["One of the deepest natural lakes in Greece", "Situated at an elevation of 540 meters", "Part of the European Natura 2000 network", "Noted for its exceptionally clear water"],
     },
-    imageHint: "Lake Vegoritida blue water mountains",
-  },
+    imageHint: "Lake Vegoritida blue water mountains", image: "/poi-images/greece-lake-vegoritida-nature-v2.webp"},
   {
     id: "greece-lake-trichonida-nature-v2",
     type: "lake",
@@ -399,8 +381,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai mare lac natural din Grecia", "Suprafață de aproximativ 98 km pătrați", "Adăpostește peste 200 de specii de păsări", "Găzduiește specii de pești endemici"],
       en: ["Largest natural lake within Greek territory", "Covers an area of about 98 square kilometers", "Home to over 200 species of birds", "Contains several endemic fish species"],
     },
-    imageHint: "Lake Trichonida panoramic landscape",
-  },
+    imageHint: "Lake Trichonida panoramic landscape", image: "/poi-images/greece-lake-trichonida-nature-v2.webp"},
   {
     id: "greece-mount-dirfi-nature-v2",
     type: "peak",
@@ -419,8 +400,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai înalt munte din Evia (1743 m)", "Vârful conic este numit Delphi", "Cunoscut pentru ninsori abundente iarna", "Bogat în păduri de castani și brazi"],
       en: ["Highest peak on Evia island at 1,743m", "Distinct conical summit named Delphi", "Famous for receiving heavy snowfall in winter", "Covered with lush chestnut and fir forests"],
     },
-    imageHint: "Mount Dirfi snow conical peak Evia",
-  },
+    imageHint: "Mount Dirfi snow conical peak Evia", image: "/poi-images/greece-mount-dirfi-nature-v2.webp"},
   {
     id: "greece-mount-aenos-nature-v2",
     type: "mountain",
@@ -439,8 +419,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cel mai înalt munte din insulele Ionice", "Protejează bradul endemic de Kefalonia", "Habitat pentru o populație de cai sălbatici", "Singurul parc național de pe o insulă grecească"],
       en: ["Highest peak in the Ionian Islands at 1,628m", "Sanctuary for the endemic Kefalonia fir tree", "Home to a small population of wild horses", "Only National Park located on a Greek island"],
     },
-    imageHint: "Mount Aenos Kefalonia fir trees",
-  },
+    imageHint: "Mount Aenos Kefalonia fir trees", image: "/poi-images/greece-mount-aenos-nature-v2.webp"},
   {
     id: "greece-mount-giona-nature-v2",
     type: "peak",
@@ -459,8 +438,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Vârful Pyramida are o înălțime de 2510 m", "Include peretele de stâncă Sykia de 1100 m", "Al cincilea cel mai înalt masiv din Grecia", "Zonă importantă pentru extracția bauxitei"],
       en: ["Highest summit is Pyramida at 2,510 meters", "Home to the massive 1,100m Sykia cliff", "Fifth highest mountain range in Greece", "Significant area for bauxite mining"],
     },
-    imageHint: "Mount Giona Pyramida peak cliff",
-  },
+    imageHint: "Mount Giona Pyramida peak cliff", image: "/poi-images/greece-mount-giona-nature-v2.webp"},
   {
     id: "greece-enipeas-waterfall-nature-v2",
     type: "park",
@@ -479,8 +457,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Situată în defileul Enipeas de pe Olimp", "Bazinele sunt numite 'Băile lui Zeus'", "Traseu de drumeție popular din Litochoro", "Apă de munte cristalină, dar foarte rece"],
       en: ["Located in the Enipeas Gorge on Mt. Olympus", "Features pools called the 'Baths of Zeus'", "A popular hiking trail starts from Litochoro", "Crystal clear but very cold mountain water"],
     },
-    imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
-  }
+    imageHint: "Enipeas Waterfall Baths of Zeus Olympus", image: "/poi-images/greece-enipeas-waterfall-nature-v2.webp"}
 ,
   {
     id: "greece-lake-orestiada-nature-v2",
@@ -518,8 +495,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Lungime totală de aproximativ 52 km", "Se varsă în Marea Ionică la Ammoudia", "Izvoarele sunt lângă satul Glyki", "Destinație populară pentru trekking fluvial"],
       en: ["Total length of approximately 52 km", "Flows into the Ionian Sea at Ammoudia", "Springs located near Glyki village", "Popular destination for river trekking"],
     },
-    imageHint: "Acheron river crystal clear water in rocky gorge",
-  },
+    imageHint: "Acheron river crystal clear water in rocky gorge", image: "/poi-images/greece-acheron-river-nature-v2.webp"},
   {
     id: "greece-vouraikos-gorge-nature-v2",
     type: "valley",
@@ -537,8 +513,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 20 de kilometri", "Parte a Geoparcului Chelmos-Vouraikos", "Calea ferată a fost deschisă în 1896", "Găzduiește specii de plante endemice rare"],
       en: ["Approximately 20 kilometers long", "Part of the Chelmos-Vouraikos Geopark", "Rack railway opened in 1896", "Home to rare endemic plant species"],
     },
-    imageHint: "Vouraikos gorge cliffs with rack railway tracks",
-  },
+    imageHint: "Vouraikos gorge cliffs with rack railway tracks", image: "/poi-images/greece-vouraikos-gorge-nature-v2.webp"},
   {
     id: "greece-mount-mainalo-nature-v2",
     type: "mountain",
@@ -556,8 +531,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Vârful maxim Ostrakina are 1981 m", "Parte a traseului montan Menalon Trail", "Zonă protejată prin Natura 2000", "Locul mitologic al zeului Pan"],
       en: ["Highest peak is Ostrakina at 1981m", "Part of the 75km Menalon Trail", "Protected Natura 2000 site", "Mythological home of the god Pan"],
     },
-    imageHint: "Snowy peak of Mount Mainalo with fir forest",
-  },
+    imageHint: "Snowy peak of Mount Mainalo with fir forest", image: "/poi-images/greece-mount-mainalo-nature-v2.webp"},
   {
     id: "greece-polylimnio-waterfalls-nature-v2",
     type: "landmark",
@@ -575,8 +549,7 @@ export const greeceNatureV2: POI[] = [
       ro: ["Cea mai înaltă cascadă, Kadoula (20 m)", "Situat lângă satul Charavgi", "Debit de apă constant tot anul", "Loc popular pentru înot în natură"],
       en: ["Highest waterfall is Kadoula (20m)", "Located near Charavgi village", "Constant water flow year-round", "Popular spot for wild swimming"],
     },
-    imageHint: "Polylimnio turquoise lake and waterfall in forest",
-  },
+    imageHint: "Polylimnio turquoise lake and waterfall in forest", image: "/poi-images/greece-polylimnio-waterfalls-nature-v2.webp"},
   {
     id: "greece-lake-stymphalia-nature-v2",
     type: "lake",

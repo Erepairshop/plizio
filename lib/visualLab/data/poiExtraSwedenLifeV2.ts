@@ -19,8 +19,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 1909", "Peste 100 de ghețari în parc", "Fără trasee marcate", "Habitat pentru elani și reni"],
       en: ["Established in 1909", "Over 100 glaciers in the park", "No marked hiking trails", "Home to moose and reindeer"],
     },
-    imageHint: "Sarek National Park rugged mountain peaks and glaciers",
-  },
+    imageHint: "Sarek National Park rugged mountain peaks and glaciers", image: "/poi-images/sweden-sarek-national-park-life-v2.webp"},
   {
     id: "sweden-padjelanta-national-park-life-v2",
     type: "park",
@@ -39,8 +38,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Suprafață de 1984 km²", "Patrimoniu UNESCO Laponia", "Pășune de vară pentru reni", "Bogat în plante arctice"],
       en: ["Area of 1,984 km²", "UNESCO Laponia World Heritage", "Summer pasture for reindeer", "Rich in arctic plant life"],
     },
-    imageHint: "Padjelanta National Park vast plateau and lake Virihaure",
-  },
+    imageHint: "Padjelanta National Park vast plateau and lake Virihaure", image: "/poi-images/sweden-padjelanta-national-park-life-v2.webp"},
   {
     id: "sweden-stora-sjofallet-life-v2",
     type: "park",
@@ -59,8 +57,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 1909", "Găzduiește muntele Akka", "Se învecinează cu parcul Sarek", "Important pentru cultura Sami"],
       en: ["Established in 1909", "Home to Mount Akka", "Borders Sarek National Park", "Important for Sami culture"],
     },
-    imageHint: "Stora Sjöfallet National Park with Akka mountain massif",
-  },
+    imageHint: "Stora Sjöfallet National Park with Akka mountain massif", image: "/poi-images/sweden-stora-sjofallet-life-v2.webp"},
   {
     id: "sweden-muddus-national-park-life-v2",
     type: "park",
@@ -79,8 +76,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Faimos pentru cascada Muddus", "Cel mai bătrân pin din Suedia", "Liniște și izolare", "Parte a patrimoniului Laponia"],
       en: ["Famous for the Muddus waterfall", "Oldest pine tree in Sweden", "Known for silence and solitude", "Part of the Laponia World Heritage"],
     },
-    imageHint: "Muddus National Park ancient forest and waterfall",
-  },
+    imageHint: "Muddus National Park ancient forest and waterfall", image: "/poi-images/sweden-muddus-national-park-life-v2.webp"},
   {
     id: "sweden-fulufjallet-national-park-life-v2",
     type: "park",
@@ -99,8 +95,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Njupeskär are 93 metri înălțime", "Locația lui Old Tjikko (molid)", "Fondat în anul 2002", "Pășunatul renilor este interzis"],
       en: ["Njupeskär is 93 meters high", "Location of Old Tjikko (spruce)", "Established in 2002", "No reindeer grazing allowed"],
     },
-    imageHint: "Fulufjället National Park Njupeskär waterfall",
-  },
+    imageHint: "Fulufjället National Park Njupeskär waterfall", image: "/poi-images/sweden-fulufjallet-national-park-life-v2.webp"},
   {
     id: "sweden-skuleskogen-national-park-life-v2",
     type: "park",
@@ -119,8 +114,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Parte a Coastei Înalte UNESCO", "Cheia are 200 de metri lungime", "Ridicarea pământului postglaciară", "Păduri de molid străvechi"],
       en: ["Part of the High Coast UNESCO site", "Crevice is 200 meters long", "Impressive post-glacial rebound", "Ancient spruce forests"],
     },
-    imageHint: "Skuleskogen National Park Slåttdalsskrevan crevice",
-  },
+    imageHint: "Skuleskogen National Park Slåttdalsskrevan crevice", image: "/poi-images/sweden-skuleskogen-national-park-life-v2.webp"},
   {
     id: "sweden-tyresta-national-park-life-v2",
     type: "park",
@@ -139,8 +133,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 1993", "Zonă afectată de incendiu în 1999", "Peste 100 de specii de păsări", "Pini vechi de 400 de ani"],
       en: ["Established in 1993", "1999 forest fire area", "Over 100 bird species", "400-year-old pine trees"],
     },
-    imageHint: "Tyresta National Park old-growth forest trail",
-  },
+    imageHint: "Tyresta National Park old-growth forest trail", image: "/poi-images/sweden-tyresta-national-park-life-v2.webp"},
   {
     id: "sweden-store-mosse-national-park-life-v2",
     type: "park",
@@ -159,8 +152,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Cea mai mare mlaștină la sud de Laponia", "Important pentru migrația cocorilor", "40 km de poteci pe poduri de lemn", "Fondat în anul 1982"],
       en: ["Largest bog south of Lapland", "Important for crane migration", "40 km of boardwalk trails", "Established in 1982"],
     },
-    imageHint: "Store Mosse National Park bog landscape with boardwalk",
-  },
+    imageHint: "Store Mosse National Park bog landscape with boardwalk", image: "/poi-images/sweden-store-mosse-national-park-life-v2.webp"},
   {
     id: "sweden-stenshuvud-national-park-life-v2",
     type: "park",
@@ -179,8 +171,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Punctul cel mai înalt are 97 metri", "Bogat în specii de orhidee", "Habitat pentru pârșul de munte", "Fondat în anul 1986"],
       en: ["Highest point 97 meters", "Rich in orchid species", "Home to the hazel dormouse", "Established in 1986"],
     },
-    imageHint: "Stenshuvud National Park coastal hill and beach",
-  },
+    imageHint: "Stenshuvud National Park coastal hill and beach", image: "/poi-images/sweden-stenshuvud-national-park-life-v2.webp"},
   {
     id: "sweden-kosterhavet-life-v2",
     type: "park",
@@ -199,8 +190,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 2009", "Peste 6000 de specii marine", "Singurele recife de corali reci", "Suprafață de cca. 388 km²"],
       en: ["Established in 2009", "Over 6,000 marine species", "Only cold-water coral reefs", "Area of approx. 388 km²"],
     },
-    imageHint: "Kosterhavet National Park marine landscape and islands",
-  },
+    imageHint: "Kosterhavet National Park marine landscape and islands", image: "/poi-images/sweden-kosterhavet-life-v2.webp"},
   {
     id: "sweden-tiveden-national-park-life-v2",
     type: "park",
@@ -219,8 +209,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 1983", "Păduri de conifere vechi și sălbatice", "Amprentă puternică a glaciațiunii", "Cunoscut pentru cocoșul de munte"],
       en: ["Established in 1983", "Old, wild coniferous forests", "Strong ice age influence", "Known for capercaillies"],
     },
-    imageHint: "Tiveden National Park mossy boulders and forest",
-  },
+    imageHint: "Tiveden National Park mossy boulders and forest", image: "/poi-images/sweden-tiveden-national-park-life-v2.webp"},
   {
     id: "sweden-nordens-ark-life-v2",
     type: "wildlife",
@@ -239,8 +228,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Accent pe specii periclitate", "Găzduiește leoparzi de zăpadă", "Stație proprie de cercetare", "Programe de reproducere"],
       en: ["Focus on endangered species", "Home to snow leopards", "Own research station", "Conservation breeding programs"],
     },
-    imageHint: "Nordens Ark snow leopard in enclosure",
-  },
+    imageHint: "Nordens Ark snow leopard in enclosure", image: "/poi-images/sweden-nordens-ark-life-v2.webp"},
   {
     id: "sweden-kolmarden-wildlife-park-life-v2",
     type: "wildlife",
@@ -259,8 +247,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Cel mai mare zoo din Europa de Nord", "Prima telegondolă safari din lume", "Găzduiește tigri siberieni", "Vedere spre golful Bråviken"],
       en: ["Largest zoo in Northern Europe", "World's first safari gondola", "Home to Siberian tigers", "Views over Bråviken bay"],
     },
-    imageHint: "Kolmården Wildlife Park safari gondola over animals",
-  },
+    imageHint: "Kolmården Wildlife Park safari gondola over animals", image: "/poi-images/sweden-kolmarden-wildlife-park-life-v2.webp"},
   {
     id: "sweden-boras-zoo-life-v2",
     type: "wildlife",
@@ -299,8 +286,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Peste 16.000 de specii de plante", "Grădină de stâncărie importantă", "Inaugurată în anul 1923", "Fostă proprietate privată"],
       en: ["Over 16,000 plant species", "Major rock garden area", "Inaugurated in 1923", "Formerly a private estate"],
     },
-    imageHint: "Gothenburg Botanical Garden flowers and pathways",
-  },
+    imageHint: "Gothenburg Botanical Garden flowers and pathways", image: "/poi-images/sweden-gothenburg-botanical-garden-life-v2.webp"},
   {
     id: "sweden-bergius-botanical-garden-life-v2",
     type: "park",
@@ -319,8 +305,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondată în anul 1791", "Seră în stil victorian", "Situată pe malul lacului Brunnsviken", "Cercetare a Univ. din Stockholm"],
       en: ["Founded in 1791", "Victorian-style greenhouse", "Located by Lake Brunnsviken", "Stockholm University research site"],
     },
-    imageHint: "Bergius Botanical Garden historic greenhouse",
-  },
+    imageHint: "Bergius Botanical Garden historic greenhouse", image: "/poi-images/sweden-bergius-botanical-garden-life-v2.webp"},
   {
     id: "sweden-hornborgasjon-life-v2",
     type: "wildlife",
@@ -339,8 +324,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Mii de cocori în luna aprilie", "Zonă umedă restaurată", "Arie de protecție a păsărilor", "Centru de informare Naturum"],
       en: ["Thousands of cranes in April", "Restored wetland area", "Important bird protection area", "Naturum information center"],
     },
-    imageHint: "Hornborgasjön lake with thousands of cranes",
-  },
+    imageHint: "Hornborgasjön lake with thousands of cranes", image: "/poi-images/sweden-hornborgasjon-life-v2.webp"},
   {
     id: "sweden-getteron-nature-reserve-life-v2",
     type: "wildlife",
@@ -379,8 +363,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Adâncime foarte mică (max. 2m)", "Zone uriașe de stuf", "Naturum cu arhitectură modernă", "Important pentru eretele de stuf"],
       en: ["Very shallow depth (max. 2m)", "Huge reed bed areas", "Naturum with modern architecture", "Important for marsh harriers"],
     },
-    imageHint: "Tåkern lake with reeds and bird life",
-  },
+    imageHint: "Tåkern lake with reeds and bird life", image: "/poi-images/sweden-takern-life-v2.webp"},
   {
     id: "sweden-falsterbo-bird-observatory-life-v2",
     type: "wildlife",
@@ -399,8 +382,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Sute de mii de păsări anual", "Centru pentru inelare", "Cel mai sud-vestic punct", "Faimos pentru migrația uliilor"],
       en: ["Hundreds of thousands of birds yearly", "Center for bird ringing", "Southwesternmost tip of Sweden", "Famous for buzzard migration"],
     },
-    imageHint: "Falsterbo lighthouse and migrating birds",
-  },
+    imageHint: "Falsterbo lighthouse and migrating birds", image: "/poi-images/sweden-falsterbo-bird-observatory-life-v2.webp"},
   {
     id: "sweden-eriksberg-wildlife-park-life-v2",
     type: "wildlife",
@@ -419,8 +401,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Cel mai mare parc sălbatic din nord", "Conservarea bizonului european", "Safari cu mașina proprie", "Vedere spre coasta cu arhipelag"],
       en: ["Largest wildlife park in Northern Europe", "Conservation of European bison", "Safari with your own car", "Views of the archipelago coast"],
     },
-    imageHint: "Eriksberg Wildlife Park bison in landscape",
-  },
+    imageHint: "Eriksberg Wildlife Park bison in landscape", image: "/poi-images/sweden-eriksberg-wildlife-park-life-v2.webp"},
   {
     id: "sweden-lycksele-zoo-life-v2",
     type: "wildlife",
@@ -459,8 +440,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Doar specii de animale nordice", "Găzduiește elani și lupi", "Grădină zoologică cu contact", "Fondat în anul 1952"],
       en: ["Only Nordic animal species", "Home to moose and wolves", "Large petting zoo area", "Established in 1952"],
     },
-    imageHint: "Skånes Djurpark moose in green enclosure",
-  },
+    imageHint: "Skånes Djurpark moose in green enclosure", image: "/poi-images/sweden-skanes-djurpark-life-v2.webp"},
   {
     id: "sweden-skansen-zoo-life-v2",
     type: "wildlife",
@@ -479,8 +459,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Cel mai vechi muzeu în aer liber", "Focus pe animale nordice", "Găzduiește urși și râși", "Situat pe insula Djurgården"],
       en: ["World's oldest open-air museum", "Focus on Nordic wildlife", "Home to bears and lynxes", "Located on Djurgården island"],
     },
-    imageHint: "Skansen Zoo brown bear in rocky enclosure",
-  },
+    imageHint: "Skansen Zoo brown bear in rocky enclosure", image: "/poi-images/sweden-skansen-zoo-life-v2.webp"},
   {
     id: "sweden-kullaberg-nature-reserve-life-v2",
     type: "park",
@@ -519,8 +498,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 2001", "Cel mai înalt punct din Scania", "Cheia adâncă Kopparhatten", "Păduri predominante de fag"],
       en: ["Established in 2001", "Highest point in Scania (212m)", "Deep Kopparhatten ravine", "Primarily beech forests"],
     },
-    imageHint: "Söderåsen National Park autumn beech forest",
-  },
+    imageHint: "Söderåsen National Park autumn beech forest", image: "/poi-images/sweden-soderasen-national-park-life-v2.webp"},
   {
     id: "sweden-gotska-sandon-national-park-life-v2",
     type: "park",
@@ -539,8 +517,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 1909", "Accesibil doar cu barca", "Bogat în gândaci rari", "Colonie de foci gri"],
       en: ["Established in 1909", "Accessible only by boat", "Rich in rare beetle species", "Baltic grey seal colony"],
     },
-    imageHint: "Gotska Sandön National Park sand dunes and pines",
-  },
+    imageHint: "Gotska Sandön National Park sand dunes and pines", image: "/poi-images/sweden-gotska-sandon-national-park-life-v2.webp"},
   {
     id: "sweden-bjornlandet-national-park-life-v2",
     type: "park",
@@ -559,8 +536,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 1991", "Pini de pădure virgină", "Urme de incendii vechi", "Habitat pentru râși"],
       en: ["Established in 1991", "Impressive old-growth pines", "Traces of old forest fires", "Home to lynxes"],
     },
-    imageHint: "Björnlandet National Park old pine forest",
-  },
+    imageHint: "Björnlandet National Park old pine forest", image: "/poi-images/sweden-bjornlandet-national-park-life-v2.webp"},
   {
     id: "sweden-sonfjallet-national-park-life-v2",
     type: "park",
@@ -579,8 +555,7 @@ export const swedenLifeV2: POI[] = [
       ro: ["Fondat în anul 1909", "Populație densă de urși bruni", "Formă montană distinctivă", "Zone de pădure virgină"],
       en: ["Established in 1909", "Dense brown bear population", "Distinctive mountain shape", "Old-growth forest areas"],
     },
-    imageHint: "Sonfjället National Park mountain silhouette",
-  },
+    imageHint: "Sonfjället National Park mountain silhouette", image: "/poi-images/sweden-sonfjallet-national-park-life-v2.webp"},
   {
     id: "sweden-hamra-national-park-life-v2",
     type: "park",

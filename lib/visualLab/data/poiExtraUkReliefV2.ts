@@ -19,8 +19,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Cel mai înalt munte din Irlanda de Nord, la 850 m.", "Zidul Mourne trece direct peste vârful muntelui.", "Numit după Sfântul Domhanghart, un sfânt din secolul al V-lea.", "Din punct de vedere geologic, este format în principal din granit."],
       en: ["Highest mountain in Northern Ireland at 850 meters high.", "The Mourne Wall passes over the summit of the mountain.", "Named after Saint Domhanghart, a 5th-century saint.", "Geologically composed primarily of granite rock."],
     },
-    imageHint: "Slieve Donard peak overlooking the Irish Sea",
-  },
+    imageHint: "Slieve Donard peak overlooking the Irish Sea", image: "/poi-images/uk-slieve-donard-relief-v2.webp"},
   {
     id: "uk-the-pennines-relief-v2",
     type: "mountain",
@@ -39,8 +38,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Lanțul muntos are o lungime de aproximativ 400 km.", "Cross Fell este cel mai înalt vârf, având 893 m.", "Sunt esențiali pentru alimentarea cu apă a nordului Angliei.", "Cunoscuți pentru peisajele carstice, cum este Malham Cove."],
       en: ["The mountain range is approximately 400 kilometers long.", "Cross Fell is the highest peak at 893 meters.", "Essential for the water supply of Northern England.", "Famous for karst landscapes like Malham Cove."],
     },
-    imageHint: "Rolling hills of the Pennines landscape in England",
-  },
+    imageHint: "Rolling hills of the Pennines landscape in England", image: "/poi-images/uk-the-pennines-relief-v2.webp"},
   {
     id: "uk-the-cairngorms-relief-v2",
     type: "mountain",
@@ -59,8 +57,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Include cinci dintre cei mai înalți șase munți din Scoția.", "Cunoscut pentru flora și fauna alpină subarctică.", "Adăpostește singura turmă de reni semi-sălbatici din UK.", "Este format preponderent din rocă de granit dură."],
       en: ["Contains five of the six highest mountains in Scotland.", "Known for its sub-arctic alpine flora and fauna.", "Home to the UK's only semi-wild reindeer herd.", "Geologically composed mainly of tough granite rock."],
     },
-    imageHint: "Cairngorms mountain plateau in Scotland",
-  },
+    imageHint: "Cairngorms mountain plateau in Scotland", image: "/poi-images/uk-the-cairngorms-relief-v2.webp"},
   {
     id: "uk-the-fens-relief-v2",
     type: "landmark",
@@ -79,8 +76,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Acoperă o suprafață de aproape 3900 de kilometri pătrați.", "Holme Fen se află la 2,75 metri sub nivelul mării.", "Drenarea pe scară largă a început în secolul al XVII-lea.", "Astăzi este una dintre cele mai fertile regiuni agricole din Anglia."],
       en: ["Covers an area of nearly 3,900 square kilometers.", "Holme Fen is the lowest point at 2.75m below sea level.", "Large-scale drainage began in the 17th century.", "Now one of the most fertile agricultural regions in England."],
     },
-    imageHint: "Flat agricultural landscape of the Fens in England",
-  },
+    imageHint: "Flat agricultural landscape of the Fens in England", image: "/poi-images/uk-the-fens-relief-v2.webp"},
   {
     id: "uk-brecon-beacons-relief-v2",
     type: "mountain",
@@ -99,8 +95,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Vârful Pen y Fan este cel mai înalt, având 886 m.", "Geologic, este format din gresie roșie veche.", "A fost desemnat parc național în anul 1957.", "Cunoscut pentru crestele abrupte și circurile glaciare."],
       en: ["Pen y Fan is the highest peak at 886 meters.", "Geologically composed of Old Red Sandstone.", "Designated as a National Park in the year 1957.", "Known for steep ridges and glacier-formed cirques."],
     },
-    imageHint: "Brecon Beacons rolling green mountains in Wales",
-  },
+    imageHint: "Brecon Beacons rolling green mountains in Wales", image: "/poi-images/uk-brecon-beacons-relief-v2.webp"},
   {
     id: "uk-dartmoor-relief-v2",
     type: "mountain",
@@ -119,8 +114,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Acoperă o suprafață de aproximativ 954 km pătrați.", "High Willhays este cel mai înalt punct, la 621 m.", "Cunoscut pentru poneii Dartmoor care trăiesc în semi-libertate.", "Conține peste 160 de 'tors' (stânci de granit izolate)."],
       en: ["Covers an area of approximately 954 square kilometers.", "High Willhays is the highest point at 621 meters.", "Famous for the semi-wild Dartmoor ponies.", "Contains over 160 tors (exposed granite rock formations)."],
     },
-    imageHint: "Dartmoor moorland with granite tor rock formation",
-  },
+    imageHint: "Dartmoor moorland with granite tor rock formation", image: "/poi-images/uk-dartmoor-relief-v2.webp"},
   {
     id: "uk-grampian-mountains-relief-v2",
     type: "mountain",
@@ -139,8 +133,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Includ Ben Nevis, cel mai înalt munte din Regatul Unit.", "S-au format în timpul orogenezei caledoniene.", "Centru important pentru sporturile de iarnă în Scoția.", "Sunt separați de Northwest Highlands prin valea Great Glen."],
       en: ["Contains Ben Nevis, the highest mountain in the UK.", "Formed during the Caledonian Orogeny period.", "Important center for winter sports in Scotland.", "Separated from the Northwest Highlands by the Great Glen."],
     },
-    imageHint: "Grampian Mountains landscape in central Scotland",
-  }
+    imageHint: "Grampian Mountains landscape in central Scotland", image: "/poi-images/uk-grampian-mountains-relief-v2.webp"}
 ,
   {
     id: "uk-pennines-relief-v2",
@@ -180,8 +173,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Cel mai înalt punct este Kinder Scout la 636 metri", "Primul parc național din Regatul Unit", "Zona Dark Peak este formată din gresie", "White Peak este renumit pentru cheile de calcar"],
       en: ["Highest point is Kinder Scout at 636 meters", "First National Park in the United Kingdom", "Dark Peak consists of gritstone edges", "White Peak is known for deep limestone dales"],
     },
-    imageHint: "Rolling hills of the Peak District at sunrise",
-  },
+    imageHint: "Rolling hills of the Peak District at sunrise", image: "/poi-images/uk-peak-district-relief-v2.webp"},
   {
     id: "uk-cotswolds-relief-v2",
     type: "landmark",
@@ -200,8 +192,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Cel mai înalt punct este Cleeve Hill la 330 metri", "Format din calcar jurasic", "Constituie cumpăna apelor între Tamisa și Severn", "Renumit pentru solul și rocile calcaroase de culoarea mierii"],
       en: ["Highest point is Cleeve Hill at 330 meters", "Composed of Jurassic limestone", "Forms the drainage divide between Thames and Severn", "Famous for honey-colored limestone geology"],
     },
-    imageHint: "Rolling green hills of the Cotswolds",
-  },
+    imageHint: "Rolling green hills of the Cotswolds", image: "/poi-images/uk-cotswolds-relief-v2.webp"},
   {
     id: "uk-lake-district-relief-v2",
     type: "mountain",
@@ -220,8 +211,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Scafell Pike la 978 metri", "Rocile datează din perioada ordoviciană", "Peisajul a fost modelat de ghețari de vale", "Masivul muntos central are o formă aproape circulară"],
       en: ["Highest peak is Scafell Pike at 978 meters", "Rocks date back to the Ordovician period", "Landscape shaped by valley glaciers", "Central massif is nearly circular in shape"],
     },
-    imageHint: "Mountainous landscape and lakes of the Lake District",
-  },
+    imageHint: "Mountainous landscape and lakes of the Lake District", image: "/poi-images/uk-lake-district-relief-v2.webp"},
   {
     id: "uk-mourne-mountains-relief-v2",
     type: "mountain",
@@ -240,8 +230,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Slieve Donard la 850 metri", "Format din granit paleogen", "Găzduiește celebrul Zid Mourne", "Format prin activitate vulcanică în era terțiară"],
       en: ["Highest point is Slieve Donard at 850 meters", "Composed of Paleogene granite", "Home to the famous Mourne Wall", "Formed during Tertiary volcanic activity"],
     },
-    imageHint: "Slieve Donard peak in the Mourne Mountains",
-  },
+    imageHint: "Slieve Donard peak in the Mourne Mountains", image: "/poi-images/uk-mourne-mountains-relief-v2.webp"},
   {
     id: "uk-antrim-plateau-relief-v2",
     type: "landmark",
@@ -260,8 +249,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Cea mai mare suprafață de bazalt din Europa", "Include Giant's Causeway pe zona de coastă", "Pantele coboară spre sud-vest către Lough Neagh", "Marginea nordică formează faleze abrupte"],
       en: ["Largest basalt area in Europe", "Includes the Giant's Causeway on its coast", "Slopes gently southwest toward Lough Neagh", "Edges form steep cliffs along the northern coast"],
     },
-    imageHint: "Basalt cliffs of the Antrim Plateau",
-  },
+    imageHint: "Basalt cliffs of the Antrim Plateau", image: "/poi-images/uk-antrim-plateau-relief-v2.webp"},
   {
     id: "uk-cairngorms-relief-v2",
     type: "mountain",
@@ -280,8 +268,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Include 5 din cele 6 cele mai înalte vârfuri scoțiene", "Format dintr-un batolit central de granit", "Cel mai înalt punct este Ben Macdui la 1309 metri", "Caracterizat prin circuri glaciare și platouri înalte"],
       en: ["Contains 5 of the 6 highest mountains in Scotland", "Central granite batholith formation", "Highest point is Ben Macdui at 1309 meters", "Characterized by large corries and high plateaus"],
     },
-    imageHint: "High arctic plateau of the Cairngorm Mountains",
-  }
+    imageHint: "High arctic plateau of the Cairngorm Mountains", image: "/poi-images/uk-cairngorms-relief-v2.webp"}
 ,
   {
     id: "uk-bodmin-moor-relief-v2",
@@ -321,8 +308,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Înălțime: 636 de metri", "Găzduiește cascada Kinder Downfall", "Compus din gresie Millstone Grit", "Punct de plecare pentru Pennine Way"],
       en: ["Elevation: 636 meters", "Home to Kinder Downfall waterfall", "Composed of Millstone Grit sandstone", "Starting point of the Pennine Way"],
     },
-    imageHint: "Kinder Scout plateau landscape with rocky edges",
-  },
+    imageHint: "Kinder Scout plateau landscape with rocky edges", image: "/poi-images/uk-kinder-scout-relief-v2.webp"},
   {
     id: "uk-salisbury-plain-relief-v2",
     type: "landmark",
@@ -341,8 +327,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Suprafață de aproximativ 780 km²", "Cea mai mare pajiște calcaroasă din UK", "Conține numeroase terasamente preistorice", "Cea mai mare zonă de antrenament militar din UK"],
       en: ["Area of approx 780 sq km", "Largest chalk grassland in the UK", "Contains numerous prehistoric earthworks", "UK's largest military training area"],
     },
-    imageHint: "Rolling chalk grasslands of Salisbury Plain",
-  },
+    imageHint: "Rolling chalk grasslands of Salisbury Plain", image: "/poi-images/uk-salisbury-plain-relief-v2.webp"},
   {
     id: "uk-the-cuillin-relief-v2",
     type: "mountain",
@@ -361,8 +346,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Sgùrr Alasdair (992 m)", "Compus din gabro închis la culoare și granit", "Faimos pentru rute de escaladă dificile", "Format prin activitate vulcanică"],
       en: ["Highest peak: Sgùrr Alasdair (992 m)", "Composed of dark gabbro and granite", "Famous for difficult climbing routes", "Formed by volcanic activity"],
     },
-    imageHint: "Jagged peaks of the Black Cuillin on Skye",
-  },
+    imageHint: "Jagged peaks of the Black Cuillin on Skye", image: "/poi-images/uk-the-cuillin-relief-v2.webp"},
   {
     id: "uk-mendip-hills-relief-v2",
     type: "mountain",
@@ -381,8 +365,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Găzduiește Cheile Cheddar", "Cel mai înalt punct: Beacon Batch (325 m)", "Cunoscut pentru peșterile Wookey Hole", "Zonă minieră istorică pentru plumb"],
       en: ["Home to the famous Cheddar Gorge", "Highest point: Beacon Batch (325 m)", "Known for Wookey Hole Caves", "Historically important for lead mining"],
     },
-    imageHint: "Cheddar Gorge in the Mendip Hills",
-  },
+    imageHint: "Cheddar Gorge in the Mendip Hills", image: "/poi-images/uk-mendip-hills-relief-v2.webp"},
   {
     id: "uk-sperrin-mountains-relief-v2",
     type: "mountain",
@@ -401,8 +384,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Sawel Mountain (678 m)", "Lanț muntos lung de peste 60 km", "Bogat în zăcăminte de aur", "Compus din roci metamorfice"],
       en: ["Highest peak: Sawel Mountain (678 m)", "Range spans over 60 km in length", "Rich in gold deposits", "Composed of metamorphic rocks"],
     },
-    imageHint: "Rounded peaks of the Sperrin Mountains",
-  },
+    imageHint: "Rounded peaks of the Sperrin Mountains", image: "/poi-images/uk-sperrin-mountains-relief-v2.webp"},
   {
     id: "uk-north-york-moors-relief-v2",
     type: "park",
@@ -421,8 +403,7 @@ export const ukReliefV2: POI[] = [
       ro: ["Parc național din 1952", "Compus din calcar și gresie", "Conține cele mai înalte stânci din Anglia", "Faimos pentru înflorirea ericilor în august"],
       en: ["National Park since 1952", "Composed of limestone and sandstone", "Contains the highest cliffs in England", "Famous for blooming heather in August"],
     },
-    imageHint: "North York Moors landscape with purple heather",
-  },
+    imageHint: "North York Moors landscape with purple heather", image: "/poi-images/uk-north-york-moors-relief-v2.webp"},
   {
     id: "uk-malvern-hills-relief-v2",
     type: "mountain",

@@ -54,8 +54,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["A Bakoy mellékfolyója", "Természetvédelmi terület"],
       ro: ["Afluent al Bakoy", "Rezervație naturală"],
       en: ["Tributary of Bakoy", "Nature reserve"]
-    }
-  },
+    }, image: "/poi-images/baoule-river-nature-v2.webp"},
   {
     id: "faleme-river-nature-v2",
     type: "river",
@@ -68,8 +67,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Határfolyó", "Aranylelőhely"],
       ro: ["Râu de frontieră", "Zăcăminte de aur"],
       en: ["Border river", "Gold deposits"]
-    }
-  },
+    }, image: "/poi-images/faleme-river-nature-v2.webp"},
   {
     id: "lake-debore-nature-v2",
     type: "lake",
@@ -173,8 +171,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["A Szenegál folyó mellékága", "Sivatagi peremfolyó"],
       ro: ["Afluent al Senegalului", "Râu de marginea deșertului"],
       en: ["Tributary of Senegal", "Desert margin river"]
-    }
-  },
+    }, image: "/poi-images/bakoy-river-nature-v2.webp"},
   {
     id: "lake-niangay-nature-v2",
     type: "lake",

@@ -19,8 +19,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Dată în exploatare în 2006", "Capacitate electrică de 303 MW", "Putere termică de 400 MW", "Utilizează tehnologia Carbfix pentru stocarea CO2"],
       en: ["Commissioned in 2006", "Electricity capacity of 303 MW", "Thermal output of 400 MW", "Uses Carbfix technology for carbon storage"],
     },
-    imageHint: "Hellisheidi Geothermal Power Plant aerial view",
-  },
+    imageHint: "Hellisheidi Geothermal Power Plant aerial view", image: "/poi-images/iceland-hellisheidi-power-station-economic-v2.webp"},
   {
     id: "iceland-nesjavellir-power-station-economic-v2",
     type: "industry",
@@ -39,8 +38,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Construită între 1987 și 1990", "Produce 120 MW de energie electrică", "Livrează 1.100 litri de apă caldă pe secundă", "Situată în zona vulcanică activă Hengill"],
       en: ["Construction lasted from 1987 to 1990", "Produces 120 MW of electrical energy", "Supplies 1,100 liters of hot water per second", "Located in the active Hengill volcanic area"],
     },
-    imageHint: "Nesjavellir Power Station pipes and steam",
-  },
+    imageHint: "Nesjavellir Power Station pipes and steam", image: "/poi-images/iceland-nesjavellir-power-station-economic-v2.webp"},
   {
     id: "iceland-karahnjukar-hydropower-plant-economic-v2",
     type: "industry",
@@ -59,8 +57,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Dată în folosință în 2007", "Are o capacitate de 690 MW", "Înălțimea barajului este de 193 de metri", "Utilizează râuri glaciare de la Vatnajökull"],
       en: ["Commissioned in 2007", "Has a capacity of 690 MW", "Dam height of 193 meters", "Utilizes glacial rivers from Vatnajökull"],
     },
-    imageHint: "Karahnjukar dam and reservoir Iceland",
-  },
+    imageHint: "Karahnjukar dam and reservoir Iceland", image: "/poi-images/iceland-karahnjukar-hydropower-plant-economic-v2.webp"},
   {
     id: "iceland-straumsvik-aluminium-smelter-economic-v2",
     type: "factory",
@@ -79,8 +76,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Operată de Rio Tinto", "Producție anuală de aproximativ 210.000 tone", "Prima fabrică din Islanda care a primit certificarea ISO 14001", "Utilizează exclusiv energie regenerabilă"],
       en: ["Operated by Rio Tinto", "Annual production of approx. 210,000 tonnes", "First plant in Iceland to receive ISO 14001 certification", "Uses exclusively renewable energy"],
     },
-    imageHint: "Straumsvik aluminium smelter coast Iceland",
-  },
+    imageHint: "Straumsvik aluminium smelter coast Iceland", image: "/poi-images/iceland-straumsvik-aluminium-smelter-economic-v2.webp"},
   {
     id: "iceland-fjardaal-aluminium-smelter-economic-v2",
     type: "factory",
@@ -99,8 +95,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Începerea producției în 2007", "Capacitate de 360.000 de tone pe an", "Angajează direct aproximativ 450 de persoane", "Cel mai mare angajator privat din estul Islandei"],
       en: ["Start of production in 2007", "Capacity of 360,000 tonnes per year", "Employs approximately 450 people directly", "Largest private employer in East Iceland"],
     },
-    imageHint: "Alcoa Fjardaal smelter Reydarfjordur Iceland",
-  },
+    imageHint: "Alcoa Fjardaal smelter Reydarfjordur Iceland", image: "/poi-images/iceland-fjardaal-aluminium-smelter-economic-v2.webp"},
   {
     id: "iceland-grundartangi-aluminium-smelter-economic-v2",
     type: "industry",
@@ -119,8 +114,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Uzina de aluminiu este operată de Norðurál", "Uzina de ferosiliciu aparține Elkem", "Port propriu de adâncime pentru export", "Produce peste 300.000 de tone de aluminiu anual"],
       en: ["Aluminium plant operated by Norðurál", "Ferrosilicon plant owned by Elkem", "Has its own deep-water port for exports", "Produces over 300,000 tonnes of aluminium annually"],
     },
-    imageHint: "Grundartangi industrial site Hvalfjordur",
-  },
+    imageHint: "Grundartangi industrial site Hvalfjordur", image: "/poi-images/iceland-grundartangi-aluminium-smelter-economic-v2.webp"},
   {
     id: "iceland-reykjavik-port-economic-v2",
     type: "port",
@@ -139,8 +133,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Fondat la începutul secolului XX", "Format din Portul Vechi și Sundahöfn", "Cel mai important terminal de containere din țară", "Centrul industriei de observare a balenelor din Islanda"],
       en: ["Founded in the early 20th century", "Consists of the Old Harbour and Sundahöfn", "Most important container terminal in the country", "Center of the Icelandic whale watching industry"],
     },
-    imageHint: "Reykjavik Old Harbour with fishing boats",
-  },
+    imageHint: "Reykjavik Old Harbour with fishing boats", image: "/poi-images/iceland-reykjavik-port-economic-v2.webp"},
   {
     id: "iceland-akureyri-port-economic-v2",
     type: "port",
@@ -159,8 +152,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Bază importantă pentru pescuitul de mare adâncime", "Dispune de instalații moderne de procesare a peștelui", "Punct de oprire pentru peste 100 de nave de croazieră anual", "Port liber de gheață pe tot parcursul anului"],
       en: ["Significant base for deep-sea fishing", "Features modern fish processing facilities", "Host to over 100 cruise ships annually", "Ice-free harbour throughout the year"],
     },
-    imageHint: "Port of Akureyri with cruise ship",
-  },
+    imageHint: "Port of Akureyri with cruise ship", image: "/poi-images/iceland-akureyri-port-economic-v2.webp"},
   {
     id: "iceland-grindavik-port-economic-v2",
     type: "port",
@@ -179,8 +171,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Specializat în cod și pește sărat", "Centrul economic al peninsulei Reykjanes", "Portul de origine al unei flote mari de pescuit", "Instalații portuare modernizate din anii 1970"],
       en: ["Specializes in cod and salted fish", "Economic center of the Reykjanes peninsula", "Home port to a large fishing fleet", "Modernized harbour facilities since the 1970s"],
     },
-    imageHint: "Grindavik harbour with fishing fleet",
-  },
+    imageHint: "Grindavik harbour with fishing fleet", image: "/poi-images/iceland-grindavik-port-economic-v2.webp"},
   {
     id: "iceland-vestmannaeyjar-port-economic-v2",
     type: "port",
@@ -199,8 +190,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Amenințat de erupția Eldfell în 1973", "Răcirea lavei a salvat intrarea în port", "Centru pentru exportul de pește de înaltă calitate", "Unul dintre cele mai aglomerate porturi din Islanda"],
       en: ["Threatened by the Eldfell eruption in 1973", "Cooling of lava saved the harbour entrance", "Center for high-quality fish exports", "One of the busiest ports in Iceland"],
     },
-    imageHint: "Heimaey harbour entrance volcanic rocks",
-  },
+    imageHint: "Heimaey harbour entrance volcanic rocks", image: "/poi-images/iceland-vestmannaeyjar-port-economic-v2.webp"},
   {
     id: "iceland-keflavik-airport-economic-v2",
     type: "industry",
@@ -219,8 +209,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Deschis în 1943 ca bază militară", "Procesează peste 7 milioane de pasageri anual", "Hub central pentru Icelandair", "Cel mai important angajator din regiunea Suðurnes"],
       en: ["Opened in 1943 as a military base", "Processes over 7 million passengers annually", "Central hub for Icelandair", "Most important employer in the Suðurnes region"],
     },
-    imageHint: "Keflavik International Airport terminal exterior",
-  },
+    imageHint: "Keflavik International Airport terminal exterior", image: "/poi-images/iceland-keflavik-airport-economic-v2.webp"},
   {
     id: "iceland-hveragerdi-greenhouses-economic-v2",
     type: "industry",
@@ -239,8 +228,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Utilizează izvoare termale naturale pentru încălzire", "Centrul horticulturii islandeze", "Aici se cultivă chiar și banane și papaya", "Locație importantă pentru cercetarea agricolă"],
       en: ["Uses natural hot springs for heating", "Center of Icelandic horticulture", "Even bananas and papayas are grown here", "Important site for agricultural research"],
     },
-    imageHint: "Hveragerdi greenhouses lit up at night",
-  },
+    imageHint: "Hveragerdi greenhouses lit up at night", image: "/poi-images/iceland-hveragerdi-greenhouses-economic-v2.webp"},
   {
     id: "iceland-selfoss-dairy-plant-economic-v2",
     type: "factory",
@@ -259,8 +247,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Face parte din cooperativa Mjólkursamsalan (MS)", "Locul de producție al celebrului Skyr islandez", "Procesează peste 80 de milioane de litri de lapte anual", "Pilon central al economiei regionale"],
       en: ["Part of the Mjólkursamsalan (MS) cooperative", "Production site for the famous Icelandic Skyr", "Processes over 80 million liters of milk annually", "Central pillar of the regional economy"],
     },
-    imageHint: "Selfoss dairy processing plant exterior",
-  },
+    imageHint: "Selfoss dairy processing plant exterior", image: "/poi-images/iceland-selfoss-dairy-plant-economic-v2.webp"},
   {
     id: "iceland-svartsengi-power-station-economic-v2",
     type: "industry",
@@ -279,8 +266,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Dată în exploatare în 1976", "Alimentează cu energie peninsula Reykjanes", "Apele reziduale umplu bazinul Lagunei Albastre", "Utilizează geotermia de la 2.000 de metri adâncime"],
       en: ["Commissioned in 1976", "Supplies energy to the Reykjanes peninsula", "Run-off water fills the Blue Lagoon basin", "Uses geothermal energy from 2,000 meters depth"],
     },
-    imageHint: "Svartsengi power plant near Blue Lagoon",
-  },
+    imageHint: "Svartsengi power plant near Blue Lagoon", image: "/poi-images/iceland-svartsengi-power-station-economic-v2.webp"},
   {
     id: "iceland-krafla-power-station-economic-v2",
     type: "industry",
@@ -299,8 +285,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Deschiderea în 1977 a fost amânată de erupții", "Dispune de două turbine de 30 MW", "Prima centrală geotermală majoră din țară", "Situată direct deasupra unei camere magmatice"],
       en: ["Opening in 1977 delayed by volcanic eruptions", "Features two 30 MW turbines", "First major geothermal power plant in the country", "Located directly above a magma chamber"],
     },
-    imageHint: "Krafla geothermal power plant steam Iceland",
-  },
+    imageHint: "Krafla geothermal power plant steam Iceland", image: "/poi-images/iceland-krafla-power-station-economic-v2.webp"},
   {
     id: "iceland-burfell-hydropower-plant-economic-v2",
     type: "industry",
@@ -359,8 +344,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Construită între 1973 și 1977", "Putere de 150 MW", "Reglează fluxul de apă pentru centralele din aval", "Punct de plecare frecvent pentru tururi montane"],
       en: ["Built between 1973 and 1977", "Capacity of 150 MW", "Regulates water flow for downstream plants", "Common starting point for highland tours"],
     },
-    imageHint: "Sigalda power station in highlands",
-  },
+    imageHint: "Sigalda power station in highlands", image: "/poi-images/iceland-sigalda-hydropower-plant-economic-v2.webp"},
   {
     id: "iceland-hrauneyjafoss-hydropower-plant-economic-v2",
     type: "industry",
@@ -399,8 +383,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Dată în exploatare în 2001", "Putere de 90 MW", "Controlată de la distanță din Reykjavík", "Parte importantă a sistemului Thjorsa-Tungnaa"],
       en: ["Commissioned in 2001", "Capacity of 90 MW", "Remote controlled from Reykjavík", "Key component of the Thjorsa-Tungnaa system"],
     },
-    imageHint: "Vatnsfell power plant highland landscape",
-  },
+    imageHint: "Vatnsfell power plant highland landscape", image: "/poi-images/iceland-vatnsfell-hydropower-plant-economic-v2.webp"},
   {
     id: "iceland-blonda-hydropower-plant-economic-v2",
     type: "industry",
@@ -419,8 +402,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Dată în exploatare în 1991", "Produce aproximativ 150 MW de energie", "Sala mașinilor este la 200 de metri sub pământ", "Prima centrală majoră din nordul Islandei"],
       en: ["Commissioned in 1991", "Generates approx. 150 MW of power", "The powerhouse is 200 meters underground", "First major power plant in North Iceland"],
     },
-    imageHint: "Blondustod hydropower plant dam area",
-  },
+    imageHint: "Blondustod hydropower plant dam area", image: "/poi-images/iceland-blonda-hydropower-plant-economic-v2.webp"},
   {
     id: "iceland-ljosafoss-hydropower-plant-economic-v2",
     type: "industry",
@@ -439,8 +421,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Dată în exploatare în 1937", "Putere instalată de 15 MW", "Găzduiește un muzeu al istoriei electricității", "Monument tehnic important al țării"],
       en: ["Commissioned in 1937", "Installed capacity of 15 MW", "Houses a museum on the history of electricity", "Important technical monument of the country"],
     },
-    imageHint: "Ljosafoss power station at Sog river",
-  },
+    imageHint: "Ljosafoss power station at Sog river", image: "/poi-images/iceland-ljosafoss-hydropower-plant-economic-v2.webp"},
   {
     id: "iceland-theistareykir-geothermal-power-economic-v2",
     type: "industry",
@@ -479,8 +460,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Locație importantă a companiei Eskja", "Procesează zeci de mii de tone de pește anual", "Dispune de fabrici moderne de făină de pește", "Centrul pescuitului pelagic din est"],
       en: ["Important site for the company Eskja", "Processes tens of thousands of tonnes of fish annually", "Features modern fishmeal plants", "Center of pelagic fishing in the East"],
     },
-    imageHint: "Eskifjordur harbour with fish processing plants",
-  },
+    imageHint: "Eskifjordur harbour with fish processing plants", image: "/poi-images/iceland-eskifjordur-port-economic-v2.webp"},
   {
     id: "iceland-neskaupstadur-port-economic-v2",
     type: "port",
@@ -499,8 +479,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Sediul companiei de pescuit Síldarvinnslan", "Dispune de capacități pentru congelare și conserve", "Centru pentru procesarea mihalțului albastru", "Punct important de export pentru fructe de mare"],
       en: ["Headquarters of the Síldarvinnslan fishing company", "Has capacities for deep-freezing and canning", "Center for blue whiting processing", "Significant export point for seafood"],
     },
-    imageHint: "Neskaupstadur port and mountain backdrop",
-  },
+    imageHint: "Neskaupstadur port and mountain backdrop", image: "/poi-images/iceland-neskaupstadur-port-economic-v2.webp"},
   {
     id: "iceland-hofn-port-economic-v2",
     type: "port",
@@ -519,8 +498,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Capitala neoficială a homarului din Islanda", "Festivalul anual al homarului atrage investiții", "Intrare dificilă în port din cauza bancurilor de nisip", "Punct logistic important în sud-est"],
       en: ["Iceland's unofficial lobster capital", "Annual lobster festival attracts investment", "Challenging harbour entrance due to sandbars", "Important logistics point in the Southeast"],
     },
-    imageHint: "Hofn harbour with fishing boats Iceland",
-  },
+    imageHint: "Hofn harbour with fishing boats Iceland", image: "/poi-images/iceland-hofn-port-economic-v2.webp"},
   {
     id: "iceland-dalvik-port-economic-v2",
     type: "port",
@@ -539,8 +517,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Portul de origine al flotei Samherji", "Centru pentru procesarea peștelui congelat", "Port de feribot important către insula Grímsey", "Ziua anuală a peștelui celebrează industria"],
       en: ["Home port of the Samherji fleet", "Center for frozen fish processing", "Key ferry terminal for Grímsey island", "Annual 'Great Fish Day' celebrates the industry"],
     },
-    imageHint: "Dalvik harbour with mountains in north",
-  },
+    imageHint: "Dalvik harbour with mountains in north", image: "/poi-images/iceland-dalvik-port-economic-v2.webp"},
   {
     id: "iceland-siglufjordur-port-economic-v2",
     type: "port",
@@ -559,8 +536,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Era de aur a pescuitului în anii 1940", "Noua conexiune prin tunel stimulează comerțul", "Găzduiește Muzeul Heringului, premiat internațional", "Destinație în creștere pentru croaziere de lux"],
       en: ["Golden era of fishing in the 1940s", "New tunnel connection boosts trade", "Home to the award-winning Herring Era Museum", "Growing destination for luxury cruises"],
     },
-    imageHint: "Siglufjordur harbour and Herring Era Museum",
-  },
+    imageHint: "Siglufjordur harbour and Herring Era Museum", image: "/poi-images/iceland-siglufjordur-port-economic-v2.webp"},
   {
     id: "iceland-akranes-port-economic-v2",
     type: "port",
@@ -579,8 +555,7 @@ export const icelandEconomicV2: POI[] = [
       ro: ["Fostul sediu al fabricii de ciment de stat", "Punct important de transbordare pentru bunuri industriale", "Centru pentru repararea navelor de pescuit", "Cel mai important port din regiunea Vesturland"],
       en: ["Former site of the state cement factory", "Significant transshipment point for industrial goods", "Center for fishing vessel repairs", "Most important port in the Vesturland region"],
     },
-    imageHint: "Akranes harbour and old lighthouse",
-  },
+    imageHint: "Akranes harbour and old lighthouse", image: "/poi-images/iceland-akranes-port-economic-v2.webp"},
   {
     id: "iceland-reykjanes-geothermal-power-economic-v2",
     type: "industry",

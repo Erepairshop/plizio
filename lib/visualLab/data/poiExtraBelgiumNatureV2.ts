@@ -19,8 +19,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Cel mai înalt punct din Belgia", "Altitudine naturală de 694 metri", "Dealul Baltia atinge 700 metri", "Situat în provincia Liège"],
       en: ["Highest elevation in Belgium", "694 meters natural altitude", "Baltia mound reaches 700 meters", "Located in Liège Province"],
     },
-    imageHint: "Signal de Botrange stone tower and monument in High Fens",
-  },
+    imageHint: "Signal de Botrange stone tower and monument in High Fens", image: "/poi-images/belgium-signal-de-botrange-nature-v2.webp"},
   {
     id: "belgium-sonian-forest-nature-v2",
     type: "forest",
@@ -39,8 +38,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["4.400 de hectare de fagi", "Patrimoniu UNESCO din 2017", "Arbori de peste 200 de ani", "Plămânul verde al Bruxelles-ului"],
       en: ["4,400 hectares of beech forest", "UNESCO World Heritage since 2017", "Trees over 200 years old", "Green lung of Brussels"],
     },
-    imageHint: "Tall beech trees in the Sonian Forest near Brussels",
-  },
+    imageHint: "Tall beech trees in the Sonian Forest near Brussels", image: "/poi-images/belgium-sonian-forest-nature-v2.webp"},
   {
     id: "belgium-cascade-de-coo-nature-v2",
     type: "landmark",
@@ -59,8 +57,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Înălțime de 15 metri", "Alimentată de râul Amblève", "Creată artificial în sec. XVII", "Situată lângă Stavelot"],
       en: ["Height of 15 meters", "Fed by the Amblève river", "Man-made origin in the 17th century", "Located near Stavelot"],
     },
-    imageHint: "Cascade de Coo waterfall with bridge",
-  },
+    imageHint: "Cascade de Coo waterfall with bridge", image: "/poi-images/belgium-cascade-de-coo-nature-v2.webp"},
   {
     id: "belgium-caves-of-han-nature-v2",
     type: "landmark",
@@ -79,8 +76,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Formate de râul Lesse", "Cea mai mare sală are 145m înălțime", "Deschise publicului din sec. XIX", "Situate în munții Ardeni"],
       en: ["Carved by the river Lesse", "Largest hall is 145 meters high", "Tourist site since the 19th century", "Located in the Ardennes region"],
     },
-    imageHint: "Stalactites and stalagmites inside the Caves of Han",
-  },
+    imageHint: "Stalactites and stalagmites inside the Caves of Han", image: "/poi-images/belgium-caves-of-han-nature-v2.webp"},
   {
     id: "belgium-meuse-river-nature-v2",
     type: "river",
@@ -99,8 +95,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Lungime totală de 925 km", "Trece prin Namur și Liège", "Cale navigabilă majoră", "Se varsă în Marea Nordului"],
       en: ["Total length of 925 km", "Flows through Namur and Liège", "Major commercial waterway", "Discharges into the North Sea"],
     },
-    imageHint: "Meuse river flowing through the Ardennes valley in Namur",
-  },
+    imageHint: "Meuse river flowing through the Ardennes valley in Namur", image: "/poi-images/belgium-meuse-river-nature-v2.webp"},
   {
     id: "belgium-scheldt-river-nature-v2",
     type: "river",
@@ -119,8 +114,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Lungime de 350 km", "Leagă Antwerpen de mare", "Afectat puternic de maree", "Cel mai important râu din Flandra"],
       en: ["Total length of 350 km", "Connects Antwerp to the sea", "Subject to tidal influences", "Flanders' most important river"],
     },
-    imageHint: "Scheldt river in Antwerp with city skyline",
-  },
+    imageHint: "Scheldt river in Antwerp with city skyline", image: "/poi-images/belgium-scheldt-river-nature-v2.webp"},
   {
     id: "belgium-ourthe-river-nature-v2",
     type: "river",
@@ -139,8 +133,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Afluent al fluviului Meuse", "Lungime de aproximativ 165 km", "Trece prin Durbuy și Liège", "Popular pentru caiac"],
       en: ["Tributary of the Meuse", "Length of about 165 km", "Passes through Durbuy and Liège", "Popular for kayaking"],
     },
-    imageHint: "Ourthe river winding through Ardennes forests",
-  },
+    imageHint: "Ourthe river winding through Ardennes forests", image: "/poi-images/belgium-ourthe-river-nature-v2.webp"},
   {
     id: "belgium-semois-river-nature-v2",
     type: "river",
@@ -159,8 +152,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Trece prin orașul Bouillon", "Lungime de 210 km", "Faimos istoric pentru tutun", "Meandre foarte pronunțate"],
       en: ["Passes through Bouillon", "Length of 210 km", "Historically famous for tobacco", "Deeply winding meanders"],
     },
-    imageHint: "Semois river meander at Frahan viewpoint",
-  },
+    imageHint: "Semois river meander at Frahan viewpoint", image: "/poi-images/belgium-semois-river-nature-v2.webp"},
   {
     id: "belgium-lesse-river-nature-v2",
     type: "river",
@@ -179,8 +171,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Curge prin subteran parțial", "Lungime de 89 km", "Vărsare lângă Dinant", "Destinație populară pentru caiac"],
       en: ["Flows underground for a section", "Total length of 89 km", "Mouth near Dinant", "Popular kayaking destination"],
     },
-    imageHint: "Lesse river flowing through limestone cliffs",
-  },
+    imageHint: "Lesse river flowing through limestone cliffs", image: "/poi-images/belgium-lesse-river-nature-v2.webp"},
   {
     id: "belgium-lake-butgenbach-nature-v2",
     type: "lake",
@@ -199,8 +190,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Rezervor pe râul Warche", "Finalizat în anul 1932", "Suprafață de 120 hectare", "Situat în estul Belgiei"],
       en: ["Reservoir on the Warche river", "Completed in 1932", "Surface area of 120 hectares", "Located in Eastern Belgium"],
     },
-    imageHint: "Bütgenbach lake with forest and dam",
-  },
+    imageHint: "Bütgenbach lake with forest and dam", image: "/poi-images/belgium-lake-butgenbach-nature-v2.webp"},
   {
     id: "belgium-lake-robertville-nature-v2",
     type: "lake",
@@ -219,8 +209,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Baraj în arc din 1928", "Suprafață de 62 hectare", "Adâncime maximă de 50 metri", "Lângă castelul Reinhardstein"],
       en: ["Arch dam built in 1928", "Surface area of 62 hectares", "Maximum depth of 50 meters", "Near Reinhardstein Castle"],
     },
-    imageHint: "Robertville lake with dam and wooded shores",
-  },
+    imageHint: "Robertville lake with dam and wooded shores", image: "/poi-images/belgium-lake-robertville-nature-v2.webp"},
   {
     id: "belgium-lake-gileppe-nature-v2",
     type: "lake",
@@ -239,8 +228,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Inaugurat în 1878", "Leu monumental de piatră", "Turn de observație de 77m", "Cel mai vechi baraj din Belgia"],
       en: ["Inaugurated in 1878", "Monumental stone lion statue", "77-meter observation tower", "Oldest large dam in Belgium"],
     },
-    imageHint: "Gileppe dam with the monumental stone lion",
-  },
+    imageHint: "Gileppe dam with the monumental stone lion", image: "/poi-images/belgium-lake-gileppe-nature-v2.webp"},
   {
     id: "belgium-lake-plate-taille-nature-v2",
     type: "lake",
@@ -259,8 +247,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Cel mai mare lac din Belgia", "Parte din lacurile Eau d'Heure", "Hidrocentrală prin pompare", "Suprafață de circa 351 hectare"],
       en: ["Largest lake in Belgium", "Part of the Eau d'Heure lakes", "Pumped-storage power station", "Area of about 351 hectares"],
     },
-    imageHint: "Aerial view of Lake Plate Taille and Eau d'Heure dams",
-  },
+    imageHint: "Aerial view of Lake Plate Taille and Eau d'Heure dams", image: "/poi-images/belgium-lake-plate-taille-nature-v2.webp"},
   {
     id: "belgium-baraque-de-fraiture-nature-v2",
     type: "peak",
@@ -279,8 +266,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Altitudine de 652 metri", "Al treilea vârf al Belgiei", "Stațiune de schi în Ardeni", "Situată în provincia Luxemburg"],
       en: ["Altitude of 652 meters", "Third highest point in Belgium", "Ski resort in the Ardennes", "Located in Luxembourg province"],
     },
-    imageHint: "Baraque de Fraiture summit with ski lift in winter",
-  },
+    imageHint: "Baraque de Fraiture summit with ski lift in winter", image: "/poi-images/belgium-baraque-de-fraiture-nature-v2.webp"},
   {
     id: "belgium-ninglinspo-valley-nature-v2",
     type: "valley",
@@ -299,8 +285,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Singurul torent montan belgian", "Numeroase mici cascade", "Bazine naturale în stâncă", "Zonă populară de drumeție"],
       en: ["Only mountain torrent in Belgium", "Numerous small cascades", "Natural rock pools (cuves)", "Popular hiking destination"],
     },
-    imageHint: "Small waterfall and rock pool in the Ninglinspo valley",
-  },
+    imageHint: "Small waterfall and rock pool in the Ninglinspo valley", image: "/poi-images/belgium-ninglinspo-valley-nature-v2.webp"},
   {
     id: "belgium-ambleve-river-nature-v2",
     type: "river",
@@ -319,8 +304,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Lungime de 93 km", "Alimentează cascada Coo", "Blocuri de cuarțit în albie", "Se varsă în râul Ourthe"],
       en: ["Total length of 93 km", "Feeds the Cascade de Coo", "Quartzite boulders in the bed", "Tributary of the Ourthe river"],
     },
-    imageHint: "Amblève river with rocky bed in the Ardennes",
-  },
+    imageHint: "Amblève river with rocky bed in the Ardennes", image: "/poi-images/belgium-ambleve-river-nature-v2.webp"},
   {
     id: "belgium-molignee-valley-nature-v2",
     type: "valley",
@@ -339,8 +323,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Faimoasă pentru drezine", "Lângă abația Maredsous", "Vale de calcar pitorească", "Afluent al râului Meuse"],
       en: ["Famous for railbiking", "Near Maredsous Abbey", "Picturesque limestone valley", "Tributary of the Meuse river"],
     },
-    imageHint: "Railbikes in the green Molignée valley",
-  },
+    imageHint: "Railbikes in the green Molignée valley", image: "/poi-images/belgium-molignee-valley-nature-v2.webp"},
   {
     id: "belgium-westhoek-dunes-nature-v2",
     type: "park",
@@ -359,8 +342,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Cea mai mare zonă de dune", "Situată lângă De Panne", "Dune migratoare active", "340 hectare protejate"],
       en: ["Largest dune area in Belgium", "Located near De Panne", "Active shifting dunes", "340 hectares of reserve"],
     },
-    imageHint: "Shifting sand dunes in Westhoek nature reserve",
-  },
+    imageHint: "Shifting sand dunes in Westhoek nature reserve", image: "/poi-images/belgium-westhoek-dunes-nature-v2.webp"},
   {
     id: "belgium-mechelse-heide-nature-v2",
     type: "park",
@@ -379,8 +361,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Parte din PN Hoge Kempen", "Flori mov în august", "Foste cariere de nisip", "Panorame spectaculoase"],
       en: ["Part of Hoge Kempen NP", "Purple heather bloom in August", "Former sand quarry sites", "Expansive panoramic views"],
     },
-    imageHint: "Purple blooming heather in Mechelse Heide",
-  },
+    imageHint: "Purple blooming heather in Mechelse Heide", image: "/poi-images/belgium-mechelse-heide-nature-v2.webp"},
   {
     id: "belgium-bayehon-waterfall-nature-v2",
     type: "landmark",
@@ -399,8 +380,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Înălțime de 9 metri", "A doua cascadă a Belgiei", "Apă de culoare roșiatică", "Lângă Signal de Botrange"],
       en: ["Height of 9 meters", "Second highest in Belgium", "Reddish water color", "Near Signal de Botrange"],
     },
-    imageHint: "Bayehon waterfall in a rocky forest setting",
-  },
+    imageHint: "Bayehon waterfall in a rocky forest setting", image: "/poi-images/belgium-bayehon-waterfall-nature-v2.webp"},
   {
     id: "belgium-pays-des-collines-nature-v2",
     type: "park",
@@ -419,8 +399,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Peisaj deluros în Hainaut", "Multe mori de vânt vechi", "Parc natural din 1997", "Popular pentru ciclism"],
       en: ["Hilly landscape in Hainaut", "Numerous traditional windmills", "Natural park since 1997", "Popular cycling destination"],
     },
-    imageHint: "Gentle hills and windmill in Pays des Collines",
-  },
+    imageHint: "Gentle hills and windmill in Pays des Collines", image: "/poi-images/belgium-pays-des-collines-nature-v2.webp"},
   {
     id: "belgium-gaume-region-nature-v2",
     type: "valley",
@@ -439,8 +418,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Cea mai sudică zonă a Belgiei", "Microclimat temperat", "Relief de tip cuesta", "Orașul principal este Virton"],
       en: ["Southernmost region of Belgium", "Milder microclimate", "Geological cuesta formations", "Main town is Virton"],
     },
-    imageHint: "Gaume countryside with limestone ridges",
-  },
+    imageHint: "Gaume countryside with limestone ridges", image: "/poi-images/belgium-gaume-region-nature-v2.webp"},
   {
     id: "belgium-durme-river-nature-v2",
     type: "river",
@@ -459,8 +437,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Râu cu maree", "Trece prin Lokeren", "Afluent al râului Scheldt", "Mlaștini de apă dulce rare"],
       en: ["Tidal river", "Flows through Lokeren", "Tributary of the Scheldt", "Rare freshwater tidal marshes"],
     },
-    imageHint: "Durme river with marshy banks in Flanders",
-  },
+    imageHint: "Durme river with marshy banks in Flanders", image: "/poi-images/belgium-durme-river-nature-v2.webp"},
   {
     id: "belgium-dijle-valley-nature-v2",
     type: "valley",
@@ -479,8 +456,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Vale fluvială la sud de Leuven", "Zone umede protejate", "Reintroducerea castorilor", "Zonă de recreere populară"],
       en: ["River valley south of Leuven", "Protected wetland areas", "Reintroduced beaver population", "Popular recreational area"],
     },
-    imageHint: "Dijle river winding through the Doode Bemde wetland",
-  }
+    imageHint: "Dijle river winding through the Doode Bemde wetland", image: "/poi-images/belgium-dijle-valley-nature-v2.webp"}
 ,
   {
     id: "belgium-yser-river-nature-v2",
@@ -518,8 +494,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Lungime totală de 202 kilometri", "Se varsă în Escaut la Gent", "Important pentru comerțul medieval", "Popular pentru plimbări cu barca în Gent"],
       en: ["Total length of 202 kilometers", "Joins the Scheldt river in Ghent", "Important for medieval trade", "Popular for boat trips in Ghent center"],
     },
-    imageHint: "Lys river in the historic center of Ghent",
-  },
+    imageHint: "Lys river in the historic center of Ghent", image: "/poi-images/belgium-lys-river-nature-v2.webp"},
   {
     id: "belgium-hoegne-river-nature-v2",
     type: "river",
@@ -537,8 +512,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Parte a regiunii High Fens", "Traseu de drumeție spectaculos de 10 km", "Se varsă în râul Vesdre", "Apă acidă tipică provenită din mlaștină"],
       en: ["Part of the High Fens region", "Spectacular 10 km hiking trail", "Flows into the Vesdre river", "Typically acidic water from the moorlands"],
     },
-    imageHint: "Hoëgne river with wooden bridge and rapids",
-  },
+    imageHint: "Hoëgne river with wooden bridge and rapids", image: "/poi-images/belgium-hoegne-river-nature-v2.webp"},
   {
     id: "belgium-lake-virelles-nature-v2",
     type: "lake",
@@ -556,8 +530,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 125 de hectare", "Popas important pentru păsările migratoare", "Situat în apropierea orașului Chimay", "Folosit în trecut pentru industria fierului"],
       en: ["Area of approximately 125 hectares", "Important stopover for migratory birds", "Located near the town of Chimay", "Formerly used for the iron industry"],
     },
-    imageHint: "Lake Virelles with reed beds and bird watching tower",
-  },
+    imageHint: "Lake Virelles with reed beds and bird watching tower", image: "/poi-images/belgium-lake-virelles-nature-v2.webp"},
   {
     id: "belgium-lake-genval-nature-v2",
     type: "lake",
@@ -575,8 +548,7 @@ export const belgiumNatureV2: POI[] = [
       ro: ["Creat la sfârșitul secolului al XIX-lea", "Circumferință de aproximativ 2,5 kilometri", "Popular pentru navigație și sporturi nautice", "Găzduiește Castelul din Genval"],
       en: ["Created at the end of the 19th century", "Circumference of about 2.5 kilometers", "Popular for sailing and water sports", "Site of the Château de Genval"],
     },
-    imageHint: "Lake Genval with fountain and villas",
-  },
+    imageHint: "Lake Genval with fountain and villas", image: "/poi-images/belgium-lake-genval-nature-v2.webp"},
   {
     id: "belgium-remouchamps-caves-nature-v2",
     type: "landmark",

@@ -19,8 +19,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1236", "Al patrulea oraș ca mărime din țară", "Cunoscut pentru Dealul Crucilor", "Centru al producției de biciclete"],
       en: ["Founded in the year 1236", "Fourth largest city in the country", "Known for the Hill of Crosses", "Center of bicycle manufacturing"],
     },
-    imageHint: "Siauliai city square and cathedral",
-  },
+    imageHint: "Siauliai city square and cathedral", image: "/poi-images/lithuania-siauliai-cities-v2.webp"},
   {
     id: "lithuania-panevezys-cities-v2",
     type: "city",
@@ -39,8 +38,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1503", "Al cincilea oraș ca mărime din Lituania", "Gazda unui faimos teatru dramatic", "Nod feroviar important"],
       en: ["Founded in the year 1503", "Fifth largest city in Lithuania", "Home to a famous drama theatre", "Important railway junction"],
     },
-    imageHint: "Panevezys city park and river",
-  },
+    imageHint: "Panevezys city park and river", image: "/poi-images/lithuania-panevezys-cities-v2.webp"},
   {
     id: "lithuania-alytus-cities-v2",
     type: "city",
@@ -59,8 +57,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIV-lea", "Cel mai mare oraș din sudul Lituaniei", "Cunoscut pentru parcul orașului", "Centru textil important"],
       en: ["Founded in the 14th century", "Largest city in southern Lithuania", "Known for its city park", "Important textile center"],
     },
-    imageHint: "Alytus bridge over Nemunas river",
-  },
+    imageHint: "Alytus bridge over Nemunas river", image: "/poi-images/lithuania-alytus-cities-v2.webp"},
   {
     id: "lithuania-marijampole-cities-v2",
     type: "city",
@@ -79,8 +76,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1667", "Centrul regiunii Suvalkija", "Locație importantă a industriei alimentare", "Sediul unei mănăstiri"],
       en: ["Founded in the year 1667", "Center of the Suvalkija region", "Important food industry site", "Home to a monastery"],
     },
-    imageHint: "Marijampole city square and church",
-  },
+    imageHint: "Marijampole city square and church", image: "/poi-images/lithuania-marijampole-cities-v2.webp"},
   {
     id: "lithuania-mazeikiai-cities-v2",
     type: "city",
@@ -99,8 +95,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în secolul al XVI-lea", "Centru semnificativ al industriei petroliere", "Situat pe râul Venta", "Nod feroviar important"],
       en: ["First mentioned in the 16th century", "Significant center of the oil industry", "Located on the Venta River", "Important railway junction"],
     },
-    imageHint: "Mazeikiai industrial skyline and refinery",
-  },
+    imageHint: "Mazeikiai industrial skyline and refinery", image: "/poi-images/lithuania-mazeikiai-cities-v2.webp"},
   {
     id: "lithuania-jonava-cities-v2",
     type: "city",
@@ -119,8 +114,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1750", "Centrul producției de îngrășăminte", "Situat la confluența râurilor Neris și Šventoji", "Festival anual de Sânziene"],
       en: ["Founded in the year 1750", "Center of fertilizer production", "Located at the confluence of Neris and Šventoji", "Annual Midsummer festival"],
     },
-    imageHint: "Jonava city view and bridge",
-  },
+    imageHint: "Jonava city view and bridge", image: "/poi-images/lithuania-jonava-cities-v2.webp"},
   {
     id: "lithuania-utena-cities-v2",
     type: "city",
@@ -139,8 +133,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1261", "Centru al producției de bere", "Situat în regiunea lacurilor lituaniene", "Locație industrială importantă"],
       en: ["First mentioned in 1261", "Center of beer manufacturing", "Located in the Lithuanian lake district", "Important industrial site"],
     },
-    imageHint: "Utena brewery and city park",
-  },
+    imageHint: "Utena brewery and city park", image: "/poi-images/lithuania-utena-cities-v2.webp"},
   {
     id: "lithuania-kedainiai-cities-v2",
     type: "city",
@@ -159,8 +152,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1372", "Are un centru istoric multicultural", "Centrul geografic al Lituaniei", "Centru agricol important"],
       en: ["Founded in the year 1372", "Features a multicultural old town", "Geographical center of Lithuania", "Important agricultural center"],
     },
-    imageHint: "Kedainiai old town market square",
-  },
+    imageHint: "Kedainiai old town market square", image: "/poi-images/lithuania-kedainiai-cities-v2.webp"},
   {
     id: "lithuania-telsiai-cities-v2",
     type: "city",
@@ -179,8 +171,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIV-lea", "Capitala regiunii Samogitia", "Situat pe șapte dealuri", "Centru catolic semnificativ"],
       en: ["Founded in the 14th century", "Capital of the Samogitia region", "Located on seven hills", "Significant Catholic center"],
     },
-    imageHint: "Telsiai cathedral on the hill",
-  },
+    imageHint: "Telsiai cathedral on the hill", image: "/poi-images/lithuania-telsiai-cities-v2.webp"},
   {
     id: "lithuania-visaginas-cities-v2",
     type: "city",
@@ -199,8 +190,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1975", "Cel mai tânăr oraș din Lituania", "Planificat ca oraș-dormitor pentru centrala nucleară", "Majoritar vorbitor de rusă"],
       en: ["Founded in the year 1975", "Youngest city in Lithuania", "Planned as a dormitory town for the power plant", "Majority Russian-speaking"],
     },
-    imageHint: "Visaginas modern apartment buildings in forest",
-  },
+    imageHint: "Visaginas modern apartment buildings in forest", image: "/poi-images/lithuania-visaginas-cities-v2.webp"},
   {
     id: "lithuania-taurage-cities-v2",
     type: "city",
@@ -219,8 +209,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XV-lea", "Cunoscut pentru castelul său", "Centru industrial important", "Situat pe râul Jūra"],
       en: ["Founded in the 15th century", "Known for its castle", "Important industrial center", "Located on the Jūra River"],
     },
-    imageHint: "Taurage castle and museum",
-  },
+    imageHint: "Taurage castle and museum", image: "/poi-images/lithuania-taurage-cities-v2.webp"},
   {
     id: "lithuania-ukmerge-cities-v2",
     type: "city",
@@ -239,8 +228,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1225", "Unul dintre cele mai vechi orașe din Lituania", "Deține o movilă de cetate", "Nod de transport important"],
       en: ["First mentioned in 1225", "One of the oldest cities in Lithuania", "Has a castle mound", "Important transportation node"],
     },
-    imageHint: "Ukmerge hillfort and old town",
-  },
+    imageHint: "Ukmerge hillfort and old town", image: "/poi-images/lithuania-ukmerge-cities-v2.webp"},
   {
     id: "lithuania-plunge-cities-v2",
     type: "city",
@@ -259,8 +247,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea", "Locația Palatului Oginski", "Centru cultural al Samogitiei", "Deține un parc mare"],
       en: ["Founded in the 16th century", "Site of the Oginski Palace", "Cultural center of Samogitia", "Features a large park"],
     },
-    imageHint: "Plunge Oginski palace and park",
-  },
+    imageHint: "Plunge Oginski palace and park", image: "/poi-images/lithuania-plunge-cities-v2.webp"},
   {
     id: "lithuania-kretinga-cities-v2",
     type: "city",
@@ -279,8 +266,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1253", "Cunoscut pentru grădina de iarnă", "Sediul unei mănăstiri franciscane", "Situat lângă coastă"],
       en: ["First mentioned in 1253", "Known for its Winter Garden", "Home to a Franciscan monastery", "Located near the coast"],
     },
-    imageHint: "Kretinga manor and winter garden",
-  },
+    imageHint: "Kretinga manor and winter garden", image: "/poi-images/lithuania-kretinga-cities-v2.webp"},
   {
     id: "lithuania-silute-cities-v2",
     type: "city",
@@ -299,8 +285,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1511", "Centrul regiunii Klaipėda", "Locație importantă pentru pescuit", "Nume istoric Heydekrug"],
       en: ["Founded in the year 1511", "Center of the Memel Territory", "Important location for fishing", "Historical name Heydekrug"],
     },
-    imageHint: "Silute old post office and canal",
-  },
+    imageHint: "Silute old post office and canal", image: "/poi-images/lithuania-silute-cities-v2.webp"},
   {
     id: "lithuania-radviliskis-cities-v2",
     type: "city",
@@ -319,8 +304,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea", "Nod feroviar semnificativ", "Numit după familia Radziwiłł", "Centru de reparații feroviare"],
       en: ["Founded in the 16th century", "Significant railway junction", "Named after the Radziwiłłs", "Center of railway repair"],
     },
-    imageHint: "Radviliskis railway station and locomotive",
-  },
+    imageHint: "Radviliskis railway station and locomotive", image: "/poi-images/lithuania-radviliskis-cities-v2.webp"},
   {
     id: "lithuania-palanga-cities-v2",
     type: "city",
@@ -339,8 +323,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Cea mai mare stațiune balneară din țară", "Deține un Muzeu al Chihlimbarului", "Cunoscut pentru debarcaderul lung", "Destinație turistică populară"],
       en: ["Largest seaside resort in the country", "Features an Amber Museum", "Known for its long sea pier", "Popular tourist destination"],
     },
-    imageHint: "Palanga beach and sea pier at sunset",
-  },
+    imageHint: "Palanga beach and sea pier at sunset", image: "/poi-images/lithuania-palanga-cities-v2.webp"},
   {
     id: "lithuania-gargzdai-cities-v2",
     type: "city",
@@ -359,8 +342,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIII-lea", "Suburban al orașului Klaipėda", "Situat pe râul Minija", "Cunoscut pentru tradiția fotbalistică"],
       en: ["Founded in the 13th century", "Suburb of Klaipėda", "Located on the Minija River", "Known for football tradition"],
     },
-    imageHint: "Gargzdai city center and park",
-  },
+    imageHint: "Gargzdai city center and park", image: "/poi-images/lithuania-gargzdai-cities-v2.webp"},
   {
     id: "lithuania-druskininkai-cities-v2",
     type: "city",
@@ -379,8 +361,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Cea mai veche stațiune din Lituania", "Cunoscut pentru izvoarele minerale", "Locația unei pârtii de schi acoperite", "Gazda parcului Grūtas"],
       en: ["Oldest spa resort in Lithuania", "Known for mineral springs", "Home to an indoor ski slope", "Site of Grūtas Park"],
     },
-    imageHint: "Druskininkai spa center and fountain",
-  },
+    imageHint: "Druskininkai spa center and fountain", image: "/poi-images/lithuania-druskininkai-cities-v2.webp"},
   {
     id: "lithuania-rokiskis-cities-v2",
     type: "city",
@@ -399,8 +380,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1499", "Faimos pentru producția de brânză", "Găzduiește un muzeu regional în conac", "Biserica gotică Sfântul Matei"],
       en: ["Founded in the year 1499", "Famous for cheese production", "Houses a regional museum in the manor", "Gothic St. Matthew Church"],
     },
-    imageHint: "Rokiskis manor and church square",
-  },
+    imageHint: "Rokiskis manor and church square", image: "/poi-images/lithuania-rokiskis-cities-v2.webp"},
   {
     id: "lithuania-birzai-cities-v2",
     type: "city",
@@ -419,8 +399,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XV-lea", "Deține un castel renascentist", "Centrul fabricării berii lituaniene", "Cunoscut pentru doline"],
       en: ["Founded in the 15th century", "Features a Renaissance castle", "Center of Lithuanian beer brewing", "Known for sinkholes"],
     },
-    imageHint: "Birzai castle and lake bridge",
-  },
+    imageHint: "Birzai castle and lake bridge", image: "/poi-images/lithuania-birzai-cities-v2.webp"},
   {
     id: "lithuania-elektrenai-cities-v2",
     type: "city",
@@ -439,8 +418,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1961", "Locația unei centrale electrice mari", "Cunoscut pentru tradiția hocheiului", "Rezervor artificial adiacent"],
       en: ["Founded in the year 1961", "Site of a major power plant", "Known for ice hockey tradition", "Artificial reservoir nearby"],
     },
-    imageHint: "Elektrenai power plant and church",
-  },
+    imageHint: "Elektrenai power plant and church", image: "/poi-images/lithuania-elektrenai-cities-v2.webp"},
   {
     id: "lithuania-kursenai-cities-v2",
     type: "city",
@@ -459,8 +437,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea", "Centrul olăritului", "Situat pe râul Venta", "Deține un conac din lemn"],
       en: ["Founded in the 16th century", "Center of pottery art", "Located on the Venta River", "Features a wooden manor"],
     },
-    imageHint: "Kursenai pottery monument and bridge",
-  },
+    imageHint: "Kursenai pottery monument and bridge", image: "/poi-images/lithuania-kursenai-cities-v2.webp"},
   {
     id: "lithuania-jurbarkas-cities-v2",
     type: "city",
@@ -479,8 +456,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1259", "Oraș-port fluvial semnificativ", "Deține un parc cu ruine", "Aproape de granița cu Rusia"],
       en: ["First mentioned in 1259", "Significant river port city", "Has a park with ruins", "Near the border with Russia"],
     },
-    imageHint: "Jurbarkas bridge over Nemunas and park",
-  },
+    imageHint: "Jurbarkas bridge over Nemunas and park", image: "/poi-images/lithuania-jurbarkas-cities-v2.webp"},
   {
     id: "lithuania-garliava-cities-v2",
     type: "city",
@@ -499,8 +475,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1809", "Suburban al orașului Kaunas", "Centru educațional important", "Zonă rezidențială cu creștere rapidă"],
       en: ["Founded in the year 1809", "Suburb of Kaunas", "Important educational center", "Fast-growing residential area"],
     },
-    imageHint: "Garliava church and main street",
-  },
+    imageHint: "Garliava church and main street", image: "/poi-images/lithuania-garliava-cities-v2.webp"},
   {
     id: "lithuania-vilkaviskis-cities-v2",
     type: "city",
@@ -519,8 +494,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în secolul al XVI-lea", "Centrul regiunii Suvalkija", "Important pentru producția de cereale", "Cunoscut pentru catedrala sa"],
       en: ["First mentioned in the 16th century", "Center of the Suvalkija region", "Important for grain production", "Known for its cathedral"],
     },
-    imageHint: "Vilkaviskis cathedral and park",
-  },
+    imageHint: "Vilkaviskis cathedral and park", image: "/poi-images/lithuania-vilkaviskis-cities-v2.webp"},
   {
     id: "lithuania-raseiniai-cities-v2",
     type: "city",
@@ -539,8 +513,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1253", "Fosta capitală a Samogitiei", "Distrus aproape total în război", "Locația unei mănăstiri celebre"],
       en: ["Founded in the year 1253", "Former capital of Samogitia", "Almost completely destroyed in war", "Site of a well-known monastery"],
     },
-    imageHint: "Raseiniai monument and church",
-  },
+    imageHint: "Raseiniai monument and church", image: "/poi-images/lithuania-raseiniai-cities-v2.webp"},
   {
     id: "lithuania-anyksciai-cities-v2",
     type: "city",
@@ -559,8 +532,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Cunoscut ca oraș al poeților", "Locația traseului prin coronamentul arborilor", "Deține piatra Puntukas", "Muzeul căii ferate înguste"],
       en: ["Known as the city of poets", "Site of the treetop walking path", "Home to the Puntukas stone", "Narrow-gauge railway museum"],
     },
-    imageHint: "Anyksciai treetop walking path",
-  },
+    imageHint: "Anyksciai treetop walking path", image: "/poi-images/lithuania-anyksciai-cities-v2.webp"},
   {
     id: "lithuania-lentvaris-cities-v2",
     type: "city",
@@ -579,8 +551,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIX-lea", "Nod feroviar semnificativ", "Deține un palat neogotic", "Cunoscut pentru fabricarea covoarelor"],
       en: ["Founded in the 19th century", "Significant railway junction", "Features a Neo-Gothic palace", "Known for carpet manufacturing"],
     },
-    imageHint: "Lentvaris palace and lake",
-  },
+    imageHint: "Lentvaris palace and lake", image: "/poi-images/lithuania-lentvaris-cities-v2.webp"},
   {
     id: "lithuania-grigiskes-cities-v2",
     type: "city",
@@ -599,8 +570,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1923", "Centrul industriei hârtiei", "Suburban de vest al Vilniusului", "Situat pe râul Vokė"],
       en: ["Founded in the year 1923", "Center of the paper industry", "Western suburb of Vilnius", "Located on the Voke River"],
     },
-    imageHint: "Grigiskes industrial area and river",
-  },
+    imageHint: "Grigiskes industrial area and river", image: "/poi-images/lithuania-grigiskes-cities-v2.webp"},
   {
     id: "lithuania-naujoji-akmene-cities-v2",
     type: "city",
@@ -619,8 +589,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1952", "Centrul producției de ciment", "Cel mai nordic oraș din Lituania", "Deține mari cariere de calcar"],
       en: ["Founded in the year 1952", "Center of cement production", "Northernmost city in Lithuania", "Features large limestone quarries"],
     },
-    imageHint: "Naujoji Akmene cement factory and quarries",
-  },
+    imageHint: "Naujoji Akmene cement factory and quarries", image: "/poi-images/lithuania-naujoji-akmene-cities-v2.webp"},
   {
     id: "lithuania-prienai-cities-v2",
     type: "city",
@@ -639,8 +608,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1502", "Situat pe buclele râului Nemunas", "Cunoscut pentru planorism", "Centru regional important"],
       en: ["First mentioned in 1502", "Located on the Nemunas loops", "Known for gliding sports", "Important regional center"],
     },
-    imageHint: "Prienai bridge and river loops",
-  },
+    imageHint: "Prienai bridge and river loops", image: "/poi-images/lithuania-prienai-cities-v2.webp"},
   {
     id: "lithuania-joniskis-cities-v2",
     type: "city",
@@ -659,8 +627,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1523", "Aproape de granița cu Letonia", "Deține un complex de sinagogi", "Centru agricol semnificativ"],
       en: ["Founded in the year 1523", "Near the Latvian border", "Features a synagogue complex", "Significant agricultural center"],
     },
-    imageHint: "Joniskis synagogue and church",
-  },
+    imageHint: "Joniskis synagogue and church", image: "/poi-images/lithuania-joniskis-cities-v2.webp"},
   {
     id: "lithuania-varena-cities-v2",
     type: "city",
@@ -679,8 +646,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIX-lea", "Centrul regiunii ciupercilor", "Locul de naștere al artistului Čiurlionis", "Înconjurat de mari păduri de pini"],
       en: ["Founded in the 19th century", "Center of the mushroom region", "Birthplace of artist Čiurlionis", "Surrounded by large pine forests"],
     },
-    imageHint: "Varena forest and railway station",
-  },
+    imageHint: "Varena forest and railway station", image: "/poi-images/lithuania-varena-cities-v2.webp"},
   {
     id: "lithuania-kelme-cities-v2",
     type: "city",
@@ -699,8 +665,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XV-lea", "Deține un conac baroc", "Centru al regiunii Samogitia", "Situat pe râul Kražantė"],
       en: ["Founded in the 15th century", "Features a Baroque manor", "Center of the Samogitia region", "Located on the Kražantė River"],
     },
-    imageHint: "Kelme manor and park",
-  },
+    imageHint: "Kelme manor and park", image: "/poi-images/lithuania-kelme-cities-v2.webp"},
   {
     id: "lithuania-kaisiadorys-cities-v2",
     type: "city",
@@ -719,8 +684,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIX-lea", "Nod feroviar semnificativ", "Sediul unei dieceze catolice", "Centru al industriei avicole"],
       en: ["Founded in the 19th century", "Significant railway junction", "Seat of a Catholic diocese", "Center of the poultry industry"],
     },
-    imageHint: "Kaisiadorys cathedral and railway",
-  },
+    imageHint: "Kaisiadorys cathedral and railway", image: "/poi-images/lithuania-kaisiadorys-cities-v2.webp"},
   {
     id: "lithuania-pasvalys-cities-v2",
     type: "city",
@@ -739,8 +703,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1497", "Cunoscut pentru fenomenele carstice", "Deține un muzeu al pietrelor", "Port fluvial semnificativ"],
       en: ["Founded in the year 1497", "Known for karst phenomena", "Features a museum of stones", "Significant river port"],
     },
-    imageHint: "Pasvalys river and sinkhole park",
-  },
+    imageHint: "Pasvalys river and sinkhole park", image: "/poi-images/lithuania-pasvalys-cities-v2.webp"},
   {
     id: "lithuania-kupiskis-cities-v2",
     type: "city",
@@ -759,8 +722,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1529", "Situat pe râul Lėvuo", "Cunoscut pentru un mare rezervor", "Centru al producției de in"],
       en: ["First mentioned in 1529", "Located on the Lėvuo River", "Known for a large reservoir", "Center of linen manufacturing"],
     },
-    imageHint: "Kupiskis church and reservoir",
-  },
+    imageHint: "Kupiskis church and reservoir", image: "/poi-images/lithuania-kupiskis-cities-v2.webp"},
   {
     id: "lithuania-zarasai-cities-v2",
     type: "city",
@@ -779,8 +741,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Orașul celor șapte lacuri", "Are o planificare urbană circulară", "Stațiune populară de vară", "Cel mai bătrân stejar din țară este aproape"],
       en: ["City of seven lakes", "Features a circular town planning", "Popular summer resort", "Oldest oak tree in the country nearby"],
     },
-    imageHint: "Zarasai lake panoramic view and bridge",
-  },
+    imageHint: "Zarasai lake panoramic view and bridge", image: "/poi-images/lithuania-zarasai-cities-v2.webp"},
   {
     id: "lithuania-skuodas-cities-v2",
     type: "city",
@@ -799,8 +760,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1253", "Situat la granița cu Letonia", "Centru regional în Samogitia", "Oraș comercial semnificativ"],
       en: ["Founded in the year 1253", "Located on the Latvian border", "Regional center in Samogitia", "Significant trading town"],
     },
-    imageHint: "Skuodas city square and park",
-  },
+    imageHint: "Skuodas city square and park", image: "/poi-images/lithuania-skuodas-cities-v2.webp"},
   {
     id: "lithuania-kazlu-ruda-cities-v2",
     type: "city",
@@ -819,8 +779,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în secolul al XVIII-lea", "Centrul industriei lemnului", "Înconjurat de zone forestiere mari", "Bază feroviară importantă"],
       en: ["First mentioned in the 18th century", "Center of the wood industry", "Surrounded by vast forest areas", "Important railway base"],
     },
-    imageHint: "Kazlu Ruda railway station and forest",
-  },
+    imageHint: "Kazlu Ruda railway station and forest", image: "/poi-images/lithuania-kazlu-ruda-cities-v2.webp"},
   {
     id: "lithuania-sirvintos-cities-v2",
     type: "city",
@@ -839,8 +798,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIV-lea", "Centru administrativ", "Producție textilă semnificativă", "Aproape de autostrada A2"],
       en: ["Founded in the 14th century", "Administrative center", "Significant textile production", "Located near the A2 highway"],
     },
-    imageHint: "Sirvintos city park and river",
-  },
+    imageHint: "Sirvintos city park and river", image: "/poi-images/lithuania-sirvintos-cities-v2.webp"},
   {
     id: "lithuania-moletai-cities-v2",
     type: "city",
@@ -859,8 +817,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1387", "Poarta către regiunea lacurilor", "Locația unui observator", "Cunoscut pentru Muzeul de Cosmologie"],
       en: ["Founded in the year 1387", "Gateway to the lake district", "Site of an astronomical observatory", "Known for the cosmology museum"],
     },
-    imageHint: "Moletai ethnocosmology museum architecture",
-  },
+    imageHint: "Moletai ethnocosmology museum architecture", image: "/poi-images/lithuania-moletai-cities-v2.webp"},
   {
     id: "lithuania-salcininkai-cities-v2",
     type: "city",
@@ -879,8 +836,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în secolul al XIV-lea", "Comunitate poloneză semnificativă", "Centrul administrativ al districtului", "Aproape de granița cu Belarus"],
       en: ["First mentioned in the 14th century", "Significant Polish community", "Administrative center of the district", "Near the Belarusian border"],
     },
-    imageHint: "Salcininkai manor house and park",
-  },
+    imageHint: "Salcininkai manor house and park", image: "/poi-images/lithuania-salcininkai-cities-v2.webp"},
   {
     id: "lithuania-sakiai-cities-v2",
     type: "city",
@@ -899,8 +855,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea", "Centrul regiunii Suvalkija", "Locație agricolă importantă", "Festivaluri regulate de carillon"],
       en: ["Founded in the 16th century", "Center of the Suvalkija region", "Important agricultural site", "Regular carillon music festivals"],
     },
-    imageHint: "Sakiai city square and park",
-  },
+    imageHint: "Sakiai city square and park", image: "/poi-images/lithuania-sakiai-cities-v2.webp"},
   {
     id: "lithuania-kybartai-cities-v2",
     type: "city",
@@ -919,8 +874,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIX-lea", "Oraș de frontieră important", "Nod feroviar semnificativ", "Locul de naștere al pictorului Levitan"],
       en: ["Founded in the 19th century", "Important border town", "Significant railway junction", "Birthplace of painter Levitan"],
     },
-    imageHint: "Kybartai railway border crossing",
-  },
+    imageHint: "Kybartai railway border crossing", image: "/poi-images/lithuania-kybartai-cities-v2.webp"},
   {
     id: "lithuania-pabrade-cities-v2",
     type: "city",
@@ -939,8 +893,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XV-lea", "Locație militară semnificativă", "Situat pe râul Žeimena", "Nod feroviar istoric"],
       en: ["Founded in the 15th century", "Significant military location", "Located on the Žeimena River", "Historic railway junction"],
     },
-    imageHint: "Pabrade bridge and pine forest",
-  },
+    imageHint: "Pabrade bridge and pine forest", image: "/poi-images/lithuania-pabrade-cities-v2.webp"},
   {
     id: "lithuania-silale-cities-v2",
     type: "city",
@@ -959,8 +912,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea", "Centru al regiunii Samogitia", "Reședință administrativă", "Cadru natural deluros"],
       en: ["Founded in the 16th century", "Center of the Samogitia region", "Administrative seat", "Hilly surroundings"],
     },
-    imageHint: "Silale church and central park",
-  },
+    imageHint: "Silale church and central park", image: "/poi-images/lithuania-silale-cities-v2.webp"},
   {
     id: "lithuania-ignalina-cities-v2",
     type: "city",
@@ -979,8 +931,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Centrul sporturilor de iarnă", "Situat într-un parc național", "Înconjurat de multe lacuri", "Orașul care a dat numele centralei nucleare"],
       en: ["Center of winter sports", "Located in a national park", "Surrounded by many lakes", "Gave its name to the nuclear power plant"],
     },
-    imageHint: "Ignalina winter sports center and lake",
-  },
+    imageHint: "Ignalina winter sports center and lake", image: "/poi-images/lithuania-ignalina-cities-v2.webp"},
   {
     id: "lithuania-nemencine-cities-v2",
     type: "city",
@@ -999,8 +950,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în secolul al XIV-lea", "Situat la nord-est de Vilnius", "Înconjurat de păduri de pini", "Minoritate poloneză semnificativă"],
       en: ["First mentioned in the 14th century", "Located northeast of Vilnius", "Surrounded by pine forests", "Significant Polish minority"],
     },
-    imageHint: "Nemencine bridge over Neris river",
-  },
+    imageHint: "Nemencine bridge over Neris river", image: "/poi-images/lithuania-nemencine-cities-v2.webp"},
   {
     id: "lithuania-pakruojis-cities-v2",
     type: "city",
@@ -1019,8 +969,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Deține un conac mare", "Cunoscut pentru festivalurile de bere", "Fondat în secolul al XVI-lea", "Monument arhitectural"],
       en: ["Features a large manor estate", "Known for beer festivals", "Founded in the 16th century", "Architectural monument"],
     },
-    imageHint: "Pakruojis manor and stone bridge",
-  },
+    imageHint: "Pakruojis manor and stone bridge", image: "/poi-images/lithuania-pakruojis-cities-v2.webp"},
   {
     id: "lithuania-svencioneliai-cities-v2",
     type: "city",
@@ -1039,8 +988,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIX-lea", "Nod feroviar semnificativ", "Înconjurat de pădurea Labanoras", "Centru al industriei lemnului"],
       en: ["Founded in the 19th century", "Significant railway junction", "Surrounded by Labanoras forest", "Center of the wood industry"],
     },
-    imageHint: "Svencioneliai railway station and forest",
-  },
+    imageHint: "Svencioneliai railway station and forest", image: "/poi-images/lithuania-svencioneliai-cities-v2.webp"},
   {
     id: "lithuania-vievis-cities-v2",
     type: "city",
@@ -1059,8 +1007,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea", "Deține un muzeu al drumurilor", "Situat pe malul lacului Vievis", "Nod de transport important"],
       en: ["Founded in the 16th century", "Features a road museum", "Located by Lake Vievis", "Important transportation hub"],
     },
-    imageHint: "Vievis lake and church",
-  },
+    imageHint: "Vievis lake and church", image: "/poi-images/lithuania-vievis-cities-v2.webp"},
   {
     id: "lithuania-lazdijai-cities-v2",
     type: "city",
@@ -1079,8 +1026,7 @@ export const lithuaniaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea", "Aproape de granița cu Polonia", "Centru administrativ", "Poartă către Europa"],
       en: ["Founded in the 16th century", "Near the Polish border", "Administrative center", "Gateway to Europe"],
     },
-    imageHint: "Lazdijai border crossing and church",
-  },
+    imageHint: "Lazdijai border crossing and church", image: "/poi-images/lithuania-lazdijai-cities-v2.webp"},
   {
     id: "lithuania-kalvarija-cities-v2",
     type: "city",

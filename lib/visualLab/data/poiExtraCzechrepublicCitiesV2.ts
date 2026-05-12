@@ -19,8 +19,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Fondat în secolul al IX-lea", "Centrul istoric este patrimoniu UNESCO", "Găzduiește Universitatea Carolină", "Peste 1,3 milioane de locuitori"],
       en: ["Founded in the 9th century", "Historic center is a UNESCO World Heritage site", "Home to Charles University", "Over 1.3 million inhabitants"],
     },
-    imageHint: "Prague Old Town Square and Tyn Church",
-  },
+    imageHint: "Prague Old Town Square and Tyn Church", image: "/poi-images/czechrepublic-prague-cities-v2.webp"},
   {
     id: "czechrepublic-brno-cities-v2",
     type: "city",
@@ -39,8 +38,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Sediul autorității judiciare cehe", "Vila Tugendhat este patrimoniu UNESCO", "Important centru expozițional", "Capitala regiunii Moravia de Sud"],
       en: ["Seat of the Czech judiciary", "Villa Tugendhat is a UNESCO site", "Significant trade fair center", "Capital of the South Moravian Region"],
     },
-    imageHint: "Brno Cathedral of St Peter and Paul on Petrov hill",
-  },
+    imageHint: "Brno Cathedral of St Peter and Paul on Petrov hill", image: "/poi-images/czechrepublic-brno-cities-v2.webp"},
   {
     id: "czechrepublic-ostrava-cities-v2",
     type: "city",
@@ -59,8 +57,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Al treilea oraș ca mărime din Cehia", "Muzeul mineritului Landek Park", "Gazda festivalului 'Colours of Ostrava'", "Monumentul industrial Zona de Jos Vítkovice"],
       en: ["Third largest city in Czechia", "Landek Park mining museum", "Host of 'Colours of Ostrava' festival", "Lower Vítkovice industrial heritage site"],
     },
-    imageHint: "Ostrava Lower Vitkovice industrial area",
-  },
+    imageHint: "Ostrava Lower Vitkovice industrial area", image: "/poi-images/czechrepublic-ostrava-cities-v2.webp"},
   {
     id: "czechrepublic-plzen-cities-v2",
     type: "city",
@@ -79,8 +76,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Sediul fabricii de bere Pilsner Urquell", "Cea mai înaltă turlă de biserică din Cehia", "Capitală Europeană a Culturii în 2015", "Sediul Škoda Transportation"],
       en: ["Home of Pilsner Urquell brewery", "Tallest church spire in Czechia (St. Bartholomew)", "European Capital of Culture 2015", "Headquarters of Škoda Transportation"],
     },
-    imageHint: "Pilsen St Bartholomew Cathedral and main square",
-  },
+    imageHint: "Pilsen St Bartholomew Cathedral and main square", image: "/poi-images/czechrepublic-plzen-cities-v2.webp"},
   {
     id: "czechrepublic-liberec-cities-v2",
     type: "city",
@@ -99,8 +95,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Cunoscut anterior sub numele de Reichenberg", "Primărie neorenaștentistă din 1893", "Cea mai veche grădină zoologică din Cehia", "Centru de sporturi de iarnă pe Ještěd"],
       en: ["Formerly known as Reichenberg", "Neo-Renaissance town hall from 1893", "Oldest zoo in Czechia", "Winter sports center at Ještěd"],
     },
-    imageHint: "Liberec Town Hall and Ještěd tower in background",
-  },
+    imageHint: "Liberec Town Hall and Ještěd tower in background", image: "/poi-images/czechrepublic-liberec-cities-v2.webp"},
   {
     id: "czechrepublic-olomouc-cities-v2",
     type: "city",
@@ -119,8 +114,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Coloana Sfintei Treimi este patrimoniu UNESCO", "A doua cea mai veche universitate din țară", "Sediu arhiepiscopal", "Faimos pentru brânza Olomoucké tvarůžky"],
       en: ["Holy Trinity Column is a UNESCO site", "Second oldest university in the country", "Seat of an archdiocese", "Famous for Olomoucké tvarůžky cheese"],
     },
-    imageHint: "Olomouc Holy Trinity Column and town hall",
-  },
+    imageHint: "Olomouc Holy Trinity Column and town hall", image: "/poi-images/czechrepublic-olomouc-cities-v2.webp"},
   {
     id: "czechrepublic-ceske-budejovice-cities-v2",
     type: "city",
@@ -139,8 +133,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Locul de origine al berii Budweiser Budvar", "Piață centrală mare de formă pătrată", "Turnul Negru (72 de metri înălțime)", "Fondat în 1265 de Ottokar al II-lea"],
       en: ["Home of the Budweiser Budvar brewery", "Large square-shaped central market", "Black Tower (72 meters high)", "Founded in 1265 by Ottokar II of Bohemia"],
     },
-    imageHint: "Ceske Budejovice main square with Samson Fountain",
-  },
+    imageHint: "Ceske Budejovice main square with Samson Fountain", image: "/poi-images/czechrepublic-ceske-budejovice-cities-v2.webp"},
   {
     id: "czechrepublic-hradec-kralove-cities-v2",
     type: "city",
@@ -159,8 +152,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Cunoscut sub numele de 'Salonul Republicii'", "Sediul fabricii de piane Petrof", "Catedrala gotică Sfântul Duh", "Locul bătăliei de la Königgrätz din 1866"],
       en: ["Known as the 'Salon of the Republic'", "Home of Petrof piano factory", "Gothic Cathedral of the Holy Spirit", "Site of the Battle of Königgrätz in 1866"],
     },
-    imageHint: "Hradec Kralove White Tower and Cathedral",
-  },
+    imageHint: "Hradec Kralove White Tower and Cathedral", image: "/poi-images/czechrepublic-hradec-kralove-cities-v2.webp"},
   {
     id: "czechrepublic-pardubice-cities-v2",
     type: "city",
@@ -179,8 +171,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Gazda cursei de cai Velká Pardubická", "Castelul renaștentist Pardubice", "Industrie chimică majoră (Synthesia)", "Fondat în secolul al XIII-lea"],
       en: ["Host of the Velká Pardubická steeplechase", "Renaissance Pardubice Castle", "Major chemical industry (Synthesia)", "Founded in the 13th century"],
     },
-    imageHint: "Pardubice Green Gate and historic square",
-  },
+    imageHint: "Pardubice Green Gate and historic square", image: "/poi-images/czechrepublic-pardubice-cities-v2.webp"},
   {
     id: "czechrepublic-zlin-cities-v2",
     type: "city",
@@ -199,8 +190,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Centrul imperiului Baťa", "Faimosul zgârie-nori nr. 21", "Concept urban funcționalist", "Nume anterior (1949–1989): Gottwaldov"],
       en: ["Center of the Baťa empire", "Famous skyscraper No. 21", "Functionalist urban concept", "Former name (1949–1989): Gottwaldov"],
     },
-    imageHint: "Zlin Baťa skyscraper and red brick buildings",
-  },
+    imageHint: "Zlin Baťa skyscraper and red brick buildings", image: "/poi-images/czechrepublic-zlin-cities-v2.webp"},
   {
     id: "czechrepublic-havirov-cities-v2",
     type: "city",
@@ -219,8 +209,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Fondat în anul 1955", "Arhitectură în stilul realismului socialist", "Cel mai mare oraș din țară fără universitate proprie", "Parte a zonei metropolitane Ostrava"],
       en: ["Founded in 1955", "Socialist realism architectural style", "Largest city in the country without a university", "Part of the Ostrava metropolitan area"],
     },
-    imageHint: "Havirov socialist realist architecture Sorela",
-  },
+    imageHint: "Havirov socialist realist architecture Sorela", image: "/poi-images/czechrepublic-havirov-cities-v2.webp"},
   {
     id: "czechrepublic-kladno-cities-v2",
     type: "city",
@@ -239,8 +228,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Locul de naștere al hocheistului Jaromír Jágr", "Fost sediu al combinatului siderurgic Poldi", "Aproape de memorialul Lidice", "Prima extracție de cărbune în 1775"],
       en: ["Birthplace of ice hockey player Jaromír Jágr", "Former home of Poldi steelworks", "Located near the Lidice Memorial", "First coal mining in 1775"],
     },
-    imageHint: "Kladno central square and town hall",
-  },
+    imageHint: "Kladno central square and town hall", image: "/poi-images/czechrepublic-kladno-cities-v2.webp"},
   {
     id: "czechrepublic-most-cities-v2",
     type: "city",
@@ -259,8 +247,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Relocarea bisericii decanale pe o distanță de 841 metri", "Important district minier de lignit", "Castelul Hněvín domină orașul", "Circuitul auto modern Autodrom Most"],
       en: ["Relocation of the Deanery Church (841 meters)", "Major lignite mining district", "Hněvín Castle overlooks the city", "Modern Autodrom Most racing circuit"],
     },
-    imageHint: "Most Church of the Assumption relocated building",
-  },
+    imageHint: "Most Church of the Assumption relocated building", image: "/poi-images/czechrepublic-most-cities-v2.webp"},
   {
     id: "czechrepublic-opava-cities-v2",
     type: "city",
@@ -279,8 +266,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Fosta capitală a Sileziei Austriece", "Sediul Universității Sileziene", "Muzeul Pământului Silezian (cel mai vechi din Cehia)", "Fondat înainte de 1224"],
       en: ["Former capital of Austrian Silesia", "Home to Silesian University", "Silesian Museum (oldest in Czechia)", "Founded before 1224"],
     },
-    imageHint: "Opava town hall building Hláska",
-  },
+    imageHint: "Opava town hall building Hláska", image: "/poi-images/czechrepublic-opava-cities-v2.webp"},
   {
     id: "czechrepublic-frydek-mistek-cities-v2",
     type: "city",
@@ -299,8 +285,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Castelul Frýdek din secolul al XIV-lea", "Istorie importantă în industria textilă", "Poarta către Munții Beskydy", "Unificarea a avut loc în 1943"],
       en: ["14th-century Frýdek Castle", "Important textile industry history", "Gateway to the Beskydy Mountains", "Unification took place in 1943"],
     },
-    imageHint: "Frydek-Mistek castle and square",
-  },
+    imageHint: "Frydek-Mistek castle and square", image: "/poi-images/czechrepublic-frydek-mistek-cities-v2.webp"},
   {
     id: "czechrepublic-karvina-cities-v2",
     type: "city",
@@ -319,8 +304,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Stațiunea balneară Darkov", "Castelul Fryštát", "Biserica înclinată Sf. Petru și Pavel", "Afectat puternic de tasările miniere"],
       en: ["Darkov spa resort", "Fryštát Castle", "Leaning Church of St. Peter and Paul", "Heavily affected by mining subsidence"],
     },
-    imageHint: "Karvina Frystat Castle and square",
-  },
+    imageHint: "Karvina Frystat Castle and square", image: "/poi-images/czechrepublic-karvina-cities-v2.webp"},
   {
     id: "czechrepublic-jihlava-cities-v2",
     type: "city",
@@ -339,8 +323,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Sistem extins de catacombe medievale", "Gustav Mahler a locuit aici în copilărie", "Ziduri medievale cu Poarta Maicii Domnului", "Fondat în jurul anului 1240"],
       en: ["Extensive medieval underground labyrinth", "Gustav Mahler lived here as a child", "Town walls with the Mother of God Gate", "Founded around 1240"],
     },
-    imageHint: "Jihlava main square and church",
-  },
+    imageHint: "Jihlava main square and church", image: "/poi-images/czechrepublic-jihlava-cities-v2.webp"},
   {
     id: "czechrepublic-teplice-cities-v2",
     type: "city",
@@ -359,8 +342,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Locul de întâlnire al lui Beethoven și Goethe", "Cunoscut anterior sub numele de 'Micul Paris'", "Izvoare termale de până la 44 de grade Celsius", "Castelul Teplice cu muzeu regional"],
       en: ["Meeting place of Beethoven and Goethe", "Formerly known as 'Little Paris'", "Hot springs reaching up to 44 degrees Celsius", "Teplice Castle housing a regional museum"],
     },
-    imageHint: "Teplice spa buildings and park",
-  },
+    imageHint: "Teplice spa buildings and park", image: "/poi-images/czechrepublic-teplice-cities-v2.webp"},
   {
     id: "czechrepublic-decin-cities-v2",
     type: "city",
@@ -379,8 +361,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Castelul Děčín pe o creastă stâncoasă", "Orașul situat la cea mai joasă altitudine din Cehia", "Pod istoric suspendat (fost)", "Nod feroviar important către Germania"],
       en: ["Děčín Castle situated on a rock ridge", "Lowest-lying city in the Czech Republic", "Historic chain bridge (former)", "Key railway junction to Germany"],
     },
-    imageHint: "Decin Castle on the rock above Elbe river",
-  },
+    imageHint: "Decin Castle on the rock above Elbe river", image: "/poi-images/czechrepublic-decin-cities-v2.webp"},
   {
     id: "czechrepublic-karlovy-vary-cities-v2",
     type: "city",
@@ -399,8 +380,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Patrimoniu UNESCO (Mari Orașe Balneare)", "Locul de origine al lichiorului Becherovka", "Fondat de împăratul Carol al IV-lea", "Manufactura de sticlă Moser"],
       en: ["UNESCO World Heritage spa town", "Home of Becherovka herbal liqueur", "Founded by Emperor Charles IV", "Moser glass manufactory"],
     },
-    imageHint: "Karlovy Vary colonnade and colorful buildings",
-  },
+    imageHint: "Karlovy Vary colonnade and colorful buildings", image: "/poi-images/czechrepublic-karlovy-vary-cities-v2.webp"},
   {
     id: "czechrepublic-chomutov-cities-v2",
     type: "city",
@@ -419,8 +399,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Lacul de alaun (unic în lume)", "Zoopark Chomutov (cel mai mare din țară)", "Centru istoric cu piață centrală", "Importante ateliere feroviare"],
       en: ["Alum Lake (unique in the world)", "Chomutov Zoopark (largest in the country)", "Historic city center with a market square", "Significant railway works"],
     },
-    imageHint: "Chomutov historic square and town hall",
-  },
+    imageHint: "Chomutov historic square and town hall", image: "/poi-images/czechrepublic-chomutov-cities-v2.webp"},
   {
     id: "czechrepublic-jablonec-nad-nisou-cities-v2",
     type: "city",
@@ -439,8 +418,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Muzeul de Sticlă și Bijuterii", "Centrul producției de mărgele de sticlă boemiene", "Arhitectură în stil Art Nouveau", "Barajul Mšeno situat în oraș"],
       en: ["Museum of Glass and Jewelry", "Center of Bohemian glass bead production", "Art Nouveau architecture", "Mšeno Dam within the city limits"],
     },
-    imageHint: "Jablonec nad Nisou museum of glass",
-  },
+    imageHint: "Jablonec nad Nisou museum of glass", image: "/poi-images/czechrepublic-jablonec-nad-nisou-cities-v2.webp"},
   {
     id: "czechrepublic-mlada-boleslav-cities-v2",
     type: "city",
@@ -459,8 +437,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Sediul central al Škoda Auto", "Muzeul Škoda cu vehicule istorice", "Fondat în secolul al X-lea", "Castel renaștentist deasupra râului Jizera"],
       en: ["Headquarters of Škoda Auto", "Škoda Museum with historic vehicles", "Founded in the 10th century", "Renaissance castle above the Jizera River"],
     },
-    imageHint: "Mlada Boleslav Skoda factory and museum",
-  },
+    imageHint: "Mlada Boleslav Skoda factory and museum", image: "/poi-images/czechrepublic-mlada-boleslav-cities-v2.webp"},
   {
     id: "czechrepublic-prostejov-cities-v2",
     type: "city",
@@ -479,8 +456,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Primărie în stil Art Nouveau", "Supranumit anterior 'Ierusalimul Moraviei'", "Aerodrom militar important", "Locul de naștere al filosofului Edmund Husserl"],
       en: ["Art Nouveau town hall", "Formerly called 'Jerusalem of Moravia'", "Major military airfield", "Birthplace of philosopher Edmund Husserl"],
     },
-    imageHint: "Prostejov town hall and square",
-  },
+    imageHint: "Prostejov town hall and square", image: "/poi-images/czechrepublic-prostejov-cities-v2.webp"},
   {
     id: "czechrepublic-prerov-cities-v2",
     type: "city",
@@ -499,8 +475,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Muzeul Comenius din castel", "Industrie optică importantă (Meopta)", "Situl arheologic Předmostí", "Festival internațional de jazz"],
       en: ["Comenius Museum in the castle", "Major optics industry (Meopta)", "Předmostí archaeological site", "International Jazz Festival"],
     },
-    imageHint: "Prerov castle and square",
-  },
+    imageHint: "Prerov castle and square", image: "/poi-images/czechrepublic-prerov-cities-v2.webp"},
   {
     id: "czechrepublic-ceska-lipa-cities-v2",
     type: "city",
@@ -519,8 +494,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Castelul de apă Lipý", "Fosta mănăstire augustiniană", "Poarta către Munții Luzației", "Creștere demografică rapidă după 1970"],
       en: ["Lipý water castle", "Former Augustinian monastery", "Gateway to the Lusatian Mountains", "Rapid population growth after 1970"],
     },
-    imageHint: "Ceska Lipa water castle ruins",
-  },
+    imageHint: "Ceska Lipa water castle ruins", image: "/poi-images/czechrepublic-ceska-lipa-cities-v2.webp"},
   {
     id: "czechrepublic-trebic-cities-v2",
     type: "city",
@@ -539,8 +513,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Cartierul evreiesc este patrimoniu UNESCO", "Bazilica Sfântul Procopie", "Unul dintre cele mai mari centre evreiești din Moravia", "Industrie a pielăriei importantă"],
       en: ["Jewish Quarter is a UNESCO World Heritage site", "St. Procopius Basilica", "One of Moravia's largest Jewish centers", "Significant leather industry"],
     },
-    imageHint: "Trebic Jewish Quarter narrow streets",
-  },
+    imageHint: "Trebic Jewish Quarter narrow streets", image: "/poi-images/czechrepublic-trebic-cities-v2.webp"},
   {
     id: "czechrepublic-tabor-cities-v2",
     type: "city",
@@ -559,8 +532,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Labirint de beciuri medievale", "Muzeul Husit din piața centrală", "Lacul Jordán (cel mai vechi baraj din Europa Centrală)", "Primărie gotică"],
       en: ["Labyrinth of medieval cellars", "Hussite Museum on the main square", "Jordán Reservoir (oldest in Central Europe)", "Gothic town hall"],
     },
-    imageHint: "Tabor historic square with Zizka statue",
-  },
+    imageHint: "Tabor historic square with Zizka statue", image: "/poi-images/czechrepublic-tabor-cities-v2.webp"},
   {
     id: "czechrepublic-trinec-cities-v2",
     type: "city",
@@ -579,8 +551,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Sediul combinatului siderurgic Třinecké železárny", "Centrul minorității poloneze", "Club de hochei important (HC Oceláři Třinec)", "Fondat ca sat industrial"],
       en: ["Home of Třinecké železárny steelworks", "Center of the Polish minority", "Successful ice hockey club (HC Oceláři Třinec)", "Founded as an industrial village"],
     },
-    imageHint: "Trinec steel factory landscape",
-  },
+    imageHint: "Trinec steel factory landscape", image: "/poi-images/czechrepublic-trinec-cities-v2.webp"},
   {
     id: "czechrepublic-pribram-cities-v2",
     type: "city",
@@ -599,8 +570,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Locul de pelerinaj Svatá Hora", "Muzeu al mineritului important", "Centrul extracției de uraniu în perioada comunistă", "Fondat în secolul al XIII-lea"],
       en: ["Svatá Hora (Holy Mountain) pilgrimage site", "Significant mining museum", "Center of uranium mining during communism", "Founded in the 13th century"],
     },
-    imageHint: "Pribram Svata Hora pilgrimage complex",
-  },
+    imageHint: "Pribram Svata Hora pilgrimage complex", image: "/poi-images/czechrepublic-pribram-cities-v2.webp"},
   {
     id: "czechrepublic-orlova-cities-v2",
     type: "city",
@@ -619,8 +589,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Fost centru educațional important", "Creștere demografică puternică în secolul XX", "Parte a districtului minier Ostrava", "Mănăstire benedictină (istoric)"],
       en: ["Formerly an important educational center", "Strong population growth in the 20th century", "Part of the Ostrava mining district", "Benedictine monastery (historic)"],
     },
-    imageHint: "Orlova town hall and residential blocks",
-  },
+    imageHint: "Orlova town hall and residential blocks", image: "/poi-images/czechrepublic-orlova-cities-v2.webp"},
   {
     id: "czechrepublic-trutnov-cities-v2",
     type: "city",
@@ -639,8 +608,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Fondat de coloniști germani", "Locul bătăliei de la Trautenau din 1866", "Industrie textilă tradițională", "Legenda dragonului este simbolul orașului"],
       en: ["Founded by German colonists", "Site of the Battle of Trautenau in 1866", "Traditional textile industry", "Dragon legend as the city's symbol"],
     },
-    imageHint: "Trutnov main square with Krakonos fountain",
-  },
+    imageHint: "Trutnov main square with Krakonos fountain", image: "/poi-images/czechrepublic-trutnov-cities-v2.webp"},
   {
     id: "czechrepublic-kolin-cities-v2",
     type: "city",
@@ -659,8 +627,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Biserica gotică Sfântul Bartolomeu", "Nod feroviar important", "Locul bătăliei de la Kolin din 1757", "Centrul producției de automobile TPCA"],
       en: ["Gothic St. Bartholomew's Church", "Important railway junction", "Site of the Battle of Kolín in 1757", "Center of TPCA automobile production"],
     },
-    imageHint: "Kolin St Bartholomew Church Gothic architecture",
-  },
+    imageHint: "Kolin St Bartholomew Church Gothic architecture", image: "/poi-images/czechrepublic-kolin-cities-v2.webp"},
   {
     id: "czechrepublic-pisek-cities-v2",
     type: "city",
@@ -679,8 +646,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Pod de piatră din secolul al XIII-lea", "Fost centru al spălării aurului", "Castel medieval bine conservat", "Important oraș al educației"],
       en: ["Stone bridge from the 13th century", "Former center of gold washing", "Well-preserved medieval castle", "Significant educational center"],
     },
-    imageHint: "Pisek Stone Bridge across Otava river",
-  },
+    imageHint: "Pisek Stone Bridge across Otava river", image: "/poi-images/czechrepublic-pisek-cities-v2.webp"},
   {
     id: "czechrepublic-kromeriz-cities-v2",
     type: "city",
@@ -699,8 +665,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Castelul Arhiepiscopal este patrimoniu UNESCO", "Faimoasa Grădină de Flori (Květná zahrada)", "Reședința de vară a Arhiepiscopiei de Olomouc", "Fondat în anul 1260"],
       en: ["Archbishop's Palace is a UNESCO World Heritage site", "Famous Flower Garden (Květná zahrada)", "Summer seat of the Archdiocese of Olomouc", "Founded in 1260"],
     },
-    imageHint: "Kromeriz Archbishop Palace and gardens",
-  },
+    imageHint: "Kromeriz Archbishop Palace and gardens", image: "/poi-images/czechrepublic-kromeriz-cities-v2.webp"},
   {
     id: "czechrepublic-sumperk-cities-v2",
     type: "city",
@@ -719,8 +684,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Istorie textilă bogată ('Manchesterul Moraviei')", "Notoriu pentru procesele vrăjitoarelor din secolul XVII", "Primărie istorică în stil săsesc", "Fondat în secolul al XIII-lea"],
       en: ["Rich textile history ('Moravian Manchester')", "Notorious for 17th-century witch trials", "Historic town hall in Saxon style", "Founded in the 13th century"],
     },
-    imageHint: "Sumperk town hall and city center",
-  },
+    imageHint: "Sumperk town hall and city center", image: "/poi-images/czechrepublic-sumperk-cities-v2.webp"},
   {
     id: "czechrepublic-vsetin-cities-v2",
     type: "city",
@@ -739,8 +703,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Castelul renaștentist Vsetín", "Centru al industriei de mobilier (lemn curbat Thonet)", "Bastion al bisericii evanghelice", "Poarta către rezervația naturală Beskydy"],
       en: ["Renaissance Vsetín Castle", "Center of furniture industry (Thonet bentwood)", "Stronghold of the Evangelical Church", "Gateway to the Beskydy protected area"],
     },
-    imageHint: "Vsetin castle on the hill",
-  },
+    imageHint: "Vsetin castle on the hill", image: "/poi-images/czechrepublic-vsetin-cities-v2.webp"},
   {
     id: "czechrepublic-valasske-mezirici-cities-v2",
     type: "city",
@@ -759,8 +722,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Două castele: Žerotín și Kinský", "Manufactură de tapiserii faimoasă", "Observatorul astronomic Valašské Meziříčí", "Centru istoric conservat"],
       en: ["Two castles: Žerotín and Kinský", "Famous tapestry manufactory", "Valašské Meziříčí Observatory", "Historic city center"],
     },
-    imageHint: "Valasske Mezirici Zerotin Castle",
-  },
+    imageHint: "Valasske Mezirici Zerotin Castle", image: "/poi-images/czechrepublic-valasske-mezirici-cities-v2.webp"},
   {
     id: "czechrepublic-litvinov-cities-v2",
     type: "city",
@@ -779,8 +741,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Sediul celei mai mari rafinării din țară (Unipetrol)", "Oraș cu tradiție în hochei pe gheață (HC Litvínov)", "Castelul Waldstein", "Fost centru al industriei textile"],
       en: ["Home to the largest refinery in the country (Unipetrol)", "Traditional ice hockey hub (HC Litvínov)", "Waldstein Castle", "Former center of the textile industry"],
     },
-    imageHint: "Litvinov industrial skyline and castle",
-  },
+    imageHint: "Litvinov industrial skyline and castle", image: "/poi-images/czechrepublic-litvinov-cities-v2.webp"},
   {
     id: "czechrepublic-uherske-hradiste-cities-v2",
     type: "city",
@@ -799,8 +760,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Gazda Școlii de Vară de Film", "Aproape de mănăstirea Velehrad", "Fondat în 1257 de Ottokar al II-lea", "Centrul folclorului din Slovacia Moravă"],
       en: ["Host of the Summer Film School", "Located near the Velehrad Monastery", "Founded in 1257 by Ottokar II", "Center of Moravian Slovak folklore"],
     },
-    imageHint: "Uherske Hradiste historic square",
-  },
+    imageHint: "Uherske Hradiste historic square", image: "/poi-images/czechrepublic-uherske-hradiste-cities-v2.webp"},
   {
     id: "czechrepublic-hodonin-cities-v2",
     type: "city",
@@ -819,8 +779,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Locul de naștere al lui Tomáš Garrigue Masaryk", "Stațiunea balneară Hodonín", "Centrul extracției de petrol și gaze naturale", "Castelul baroc Hodonín"],
       en: ["Birthplace of Tomáš Garrigue Masaryk", "Hodonín spa resort", "Center of oil and natural gas extraction", "Baroque Hodonín Castle"],
     },
-    imageHint: "Hodonin Masaryk square and town hall",
-  },
+    imageHint: "Hodonin Masaryk square and town hall", image: "/poi-images/czechrepublic-hodonin-cities-v2.webp"},
   {
     id: "czechrepublic-breclav-cities-v2",
     type: "city",
@@ -839,8 +798,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Cea mai importantă gară de frontieră către Austria", "Castelul Břeclav (ruină romantizată)", "Biserica modernă Sfântul Venceslav", "Situat pe râul Dyje"],
       en: ["Key border railway station to Austria", "Břeclav Castle (romanticized ruin)", "Modern St. Wenceslaus Church", "Situated on the Dyje River"],
     },
-    imageHint: "Breclav railway station and church",
-  },
+    imageHint: "Breclav railway station and church", image: "/poi-images/czechrepublic-breclav-cities-v2.webp"},
   {
     id: "czechrepublic-krnov-cities-v2",
     type: "city",
@@ -859,8 +817,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Compania de orgi Rieger-Kloss, renumită mondial", "Biserica de pelerinaj de pe dealul Cvilín", "Primărie renaștentistă", "Fondat în jurul anului 1221"],
       en: ["World-famous Rieger-Kloss organ factory", "Pilgrimage church on Cvilín hill", "Renaissance town hall", "Founded around 1221"],
     },
-    imageHint: "Krnov town hall and square",
-  },
+    imageHint: "Krnov town hall and square", image: "/poi-images/czechrepublic-krnov-cities-v2.webp"},
   {
     id: "czechrepublic-litomerice-cities-v2",
     type: "city",
@@ -879,8 +836,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Sediul Episcopiei de Litoměřice", "Centrul expoziției de horticultură 'Grădina Boemiei'", "Catedrala Sfântul Ștefan", "Fondat în secolul al X-lea"],
       en: ["Seat of the Diocese of Litoměřice", "Center of the 'Garden of Bohemia' horticulture exhibition", "St. Stephen's Cathedral", "Founded in the 10th century"],
     },
-    imageHint: "Litomerice main square and colorful houses",
-  },
+    imageHint: "Litomerice main square and colorful houses", image: "/poi-images/czechrepublic-litomerice-cities-v2.webp"},
   {
     id: "czechrepublic-havlickuv-brod-cities-v2",
     type: "city",
@@ -899,8 +855,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Nume anterior: Německý Brod", "Centru istoric cu case baroce", "Nod feroviar important", "Muzeul Karel Havlíček"],
       en: ["Former name: Německý Brod", "Historic center with Baroque houses", "Important railway junction", "Karel Havlíček Museum"],
     },
-    imageHint: "Havlickuv Brod main square",
-  },
+    imageHint: "Havlickuv Brod main square", image: "/poi-images/czechrepublic-havlickuv-brod-cities-v2.webp"},
   {
     id: "czechrepublic-zdar-nad-sazavou-cities-v2",
     type: "city",
@@ -919,8 +874,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Biserica de pelerinaj Sf. Ioan Nepomuk de pe Zelená hora", "Proiectată de Jan Blažej Santini-Aichel", "Centru al industriei grele (ŽDAS)", "Fondat în jurul unei mănăstiri cisterciene"],
       en: ["Pilgrimage Church of St. John of Nepomuk at Zelená hora", "Designed by Jan Blažej Santini-Aichel", "Center of heavy industry (ŽDAS)", "Founded around a Cistercian monastery"],
     },
-    imageHint: "Zdar nad Sazavou Zelena hora church aerial view",
-  },
+    imageHint: "Zdar nad Sazavou Zelena hora church aerial view", image: "/poi-images/czechrepublic-zdar-nad-sazavou-cities-v2.webp"},
   {
     id: "czechrepublic-chrudim-cities-v2",
     type: "city",
@@ -939,8 +893,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Muzeul Culturii Păpușilor", "Centrul artei păpușărești cehe", "Biserica Adormirea Maicii Domnului", "Fondat înainte de 1276"],
       en: ["Museum of Puppet Culture", "Center of Czech puppetry art", "Church of the Assumption of Mary", "Founded before 1276"],
     },
-    imageHint: "Chrudim historic puppet museum building",
-  },
+    imageHint: "Chrudim historic puppet museum building", image: "/poi-images/czechrepublic-chrudim-cities-v2.webp"},
   {
     id: "czechrepublic-strakonice-cities-v2",
     type: "city",
@@ -959,8 +912,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Festivalul internațional de cimpoieri", "Producție importantă de motociclete (ČZ)", "Castelul Strakonice (fost al ordinului ioanit)", "Centru al industriei textile (Feze)"],
       en: ["International Bagpipe Festival", "Significant motorcycle production (ČZ)", "Strakonice Castle (formerly Knights Hospitaller)", "Textile industry center (Feze)"],
     },
-    imageHint: "Strakonice Castle and river",
-  },
+    imageHint: "Strakonice Castle and river", image: "/poi-images/czechrepublic-strakonice-cities-v2.webp"},
   {
     id: "czechrepublic-koprivnice-cities-v2",
     type: "city",
@@ -979,8 +931,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Muzeul Tehnic Tatra", "Locul de naștere al alergătorului Emil Zátopek", "Primul automobil din Austro-Ungaria (Präsident)", "Ruinele castelului Šostýn în apropiere"],
       en: ["Tatra Technical Museum", "Birthplace of runner Emil Zátopek", "First automobile in Austria-Hungary (Präsident)", "Šostýn castle ruins nearby"],
     },
-    imageHint: "Koprivnice Tatra Museum vehicles",
-  },
+    imageHint: "Koprivnice Tatra Museum vehicles", image: "/poi-images/czechrepublic-koprivnice-cities-v2.webp"},
   {
     id: "czechrepublic-bohumin-cities-v2",
     type: "city",
@@ -999,8 +950,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Una dintre cele mai importante gări din Cehia", "Industrie metalurgică importantă (ŽDB)", "Rezervația naturală Meandrele Odrei", "Fondat în secolul al XIII-lea"],
       en: ["One of the most important railway stations in Czechia", "Major metal industry (ŽDB)", "Meanders of the Oder protected area", "Founded in the 13th century"],
     },
-    imageHint: "Bohumin railway station and town hall",
-  },
+    imageHint: "Bohumin railway station and town hall", image: "/poi-images/czechrepublic-bohumin-cities-v2.webp"},
   {
     id: "czechrepublic-klatovy-cities-v2",
     type: "city",
@@ -1019,8 +969,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Catacombele din Klatovy cu mumii", "Farmacie barocă iezuită", "Turnul Negru (71 de metri înălțime)", "Fondat în jurul anului 1260"],
       en: ["Klatovy catacombs with mummies", "Baroque Jesuit pharmacy", "Black Tower (71 meters high)", "Founded around 1260"],
     },
-    imageHint: "Klatovy Black Tower and square",
-  },
+    imageHint: "Klatovy Black Tower and square", image: "/poi-images/czechrepublic-klatovy-cities-v2.webp"},
   {
     id: "czechrepublic-jindrichuv-hradec-cities-v2",
     type: "city",
@@ -1039,8 +988,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Al treilea cel mai mare complex de castel din Cehia", "Cea mai mare iesle mecanică din lume (Krýzovy jesličky)", "Cale ferată istorică cu ecartament îngust", "Fondat în secolul al XIII-lea"],
       en: ["Third largest castle complex in Czechia", "Largest mechanical nativity scene (Krýza's crèche)", "Historic narrow-gauge railway", "Founded in the 13th century"],
     },
-    imageHint: "Jindrichuv Hradec castle and lake",
-  },
+    imageHint: "Jindrichuv Hradec castle and lake", image: "/poi-images/czechrepublic-jindrichuv-hradec-cities-v2.webp"},
   {
     id: "czechrepublic-vyskov-cities-v2",
     type: "city",
@@ -1059,8 +1007,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["DinoPark și Grădina Zoologică Vyškov", "Academia Forțelor Armate Cehe", "Castel baroc cu grădină", "Fondat în secolul al XII-lea"],
       en: ["DinoPark and Vyškov Zoo", "Czech Armed Forces Academy", "Baroque castle with a garden", "Founded in the 12th century"],
     },
-    imageHint: "Vyskov DinoPark dinosaur models",
-  },
+    imageHint: "Vyskov DinoPark dinosaur models", image: "/poi-images/czechrepublic-vyskov-cities-v2.webp"},
   {
     id: "czechrepublic-kutna-hora-cities-v2",
     type: "city",
@@ -1079,8 +1026,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Centrul istoric este patrimoniu UNESCO", "Faimosul Osuar din Sedlec", "Catedrala gotică Sfânta Barbara", "Fosta monetărie regală (Curtea Italiană)"],
       en: ["Historic center is a UNESCO World Heritage site", "Famous Sedlec Ossuary (Bone Church)", "Gothic St. Barbara's Cathedral", "Former royal mint (Italian Court)"],
     },
-    imageHint: "Kutna Hora St Barbara Cathedral exterior",
-  },
+    imageHint: "Kutna Hora St Barbara Cathedral exterior", image: "/poi-images/czechrepublic-kutna-hora-cities-v2.webp"},
   {
     id: "czechrepublic-jirkov-cities-v2",
     type: "city",
@@ -1099,8 +1045,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Castelul Červený Hrádek", "Pasaje subterane istorice", "Fost centru al industriei berii", "Aproape de barajul Jirkov"],
       en: ["Červený Hrádek Castle", "Historic underground cellars", "Former center of the brewing industry", "Near the Jirkov Reservoir"],
     },
-    imageHint: "Jirkov Cerveny Hradek castle",
-  },
+    imageHint: "Jirkov Cerveny Hradek castle", image: "/poi-images/czechrepublic-jirkov-cities-v2.webp"},
   {
     id: "czechrepublic-blansko-cities-v2",
     type: "city",
@@ -1119,8 +1064,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Centru al prelucrării fierului (turnătorie artistică)", "Punct de plecare pentru peșterile Punkva", "Castelul renaștentist Blansko", "Aproape de prăpastia Macocha"],
       en: ["Center of iron processing (artistic casting)", "Starting point for the Punkva Caves", "Renaissance Blansko Castle", "Near the Macocha Abyss"],
     },
-    imageHint: "Blansko town hall and square",
-  },
+    imageHint: "Blansko town hall and square", image: "/poi-images/czechrepublic-blansko-cities-v2.webp"},
   {
     id: "czechrepublic-hranice-cities-v2",
     type: "city",
@@ -1139,8 +1083,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Abisul Hranice (Hranická propast)", "Fostă academie militară", "Castel renaștentist cu curte cu arcade", "Fondat în secolul al XII-lea"],
       en: ["Hranice Abyss (Hranická propast)", "Former military academy", "Renaissance castle with an arcaded courtyard", "Founded in the 12th century"],
     },
-    imageHint: "Hranice abyss and Bečva river",
-  },
+    imageHint: "Hranice abyss and Bečva river", image: "/poi-images/czechrepublic-hranice-cities-v2.webp"},
   {
     id: "czechrepublic-beroun-cities-v2",
     type: "city",
@@ -1159,8 +1102,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Piețe de olărit importante", "Țarc de urși pe dealul orașului", "Ziduri medievale cu două porți", "Lângă peșterile Koněprusy"],
       en: ["Significant pottery markets", "Bear enclosure on the town hill", "Medieval town walls with two gates", "Near the Koněprusy dripstone caves"],
     },
-    imageHint: "Beroun historic square and gates",
-  },
+    imageHint: "Beroun historic square and gates", image: "/poi-images/czechrepublic-beroun-cities-v2.webp"},
   {
     id: "czechrepublic-zatec-cities-v2",
     type: "city",
@@ -1179,8 +1121,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Patrimoniu UNESCO: Hameiul și orașul Žatec", "Oficiul de sigilare a hameiului și muzeul hameiului", "Fondat înainte de 1004", "Soi tradițional de hamei de Saaz"],
       en: ["UNESCO site: Žatec and the Landscape of Saaz Hops", "Hop Seal Office and Hop Museum", "Founded before 1004", "Traditional Saaz hop variety"],
     },
-    imageHint: "Zatec hop storage buildings and square",
-  },
+    imageHint: "Zatec hop storage buildings and square", image: "/poi-images/czechrepublic-zatec-cities-v2.webp"},
   {
     id: "czechrepublic-louny-cities-v2",
     type: "city",
@@ -1199,8 +1140,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Biserica gotică târzie Sfântul Nicolae", "Fortificații conservate cu Poarta Saaz", "Cultivarea tradițională a hameiului în zonă", "Fondat în secolul al XII-lea"],
       en: ["Late Gothic St. Nicholas Church", "Preserved town walls with Saaz Gate", "Traditional hop growing in the area", "Founded in the 12th century"],
     },
-    imageHint: "Louny St Nicholas Church roof silhouette",
-  },
+    imageHint: "Louny St Nicholas Church roof silhouette", image: "/poi-images/czechrepublic-louny-cities-v2.webp"},
   {
     id: "czechrepublic-nachod-cities-v2",
     type: "city",
@@ -1219,8 +1159,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Castelul baroc Náchod", "Fortificații de frontieră importante (sistem de buncăre)", "Locul de origine al scriitorului Josef Škvorecký", "Industrie textilă importantă (fostă)"],
       en: ["Baroque Náchod Castle", "Significant border fortifications (bunker system)", "Home of the writer Josef Škvorecký", "Significant textile industry (formerly)"],
     },
-    imageHint: "Nachod Castle view from the square",
-  },
+    imageHint: "Nachod Castle view from the square", image: "/poi-images/czechrepublic-nachod-cities-v2.webp"},
   {
     id: "czechrepublic-marianske-lazne-cities-v2",
     type: "city",
@@ -1239,8 +1178,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Patrimoniu UNESCO (Mari Orașe Balneare)", "Fântâna Cântătoare (Colonada principală)", "Peste 100 de izvoare minerale în oraș", "Locul preferat al lui Goethe și Chopin"],
       en: ["UNESCO World Heritage spa town", "Singing Fountain at the main colonnade", "Over 100 mineral springs in the city", "Favorite spot of Goethe and Chopin"],
     },
-    imageHint: "Marianske Lazne singing fountain and colonnade",
-  },
+    imageHint: "Marianske Lazne singing fountain and colonnade", image: "/poi-images/czechrepublic-marianske-lazne-cities-v2.webp"},
   {
     id: "czechrepublic-pelhrimov-cities-v2",
     type: "city",
@@ -1259,8 +1197,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Muzeul Recordurilor și Curiozităților", "Centru istoric protejat ca monument", "Situat la granița dintre Boemia și Moravia", "Fondat în secolul al XIII-lea"],
       en: ["Museum of Records and Curiosities", "Historic city center (heritage site)", "Located on the border of Bohemia and Moravia", "Founded in the 13th century"],
     },
-    imageHint: "Pelhrimov main square and gates",
-  },
+    imageHint: "Pelhrimov main square and gates", image: "/poi-images/czechrepublic-pelhrimov-cities-v2.webp"},
   {
     id: "czechrepublic-slany-cities-v2",
     type: "city",
@@ -1279,8 +1216,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Numele derivă din cuvântul 'sărat'", "Centru istoric cu Poarta Velvary", "Industrie de construcții de mașini importantă", "Fondat în secolul al XIII-lea"],
       en: ["Name derives from the word 'salty'", "Historic city center with Velvary Gate", "Significant machinery industry", "Founded in the 13th century"],
     },
-    imageHint: "Slany Velvary Gate and square",
-  },
+    imageHint: "Slany Velvary Gate and square", image: "/poi-images/czechrepublic-slany-cities-v2.webp"},
   {
     id: "czechrepublic-vlasim-cities-v2",
     type: "city",
@@ -1299,8 +1235,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Castelul Vlašim cu Muzeul Regiunii Blaník", "Importantă fabrică de muniție (Sellier & Bellot)", "Pavilion chinezesc în parcul castelului", "Lângă muntele Blaník"],
       en: ["Vlašim Castle with Blaník Region Museum", "Major ammunition factory (Sellier & Bellot)", "Chinese Pavilion in the castle park", "Located near the Blaník mountain"],
     },
-    imageHint: "Vlasim Castle and park bridge",
-  },
+    imageHint: "Vlasim Castle and park bridge", image: "/poi-images/czechrepublic-vlasim-cities-v2.webp"},
   {
     id: "czechrepublic-humpolec-cities-v2",
     type: "city",
@@ -1319,8 +1254,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Ruinele castelului Orlík deasupra orașului", "Fabrica de bere Bernard", "Muzeul Dr. Aleš Hrdlička", "Nod de transport important"],
       en: ["Orlík castle ruins above the town", "Bernard Brewery (traditional beer)", "Dr. Aleš Hrdlička Museum", "Important transport hub"],
     },
-    imageHint: "Humpolec Bernard brewery and square",
-  },
+    imageHint: "Humpolec Bernard brewery and square", image: "/poi-images/czechrepublic-humpolec-cities-v2.webp"},
   {
     id: "czechrepublic-domazlice-cities-v2",
     type: "city",

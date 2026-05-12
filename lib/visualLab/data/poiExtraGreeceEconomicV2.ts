@@ -19,8 +19,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Peste 5 milioane TEU trafic anual de containere", "Deținut majoritar de către grupul COSCO Shipping", "Cel mai mare port de pasageri din întreaga Europă", "Locație strategică la capătul coridorului spre Asia"],
       en: ["Handles over 5 million TEU of containers annually", "Majority owned by the COSCO Shipping Group", "Largest passenger port in all of Europe", "Strategic location at the end of the Asian corridor"],
     },
-    imageHint: "Port of Piraeus aerial view with container ships",
-  },
+    imageHint: "Port of Piraeus aerial view with container ships", image: "/poi-images/greece-piraeus-port-economic-v2.webp"},
   {
     id: "greece-thessaloniki-port-economic-v2",
     type: "port",
@@ -39,8 +38,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Fondat în anul 315 î.Hr.", "Al doilea cel mai mare port de containere din Grecia", "Statut de port liber pentru mărfurile în tranzit spre Balcani", "Nod important pentru importul de materii prime"],
       en: ["Founded in 315 BC", "Second largest container port in Greece", "Free port status for transit goods to the Balkans", "Major hub for raw material imports"],
     },
-    imageHint: "Port of Thessaloniki cranes and container terminal",
-  },
+    imageHint: "Port of Thessaloniki cranes and container terminal", image: "/poi-images/greece-thessaloniki-port-economic-v2.webp"},
   {
     id: "greece-aspropyrgos-refinery-economic-v2",
     type: "industry",
@@ -59,8 +57,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Capacitate de procesare de 148.000 de barili pe zi", "Parte a complexului Hellenic Petroleum", "Produce combustibili, lubrifianți și bitum", "Conexiune directă prin conductă cu portul Pachi"],
       en: ["Processing capacity of 148,000 barrels per day", "Part of the Hellenic Petroleum complex", "Produces fuels, lubricants, and bitumen", "Direct pipeline connection to the port of Pachi"],
     },
-    imageHint: "Aspropyrgos industrial refinery towers and pipes",
-  },
+    imageHint: "Aspropyrgos industrial refinery towers and pipes", image: "/poi-images/greece-aspropyrgos-refinery-economic-v2.webp"},
   {
     id: "greece-ptolemaida-lignite-center-economic-v2",
     type: "mine",
@@ -79,8 +76,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Cea mai mare zonă de extracție a lignitului din Balcani", "Operat de Public Power Corporation (PPC)", "Declin accentuat al producției din cauza decarbonizării", "Angajează mii de lucrători în regiune"],
       en: ["Largest lignite mining area in the Balkans", "Operated by the Public Power Corporation (PPC)", "Sharp decline in production due to decarbonization", "Employs thousands of workers in the region"],
     },
-    imageHint: "Ptolemaida open pit lignite mine with excavators",
-  },
+    imageHint: "Ptolemaida open pit lignite mine with excavators", image: "/poi-images/greece-ptolemaida-lignite-center-economic-v2.webp"},
   {
     id: "greece-elefsina-shipyards-economic-v2",
     type: "factory",
@@ -99,8 +95,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Fondat în anul 1962", "Dispune de trei docuri plutitoare mari", "Furnizor important pentru Marina Greacă", "Susținut de investiții internaționale pentru modernizare"],
       en: ["Founded in 1962", "Features three large floating docks", "Major supplier for the Hellenic Navy", "Supported by international investment for modernization"],
     },
-    imageHint: "Elefsina shipyards with large vessels in dry dock",
-  },
+    imageHint: "Elefsina shipyards with large vessels in dry dock", image: "/poi-images/greece-elefsina-shipyards-economic-v2.webp"},
   {
     id: "greece-megalopolis-power-plant-economic-v2",
     type: "industry",
@@ -119,8 +114,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["În funcțiune din anii 1970", "Compusă din mai multe unități cu puteri diferite", "Are turnuri de răcire distinctive, vizibile de departe", "Este convertită treptat la funcționarea pe gaze naturale"],
       en: ["Operating since the 1970s", "Consists of several units with varying output", "Features distinctive cooling towers visible from afar", "Gradually being converted to natural gas operation"],
     },
-    imageHint: "Megalopolis power plant cooling towers and industrial site",
-  },
+    imageHint: "Megalopolis power plant cooling towers and industrial site", image: "/poi-images/greece-megalopolis-power-plant-economic-v2.webp"},
   {
     id: "greece-skouries-mine-economic-v2",
     type: "mine",
@@ -139,8 +133,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Operată de Hellas Gold (Eldorado Gold)", "Rezerve estimate la 3,7 milioane de uncii de aur", "Unul dintre cele mai controversate proiecte de mediu din Grecia", "Contribuție majoră la exportul de metale al Greciei"],
       en: ["Operated by Hellas Gold (Eldorado Gold)", "Estimated reserves of 3.7 million ounces of gold", "One of the most controversial environmental projects in Greece", "Major contributor to Greek metal exports"],
     },
-    imageHint: "Skouries mining project site in Chalkidiki forest",
-  },
+    imageHint: "Skouries mining project site in Chalkidiki forest", image: "/poi-images/greece-skouries-mine-economic-v2.webp"},
   {
     id: "greece-larymna-ferronickel-plant-economic-v2",
     type: "factory",
@@ -159,8 +152,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Singurul producător de feronichel din UE", "Deține propriile mine în împrejurimi", "Cel mai important angajator din regiunea Beoția", "Exportă aproape 100% din producție în străinătate"],
       en: ["Only ferronickel producer in the EU", "Owns its own mines in the surrounding area", "Most important employer in the Boeotia region", "Exports almost 100% of its production abroad"],
     },
-    imageHint: "Larymna industrial nickel smelting plant by the sea",
-  },
+    imageHint: "Larymna industrial nickel smelting plant by the sea", image: "/poi-images/greece-larymna-ferronickel-plant-economic-v2.webp"},
   {
     id: "greece-oinofyta-industrial-park-economic-v2",
     type: "industry",
@@ -179,8 +171,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Găzduiește peste 200 de companii medii și mari", "Locație importantă pentru industria greacă a aluminiului", "Situat strategic pe autostrada Atena-Salonic", "Centru pentru logistică și distribuție de mărfuri"],
       en: ["Hosts over 200 medium and large enterprises", "Major site for the Greek aluminum industry", "Strategically located on the Athens-Thessaloniki highway", "Center for logistics and goods distribution"],
     },
-    imageHint: "Oinofyta industrial zone with various factory buildings",
-  },
+    imageHint: "Oinofyta industrial zone with various factory buildings", image: "/poi-images/greece-oinofyta-industrial-park-economic-v2.webp"},
   {
     id: "greece-sindos-industrial-zone-economic-v2",
     type: "industry",
@@ -199,8 +190,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Suprafață de peste 10 milioane de metri pătrați", "Sediul Instituției de Învățământ Tehnologic Alexander", "Conexiune feroviară directă cu portul Salonic", "Centru pentru industria textilă și agricolă din nordul Greciei"],
       en: ["Area of over 10 million square meters", "Home to the Alexander Technological Educational Institute", "Direct rail link to the Port of Thessaloniki", "Hub for Northern Greek textile and agricultural industries"],
     },
-    imageHint: "Sindos industrial park aerial with warehouses",
-  },
+    imageHint: "Sindos industrial park aerial with warehouses", image: "/poi-images/greece-sindos-industrial-zone-economic-v2.webp"},
   {
     id: "greece-volos-port-economic-v2",
     type: "port",
@@ -219,8 +209,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Cel mai important port de export pentru produsele agricole din Tesalia", "Dispune de un siloz de cereale modern și terminal de containere", "Punct de plecare pentru feriboturile spre Skiathos și Skopelos", "Centru de tranzit pentru produse din fier și oțel"],
       en: ["Most important export port for Thessaly's agricultural products", "Features a modern grain silo and container terminal", "Departure point for ferries to Skiathos and Skopelos", "Transshipment point for iron and steel products"],
     },
-    imageHint: "Volos port waterfront with ships and city background",
-  },
+    imageHint: "Volos port waterfront with ships and city background", image: "/poi-images/greece-volos-port-economic-v2.webp"},
   {
     id: "greece-heraklion-port-economic-v2",
     type: "port",
@@ -239,8 +228,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Cel mai mare port de pe insula Creta", "Centru important pentru exportul de ulei de măsline și vin", "Punct de oprire frecvent pentru navele de croazieră internaționale", "Are o fortăreață venețiană caracteristică la intrare"],
       en: ["Largest port on the island of Crete", "Key hub for the export of olive oil and wine", "Frequent port of call for international cruise ships", "Features a characteristic Venetian fortress at the entrance"],
     },
-    imageHint: "Heraklion port with large ferry and Venetian fortress",
-  },
+    imageHint: "Heraklion port with large ferry and Venetian fortress", image: "/poi-images/greece-heraklion-port-economic-v2.webp"},
   {
     id: "greece-patras-port-economic-v2",
     type: "port",
@@ -259,8 +247,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Cel mai mare port din Peloponez", "Punct principal de legătură pentru feriboturile spre Ancona și Veneția", "Dispune de un terminal sudic nou și modern", "Centru pentru comerțul cu vin și stafide"],
       en: ["Largest port in the Peloponnese", "Main connection point for ferries to Ancona and Venice", "Features a new, modern southern terminal", "Hub for the trade of wine and currants"],
     },
-    imageHint: "Patras port with large international ferries docked",
-  },
+    imageHint: "Patras port with large international ferries docked", image: "/poi-images/greece-patras-port-economic-v2.webp"},
   {
     id: "greece-igoumenitsa-port-economic-v2",
     type: "port",
@@ -279,8 +266,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Al doilea cel mai mare port de pasageri din vestul Greciei", "Legătură directă cu Insulele Ionice și Italia", "Accent puternic pe traficul Ro-Ro (Roll-on Roll-off)", "Rol esențial în relansarea economică a Epirului"],
       en: ["Second largest passenger port in Western Greece", "Direct connection to the Ionian Islands and Italy", "Strong focus on Ro-Ro (Roll-on Roll-off) traffic", "Essential role in the economic recovery of Epirus"],
     },
-    imageHint: "Igoumenitsa port ferry terminal and green hills",
-  },
+    imageHint: "Igoumenitsa port ferry terminal and green hills", image: "/poi-images/greece-igoumenitsa-port-economic-v2.webp"},
   {
     id: "greece-aliveri-power-plant-economic-v2",
     type: "industry",
@@ -299,8 +285,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Prima unitate a fost pusă în funcțiune în 1953", "Dispune de o nouă unitate cu ciclu combinat pe gaz", "Stabilizator important pentru rețeaua electrică din Grecia Centrală", "Situată direct pe coastă pentru utilizarea apei de răcire"],
       en: ["First unit was commissioned in 1953", "Features a new combined cycle gas turbine unit", "Important stabilizer for the Central Greece power grid", "Located directly on the coast for cooling water usage"],
     },
-    imageHint: "Aliveri power plant smoke stacks and sea",
-  },
+    imageHint: "Aliveri power plant smoke stacks and sea", image: "/poi-images/greece-aliveri-power-plant-economic-v2.webp"},
   {
     id: "greece-naxos-emery-mines-economic-v2",
     type: "mine",
@@ -319,8 +304,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Singura exploatare de smirghel din Uniunea Europeană", "Utilizat pentru fabricarea abrazivelor și pardoselilor", "Materialul este transportat spre port printr-un teleferic istoric", "Minerii beneficiază de un statut special de protecție de stat"],
       en: ["Only emery deposit in the entire European Union", "Used for the manufacture of abrasives and flooring", "Material is transported to the port via a historical ropeway", "Workers are under a special state protection status"],
     },
-    imageHint: "Historical emery mining site on Naxos mountains",
-  },
+    imageHint: "Historical emery mining site on Naxos mountains", image: "/poi-images/greece-naxos-emery-mines-economic-v2.webp"},
   {
     id: "greece-milos-perlite-mines-economic-v2",
     type: "mine",
@@ -339,8 +323,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Cea mai mare unitate de producție de perlit din lume", "Mineralele sunt expediate direct de la terminalele de coastă", "Milos produce peste 1 milion de tone de bentonită anual", "Mineritul este aici mai important decât turismul"],
       en: ["Largest perlite production site in the world", "Minerals are shipped directly from coastal terminals", "Milos produces over 1 million tons of bentonite annually", "Mining is more important here than tourism"],
     },
-    imageHint: "White perlite mining quarry on Milos island",
-  },
+    imageHint: "White perlite mining quarry on Milos island", image: "/poi-images/greece-milos-perlite-mines-economic-v2.webp"},
   {
     id: "greece-koropi-business-park-economic-v2",
     type: "industry",
@@ -359,8 +342,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Accent pe cercetare și producție farmaceutică", "Găzduiește sedii ale multor corporații multinaționale", "A beneficiat mult de construcția noului aeroport în 2001", "Conexiune excelentă la autostrada Attiki Odos"],
       en: ["Focus on research and pharmaceutical production", "Hosts headquarters of many multinational corporations", "Benefited greatly from the new airport construction in 2001", "Excellent connection to the Attiki Odos highway"],
     },
-    imageHint: "Modern industrial and office buildings in Koropi",
-  },
+    imageHint: "Modern industrial and office buildings in Koropi", image: "/poi-images/greece-koropi-business-park-economic-v2.webp"},
   {
     id: "greece-corinth-canal-economic-v2",
     type: "bridge",
@@ -379,8 +361,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Finalizat în 1893 după 12 ani de construcție", "Are aproximativ 6,3 kilometri lungime și 24 de metri lățime", "Tranzitat anual de circa 11.000 de nave", "Pereții de stâncă se ridică până la 79 de metri înălțime"],
       en: ["Completed in 1893 after 12 years of construction", "Approximately 6.3 kilometers long and 24 meters wide", "Traversed by about 11,000 ships annually", "The rock walls rise up to 79 meters high"],
     },
-    imageHint: "Aerial view of the narrow Corinth Canal with a ship",
-  },
+    imageHint: "Aerial view of the narrow Corinth Canal with a ship", image: "/poi-images/greece-corinth-canal-economic-v2.webp"},
   {
     id: "greece-motor-oil-refinery-economic-v2",
     type: "industry",
@@ -399,8 +380,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["A doua cea mai mare rafinărie din Grecia", "Dispune de propriile instalații portuare pentru supertancuri", "Are unul dintre cele mai mari grade de complexitate (index Nelson) din lume", "Furnizor important pentru forțele NATO din regiune"],
       en: ["Second largest refinery in Greece", "Has its own port facilities for supertankers", "Features one of the highest complexity rates (Nelson Index) worldwide", "Major supplier for NATO forces in the region"],
     },
-    imageHint: "Motor Oil refinery complex at sunset by the coast",
-  },
+    imageHint: "Motor Oil refinery complex at sunset by the coast", image: "/poi-images/greece-motor-oil-refinery-economic-v2.webp"},
   {
     id: "greece-halivourgiki-steel-economic-v2",
     type: "factory",
@@ -419,8 +399,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Fondat în anul 1925", "Prima oțelărie integrată din Grecia", "Producția a fost redusă drastic din cauza crizelor economice", "Siluetă industrială distinctivă în Golful Elefsina"],
       en: ["Founded in 1925", "First integrated steel mill in Greece", "Production was sharply reduced due to economic crises", "Distinctive industrial silhouette in the Gulf of Elefsina"],
     },
-    imageHint: "Halivourgiki steel factory chimneys and industrial site",
-  },
+    imageHint: "Halivourgiki steel factory chimneys and industrial site", image: "/poi-images/greece-halivourgiki-steel-economic-v2.webp"},
   {
     id: "greece-hellenic-aerospace-industry-economic-v2",
     type: "factory",
@@ -439,8 +418,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Companie de stat, fondată în 1975", "Centru de întreținere pentru avioane F-16 și C-130", "Implicată în dezvoltarea proiectelor europene de drone", "Deține propriul aerodrom militar ca teren de testare"],
       en: ["State-owned company founded in 1975", "Maintenance center for F-16 and C-130 aircraft", "Involved in the development of European drone projects", "Has its own military airfield for testing purposes"],
     },
-    imageHint: "Hellenic Aerospace Industry hangar with aircraft",
-  },
+    imageHint: "Hellenic Aerospace Industry hangar with aircraft", image: "/poi-images/greece-hellenic-aerospace-industry-economic-v2.webp"},
   {
     id: "greece-aluminum-of-greece-economic-v2",
     type: "factory",
@@ -459,8 +437,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Subsidiară a grupului Mytilineos", "Deține propriul port pentru manipularea bauxitei", "Produce peste 180.000 de tone de aluminiu anual", "Una dintre cele mai intensive unități energetice din țară"],
       en: ["Subsidiary of the Mytilineos Group", "Owns its own port for bauxite handling", "Produces over 180,000 tons of aluminum annually", "One of the most energy-intensive plants in the country"],
     },
-    imageHint: "Aluminum of Greece massive factory site by the sea",
-  },
+    imageHint: "Aluminum of Greece massive factory site by the sea", image: "/poi-images/greece-aluminum-of-greece-economic-v2.webp"},
   {
     id: "greece-lavrion-industrial-park-economic-v2",
     type: "industry",
@@ -479,8 +456,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Fondat la inițiativa Universității Tehnice Naționale din Atena", "Găzduiește start-up-uri din domeniile energiei și mediului", "Situat în clădiri industriale restaurate din secolul al XIX-lea", "Centru pentru cercetarea noilor tehnologii miniere"],
       en: ["Founded on the initiative of the National Technical University of Athens", "Hosts startups in the energy and environment sectors", "Located in restored 19th-century industrial buildings", "Center for research into new mining technologies"],
     },
-    imageHint: "Restored industrial brick buildings in Lavrion park",
-  },
+    imageHint: "Restored industrial brick buildings in Lavrion park", image: "/poi-images/greece-lavrion-industrial-park-economic-v2.webp"},
   {
     id: "greece-neorion-shipyards-economic-v2",
     type: "factory",
@@ -499,8 +475,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Fondat în anul 1861", "Cel mai important angajator privat de pe insula Syros", "Restructurare de succes prin investitori americani (ONEX)", "Centru pentru construcții navale high-end în Marea Egee"],
       en: ["Founded in 1861", "Most important private employer on Syros island", "Successful turnaround by US investors (ONEX)", "Hub for high-end shipbuilding in the Aegean Sea"],
     },
-    imageHint: "Neorion shipyards in the port of Ermoupoli",
-  },
+    imageHint: "Neorion shipyards in the port of Ermoupoli", image: "/poi-images/greece-neorion-shipyards-economic-v2.webp"},
   {
     id: "greece-skaramagas-shipyards-economic-v2",
     type: "factory",
@@ -559,8 +534,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Putere nominală de 600 megawați", "Are una dintre cele mai înalte structuri de coș din regiune", "Factor important pentru economia locală din Florina", "Accent pe închidere și renaturarea zonelor miniere"],
       en: ["Nominal power output of 600 megawatts", "Features one of the region's tallest chimney structures", "Major factor for the local economy in Florina", "Focus on decommissioning and land reclamation of mining areas"],
     },
-    imageHint: "Amyntaio power plant with snowy mountains background",
-  },
+    imageHint: "Amyntaio power plant with snowy mountains background", image: "/poi-images/greece-amyntaio-power-station-economic-v2.webp"},
   {
     id: "greece-titan-cement-kamari-economic-v2",
     type: "factory",
@@ -579,8 +553,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Unul dintre cei mai importanți producători de ciment din lume", "Utilizează tehnologii inovatoare pentru reducerea CO2", "Deține propriul port de încărcare în Golful Elefsina", "Fondat în anul 1902 la Atena"],
       en: ["One of the world's leading cement manufacturers", "Uses innovative technologies for CO2 reduction", "Has its own loading port in the Gulf of Elefsina", "Founded in 1902 in Athens"],
     },
-    imageHint: "Titan cement factory silos and industrial conveyor belts",
-  },
+    imageHint: "Titan cement factory silos and industrial conveyor belts", image: "/poi-images/greece-titan-cement-kamari-economic-v2.webp"},
   {
     id: "greece-kavala-oil-terminal-economic-v2",
     type: "industry",
@@ -599,8 +572,7 @@ export const greeceEconomicV2: POI[] = [
       ro: ["Procesează petrol de la platformele offshore din nordul Egeei", "Include o unitate de recuperare a sulfului", "Nod energetic strategic important pentru nordul Greciei", "Explorat pentru stocarea gazelor naturale și a CO2"],
       en: ["Processes oil from offshore platforms in the North Aegean", "Includes a sulfur recovery plant", "Major strategic energy hub for Northern Greece", "Being explored for natural gas and CO2 storage"],
     },
-    imageHint: "Oil storage tanks and terminal facilities by Kavala",
-  },
+    imageHint: "Oil storage tanks and terminal facilities by Kavala", image: "/poi-images/greece-kavala-oil-terminal-economic-v2.webp"},
   {
     id: "greece-syros-cotton-industry-economic-v2",
     type: "industry",

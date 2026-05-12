@@ -19,8 +19,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Centru al industriei electrice", "Sediul central al companiei Gorenje", "Tradiție minieră din 1875", "Lacul Velenje creat prin minerit"],
       en: ["Center of electrical industry", "Headquarters of Gorenje company", "Mining tradition since 1875", "Velenje Lake formed by mining"],
     },
-    imageHint: "Velenje Castle and modern city skyline",
-  },
+    imageHint: "Velenje Castle and modern city skyline", image: "/poi-images/slovenia-velenje-cities-v2.webp"},
   {
     id: "slovenia-novo-mesto-cities-v2",
     type: "city",
@@ -39,8 +38,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1365", "Centru al industriei farmaceutice", "Cunoscut pentru vinul Cviček", "Situat în valea râului Krka"],
       en: ["Founded in the year 1365", "Center of pharmaceutical industry", "Known for Cviček wine", "Located in the Krka River valley"],
     },
-    imageHint: "Novo Mesto historic center on Krka river loop",
-  },
+    imageHint: "Novo Mesto historic center on Krka river loop", image: "/poi-images/slovenia-novo-mesto-cities-v2.webp"},
   {
     id: "slovenia-ptuj-cities-v2",
     type: "city",
@@ -59,8 +57,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Nume roman: Poetovio", "Cel mai vechi oraș din țară", "Gazda carnavalului Kurentovanje", "Deține un castel din secolul XII"],
       en: ["Known as Poetovio in Roman times", "Oldest city in the country", "Home of the Kurentovanje carnival", "Features a 12th-century castle"],
     },
-    imageHint: "Ptuj old town with castle and Drava river",
-  },
+    imageHint: "Ptuj old town with castle and Drava river", image: "/poi-images/slovenia-ptuj-cities-v2.webp"},
   {
     id: "slovenia-kamnik-cities-v2",
     type: "town",
@@ -79,8 +76,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Are două ruine de castele", "Fostă capitală a Crainei", "Poartă către Alpii Kamnik", "Strada medievală Sutna"],
       en: ["Features two castle ruins", "Former capital of Carniola", "Gateway to the Kamnik Alps", "Medieval Sutna street architecture"],
     },
-    imageHint: "Kamnik town center with Alps in background",
-  },
+    imageHint: "Kamnik town center with Alps in background", image: "/poi-images/slovenia-kamnik-cities-v2.webp"},
   {
     id: "slovenia-trbovlje-cities-v2",
     type: "city",
@@ -99,8 +95,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Cel mai înalt coș din Europa (360m)", "Fost centru al minelor de cărbune", "Locul de origine al trupei Laibach", "Situat în regiunea muntoasă Posavje"],
       en: ["Tallest chimney in Europe (360m)", "Former coal mining center", "Birthplace of the band Laibach", "Located in the Posavje Hills"],
     },
-    imageHint: "Trbovlje chimney tallest in Europe",
-  },
+    imageHint: "Trbovlje chimney tallest in Europe", image: "/poi-images/slovenia-trbovlje-cities-v2.webp"},
   {
     id: "slovenia-jesenice-cities-v2",
     type: "city",
@@ -119,8 +114,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Centru tradițional siderurgic", "Situat lângă granița cu Austria", "Faimos pentru clubul HK Jesenice", "Tunelul Karawanks începe aici"],
       en: ["Traditional ironworks center", "Located near the Austrian border", "Famous for HK Jesenice hockey club", "Karawanks Tunnel starts nearby"],
     },
-    imageHint: "Jesenice city view with steel works and mountains",
-  },
+    imageHint: "Jesenice city view with steel works and mountains", image: "/poi-images/slovenia-jesenice-cities-v2.webp"},
   {
     id: "slovenia-murska-sobota-cities-v2",
     type: "city",
@@ -139,8 +133,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Centrul regiunii Prekmurje", "Are un castel renascentist", "Aproape de granița cu Ungaria", "Bucătărie tradițională locală"],
       en: ["Center of the Prekmurje region", "Features a Renaissance castle", "Near the Hungarian border", "Known for Prekmurje cuisine"],
     },
-    imageHint: "Murska Sobota Castle in the city park",
-  },
+    imageHint: "Murska Sobota Castle in the city park", image: "/poi-images/slovenia-murska-sobota-cities-v2.webp"},
   {
     id: "slovenia-nova-gorica-cities-v2",
     type: "city",
@@ -159,8 +152,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1948", "Cunoscut pentru cazinouri", "Se învecinează direct cu Italia", "Climat mediteranean blând"],
       en: ["Founded in 1948", "Known for its casinos", "Directly borders Italy", "Mild Mediterranean climate"],
     },
-    imageHint: "Nova Gorica Transalpina Square at Italian border",
-  },
+    imageHint: "Nova Gorica Transalpina Square at Italian border", image: "/poi-images/slovenia-nova-gorica-cities-v2.webp"},
   {
     id: "slovenia-domzale-cities-v2",
     type: "town",
@@ -179,8 +171,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Centru al fabricării pălăriilor de paie", "Are un muzeu al pălăriilor de paie", "Centru sportiv important", "Aproape de capitala Ljubljana"],
       en: ["Center of straw hat manufacturing", "Features a straw hat museum", "Significant sports hub", "Near the capital Ljubljana"],
     },
-    imageHint: "Domzale town center and sports park",
-  },
+    imageHint: "Domzale town center and sports park", image: "/poi-images/slovenia-domzale-cities-v2.webp"},
   {
     id: "slovenia-izola-cities-v2",
     type: "town",
@@ -199,8 +190,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Numele înseamnă 'Insulă'", "A făcut parte din Veneția", "Deține un port de agrement mare", "Centru al procesării peștelui"],
       en: ["Name means 'Island'", "Once part of Venice", "Features a large marina", "Center of fish processing"],
     },
-    imageHint: "Izola coastal town view with marina",
-  },
+    imageHint: "Izola coastal town view with marina", image: "/poi-images/slovenia-izola-cities-v2.webp"},
   {
     id: "slovenia-kocevje-cities-v2",
     type: "town",
@@ -219,8 +209,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Centru al silviculturii", "Habitat pentru urșii bruni", "Are un lac artificial", "Sediul culturii Gottscheer"],
       en: ["Center of Slovenian forestry", "Habitat for brown bears", "Features an artificial lake", "Home to Gottschee German history"],
     },
-    imageHint: "Kocevje city and the nearby lake",
-  },
+    imageHint: "Kocevje city and the nearby lake", image: "/poi-images/slovenia-kocevje-cities-v2.webp"},
   {
     id: "slovenia-postojna-cities-v2",
     type: "town",
@@ -239,8 +228,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Faimos pentru peștera Postojna", "Are cea mai veche cale ferată în peșteră", "Aproape de castelul Predjama", "Centru al cercetării carstice"],
       en: ["Famous for the Postojna Cave", "Oldest cave railway in the world", "Near the Predjama Cave Castle", "Center of karst studies"],
     },
-    imageHint: "Postojna cave entrance and park",
-  },
+    imageHint: "Postojna cave entrance and park", image: "/poi-images/slovenia-postojna-cities-v2.webp"},
   {
     id: "slovenia-logatec-cities-v2",
     type: "town",
@@ -259,8 +247,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Nod de transport important", "Situat pe un platou carstic", "Cunoscut pentru industria lemnului", "Fostă stație romană istorică"],
       en: ["Important transportation hub", "Located on a karst plateau", "Known for its wood industry", "Site of an ancient Roman station"],
     },
-    imageHint: "Logatec town view and surrounding hills",
-  },
+    imageHint: "Logatec town view and surrounding hills", image: "/poi-images/slovenia-logatec-cities-v2.webp"},
   {
     id: "slovenia-slovenj-gradec-cities-v2",
     type: "city",
@@ -279,8 +266,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Oraș al păcii ONU din 1989", "Centrul regiunii Koroška", "Locul de naștere al lui Hugo Wolf", "Găzduiește o galerie de artă"],
       en: ["UN Peace Messenger City since 1989", "Center of the Koroška region", "Birthplace of composer Hugo Wolf", "Features a modern art gallery"],
     },
-    imageHint: "Slovenj Gradec historic center and main square",
-  },
+    imageHint: "Slovenj Gradec historic center and main square", image: "/poi-images/slovenia-slovenj-gradec-cities-v2.webp"},
   {
     id: "slovenia-vrhnika-cities-v2",
     type: "town",
@@ -299,8 +285,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Locul de naștere al lui Ivan Cankar", "Zona izvoarelor râului Ljubljanica", "Așezarea romană antică Nauportus", "Situat la marginea mlaștinii"],
       en: ["Birthplace of writer Ivan Cankar", "Source area of the Ljubljanica River", "Site of Roman Nauportus", "Located by the Ljubljana Marshes"],
     },
-    imageHint: "Vrhnika town center and Cankar memorial house",
-  },
+    imageHint: "Vrhnika town center and Cankar memorial house", image: "/poi-images/slovenia-vrhnika-cities-v2.webp"},
   {
     id: "slovenia-krsko-cities-v2",
     type: "city",
@@ -319,8 +304,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Găzduiește singura centrală nucleară", "Centru important al industriei hârtiei", "Situat pe cursul inferior al râului Sava", "Deține un castel din secolul XII"],
       en: ["Site of the only nuclear power plant", "Major center of the paper industry", "Located on the lower Sava River", "Features a 12th-century castle"],
     },
-    imageHint: "Krško city view with Sava river and power plant",
-  },
+    imageHint: "Krško city view with Sava river and power plant", image: "/poi-images/slovenia-krsko-cities-v2.webp"},
   {
     id: "slovenia-brezice-cities-v2",
     type: "town",
@@ -339,8 +323,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Deține un castel renascentist superb", "Simbol: turnul de apă din 1914", "Lângă stațiunea termală Čatež", "La confluența râurilor Sava și Krka"],
       en: ["Home to a grand Renaissance castle", "Iconic water tower built in 1914", "Near the Čatež thermal spa", "At the confluence of Sava and Krka"],
     },
-    imageHint: "Brezice Castle and historic town center",
-  },
+    imageHint: "Brezice Castle and historic town center", image: "/poi-images/slovenia-brezice-cities-v2.webp"},
   {
     id: "slovenia-skofja-loka-cities-v2",
     type: "town",
@@ -359,8 +342,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Cea mai veche așezare din Gorenjska", "Faimos pentru piesa pasiunii", "Deține podul Capucinilor", "Castelul Loka găzduiește un muzeu"],
       en: ["Oldest settlement in Gorenjska region", "Famous for the Škofja Loka Passion Play", "Features the stone Capuchin Bridge", "Loka Castle houses a local museum"],
     },
-    imageHint: "Skofja Loka old town and Loka castle",
-  },
+    imageHint: "Skofja Loka old town and Loka castle", image: "/poi-images/slovenia-skofja-loka-cities-v2.webp"},
   {
     id: "slovenia-ajdovscina-cities-v2",
     type: "town",
@@ -379,8 +361,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Fost castru roman numit Castra", "Cunoscut pentru vântul Burja", "Centru viticol în valea Vipava", "Are ziduri de apărare bine păstrate"],
       en: ["Site of the Roman fort Castra", "Known for the strong Burja wind", "Center of winemaking in Vipava Valley", "Features well-preserved Roman walls"],
     },
-    imageHint: "Ajdovscina Roman walls and city center",
-  },
+    imageHint: "Ajdovscina Roman walls and city center", image: "/poi-images/slovenia-ajdovscina-cities-v2.webp"},
   {
     id: "slovenia-sezana-cities-v2",
     type: "town",
@@ -399,8 +380,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Cel mai important oraș din Carst", "Aproape de herghelia Lipica", "Are o grădină botanică frumoasă", "Punct de trecere important spre Italia"],
       en: ["Main town of the Slovenian Karst", "Near the Lipica Stud Farm", "Features a botanical garden", "Major transport link to Italy"],
     },
-    imageHint: "Sezana town center and surrounding karst landscape",
-  },
+    imageHint: "Sezana town center and surrounding karst landscape", image: "/poi-images/slovenia-sezana-cities-v2.webp"},
   {
     id: "slovenia-radovljica-cities-v2",
     type: "town",
@@ -419,8 +399,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Centru al apiculturii slovene", "Are un muzeu al apiculturii", "Faimos pentru turtă dulce (Lectar)", "Centru vechi cu șanț medieval"],
       en: ["Center of Slovenian beekeeping", "Houses a beekeeping museum", "Famous for gingerbread (Lectar)", "Old town with a medieval moat"],
     },
-    imageHint: "Radovljica medieval square with frescoes",
-  },
+    imageHint: "Radovljica medieval square with frescoes", image: "/poi-images/slovenia-radovljica-cities-v2.webp"},
   {
     id: "slovenia-idrija-cities-v2",
     type: "town",
@@ -439,8 +418,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Mină de mercur în patrimoniul UNESCO", "Faimos pentru dantela de Idrija", "Specialitate culinară: žlikrofi", "Prima școală reală din Slovenia"],
       en: ["UNESCO-listed mercury mine site", "Famous for Idrija bobbin lace", "Local dish: Idrijski žlikrofi dumplings", "Oldest technical school in the country"],
     },
-    imageHint: "Idrija town and Gewerkenegg Castle",
-  },
+    imageHint: "Idrija town and Gewerkenegg Castle", image: "/poi-images/slovenia-idrija-cities-v2.webp"},
   {
     id: "slovenia-crnomelj-cities-v2",
     type: "town",
@@ -459,8 +437,7 @@ export const sloveniaCitiesV2: POI[] = [
       ro: ["Centrul regiunii Bela Krajina", "Situat între două râuri", "Localitate viticolă importantă", "Aproape de parcul regional Lahinja"],
       en: ["Center of the Bela Krajina region", "Located on a river peninsula", "Important wine-growing town", "Gateway to the Kolpa River area"],
     },
-    imageHint: "Crnomelj town center at river confluence",
-  },
+    imageHint: "Crnomelj town center at river confluence", image: "/poi-images/slovenia-crnomelj-cities-v2.webp"},
   {
     id: "slovenia-ravne-na-koroskem-cities-v2",
     type: "city",

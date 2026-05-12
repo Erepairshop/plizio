@@ -39,8 +39,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Construită între 1927 și 1932", "Capacitate instalată de 1569 MW", "Barajul are o lungime de 800 de metri", "Distrusă în Al Doilea Război Mondial și reconstruită"],
       en: ["Built between 1927 and 1932", "Installed capacity of 1,569 MW", "Dam length is 800 meters", "Destroyed during WWII and later rebuilt"],
     },
-    imageHint: "Dnieper Hydroelectric Station dam in Zaporizhzhia",
-  },
+    imageHint: "Dnieper Hydroelectric Station dam in Zaporizhzhia", image: "/poi-images/ukraine-dnieper-hydroelectric-economic-v2.webp"},
   {
     id: "ukraine-arcelormittal-kryvyi-rih-economic-v2",
     type: "factory",
@@ -79,8 +78,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Fondat în anul 1794", "Dispune de 54 de dane", "Cel mai important port pentru exportul de cereale", "Capacitate de manipulare de peste 40 de milioane de tone"],
       en: ["Founded in 1794", "Has 54 berths", "Most important port for grain exports", "Handling capacity of over 40 million tons"],
     },
-    imageHint: "Cranes and container ships at the Port of Odesa",
-  },
+    imageHint: "Cranes and container ships at the Port of Odesa", image: "/poi-images/ukraine-port-odesa-economic-v2.webp"},
   {
     id: "ukraine-kremenchuk-refinery-economic-v2",
     type: "factory",
@@ -99,8 +97,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["În funcțiune din 1966", "Proprietatea Ukrtatnafta", "Capacitate de procesare de 18 milioane tone/an", "Situată pe malul stâng al Niprului"],
       en: ["Operating since 1966", "Owned by Ukrtatnafta", "Processing capacity of 18 million tons per year", "Located on the left bank of the Dnieper"],
     },
-    imageHint: "Industrial columns of the Kremenchuk oil refinery",
-  },
+    imageHint: "Industrial columns of the Kremenchuk oil refinery", image: "/poi-images/ukraine-kremenchuk-refinery-economic-v2.webp"},
   {
     id: "ukraine-zaporizhzhia-npp-economic-v2",
     type: "industry",
@@ -119,8 +116,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Dispune de 6 unități de reactoare", "Putere totală de 6000 MW", "Primul reactor a intrat în funcțiune în 1984", "Cea mai mare centrală electrică din Ucraina"],
       en: ["Has 6 reactor units", "Total capacity of 6,000 MW", "First reactor went online in 1984", "Largest power plant in Ukraine"],
     },
-    imageHint: "Six reactor domes of the Zaporizhzhia NPP",
-  },
+    imageHint: "Six reactor domes of the Zaporizhzhia NPP", image: "/poi-images/ukraine-zaporizhzhia-npp-economic-v2.webp"},
   {
     id: "ukraine-motor-sich-zaporizhzhia-economic-v2",
     type: "factory",
@@ -159,8 +155,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Fondată în anul 1944", "A produs rachetele purtătoare Zenit", "Fabrică și tractoare și troleibuze", "Oficial: Uzina de Mașini din Sud"],
       en: ["Founded in 1944", "Produced the Zenit carrier rockets", "Also manufactures tractors and trolleybuses", "Officially: Southern Machine-Building Plant"],
     },
-    imageHint: "Large rocket components inside Yuzhmash factory",
-  },
+    imageHint: "Large rocket components inside Yuzhmash factory", image: "/poi-images/ukraine-yuzhmash-dnipro-economic-v2.webp"},
   {
     id: "ukraine-port-pivdennyi-economic-v2",
     type: "port",
@@ -179,8 +174,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Fondat în anul 1978", "Adâncime maximă de 18-20 de metri", "Nume anterior: Portul Iujne", "Conectat direct cu Uzina Portuară Odesa"],
       en: ["Founded in 1978", "Maximum depth of 18-20 meters", "Former name: Port Yuzhny", "Connected directly to the Odesa Portside Plant"],
     },
-    imageHint: "Deep-water port terminal at Pivdennyi",
-  },
+    imageHint: "Deep-water port terminal at Pivdennyi", image: "/poi-images/ukraine-port-pivdennyi-economic-v2.webp"},
   {
     id: "ukraine-roshen-vinnytsia-economic-v2",
     type: "factory",
@@ -219,8 +213,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["În funcțiune din 1966", "Cel mai mare producător de silicomangan", "Exportă în peste 50 de țări", "Folosește minereuri din regiunea Nikopol"],
       en: ["Operating since 1966", "Largest producer of silicomanganese", "Exports to over 50 countries", "Uses ores from the Nikopol region"],
     },
-    imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant",
-  },
+    imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant", image: "/poi-images/ukraine-nikopol-ferroalloy-economic-v2.webp"},
   {
     id: "ukraine-burshtyn-tpp-economic-v2",
     type: "industry",
@@ -239,8 +232,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Capacitate instalată de 2334 MW", "Dispune de 12 unități energetice", "Pusă în funcțiune în 1969", "Situată pe lacul de acumulare Burștîn"],
       en: ["Installed capacity of 2,334 MW", "Features 12 power units", "Commissioned in 1969", "Located by the Burshtyn Reservoir"],
     },
-    imageHint: "Chimneys and cooling towers of Burshtyn TPP",
-  },
+    imageHint: "Chimneys and cooling towers of Burshtyn TPP", image: "/poi-images/ukraine-burshtyn-tpp-economic-v2.webp"},
   {
     id: "ukraine-port-izmail-economic-v2",
     type: "port",
@@ -259,8 +251,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Fondat în anul 1813", "Specializat în minereu de fier și cărbune", "Port liber de gheață tot anul", "Conectează Ucraina cu Europa Centrală"],
       en: ["Founded in 1813", "Specializes in iron ore and coal", "Ice-free port all year round", "Connects Ukraine with Central Europe"],
     },
-    imageHint: "Barges and cranes on the Danube river in Izmail",
-  },
+    imageHint: "Barges and cranes on the Danube river in Izmail", image: "/poi-images/ukraine-port-izmail-economic-v2.webp"},
   {
     id: "ukraine-khmelnytskyi-npp-economic-v2",
     type: "industry",
@@ -279,8 +270,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Putere totală de 2000 MW", "Punerea în funcțiune a unității 1 în 1987", "Alimentează vestul Ucrainei cu energie", "Locația planificată a reactoarelor 3 și 4"],
       en: ["Total capacity of 2,000 MW", "Unit 1 commissioned in 1987", "Supplies western Ukraine with power", "Site of planned units 3 and 4"],
     },
-    imageHint: "Reactor buildings and cooling pond of Khmelnytskyi NPP",
-  },
+    imageHint: "Reactor buildings and cooling pond of Khmelnytskyi NPP", image: "/poi-images/ukraine-khmelnytskyi-npp-economic-v2.webp"},
   {
     id: "ukraine-rivne-npp-economic-v2",
     type: "industry",
@@ -299,8 +289,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Dispune de 4 unități de reactoare", "Putere totală de 2835 MW", "Construcția a început în 1973", "Respectă standardele internaționale moderne de siguranță"],
       en: ["Has 4 reactor units", "Total capacity of 2,835 MW", "Construction started in 1973", "Meets modern international safety standards"],
     },
-    imageHint: "View of the Rivne nuclear power plant in Varash",
-  },
+    imageHint: "View of the Rivne nuclear power plant in Varash", image: "/poi-images/ukraine-rivne-npp-economic-v2.webp"},
   {
     id: "ukraine-pavlohrad-coal-economic-v2",
     type: "mine",
@@ -319,8 +308,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Parte a grupului DTEK", "Principala zonă de extracție pentru cărbune gazos", "Are mii de mineri angajați", "Asigură producția de energie termoelectrică"],
       en: ["Part of the DTEK corporation", "Main extraction area for gas coal", "Employs thousands of miners", "Secures thermal power generation"],
     },
-    imageHint: "Mining tower and coal processing facility in Pavlohrad",
-  },
+    imageHint: "Mining tower and coal processing facility in Pavlohrad", image: "/poi-images/ukraine-pavlohrad-coal-economic-v2.webp"},
   {
     id: "ukraine-vilnohirsk-titanium-economic-v2",
     type: "mine",
@@ -339,8 +327,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Extrage minereuri de ilmenit și rutil", "Produce materii prime pentru aviație", "Proprietatea United Mining and Chemical Company", "Important furnizor global de materii prime"],
       en: ["Extracts ilmenite and rutile ores", "Produces raw materials for aviation", "Owned by United Mining and Chemical Company", "Major global supplier of raw materials"],
     },
-    imageHint: "Open-pit titanium mine in Vilnohirsk",
-  },
+    imageHint: "Open-pit titanium mine in Vilnohirsk", image: "/poi-images/ukraine-vilnohirsk-titanium-economic-v2.webp"},
   {
     id: "ukraine-turboatom-kharkiv-economic-v2",
     type: "factory",
@@ -359,8 +346,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Fondată în anul 1934", "Exportă în peste 45 de țări", "Produce turbine de până la 1100 MW", "Are ingineri înalt calificați"],
       en: ["Founded in 1934", "Exports to over 45 countries", "Produces turbines up to 1,100 MW", "Employs highly skilled engineers"],
     },
-    imageHint: "Large steam turbine rotors in Kharkiv factory",
-  },
+    imageHint: "Large steam turbine rotors in Kharkiv factory", image: "/poi-images/ukraine-turboatom-kharkiv-economic-v2.webp"},
   {
     id: "ukraine-poltava-mining-economic-v2",
     type: "mine",
@@ -379,8 +365,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Parte a grupului Ferrexpo", "Principala zonă de extracție: Horișnie-Plavnînîske", "Grad ridicat de automatizare", "Sursă importantă de valută pentru Ucraina"],
       en: ["Part of the Ferrexpo group", "Main extraction site: Horishnje-Plavnynske", "High degree of automation", "Major foreign exchange earner for Ukraine"],
     },
-    imageHint: "Iron ore pelletizing plant at Poltava Mining",
-  },
+    imageHint: "Iron ore pelletizing plant at Poltava Mining", image: "/poi-images/ukraine-poltava-mining-economic-v2.webp"},
   {
     id: "ukraine-antonov-kyiv-economic-v2",
     type: "factory",
@@ -419,8 +404,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Deschisă în anul 2018", "Situată lângă centrala nucleară", "Putere de aproximativ 1 MW (prima fază)", "Simbol al energiei verzi în Ucraina"],
       en: ["Opened in 2018", "Located near the nuclear power plant", "Capacity of about 1 MW (first phase)", "Symbol of green energy in Ukraine"],
     },
-    imageHint: "Solar panels with Chornobyl NPP in the background",
-  },
+    imageHint: "Solar panels with Chornobyl NPP in the background", image: "/poi-images/ukraine-chornobyl-solar-economic-v2.webp"},
   {
     id: "ukraine-port-reni-economic-v2",
     type: "port",
@@ -439,8 +423,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Dispune de 30 de dane", "Zonă economică specială „Reni”", "Manipularea produselor petroliere și cerealelor", "Legătură feroviară directă cu Moldova"],
       en: ["Has 30 berths", "Special Economic Zone 'Reni'", "Handles oil products and grain", "Direct rail link to Moldova"],
     },
-    imageHint: "River port facilities on the Danube in Reni",
-  },
+    imageHint: "River port facilities on the Danube in Reni", image: "/poi-images/ukraine-port-reni-economic-v2.webp"},
   {
     id: "ukraine-rosava-bila-tserkva-economic-v2",
     type: "factory",
@@ -459,8 +442,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Fondat în anul 1972", "Produce anual peste 6 milioane de anvelope", "Exportă în mai mult de 60 de țări", "Cea mai importantă companie industrială din Bila Țerkva"],
       en: ["Founded in 1972", "Produces over 6 million tires annually", "Exports to more than 60 countries", "Key industrial enterprise in Bila Tserkva"],
     },
-    imageHint: "Stacks of new tires at the Rosava factory",
-  },
+    imageHint: "Stacks of new tires at the Rosava factory", image: "/poi-images/ukraine-rosava-bila-tserkva-economic-v2.webp"},
   {
     id: "ukraine-skf-ukraine-lutsk-economic-v2",
     type: "factory",
@@ -479,8 +461,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Una dintre cele mai de succes investiții străine", "Exportă aproape 100% din producție", "Furnizor pentru mărci auto globale", "Standarde înalte de calitate conform ISO"],
       en: ["One of the most successful foreign investments", "Exports nearly 100% of its production", "Supplier for global automotive brands", "High quality standards according to ISO"],
     },
-    imageHint: "Automated production line for bearings at SKF Lutsk",
-  },
+    imageHint: "Automated production line for bearings at SKF Lutsk", image: "/poi-images/ukraine-skf-ukraine-lutsk-economic-v2.webp"},
   {
     id: "ukraine-leoni-stryi-economic-v2",
     type: "factory",
@@ -499,8 +480,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Deschisă în anul 2003", "Are peste 6000 de angajați", "Furnizează pentru BMW, VW și Audi", "Cel mai important investitor din regiunea Strîi"],
       en: ["Opened in 2003", "Employs over 6,000 workers", "Supplies BMW, VW, and Audi", "Most significant investor in the Stryi region"],
     },
-    imageHint: "Workers assembling automotive wire harnesses at Leoni",
-  },
+    imageHint: "Workers assembling automotive wire harnesses at Leoni", image: "/poi-images/ukraine-leoni-stryi-economic-v2.webp"},
   {
     id: "ukraine-vostgok-zhovti-vody-economic-v2",
     type: "mine",
@@ -519,8 +499,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Sediul în Jovti Vodî", "Acoperă o parte din necesarul intern", "Fondat în anul 1951", "Companie de stat strategică"],
       en: ["Based in Zhovti Vody", "Covers part of the domestic need", "Founded in 1951", "Strategic state-owned enterprise"],
     },
-    imageHint: "Mining equipment at a uranium extraction site",
-  },
+    imageHint: "Mining equipment at a uranium extraction site", image: "/poi-images/ukraine-vostgok-zhovti-vody-economic-v2.webp"},
   {
     id: "ukraine-south-ukraine-npp-economic-v2",
     type: "industry",
@@ -539,8 +518,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Dispune de 3 unități de reactoare", "Capacitate instalată de 3000 MW", "Primul reactor a intrat în funcțiune în 1982", "Furnizor important de electricitate pentru sudul Ucrainei"],
       en: ["Has 3 reactor units", "Installed capacity of 3,000 MW", "First reactor went online in 1982", "Key power supplier for southern Ukraine"],
     },
-    imageHint: "Power plant reactors near the Southern Bug river",
-  },
+    imageHint: "Power plant reactors near the Southern Bug river", image: "/poi-images/ukraine-south-ukraine-npp-economic-v2.webp"},
   {
     id: "ukraine-karpatnaftokhim-economic-v2",
     type: "factory",
@@ -559,8 +537,7 @@ export const ukraineEconomicV2: POI[] = [
       ro: ["Singurul producător de polietilenă din Ucraina", "Exportator important către UE", "Centru de producție modernizat", "Cel mai important angajator din Kaluș"],
       en: ["Only manufacturer of polyethylene in Ukraine", "Significant exporter to the EU", "Modernized production center", "Key employer in Kalush"],
     },
-    imageHint: "Industrial petrochemical complex in Kalush",
-  },
+    imageHint: "Industrial petrochemical complex in Kalush", image: "/poi-images/ukraine-karpatnaftokhim-economic-v2.webp"},
   {
     id: "ukraine-mykolaiv-shipyard-economic-v2",
     type: "port",

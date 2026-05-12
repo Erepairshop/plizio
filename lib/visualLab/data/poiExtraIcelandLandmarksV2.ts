@@ -19,8 +19,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Construcția a durat din 1945 până în 1986", "Numită după poetul Hallgrímur Pétursson", "Găzduiește o orgă cu 5275 de tuburi", "Platforma de observare oferă o vedere panoramică"],
       en: ["Construction lasted from 1945 to 1986", "Named after the poet Hallgrímur Pétursson", "Houses a large pipe organ with 5,275 pipes", "Observation deck offers panoramic city views"],
     },
-    imageHint: "Hallgrimskirkja church in Reykjavik",
-  },
+    imageHint: "Hallgrimskirkja church in Reykjavik", image: "/poi-images/iceland-hallgrimskirkja-landmarks-v2.webp"},
   {
     id: "iceland-harpa-concert-hall-landmarks-v2",
     type: "theater",
@@ -39,8 +38,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Deschis oficial în anul 2011", "Sediul Orchestrei Simfonice Islandeze", "A câștigat Premiul Mies van der Rohe în 2013", "Inspirat de peisajele geologice ale Islandei"],
       en: ["Opened to the public in 2011", "Home to the Iceland Symphony Orchestra", "Won the Mies van der Rohe Award in 2013", "Inspired by Icelandic basalt landscapes"],
     },
-    imageHint: "Harpa Concert Hall Reykjavik at night",
-  },
+    imageHint: "Harpa Concert Hall Reykjavik at night", image: "/poi-images/iceland-harpa-concert-hall-landmarks-v2.webp"},
   {
     id: "iceland-sun-voyager-landmarks-v2",
     type: "monument",
@@ -59,8 +57,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Dezvelită oficial în anul 1990", "Realizată din oțel inoxidabil lucios", "Situată pe faleza Sæbraut din Reykjavík", "Adesea confundată cu o navă vikingă"],
       en: ["Unveiled in 1990 on the city's 200th anniversary", "Made of polished stainless steel", "Located on the Sæbraut seaside promenade", "Often mistaken for a Viking ship"],
     },
-    imageHint: "Sun Voyager sculpture Reykjavik",
-  },
+    imageHint: "Sun Voyager sculpture Reykjavik", image: "/poi-images/iceland-sun-voyager-landmarks-v2.webp"},
   {
     id: "iceland-perlan-landmarks-v2",
     type: "museum",
@@ -79,8 +76,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Găzduiește o peșteră de gheață artificială", "Dispune de un restaurant rotativ", "Cupola de sticlă oferă o vedere de 360 de grade", "Include un planetariu modern"],
       en: ["Houses a man-made indoor ice cave", "Features a revolving restaurant at the top", "The glass dome offers a 360-degree view", "Includes a state-of-the-art planetarium"],
     },
-    imageHint: "Perlan building Reykjavik dome",
-  },
+    imageHint: "Perlan building Reykjavik dome", image: "/poi-images/iceland-perlan-landmarks-v2.webp"},
   {
     id: "iceland-national-museum-landmarks-v2",
     type: "museum",
@@ -99,8 +95,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Înființat în anul 1863", "Situat lângă Universitatea Islandei", "Piesa principală este ușa de la Valthjófsstadur", "Colecție vastă de artefacte vikinge"],
       en: ["Established in 1863", "Located near the University of Iceland", "The Valthjófsstadur door is a key exhibit", "Extensive collection of Viking Age artifacts"],
     },
-    imageHint: "National Museum of Iceland building",
-  },
+    imageHint: "National Museum of Iceland building", image: "/poi-images/iceland-national-museum-landmarks-v2.webp"},
   {
     id: "iceland-reykjavik-city-hall-landmarks-v2",
     type: "landmark",
@@ -119,8 +114,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Proiectată de Studio Granda", "Găzduiește o hartă 3D uriașă a Islandei", "Construită parțial direct în lacul Tjörnin", "Locație frecventă pentru expoziții culturale"],
       en: ["Designed by Studio Granda architects", "Houses a giant 3D relief map of Iceland", "Built partially inside Lake Tjörnin", "Popular venue for art exhibitions"],
     },
-    imageHint: "Reykjavik City Hall lake Tjornin",
-  },
+    imageHint: "Reykjavik City Hall lake Tjornin", image: "/poi-images/iceland-reykjavik-city-hall-landmarks-v2.webp"},
   {
     id: "iceland-hofdi-house-landmarks-v2",
     type: "landmark",
@@ -139,8 +133,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Inițial sediul consulului francez", "Considerată de unii a fi bântuită", "Importată ca o casă prefabricată din Norvegia", "Situată pe linia de coastă a orașului"],
       en: ["Originally the French consul's residence", "Reputed to be haunted according to local lore", "Imported as a prefabricated kit from Norway", "Located on the waterfront of Reykjavík"],
     },
-    imageHint: "Hofdi House Reykjavik summit",
-  },
+    imageHint: "Hofdi House Reykjavik summit", image: "/poi-images/iceland-hofdi-house-landmarks-v2.webp"},
   {
     id: "iceland-skalholt-cathedral-landmarks-v2",
     type: "cathedral",
@@ -159,8 +152,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Sediul primului episcop islandez din 1056", "Adăpostește vitralii moderne valoroase", "Sub biserică se află cripte vechi", "Centru istoric major al Reformei în Islanda"],
       en: ["Seat of the first bishop of Iceland in 1056", "Features valuable modern stained glass art", "Historical crypts are located beneath the church", "Major historical site of the Reformation"],
     },
-    imageHint: "Skalholt Cathedral Iceland",
-  },
+    imageHint: "Skalholt Cathedral Iceland", image: "/poi-images/iceland-skalholt-cathedral-landmarks-v2.webp"},
   {
     id: "iceland-akureyrarkirkja-landmarks-v2",
     type: "church",
@@ -179,8 +171,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Sfințită oficial în anul 1940", "Deține o orgă cu 3200 de tuburi", "Unele vitralii provin de la Catedrala Coventry", "Inspirată de formele naturale ale Islandei"],
       en: ["Consecrated in the year 1940", "Features a large organ with 3,200 pipes", "Stained glass pieces from Coventry Cathedral", "Design inspired by Icelandic geology"],
     },
-    imageHint: "Akureyrarkirkja church Akureyri",
-  },
+    imageHint: "Akureyrarkirkja church Akureyri", image: "/poi-images/iceland-akureyrarkirkja-landmarks-v2.webp"},
   {
     id: "iceland-husavikurkirkja-landmarks-v2",
     type: "church",
@@ -199,8 +190,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Construită în anul 1907", "Lemnul a fost importat din Norvegia", "Are un plan în formă de cruce", "Situată chiar lângă portul din Húsavík"],
       en: ["Built in the year 1907", "The timber was imported from Norway", "Constructed in a cross-shaped plan", "Located right by the harbor in Húsavík"],
     },
-    imageHint: "Husavikurkirkja wooden church Iceland",
-  },
+    imageHint: "Husavikurkirkja wooden church Iceland", image: "/poi-images/iceland-husavikurkirkja-landmarks-v2.webp"},
   {
     id: "iceland-seydisfjardarkirkja-landmarks-v2",
     type: "church",
@@ -219,8 +209,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Cunoscută pentru concertele de vară", "Construită inițial într-o altă locație", "Mutată pe locul actual în 1922", "Oferă o acustică excelentă"],
       en: ["Well known for its summer concert series", "Originally built at a different location", "Moved to its current site in 1922", "Renowned for its excellent acoustics"],
     },
-    imageHint: "Blue Church Seydisfjordur rainbow path",
-  },
+    imageHint: "Blue Church Seydisfjordur rainbow path", image: "/poi-images/iceland-seydisfjardarkirkja-landmarks-v2.webp"},
   {
     id: "iceland-budakirkja-landmarks-v2",
     type: "church",
@@ -239,8 +228,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Construită inițial în anul 1848", "Culoarea neagră provine de la smoală", "Reconstruită fidel în anul 1987", "Locație populară pentru nunți"],
       en: ["Original building dates to 1848", "Black color comes from pitch for protection", "Fully reconstructed in 1987", "A very popular location for weddings"],
     },
-    imageHint: "Budakirkja black church Iceland",
-  },
+    imageHint: "Budakirkja black church Iceland", image: "/poi-images/iceland-budakirkja-landmarks-v2.webp"},
   {
     id: "iceland-vikurkirkja-landmarks-v2",
     type: "church",
@@ -259,8 +247,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Construită în anul 1934", "Considerată cel mai sigur loc în caz de erupție", "Centru oficial de evacuare pentru sat", "Oferă vederi spre coasta de sud a Islandei"],
       en: ["Built in the year 1934", "Regarded as the safest spot during a Katla eruption", "Official evacuation center for the village", "Offers views of the South Coast stacks"],
     },
-    imageHint: "Vik church red roof Iceland",
-  },
+    imageHint: "Vik church red roof Iceland", image: "/poi-images/iceland-vikurkirkja-landmarks-v2.webp"},
   {
     id: "iceland-glaumbaer-farm-museum-landmarks-v2",
     type: "museum",
@@ -279,8 +266,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Locul este menționat în saga islandeze", "Clădirile actuale datează din 1750-1879", "Cuprinde un total de 13 clădiri", "Parte a rețelei Muzeului Național al Islandei"],
       en: ["The site is mentioned in Icelandic sagas", "Current buildings date from 1750 to 1879", "Consists of a total of 13 separate buildings", "Managed by the National Museum of Iceland"],
     },
-    imageHint: "Glaumbaer turf farm museum Iceland",
-  },
+    imageHint: "Glaumbaer turf farm museum Iceland", image: "/poi-images/iceland-glaumbaer-farm-museum-landmarks-v2.webp"},
   {
     id: "iceland-laufas-turf-house-landmarks-v2",
     type: "museum",
@@ -299,8 +285,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Locuit încă din perioada colonizării", "Putea găzdui până la 30 de persoane", "Biserica adiacentă a fost construită în 1865", "Situată pe malul fiordului Eyjafjörður"],
       en: ["Inhabited since the settlement of Iceland", "Could house up to 30 people at once", "The adjacent church dates to 1865", "Located on the banks of Eyjafjörður fjord"],
     },
-    imageHint: "Laufas turf house museum Iceland",
-  },
+    imageHint: "Laufas turf house museum Iceland", image: "/poi-images/iceland-laufas-turf-house-landmarks-v2.webp"},
   {
     id: "iceland-settlement-exhibition-landmarks-v2",
     type: "museum",
@@ -319,8 +304,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Ruinele au fost descoperite în 2001", "Datarea se bazează pe straturi de tephra", "Include stații multimedia interactive", "Situată în cea mai veche parte a orașului"],
       en: ["Ruins were discovered during construction in 2001", "Dating is based on volcanic tephra layers", "Features interactive multimedia technology", "Located in the oldest part of the city"],
     },
-    imageHint: "Settlement Exhibition Reykjavik Viking longhouse",
-  },
+    imageHint: "Settlement Exhibition Reykjavik Viking longhouse", image: "/poi-images/iceland-settlement-exhibition-landmarks-v2.webp"},
   {
     id: "iceland-maritime-museum-landmarks-v2",
     type: "museum",
@@ -339,8 +323,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Fondat în anul 2005", "Nava-muzeu Óðinn este ancorată în față", "Prezintă istoria Războaielor Codului", "Situat în cartierul creativ Grandi"],
       en: ["Founded in the year 2005", "The museum ship Óðinn is moored outside", "Exhibits detail the 'Cod Wars' history", "Located in the trendy Grandi area"],
     },
-    imageHint: "Reykjavik Maritime Museum building and ship",
-  },
+    imageHint: "Reykjavik Maritime Museum building and ship", image: "/poi-images/iceland-maritime-museum-landmarks-v2.webp"},
   {
     id: "iceland-arbaer-open-air-museum-landmarks-v2",
     type: "museum",
@@ -359,8 +342,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Deschis în anul 1957", "Include o biserică din turbă", "Multe clădiri au fost relocate aici", "Personalul poartă costume tradiționale"],
       en: ["Opened to the public in 1957", "Includes a traditional turf church", "Many buildings were moved from central Reykjavík", "Staff in period costumes show old crafts"],
     },
-    imageHint: "Arbaer Open Air Museum Reykjavik houses",
-  },
+    imageHint: "Arbaer Open Air Museum Reykjavik houses", image: "/poi-images/iceland-arbaer-open-air-museum-landmarks-v2.webp"},
   {
     id: "iceland-imagine-peace-tower-landmarks-v2",
     type: "monument",
@@ -379,8 +361,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Inaugurat în anul 2007", "Inscripția 'Imagine Peace' în 24 de limbi", "Aprins anual de ziua lui John Lennon", "Alimentat cu energie geotermală curată"],
       en: ["Dedicated in the year 2007", "Features 'Imagine Peace' in 24 languages", "Lit annually between Lennon's birth and death dates", "Powered entirely by geothermal energy"],
     },
-    imageHint: "Imagine Peace Tower Videy Island light",
-  },
+    imageHint: "Imagine Peace Tower Videy Island light", image: "/poi-images/iceland-imagine-peace-tower-landmarks-v2.webp"},
   {
     id: "iceland-borgarvirki-landmarks-v2",
     type: "ruins",
@@ -399,8 +380,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Menționat în saga islandeze", "Pereții de stâncă au 10-15 metri înălțime", "Resturi de ziduri artificiale sunt încă vizibile", "Situat la o altitudine de 177 de metri"],
       en: ["Mentioned in the Icelandic sagas", "Rock walls are 10 to 15 meters high", "Remnants of man-made walls are still visible", "Located at an altitude of 177 meters"],
     },
-    imageHint: "Borgarvirki natural fortress Iceland",
-  },
+    imageHint: "Borgarvirki natural fortress Iceland", image: "/poi-images/iceland-borgarvirki-landmarks-v2.webp"},
   {
     id: "iceland-videyjarkirkja-landmarks-v2",
     type: "church",
@@ -419,8 +399,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Construită între 1762 și 1774", "A doua cea mai veche biserică de piatră din țară", "Interiorul este în mare parte original", "Situată lângă istorica Viðeyjarstofa"],
       en: ["Built between 1762 and 1774", "Second oldest stone church in Iceland", "The interior remains largely original", "Located near the historic Viðeyjarstofa"],
     },
-    imageHint: "Videyjarkirkja stone church Iceland",
-  },
+    imageHint: "Videyjarkirkja stone church Iceland", image: "/poi-images/iceland-videyjarkirkja-landmarks-v2.webp"},
   {
     id: "iceland-holar-cathedral-landmarks-v2",
     type: "cathedral",
@@ -439,8 +418,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Sediul episcopului din anul 1106", "Cea mai veche biserică de piatră din Islanda", "Faimoasă pentru altarul său flamand", "Astăzi găzduiește o universitate agricolă"],
       en: ["Established as a bishop's seat in 1106", "The oldest stone church in Iceland", "Famous for its Flemish altarpiece", "Now the site of an agricultural university"],
     },
-    imageHint: "Holar Cathedral sandstone Iceland",
-  },
+    imageHint: "Holar Cathedral sandstone Iceland", image: "/poi-images/iceland-holar-cathedral-landmarks-v2.webp"},
   {
     id: "iceland-knarrarosviti-lighthouse-landmarks-v2",
     type: "tower",
@@ -459,8 +437,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Construit în anul 1938", "Primul far din beton armat din Islanda", "Turnul are o înălțime de 26 de metri", "Proiectat de Axel Sveinsson"],
       en: ["Built in the year 1938", "First reinforced concrete lighthouse in Iceland", "The tower stands 26 meters tall", "Designed by architect Axel Sveinsson"],
     },
-    imageHint: "Knarrarosviti lighthouse white tower",
-  },
+    imageHint: "Knarrarosviti lighthouse white tower", image: "/poi-images/iceland-knarrarosviti-lighthouse-landmarks-v2.webp"},
   {
     id: "iceland-grotta-lighthouse-landmarks-v2",
     type: "tower",
@@ -479,8 +456,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Primul far a fost ridicat în 1897", "Turnul actual datează din 1947", "Zonă importantă de cuibărit pentru păsări", "Insula este închisă în timpul sezonului de cuibărit"],
       en: ["First lighthouse built here in 1897", "Current tower was built in 1947", "Important bird nesting area", "The island is closed during nesting season"],
     },
-    imageHint: "Grotta Lighthouse Reykjavik sunset",
-  },
+    imageHint: "Grotta Lighthouse Reykjavik sunset", image: "/poi-images/iceland-grotta-lighthouse-landmarks-v2.webp"},
   {
     id: "iceland-gardskagaviti-lighthouse-landmarks-v2",
     type: "tower",
@@ -499,8 +475,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Farul vechi datează din 1897", "Farul nou a fost construit în 1944", "Unul dintre cele mai înalte faruri din Islanda", "Locație populară pentru observarea păsărilor"],
       en: ["Older tower dates to 1897", "Newer tower was built in 1944", "One of the tallest lighthouses in Iceland", "Popular destination for birdwatching"],
     },
-    imageHint: "Gardskagaviti lighthouses Reykjanes",
-  },
+    imageHint: "Gardskagaviti lighthouses Reykjanes", image: "/poi-images/iceland-gardskagaviti-lighthouse-landmarks-v2.webp"},
   {
     id: "iceland-borgarnes-settlement-center-landmarks-v2",
     type: "museum",
@@ -519,8 +494,7 @@ export const icelandLandmarksV2: POI[] = [
       ro: ["Dispune de două expoziții separate", "Utilizează ghiduri audio moderne", "Prezintă viața lui Egill Skallagrímsson", "O oprire populară în drumul spre nord"],
       en: ["Features two separate exhibitions", "Uses advanced audio guide technology", "Focuses on the life of Egill Skallagrímsson", "A popular stop for travelers heading north"],
     },
-    imageHint: "Settlement Center Borgarnes building",
-  },
+    imageHint: "Settlement Center Borgarnes building", image: "/poi-images/iceland-borgarnes-settlement-center-landmarks-v2.webp"},
   {
     id: "iceland-skogar-museum-landmarks-v2",
     type: "museum",

@@ -19,8 +19,7 @@ export const ukEconomicV2: POI[] = [
       ro: ["Cel mai mare port de containere din Marea Britanie", "Manipulează peste 4 milioane de unități TEU anual", "Dispune de 9 dane pentru nave de containere", "Angajează aproximativ 2.500 de persoane direct"],
       en: ["Largest container port in Great Britain", "Handles over 4 million TEUs annually", "Features 9 berths for container vessels", "Employs approximately 2,500 people directly"],
     },
-    imageHint: "Aerial view of Felixstowe container port terminal",
-  },
+    imageHint: "Aerial view of Felixstowe container port terminal", image: "/poi-images/uk-port-of-felixstowe-economic-v2.webp"},
   {
     id: "uk-canary-wharf-economic-v2",
     type: "landmark",
@@ -39,8 +38,7 @@ export const ukEconomicV2: POI[] = [
       ro: ["Peste 100.000 de oameni lucrează aici", "Sediul zgârie-norului One Canada Square", "Fostă zonă portuară a Docklands", "Centru pentru servicii financiare globale"],
       en: ["Over 100,000 people work in the district", "Home to the One Canada Square skyscraper", "Formerly the heart of the London Docklands", "Hub for global financial services"],
     },
-    imageHint: "Canary Wharf skyline with skyscrapers at twilight",
-  },
+    imageHint: "Canary Wharf skyline with skyscrapers at twilight", image: "/poi-images/uk-canary-wharf-economic-v2.webp"},
   {
     id: "uk-mediacityuk-economic-v2",
     type: "industry",
@@ -59,8 +57,7 @@ export const ukEconomicV2: POI[] = [
       ro: ["Sediul central al BBC North", "Inaugurat oficial în anul 2011", "Dispune de 13 studiouri TV de înaltă definiție", "Campus dedicat al Universității din Salford"],
       en: ["Main headquarters of BBC North", "Officially opened in 2011", "Features 13 high-definition TV studios", "Hosts a dedicated University of Salford campus"],
     },
-    imageHint: "Modern architecture of MediaCityUK buildings in Salford Quays",
-  },
+    imageHint: "Modern architecture of MediaCityUK buildings in Salford Quays", image: "/poi-images/uk-mediacityuk-economic-v2.webp"},
   {
     id: "uk-drax-power-station-economic-v2",
     type: "industry",
@@ -79,8 +76,7 @@ export const ukEconomicV2: POI[] = [
       ro: ["Furnizează aproximativ 6% din electricitatea britanică", "Cea mai mare centrală electrică din Regatul Unit", "Dispune de 12 turnuri de răcire gigantice", "Emisii reduse prin conversia la biomasă"],
       en: ["Supplies about 6% of UK's electricity", "Largest power station in the United Kingdom", "Features 12 massive cooling towers", "Reduced carbon emissions through biomass conversion"],
     },
-    imageHint: "Drax Power Station with cooling towers and chimneys",
-  },
+    imageHint: "Drax Power Station with cooling towers and chimneys", image: "/poi-images/uk-drax-power-station-economic-v2.webp"},
   {
     id: "uk-aberdeen-energy-hub-economic-v2",
     type: "port",
@@ -99,8 +95,7 @@ export const ukEconomicV2: POI[] = [
       ro: ["Peste 900 de companii energetice au sediul aici", "Portul a fost fondat în anul 1136", "Cel mai aglomerat heliport din lume", "Centru important pentru energia eoliană offshore"],
       en: ["Over 900 energy companies are based here", "The port was established as early as 1136", "Home to the world's busiest commercial heliport", "Major hub for offshore wind energy development"],
     },
-    imageHint: "Industrial supply vessels in Aberdeen Harbour",
-  },
+    imageHint: "Industrial supply vessels in Aberdeen Harbour", image: "/poi-images/uk-aberdeen-energy-hub-economic-v2.webp"},
   {
     id: "uk-scunthorpe-steelworks-economic-v2",
     type: "factory",
@@ -119,8 +114,7 @@ export const ukEconomicV2: POI[] = [
       ro: ["Produce șine pentru întreaga rețea britanică", "Situl se întinde pe aproximativ 2.000 de acri", "Dispune de furnale proprii și laminoare", "Fondat în anii 1860"],
       en: ["Produces rails for the entire UK rail network", "The site spans approximately 2,000 acres", "Features integrated blast furnaces and rolling mills", "Established in the 1860s"],
     },
-    imageHint: "Blast furnaces and industrial structures of Scunthorpe Steelworks",
-  },
+    imageHint: "Blast furnaces and industrial structures of Scunthorpe Steelworks", image: "/poi-images/uk-scunthorpe-steelworks-economic-v2.webp"},
   {
     id: "uk-port-of-immingham-economic-v2",
     type: "port",
@@ -139,8 +133,7 @@ export const ukEconomicV2: POI[] = [
       ro: ["Manipulează 46 de milioane de tone anual", "Cel mai important port pentru cărbune și biomasă", "Dispune de terminale auto extinse", "Parte a complexului portuar Humber"],
       en: ["Handles 46 million tonnes of cargo annually", "UK's busiest port for coal and biomass imports", "Features extensive automotive terminals", "Part of the larger Humber Ports complex"],
     },
-    imageHint: "Cargo ships and docks at the Port of Immingham",
-  },
+    imageHint: "Cargo ships and docks at the Port of Immingham", image: "/poi-images/uk-port-of-immingham-economic-v2.webp"},
   {
     id: "uk-milton-keynes-economic-v2",
     type: "city",
@@ -159,8 +152,7 @@ export const ukEconomicV2: POI[] = [
       ro: ["Cea mai mare rată de startup-uri pe cap de locuitor", "Sediul echipei de Formula 1 Red Bull Racing", "Centru pentru testarea vehiculelor autonome", "Nod logistic crucial pe coridorul M1"],
       en: ["Highest number of business startups per capita", "Home to Red Bull Racing Formula 1 team", "Center for autonomous vehicle testing trials", "Key distribution hub on the M1 motorway corridor"],
     },
-    imageHint: "Modern office buildings and street layout in Milton Keynes",
-  },
+    imageHint: "Modern office buildings and street layout in Milton Keynes", image: "/poi-images/uk-milton-keynes-economic-v2.webp"},
   {
     id: "uk-port-talbot-steelworks-economic-v2",
     type: "factory",
@@ -179,8 +171,7 @@ export const ukEconomicV2: POI[] = [
       ro: ["Fondat în anul 1901", "Unul dintre ultimele situri cu furnale din MB", "Produce peste 4 milioane de tone de oțel anual", "Acces direct la terminale de minereu de mare adâncime"],
       en: ["Established in 1901", "One of only two blast furnace sites remaining in UK", "Produces over 4 million tonnes of steel annually", "Features direct access to deep-water ore terminals"],
     },
-    imageHint: "Massive steel production facility at Port Talbot on the coast",
-  },
+    imageHint: "Massive steel production facility at Port Talbot on the coast", image: "/poi-images/uk-port-talbot-steelworks-economic-v2.webp"},
   {
     id: "uk-london-gateway-economic-v2",
     type: "port",
@@ -260,8 +251,7 @@ export const ukEconomicV2: POI[] = [
       ro: ["Peste 2 milioane de camioane anual", "Cea mai scurtă rută spre Franța", "Fondat prin Cartă Regală în 1606", "Gestionează 33% din comerțul UK-UE"],
       en: ["Over 2 million trucks annually", "Shortest crossing to France", "Established by Royal Charter in 1606", "Handles 33% of UK-EU trade traffic"],
     },
-    imageHint: "Ferries at the terminals in the Port of Dover with white cliffs",
-  },
+    imageHint: "Ferries at the terminals in the Port of Dover with white cliffs", image: "/poi-images/uk-port-of-dover-economic-v2.webp"},
   {
     id: "uk-milford-haven-energy-economic-v2",
     type: "port",
@@ -280,8 +270,7 @@ export const ukEconomicV2: POI[] = [
       ro: ["Furnizează 25% din benzina britanică", "Cel mai mare port din Țara Galilor", "Găzduiește terminalul GNL South Hook", "Port natural de mare adâncime"],
       en: ["Supplies 25% of UK motor fuel", "Largest port in Wales", "Home to South Hook LNG terminal", "Deep-water natural harbour"],
     },
-    imageHint: "Oil refineries and LNG terminals at Milford Haven waterway",
-  },
+    imageHint: "Oil refineries and LNG terminals at Milford Haven waterway", image: "/poi-images/uk-milford-haven-energy-economic-v2.webp"},
   {
     id: "uk-grangemouth-refinery-economic-v2",
     type: "factory",
@@ -300,8 +289,7 @@ export const ukEconomicV2: POI[] = [
       ro: ["Funcționează din 1924", "Procesează 200.000 de barili zilnic", "Conectată la conducta Forties", "Exportator major de mase plastice"],
       en: ["Operating since 1924", "Processes 200,000 barrels per day", "Connected to the Forties pipeline", "Major exporter of polymers"],
     },
-    imageHint: "Industrial skyline of Grangemouth oil refinery and chemical plant",
-  },
+    imageHint: "Industrial skyline of Grangemouth oil refinery and chemical plant", image: "/poi-images/uk-grangemouth-refinery-economic-v2.webp"},
   {
     id: "uk-east-midlands-airport-cargo-economic-v2",
     type: "industry",
@@ -320,8 +308,7 @@ export const ukEconomicV2: POI[] = [
       ro: ["Principalul aeroport pentru marfă de noapte", "Gestionează 440.000 de tone anual", "Locație centrală lângă autostrada M1", "Parte din zona liberă East Midlands"],
       en: ["UK's number one airport for night freight", "Handles 440,000 tonnes annually", "Central location near the M1 motorway", "Part of the East Midlands Freeport zone"],
     },
-    imageHint: "Cargo aircraft and logistics warehouses at East Midlands Airport",
-  },
+    imageHint: "Cargo aircraft and logistics warehouses at East Midlands Airport", image: "/poi-images/uk-east-midlands-airport-cargo-economic-v2.webp"},
   {
     id: "uk-sullom-voe-terminal-economic-v2",
     type: "industry",

@@ -19,8 +19,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Punct maxim: 2.336 m", "Munți de frontieră", "Lacuri glaciare", "Destinație de drumeție"],
       en: ["Highest peak: 2,336 m", "Border mountain range", "Glacial lakes present", "Popular hiking area"],
     },
-    imageHint: "Volujak mountain Bosnia border",
-  },
+    imageHint: "Volujak mountain Bosnia border", image: "/poi-images/bosniaherzegovina-volujak-relief-v2.webp"},
   {
     id: "bosniaherzegovina-treskavica-relief-v2",
     type: "mountain",
@@ -39,8 +38,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Mala Ćaba: 2.086 m", "Cinci lacuri montane", "Munți calcaroși", "Relief glaciar"],
       en: ["Highest peak: Mala Ćaba", "2,086 m elevation", "Five natural lakes", "Dinaric range"],
     },
-    imageHint: "Treskavica mountain lakes Bosnia",
-  },
+    imageHint: "Treskavica mountain lakes Bosnia", image: "/poi-images/bosniaherzegovina-treskavica-relief-v2.webp"},
   {
     id: "bosniaherzegovina-vlasic-relief-v2",
     type: "mountain",
@@ -59,8 +57,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Opaljenik: 1.933 m", "Producție de brânză", "Centru de sporturi de iarnă", "Munte central"],
       en: ["Highest peak: Opaljenik", "1,933 m elevation", "Livestock farming center", "Well-known ski center"],
     },
-    imageHint: "Vlasic mountain pastures Bosnia",
-  },
+    imageHint: "Vlasic mountain pastures Bosnia", image: "/poi-images/bosniaherzegovina-vlasic-relief-v2.webp"},
   {
     id: "bosniaherzegovina-kozara-relief-v2",
     type: "park",
@@ -79,8 +76,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Lisina: 978 m", "Parc național din 1967", "Munte de tip insulă", "Monument istoric"],
       en: ["Highest peak: Lisina", "978 m elevation", "National park since 1967", "Revolution Monument"],
     },
-    imageHint: "Kozara National Park monument Bosnia",
-  },
+    imageHint: "Kozara National Park monument Bosnia", image: "/poi-images/bosniaherzegovina-kozara-relief-v2.webp"},
   {
     id: "bosniaherzegovina-dinara-troglav-relief-v2",
     type: "peak",
@@ -99,8 +95,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Altitudine: 1.913 m", "Vârful suprem al masivului", "Zona de frontieră", "Relief calcaros"],
       en: ["Elevation: 1,913 meters", "Highest peak of Dinara", "Border region with Croatia", "Karst plateau"],
     },
-    imageHint: "Dinara mountain Troglav peak",
-  },
+    imageHint: "Dinara mountain Troglav peak", image: "/poi-images/bosniaherzegovina-dinara-troglav-relief-v2.webp"},
   {
     id: "bosniaherzegovina-romanija-relief-v2",
     type: "mountain",
@@ -119,8 +114,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Punct maxim: Lupoglav", "1.652 m altitudine", "Stâncile Crvene Stijene", "Peștera Novak"],
       en: ["Highest peak: Lupoglav", "1,652 m elevation", "Crvene Stijene cliffs", "Novak cave"],
     },
-    imageHint: "Romanija mountain cliffs Bosnia",
-  },
+    imageHint: "Romanija mountain cliffs Bosnia", image: "/poi-images/bosniaherzegovina-romanija-relief-v2.webp"},
   {
     id: "bosniaherzegovina-grmec-relief-v2",
     type: "mountain",
@@ -139,8 +133,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Crni Vrh: 1.605 m", "Lungime de peste 70 km", "Habitat pentru carnivore mari", "Munți dinarici"],
       en: ["Highest peak: Crni Vrh", "1,605 m elevation", "Over 70 km long", "Important forest location"],
     },
-    imageHint: "Grmec mountain forest Bosnia",
-  },
+    imageHint: "Grmec mountain forest Bosnia", image: "/poi-images/bosniaherzegovina-grmec-relief-v2.webp"},
   {
     id: "bosniaherzegovina-majevica-relief-v2",
     type: "mountain",
@@ -159,8 +152,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Stolice: 916 m", "Munți terțiari", "Resurse de cărbune", "Nord-estul Bosniei"],
       en: ["Highest peak: Stolice", "916 m elevation", "Tertiary mountain range", "Rich in brown coal"],
     },
-    imageHint: "Majevica mountain landscape",
-  },
+    imageHint: "Majevica mountain landscape", image: "/poi-images/bosniaherzegovina-majevica-relief-v2.webp"},
   {
     id: "bosniaherzegovina-ozren-relief-v2",
     type: "mountain",
@@ -199,8 +191,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Altitudine: 2.006 m", "Cai sălbatici rezidenți", "Relief carstic", "Aproape de Livno"],
       en: ["Elevation: 2,006 meters", "Wild horse population", "Karst plateau", "North of Livno"],
     },
-    imageHint: "Cincar mountain wild horses",
-  },
+    imageHint: "Cincar mountain wild horses", image: "/poi-images/bosniaherzegovina-cincar-relief-v2.webp"},
   {
     id: "bosniaherzegovina-vitorog-relief-v2",
     type: "mountain",
@@ -219,8 +210,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Altitudine: 1.906 m", "Peștera Vaganska", "Cumpăna apelor", "Vedere spre Adriatică"],
       en: ["Elevation: 1,906 meters", "Vaganska karst cave", "Watershed point", "Strategic viewpoint"],
     },
-    imageHint: "Vitorog mountain peak Bosnia",
-  },
+    imageHint: "Vitorog mountain peak Bosnia", image: "/poi-images/bosniaherzegovina-vitorog-relief-v2.webp"},
   {
     id: "bosniaherzegovina-sator-relief-v2",
     type: "mountain",
@@ -239,8 +229,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful maxim: 1.875 m", "Lacul Šatorsko Jezero", "Zonă protejată", "Munți calcaroși"],
       en: ["Highest peak: 1,875 m", "Šatorsko Jezero lake", "Dinaric range", "Flora reserve"],
     },
-    imageHint: "Sator mountain lake Bosnia",
-  },
+    imageHint: "Sator mountain lake Bosnia", image: "/poi-images/bosniaherzegovina-sator-relief-v2.webp"},
   {
     id: "bosniaherzegovina-klekovaca-relief-v2",
     type: "mountain",
@@ -259,8 +248,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Altitudine: 1.962 m", "Cel mai înalt vârf din vest", "Etimologie din ienupăr", "Păduri virgine"],
       en: ["Elevation: 1,962 meters", "Highest in the west", "Named after dwarf pine", "Rich in medicinal herbs"],
     },
-    imageHint: "Klekovaca mountain forest Bosnia",
-  },
+    imageHint: "Klekovaca mountain forest Bosnia", image: "/poi-images/bosniaherzegovina-klekovaca-relief-v2.webp"},
   {
     id: "bosniaherzegovina-konjuh-relief-v2",
     type: "mountain",
@@ -279,8 +267,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Punct maxim: 1.328 m", "Peisaj protejat", "Păduri de fag", "Aproape de Kladanj"],
       en: ["Highest peak: 1,328 m", "Protected landscape", "Rich in beech forests", "Near Kladanj"],
     },
-    imageHint: "Konjuh mountain forest Bosnia",
-  },
+    imageHint: "Konjuh mountain forest Bosnia", image: "/poi-images/bosniaherzegovina-konjuh-relief-v2.webp"},
   {
     id: "bosniaherzegovina-bitovnja-relief-v2",
     type: "mountain",
@@ -299,8 +286,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Altitudine: 1.700 m", "Cumpăna apelor", "Relief calcaros", "Aproape de Kreševo"],
       en: ["Elevation: 1,700 meters", "Watershed point", "Dinaric limestone", "Near Kreševo"],
     },
-    imageHint: "Bitovnja mountain meadows",
-  },
+    imageHint: "Bitovnja mountain meadows", image: "/poi-images/bosniaherzegovina-bitovnja-relief-v2.webp"},
   {
     id: "bosniaherzegovina-radusa-relief-v2",
     type: "mountain",
@@ -319,8 +305,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Idovac: 1.956 m", "Centru de schi", "Vedere spre Lacul Rama", "Munți dinarici"],
       en: ["Highest peak: Idovac", "1,956 m elevation", "Raduša ski center", "View of Rama lake"],
     },
-    imageHint: "Radusa mountain Idovac peak",
-  },
+    imageHint: "Radusa mountain Idovac peak", image: "/poi-images/bosniaherzegovina-radusa-relief-v2.webp"},
   {
     id: "bosniaherzegovina-visocica-relief-v2",
     type: "mountain",
@@ -339,8 +324,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Džamija: 1.967 m", "Canionul Rakitnica", "Necropole UNESCO", "Peisaj alpin"],
       en: ["Highest peak: Džamija", "1,967 m elevation", "Rakitnica canyon", "Ancient Stećci sites"],
     },
-    imageHint: "Visocica mountain Rakitnica canyon",
-  },
+    imageHint: "Visocica mountain Rakitnica canyon", image: "/poi-images/bosniaherzegovina-visocica-relief-v2.webp"},
   {
     id: "bosniaherzegovina-cabulja-relief-v2",
     type: "mountain",
@@ -359,8 +343,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Velika Vlajna: 1.786 m", "Relief carstic", "Aproape de Mostar", "Pășuni de altitudine"],
       en: ["Highest peak: Velika Vlajna", "1,786 m elevation", "Karst plateau", "Near Mostar"],
     },
-    imageHint: "Cabulja mountain Mostar view",
-  },
+    imageHint: "Cabulja mountain Mostar view", image: "/poi-images/bosniaherzegovina-cabulja-relief-v2.webp"},
   {
     id: "bosniaherzegovina-vran-relief-v2",
     type: "mountain",
@@ -379,8 +362,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Punct maxim: 2.074 m", "Parcul Natural Blidinje", "Legende locale", "Relief glaciar"],
       en: ["Highest peak: Veliki Vran", "2,074 m elevation", "Blidinje Nature Park", "Dinaric massif"],
     },
-    imageHint: "Vran mountain Blidinje lake",
-  },
+    imageHint: "Vran mountain Blidinje lake", image: "/poi-images/bosniaherzegovina-vran-relief-v2.webp"},
   {
     id: "bosniaherzegovina-pljesevica-relief-v2",
     type: "mountain",
@@ -399,8 +381,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Ozeblin: 1.657 m", "Granița cu Croația", "Baza subterană Željava", "Relief carstic"],
       en: ["Highest peak: Ozeblin", "1,657 m elevation", "Border mountain range", "Željava airbase location"],
     },
-    imageHint: "Pljesevica mountain Bihac border",
-  },
+    imageHint: "Pljesevica mountain Bihac border", image: "/poi-images/bosniaherzegovina-pljesevica-relief-v2.webp"},
   {
     id: "bosniaherzegovina-kamesnica-relief-v2",
     type: "mountain",
@@ -419,8 +400,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Konj: 1.856 m", "Granița cu Croația", "Vânturi de tip Bora", "Munți calcaroși"],
       en: ["Highest peak: Konj", "1,856 m elevation", "Border with Croatia", "Known for Bora winds"],
     },
-    imageHint: "Kamesnica mountain Konj peak",
-  },
+    imageHint: "Kamesnica mountain Konj peak", image: "/poi-images/bosniaherzegovina-kamesnica-relief-v2.webp"},
   {
     id: "bosniaherzegovina-lelija-relief-v2",
     type: "mountain",
@@ -439,8 +419,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Velika Lelija: 2.032 m", "Geomorfologie carstică", "Munți dinarici", "Peisaj stâncos"],
       en: ["Highest peak: Velika Lelija", "2,032 m elevation", "Karst geomorphology", "Near Kalinovik"],
     },
-    imageHint: "Lelija mountain rocks Bosnia",
-  },
+    imageHint: "Lelija mountain rocks Bosnia", image: "/poi-images/bosniaherzegovina-lelija-relief-v2.webp"},
   {
     id: "bosniaherzegovina-ivan-planina-relief-v2",
     type: "mountain",
@@ -459,8 +438,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Altitudine: 1.534 m", "Cumpăna apelor", "Pasul Ivan Sedlo", "Limită geografică regională"],
       en: ["Elevation: 1,534 meters", "Adriatic/Black Sea watershed", "Ivan Sedlo mountain pass", "Bosnia/Herzegovina border"],
     },
-    imageHint: "Ivan Planina mountain pass Bosnia",
-  }
+    imageHint: "Ivan Planina mountain pass Bosnia", image: "/poi-images/bosniaherzegovina-ivan-planina-relief-v2.webp"}
 ,
   {
     id: "bosniaherzegovina-osjecenica-relief-v2",
@@ -498,8 +476,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Zimomor are 1.920 de metri", "Situat în regiunea Herțegovinei Superioare", "Mărginit la nord de râul Neretva", "Zonă tradițională de pășunat pentru oi"],
       en: ["Highest summit Zimomor reaches 1,920 meters", "Located in the Upper Herzegovina region", "Bordered by the Neretva river to the north", "Features traditional high-altitude grazing"],
     },
-    imageHint: "Crvanj mountain landscape near Nevesinje",
-  },
+    imageHint: "Crvanj mountain landscape near Nevesinje", image: "/poi-images/bosniaherzegovina-crvanj-relief-v2.webp"},
   {
     id: "bosniaherzegovina-popovopolje-relief-v2",
     type: "valley",
@@ -517,8 +494,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Suprafață totală de circa 181 km²", "Râul Trebišnjica are un curs subteran aici", "Unul dintre cele mai mari polji din Balcani", "Altitudine cuprinsă între 200 și 250 m"],
       en: ["Total area of 181 square kilometers", "Trebišnjica river flows underground here", "One of the largest karst poljes in Balkans", "Elevation between 200 and 250 meters"],
     },
-    imageHint: "Aerial view of Popovo Polje karst field",
-  },
+    imageHint: "Aerial view of Popovo Polje karst field", image: "/poi-images/bosniaherzegovina-popovopolje-relief-v2.webp"},
   {
     id: "bosniaherzegovina-cemerno-relief-v2",
     type: "peak",
@@ -536,8 +512,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful maxim are 1.607 metri", "Cumpănă de ape hidrologică majoră", "Separă bazinele Adriaticei și Mării Negre", "Locul unei trecători montane strategice"],
       en: ["Highest peak reaches 1,607 meters", "Acts as a major hydrological watershed", "Separates Adriatic and Black Sea basins", "Location of a strategic mountain pass"],
     },
-    imageHint: "Cemerno mountain pass and rugged peaks",
-  },
+    imageHint: "Cemerno mountain pass and rugged peaks", image: "/poi-images/bosniaherzegovina-cemerno-relief-v2.webp"},
   {
     id: "bosniaherzegovina-manjaca-relief-v2",
     type: "mountain",

@@ -31,8 +31,7 @@ export const belarusNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-belovezhskaya-pushcha-nature-v2.webp"},
   {
     id: "belarus-narach-lake-nature-v2",
     type: "lake",
@@ -63,8 +62,7 @@ export const belarusNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-narach-lake-nature-v2.webp"},
   {
     id: "belarus-braslav-lakes-nature-v2",
     type: "park",
@@ -95,8 +93,7 @@ export const belarusNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-braslav-lakes-nature-v2.webp"},
   {
     id: "belarus-pripyat-river-nature-v2",
     type: "river",
@@ -127,8 +124,7 @@ export const belarusNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-pripyat-river-nature-v2.webp"},
   {
     id: "belarus-berezina-river-nature-v2",
     type: "river",
@@ -159,8 +155,7 @@ export const belarusNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-berezina-river-nature-v2.webp"},
   {
     id: "belarus-dzyarzhynskaya-hara-nature-v2",
     type: "peak",
@@ -191,8 +186,7 @@ export const belarusNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-dzyarzhynskaya-hara-nature-v2.webp"},
   {
     id: "belarus-yelnya-bog-nature-v2",
     type: "wildlife",
@@ -255,8 +249,7 @@ export const belarusNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-neman-river-nature-v2.webp"},
   {
     id: "belarus-sozh-river-nature-v2",
     type: "river",
@@ -287,8 +280,7 @@ export const belarusNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-sozh-river-nature-v2.webp"},
   {
     id: "belarus-dnieper-river-nature-v2",
     type: "river",
@@ -319,8 +311,7 @@ export const belarusNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-dnieper-river-nature-v2.webp"},
   {
     id: "belarus-osveya-lake-nature-v2",
     type: "lake",
@@ -351,8 +342,7 @@ export const belarusNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-osveya-lake-nature-v2.webp"},
   {
     id: "belarus-chyrvonaye-lake-nature-v2",
     type: "lake",
@@ -383,8 +373,7 @@ export const belarusNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-chyrvonaye-lake-nature-v2.webp"},
   {
     id: "belarus-naliboki-forest-nature-v2",
     type: "forest",
@@ -415,8 +404,7 @@ export const belarusNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-naliboki-forest-nature-v2.webp"},
   {
     id: "belarus-western-dvina-river-nature-v2",
     type: "river",
@@ -447,8 +435,7 @@ export const belarusNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-western-dvina-river-nature-v2.webp"},
   {
     id: "belarus-viliya-river-nature-v2",
     type: "river",
@@ -479,8 +466,7 @@ export const belarusNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-viliya-river-nature-v2.webp"},
   {
     id: "belarus-dryvyaty-lake-nature-v2",
     type: "lake",
@@ -511,8 +497,7 @@ export const belarusNatureV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/belarus-dryvyaty-lake-nature-v2.webp"},
   {
     id: "belarus-shchara-river-nature-v2",
     type: "river",
@@ -531,8 +516,7 @@ export const belarusNatureV2: POI[] = [
       ro: ["Lungimea totală este de 325 de kilometri", "Al doilea cel mai mare afluent al Nemanului", "Trece prin orașul Slonim", "Albia râului este adesea acoperită de vegetație densă"],
       en: ["Total length is 325 kilometers", "Second largest tributary of the Neman", "Flows through the city of Slonim", "The riverbed is often heavily vegetated"],
     },
-    imageHint: "Narrow river with overgrown banks and a quiet current",
-  },
+    imageHint: "Narrow river with overgrown banks and a quiet current", image: "/poi-images/belarus-shchara-river-nature-v2.webp"},
   {
     id: "belarus-olmany-mires-nature-v2",
     type: "wildlife",
@@ -551,8 +535,7 @@ export const belarusNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 94.000 de hectare", "Loc de cuibărit important pentru acvila țipătoare mare", "Folosit anterior ca poligon militar", "Parte a site-ului Ramsar pentru zone umede"],
       en: ["Area of approximately 94,000 hectares", "Critical nesting site for the Greater Spotted Eagle", "Formerly used as a military testing ground", "Part of the Ramsar list of wetlands"],
     },
-    imageHint: "Vast swampy area with sparse trees and water channels",
-  },
+    imageHint: "Vast swampy area with sparse trees and water channels", image: "/poi-images/belarus-olmany-mires-nature-v2.webp"},
   {
     id: "belarus-sporovskoye-marsh-nature-v2",
     type: "wildlife",
@@ -571,8 +554,7 @@ export const belarusNatureV2: POI[] = [
       ro: ["Adăpostește 9% din populația mondială de lăcar de rovit", "Include lacul Sporovskoe", "Primul site Ramsar desemnat în Belarus", "Vegetație unică de rovit și stuf"],
       en: ["Home to 9% of the world's Aquatic Warbler population", "Includes the Lake Sporovskoye", "First Ramsar site designated in Belarus", "Unique vegetation of sedges and reeds"],
     },
-    imageHint: "Wetland with tall yellow sedge grass and small birds",
-  },
+    imageHint: "Wetland with tall yellow sedge grass and small birds", image: "/poi-images/belarus-sporovskoye-marsh-nature-v2.webp"},
   {
     id: "belarus-vyhanoishchanskoye-lake-nature-v2",
     type: "lake",
@@ -591,8 +573,7 @@ export const belarusNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 26 km pătrați", "Adâncimea medie este de doar 1,2 metri", "Situat pe cumpăna apelor între Marea Baltică și Marea Neagră", "Zonă importantă de cuibărit pentru codalb"],
       en: ["Area of approximately 26 square kilometers", "Average depth is only 1.2 meters", "Located on the watershed between the Baltic and Black Seas", "Significant breeding area for White-tailed Eagles"],
     },
-    imageHint: "Flat lake surrounded by dense marshes and swamp forest",
-  },
+    imageHint: "Flat lake surrounded by dense marshes and swamp forest", image: "/poi-images/belarus-vyhanoishchanskoye-lake-nature-v2.webp"},
   {
     id: "belarus-svisloch-river-nature-v2",
     type: "river",
@@ -611,8 +592,7 @@ export const belarusNatureV2: POI[] = [
       ro: ["Lungimea totală a râului: 327 kilometri", "Izvorăște din Podișul Minskului", "Alimentează rezervorul Zaslavie (Marea Minskului)", "Curs puternic regularizat în zona urbană a Minskului"],
       en: ["Total length of the river is 327 kilometers", "Originates in the Minsk Upland", "Feeds the Zaslavye reservoir (Minsk Sea)", "Highly regulated course within Minsk city limits"],
     },
-    imageHint: "River with stone embankments and parks in a city",
-  },
+    imageHint: "River with stone embankments and parks in a city", image: "/poi-images/belarus-svisloch-river-nature-v2.webp"},
   {
     id: "belarus-lyuban-blue-lakes-nature-v2",
     type: "lake",
@@ -631,8 +611,7 @@ export const belarusNatureV2: POI[] = [
       ro: ["Adâncimea apei depășește pe alocuri 30 de metri", "Zonă populară de recreere neoficială", "Malurile sunt adesea formate din nisip alb de cretă", "Culoarea apei se estompează pe parcursul deceniilor"],
       en: ["Water depth exceeds 30 meters in some places", "Popular unofficial recreational spot", "Banks often consist of light-colored chalk sand", "The water color tends to fade over decades"],
     },
-    imageHint: "Turquoise water in a deep pit with steep white banks",
-  },
+    imageHint: "Turquoise water in a deep pit with steep white banks", image: "/poi-images/belarus-lyuban-blue-lakes-nature-v2.webp"},
   {
     id: "belarus-lisnaya-river-nature-v2",
     type: "river",
@@ -651,8 +630,7 @@ export const belarusNatureV2: POI[] = [
       ro: ["Lungimea totală este de aproximativ 85 de kilometri", "Cursul râului este extrem de șerpuitor", "Loc important de adăpare pentru animalele sălbatice", "Se varsă în Bug la nord de Brest"],
       en: ["Total length is approximately 85 kilometers", "The river course is extremely winding", "Vital watering spot for wildlife in the primeval forest", "Joins the Bug River north of Brest"],
     },
-    imageHint: "Small river winding through ancient broadleaf forest",
-  },
+    imageHint: "Small river winding through ancient broadleaf forest", image: "/poi-images/belarus-lisnaya-river-nature-v2.webp"},
   {
     id: "belarus-sorochanskiye-lakes-nature-v2",
     type: "lake",
@@ -671,8 +649,7 @@ export const belarusNatureV2: POI[] = [
       ro: ["Parte a unei rezervații peisagistice oponime", "Formate prin topirea ghețarului Valdai", "Două dintre lacuri au apă extrem de moale", "Destinație populară pentru ecoturism"],
       en: ["Part of a namesake landscape reserve", "Formed by the melting of the Valdai glacier", "Two of the lakes have extremely soft water", "Popular destination for eco-tourism"],
     },
-    imageHint: "A string of small lakes connected by streams in a forest",
-  },
+    imageHint: "A string of small lakes connected by streams in a forest", image: "/poi-images/belarus-sorochanskiye-lakes-nature-v2.webp"},
   {
     id: "belarus-horyn-river-nature-v2",
     type: "river",
@@ -691,8 +668,7 @@ export const belarusNatureV2: POI[] = [
       ro: ["Lungimea totală este de 659 de kilometri", "Trece prin orașul Stolin", "Important pentru irigații în agricultură", "Bogat în diverse specii de pești"],
       en: ["Total length is 659 kilometers", "Flows through the town of Stolin", "Important for agricultural irrigation", "Rich in various species of fish"],
     },
-    imageHint: "River with high sandy banks and nearby farm fields",
-  },
+    imageHint: "River with high sandy banks and nearby farm fields", image: "/poi-images/belarus-horyn-river-nature-v2.webp"},
   {
     id: "belarus-ptich-river-nature-v2",
     type: "river",
@@ -711,8 +687,7 @@ export const belarusNatureV2: POI[] = [
       ro: ["Lungimea totală este de 421 de kilometri", "Cel mai mare afluent de stânga al Pripeatului", "Are o vale plată și largă", "Popular printre pescari pentru știucă și biban"],
       en: ["Total length is 421 kilometers", "Largest left tributary of the Pripyat", "Features a flat and wide valley", "Popular with anglers for pike and perch"],
     },
-    imageHint: "River flowing through rural countryside with wooden bridges",
-  },
+    imageHint: "River flowing through rural countryside with wooden bridges", image: "/poi-images/belarus-ptich-river-nature-v2.webp"},
   {
     id: "belarus-svitiaz-lake-nature-v2",
     type: "lake",

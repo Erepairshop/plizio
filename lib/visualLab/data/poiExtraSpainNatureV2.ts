@@ -19,8 +19,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Altitudine de 3479 metri", "Parte din masivul Sierra Nevada", "Cel mai înalt punct din Spania continentală", "Poartă numele regelui Muley Hacén"],
       en: ["Elevation of 3,479 meters", "Part of the Sierra Nevada range", "Highest point in mainland Spain", "Named after Sultan Muley Hacén"],
     },
-    imageHint: "Mulhacen peak in Sierra Nevada Andalusia",
-  },
+    imageHint: "Mulhacen peak in Sierra Nevada Andalusia", image: "/poi-images/spain-mulhacen-nature-v2.webp"},
   {
     id: "spain-picos-de-europa-nature-v2",
     type: "park",
@@ -39,8 +38,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Fondat în anul 1918", "Rezervație a Biosferei UNESCO", "Vârful Torre de Cerredo (2648 m)", "Habitat pentru ursul brun cantabric"],
       en: ["Established in 1918", "UNESCO Biosphere Reserve", "Highest peak is Torre de Cerredo", "Habitat for the Cantabrian brown bear"],
     },
-    imageHint: "Picos de Europa limestone mountains Spain",
-  },
+    imageHint: "Picos de Europa limestone mountains Spain", image: "/poi-images/spain-picos-de-europa-nature-v2.webp"},
   {
     id: "spain-tabernas-desert-nature-v2",
     type: "valley",
@@ -59,8 +57,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Locație de filmare pentru western-uri", "Precipitații sub 250 mm pe an", "Peisaj marcat de eroziune extremă", "Zonă protejată din 1989"],
       en: ["Filming location for many Westerns", "Annual rainfall below 250 mm", "Shows extreme erosion processes", "Protected natural area since 1989"],
     },
-    imageHint: "Tabernas Desert landscape Almeria",
-  },
+    imageHint: "Tabernas Desert landscape Almeria", image: "/poi-images/spain-tabernas-desert-nature-v2.webp"},
   {
     id: "spain-ordesa-monte-perdido-nature-v2",
     type: "park",
@@ -79,8 +76,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Monte Perdido are 3355 m înălțime", "Sit UNESCO transfrontalier", "Faimos pentru Canionul Ordesa", "Înființat în anul 1918"],
       en: ["Monte Perdido stands at 3,355 m", "UNESCO World Heritage site", "Famous for the Ordesa Canyon", "Established in 1918"],
     },
-    imageHint: "Ordesa valley and Monte Perdido mountains",
-  },
+    imageHint: "Ordesa valley and Monte Perdido mountains", image: "/poi-images/spain-ordesa-monte-perdido-nature-v2.webp"},
   {
     id: "spain-ebro-river-nature-v2",
     type: "river",
@@ -99,8 +95,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 910 km", "Cea mai mare deltă de pe coasta spaniolă", "Zonă importantă pentru cultura orezului", "A dat numele Peninsulei Iberice"],
       en: ["Length of approximately 910 km", "Largest delta on the Spanish coast", "Important rice-growing region", "Gave its name to the Iberian Peninsula"],
     },
-    imageHint: "Ebro river delta satellite view",
-  },
+    imageHint: "Ebro river delta satellite view", image: "/poi-images/spain-ebro-river-nature-v2.webp"},
   {
     id: "spain-tagus-river-nature-v2",
     type: "river",
@@ -119,8 +114,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Lungime totală de 1007 km", "Traversează Spania și Portugalia", "Sursă majoră de energie hidroelectrică", "Gura de vărsare este la Lisabona"],
       en: ["Total length of 1,007 km", "Flows through Spain and Portugal", "Host to several hydroelectric dams", "Mouth located at Lisbon"],
     },
-    imageHint: "Tagus river canyon Spain",
-  },
+    imageHint: "Tagus river canyon Spain", image: "/poi-images/spain-tagus-river-nature-v2.webp"},
   {
     id: "spain-cabo-de-gata-nature-v2",
     type: "park",
@@ -139,8 +133,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Origine vulcanică", "Rezervație a Biosferei UNESCO", "Locație pentru filmul Indiana Jones", "Cea mai mare zonă de coastă protejată"],
       en: ["Of volcanic origin", "UNESCO Biosphere Reserve", "Filming site for 'Indiana Jones'", "Andalusia's largest protected coastal area"],
     },
-    imageHint: "Cabo de Gata volcanic coastline",
-  },
+    imageHint: "Cabo de Gata volcanic coastline", image: "/poi-images/spain-cabo-de-gata-nature-v2.webp"},
   {
     id: "spain-aneto-nature-v2",
     type: "peak",
@@ -159,8 +152,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf din Pirinei", "Găzduiește cel mai mare ghețar pirinean", "Situat în parcul Posets-Maladeta", "Traseul trece prin Pasul Mahomed"],
       en: ["Highest peak in the Pyrenees", "Largest glacier in the range", "Located in Posets-Maladeta Park", "Summit route involves crossing a glacier"],
     },
-    imageHint: "Aneto peak glacier Pyrenees",
-  },
+    imageHint: "Aneto peak glacier Pyrenees", image: "/poi-images/spain-aneto-nature-v2.webp"},
   {
     id: "spain-guadarrama-nature-v2",
     type: "park",
@@ -179,8 +171,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Vârful Peñalara este cel mai înalt", "Parc național din 2013", "Păduri vaste de pini silvestri", "Habitat pentru acvila de munte"],
       en: ["Highest peak is Peñalara", "National Park since 2013", "Vast Scots pine forests", "Habitat for the Golden Eagle"],
     },
-    imageHint: "Sierra de Guadarrama mountains Madrid",
-  },
+    imageHint: "Sierra de Guadarrama mountains Madrid", image: "/poi-images/spain-guadarrama-nature-v2.webp"},
   {
     id: "spain-lake-sanabria-nature-v2",
     type: "lake",
@@ -199,8 +190,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Suprafață de cca. 3,7 km²", "Format de un ghețar cuaternar", "Adâncime maximă de 53 m", "Parc natural din 1978"],
       en: ["Area of approx. 3.7 km²", "Formed by a Quaternary glacier", "Maximum depth of 53 meters", "Natural Park since 1978"],
     },
-    imageHint: "Lake Sanabria Zamora Spain",
-  },
+    imageHint: "Lake Sanabria Zamora Spain", image: "/poi-images/spain-lake-sanabria-nature-v2.webp"},
   {
     id: "spain-islas-atlanticas-nature-v2",
     type: "park",
@@ -219,8 +209,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Plaja Rodas este renumită mondial", "Accesibil doar cu barca", "Limită zilnică de vizitatori", "Biodiversitate marină bogată"],
       en: ["Rodas Beach is often cited as world's best", "Accessible only by boat", "Daily visitor limits apply", "Rich marine biodiversity"],
     },
-    imageHint: "Cies Islands beach Galicia",
-  },
+    imageHint: "Cies Islands beach Galicia", image: "/poi-images/spain-islas-atlanticas-nature-v2.webp"},
   {
     id: "spain-caminito-del-rey-nature-v2",
     type: "landmark",
@@ -239,8 +228,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Traversează defileul Gaitanes", "Construit inițial în 1905", "Renovat complet în 2015", "Suspendat deasupra râului Guadalhorce"],
       en: ["Passes through Gaitanes Gorge", "Built in 1905 for dam workers", "Fully renovated in 2015", "Suspended over the Guadalhorce River"],
     },
-    imageHint: "Caminito del Rey walkway gorge Malaga",
-  },
+    imageHint: "Caminito del Rey walkway gorge Malaga", image: "/poi-images/spain-caminito-del-rey-nature-v2.webp"},
   {
     id: "spain-las-medulas-nature-v2",
     type: "landmark",
@@ -259,8 +247,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Cea mai mare mină de aur romană", "Patrimoniu UNESCO din 1997", "Formațiuni roșiatice de nisip", "Tehnica folosită: Ruina Montium"],
       en: ["Largest gold mine in Roman Empire", "UNESCO World Heritage since 1997", "Distinctive red sandstone peaks", "Used the 'Ruina Montium' mining technique"],
     },
-    imageHint: "Las Medulas Roman gold mine landscape",
-  },
+    imageHint: "Las Medulas Roman gold mine landscape", image: "/poi-images/spain-las-medulas-nature-v2.webp"},
   {
     id: "spain-bardenas-reales-nature-v2",
     type: "park",
@@ -279,8 +266,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Rezervație a Biosferei UNESCO", "Sol compus din argilă și nisip", "Formațiune celebră: Castildetierra", "Locație pentru Game of Thrones"],
       en: ["UNESCO Biosphere Reserve", "Composed of clay and sandstone", "Famous 'Castildetierra' formation", "Filming location for 'Game of Thrones'"],
     },
-    imageHint: "Bardenas Reales Castildetierra formation",
-  },
+    imageHint: "Bardenas Reales Castildetierra formation", image: "/poi-images/spain-bardenas-reales-nature-v2.webp"},
   {
     id: "spain-montserrat-nature-v2",
     type: "mountain",
@@ -299,8 +285,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf: Sant Jeroni (1236 m)", "Roci de tip conglomerat unice", "Centru religios major al Cataloniei", "Parc natural din 1987"],
       en: ["Highest point is Sant Jeroni (1,236 m)", "Unique conglomerate rock formations", "Catalonia's most important religious site", "Natural Park since 1987"],
     },
-    imageHint: "Montserrat mountain peaks Catalonia",
-  },
+    imageHint: "Montserrat mountain peaks Catalonia", image: "/poi-images/spain-montserrat-nature-v2.webp"},
   {
     id: "spain-drach-caves-nature-v2",
     type: "landmark",
@@ -319,8 +304,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Conține Lacul Martel", "Lungime de aproximativ 1200 m", "Concerte de muzică clasică în interior", "Situată în Porto Cristo"],
       en: ["Features Lake Martel", "Length of about 1,200 meters", "Classical music concerts held inside", "Located in Porto Cristo"],
     },
-    imageHint: "Caves of Drach underground lake",
-  },
+    imageHint: "Caves of Drach underground lake", image: "/poi-images/spain-drach-caves-nature-v2.webp"},
   {
     id: "spain-nerja-caves-nature-v2",
     type: "landmark",
@@ -339,8 +323,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Coloană de 32 de metri înălțime", "Descoperită în anul 1959", "Picturi rupestre preistorice", "Găzduiește un festival anual de muzică"],
       en: ["Column is 32 meters high", "Discovered in 1959", "Contains prehistoric paintings", "Hosts an annual music festival"],
     },
-    imageHint: "Nerja Caves stalactite column",
-  },
+    imageHint: "Nerja Caves stalactite column", image: "/poi-images/spain-nerja-caves-nature-v2.webp"},
   {
     id: "spain-guadalquivir-river-nature-v2",
     type: "river",
@@ -359,8 +342,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Traversează Córdoba și Sevilla", "Lungime de aproximativ 657 km", "Numele provine din limba arabă", "Se varsă în Golful Cádiz"],
       en: ["Flows through Cordoba and Seville", "Length of about 657 km", "Name comes from Arabic 'Wadi al-Kabir'", "Empties into the Gulf of Cadiz"],
     },
-    imageHint: "Guadalquivir river in Seville",
-  },
+    imageHint: "Guadalquivir river in Seville", image: "/poi-images/spain-guadalquivir-river-nature-v2.webp"},
   {
     id: "spain-aiguestortes-nature-v2",
     type: "park",
@@ -379,8 +361,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Atractie principala: Lacul Sant Maurici", "Vârfurile gemene Els Encantats", "Singurul parc național din Catalonia", "Abundă în păstrăvi"],
       en: ["Main attraction is Sant Maurici Lake", "Iconic 'Els Encantats' twin peaks", "Catalonia's only National Park", "Home to high-altitude trout lakes"],
     },
-    imageHint: "Sant Maurici lake and Encantats peaks",
-  },
+    imageHint: "Sant Maurici lake and Encantats peaks", image: "/poi-images/spain-aiguestortes-nature-v2.webp"},
   {
     id: "spain-taburiente-nature-v2",
     type: "park",
@@ -399,8 +380,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Crater cu diametrul de 8 km", "Roque de los Muchachos (2426 m)", "Găzduiește telescoape majore", "Parc național din 1954"],
       en: ["Crater is 8 km in diameter", "Roque de los Muchachos summit", "Home to major astronomical observatories", "National Park since 1954"],
     },
-    imageHint: "Caldera de Taburiente crater La Palma",
-  },
+    imageHint: "Caldera de Taburiente crater La Palma", image: "/poi-images/spain-taburiente-nature-v2.webp"},
   {
     id: "spain-jiloca-valley-nature-v2",
     type: "valley",
@@ -439,8 +419,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Descoperită în timpul minării", "Formațiuni helictitice spectaculoase", "Peste 17 km de galerii", "Deschisă publicului din 2005"],
       en: ["Discovered during mining works", "Unique eccentric stalactites", "Over 17 km in length", "Open to the public since 2005"],
     },
-    imageHint: "El Soplao cave eccentric formations",
-  },
+    imageHint: "El Soplao cave eccentric formations", image: "/poi-images/spain-cueva-del-soplao-nature-v2.webp"},
   {
     id: "spain-nera-river-canyon-nature-v2",
     type: "valley",
@@ -459,8 +438,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Fără acces rutier", "Poteci săpate direct în stâncă", "Pereți de peste 500 m înălțime", "Rezervație naturală protejată"],
       en: ["No road access allowed", "Walkways carved into the rock", "Walls over 500 meters high", "Significant natural reserve"],
     },
-    imageHint: "Mont-rebei gorge walkway and river",
-  }
+    imageHint: "Mont-rebei gorge walkway and river", image: "/poi-images/spain-nera-river-canyon-nature-v2.webp"}
 ,
   {
     id: "spain-garrotxa-volcanoes-nature-v2",
@@ -498,8 +476,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Roci vechi de 150 milioane de ani", "Punctul maxim are 1336 metri", "Patrimoniu UNESCO din 2016", "Format din calcar jurasic"],
       en: ["150 million year old rocks", "Highest point is 1,336 meters", "UNESCO World Heritage since 2016", "Composed of Jurassic limestone"],
     },
-    imageHint: "Karst limestone formations at Torcal de Antequera",
-  },
+    imageHint: "Karst limestone formations at Torcal de Antequera", image: "/poi-images/spain-torcal-antequera-nature-v2.webp"},
   {
     id: "spain-los-gigantes-cliffs-nature-v2",
     type: "landmark",
@@ -517,8 +494,7 @@ export const spainNatureV2: POI[] = [
       ro: ["Înălțime maximă de 800 metri", "Origine vulcanică", "Cunoscute ca 'Zidul Giganților'", "Adâncimea apei la bază e de 30 metri"],
       en: ["Maximum height of 800 meters", "Volcanic origin formation", "Known as the 'Wall of the Giants'", "Water depth at base reaches 30 meters"],
     },
-    imageHint: "Massive dark sea cliffs Los Gigantes Tenerife",
-  },
+    imageHint: "Massive dark sea cliffs Los Gigantes Tenerife", image: "/poi-images/spain-los-gigantes-cliffs-nature-v2.webp"},
   {
     id: "spain-lagunas-ruidera-nature-v2",
     type: "lake",
@@ -555,8 +531,7 @@ export const spainNatureV2: POI[] = [
       ro: ["241 de trepte de piatră spre vârf", "Capelă dedicată Sf. Ioan Botezătorul", "Loc de filmare pentru Game of Thrones", "Situat în Golful Biscaia"],
       en: ["241 stone steps to the summit", "Chapel dedicated to John the Baptist", "Filming location for Game of Thrones", "Located in the Bay of Biscay"],
     },
-    imageHint: "Winding stone stairs to Gaztelugatxe island",
-  },
+    imageHint: "Winding stone stairs to Gaztelugatxe island", image: "/poi-images/spain-gaztelugatxe-nature-v2.webp"},
   {
     id: "spain-sil-canyon-nature-v2",
     type: "valley",

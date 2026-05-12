@@ -19,8 +19,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Fondat în anul 2006", "Punctul maxim se află la 102 metri altitudine", "Găzduiește peste 7.000 de specii de animale și plante", "Fostă zonă minieră cu natură renaturată"],
       en: ["Established in 2006", "Highest point reaches 102 meters", "Home to over 7,000 species of animals and plants", "Former mining area with restored nature"],
     },
-    imageHint: "Purple heathland and pine trees in Hoge Kempen National Park",
-  },
+    imageHint: "Purple heathland and pine trees in Hoge Kempen National Park", image: "/poi-images/belgium-hoge-kempen-life-v2.webp"},
   {
     id: "belgium-het-zwin-life-v2",
     type: "wildlife",
@@ -59,8 +58,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Suprafață de aproximativ 75 de hectare", "Câștigător multiplu al premiului 'Cea mai bună grădină zoologică din Europa'", "Găzduiește peste 7.000 de animale", "Deține cea mai mare grădină chinezească din Europa"],
       en: ["Covers an area of approximately 75 hectares", "Multiple winner of 'Best Zoo in Europe' awards", "Home to over 7,000 animals", "Features the largest Chinese garden in Europe"],
     },
-    imageHint: "Giant panda in a thematic enclosure at Pairi Daiza",
-  },
+    imageHint: "Giant panda in a thematic enclosure at Pairi Daiza", image: "/poi-images/belgium-pairi-daiza-life-v2.webp"},
   {
     id: "belgium-antwerp-zoo-life-v2",
     type: "wildlife",
@@ -79,8 +77,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Deschisă la 21 iulie 1843", "Clădirile sale sunt monumente protejate", "Gestionează registrul genealogic internațional pentru okapi", "Găzduiește circa 5.000 de animale din 950 de specii"],
       en: ["Opened on July 21, 1843", "The site is a protected historic monument", "Maintains the international studbook for the okapi", "Houses about 5,000 animals across 950 species"],
     },
-    imageHint: "Historic Egyptian Temple enclosure at Antwerp Zoo",
-  },
+    imageHint: "Historic Egyptian Temple enclosure at Antwerp Zoo", image: "/poi-images/belgium-antwerp-zoo-life-v2.webp"},
   {
     id: "belgium-planckendael-life-v2",
     type: "wildlife",
@@ -99,8 +96,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Aparține Societății Regale de Zoologie din Anvers", "Cunoscut pentru marea sa colonie de berze albe", "Oferă trasee de aventură prin coronamentul arborilor", "Focus pe conservarea speciei bonobo"],
       en: ["Part of the Royal Zoological Society of Antwerp", "Famous for its large free-flying white stork colony", "Features adventure trails through the treetops", "Specializes in the conservation of bonobos"],
     },
-    imageHint: "Elephants in a naturalistic enclosure at Planckendael",
-  },
+    imageHint: "Elephants in a naturalistic enclosure at Planckendael", image: "/poi-images/belgium-planckendael-life-v2.webp"},
   {
     id: "belgium-meise-botanical-garden-life-v2",
     type: "park",
@@ -119,8 +115,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Găzduiește Castelul Bouchout din secolul al XII-lea", "Ierbarul său conține 4 milioane de specimene", "Centru important de cercetare pentru botanica tropicală", "Deține una dintre cele mai mari colecții de nuferi"],
       en: ["Contains the 12th-century Bouchout Castle", "Its herbarium holds 4 million plant specimens", "Major research center for tropical botany", "Home to one of the world's largest water lily collections"],
     },
-    imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
-  },
+    imageHint: "Large Victorian greenhouses at Meise Botanical Garden", image: "/poi-images/belgium-meise-botanical-garden-life-v2.webp"},
   {
     id: "belgium-high-fens-life-v2",
     type: "wildlife",
@@ -139,8 +134,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Parte a Parcului Natural Germano-Belgian Hautes Fagnes-Eifel", "Cuprinde Signal de Botrange, cel mai înalt punct din Belgia", "Habitat crucial pentru cocoșul de munte", "Protejat ca rezervație naturală de stat din 1957"],
       en: ["Part of the German-Belgian High Fens-Eifel Nature Park", "Contains Signal de Botrange, the highest point in Belgium", "Critical habitat for the rare black grouse", "Protected as a state nature reserve since 1957"],
     },
-    imageHint: "Wooden boardwalk through the misty peat bogs of High Fens",
-  },
+    imageHint: "Wooden boardwalk through the misty peat bogs of High Fens", image: "/poi-images/belgium-high-fens-life-v2.webp"},
   {
     id: "belgium-kalmthoutse-heide-life-v2",
     type: "wildlife",
@@ -159,8 +153,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Parte a Parcului Transfrontalier De Zoom-Kalmthoutse Heide", "Cunoscută pentru insecte și amfibieni rari", "Acoperă o suprafață totală de peste 6.000 de hectare", "Loc important pentru iarba neagră purpurie"],
       en: ["Part of the De Zoom-Kalmthoutse Heide Border Park", "Known for rare insects and amphibians", "Total area exceeds 6,000 hectares", "Vibrant purple landscape during the heath bloom"],
     },
-    imageHint: "Purple flowering heathland and scattered pine trees",
-  },
+    imageHint: "Purple flowering heathland and scattered pine trees", image: "/poi-images/belgium-kalmthoutse-heide-life-v2.webp"},
   {
     id: "belgium-hallerbos-life-v2",
     type: "forest",
@@ -179,8 +172,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Situată la sud de Bruxelles, lângă localitatea Halle", "Inițial parte a vastei Păduri de Cărbune (Silva Carbonaria)", "Specia de arbori dominantă este fagul", "Protejată strict pentru a conserva bulbii florilor"],
       en: ["Located south of Brussels near the town of Halle", "Originally part of the ancient Charcoal Forest", "Beech is the dominant tree species", "Strictly protected to prevent damage to the flower bulbs"],
     },
-    imageHint: "Carpet of bluebells in a beech forest in Hallerbos",
-  },
+    imageHint: "Carpet of bluebells in a beech forest in Hallerbos", image: "/poi-images/belgium-hallerbos-life-v2.webp"},
   {
     id: "belgium-forest-of-soignes-life-v2",
     type: "forest",
@@ -199,8 +191,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Parte a Patrimoniului Mondial UNESCO (Păduri primare de fag)", "Acoperă peste 4.400 de hectare", "Reprezintă plămânul verde vital al capitalei", "Găzduiește căprioare și specii rare de lilieci"],
       en: ["Part of the UNESCO World Heritage site 'Ancient Beech Forests'", "Spans more than 4,400 hectares", "Functions as a vital green lung for the capital city", "Home to roe deer and rare bat species"],
     },
-    imageHint: "Tall straight beech trees in the Forest of Soignes",
-  },
+    imageHint: "Tall straight beech trees in the Forest of Soignes", image: "/poi-images/belgium-forest-of-soignes-life-v2.webp"},
   {
     id: "belgium-wildlife-park-han-life-v2",
     type: "wildlife",
@@ -219,8 +210,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Găzduiește lupi, urși bruni și zimbri", "Cuprinde 250 de hectare de natură pură", "Centru pentru reintroducerea speciilor amenințate", "Oferă vederi panoramice asupra văii râului Lesse"],
       en: ["Home to wolves, brown bears, and European bison", "Covers 250 hectares of preserved natural space", "Involved in reintroduction programs for endangered species", "Offers panoramic views over the Lesse river valley"],
     },
-    imageHint: "European bison in a hilly landscape at Han Wildlife Park",
-  },
+    imageHint: "European bison in a hilly landscape at Han Wildlife Park", image: "/poi-images/belgium-wildlife-park-han-life-v2.webp"},
   {
     id: "belgium-bourgoyen-ossemeersen-life-v2",
     type: "wildlife",
@@ -239,8 +229,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Acoperă aproximativ 230 de hectare", "Cunoscută pentru mii de rațe fluierătoare și rațe lingurar", "Dispune de un centru de vizitare modern", "O treime din zonă este inundată permanent"],
       en: ["Spans approximately 230 hectares", "Known for hosting thousands of wigeons and shovelers", "Features an eco-friendly visitor center", "One third of the area is permanently flooded"],
     },
-    imageHint: "Birdwatching hut overlooking a wetland area",
-  },
+    imageHint: "Birdwatching hut overlooking a wetland area", image: "/poi-images/belgium-bourgoyen-ossemeersen-life-v2.webp"},
   {
     id: "belgium-deux-ourthes-life-v2",
     type: "park",
@@ -259,8 +248,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Cel mai mare parc natural din Valonia", "Acoperă peste 76.000 de hectare", "Adăpostește lacul de acumulare Nisramont", "Habitat important pentru barza neagră"],
       en: ["Largest natural park in Wallonia", "Covers over 76,000 hectares", "Contains the Nisramont dam and lake", "Important breeding ground for the black stork"],
     },
-    imageHint: "Winding river through deep green forested valleys",
-  },
+    imageHint: "Winding river through deep green forested valleys", image: "/poi-images/belgium-deux-ourthes-life-v2.webp"},
   {
     id: "belgium-viroin-hermeton-life-v2",
     type: "park",
@@ -279,8 +267,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Sediul primei destinații turistice 'EDEM' din Belgia", "Găzduiește specii rare de fluturi", "Cunoscut pentru pajiștile sale calcaroase", "Situat la granița cu Franța"],
       en: ["Belgium's first European Destination of Excellence (EDEN)", "Home to rare species of butterflies", "Famous for its limestone grasslands", "Located along the French border"],
     },
-    imageHint: "Wild orchids growing on a limestone slope",
-  },
+    imageHint: "Wild orchids growing on a limestone slope", image: "/poi-images/belgium-viroin-hermeton-life-v2.webp"},
   {
     id: "belgium-westhoek-life-v2",
     type: "wildlife",
@@ -319,8 +306,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Operează o clinică pentru foci", "Găzduiește peste 2.500 de viețuitoare marine", "Deține un tunel subacvatic de 8 metri lungime", "Parte a unei rețele globale de conservare"],
       en: ["Operates a dedicated seal rescue clinic", "Home to over 2,500 marine creatures", "Features an 8-meter long underwater tunnel", "Part of a worldwide conservation network"],
     },
-    imageHint: "Rescued seal pup in a rehabilitation pool",
-  },
+    imageHint: "Rescued seal pup in a rehabilitation pool", image: "/poi-images/belgium-sea-life-blankenberge-life-v2.webp"},
   {
     id: "belgium-monde-sauvage-life-v2",
     type: "wildlife",
@@ -339,8 +325,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Singurul parc safari drive-through din Belgia", "Include un mare spectacol cu lei de mare", "Găzduiește tigri albi rari", "Situat în dealurile Ardenilor"],
       en: ["Belgium's only drive-through safari park", "Features a major sea lion performance", "Home to rare white tigers", "Set within the picturesque Ardennes hills"],
     },
-    imageHint: "Giraffes and zebras in a safari park landscape",
-  },
+    imageHint: "Giraffes and zebras in a safari park landscape", image: "/poi-images/belgium-monde-sauvage-life-v2.webp"},
   {
     id: "belgium-arboretum-kalmthout-life-v2",
     type: "park",
@@ -359,8 +344,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Fondat în 1856 ca pepinieră", "Găzduiește peste 7.000 de specii de plante", "Cunoscut pentru înflorirea de iarnă a tufelor de hamamelis", "Acoperă 12,5 hectare"],
       en: ["Established in 1856 as a tree nursery", "Home to more than 7,000 plant species", "Famous for the winter bloom of witch hazels", "Covers 12.5 hectares of landscaped grounds"],
     },
-    imageHint: "Blooming yellow witch hazel in a winter garden",
-  },
+    imageHint: "Blooming yellow witch hazel in a winter garden", image: "/poi-images/belgium-arboretum-kalmthout-life-v2.webp"},
   {
     id: "belgium-de-blankaart-life-v2",
     type: "wildlife",
@@ -379,8 +363,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Include un castel din secolul al XIX-lea", "Loc de odihnă important pentru lopătari", "Oferă plimbări cu barca în apele puțin adânci", "O parte este desemnată sit RAMSAR"],
       en: ["Includes a 19th-century castle as a visitor center", "Crucial resting place for spoonbills", "Offers guided boat trips through the shallow waters", "Designated as a RAMSAR wetland of international importance"],
     },
-    imageHint: "Marshland with reeds and a distant castle",
-  },
+    imageHint: "Marshland with reeds and a distant castle", image: "/poi-images/belgium-de-blankaart-life-v2.webp"},
   {
     id: "belgium-het-vinne-life-v2",
     type: "lake",
@@ -399,8 +382,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Situat în Zoutleeuw", "Cunoscut pentru podețele lungi de lemn peste apă", "Cel mai mare lac interior din Flandra", "Peste 100 de specii de păsări cuibăresc aici"],
       en: ["Located in the town of Zoutleeuw", "Famous for its long wooden boardwalks over the water", "Largest natural inland lake in Flanders", "Over 100 species of birds breed in the area"],
     },
-    imageHint: "Boardwalk crossing a large natural lake with reeds",
-  },
+    imageHint: "Boardwalk crossing a large natural lake with reeds", image: "/poi-images/belgium-het-vinne-life-v2.webp"},
   {
     id: "belgium-schulensmeer-life-v2",
     type: "lake",
@@ -419,8 +401,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Acoperă 200 de hectare de suprafață de apă", "Loc important pentru vulturul pescar în timpul migrației", "Oferă diverse oportunități pentru sporturi nautice", "Parte a rezervației naturale Schulensbroek"],
       en: ["Covers 200 hectares of water surface", "Key sighting spot for ospreys during migration", "Offers various water sports alongside nature conservation", "Part of the broader Schulensbroek nature area"],
     },
-    imageHint: "Expansive lake surrounded by grassy floodplains",
-  },
+    imageHint: "Expansive lake surrounded by grassy floodplains", image: "/poi-images/belgium-schulensmeer-life-v2.webp"},
   {
     id: "belgium-de-maten-life-v2",
     type: "wildlife",
@@ -459,8 +440,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Acoperă aproximativ 11.000 de hectare", "Găzduiește numeroase mori de apă istorice", "Cunoscut pentru depozitele sale de tuf calcaros", "Loc important pentru stârcul cenușiu"],
       en: ["Covers approximately 11,000 hectares", "Contains numerous historic water mills", "Known for its rare calcareous tufa formations", "Important nesting site for grey herons"],
     },
-    imageHint: "Small river winding through a lush green valley",
-  },
+    imageHint: "Small river winding through a lush green valley", image: "/poi-images/belgium-burdinale-mehaigne-life-v2.webp"},
   {
     id: "belgium-foret-anlier-life-v2",
     type: "forest",
@@ -479,8 +459,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Acoperă peste 27.000 de hectare", "Cea mai mare pădure de foioase din Belgia", "Adăpostește pisici sălbatice rare", "Zonă importantă de protecție pentru gaia roșie"],
       en: ["Spans over 27,000 hectares", "Largest broadleaf forest in Belgium", "Home to rare European wildcats", "Important sanctuary for the red kite"],
     },
-    imageHint: "Deep deciduous forest with sunlight filtering through leaves",
-  },
+    imageHint: "Deep deciduous forest with sunlight filtering through leaves", image: "/poi-images/belgium-foret-anlier-life-v2.webp"},
   {
     id: "belgium-prinsenpark-life-v2",
     type: "park",
@@ -499,8 +478,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Fondat de regele Leopold I", "Cunoscut pentru înflorirea rododendronilor", "Găzduiește o mare colonie de cormorani", "Fost teren experimental pentru silvicultură"],
       en: ["Founded by King Leopold I", "Famous for its vibrant rhododendron bloom", "Home to a large colony of cormorants", "Former experimental site for professional forestry"],
     },
-    imageHint: "Flowering rhododendrons in a wooded park",
-  },
+    imageHint: "Flowering rhododendrons in a wooded park", image: "/poi-images/belgium-prinsenpark-life-v2.webp"},
   {
     id: "belgium-de-zegge-life-v2",
     type: "wildlife",
@@ -539,8 +517,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Cel mai mare parc din provincia Anvers", "Adăpostește un arboretum cu peste 1.000 de specii", "Dispune de un teatru în aer liber", "Inițial a fost un domeniu privat"],
       en: ["Largest park in the Antwerp province", "Houses an arboretum with over 1,000 species", "Features a popular open-air theater", "Originally developed as a private country estate"],
     },
-    imageHint: "Large park with a canal and mature trees",
-  },
+    imageHint: "Large park with a canal and mature trees", image: "/poi-images/belgium-rivierenhof-life-v2.webp"},
   {
     id: "belgium-ghent-botanical-garden-life-v2",
     type: "park",
@@ -559,8 +536,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Fondată în anul 1797", "Deține o seră importantă pentru nufărul Victoria", "Găzduiește o colecție națională de plante suculente", "Situată chiar lângă cartierul artelor din Gent"],
       en: ["Founded in 1797 during the French occupation", "Features a dedicated Victoria amazonica greenhouse", "Home to a national collection of succulent plants", "Located adjacent to Ghent's museum district"],
     },
-    imageHint: "Interior of a greenhouse with giant water lilies",
-  },
+    imageHint: "Interior of a greenhouse with giant water lilies", image: "/poi-images/belgium-ghent-botanical-garden-life-v2.webp"},
   {
     id: "belgium-park-tervuren-life-v2",
     type: "park",
@@ -579,8 +555,7 @@ export const belgiumLifeV2: POI[] = [
       ro: ["Găzduiește Muzeul Regal pentru Africa Centrală", "Parte a unui fost domeniu regal de vânătoare", "Cunoscut pentru aleile sale de platani seculari", "Acoperă peste 200 de hectare"],
       en: ["Home to the Royal Museum for Central Africa", "Part of a former royal hunting estate", "Famous for its ancient plane tree avenues", "Spans more than 200 hectares of diverse terrain"],
     },
-    imageHint: "Formal gardens with ponds and a grand neoclassical building",
-  },
+    imageHint: "Formal gardens with ponds and a grand neoclassical building", image: "/poi-images/belgium-park-tervuren-life-v2.webp"},
   {
     id: "belgium-de-gavers-life-v2",
     type: "lake",

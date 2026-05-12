@@ -19,8 +19,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf din Ucraina", "Parte a masivului Ciornohora", "Prima ascensiune în 1880", "La granița regiunilor Ivano-Frankivsk și Transcarpatia"],
       en: ["Highest peak in Ukraine", "Part of the Chornohora range", "First recorded ascent in 1880", "Located on the border of two regions"],
     },
-    imageHint: "Hoverla mountain peak with Ukrainian flag",
-  },
+    imageHint: "Hoverla mountain peak with Ukrainian flag", image: "/poi-images/ukraine-hoverla-nature-v2.webp"},
   {
     id: "ukraine-synevyr-nature-v2",
     type: "lake",
@@ -39,8 +38,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Cel mai mare lac din Carpații Ucraineni", "Adâncime maximă de 24 de metri", "Format acum aproximativ 10.000 de ani", "Inclus într-un parc național"],
       en: ["Largest lake in Ukrainian Carpathians", "Maximum depth of 24 meters", "Formed about 10,000 years ago", "Part of a National Nature Park"],
     },
-    imageHint: "Lake Synevyr with small island in the middle",
-  },
+    imageHint: "Lake Synevyr with small island in the middle", image: "/poi-images/ukraine-synevyr-nature-v2.webp"},
   {
     id: "ukraine-dnipro-nature-v2",
     type: "river",
@@ -59,8 +57,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Lungime totală de 2201 kilometri", "Al patrulea râu ca lungime din Europa", "Traversează trei țări", "Ruta principală de navigație"],
       en: ["Total length of 2,201 kilometers", "Fourth longest river in Europe", "Flows through three countries", "Major shipping and transport route"],
     },
-    imageHint: "Dnipro river aerial view in Kyiv",
-  },
+    imageHint: "Dnipro river aerial view in Kyiv", image: "/poi-images/ukraine-dnipro-nature-v2.webp"},
   {
     id: "ukraine-dniester-canyon-nature-v2",
     type: "valley",
@@ -79,8 +76,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Una dintre cele șapte minuni ale Ucrainei", "Lungime de aproximativ 250 kilometri", "Guri de canion de până la 200 metri", "Are un microclimat unic"],
       en: ["One of the Seven Wonders of Ukraine", "Length of approximately 250 km", "Cliffs up to 200 meters high", "Features a unique microclimate"],
     },
-    imageHint: "Dniester Canyon river bend aerial view",
-  },
+    imageHint: "Dniester Canyon river bend aerial view", image: "/poi-images/ukraine-dniester-canyon-nature-v2.webp"},
   {
     id: "ukraine-svityaz-nature-v2",
     type: "lake",
@@ -99,8 +95,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Cel mai adânc lac din Ucraina (58 m)", "Parte a Parcului Național Șațk", "Suprafață de 27,5 kilometri pătrați", "Are plaje nisipoase"],
       en: ["Deepest lake in Ukraine (58 meters)", "Part of Shatsky National Park", "Area of 27.5 square kilometers", "Features natural sandy beaches"],
     },
-    imageHint: "Lake Svityaz crystal clear water and beach",
-  },
+    imageHint: "Lake Svityaz crystal clear water and beach", image: "/poi-images/ukraine-svityaz-nature-v2.webp"},
   {
     id: "ukraine-askania-nova-nature-v2",
     type: "park",
@@ -119,8 +114,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Fondată în anul 1894", "Rezervație a biosferei UNESCO", "Cea mai mare stepă virgină din Europa", "Include o grădină botanică"],
       en: ["Established in 1894", "UNESCO Biosphere Reserve", "Largest virgin feather-grass steppe", "Includes a botanical garden and zoo"],
     },
-    imageHint: "Askania-Nova steppe with wild horses",
-  },
+    imageHint: "Askania-Nova steppe with wild horses", image: "/poi-images/ukraine-askania-nova-nature-v2.webp"},
   {
     id: "ukraine-oleshky-sands-nature-v2",
     type: "valley",
@@ -139,8 +133,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Cea mai mare zonă nisipoasă din Europa", "Suprafață de 161 kilometri pătrați", "Dune de nisip de până la 20 de metri", "Climat semi-arid"],
       en: ["Largest sandy expanse in Europe", "Area of 161 square kilometers", "Dunes reach up to 20 meters high", "Characterized by semi-arid climate"],
     },
-    imageHint: "Oleshky Sands desert dunes",
-  },
+    imageHint: "Oleshky Sands desert dunes", image: "/poi-images/ukraine-oleshky-sands-nature-v2.webp"},
   {
     id: "ukraine-shypit-nature-v2",
     type: "landmark",
@@ -159,8 +152,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Înălțime de 14 metri", "Situată în masivul Polonina Borjava", "Locul unui festival hippie anual", "Îngheață parțial pe timp de iarnă"],
       en: ["Height of 14 meters", "Located in the Polonyna Borzhava massif", "Site of an annual hippie festival", "Often partially freezes in winter"],
     },
-    imageHint: "Shypit waterfall in the forest",
-  },
+    imageHint: "Shypit waterfall in the forest", image: "/poi-images/ukraine-shypit-nature-v2.webp"},
   {
     id: "ukraine-pip-ivan-chornohora-nature-v2",
     type: "peak",
@@ -179,8 +171,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Altitudine de 2021 de metri", "Al treilea cel mai înalt munte din Ucraina", "Observatorul 'Elefantul Alb' pe vârf", "Parte a masivului Ciornohora"],
       en: ["Elevation of 2,021 meters", "Third highest mountain in Ukraine", "White Elephant observatory on top", "Part of the Chornohora massif"],
     },
-    imageHint: "Pip Ivan mountain with White Elephant observatory",
-  },
+    imageHint: "Pip Ivan mountain with White Elephant observatory", image: "/poi-images/ukraine-pip-ivan-chornohora-nature-v2.webp"},
   {
     id: "ukraine-dzharylhach-nature-v2",
     type: "landmark",
@@ -199,8 +190,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Cea mai mare insulă a Ucrainei", "Lungime de 42 de kilometri", "Situată în Marea Neagră", "Habitat pentru cerbi și mufloni"],
       en: ["Largest island in Ukraine", "Length of 42 kilometers", "Located in the Black Sea", "Home to wild deer and mouflons"],
     },
-    imageHint: "Dzharylhach island coastline and lighthouse",
-  },
+    imageHint: "Dzharylhach island coastline and lighthouse", image: "/poi-images/ukraine-dzharylhach-nature-v2.webp"},
   {
     id: "ukraine-snake-island-nature-v2",
     type: "landmark",
@@ -219,8 +209,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Suprafață de 0,17 km pătrați", "Formată din roci calcaroase", "Numele antic era 'Insula lui Ahile'", "La 35 km distanță de coastă"],
       en: ["Area of 0.17 square kilometers", "Composed of limestone cliffs", "Ancient name was 'Island of Achilles'", "Located 35 km from the mainland"],
     },
-    imageHint: "Snake Island Zmiinyi aerial view",
-  },
+    imageHint: "Snake Island Zmiinyi aerial view", image: "/poi-images/ukraine-snake-island-nature-v2.webp"},
   {
     id: "ukraine-tuzly-lagoons-nature-v2",
     type: "park",
@@ -239,8 +228,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Format din 13 lagune sărate", "Rută majoră de migrație a păsărilor", "Situat în regiunea Odesa", "Suprafață de peste 270 km²"],
       en: ["Consists of 13 salt lagoons", "Major bird migration route", "Located in the Odesa region", "Area of over 270 square kilometers"],
     },
-    imageHint: "Tuzly Lagoons national park aerial view",
-  },
+    imageHint: "Tuzly Lagoons national park aerial view", image: "/poi-images/ukraine-tuzly-lagoons-nature-v2.webp"},
   {
     id: "ukraine-petros-nature-v2",
     type: "peak",
@@ -259,8 +247,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Altitudine de 2020 de metri", "Destinație populară pentru alpiniști", "Parte a masivului Ciornohora", "Oferă o panoramă superbă asupra Carpaților"],
       en: ["Elevation of 2,020 meters", "Popular destination for mountain climbers", "Part of the Chornohora massif", "Offers a panoramic view of the Carpathians"],
     },
-    imageHint: "Mount Petros peak in winter",
-  },
+    imageHint: "Mount Petros peak in winter", image: "/poi-images/ukraine-petros-nature-v2.webp"},
   {
     id: "ukraine-southern-bug-nature-v2",
     type: "river",
@@ -279,8 +266,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Lungime totală de 806 kilometri", "Curge exclusiv în Ucraina", "Popular pentru rafting", "Se varsă în Limanul Nipru-Bug"],
       en: ["Total length of 806 kilometers", "Flows exclusively through Ukraine", "Popular location for river rafting", "Emptying into the Dnieper-Bug Estuary"],
     },
-    imageHint: "Southern Bug river rapids and rocks",
-  },
+    imageHint: "Southern Bug river rapids and rocks", image: "/poi-images/ukraine-southern-bug-nature-v2.webp"},
   {
     id: "ukraine-aktove-canyon-nature-v2",
     type: "valley",
@@ -299,8 +285,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Format din granit vechi de 4 miliarde ani", "Adâncime de până la 50 de metri", "Parte a Parcului Național Buzkiy Hard", "Ecosistem unic în zona de stepă"],
       en: ["Composed of 4-billion-year-old granite", "Depth of up to 50 meters", "Part of the Buzkiy Hard National Park", "Unique ecosystem within the steppe"],
     },
-    imageHint: "Aktove Canyon granite rocks and river",
-  },
+    imageHint: "Aktove Canyon granite rocks and river", image: "/poi-images/ukraine-aktove-canyon-nature-v2.webp"},
   {
     id: "ukraine-vorozheska-nature-v2",
     type: "lake",
@@ -319,8 +304,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Situat la o altitudine de 1460 m", "De origine glaciară", "Compus din două lacuri mici", "Aflat în munții Svîdoveț"],
       en: ["Located at 1,460 meters altitude", "Formed by glacial activity", "Consists of two separate basins", "Situated in the Svydovets range"],
     },
-    imageHint: "Vorozheska mountain lake aerial view",
-  },
+    imageHint: "Vorozheska mountain lake aerial view", image: "/poi-images/ukraine-vorozheska-nature-v2.webp"},
   {
     id: "ukraine-nesamovyte-nature-v2",
     type: "lake",
@@ -339,8 +323,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Altitudine de 1750 de metri", "Adâncime maximă de 2,5 metri", "Îngheață complet pe timp de iarnă", "Parte a masivului Ciornohora"],
       en: ["Altitude of 1,750 meters", "Maximum depth of 2.5 meters", "Freezes completely during winter", "Located in the Chornohora range"],
     },
-    imageHint: "Nesamovyte lake in the mountains",
-  },
+    imageHint: "Nesamovyte lake in the mountains", image: "/poi-images/ukraine-nesamovyte-nature-v2.webp"},
   {
     id: "ukraine-brebeneskul-peak-nature-v2",
     type: "peak",
@@ -359,8 +342,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Altitudine de 2035 de metri", "Al doilea cel mai înalt vârf din țară", "Pereți stâncoși abrupți pe versantul nordic", "Parte a masivului Ciornohora"],
       en: ["Elevation of 2,035 meters", "Second highest mountain in Ukraine", "Steep rocky cliffs on its northern side", "Part of the Chornohora massif"],
     },
-    imageHint: "Mount Brebeneskul peak and lake",
-  },
+    imageHint: "Mount Brebeneskul peak and lake", image: "/poi-images/ukraine-brebeneskul-peak-nature-v2.webp"},
   {
     id: "ukraine-desna-nature-v2",
     type: "river",
@@ -379,8 +361,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Lungime totală de 1130 kilometri", "Cel mai mare afluent de stânga al Niprului", "Nu are baraje pe teritoriul Ucrainei", "Bogată în diverse specii de pești"],
       en: ["Total length of 1,130 kilometers", "Largest left tributary of the Dnipro", "Has no dams on the Ukrainian section", "Highly diverse fish population"],
     },
-    imageHint: "Desna river floodplains aerial view",
-  },
+    imageHint: "Desna river floodplains aerial view", image: "/poi-images/ukraine-desna-nature-v2.webp"},
   {
     id: "ukraine-danube-delta-nature-v2",
     type: "park",
@@ -399,8 +380,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Patrimoniu Mondial UNESCO", "Peste 300 de specii de păsări", "Include monumentul 'Kilometrul Zero'", "Rezervație importantă a biosferei"],
       en: ["UNESCO World Natural Heritage site", "Home to over 300 bird species", "Features the Zero Kilometer monument", "Significant biosphere reserve"],
     },
-    imageHint: "Danube Delta canals and pelicans",
-  },
+    imageHint: "Danube Delta canals and pelicans", image: "/poi-images/ukraine-danube-delta-nature-v2.webp"},
   {
     id: "ukraine-kinburn-spit-nature-v2",
     type: "park",
@@ -419,8 +399,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 40 km", "Cea mai mare zonă cu orhidee din Europa", "Loc important de cuibărit pentru pelicani", "Compus în principal din nisip și păduri"],
       en: ["Length of approximately 40 kilometers", "Largest field of wild orchids in Europe", "Important nesting ground for pelicans", "Composed mainly of sand dunes and forests"],
     },
-    imageHint: "Kinburn Spit sandy beach and sea",
-  },
+    imageHint: "Kinburn Spit sandy beach and sea", image: "/poi-images/ukraine-kinburn-spit-nature-v2.webp"},
   {
     id: "ukraine-syvash-nature-v2",
     type: "lake",
@@ -439,8 +418,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Salinitate extrem de ridicată", "Suprafață de 2500 kilometri pătrați", "Adâncime medie de doar 1 metru", "Folosit pentru extracția sării"],
       en: ["Extremely high salt concentration", "Total area of 2,500 square kilometers", "Average depth of only 1 meter", "Used for commercial salt production"],
     },
-    imageHint: "Syvash pink lake aerial view",
-  },
+    imageHint: "Syvash pink lake aerial view", image: "/poi-images/ukraine-syvash-nature-v2.webp"},
   {
     id: "ukraine-bakota-nature-v2",
     type: "valley",
@@ -459,8 +437,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Fostul sat a fost inundat în 1981", "Parte a Parcului Podilski Tovtri", "Include o veche mănăstire în stâncă", "Apă foarte limpede"],
       en: ["Former village was flooded in 1981", "Part of the Podilski Tovtry Park", "Features an ancient rock monastery", "Known for its very clear water"],
     },
-    imageHint: "Bakota bay Dniester river and cliffs",
-  },
+    imageHint: "Bakota bay Dniester river and cliffs", image: "/poi-images/ukraine-bakota-nature-v2.webp"},
   {
     id: "ukraine-probiy-nature-v2",
     type: "landmark",
@@ -479,8 +456,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Înălțime de aproximativ 8 metri", "Situată pe râul Prut", "Aflată în centrul orașului Iaremce", "Debit de apă foarte ridicat"],
       en: ["Height of approximately 8 meters", "Located on the Prut River", "Situated in the center of Yaremche", "High volume of water flow"],
     },
-    imageHint: "Probiy waterfall Yaremche bridge view",
-  },
+    imageHint: "Probiy waterfall Yaremche bridge view", image: "/poi-images/ukraine-probiy-nature-v2.webp"},
   {
     id: "ukraine-pip-ivan-marmaros-nature-v2",
     type: "peak",
@@ -499,8 +475,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Altitudine de 1936 de metri", "Situat chiar pe granița de stat", "Parte a masivului Maramureș", "Renumit pentru pajiștile alpine"],
       en: ["Elevation of 1,936 meters", "Located exactly on the state border", "Part of the Marmaros massif", "Known for its alpine meadows"],
     },
-    imageHint: "Pip Ivan Marmaros mountain landscape",
-  },
+    imageHint: "Pip Ivan Marmaros mountain landscape", image: "/poi-images/ukraine-pip-ivan-marmaros-nature-v2.webp"},
   {
     id: "ukraine-tysa-nature-v2",
     type: "river",
@@ -519,8 +494,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Lungime totală de 966 kilometri", "Cel mai mare afluent al Dunării", "Izvorăște lângă Rahiv", "Râu de frontieră pentru cinci țări"],
       en: ["Total length of 966 kilometers", "Largest tributary of the Danube", "Source located near Rakhiv", "Border river for five nations"],
     },
-    imageHint: "Tysa river in the Carpathian mountains",
-  },
+    imageHint: "Tysa river in the Carpathian mountains", image: "/poi-images/ukraine-tysa-nature-v2.webp"},
   {
     id: "ukraine-yalpuh-nature-v2",
     type: "lake",
@@ -539,8 +513,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Suprafață de 149 kilometri pătrați", "Cel mai mare lac natural din Ucraina", "Lungime de aproximativ 39 km", "Situat în regiunea Bugeac"],
       en: ["Surface area of 149 square kilometers", "Largest natural lake in Ukraine", "Length of approximately 39 km", "Located in the Budjak region"],
     },
-    imageHint: "Lake Yalpuh aerial view sunset",
-  },
+    imageHint: "Lake Yalpuh aerial view sunset", image: "/poi-images/ukraine-yalpuh-nature-v2.webp"},
   {
     id: "ukraine-stone-village-nature-v2",
     type: "park",
@@ -559,8 +532,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Rezervație geologică", "Blocuri gigantice de origine glaciară", "Suprafață de 15 hectare", "Stâncile seamănă cu structura unui sat"],
       en: ["Geological nature reserve", "Massive glacial erratic boulders", "Covers an area of 15 hectares", "Rocks resemble a village layout"],
     },
-    imageHint: "Stone Village Zhytomyr giant boulders in forest",
-  },
+    imageHint: "Stone Village Zhytomyr giant boulders in forest", image: "/poi-images/ukraine-stone-village-nature-v2.webp"},
   {
     id: "ukraine-manyava-nature-v2",
     type: "landmark",
@@ -579,8 +551,7 @@ export const ukraineNatureV2: POI[] = [
       ro: ["Înălțime de 20 de metri", "Situată pe râul Maniavka", "Aflată într-un canion adânc", "Lângă satul Maniava"],
       en: ["Height of 20 meters", "Located on the Manyavka River", "Situated in a deep gorge", "Near the village of Manyava"],
     },
-    imageHint: "Manyava waterfall in the mountains",
-  },
+    imageHint: "Manyava waterfall in the mountains", image: "/poi-images/ukraine-manyava-nature-v2.webp"},
   {
     id: "ukraine-blyznytsya-nature-v2",
     type: "peak",

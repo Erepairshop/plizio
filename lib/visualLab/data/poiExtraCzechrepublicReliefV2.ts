@@ -19,8 +19,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1603 metri", "Munții: Karkonosze", "Granița cu Polonia", "Accesibil prin telecabină"],
       en: ["Elevation: 1,603 meters", "Range: Giant Mountains", "Border with Poland", "Accessible by cable car"],
     },
-    imageHint: "Snezka peak with chapel and post office building",
-  },
+    imageHint: "Snezka peak with chapel and post office building", image: "/poi-images/czechrepublic-snezka-relief-v2.webp"},
   {
     id: "czechrepublic-praded-relief-v2",
     type: "peak",
@@ -39,8 +38,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1491 metri", "Munții: Jeseníky", "Turn TV de 162 metri", "Cel mai înalt vârf din Moravia"],
       en: ["Elevation: 1,491 meters", "Range: Hruby Jesenik", "162-meter TV tower", "Highest mountain in Moravia"],
     },
-    imageHint: "Praded mountain peak with TV tower",
-  },
+    imageHint: "Praded mountain peak with TV tower", image: "/poi-images/czechrepublic-praded-relief-v2.webp"},
   {
     id: "czechrepublic-lysa-hora-relief-v2",
     type: "peak",
@@ -59,8 +57,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1323 metri", "Munții: Beskizi", "Stație meteorologică", "Vedere spre Munții Tatra"],
       en: ["Elevation: 1,323 meters", "Range: Beskids", "Meteorological station", "Views of the High Tatras"],
     },
-    imageHint: "Lysa hora summit with meteorological station",
-  },
+    imageHint: "Lysa hora summit with meteorological station", image: "/poi-images/czechrepublic-lysa-hora-relief-v2.webp"},
   {
     id: "czechrepublic-klinovec-relief-v2",
     type: "peak",
@@ -79,8 +76,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1244 metri", "Munții: Metaliferi", "Turn de observație", "Stațiune de schi"],
       en: ["Elevation: 1,244 meters", "Range: Ore Mountains", "Observation tower on top", "Popular ski resort"],
     },
-    imageHint: "Klinovec peak with lookout tower and transmitter",
-  },
+    imageHint: "Klinovec peak with lookout tower and transmitter", image: "/poi-images/czechrepublic-klinovec-relief-v2.webp"},
   {
     id: "czechrepublic-milesovka-relief-v2",
     type: "peak",
@@ -99,8 +95,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 837 metri", "Munții Centrali Boemi", "Cel mai vântos loc din Cehia", "Origine vulcanică"],
       en: ["Elevation: 837 meters", "Range: Central Bohemian Uplands", "Windiest place in CZ", "Volcanic origin"],
     },
-    imageHint: "Milesovka mountain with observatory on top",
-  },
+    imageHint: "Milesovka mountain with observatory on top", image: "/poi-images/czechrepublic-milesovka-relief-v2.webp"},
   {
     id: "czechrepublic-velka-destna-relief-v2",
     type: "peak",
@@ -119,8 +114,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1115 metri", "Munții: Orlické", "Turn de observație nou", "Boemia de Est"],
       en: ["Elevation: 1,115 meters", "Range: Eagle Mountains", "Observation tower built 2019", "Highest point of the range"],
     },
-    imageHint: "Velka Destna observation tower on forest peak",
-  },
+    imageHint: "Velka Destna observation tower on forest peak", image: "/poi-images/czechrepublic-velka-destna-relief-v2.webp"},
   {
     id: "czechrepublic-plechy-relief-v2",
     type: "peak",
@@ -139,8 +133,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1378 metri", "Pădurea Boemiei", "Granița cu Austria", "Lacul glaciar Plesne"],
       en: ["Elevation: 1,378 meters", "Range: Bohemian Forest", "Border with Austria", "Glacial lake nearby"],
     },
-    imageHint: "Plechy mountain peak overlooking glacial lake",
-  },
+    imageHint: "Plechy mountain peak overlooking glacial lake", image: "/poi-images/czechrepublic-plechy-relief-v2.webp"},
   {
     id: "czechrepublic-smrk-relief-v2",
     type: "peak",
@@ -159,8 +152,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1124 metri", "Munții: Jizera", "Granița cu Polonia", "Turn de 20 metri"],
       en: ["Elevation: 1,124 meters", "Range: Jizera Mountains", "Near Polish border", "20-meter lookout tower"],
     },
-    imageHint: "Smrk mountain peak with steel tower",
-  },
+    imageHint: "Smrk mountain peak with steel tower", image: "/poi-images/czechrepublic-smrk-relief-v2.webp"},
   {
     id: "czechrepublic-luz-relief-v2",
     type: "peak",
@@ -179,8 +171,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 793 metri", "Munții: Lusacia", "Granița cu Germania", "Con vulcanic"],
       en: ["Elevation: 793 meters", "Range: Lusatian Mountains", "Border with Germany", "Volcanic phonolite cone"],
     },
-    imageHint: "Luz mountain peak on Czech-German border",
-  },
+    imageHint: "Luz mountain peak on Czech-German border", image: "/poi-images/czechrepublic-luz-relief-v2.webp"},
   {
     id: "czechrepublic-devet-skal-relief-v2",
     type: "peak",
@@ -199,8 +190,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 836 metri", "Munții: Žďárské", "Formațiuni stâncoase", "Podișul Boemo-Morav"],
       en: ["Elevation: 836 meters", "Range: Zdarske vrchy", "Distinct rock towers", "Bohemian-Moravian Highlands"],
     },
-    imageHint: "Devet skal rock formations on mountain top",
-  },
+    imageHint: "Devet skal rock formations on mountain top", image: "/poi-images/czechrepublic-devet-skal-relief-v2.webp"},
   {
     id: "czechrepublic-velka-javorina-relief-v2",
     type: "peak",
@@ -219,8 +209,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 970 metri", "Carpații Albi", "Granița cu Slovacia", "Punct de întâlnire cultural"],
       en: ["Elevation: 970 meters", "Range: White Carpathians", "Border with Slovakia", "TV transmitter on top"],
     },
-    imageHint: "Velka Javorina peak with transmitter at sunset",
-  },
+    imageHint: "Velka Javorina peak with transmitter at sunset", image: "/poi-images/czechrepublic-velka-javorina-relief-v2.webp"},
   {
     id: "czechrepublic-tok-relief-v2",
     type: "peak",
@@ -239,8 +228,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 865 metri", "Munții: Brdy", "Fost poligon militar", "Vârf de tip platou"],
       en: ["Elevation: 865 meters", "Range: Brdy Highlands", "Former military zone", "Plateau-like summit"],
     },
-    imageHint: "Tok mountain plateau in Brdy forest",
-  },
+    imageHint: "Tok mountain plateau in Brdy forest", image: "/poi-images/czechrepublic-tok-relief-v2.webp"},
   {
     id: "czechrepublic-radhost-relief-v2",
     type: "peak",
@@ -259,8 +247,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1129 metri", "Munții: Beskizi", "Statuia lui Radegast", "Loc de pelerinaj"],
       en: ["Elevation: 1,129 meters", "Range: Beskids", "Radegast statue", "Pilgrimage site"],
     },
-    imageHint: "Radhost mountain with Radegast statue",
-  },
+    imageHint: "Radhost mountain with Radegast statue", image: "/poi-images/czechrepublic-radhost-relief-v2.webp"},
   {
     id: "czechrepublic-serak-relief-v2",
     type: "peak",
@@ -279,8 +266,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Altitudine: 1351 metri", "Munții: Jeseníky", "Cabană din 1888", "Telescaun din Ramzová"],
       en: ["Elevation: 1,351 meters", "Range: Hruby Jesenik", "Chalet built in 1888", "Chairlift from Ramzova"],
     },
-    imageHint: "Serak mountain chalet in winter",
-  },
+    imageHint: "Serak mountain chalet in winter", image: "/poi-images/czechrepublic-serak-relief-v2.webp"},
   {
     id: "czechrepublic-rip-relief-v2",
     type: "landmark",
@@ -299,8 +285,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Înălțime: 456 metri", "Deal de origine bazaltică", "Rotonda Sf. Gheorghe", "Simbol național"],
       en: ["Height: 456 meters", "Basalt erosion remnant", "St. George Rotunda", "National symbol"],
     },
-    imageHint: "Mount Rip with rotunda on top",
-  },
+    imageHint: "Mount Rip with rotunda on top", image: "/poi-images/czechrepublic-rip-relief-v2.webp"},
   {
     id: "czechrepublic-pravcicka-brana-relief-v2",
     type: "landmark",
@@ -319,8 +304,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Cea mai mare poartă naturală", "Înălțime: 16 metri", "Deschidere: 26,5 metri", "Elveția Boemă"],
       en: ["Largest arch in Europe", "Height: 16 meters", "Span: 26.5 meters", "Bohemian Switzerland"],
     },
-    imageHint: "Pravcicka brana sandstone arch",
-  },
+    imageHint: "Pravcicka brana sandstone arch", image: "/poi-images/czechrepublic-pravcicka-brana-relief-v2.webp"},
   {
     id: "czechrepublic-podyji-relief-v2",
     type: "valley",
@@ -339,8 +323,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Parcul Național Podyjí", "Râul Thaya", "Meandre spectaculoase", "Granița cu Austria"],
       en: ["Podyji National Park", "River: Thaya", "Canyon-like valley", "Border with Austria"],
     },
-    imageHint: "Thaya river meander in Podyji valley",
-  },
+    imageHint: "Thaya river meander in Podyji valley", image: "/poi-images/czechrepublic-podyji-relief-v2.webp"},
   {
     id: "czechrepublic-palava-relief-v2",
     type: "landmark",
@@ -359,8 +342,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Masiv calcaros", "Rezervație a Biosferei", "Vârful cel mai înalt: Devin", "Regiune viticolă"],
       en: ["Limestone massif", "Biosphere Reserve", "Highest peak: Devin", "Vineyard region"],
     },
-    imageHint: "Palava white limestone hills with castle ruins",
-  },
+    imageHint: "Palava white limestone hills with castle ruins", image: "/poi-images/czechrepublic-palava-relief-v2.webp"},
   {
     id: "czechrepublic-tiske-steny-relief-v2",
     type: "landmark",
@@ -379,8 +361,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Labirint de gresie", "Loc de filmare pentru Narnia", "Forme de eroziune", "Elveția Boemă"],
       en: ["Sandstone labyrinth", "Chronicles of Narnia filming site", "Erosion pillars", "Bohemian Switzerland"],
     },
-    imageHint: "Tisa Walls sandstone rock city",
-  },
+    imageHint: "Tisa Walls sandstone rock city", image: "/poi-images/czechrepublic-tiske-steny-relief-v2.webp"},
   {
     id: "czechrepublic-hruby-jesenik-relief-v2",
     type: "mountain",
@@ -399,8 +380,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Al doilea lanț ca înălțime", "Vârful Praded", "Arie protejată", "Moravia și Silezia"],
       en: ["Second-highest CZ range", "Highest peak: Praded", "Protected landscape area", "Moravian-Silesian border"],
     },
-    imageHint: "Hruby Jesenik mountains panoramic view",
-  },
+    imageHint: "Hruby Jesenik mountains panoramic view", image: "/poi-images/czechrepublic-hruby-jesenik-relief-v2.webp"},
   {
     id: "czechrepublic-krkonose-relief-v2",
     type: "mountain",
@@ -419,8 +399,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Cel mai înalt masiv din Cehia", "Rezervație UNESCO", "Izvorul Elbei", "Granița cu Polonia"],
       en: ["Highest CZ mountain range", "UNESCO Biosphere Reserve", "Source of the Elbe", "Part of the Sudetes"],
     },
-    imageHint: "Giant Mountains ridgeline in summer",
-  },
+    imageHint: "Giant Mountains ridgeline in summer", image: "/poi-images/czechrepublic-krkonose-relief-v2.webp"},
   {
     id: "czechrepublic-ceske-stredohori-relief-v2",
     type: "mountain",
@@ -459,8 +438,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Câmpie fertilă", "Râul Elba", "Cea mai caldă regiune", "Zonă agricolă majoră"],
       en: ["Fertile plain", "Elbe river basin", "Warmest CZ region", "Agricultural heartland"],
     },
-    imageHint: "Elbe lowlands with fertile fields and river",
-  }
+    imageHint: "Elbe lowlands with fertile fields and river", image: "/poi-images/czechrepublic-polabi-relief-v2.webp"}
 ,
   {
     id: "czechrepublic-mount-klet-relief-v2",
@@ -498,8 +476,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Čerchov", "Parte a Masivului Boemian", "Fostă zonă restricționată a Cortinei de Fier", "Habitat important pentru lincși"],
       en: ["Highest peak is Čerchov", "Part of the Bohemian Massif", "Former Iron Curtain restricted zone", "Important habitat for lynx"],
     },
-    imageHint: "Cerchov mountain with lookout tower",
-  },
+    imageHint: "Cerchov mountain with lookout tower", image: "/poi-images/czechrepublic-upper-palatine-forest-relief-v2.webp"},
   {
     id: "czechrepublic-iron-mountains-relief-v2",
     type: "mountain",
@@ -517,8 +494,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Vârful maxim este Vestec", "Statut de geoparc UNESCO", "Exploatare istorică de minereu de fier", "Adăpostește barajul Seč"],
       en: ["Highest peak is Vestec", "UNESCO Geopark status", "Historical iron ore mining", "Home to the Seč reservoir"],
     },
-    imageHint: "Iron Mountains landscape with Sec dam",
-  },
+    imageHint: "Iron Mountains landscape with Sec dam", image: "/poi-images/czechrepublic-iron-mountains-relief-v2.webp"},
   {
     id: "czechrepublic-chriby-mountains-relief-v2",
     type: "mountain",
@@ -536,8 +512,7 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf este Brdo", "Cunoscut pentru castelul Buchlov", "Bogați în formațiuni de gresie", "Zonă populară de drumeții și alpinism"],
       en: ["Highest peak is Brdo", "Known for the Buchlov Castle", "Rich in bizarre sandstone formations", "Popular hiking and climbing area"],
     },
-    imageHint: "Chriby mountains forest and sandstone rocks",
-  },
+    imageHint: "Chriby mountains forest and sandstone rocks", image: "/poi-images/czechrepublic-chriby-mountains-relief-v2.webp"},
   {
     id: "czechrepublic-hostyn-hills-relief-v2",
     type: "mountain",

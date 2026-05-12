@@ -19,8 +19,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondat în anul 2005", "Statut de zonă economică liberă", "Situat la confluența râului Prut cu Dunărea", "Dispune de terminale petroliere, cerealiere și de containere"],
       en: ["Founded in 2005", "Status of a Free Economic Zone", "Located at the confluence of Prut and Danube", "Features oil, grain, and container terminals"],
     },
-    imageHint: "Giurgiulesti port cranes and grain terminal on the Danube",
-  },
+    imageHint: "Giurgiulesti port cranes and grain terminal on the Danube", image: "/poi-images/moldova-giurgiulesti-port-economic-v2.webp"},
   {
     id: "moldova-fez-balti-economic-v2",
     type: "industry",
@@ -39,8 +38,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Deschisă în anul 2010", "Peste 2000 de hectare suprafață totală", "Atrage investiții din Germania și Japonia", "Focus pe componente auto și electrice"],
       en: ["Opened in 2010", "Over 2000 hectares of total area", "Attracts investments from Germany and Japan", "Focus on automotive and electrical components"],
     },
-    imageHint: "Modern industrial factory buildings in Balti economic zone",
-  },
+    imageHint: "Modern industrial factory buildings in Balti economic zone", image: "/poi-images/moldova-fez-balti-economic-v2.webp"},
   {
     id: "moldova-cricova-winery-economic-v2",
     type: "industry",
@@ -59,8 +57,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondat în anul 1952", "Labirint subteran de 120 km lungime", "Găzduiește o uriașă colecție de vinuri de stat", "Produce prin metoda clasică franceză"],
       en: ["Founded in 1952", "120 km of underground tunnels", "Houses a massive state wine collection", "Produces using the classical French method"],
     },
-    imageHint: "Underground wine cellar tunnels with oak barrels in Cricova",
-  },
+    imageHint: "Underground wine cellar tunnels with oak barrels in Cricova", image: "/poi-images/moldova-cricova-winery-economic-v2.webp"},
   {
     id: "moldova-cuciurgan-power-station-economic-v2",
     type: "industry",
@@ -79,8 +76,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Construită în anul 1964", "Putere instalată de 2520 MW", "Funcționează pe gaz, cărbune și păcură", "Cel mai important furnizor de energie al țării"],
       en: ["Built in 1964", "Installed capacity of 2520 MW", "Operates on natural gas, coal, and oil", "Main energy supplier for the country"],
     },
-    imageHint: "Large industrial power plant with chimneys near a lake",
-  },
+    imageHint: "Large industrial power plant with chimneys near a lake", image: "/poi-images/moldova-cuciurgan-power-station-economic-v2.webp"},
   {
     id: "moldova-bucuria-factory-economic-v2",
     type: "factory",
@@ -99,8 +95,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1946", "Produce peste 450 de tipuri de dulciuri", "Are aproximativ 1500 de angajați", "Lider de piață pentru ciocolată și caramel"],
       en: ["Founded in 1946", "Produces over 450 types of sweets", "Employs around 1500 people", "Market leader for chocolate and caramel"],
     },
-    imageHint: "Bucuria factory logo and candy production line",
-  },
+    imageHint: "Bucuria factory logo and candy production line", image: "/poi-images/moldova-bucuria-factory-economic-v2.webp"},
   {
     id: "moldova-milestii-mici-economic-v2",
     type: "industry",
@@ -119,8 +114,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Record Guinness pentru cea mai mare colecție", "Peste 2 milioane de sticle de vin", "Lungimea totală a galeriilor este de 200 km", "Galeriile sunt parcurse cu mașina"],
       en: ["Guinness World Record for largest collection", "Over 2 million bottles of wine", "Total length of tunnels is 200 km", "The tunnels are navigated by cars"],
     },
-    imageHint: "Underground wine streets with thousands of bottles in racks",
-  },
+    imageHint: "Underground wine streets with thousands of bottles in racks", image: "/poi-images/moldova-milestii-mici-economic-v2.webp"},
   {
     id: "moldova-glass-factory-chisinau-economic-v2",
     type: "factory",
@@ -159,8 +153,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1827", "Furnizor pentru curțile regale din Europa", "Specializată în 'Negru de Purcari'", "Centru modern de turism și export"],
       en: ["Founded in 1827", "Supplier to European royal courts", "Specialized in 'Negru de Purcari'", "Modern tourism and export center"],
     },
-    imageHint: "Purcari winery chateau building and vineyards",
-  },
+    imageHint: "Purcari winery chateau building and vineyards", image: "/poi-images/moldova-purcari-estate-economic-v2.webp"},
   {
     id: "moldova-costesti-stanca-dam-economic-v2",
     type: "industry",
@@ -179,8 +172,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Dat în exploatare în anul 1978", "A doua cea mai mare centrală din țară", "Rezervor cu volum de 735 milioane m³", "Infrastructură transfrontalieră"],
       en: ["Commissioned in 1978", "Second largest power plant in the country", "Reservoir with 735 million m³ volume", "Cross-border infrastructure"],
     },
-    imageHint: "Large concrete dam on the Prut river with water gates",
-  },
+    imageHint: "Large concrete dam on the Prut river with water gates", image: "/poi-images/moldova-costesti-stanca-dam-economic-v2.webp"},
   {
     id: "moldova-fez-ungheni-business-economic-v2",
     type: "industry",
@@ -199,8 +191,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 2002", "Conexiune directă la rețeaua feroviară UE", "Exportă în principal în România", "Găzduiește peste 40 de companii active"],
       en: ["Founded in 2002", "Direct connection to the EU rail network", "Exports mainly to Romania", "Houses over 40 active companies"],
     },
-    imageHint: "Modern industrial park warehouses near Ungheni border",
-  },
+    imageHint: "Modern industrial park warehouses near Ungheni border", image: "/poi-images/moldova-fez-ungheni-business-economic-v2.webp"},
   {
     id: "moldova-orhei-vit-factory-economic-v2",
     type: "factory",
@@ -219,8 +210,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Exportă în peste 25 de țări", "Procesează anual 50.000 tone de fructe", "Deține propriile livezi", "Utilizează linii moderne de îmbuteliere Tetra Pak"],
       en: ["Exports to over 25 countries", "Processes 50,000 tons of fruit annually", "Owns its own fruit orchards", "Uses modern Tetra Pak bottling lines"],
     },
-    imageHint: "Fruit juice production line in a modern factory",
-  },
+    imageHint: "Fruit juice production line in a modern factory", image: "/poi-images/moldova-orhei-vit-factory-economic-v2.webp"},
   {
     id: "moldova-dubasari-dam-economic-v2",
     type: "industry",
@@ -239,8 +229,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Construit în anul 1954", "Prima centrală mare din Moldova", "Putere instalată de 48 MW", "Formează rezervorul Dubăsari"],
       en: ["Built in 1954", "First major power plant in Moldova", "Installed capacity of 48 MW", "Forms the Dubăsari reservoir"],
     },
-    imageHint: "Hydroelectric dam with water flowing through spillways",
-  },
+    imageHint: "Hydroelectric dam with water flowing through spillways", image: "/poi-images/moldova-dubasari-dam-economic-v2.webp"},
   {
     id: "moldova-floare-carpet-economic-v2",
     type: "factory",
@@ -259,8 +248,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1978", "Folosește lână 100% naturală", "Furnizor pentru aeroporturi internaționale", "Deține certificarea de calitate Woolmark"],
       en: ["Founded in 1978", "Uses 100% natural wool", "Supplier to international airports", "Holds the Woolmark quality certification"],
     },
-    imageHint: "Large industrial carpet weaving looms in a factory",
-  },
+    imageHint: "Large industrial carpet weaving looms in a factory", image: "/poi-images/moldova-floare-carpet-economic-v2.webp"},
   {
     id: "moldova-zorile-shoe-factory-economic-v2",
     type: "factory",
@@ -279,8 +267,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1945", "Colaborări cu branduri din UE", "Cel mai mare producător de pantofi din țară", "Gestionează propriul centru comercial"],
       en: ["Founded in 1945", "Collaborations with EU brands", "Largest shoe producer in the country", "Operates its own shopping center"],
     },
-    imageHint: "Leather shoes production and assembly line",
-  },
+    imageHint: "Leather shoes production and assembly line", image: "/poi-images/moldova-zorile-shoe-factory-economic-v2.webp"},
   {
     id: "moldova-fez-tvardita-economic-v2",
     type: "industry",
@@ -299,8 +286,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1996", "Centru pentru producția de divin", "Angajator important pentru regiune", "Focus pe piețele de export din est"],
       en: ["Founded in 1996", "Center for brandy production", "Important employer for the region", "Focus on eastern export markets"],
     },
-    imageHint: "Industrial distillery units in a rural setting",
-  },
+    imageHint: "Industrial distillery units in a rural setting", image: "/poi-images/moldova-fez-tvardita-economic-v2.webp"},
   {
     id: "moldova-fez-valcanes-economic-v2",
     type: "industry",
@@ -319,8 +305,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1998", "Situată în orașul Vulcănești", "Produce plase și articole textile", "Facilități fiscale pentru investitorii străini"],
       en: ["Founded in 1998", "Located in the town of Vulcănești", "Produces nets and textile goods", "Tax incentives for foreign investors"],
     },
-    imageHint: "Textile factory buildings in a southern economic zone",
-  },
+    imageHint: "Textile factory buildings in a southern economic zone", image: "/poi-images/moldova-fez-valcanes-economic-v2.webp"},
   {
     id: "moldova-cosauti-stone-quarry-economic-v2",
     type: "mine",
@@ -359,8 +344,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Exploatare industrială la suprafață", "Importantă pentru infrastructura locală", "Produce pietriș și blocuri de calcar", "Utilaje moderne de extracție în funcțiune"],
       en: ["Industrial open-cast mining", "Important for local infrastructure", "Supplies crushed stone and limestone blocks", "Modern extraction machinery in use"],
     },
-    imageHint: "Large limestone quarry with terraced excavation walls",
-  },
+    imageHint: "Large limestone quarry with terraced excavation walls", image: "/poi-images/moldova-micauti-limestone-quarry-economic-v2.webp"},
   {
     id: "moldova-chateau-vartely-economic-v2",
     type: "industry",
@@ -399,8 +383,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Primul castel adevărat din Moldova", "Fondat la sfârșitul secolului al XIX-lea", "Gazdă pentru summit-uri internaționale", "Capacități mari de export de vin"],
       en: ["The first true castle in Moldova", "Founded in the late 19th century", "Host for international summits", "Large wine export capacities"],
     },
-    imageHint: "Renovated historic wine castle with gardens and fountains",
-  },
+    imageHint: "Renovated historic wine castle with gardens and fountains", image: "/poi-images/moldova-castel-mimi-economic-v2.webp"},
   {
     id: "moldova-fez-expo-business-chisinau-v2",
     type: "industry",
@@ -419,8 +402,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Deschisă în anul 1995", "Centru pentru IT și logistică", "Găzduiește fabrici de textile și tipografii", "Locație atractivă lângă aeroport"],
       en: ["Opened in 1995", "Center for IT and logistics", "Houses textile and printing companies", "Attractive location near the airport"],
     },
-    imageHint: "Industrial office buildings and warehouses in Chisinau",
-  },
+    imageHint: "Industrial office buildings and warehouses in Chisinau", image: "/poi-images/moldova-fez-expo-business-chisinau-v2.webp"},
   {
     id: "moldova-soroca-fruit-cluster-economic-v2",
     type: "industry",
@@ -439,8 +421,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Centrul producției de mere din Moldova", "Dispune de centre logistice moderne", "Exportă fructe uscate în întreaga lume", "Baza cooperativelor agricole regionale"],
       en: ["Center of Moldovan apple production", "Features modern logistics centers", "Exports dried fruits worldwide", "Base for regional farming cooperatives"],
     },
-    imageHint: "Industrial fruit sorting and packaging facility",
-  },
+    imageHint: "Industrial fruit sorting and packaging facility", image: "/poi-images/moldova-soroca-fruit-cluster-economic-v2.webp"},
   {
     id: "moldova-mesterul-furniture-economic-v2",
     type: "factory",
@@ -459,8 +440,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Specializată în prelucrarea lemnului", "Centru de design mare integrat", "Lucrează cu materii prime sustenabile", "Furnizor de mobilier de birou și casă"],
       en: ["Specialized in woodworking", "Large integrated design center", "Works with sustainable raw materials", "Supplier of office and home furniture"],
     },
-    imageHint: "Modern furniture production workshop with wood panels",
-  },
+    imageHint: "Modern furniture production workshop with wood panels", image: "/poi-images/moldova-mesterul-furniture-economic-v2.webp"},
   {
     id: "moldova-steaua-reds-textile-v2",
     type: "factory",
@@ -479,8 +459,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în perioada sovietică", "Modernizată cu tehnologie italiană", "Specializată în tricotaje din lână", "Focus pe exportul către piața UE"],
       en: ["Founded in the Soviet era", "Modernized with Italian technology", "Specialized in wool knitwear", "Export focus on the EU market"],
     },
-    imageHint: "Industrial knitting machines in a textile factory",
-  },
+    imageHint: "Industrial knitting machines in a textile factory", image: "/poi-images/moldova-steaua-reds-textile-v2.webp"},
   {
     id: "moldova-fez-otaci-business-v2",
     type: "industry",
@@ -499,8 +478,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1998", "Focus pe logistică și ambalare", "Locație strategică pe râul Nistru", "Atrage investiții comerciale regionale"],
       en: ["Founded in 1998", "Focus on logistics and packaging", "Strategic location on the Dniester river", "Attracts regional trade investments"],
     },
-    imageHint: "Trucks and warehouses at a northern border economic zone",
-  },
+    imageHint: "Trucks and warehouses at a northern border economic zone", image: "/poi-images/moldova-fez-otaci-business-v2.webp"},
   {
     id: "moldova-fez-taraclia-economic-v2",
     type: "industry",
@@ -519,8 +497,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Specializare în plăci ceramice", "Fondată în anul 1998", "Importantă pentru minoritatea bulgară", "Exportă materiale de construcții în regiune"],
       en: ["Specialization in ceramic floor tiles", "Founded in 1998", "Important for the Bulgarian minority", "Exports construction materials to the region"],
     },
-    imageHint: "Ceramic tile production factory in southern Moldova",
-  },
+    imageHint: "Ceramic tile production factory in southern Moldova", image: "/poi-images/moldova-fez-taraclia-economic-v2.webp"},
   {
     id: "moldova-chisinau-airport-hub-v2",
     type: "landmark",
@@ -539,8 +516,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Poarta către piața internațională", "Terminale de marfă extinse", "Sector de pasageri și business modernizat", "Angajator major în sectorul serviciilor"],
       en: ["Gateway to the international market", "Extensive freight terminals", "Modernized passenger and business sector", "Important employer in the service sector"],
     },
-    imageHint: "Modern airport terminal and cargo facility at sunset",
-  },
+    imageHint: "Modern airport terminal and cargo facility at sunset", image: "/poi-images/moldova-chisinau-airport-hub-v2.webp"},
   {
     id: "moldova-ionel-clothing-factory-v2",
     type: "factory",
@@ -559,8 +535,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1945", "Produce pentru branduri precum Armani", "Certificată conform standardelor ISO", "Cea mai mare croitorie din țară"],
       en: ["Founded in 1945", "Produces for brands like Armani", "Certified according to ISO standards", "Largest tailoring facility in the country"],
     },
-    imageHint: "Textile sewing machines and suits on racks in a factory",
-  },
+    imageHint: "Textile sewing machines and suits on racks in a factory", image: "/poi-images/moldova-ionel-clothing-factory-v2.webp"},
   {
     id: "moldova-tirotex-textile-complex-v2",
     type: "factory",
@@ -579,8 +554,7 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Peste 3000 de angajați", "Specializat în lenjerie de pat și fețe de masă", "Utilizează războaie de țesut europene moderne", "Mare exportator pe piața UE"],
       en: ["Over 3000 employees", "Specialized in bed linen and tablecloths", "Uses modern European weaving looms", "Major exporter to the EU market"],
     },
-    imageHint: "Massive industrial textile factory hall with machinery",
-  },
+    imageHint: "Massive industrial textile factory hall with machinery", image: "/poi-images/moldova-tirotex-textile-complex-v2.webp"},
   {
     id: "moldova-cahul-cannery-economic-v2",
     type: "factory",

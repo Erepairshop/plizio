@@ -19,8 +19,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Construcție desfășurată între 1506 și 1626", "Cupola lui Michelangelo atinge 136,5 metri", "Cea mai mare biserică creștină din lume", "Se sprijină pe fundațiile bazilicii constantiniene"],
       en: ["Construction lasted from 1506 to 1626", "Michelangelo's dome reaches 136.5 meters", "Largest Christian church building in the world", "Rests on the foundations of the Constantinian basilica"],
     },
-    imageHint: "St. Peter's Basilica exterior facade and dome",
-  },
+    imageHint: "St. Peter's Basilica exterior facade and dome", image: "/poi-images/vatican-st-peters-basilica-history-v2.webp"},
   {
     id: "vatican-st-peters-square-history-v2",
     type: "landmark",
@@ -39,8 +38,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Construită între 1656 și 1667", "Include 284 de coloane dorice", "Centrul este marcat de un obelisc egiptean antic", "Capacitate de până la 300.000 de persoane"],
       en: ["Built between 1656 and 1667", "Features 284 Doric columns", "Center holds an ancient Egyptian obelisk", "Capacity for up to 300,000 people"],
     },
-    imageHint: "St. Peter's Square aerial view with colonnades",
-  },
+    imageHint: "St. Peter's Square aerial view with colonnades", image: "/poi-images/vatican-st-peters-square-history-v2.webp"},
   {
     id: "vatican-raphael-rooms-history-v2",
     type: "museum",
@@ -59,8 +57,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Include celebra frescă 'Școala din Atena'", "Frescele au fost realizate începând cu 1508", "Constă în patru încăperi distincte", "Considerate culmea Înaltei Renașteri"],
       en: ["Includes the famous 'School of Athens'", "Frescoes were created starting in 1508", "Consists of four distinct rooms", "Considered a peak of the High Renaissance"],
     },
-    imageHint: "Raphael Rooms School of Athens fresco",
-  },
+    imageHint: "Raphael Rooms School of Athens fresco", image: "/poi-images/vatican-raphael-rooms-history-v2.webp"},
   {
     id: "vatican-vatican-necropolis-history-v2",
     type: "ruins",
@@ -79,8 +76,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Descoperită în timpul săpăturilor din 1940–1949", "Conține Trofeul lui Gaius", "A fost cândva parte a Circului lui Caligula", "Accesibilă doar cu permisiune specială"],
       en: ["Discovered during excavations in 1940–1949", "Contains the Trophy of Gaius", "Once part of the Circus of Caligula", "Accessible only with special permission"],
     },
-    imageHint: "Vatican Necropolis ancient tombs underground",
-  },
+    imageHint: "Vatican Necropolis ancient tombs underground", image: "/poi-images/vatican-vatican-necropolis-history-v2.webp"},
   {
     id: "vatican-casino-pius-iv-history-v2",
     type: "palace",
@@ -99,8 +95,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Proiectată de Pirro Ligorio în 1558", "Constă în două clădiri opuse", "Fațade bogat decorate cu reliefuri", "Situată în mijlocul grădinilor vaticane"],
       en: ["Designed by Pirro Ligorio in 1558", "Consists of two opposing buildings", "Richly decorated facades with reliefs", "Located in the heart of the Vatican Gardens"],
     },
-    imageHint: "Casina di Pio IV vatican gardens",
-  },
+    imageHint: "Casina di Pio IV vatican gardens", image: "/poi-images/vatican-casino-pius-iv-history-v2.webp"},
   {
     id: "vatican-st-peters-obelisk-history-v2",
     type: "monument",
@@ -119,8 +114,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Adus la Roma de Caligula în anul 37 d.Hr.", "Mutat în 1586 de Domenico Fontana", "Înălțime de 25,5 metri fără piedestal", "A servit drept marcaj în Circul lui Nero"],
       en: ["Brought to Rome by Caligula in 37 AD", "Moved in 1586 by Domenico Fontana", "Height of 25.5 meters without pedestal", "Served as a turning post in Nero's Circus"],
     },
-    imageHint: "Vatican Obelisk center of St Peter Square",
-  },
+    imageHint: "Vatican Obelisk center of St Peter Square", image: "/poi-images/vatican-st-peters-obelisk-history-v2.webp"},
   {
     id: "vatican-sala-regia-history-v2",
     type: "palace",
@@ -139,8 +133,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Începută în 1538 sub Paul al III-lea", "Fresce de Vasari și Zuccari", "Conectată direct cu Capela Sixtină", "Folosită pentru audiențe papale solemne"],
       en: ["Started in 1538 under Paul III", "Frescoes by Vasari and Zuccari", "Connection to the Sistine Chapel", "Used for solemn papal audiences"],
     },
-    imageHint: "Sala Regia Vatican hall frescoes",
-  },
+    imageHint: "Sala Regia Vatican hall frescoes", image: "/poi-images/vatican-sala-regia-history-v2.webp"},
   {
     id: "vatican-scala-regia-history-v2",
     type: "landmark",
@@ -159,8 +152,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Construită între 1663 și 1666", "Folosește colonade convergente", "Statuia lui Constantin cel Mare la bază", "Intrarea oficială pentru vizite de stat"],
       en: ["Built between 1663 and 1666", "Uses converging colonnades", "Statue of Constantine the Great at the foot", "Entrance area for state visits"],
     },
-    imageHint: "Scala Regia Bernini staircase perspective",
-  },
+    imageHint: "Scala Regia Bernini staircase perspective", image: "/poi-images/vatican-scala-regia-history-v2.webp"},
   {
     id: "vatican-borgia-apartments-history-v2",
     type: "palace",
@@ -179,8 +171,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Frescele au fost realizate între 1492 și 1494", "Complexul cuprinde șase săli principale", "A fost puțin utilizat de papii de mai târziu", "Astăzi face parte din colecția de artă religioasă modernă"],
       en: ["Frescoes were painted between 1492 and 1494", "Six main rooms comprise the complex", "Hardly used by later popes", "Now part of the Collection of Modern Religious Art"],
     },
-    imageHint: "Borgia Apartments Pinturicchio frescoes",
-  },
+    imageHint: "Borgia Apartments Pinturicchio frescoes", image: "/poi-images/vatican-borgia-apartments-history-v2.webp"},
   {
     id: "vatican-niccoline-chapel-history-v2",
     type: "church",
@@ -199,8 +190,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Frescele prezintă viața Sf. Ștefan și a Sf. Laurențiu", "Realizată între 1447 și 1449", "Situată în cea mai veche parte a palatului", "Fra Angelico a fost un călugăr dominican"],
       en: ["Frescoes depict the lives of St. Stephen and St. Lawrence", "Created between 1447 and 1449", "Located in the oldest part of the palace", "Fra Angelico was a Dominican friar"],
     },
-    imageHint: "Niccoline Chapel Fra Angelico frescoes",
-  },
+    imageHint: "Niccoline Chapel Fra Angelico frescoes", image: "/poi-images/vatican-niccoline-chapel-history-v2.webp"},
   {
     id: "vatican-tower-of-st-john-history-v2",
     type: "tower",
@@ -219,8 +209,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Construit în secolul al IX-lea sub Leon al IV-lea", "Renovat în secolul al XVI-lea sub Nicolae al V-lea", "Locul întâlnirii dintre Papa Benedict al XVI-lea și George W. Bush", "Oferă vederi panoramice asupra Vaticanului"],
       en: ["Built in the 9th century under Leo IV", "Renewed in the 16th century under Nicholas V", "Site of the meeting between Pope Benedict XVI and George W. Bush", "Offers expansive views over the Vatican"],
     },
-    imageHint: "Tower of St John vatican gardens medieval",
-  },
+    imageHint: "Tower of St John vatican gardens medieval", image: "/poi-images/vatican-tower-of-st-john-history-v2.webp"},
   {
     id: "vatican-pauline-chapel-history-v2",
     type: "church",
@@ -239,8 +228,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Michelangelo a pictat aici între 1542–1550", "Frescele prezintă convertirea Sfântului Paul", "Numită după Papa Paul al III-lea", "Nu este deschisă publicului larg"],
       en: ["Michelangelo painted here between 1542–1550", "Frescoes depict the Conversion of St. Paul", "Named after Pope Paul III", "Not open to the general public"],
     },
-    imageHint: "Pauline Chapel Vatican frescoes Michelangelo",
-  },
+    imageHint: "Pauline Chapel Vatican frescoes Michelangelo", image: "/poi-images/vatican-pauline-chapel-history-v2.webp"},
   {
     id: "vatican-cortile-del-belvedere-history-v2",
     type: "palace",
@@ -259,8 +247,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Proiectată de Bramante începând cu 1506", "Lungime de aproximativ 300 de metri", "Servește astăzi Muzeelor Vaticane", "Include celebra nișă a conului de pin"],
       en: ["Designed by Bramante starting in 1506", "Length of approximately 300 meters", "Now serves the Vatican Museums", "Contains the famous Pinecone Nicchia"],
     },
-    imageHint: "Cortile del Belvedere Pinecone courtyard Vatican",
-  },
+    imageHint: "Cortile del Belvedere Pinecone courtyard Vatican", image: "/poi-images/vatican-cortile-del-belvedere-history-v2.webp"},
   {
     id: "vatican-bramante-staircase-history-v2",
     type: "landmark",
@@ -279,8 +266,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Construită în anul 1505", "Folosește coloane dorice ca sprijin", "A servit drept model pentru scările în spirală moderne", "Situată în Muzeul Pio-Clementino"],
       en: ["Built in the year 1505", "Uses Doric columns for support", "Served as a model for modern spiral staircases", "Located in the Pio-Clementine Museum"],
     },
-    imageHint: "Original Bramante staircase Vatican 1505",
-  },
+    imageHint: "Original Bramante staircase Vatican 1505", image: "/poi-images/vatican-bramante-staircase-history-v2.webp"},
   {
     id: "vatican-vatican-secret-archives-history-v2",
     type: "ruins",
@@ -299,8 +285,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Cuprinde 85 de kilometri de rafturi", "Conține protocolul procesului lui Galileo", "Numită anterior 'Arhiva Secretă'", "Accesibilă doar cercetătorilor acreditați"],
       en: ["Comprises 85 kilometers of shelving", "Contains the minutes of Galileo's trial", "Formerly called the 'Secret Archive'", "Accessible only to accredited researchers"],
     },
-    imageHint: "Vatican Apostolic Archive documents shelves",
-  },
+    imageHint: "Vatican Apostolic Archive documents shelves", image: "/poi-images/vatican-vatican-secret-archives-history-v2.webp"},
   {
     id: "vatican-gregorian-egyptian-museum-history-v2",
     type: "museum",
@@ -319,8 +304,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Nouă săli prezintă evoluția artei", "Găzduiește piese din Vila lui Hadrian", "Amenajat în Palatul Belvedere", "Prezintă statui monumentale ale regilor"],
       en: ["Nine rooms show the development of art", "Houses pieces from Hadrian's Villa", "Set up in the Belvedere Palace", "Presents monumental statues of kings"],
     },
-    imageHint: "Gregorian Egyptian Museum Vatican statues",
-  },
+    imageHint: "Gregorian Egyptian Museum Vatican statues", image: "/poi-images/vatican-gregorian-egyptian-museum-history-v2.webp"},
   {
     id: "vatican-braccio-nuovo-history-v2",
     type: "museum",
@@ -339,8 +323,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Finalizată în anul 1822", "Găzduiește statuia Augustus din Primaporta", "Proiectată de Raffaele Stern", "Mozaicurile de pe podea provin din vile romane"],
       en: ["Completed in 1822", "Houses the Augustus of Primaporta", "Designed by Raffaele Stern", "Floor mosaics come from Roman villas"],
     },
-    imageHint: "Braccio Nuovo Vatican Museum neoclassical gallery",
-  },
+    imageHint: "Braccio Nuovo Vatican Museum neoclassical gallery", image: "/poi-images/vatican-braccio-nuovo-history-v2.webp"},
   {
     id: "vatican-sala-clementina-history-v2",
     type: "palace",
@@ -359,8 +342,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Numită după Papa Clement al VIII-lea", "Frescă de tavan de Giovanni Alberti", "Aici este depus corpul papei decedat", "Situată la al doilea etaj al palatului"],
       en: ["Named after Pope Clement VIII", "Ceiling fresco by Giovanni Alberti", "Site where the deceased Pope lies in state", "Located on the second floor of the palace"],
     },
-    imageHint: "Sala Clementina Vatican hall interior",
-  }
+    imageHint: "Sala Clementina Vatican hall interior", image: "/poi-images/vatican-sala-clementina-history-v2.webp"}
 ,
   {
     id: "vatican-gallery-of-the-candelabra-history-v2",
@@ -398,8 +380,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Tapițerii din secolul al XVI-lea", "Desene de elevii lui Rafael", "Realizate în ateliere din Bruxelles", "Expuse în galerie din 1838"],
       en: ["16th-century tapestries", "Designs by Raphael's pupils", "Made in Brussels workshops", "Displayed in the gallery since 1838"],
     },
-    imageHint: "Vatican Gallery of Tapestries interior",
-  },
+    imageHint: "Vatican Gallery of Tapestries interior", image: "/poi-images/vatican-gallery-of-tapestries-history-v2.webp"},
   {
     id: "vatican-sala-rotonda-history-v2",
     type: "landmark",
@@ -417,8 +398,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Modelată după Pantheon", "Mozaic central din secolul al II-lea", "Bazin de porfir de 13 metri circumferință", "Conține statuia de bronz a lui Hercule"],
       en: ["Modeled after the Pantheon", "Central mosaic from the 2nd century", "Porphyry basin of 13 meters circumference", "Contains the bronze statue of Hercules"],
     },
-    imageHint: "Vatican Museum Sala Rotonda mosaic and basin",
-  },
+    imageHint: "Vatican Museum Sala Rotonda mosaic and basin", image: "/poi-images/vatican-sala-rotonda-history-v2.webp"},
   {
     id: "vatican-greek-cross-hall-history-v2",
     type: "museum",
@@ -436,8 +416,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Sarcofagul Sfintei Elena", "Sarcofagul Constanției", "Mozaic central cu Atena", "Statui egiptizante la intrare"],
       en: ["Sarcophagus of Saint Helena", "Sarcophagus of Constantia", "Central mosaic of Athena", "Egyptian-style statues at the entrance"],
     },
-    imageHint: "Vatican Greek Cross Hall Helena sarcophagus",
-  },
+    imageHint: "Vatican Greek Cross Hall Helena sarcophagus", image: "/poi-images/vatican-greek-cross-hall-history-v2.webp"},
   {
     id: "vatican-porta-pertusa-history-v2",
     type: "landmark",
@@ -455,8 +434,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Parte a zidului Leonin", "Formată din trei arcade", "Reconstruită sub Papa Pius al IV-lea", "Astăzi închisă permanent"],
       en: ["Part of the Leonine City Wall", "Consists of three gateways", "Rebuilt under Pope Pius IV", "Permanently closed today"],
     },
-    imageHint: "Vatican Porta Pertusa Leonine Wall",
-  },
+    imageHint: "Vatican Porta Pertusa Leonine Wall", image: "/poi-images/vatican-porta-pertusa-history-v2.webp"},
   {
     id: "vatican-parrot-courtyard-history-v2",
     type: "palace",
@@ -474,8 +452,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Nucleul medieval al palatului", "Fost loc de ședere pentru păsări exotice", "Adiacent apartamentelor papale", "A găzduit cândva garderoba papală"],
       en: ["Medieval core of the palace", "Former residence of exotic birds", "Adjacent to the papal apartments", "Once housed the papal wardrobe"],
     },
-    imageHint: "Vatican Cortile del Pappagallo courtyard",
-  },
+    imageHint: "Vatican Cortile del Pappagallo courtyard", image: "/poi-images/vatican-parrot-courtyard-history-v2.webp"},
   {
     id: "vatican-hall-of-animals-history-v2",
     type: "museum",
@@ -493,8 +470,7 @@ export const vaticanHistoryV2: POI[] = [
       ro: ["Concepută de Papa Pius al VI-lea", "Sculpturi din marmură colorată", "Reprezentări de animale mitologice", "Restaurată de Francesco Antonio Franzoni"],
       en: ["Conceived by Pope Pius VI", "Sculptures made of colored marble", "Depicts mythological animals", "Restored by Francesco Antonio Franzoni"],
     },
-    imageHint: "Vatican Museum Sala degli Animali sculptures",
-  },
+    imageHint: "Vatican Museum Sala degli Animali sculptures", image: "/poi-images/vatican-hall-of-animals-history-v2.webp"},
   {
     id: "vatican-scala-pia-history-v2",
     type: "monument",

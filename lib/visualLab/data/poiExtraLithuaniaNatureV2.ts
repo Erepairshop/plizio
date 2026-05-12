@@ -19,8 +19,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Lungime totală de 937 de kilometri.", "359 de kilometri se află pe teritoriul Lituaniei.", "Principalul său afluent este râul Neris.", "Se varsă în Laguna Curoniană lângă Rusnė."],
       en: ["Total length of 937 kilometers.", "359 kilometers flow within Lithuania.", "The Neris is its largest tributary.", "Empties into the Curonian Lagoon near Rusnė."],
     },
-    imageHint: "Aerial view of the Nemunas river loops in Lithuania",
-  },
+    imageHint: "Aerial view of the Nemunas river loops in Lithuania", image: "/poi-images/lithuania-nemunas-river-nature-v2.webp"},
   {
     id: "lithuania-neris-river-nature-v2",
     type: "river",
@@ -39,8 +38,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Lungime totală de 510 kilometri.", "Conectează cele mai mari două orașe din Lituania.", "Râul îngheață adesea în iernile geroase.", "Găzduiește specii rare de pești, cum ar fi somonul."],
       en: ["Total length of 510 kilometers.", "Connects the two largest cities of Lithuania.", "The river often freezes during cold winters.", "Home to rare fish species like salmon."],
     },
-    imageHint: "The Neris river flowing through Vilnius city center",
-  },
+    imageHint: "The Neris river flowing through Vilnius city center", image: "/poi-images/lithuania-neris-river-nature-v2.webp"},
   {
     id: "lithuania-druksiai-lake-nature-v2",
     type: "lake",
@@ -59,8 +57,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 44,8 kilometri pătrați.", "Adâncime maximă de 33,3 metri.", "Situat în partea de nord-est a țării.", "O parte a lacului aparține Belarusului."],
       en: ["Surface area of about 44.8 square kilometers.", "Maximum depth of 33.3 meters.", "Located in the northeastern part of the country.", "Part of the lake belongs to Belarus."],
     },
-    imageHint: "Wide view of Lake Druksiai near the border",
-  },
+    imageHint: "Wide view of Lake Druksiai near the border", image: "/poi-images/lithuania-druksiai-lake-nature-v2.webp"},
   {
     id: "lithuania-tauragnas-lake-nature-v2",
     type: "lake",
@@ -79,8 +76,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Adâncime maximă de 62,5 metri.", "Situat la 165 de metri deasupra nivelului mării.", "Destinație populară pentru scafandri și pescari.", "Înconjurat de păduri dese de pini."],
       en: ["Maximum depth of 62.5 meters.", "Located at 165 meters above sea level.", "Popular destination for divers and anglers.", "Surrounded by dense pine forests."],
     },
-    imageHint: "Deep blue water of Lake Tauragnas in the forest",
-  },
+    imageHint: "Deep blue water of Lake Tauragnas in the forest", image: "/poi-images/lithuania-tauragnas-lake-nature-v2.webp"},
   {
     id: "lithuania-asveja-lake-nature-v2",
     type: "lake",
@@ -99,8 +95,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Lungimea totală este de 21,9 kilometri.", "Al treilea cel mai adânc lac din țară (50,2 metri).", "Găzduiește mai multe insule.", "Face parte din Parcul Regional Asveja."],
       en: ["Total length is 21.9 kilometers.", "Third deepest lake in the country at 50.2 meters.", "Contains several islands.", "Part of the Asveja Regional Park."],
     },
-    imageHint: "The wooden Dubingiai bridge over Lake Asveja",
-  },
+    imageHint: "The wooden Dubingiai bridge over Lake Asveja", image: "/poi-images/lithuania-asveja-lake-nature-v2.webp"},
   {
     id: "lithuania-parnidis-dune-nature-v2",
     type: "peak",
@@ -119,8 +114,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Înălțime de aproximativ 52 de metri.", "Are un cadran solar mare în vârf.", "Una dintre puținele dune 'albe' din regiune.", "Numele provine din cuvântul lituanian pentru 'a trece pe lângă'."],
       en: ["Height of approximately 52 meters.", "Features a large sundial at its peak.", "One of the few 'white' dunes in the region.", "Named after the Lithuanian word for 'passed through'."],
     },
-    imageHint: "Sundial monument on top of Parnidis Dune",
-  },
+    imageHint: "Sundial monument on top of Parnidis Dune", image: "/poi-images/lithuania-parnidis-dune-nature-v2.webp"},
   {
     id: "lithuania-vente-cape-nature-v2",
     type: "wildlife",
@@ -139,8 +133,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Găzduiește una dintre cele mai vechi stații ornitologice din Europa.", "Aici se află un far construit în 1863.", "Loc important pentru cercetarea migrației păsărilor.", "Oferă vedere spre dunele din Nida."],
       en: ["Home to one of the oldest bird ringing stations in Europe.", "A lighthouse from 1863 stands here.", "Crucial site for bird migration research.", "Offers views across to the Nida dunes."],
     },
-    imageHint: "Lighthouse and bird traps at Vente Cape",
-  },
+    imageHint: "Lighthouse and bird traps at Vente Cape", image: "/poi-images/lithuania-vente-cape-nature-v2.webp"},
   {
     id: "lithuania-rusne-island-nature-v2",
     type: "wildlife",
@@ -179,8 +172,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Cel mai înalt punct al Podișului Baltic.", "Numit după o zeitate lituaniană.", "În vârf se află un turn de observație.", "Format din depozite glaciare."],
       en: ["Highest point of the Baltic Uplands.", "Named after a Lithuanian deity.", "Features an observation tower at the summit.", "Composed of glacial deposits."],
     },
-    imageHint: "Observation tower on the green Aukstojas Hill",
-  },
+    imageHint: "Observation tower on the green Aukstojas Hill", image: "/poi-images/lithuania-aukstojas-hill-nature-v2.webp"},
   {
     id: "lithuania-galve-lake-nature-v2",
     type: "lake",
@@ -199,8 +191,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Adâncime maximă de 46,7 metri.", "Popular pentru navigație și canotaj.", "Atracția principală a Parcului Național Trakai.", "Numele înseamnă 'cap' în limba lituaniană."],
       en: ["Maximum depth of 46.7 meters.", "Popular for sailing and rowing sports.", "Main attraction of the Trakai Historical National Park.", "The name means 'head' in Lithuanian."],
     },
-    imageHint: "Aerial view of Lake Galve with Trakai Castle",
-  },
+    imageHint: "Aerial view of Lake Galve with Trakai Castle", image: "/poi-images/lithuania-galve-lake-nature-v2.webp"},
   {
     id: "lithuania-vistytis-lake-nature-v2",
     type: "lake",
@@ -219,8 +210,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Suprafață de 17,8 kilometri pătrați.", "Face parte din Parcul Regional Vištytis.", "Granița trece prin mijlocul lacului.", "Adăpostește specii rare de pești."],
       en: ["Surface area of 17.8 square kilometers.", "Part of the Vištytis Regional Park.", "The border runs through the middle of the lake.", "Home to rare species of fish."],
     },
-    imageHint: "Panoramic view of Lake Vistytis at sunset",
-  },
+    imageHint: "Panoramic view of Lake Vistytis at sunset", image: "/poi-images/lithuania-vistytis-lake-nature-v2.webp"},
   {
     id: "lithuania-dusia-lake-nature-v2",
     type: "lake",
@@ -239,8 +229,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Suprafață de 23,3 kilometri pătrați.", "Loc important de odihnă pentru păsările migratoare.", "Cunoscut pentru apa sa foarte limpede.", "Popular pentru windsurfing și navigație."],
       en: ["Surface area of 23.3 square kilometers.", "Important resting site for migratory birds.", "Known for its exceptionally clear water.", "Popular for windsurfing and sailing."],
     },
-    imageHint: "Sandy beach of Lake Dusia in Lithuania",
-  },
+    imageHint: "Sandy beach of Lake Dusia in Lithuania", image: "/poi-images/lithuania-dusia-lake-nature-v2.webp"},
   {
     id: "lithuania-sartai-lake-nature-v2",
     type: "lake",
@@ -259,8 +248,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Linia țărmului are 79 de kilometri.", "Are o formă neobișnuită, ramificată.", "Conține șapte insule.", "Face parte din Parcul Regional Sartai."],
       en: ["Shoreline length is 79 kilometers.", "Features an unusual, branched shape.", "Contains seven islands.", "Part of the Sartai Regional Park."],
     },
-    imageHint: "Winter horse racing on the frozen Lake Sartai",
-  },
+    imageHint: "Winter horse racing on the frozen Lake Sartai", image: "/poi-images/lithuania-sartai-lake-nature-v2.webp"},
   {
     id: "lithuania-plateliai-lake-nature-v2",
     type: "lake",
@@ -279,8 +267,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Suprafață de 12 kilometri pătrați.", "Unul dintre cele mai curate lacuri din Lituania.", "Adăpostește rămășițele unui fost castel subacvatic.", "Centru pentru sporturi nautice în vestul Lituaniei."],
       en: ["Surface area of 12 square kilometers.", "One of the cleanest lakes in Lithuania.", "Home to a former underwater castle site.", "Hub for water sports in Western Lithuania."],
     },
-    imageHint: "Islands on the blue Lake Plateliai in Samogitia",
-  },
+    imageHint: "Islands on the blue Lake Plateliai in Samogitia", image: "/poi-images/lithuania-plateliai-lake-nature-v2.webp"},
   {
     id: "lithuania-zuvintas-bog-nature-v2",
     type: "wildlife",
@@ -299,8 +286,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Fondată în anul 1937.", "Parte a programului UNESCO 'Omul și Biosfera'.", "Găzduiește peste 200 de specii de păsări.", "Lacul are o adâncime medie de doar 0,6 metri."],
       en: ["Established in 1937.", "Part of the UNESCO 'Man and the Biosphere' program.", "Home to over 200 species of birds.", "The lake has an average depth of only 0.6 meters."],
     },
-    imageHint: "Birdwatching tower at the Zuvintas wetlands",
-  },
+    imageHint: "Birdwatching tower at the Zuvintas wetlands", image: "/poi-images/lithuania-zuvintas-bog-nature-v2.webp"},
   {
     id: "lithuania-cepkeliai-marsh-nature-v2",
     type: "wildlife",
@@ -319,8 +305,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 58,5 kilometri pătrați.", "Zonă importantă de cuibărit pentru cocori.", "Vizitarea este permisă doar cu autorizație.", "Formată din numeroase insulițe de turbă."],
       en: ["Area of about 58.5 square kilometers.", "Important breeding ground for cranes.", "Visitation is only allowed with a permit.", "Consists of numerous small bog islands."],
     },
-    imageHint: "Wooden walkway through the Cepkeliai raised bog",
-  },
+    imageHint: "Wooden walkway through the Cepkeliai raised bog", image: "/poi-images/lithuania-cepkeliai-marsh-nature-v2.webp"},
   {
     id: "lithuania-labanoras-forest-nature-v2",
     type: "forest",
@@ -339,8 +324,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 911 kilometri pătrați.", "Găzduiește Parcul Regional Labanoras.", "Bogat în fructe de pădure și ciuperci.", "Habitat pentru lupi și elani."],
       en: ["Area of approximately 911 square kilometers.", "Contains the Labanoras Regional Park.", "Rich in berries and mushrooms.", "Habitat for wolves and elks."],
     },
-    imageHint: "Dense pine forest and lake in Labanoras",
-  },
+    imageHint: "Dense pine forest and lake in Labanoras", image: "/poi-images/lithuania-labanoras-forest-nature-v2.webp"},
   {
     id: "lithuania-punia-forest-nature-v2",
     type: "forest",
@@ -359,8 +343,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Aproape în întregime înconjurată de râu.", "Deține stejari gigantici supranumiți 'gemeni'.", "Una dintre cele mai vechi păduri din Baltica.", "Rezervație naturală importantă."],
       en: ["Almost entirely surrounded by the river.", "Features massive 'twin oaks'.", "One of the oldest forests in the Baltics.", "Key strictly protected nature reserve."],
     },
-    imageHint: "Ancient oak trees in the Punia Forest",
-  },
+    imageHint: "Ancient oak trees in the Punia Forest", image: "/poi-images/lithuania-punia-forest-nature-v2.webp"},
   {
     id: "lithuania-anyksciai-treetop-path-nature-v2",
     type: "forest",
@@ -379,8 +362,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Poteca are o lungime de 300 de metri.", "Platforma de observație are 34 de metri înălțime.", "Prima potecă de acest tip din statele baltice.", "Situată în Parcul Regional Anykščiai."],
       en: ["The path is 300 meters long.", "The observation tower is 34 meters high.", "First path of its kind in the Baltics.", "Located in the Anykščiai Regional Park."],
     },
-    imageHint: "Modern treetop walking path structure in a pine forest",
-  },
+    imageHint: "Modern treetop walking path structure in a pine forest", image: "/poi-images/lithuania-anyksciai-treetop-path-nature-v2.webp"},
   {
     id: "lithuania-puntukas-stone-nature-v2",
     type: "monument",
@@ -399,8 +381,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Cântărește aproximativ 265 de tone.", "Poartă basoreliefuri cu doi piloți lituanieni.", "Format din granit Rapakivi.", "Situat în pădurea Anykščiai."],
       en: ["Weighs approximately 265 tons.", "Features bas-reliefs of two Lithuanian pilots.", "Composed of Rapakivi granite.", "Located in the Anykščiai Forest."],
     },
-    imageHint: "Massive glacial boulder in the forest with carvings",
-  },
+    imageHint: "Massive glacial boulder in the forest with carvings", image: "/poi-images/lithuania-puntukas-stone-nature-v2.webp"},
   {
     id: "lithuania-cows-cave-nature-v2",
     type: "landmark",
@@ -419,8 +400,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Adâncime de aproximativ 12,6 metri.", "Găzduiește un mic lac subteran.", "Cea mai mare dolină din nordul Lituaniei.", "Face parte din Parcul Regional Biržai."],
       en: ["Depth of about 12.6 meters.", "Contains a small underground lake.", "Largest sinkhole in Northern Lithuania.", "Part of the Biržai Regional Park."],
     },
-    imageHint: "Deep circular sinkhole in the ground with water at bottom",
-  },
+    imageHint: "Deep circular sinkhole in the ground with water at bottom", image: "/poi-images/lithuania-cows-cave-nature-v2.webp"},
   {
     id: "lithuania-juniper-valley-nature-v2",
     type: "valley",
@@ -439,8 +419,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Dispune de o potecă educațională de 1,3 km.", "Cea mai bună vedere asupra meandrelor Nemunasului.", "Găzduiește multe plante medicinale rare.", "Parte a Parcului Regional Marea Kaunas."],
       en: ["Features a 1.3 km long educational trail.", "Best view of the Nemunas river bends.", "Home to many rare medicinal plants.", "Part of the Kaunas Reservoir Regional Park."],
     },
-    imageHint: "Wooden path overlooking a valley with junipers and a river",
-  },
+    imageHint: "Wooden path overlooking a valley with junipers and a river", image: "/poi-images/lithuania-juniper-valley-nature-v2.webp"},
   {
     id: "lithuania-dubysa-valley-nature-v2",
     type: "valley",
@@ -459,8 +438,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Râul Dubysa este un afluent al Nemunasului.", "Cunoscut pentru numeroasele sale coline cu cetăți.", "Oferă pante abrupte pentru planorism.", "Aparține Parcului Regional Dubysa."],
       en: ["The Dubysa is a tributary of the Nemunas.", "Famous for its numerous hillforts.", "Offers steep slopes for hang gliding.", "Part of the Dubysa Regional Park."],
     },
-    imageHint: "Hilly landscape of the Dubysa river valley",
-  },
+    imageHint: "Hilly landscape of the Dubysa river valley", image: "/poi-images/lithuania-dubysa-valley-nature-v2.webp"},
   {
     id: "lithuania-nemunas-loops-nature-v2",
     type: "park",
@@ -479,8 +457,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Cel mai mare parc regional din Lituania.", "Include faimoasa stațiune Birštonas.", "Are pante de mal de până la 40 de metri înălțime.", "Centru pentru turism ecologic."],
       en: ["Largest regional park in Lithuania.", "Includes the famous resort town of Birštonas.", "Features riverbanks up to 40 meters high.", "A hub for ecological tourism."],
     },
-    imageHint: "Aerial view of a massive river loop in a forest",
-  },
+    imageHint: "Aerial view of a massive river loop in a forest", image: "/poi-images/lithuania-nemunas-loops-nature-v2.webp"},
   {
     id: "lithuania-sesupe-river-nature-v2",
     type: "river",
@@ -499,8 +476,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Lungime totală de 298 de kilometri.", "Se varsă în râul Nemunas.", "Cel mai important râu din regiunea Suvalkija.", "Cunoscut pentru curentul său liniștit."],
       en: ["Total length of 298 kilometers.", "Flows into the Nemunas river.", "Most important river in the Suvalkija region.", "Known for its calm current."],
     },
-    imageHint: "Calm Sesupe river at the border area",
-  },
+    imageHint: "Calm Sesupe river at the border area", image: "/poi-images/lithuania-sesupe-river-nature-v2.webp"},
   {
     id: "lithuania-lusiai-lake-nature-v2",
     type: "lake",
@@ -519,8 +495,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Conectat prin canale cu alte lacuri.", "Centrul turismului nautic lituanian.", "Adâncime maximă de 37 de metri.", "Înconjurat de sate pitorești din lemn."],
       en: ["Connected via channels to other lakes.", "Center of Lithuanian water tourism.", "Maximum depth of 37 meters.", "Surrounded by picturesque wooden villages."],
     },
-    imageHint: "Kayaks on the shore of Lake Lusiai",
-  },
+    imageHint: "Kayaks on the shore of Lake Lusiai", image: "/poi-images/lithuania-lusiai-lake-nature-v2.webp"},
   {
     id: "lithuania-musos-tyrelis-nature-v2",
     type: "wildlife",
@@ -539,8 +514,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Cea mai lungă potecă educațională de mlaștină.", "Lungime totală a podului de aprox. 7 km.", "Adăpostește lacul Miknaičiai.", "Zonă importantă de retragere pentru elani."],
       en: ["Longest bog boardwalk in Lithuania.", "Approximately 7 km total path length.", "Home to the Miknaičiai lake.", "Important refuge area for elks."],
     },
-    imageHint: "Extremely long wooden boardwalk through a bog",
-  },
+    imageHint: "Extremely long wooden boardwalk through a bog", image: "/poi-images/lithuania-musos-tyrelis-nature-v2.webp"},
   {
     id: "lithuania-olando-kepure-nature-v2",
     type: "landmark",
@@ -559,8 +533,7 @@ export const lithuaniaNatureV2: POI[] = [
       ro: ["Cel mai înalt punct de pe coasta lituaniană.", "Este erodată constant de valuri.", "Fost punct de orientare pentru căpitani.", "Înconjurată de o pădure de coastă veche."],
       en: ["Highest point on the Lithuanian seaside.", "Constantly shaped by coastal erosion.", "Formerly used as a navigation aid by sailors.", "Surrounded by an ancient coastal forest."],
     },
-    imageHint: "Steep sandy cliff at the Baltic Sea shore",
-  },
+    imageHint: "Steep sandy cliff at the Baltic Sea shore", image: "/poi-images/lithuania-olando-kepure-nature-v2.webp"},
   {
     id: "lithuania-rambynas-hill-nature-v2",
     type: "landmark",

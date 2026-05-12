@@ -32,8 +32,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-bialowieza-national-park-life-v2.webp"},
   {
     id: "poland-tatra-national-park-life-v2",
     type: "wildlife",
@@ -96,8 +95,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-biebrza-national-park-life-v2.webp"},
   {
     id: "poland-slowinski-national-park-life-v2",
     type: "wildlife",
@@ -128,8 +126,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-slowinski-national-park-life-v2.webp"},
   {
     id: "poland-bieszczady-national-park-life-v2",
     type: "wildlife",
@@ -160,8 +157,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-bieszczady-national-park-life-v2.webp"},
   {
     id: "poland-kampinos-national-park-life-v2",
     type: "wildlife",
@@ -193,8 +189,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-kampinos-national-park-life-v2.webp"},
   {
     id: "poland-wroclaw-zoo-life-v2",
     type: "wildlife",
@@ -225,8 +220,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-wroclaw-zoo-life-v2.webp"},
   {
     id: "poland-warsaw-zoo-life-v2",
     type: "wildlife",
@@ -257,8 +251,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-warsaw-zoo-life-v2.webp"},
   {
     id: "poland-pieniny-national-park-life-v2",
     type: "wildlife",
@@ -289,8 +282,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-pieniny-national-park-life-v2.webp"},
   {
     id: "poland-wigry-national-park-life-v2",
     type: "wildlife",
@@ -321,8 +313,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-wigry-national-park-life-v2.webp"},
   {
     id: "poland-karkonosze-national-park-life-v2",
     type: "wildlife",
@@ -353,8 +344,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-karkonosze-national-park-life-v2.webp"},
   {
     id: "poland-wolinski-national-park-life-v2",
     type: "wildlife",
@@ -385,8 +375,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-wolinski-national-park-life-v2.webp"},
   {
     id: "poland-babia-gora-national-park-life-v2",
     type: "wildlife",
@@ -417,8 +406,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-babia-gora-national-park-life-v2.webp"},
   {
     id: "poland-roztocze-national-park-life-v2",
     type: "wildlife",
@@ -449,8 +437,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-roztocze-national-park-life-v2.webp"},
   {
     id: "poland-stolowe-mountains-life-v2",
     type: "wildlife",
@@ -481,8 +468,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-stolowe-mountains-life-v2.webp"},
   {
     id: "poland-polesie-national-park-life-v2",
     type: "wildlife",
@@ -513,8 +499,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-polesie-national-park-life-v2.webp"},
   {
     id: "poland-ujscie-warty-national-park-life-v2",
     type: "wildlife",
@@ -545,8 +530,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-ujscie-warty-national-park-life-v2.webp"},
   {
     id: "poland-ojcow-national-park-life-v2",
     type: "wildlife",
@@ -577,8 +561,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-ojcow-national-park-life-v2.webp"},
   {
     id: "poland-swietokrzyski-national-park-life-v2",
     type: "wildlife",
@@ -609,8 +592,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-swietokrzyski-national-park-life-v2.webp"},
   {
     id: "poland-bory-tucholskie-national-park-life-v2",
     type: "wildlife",
@@ -641,8 +623,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-bory-tucholskie-national-park-life-v2.webp"},
   {
     id: "poland-lodz-zoo-life-v2",
     type: "wildlife",
@@ -673,8 +654,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-lodz-zoo-life-v2.webp"},
   {
     id: "poland-krakow-botanical-garden-life-v2",
     type: "wildlife",
@@ -705,8 +685,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-krakow-botanical-garden-life-v2.webp"},
   {
     id: "poland-gdansk-zoo-life-v2",
     type: "wildlife",
@@ -737,8 +716,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-gdansk-zoo-life-v2.webp"},
   {
     id: "poland-wroclaw-botanical-life-v2",
     type: "wildlife",
@@ -769,8 +747,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-wroclaw-botanical-life-v2.webp"},
   {
     id: "poland-poznan-new-zoo-life-v2",
     type: "wildlife",
@@ -801,8 +778,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-poznan-new-zoo-life-v2.webp"},
   {
     id: "poland-magura-national-park-life-v2",
     type: "wildlife",
@@ -833,8 +809,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-magura-national-park-life-v2.webp"},
   {
     id: "poland-narwianski-national-park-life-v2",
     type: "wildlife",
@@ -865,8 +840,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-narwianski-national-park-life-v2.webp"},
   {
     id: "poland-gorce-national-park-life-v2",
     type: "wildlife",
@@ -897,8 +871,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-gorce-national-park-life-v2.webp"},
   {
     id: "poland-drawienski-national-park-life-v2",
     type: "wildlife",
@@ -929,8 +902,7 @@ export const polandLifeV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-drawienski-national-park-life-v2.webp"},
   {
     id: "poland-zakopane-botanical-life-v2",
     type: "wildlife",

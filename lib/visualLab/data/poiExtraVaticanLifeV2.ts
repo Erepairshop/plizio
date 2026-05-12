@@ -19,8 +19,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Design în stil renascentist", "Modele geometrice de gard viu", "Găzduiește statui antice", "Traseu simetric al aleilor"],
       en: ["Renaissance style design", "Geometric hedge patterns", "Houses ancient statues", "Symmetrical path layout"],
     },
-    imageHint: "Manicured hedges and gravel paths in the Italian Garden of Vatican",
-  },
+    imageHint: "Manicured hedges and gravel paths in the Italian Garden of Vatican", image: "/poi-images/vatican-italian-garden-life-v2.webp"},
   {
     id: "vatican-french-garden-life-v2",
     type: "park",
@@ -39,8 +38,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Peluze mari de iarbă", "Ordine clasică franceză", "Straturi de flori sezoniere", "Axe vizuale deschise"],
       en: ["Large grass lawns", "Classical French order", "Seasonal flower beds", "Open visual axes"],
     },
-    imageHint: "Wide lawns and flower beds in the French Garden of Vatican",
-  },
+    imageHint: "Wide lawns and flower beds in the French Garden of Vatican", image: "/poi-images/vatican-french-garden-life-v2.webp"},
   {
     id: "vatican-english-garden-life-v2",
     type: "park",
@@ -59,8 +57,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Design naturalistic", "Alei de promenadă curbe", "Plantare informală", "Peisaj deluros artificial"],
       en: ["Nature-inspired design", "Winding walking paths", "Informal planting", "Artificial hilly landscape"],
     },
-    imageHint: "Winding path through trees in the English Garden of Vatican",
-  },
+    imageHint: "Winding path through trees in the English Garden of Vatican", image: "/poi-images/vatican-english-garden-life-v2.webp"},
   {
     id: "vatican-casina-pio-iv-garden-life-v2",
     type: "park",
@@ -79,8 +76,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Sediul Academiei de Științe", "Arhitectură renascentistă", "Construită în secolul al XVI-lea", "Găzduiește specii de arbori rare"],
       en: ["Seat of the Academy of Sciences", "Renaissance architecture", "Built in the 16th century", "Houses rare tree species"],
     },
-    imageHint: "Ornate Casina Pio IV building surrounded by lush garden greenery",
-  },
+    imageHint: "Ornate Casina Pio IV building surrounded by lush garden greenery", image: "/poi-images/vatican-casina-pio-iv-garden-life-v2.webp"},
   {
     id: "vatican-heliport-greenery-life-v2",
     type: "park",
@@ -119,8 +115,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Fosta reședință a lui Benedict al XVI-lea", "Grădină retrasă", "Conține mici straturi de legume", "Parte a vieții contemplative"],
       en: ["Former residence of Benedict XVI", "Secluded garden layout", "Contains small vegetable patches", "Part of contemplative life"],
     },
-    imageHint: "Small secluded garden with flowers near the Mater Ecclesiae building",
-  },
+    imageHint: "Small secluded garden with flowers near the Mater Ecclesiae building", image: "/poi-images/vatican-mater-ecclesiae-garden-life-v2.webp"},
   {
     id: "vatican-eagle-fountain-garden-life-v2",
     type: "park",
@@ -139,8 +134,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Fântână barocă monumentală", "Bogată în specii de ferigi și mușchi", "Construită în secolul al XVII-lea", "Formațiuni stâncoase artificiale"],
       en: ["Monumental Baroque fountain", "Rich in fern and moss species", "Built in the 17th century", "Artificial rock formations"],
     },
-    imageHint: "Ornate Eagle Fountain with water flowing over mossy rocks",
-  },
+    imageHint: "Ornate Eagle Fountain with water flowing over mossy rocks", image: "/poi-images/vatican-eagle-fountain-garden-life-v2.webp"},
   {
     id: "vatican-galleon-fountain-garden-life-v2",
     type: "park",
@@ -159,8 +153,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Fântână în formă de galeră", "Echipată cu 16 tunuri", "Construită în secolul al XVII-lea", "Varietate de arbuști ornamentali"],
       en: ["Galleon-shaped fountain", "Equipped with 16 cannons", "Built in the 17th century", "Variety of ornamental shrubs"],
     },
-    imageHint: "Stone ship fountain with water jets surrounded by garden plants",
-  },
+    imageHint: "Stone ship fountain with water jets surrounded by garden plants", image: "/poi-images/vatican-galleon-fountain-garden-life-v2.webp"},
   {
     id: "vatican-st-therese-garden-life-v2",
     type: "park",
@@ -179,8 +172,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Dedicată Sfintei Tereza", "Patroana grădinarilor", "Numeroase soiuri de trandafiri", "Loc de reculegere liniștită"],
       en: ["Dedicated to St. Therese", "Patron saint of gardeners", "Numerous rose varieties", "Place of quiet reflection"],
     },
-    imageHint: "Rose garden with a small statue of St. Therese in the Vatican",
-  },
+    imageHint: "Rose garden with a small statue of St. Therese in the Vatican", image: "/poi-images/vatican-st-therese-garden-life-v2.webp"},
   {
     id: "vatican-israel-olive-tree-life-v2",
     type: "wildlife",
@@ -199,8 +191,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Cadou de la Statul Israel", "Simbol al păcii", "Peste 100 de ani vechime", "Monument botanic al păcii"],
       en: ["Gift from the State of Israel", "Symbol of peace", "Over 100 years old", "Botanical peace monument"],
     },
-    imageHint: "An ancient gnarled olive tree in a prominent garden spot",
-  },
+    imageHint: "An ancient gnarled olive tree in a prominent garden spot", image: "/poi-images/vatican-israel-olive-tree-life-v2.webp"},
   {
     id: "vatican-guadalupe-garden-life-v2",
     type: "park",
@@ -219,8 +210,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Specii de plante americane", "Statuie de bronz Guadalupe", "Inaugurată în anul 1939", "Simbol al credinței latine"],
       en: ["American plant species", "Bronze statue of Guadalupe", "Inaugurated in 1939", "Symbol of Latin American faith"],
     },
-    imageHint: "Bronze statue of Our Lady of Guadalupe among tropical-looking plants",
-  },
+    imageHint: "Bronze statue of Our Lady of Guadalupe among tropical-looking plants", image: "/poi-images/vatican-guadalupe-garden-life-v2.webp"},
   {
     id: "vatican-giardino-quadrato-life-v2",
     type: "park",
@@ -239,8 +229,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Construită în secolul al XVI-lea", "Lângă intrarea muzeului", "Peluze de iarbă geometrice", "Vedere spre Bazilica Sf. Petru"],
       en: ["Built in the 16th century", "Near the museum entrance", "Geometric lawn areas", "View of St. Peter's Basilica"],
     },
-    imageHint: "Large open square garden with geometric grass patches and wall",
-  },
+    imageHint: "Large open square garden with geometric grass patches and wall", image: "/poi-images/vatican-giardino-quadrato-life-v2.webp"},
   {
     id: "vatican-governors-palace-garden-life-v2",
     type: "park",
@@ -259,8 +248,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Stema Vaticanului din flori", "Centrul administrației", "Straturi de flori magnifice", "Vedere spre absida Sf. Petru"],
       en: ["Floral Vatican coat of arms", "Center of administration", "Magnificent flower beds", "View of St. Peter's apse"],
     },
-    imageHint: "Vatican coat of arms made of colorful flowers in front of a building",
-  },
+    imageHint: "Vatican coat of arms made of colorful flowers in front of a building", image: "/poi-images/vatican-governors-palace-garden-life-v2.webp"},
   {
     id: "vatican-railway-station-greenery-life-v2",
     type: "park",
@@ -279,8 +267,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Cea mai mică gară de stat", "Măslini lângă terasamentul gării", "Construită în anul 1934", "Zonă de intrare pentru trenuri speciale"],
       en: ["Smallest state railway station", "Olive trees near the tracks", "Built in 1934", "Entrance area for special trains"],
     },
-    imageHint: "Small train station building surrounded by trees and shrubs",
-  },
+    imageHint: "Small train station building surrounded by trees and shrubs", image: "/poi-images/vatican-railway-station-greenery-life-v2.webp"},
   {
     id: "vatican-ethiopian-college-garden-life-v2",
     type: "park",
@@ -299,8 +286,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Singurul colegiu din Vatican", "Influențe ale florei africane", "Centru de erudiție", "Amenajare liniștită a curții interioare"],
       en: ["Only college within Vatican", "African flora influences", "Center for scholarship", "Quiet courtyard layout"],
     },
-    imageHint: "Courtyard garden with green plants inside the Ethiopian College",
-  },
+    imageHint: "Courtyard garden with green plants inside the Ethiopian College", image: "/poi-images/vatican-ethiopian-college-garden-life-v2.webp"},
   {
     id: "vatican-mosaic-studio-garden-life-v2",
     type: "park",
@@ -339,8 +325,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Cel mai înalt punct al grădinilor", "Pini mediteraneeni vechi", "Parte a vechilor ziduri ale orașului", "Loc frecvent pentru recepții"],
       en: ["Highest point of the gardens", "Ancient Mediterranean pines", "Part of the old city walls", "Frequent location for receptions"],
     },
-    imageHint: "Ancient stone tower surrounded by tall umbrella pine trees",
-  },
+    imageHint: "Ancient stone tower surrounded by tall umbrella pine trees", image: "/poi-images/vatican-tower-san-giovanni-park-life-v2.webp"},
   {
     id: "vatican-st-peter-statue-garden-life-v2",
     type: "park",
@@ -359,8 +344,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Statuia primului Papă", "Plantare veșnic verde", "Punct central de orientare", "Dafini și stejari de stâncă"],
       en: ["Statue of the first Pope", "Evergreen planting", "Central orientation point", "Laurels and holm oaks"],
     },
-    imageHint: "Tall statue of St. Peter standing among green bushes and trees",
-  },
+    imageHint: "Tall statue of St. Peter standing among green bushes and trees", image: "/poi-images/vatican-st-peter-statue-garden-life-v2.webp"},
   {
     id: "vatican-rose-garden-life-v2",
     type: "park",
@@ -379,8 +363,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Colecție de trandafiri rari", "Perioada de înflorire mai/iunie", "Soiuri din multe țări", "Straturi îngrijite cu atenție"],
       en: ["Collection of rare roses", "Blooming period May/June", "Varieties from many countries", "Carefully maintained beds"],
     },
-    imageHint: "Beds of blooming red, pink and white roses in a garden",
-  },
+    imageHint: "Beds of blooming red, pink and white roses in a garden", image: "/poi-images/vatican-rose-garden-life-v2.webp"},
   {
     id: "vatican-citrus-grove-life-v2",
     type: "wildlife",
@@ -399,8 +382,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Cultură tradițională la ghiveci", "Lămâi și portocale amare", "Amplasare însorită pe deal", "Flori parfumate primăvara"],
       en: ["Traditional pot cultivation", "Lemons and bitter oranges", "Sunny hillside location", "Fragrant blossoms in spring"],
     },
-    imageHint: "Citrus trees with ripe lemons in terracotta pots along a wall",
-  },
+    imageHint: "Citrus trees with ripe lemons in terracotta pots along a wall", image: "/poi-images/vatican-citrus-grove-life-v2.webp"},
   {
     id: "vatican-palm-collection-life-v2",
     type: "wildlife",
@@ -459,8 +441,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Zid din secolul al IX-lea", "Acoperit cu iederă antică", "Granița statului-oraș", "Protecție naturală fonică"],
       en: ["9th-century wall", "Overgrown with ancient ivy", "Border of the city-state", "Natural noise protection"],
     },
-    imageHint: "Old stone wall covered in green ivy and surrounded by trees",
-  },
+    imageHint: "Old stone wall covered in green ivy and surrounded by trees", image: "/poi-images/vatican-leonine-wall-green-life-v2.webp"},
   {
     id: "vatican-japanese-maple-life-v2",
     type: "wildlife",
@@ -479,8 +460,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Specii de arbori asiatici", "Colorit de toamnă magnific", "Forme delicate ale frunzelor", "Tăiere atentă"],
       en: ["Asian tree species", "Magnificent autumn coloring", "Delicate leaf shapes", "Careful pruning"],
     },
-    imageHint: "Japanese maple tree with bright red leaves in a green garden setting",
-  },
+    imageHint: "Japanese maple tree with bright red leaves in a green garden setting", image: "/poi-images/vatican-japanese-maple-life-v2.webp"},
   {
     id: "vatican-gendarmerie-monument-garden-life-v2",
     type: "park",
@@ -499,8 +479,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Onorează Jandarmeria", "Schemă de flori albe", "Margini de gazon bine întreținute", "Loc de comemorare"],
       en: ["Honors the Gendarmerie", "White flower scheme", "Well-manicured lawn edges", "Place of remembrance"],
     },
-    imageHint: "Statue or monument in a small clean garden plot with white flowers",
-  },
+    imageHint: "Statue or monument in a small clean garden plot with white flowers", image: "/poi-images/vatican-gendarmerie-monument-garden-life-v2.webp"},
   {
     id: "vatican-sacramento-fountain-garden-life-v2",
     type: "park",
@@ -519,8 +498,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Construită în secolul al XVII-lea", "Nuferi în bazine", "Arta apei barocă", "Microclimat răcoros"],
       en: ["Built in the 17th century", "Water lilies in the basins", "Baroque water art", "Cool microclimate"],
     },
-    imageHint: "Large stone fountain with multiple jets and water lilies in the basin",
-  },
+    imageHint: "Large stone fountain with multiple jets and water lilies in the basin", image: "/poi-images/vatican-sacramento-fountain-garden-life-v2.webp"},
   {
     id: "vatican-radio-vatican-garden-life-v2",
     type: "park",
@@ -539,8 +517,7 @@ export const vaticanLifeV2: POI[] = [
       ro: ["Fondat de Marconi", "Antene în spațiu verde", "Floră de macchia mediteraneană", "Lângă Zidul Leonin"],
       en: ["Founded by Marconi", "Antennas in the greenery", "Mediterranean scrub flora", "Near the Leonine Wall"],
     },
-    imageHint: "A large radio antenna mast rising from a green wooded area",
-  },
+    imageHint: "A large radio antenna mast rising from a green wooded area", image: "/poi-images/vatican-radio-vatican-garden-life-v2.webp"},
   {
     id: "vatican-st-martha-garden-life-v2",
     type: "park",

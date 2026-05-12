@@ -19,8 +19,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Data bătăliei: 18 iunie 1815", "Peste 150.000 de soldați au fost implicați", "Napoleon a luptat contra lui Wellington și Blücher", "Colina Leului a fost finalizată în 1826"],
       en: ["Battle date: June 18, 1815", "Over 150,000 soldiers were involved", "Napoleon fought against Wellington and Blücher", "The Lion's Mound was completed in 1826"],
     },
-    imageHint: "Waterloo Lion's Mound and battlefield memorial",
-  },
+    imageHint: "Waterloo Lion's Mound and battlefield memorial", image: "/poi-images/belgium-waterloo-battlefield-history-v2.webp"},
   {
     id: "belgium-gravensteen-castle-history-v2",
     type: "castle",
@@ -39,8 +38,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Construit în anul 1180", "Sediul conților de Flandra până în 1353", "Găzduiește astăzi un muzeu al torturii", "Restaurat aproape complet în secolul al XIX-lea"],
       en: ["Built in the year 1180", "Seat of the Counts of Flanders until 1353", "Houses a museum of torture devices today", "Almost fully restored in the 19th century"],
     },
-    imageHint: "Gravensteen Castle in Ghent medieval architecture",
-  },
+    imageHint: "Gravensteen Castle in Ghent medieval architecture", image: "/poi-images/belgium-gravensteen-castle-history-v2.webp"},
   {
     id: "belgium-menin-gate-history-v2",
     type: "monument",
@@ -59,8 +57,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Inaugurată în anul 1927", "Numele a 54.896 de soldați sunt gravate", "Ceremonia 'Last Post' are loc zilnic la ora 20:00", "Proiectată de Sir Reginald Blomfield"],
       en: ["Inaugurated in 1927", "Names of 54,896 soldiers are engraved", "Daily 'Last Post' ceremony at 8:00 PM", "Designed by Sir Reginald Blomfield"],
     },
-    imageHint: "Menin Gate Memorial Ypres at night",
-  },
+    imageHint: "Menin Gate Memorial Ypres at night", image: "/poi-images/belgium-menin-gate-history-v2.webp"},
   {
     id: "belgium-villers-abbey-history-v2",
     type: "ruins",
@@ -79,8 +76,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Fondată în anul 1146", "Desființată în timpul Revoluției Franceze", "Una dintre cele mai mari ruine din Belgia", "Vizitată de Victor Hugo în secolul al XIX-lea"],
       en: ["Founded in the year 1146", "Dissolved during the French Revolution", "One of the largest ruins in Belgium", "Visited by Victor Hugo in the 19th century"],
     },
-    imageHint: "Villers Abbey ruins Villers-la-Ville",
-  },
+    imageHint: "Villers Abbey ruins Villers-la-Ville", image: "/poi-images/belgium-villers-abbey-history-v2.webp"},
   {
     id: "belgium-namur-citadel-history-v2",
     type: "castle",
@@ -99,8 +95,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Inițial o așezare romană", "Structura actuală datează în principal din secolul XVII", "Dispune de 7 km de tuneluri subterane", "Considerată 'castelul orașului' Namur"],
       en: ["Originally a Roman settlement", "Current structure dates mainly from the 17th century", "Contains 7 km of underground passages", "Considered the 'city castle' of Namur"],
     },
-    imageHint: "Citadel of Namur overlooking the river",
-  },
+    imageHint: "Citadel of Namur overlooking the river", image: "/poi-images/belgium-namur-citadel-history-v2.webp"},
   {
     id: "belgium-bouillon-castle-history-v2",
     type: "castle",
@@ -119,8 +114,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Cele mai vechi părți datează din secolul al VIII-lea", "Vândut de Godefroy de Bouillon în 1096", "Poziție strategică la granița cu Franța", "Transformat în fortăreață de Vauban în sec. XVII"],
       en: ["Oldest parts date back to the 8th century", "Sold by Godfrey of Bouillon in 1096", "Strategic location near the French border", "Converted into a fortress by Vauban in the 17th century"],
     },
-    imageHint: "Medieval Castle of Bouillon aerial view",
-  },
+    imageHint: "Medieval Castle of Bouillon aerial view", image: "/poi-images/belgium-bouillon-castle-history-v2.webp"},
   {
     id: "belgium-tyne-cot-cemetery-history-v2",
     type: "monument",
@@ -139,8 +133,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Găzduiește 11.961 de morminte", "Numele a 35.000 de dispăruți sunt pe zid", "Construit pe un fost buncăr german", "Proiectat de Sir Herbert Baker"],
       en: ["Houses 11,961 graves", "Names of 35,000 missing on the wall", "Built on top of a former German bunker", "Designed by Sir Herbert Baker"],
     },
-    imageHint: "Tyne Cot Commonwealth War Cemetery Passchendaele",
-  },
+    imageHint: "Tyne Cot Commonwealth War Cemetery Passchendaele", image: "/poi-images/belgium-tyne-cot-cemetery-history-v2.webp"},
   {
     id: "belgium-bruges-belfry-history-v2",
     type: "tower",
@@ -159,8 +152,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Înălțime de 83 de metri", "Carillon cu 47 de clopote", "Patrimoniu UNESCO din 1999", "366 de trepte până în vârf"],
       en: ["Height of 83 meters", "Carillon with 47 bells", "UNESCO World Heritage since 1999", "366 steps lead to the top"],
     },
-    imageHint: "Belfry of Bruges tower on market square",
-  },
+    imageHint: "Belfry of Bruges tower on market square", image: "/poi-images/belgium-bruges-belfry-history-v2.webp"},
   {
     id: "belgium-antwerp-steen-history-v2",
     type: "castle",
@@ -179,8 +171,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Construit în jurul anului 1200", "Numele înseamnă literal 'Piatra'", "Folosit ca închisoare până în 1823", "Statuia mare a lui 'Lange Wapper' la intrare"],
       en: ["Built around the year 1200", "Name literally means 'The Stone'", "Long used as a prison (until 1823)", "Large statue of 'Lange Wapper' at the entrance"],
     },
-    imageHint: "Het Steen castle Antwerp Scheldt river",
-  },
+    imageHint: "Het Steen castle Antwerp Scheldt river", image: "/poi-images/belgium-antwerp-steen-history-v2.webp"},
   {
     id: "belgium-prince-bishops-palace-history-v2",
     type: "palace",
@@ -199,8 +190,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Clădirea actuală datează din secolul XVI", "60 de capiteluri de coloane diferite în curte", "Găzduiește astăzi Palatul de Justiție", "Arhitectură în stil renascentist"],
       en: ["Current building dates from the 16th century", "60 different column capitals in the courtyard", "Houses the Palace of Justice and provincial gov today", "Renaissance style architecture"],
     },
-    imageHint: "Prince-Bishops' Palace Liège courtyard columns",
-  },
+    imageHint: "Prince-Bishops' Palace Liège courtyard columns", image: "/poi-images/belgium-prince-bishops-palace-history-v2.webp"},
   {
     id: "belgium-tournai-belfry-history-v2",
     type: "tower",
@@ -219,8 +209,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Construcția a început în 1188", "Înălțime de 72 de metri", "Statut de patrimoniu mondial UNESCO", "Găzduiește un carillon cu 43 de clopote"],
       en: ["Construction began in 1188", "Height of 72 meters", "UNESCO World Heritage status", "Houses a carillon with 43 bells"],
     },
-    imageHint: "Belfry of Tournai oldest in Belgium",
-  },
+    imageHint: "Belfry of Tournai oldest in Belgium", image: "/poi-images/belgium-tournai-belfry-history-v2.webp"},
   {
     id: "belgium-brussels-grand-place-history-v2",
     type: "landmark",
@@ -239,8 +228,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Distrusă de trupele franceze în 1695", "Reconstruită în mai puțin de 5 ani", "Patrimoniu mondial UNESCO din 1998", "Covorul de flori are loc la fiecare doi ani"],
       en: ["Destroyed by French troops in 1695", "Rebuilt in less than 5 years", "UNESCO World Heritage since 1998", "Flower Carpet takes place every two years"],
     },
-    imageHint: "Grand Place Brussels guildhalls and city hall",
-  },
+    imageHint: "Grand Place Brussels guildhalls and city hall", image: "/poi-images/belgium-brussels-grand-place-history-v2.webp"},
   {
     id: "belgium-mardasson-memorial-history-v2",
     type: "monument",
@@ -259,8 +247,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Inaugurat la 16 iulie 1950", "Numele celor 48 de state americane sunt gravate", "Situat lângă Muzeul de Război din Bastogne", "Proiectat de arhitectul Georges Dedoyard"],
       en: ["Inaugurated on July 16, 1950", "Names of the 48 US states of the time are engraved", "Located near the Bastogne War Museum", "Designed by architect Georges Dedoyard"],
     },
-    imageHint: "Mardasson Memorial Bastogne star shape",
-  },
+    imageHint: "Mardasson Memorial Bastogne star shape", image: "/poi-images/belgium-mardasson-memorial-history-v2.webp"},
   {
     id: "belgium-gaasbeek-castle-history-v2",
     type: "castle",
@@ -279,8 +266,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Distrus și reconstruit de mai multe ori", "Aspectul actual este în stil romantic din secolul XIX", "Fosta reședință a contelui de Egmont", "Înconjurat de un parc vast și o grădină muzeu"],
       en: ["Destroyed and rebuilt several times", "Current appearance in 19th-century romantic style", "Former residence of the Count of Egmont", "Surrounded by a large park and museum garden"],
     },
-    imageHint: "Gaasbeek Castle landscape Belgium",
-  },
+    imageHint: "Gaasbeek Castle landscape Belgium", image: "/poi-images/belgium-gaasbeek-castle-history-v2.webp"},
   {
     id: "belgium-stavelot-abbey-history-v2",
     type: "museum",
@@ -299,8 +285,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Fondată în anul 648", "Găzduiește trei muzee, inclusiv Muzeul Apollinaire", "Sediul muzeului Circuitului Spa-Francorchamps", "Ruinele vechii biserici monahale sunt vizibile"],
       en: ["Founded in 648 AD", "Houses three museums, including the Apollinaire Museum", "Site of the Spa-Francorchamps Circuit Museum", "Ruins of the old abbey church are visible"],
     },
-    imageHint: "Abbey of Stavelot buildings and ruins",
-  },
+    imageHint: "Abbey of Stavelot buildings and ruins", image: "/poi-images/belgium-stavelot-abbey-history-v2.webp"},
   {
     id: "belgium-raversyde-atlantic-wall-history-v2",
     type: "landmark",
@@ -319,8 +304,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Peste 60 de buncăre și 2 km de pasaje", "Include Bateria Aachen (Primul Război Mondial)", "Extins masiv în timpul ocupației germane (Al Doilea R.M.)", "Parte dintr-o fostă proprietate regală"],
       en: ["Over 60 bunkers and 2 km of passages", "Includes the Aachen Battery (WWI)", "Heavily expanded during German occupation (WWII)", "Part of a former royal estate"],
     },
-    imageHint: "Atlantic Wall Raversyde bunkers and trenches",
-  },
+    imageHint: "Atlantic Wall Raversyde bunkers and trenches", image: "/poi-images/belgium-raversyde-atlantic-wall-history-v2.webp"},
   {
     id: "belgium-fort-breendonk-history-v2",
     type: "landmark",
@@ -339,8 +323,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Construit inițial în 1906 ca fort de apărare", "Folosit ca lagăr între 1940 și 1944", "Aproximativ 3.500 de prizonieri au fost deținuți aici", "Considerat unul dintre cele mai bine conservate lagăre din Europa"],
       en: ["Originally built in 1906 as a defensive fort", "Used as a camp from 1940 to 1944", "About 3,500 prisoners were held there", "Considered one of the best-preserved camps in Europe"],
     },
-    imageHint: "Fort Breendonk national memorial and fortress",
-  },
+    imageHint: "Fort Breendonk national memorial and fortress", image: "/poi-images/belgium-fort-breendonk-history-v2.webp"},
   {
     id: "belgium-plantin-moretus-museum-history-v2",
     type: "museum",
@@ -359,8 +342,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Fondată de Christophe Plantin în jurul anului 1555", "Găzduiește cele mai vechi două prese tipografice din lume", "Colecție vastă de caractere mobile și cărți", "Patrimoniu mondial UNESCO din 2005"],
       en: ["Founded by Christophe Plantin around 1555", "Houses the two oldest printing presses in the world", "Extensive collection of typefaces and books", "UNESCO World Heritage site since 2005"],
     },
-    imageHint: "Museum Plantin-Moretus Antwerp historic printing press",
-  },
+    imageHint: "Museum Plantin-Moretus Antwerp historic printing press", image: "/poi-images/belgium-plantin-moretus-museum-history-v2.webp"},
   {
     id: "belgium-tongeren-roman-walls-history-v2",
     type: "ruins",
@@ -399,8 +381,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Turnul actual datează din aproximativ 1422", "Nu a fost niciodată transformat într-o reședință modernă", "Cunoscut ca locuința personajului de benzi desenate 'Cavalerul Roșu'", "Deține lucrări valoroase în stuc de J.C. Hansche"],
       en: ["Current keep dates from around 1422", "Never converted into a more modern residence", "Known as the home of the 'Red Knight' comic character", "Features valuable stucco work by J.C. Hansche"],
     },
-    imageHint: "Horst Castle moated medieval fortress Holsbeek",
-  },
+    imageHint: "Horst Castle moated medieval fortress Holsbeek", image: "/poi-images/belgium-horst-castle-history-v2.webp"},
   {
     id: "belgium-beloeil-castle-history-v2",
     type: "palace",
@@ -419,8 +400,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Proprietatea familiei de Ligne din 1394", "Biblioteca conține peste 20.000 de cărți", "Grădinile se întind pe 25 de hectare", "Incendiu major în 1900, urmat de reconstrucție"],
       en: ["Property of the de Ligne family since 1394", "Library contains over 20,000 books", "Gardens cover 25 hectares", "Major fire in 1900, subsequently reconstructed"],
     },
-    imageHint: "Beloeil Castle and French garden aerial",
-  },
+    imageHint: "Beloeil Castle and French garden aerial", image: "/poi-images/belgium-beloeil-castle-history-v2.webp"},
   {
     id: "belgium-ooidonk-castle-history-v2",
     type: "castle",
@@ -439,8 +419,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Inițial o fortăreață medievală", "Reconstruit în 1595 după distrugere", "Proprietatea conților de Hoorn și ulterior de Neve", "Turnuri cu cupolă în formă de ceapă unice"],
       en: ["Originally a medieval fortress", "Rebuilt in 1595 after destruction", "Owned by the Counts of Hoorn and later de Neve", "Unique onion-domed towers define its silhouette"],
     },
-    imageHint: "Ooidonk Castle Renaissance architecture",
-  },
+    imageHint: "Ooidonk Castle Renaissance architecture", image: "/poi-images/belgium-ooidonk-castle-history-v2.webp"},
   {
     id: "belgium-grand-curtius-museum-history-v2",
     type: "museum",
@@ -459,8 +438,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Construit între 1600-1610 pentru Jean Curtius", "Stil renascentist mosan", "Fuziune a mai multor colecții (sticlă, arme)", "Renovat complet și redeschis în 2009"],
       en: ["Built 1600-1610 for Jean Curtius", "Mosan Renaissance style", "Merger of several collections (glass, weapons)", "Completely renovated and reopened in 2009"],
     },
-    imageHint: "Grand Curtius Museum red brick palace Liège",
-  },
+    imageHint: "Grand Curtius Museum red brick palace Liège", image: "/poi-images/belgium-grand-curtius-museum-history-v2.webp"},
   {
     id: "belgium-antwerp-cathedral-history-v2",
     type: "cathedral",
@@ -479,8 +457,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Construcția a durat peste 169 de ani (1352-1521)", "Turnul de nord are 123 de metri înălțime", "Patrimoniu UNESCO ca parte a turnurilor belfort", "Deține pictura 'Ridicarea crucii' de Rubens"],
       en: ["Construction took over 169 years (1352-1521)", "North tower is 123 meters high", "UNESCO World Heritage as part of the Belfries", "Houses Rubens' 'The Elevation of the Cross'"],
     },
-    imageHint: "Cathedral of Our Lady Antwerp tower Gothic architecture",
-  },
+    imageHint: "Cathedral of Our Lady Antwerp tower Gothic architecture", image: "/poi-images/belgium-antwerp-cathedral-history-v2.webp"},
   {
     id: "belgium-tournai-cathedral-history-v2",
     type: "cathedral",
@@ -499,8 +476,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Construcția a început în secolul XII", "Patrimoniu mondial UNESCO din 2000", "Deține un paravan de cor splendid din Renaștere", "Lungimea structurii este de 134 de metri"],
       en: ["Construction began in the 12th century", "UNESCO World Heritage since 2000", "Features a magnificent Renaissance rood screen", "Total length of the structure is 134 meters"],
     },
-    imageHint: "Cathedral of Tournai five towers architecture",
-  },
+    imageHint: "Cathedral of Tournai five towers architecture", image: "/poi-images/belgium-tournai-cathedral-history-v2.webp"},
   {
     id: "belgium-gruuthuse-museum-history-v2",
     type: "museum",
@@ -519,8 +495,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Deține o capelă privată legată de biserica vecină", "Găzduiește tapițerii, dantelă și opere de artă", "Motto-ul familiei: 'Plus est en vous'", "Restaurat în stil historist în secolul al XIX-lea"],
       en: ["Features an exclusive private chapel to the adjacent church", "Houses tapestries, lace, and artworks", "Family motto: 'Plus est en vous'", "Restored in historicist style in the 19th century"],
     },
-    imageHint: "Gruuthusemuseum Bruges courtyard architecture",
-  },
+    imageHint: "Gruuthusemuseum Bruges courtyard architecture", image: "/poi-images/belgium-gruuthuse-museum-history-v2.webp"},
   {
     id: "belgium-rubenshuis-history-v2",
     type: "museum",
@@ -539,8 +514,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Proiectată chiar de Rubens în stil italian", "Multe dintre operele sale faimoase au fost create aici", "Include un portic splendid în grădină", "Deschisă ca muzeu în anul 1946"],
       en: ["Designed by Rubens himself in Italian style", "Many of his famous works were created here", "Contains a magnificent portico in the garden", "Opened as a museum in 1946"],
     },
-    imageHint: "Rubenshuis Antwerp garden and studio",
-  },
+    imageHint: "Rubenshuis Antwerp garden and studio", image: "/poi-images/belgium-rubenshuis-history-v2.webp"},
   {
     id: "belgium-mons-belfry-history-v2",
     type: "tower",
@@ -559,8 +533,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Construit între 1661 și 1672", "Înălțime de 87 de metri", "Patrimoniu mondial UNESCO din 1999", "Găzduiește un carillon cu 49 de clopote"],
       en: ["Built between 1661 and 1672", "Height of 87 meters", "UNESCO World Heritage since 1999", "Houses a carillon with 49 bells"],
     },
-    imageHint: "Belfry of Mons Baroque tower",
-  },
+    imageHint: "Belfry of Mons Baroque tower", image: "/poi-images/belgium-mons-belfry-history-v2.webp"},
   {
     id: "belgium-la-roche-castle-history-v2",
     type: "ruins",
@@ -579,8 +552,7 @@ export const belgiumHistoryV2: POI[] = [
       ro: ["Construit între secolele XI și XIV", "Ocupat de Ludovic al XIV-lea în secolul XVII", "Grav avariat de bombardamentele din 1944", "Cunoscut pentru legenda fantomei Berthe"],
       en: ["Built between the 11th and 14th centuries", "Occupied by Louis XIV in the 17th century", "Heavily damaged by 1944 bombings", "Famous for the legend of the ghost Berthe"],
     },
-    imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
-  },
+    imageHint: "La Roche-en-Ardenne castle ruins Ourthe river", image: "/poi-images/belgium-la-roche-castle-history-v2.webp"},
   {
     id: "belgium-montaigle-castle-history-v2",
     type: "ruins",

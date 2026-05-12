@@ -67,8 +67,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["Home to the Krämerbrücke, the longest bridge in Europe with inhabited houses.", "The state capital of Thuringia and a major medieval trade center.", "Martin Luther studied at the University of Erfurt and entered the monastery here.", "The Erfurt Cathedral houses the 'Gloriosa', the world's largest free-swinging medieval bell.", "Features the 'Old Synagogue', the oldest synagogue building in Europe.", "Known as a pioneer of commercial horticulture and seed production."],
-    },
-  },
+    }, image: "/poi-images/city-erfurt-extra.webp"},
 
   {
     id: "city-weimar-extra",
@@ -134,8 +133,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["UNESCO World Heritage site for 'Classical Weimar' and 'Bauhaus' sites.", "The primary home and workplace of Johann Wolfgang von Goethe for over 50 years.", "Birthplace of the Bauhaus school of design, founded in 1919.", "Site of the National Assembly that founded the first German democracy.", "Home to the Anna Amalia Library, which holds over one million volumes.", "The Weimar Classicism era defined the golden age of German literature."],
-    },
-  },
+    }, image: "/poi-images/city-weimar-extra.webp"},
 
   {
     id: "city-jena-extra",
@@ -201,8 +199,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["Global headquarters and historic birthplace of the ZEISS and SCHOTT brands.", "Home to the world's oldest continuously operating planetarium (1926).", "The Friedrich Schiller University was founded in the year 1558.", "Known as the 'City of Light' (Lichtstadt) due to its optical heritage.", "Features the 'JenTower', the tallest office building in East Germany (144m).", "Site of the historic Battle of Jena-Auerstedt against Napoleon in 1806."],
-    },
-  },
+    }, image: "/poi-images/city-jena-extra.webp"},
 
   {
     id: "castle-wartburg-extra",
@@ -268,8 +265,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["UNESCO World Heritage site and the site where Luther translated the Bible.", "Founded in 1067 by Ludwig the Springer of the Ludowingian dynasty.", "Home to Saint Elizabeth of Hungary in the early 13th century.", "The setting for the legendary 'Minstrels' Contest' (Sängerkrieg).", "Host of the Wartburg Festival of 1817, a key event for German unity.", "The Romanesque Palace (Palas) is one of the best-preserved of its kind."],
-    },
-  },
+    }, image: "/poi-images/castle-wartburg-extra.webp"},
 
   {
     id: "mountain-grosser-beerberg-extra",
@@ -336,8 +332,7 @@ export const poiExtraDe4a: POI[] = [
       ro: [],
       en: ["The highest point in the state of Thuringia at 982 meters altitude.", "Home to the Beerbergmoor, the highest-altitude moor in the region.", "Located directly on the historic Rennsteig long-distance hiking trail.", "Formed from ancient volcanic porphyry rock over 250 million years ago.", "The summit is a strictly protected nature zone (Core zone).", "Features the 'Plänckners Aussicht', offering the best views in the forest."],
     },
-    elevation: 982,
-  },
+    elevation: 982, image: "/poi-images/mountain-grosser-beerberg-extra.webp"},
 
   {
     id: "forest-thueringer-wald-extra",
@@ -403,8 +398,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["Known as the 'Green Heart of Germany' for its vast forest cover.", "Home to the Rennsteig, Germany's most famous hiking trail (169 km).", "A major center for glassblowing and the creation of Christmas ornaments.", "Includes the town of Oberhof, a global hub for biathlon and luge.", "Highest peak is the Großer Beerberg at 982 meters.", "Contains two UNESCO Biosphere Reserves (Vessertal and Rhön)."],
-    },
-  },
+    }, image: "/poi-images/forest-thueringer-wald-extra.webp"},
 
   {
     id: "river-saale-th-extra",
@@ -471,8 +465,7 @@ export const poiExtraDe4a: POI[] = [
       ro: [],
       en: ["The most important tributary of the Elbe river in Thuringia.", "Forms the 'Thuringian Sea', a massive system of five reservoirs.", "Flows past the spectacular Dornburg Palaces and the city of Jena.", "The Saale-Unstrut wine region is the northernmost in Germany.", "Stretches for 413 kilometers from the Fichtelgebirge to the Elbe.", "A major European destination for recreational canoeing and cycling."],
     },
-    length: 427,
-  },
+    length: 427, image: "/poi-images/river-saale-th-extra.webp"},
 
   {
     id: "lake-bleilochtalsperre-extra",
@@ -539,8 +532,7 @@ export const poiExtraDe4a: POI[] = [
       ro: [],
       en: ["Germany's largest reservoir by water volume (215 million m³).", "The dam wall is 205 meters long and 65 meters high.", "Part of the 'Saale Cascade', a system of five large reservoirs.", "Constructed between 1926 and 1932 as a major job creation project.", "A world-class venue for motorboat racing and sailing regattas.", "The lake's shoreline stretches for over 100 kilometers."],
     },
-    area: 9.2,
-  },
+    area: 9.2, image: "/poi-images/lake-bleilochtalsperre-extra.webp"},
 
   {
     id: "city-eisenach-extra",
@@ -606,8 +598,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["The birthplace of Johann Sebastian Bach, the master of Baroque music (1685).", "Home to the Wartburg Castle, a UNESCO World Heritage site.", "Martin Luther attended school here and later lived at the Wartburg.", "Historically the production site of the 'Wartburg' car during the GDR era.", "Features the Bach House, the world's first museum dedicated to the composer.", "A gateway to the Rennsteig, Germany's most famous hiking trail."],
-    },
-  },
+    }, image: "/poi-images/city-eisenach-extra.webp"},
 
   {
     id: "historical-buchenwald-extra",
@@ -673,8 +664,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["A major Nazi concentration camp where 56,000 people were murdered.", "The camp was liberated by the U.S. Army on April 11, 1945.", "Located on the Ettersberg, overlooking the 'City of Poets' Weimar.", "Served as Soviet Special Camp No. 2 from 1945 to 1950.", "The memorial includes a massive 50-meter high monument tower.", "Features the permanent exhibition 'Buchenwald. Ostracism and Violence'."],
-    },
-  },
+    }, image: "/poi-images/historical-buchenwald-extra.webp"},
 
   {
     id: "city-gera-extra",
@@ -740,8 +730,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["The birthplace of the world-renowned expressionist painter Otto Dix (1891).", "Known for its 'Gera Höhler', a 9-kilometer network of medieval cellars.", "Historically a global center for the textile and machine industry.", "Home to the 'Haus Schulenburg', a masterpiece by architect Henry van de Velde.", "The third-largest city in Thuringia, located on the White Elster river.", "Hosted the Federal Horticultural Show (BUGA) in 2007."],
-    },
-  },
+    }, image: "/poi-images/city-gera-extra.webp"},
 
   {
     id: "landmark-kraemerbrue-erfurt-extra",
@@ -807,8 +796,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["The longest inhabited bridge in Europe (79 meters).", "Features 32 historic half-timbered houses with residential and commercial use.", "Originally built in 1325 after several fires destroyed previous wooden bridges.", "Spans the Gera river in the heart of Erfurt's medieval old town.", "Home to the 'Krämerbrückenfest', Thuringia's largest old town festival.", "The bridge was part of the 'Via Regia', a vital European trade route."],
-    },
-  },
+    }, image: "/poi-images/landmark-kraemerbrue-erfurt-extra.webp"},
 
   {
     id: "river-werra-th-extra",
@@ -875,8 +863,7 @@ export const poiExtraDe4a: POI[] = [
       ro: [],
       en: ["A 300-kilometer long river and one of the two sources of the Weser.", "Historically defined the border between Hesse and Thuringia.", "Flows past the iconic Wartburg Castle in Eisenach.", "The Werra Valley is a leading region for potash and salt mining.", "A key part of the European 'Green Belt' nature conservation area.", "The river has two separate sources (Werra 1 and Werra 2) in the mountains."],
     },
-    length: 292,
-  },
+    length: 292, image: "/poi-images/river-werra-th-extra.webp"},
 
   {
     id: "city-gotha-extra",
@@ -942,8 +929,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["Home to Friedenstein Castle, the largest early-Baroque palace in Germany.", "Historically the seat of the House of Saxe-Coburg and Gotha.", "The birthplace of modern insurance and world-class cartography (Perthes).", "Features the Ekhof Theatre, the world's oldest active Baroque theater.", "The city's 'Perthes-Forum' is a primary site for geographic research.", "The Royal House of Windsor originated from the Gotha dynasty."],
-    },
-  },
+    }, image: "/poi-images/city-gotha-extra.webp"},
 
   {
     id: "mountain-inselsberg-extra",
@@ -1010,8 +996,7 @@ export const poiExtraDe4a: POI[] = [
       ro: [],
       en: ["A 916-meter high peak and a primary landmark of Western Thuringia.", "Offers views of up to 100 kilometers on exceptionally clear days.", "Historically a divided mountain between two German states until 1920.", "Home to a 126-meter high telecommunications tower built in 1974.", "A popular destination for winter sports and summer alpine slides.", "Located directly on the Rennsteig, Germany's oldest hiking trail."],
     },
-    elevation: 916,
-  },
+    elevation: 916, image: "/poi-images/mountain-inselsberg-extra.webp"},
 
   // ─── DE-HB Bremen (+15) ──────────────────────────────────────────────────────
 
@@ -1146,8 +1131,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["UNESCO World Heritage site and the largest Roland statue in Germany.", "Erected in 1404 to replace a wooden predecessor.", "Stands 5.47 meters tall, or 10.21 meters including the canopy.", "Symbolizes the independence and market rights of the city of Bremen.", "The distance between his knees was the official 'Bremen Ell' measurement.", "One of the best-preserved and most authentic medieval monuments in Europe."],
-    },
-  },
+    }, image: "/poi-images/landmark-roland-bremen-extra.webp"},
 
   {
     id: "port-bremerhaven-extra",
@@ -1213,8 +1197,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["One of the world's leading ports for automotive exports and imports.", "Features the longest continuous container terminal in the world (approx. 5 km).", "Founded in 1827 by the city of Bremen to secure access to the ocean.", "A primary hub for the North Sea wind energy industry.", "Home to the 'Havenwelten' cultural district and a massive fishing port.", "Processes over 50 million tons of diverse cargo every year."],
-    },
-  },
+    }, image: "/poi-images/port-bremerhaven-extra.webp"},
 
   {
     id: "river-weser-hb-extra",
@@ -1281,8 +1264,7 @@ export const poiExtraDe4a: POI[] = [
       ro: [],
       en: ["The primary waterway connecting the city of Bremen with the world's oceans.", "The 'Schlachte' is the city's historic harbor and current main promenade.", "Historically the primary center for the German coffee and cotton trade.", "A vital lifeline for the local shipbuilding and aerospace industries.", "The river is tidal in Bremen, with a difference of up to 4 meters.", "Host of the historic 'Admiral von Schneider' and other traditional ships."],
     },
-    length: 452,
-  },
+    length: 452, image: "/poi-images/river-weser-hb-extra.webp"},
 
   {
     id: "district-altstadt-bremen-extra",
@@ -1415,8 +1397,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["The most famous bronze sculpture in Bremen, created in 1953.", "Designed by the renowned artist Gerhard Marcks.", "Based on the Brothers Grimm fairy tale first published in 1819.", "Touching the donkey's front legs is said to bring good luck and return to Bremen.", "The animals never actually reached Bremen in the story, but the city became their symbol.", "A quintessential icon of solidarity and the 'Bremen Spirit'."],
-    },
-  },
+    }, image: "/poi-images/landmark-stadtmusikanten-extra.webp"},
 
   {
     id: "district-schnoorviertel-extra",
@@ -1482,8 +1463,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["The oldest residential district of Bremen, dating back to the 13th century.", "Name derived from 'Schnur' (string), reflecting the narrow layout.", "Historically the home of the city's river fishermen and sailors.", "Features houses built as early as the year 1402.", "The district survived World War II with minimal damage.", "Now a major center for arts, crafts, and traditional gastronomy."],
-    },
-  },
+    }, image: "/poi-images/district-schnoorviertel-extra.webp"},
 
   {
     id: "district-bremerhaven-city-extra",
@@ -1549,8 +1529,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["Home to the 'Havenwelten', one of Germany's most successful urban renewal projects.", "Features the sail-shaped Atlantic Hotel, a modern city landmark.", "Location of the Klimahaus 8° Ost, a world-unique climate museum.", "The German Emigration Center is Europe's largest museum of its kind.", "A central hub for cruise ship passengers arriving in Germany.", "Offers a unique view of the massive 'Kaiserschleuse' lock system."],
-    },
-  },
+    }, image: "/poi-images/district-bremerhaven-city-extra.webp"},
 
   {
     id: "landmark-dom-bremen-extra",
@@ -1616,8 +1595,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["A massive twin-spired cathedral with a history dating back to 789 AD.", "The current structure is a mix of Romanesque and Gothic styles.", "Home to the 'Bleikeller', famous for its eight naturally preserved mummies.", "The cathedral's towers reach a height of approximately 89 meters.", "Features a world-class collection of medieval artifacts in the Dom-Museum.", "The primary burial site for the Archbishops of Bremen."],
-    },
-  },
+    }, image: "/poi-images/landmark-dom-bremen-extra.webp"},
 
   {
     id: "industry-airbus-bremen-extra",
@@ -1683,8 +1661,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["The second-largest Airbus production site in Germany.", "A global center for wing assembly and flight control systems.", "Home to the production of the service module for NASA's Orion spacecraft.", "A major center for the assembly of the Ariane rocket stages.", "Employs approximately 4,500 highly specialized workers.", "Includes a unique 'Visitor Centre' for space and aviation enthusiasts."],
-    },
-  },
+    }, image: "/poi-images/industry-airbus-bremen-extra.webp"},
 
   {
     id: "district-boettcherstr-extra",
@@ -1750,8 +1727,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["A 100-meter long street and a unique ensemble of Brick Expressionism.", "Commissioned by Ludwig Roselius, the founder of Kaffee HAG.", "Features a carillon with 30 bells made of world-famous Meissen porcelain.", "Home to the Paula Modersohn-Becker Museum, the first dedicated to a female artist.", "The street was declared a protected monument in the year 1973.", "Includes the 'Haus des Glockenspiels' and the 'Robinson Crusoe House'."],
-    },
-  },
+    }, image: "/poi-images/district-boettcherstr-extra.webp"},
 
   {
     id: "port-container-bremerhaven-extra",
@@ -1817,8 +1793,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["The fourth-largest container terminal in Europe.", "Features a continuous quay wall of 4,930 meters in length.", "Handles over 5.5 million TEU (standard containers) annually.", "Capable of servicing the world's largest container mega-vessels.", "Operated by Eurogate, a leading European container terminal operator.", "A primary hub for the export of German industrial and consumer goods."],
-    },
-  },
+    }, image: "/poi-images/port-container-bremerhaven-extra.webp"},
 
   {
     id: "landmark-universum-bremen-extra",
@@ -1884,8 +1859,7 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["An interactive science center with over 300 hands-on exhibits.", "The spectacular building is covered in 40,000 stainless steel shingles.", "Divided into three major themes: Mankind, Earth, and Cosmos.", "Located in the Technology Park near the University of Bremen.", "Attracts over 450,000 visitors annually since its opening in 2000.", "Features a 27-meter high 'Turm der Lüfte' observation tower."],
-    },
-  },
+    }, image: "/poi-images/landmark-universum-bremen-extra.webp"},
 
   {
     id: "district-viertel-bremen-extra",
@@ -1956,6 +1930,5 @@ export const poiExtraDe4a: POI[] = [
     ],
       ro: [],
       en: ["Bremen's most diverse district, known for its creative and alternative scene.", "Features the unique 'Bremer Haus' style of urban architecture.", "Home to the Kunsthalle Bremen, one of Germany's top art museums.", "The district has the highest density of bars and cafes in the city.", "Historically a rebellious and socially active neighborhood.", "A major center for street art and independent galleries."]
-    },
-  },
+    }, image: "/poi-images/district-viertel-bremen-extra.webp"},
 ];

@@ -18,8 +18,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Cel mai mare port din Croația", "Adâncime de peste 14 metri", "Nod feroviar strategic", "Acces direct la autostradă"],
       en: ["Largest port in Croatia", "Over 14 meters water depth", "Strategic railway junction", "Direct highway connection"],
     },
-    imageHint: "Port of Rijeka container terminal with large cranes",
-  },
+    imageHint: "Port of Rijeka container terminal with large cranes", image: "/poi-images/croatia-luka-rijeka-brajdica-economic-v2.webp"},
   {
     id: "croatia-luka-ploce-economic-v2",
     type: "port",
@@ -37,8 +36,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Al doilea port ca mărime din țară", "Poarta coridorului Vc", "Adâncime de până la 18 metri", "Terminal modern de mărfuri în vrac"],
       en: ["Second largest port in the country", "Gateway for Corridor Vc", "Depth up to 18 meters", "Modern bulk cargo terminal"],
     },
-    imageHint: "Aerial view of Port of Ploče with cargo ships",
-  },
+    imageHint: "Aerial view of Port of Ploče with cargo ships", image: "/poi-images/croatia-luka-ploce-economic-v2.webp"},
   {
     id: "croatia-uljanik-shipyard-economic-v2",
     type: "industry",
@@ -56,8 +54,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Fondat în anul 1856", "Situat pe o insulă", "A construit nava Berge Istra", "Fost arsenal naval"],
       en: ["Founded in 1856", "Located on an island", "Built the Berge Istra ship", "Former naval arsenal"],
     },
-    imageHint: "Uljanik shipyard cranes in Pula harbor",
-  },
+    imageHint: "Uljanik shipyard cranes in Pula harbor", image: "/poi-images/croatia-uljanik-shipyard-economic-v2.webp"},
   {
     id: "croatia-brodosplit-economic-v2",
     type: "industry",
@@ -75,8 +72,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Cel mai mare șantier din țară", "A construit cel mai mare velier", "Structuri metalice pentru poduri", "Peste 100 de ani de tradiție"],
       en: ["Largest shipyard in the country", "Built the largest sailing ship", "Steel structures for bridges", "Over 100 years of tradition"],
     },
-    imageHint: "Brodosplit shipyard with large ships under construction",
-  },
+    imageHint: "Brodosplit shipyard with large ships under construction", image: "/poi-images/croatia-brodosplit-economic-v2.webp"},
   {
     id: "croatia-viktor-lenac-economic-v2",
     type: "industry",
@@ -94,8 +90,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Specialist în reparații navale", "Deține trei docuri plutitoare", "Bază pentru Marina SUA", "Sediul în Kostrena"],
       en: ["Ship repair specialist", "Owns three floating docks", "US Navy maintenance base", "Located in Kostrena"],
     },
-    imageHint: "Floating docks of Viktor Lenac shipyard",
-  },
+    imageHint: "Floating docks of Viktor Lenac shipyard", image: "/poi-images/croatia-viktor-lenac-economic-v2.webp"},
   {
     id: "croatia-pliva-factory-economic-v2",
     type: "factory",
@@ -113,8 +108,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["A descoperit Azitromicina", "Fondată în 1921", "Cel mai mare centru de R&D", "Parte a grupului Teva"],
       en: ["Discovered Azithromycin", "Founded in 1921", "Largest R&D center", "Part of Teva Group"],
     },
-    imageHint: "Modern Pliva pharmaceutical research facility",
-  },
+    imageHint: "Modern Pliva pharmaceutical research facility", image: "/poi-images/croatia-pliva-factory-economic-v2.webp"},
   {
     id: "croatia-rimac-campus-economic-v2",
     type: "factory",
@@ -132,8 +126,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Producătorul modelului Nevera", "Dezvoltă tehnologie E-auto", "Partener cu Bugatti", "Sediul în Kerestinec"],
       en: ["Manufacturer of Nevera", "E-car technology development", "Partner of Bugatti", "Located in Kerestinec"],
     },
-    imageHint: "Modern architecture of Rimac Automobili headquarters",
-  },
+    imageHint: "Modern architecture of Rimac Automobili headquarters", image: "/poi-images/croatia-rimac-campus-economic-v2.webp"},
   {
     id: "croatia-gavrilovic-meat-economic-v2",
     type: "factory",
@@ -151,8 +144,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Fondată în 1690", "Renumită pentru salam de iarnă", "Sediul în Petrinja", "Fost furnizor al curții"],
       en: ["Founded in 1690", "Famous for winter salami", "Based in Petrinja", "Former court supplier"],
     },
-    imageHint: "Gavrilović factory building in Petrinja",
-  },
+    imageHint: "Gavrilović factory building in Petrinja", image: "/poi-images/croatia-gavrilovic-meat-economic-v2.webp"},
   {
     id: "croatia-podravka-food-economic-v2",
     type: "factory",
@@ -170,8 +162,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Producătorul Vegeta", "Sediul în Koprivnica", "Fondată în 1947", "Exportă la nivel mondial"],
       en: ["Manufacturer of Vegeta", "Based in Koprivnica", "Founded in 1947", "Exports worldwide"],
     },
-    imageHint: "Podravka headquarters with Vegeta logo",
-  },
+    imageHint: "Podravka headquarters with Vegeta logo", image: "/poi-images/croatia-podravka-food-economic-v2.webp"},
   {
     id: "croatia-petrokemija-kutina-economic-v2",
     type: "industry",
@@ -189,8 +180,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Singurul producător de îngrășăminte", "Sediul în Kutina", "Fondată în 1968", "Consumator mare de gaze"],
       en: ["Sole fertilizer producer", "Based in Kutina", "Founded in 1968", "Major natural gas consumer"],
     },
-    imageHint: "Petrokemija industrial facility in Kutina",
-  },
+    imageHint: "Petrokemija industrial facility in Kutina", image: "/poi-images/croatia-petrokemija-kutina-economic-v2.webp"},
   {
     id: "croatia-sisak-refinery-economic-v2",
     type: "industry",
@@ -208,8 +198,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Parte a grupului INA", "Fondată în 1923", "Nou centru logistic", "Sit industrial important"],
       en: ["Part of INA Group", "Founded in 1923", "New logistics hub", "Important industrial site"],
     },
-    imageHint: "Sisak oil refinery tanks and towers",
-  },
+    imageHint: "Sisak oil refinery tanks and towers", image: "/poi-images/croatia-sisak-refinery-economic-v2.webp"},
   {
     id: "croatia-urinj-refinery-economic-v2",
     type: "industry",
@@ -246,8 +235,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Cea mai înaltă structură", "Centrală pe cărbune", "Situată în Istria", "Două blocuri energetice"],
       en: ["Tallest structure in Croatia", "Coal-fired power plant", "Located in Istria", "Two power units"],
     },
-    imageHint: "The tall chimney of Plomin power plant",
-  },
+    imageHint: "The tall chimney of Plomin power plant", image: "/poi-images/croatia-plomin-power-plant-economic-v2.webp"},
   {
     id: "croatia-zakucac-hydroelectric-economic-v2",
     type: "industry",
@@ -265,8 +253,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Cea mai mare hidrocentrală", "Utilizează râul Cetina", "Situată lângă Omiš", "Peste 500 MW putere"],
       en: ["Largest hydro plant", "Uses the Cetina River", "Located near Omiš", "Over 500 MW capacity"],
     },
-    imageHint: "Large hydroelectric turbines at Zakučac",
-  },
+    imageHint: "Large hydroelectric turbines at Zakučac", image: "/poi-images/croatia-zakucac-hydroelectric-economic-v2.webp"},
   {
     id: "croatia-senj-hydroelectric-economic-v2",
     type: "industry",
@@ -284,8 +271,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Utilizează Lika și Gacka", "Apa curge spre mare", "Fondată în 1965", "Cădere mare de apă"],
       en: ["Uses Lika and Gacka rivers", "Water flows to the sea", "Founded in 1965", "High water head"],
     },
-    imageHint: "Hydroelectric power plant facility near the coast",
-  },
+    imageHint: "Hydroelectric power plant facility near the coast", image: "/poi-images/croatia-senj-hydroelectric-economic-v2.webp"},
   {
     id: "croatia-vrbnik-vineyards-economic-v2",
     type: "industry",
@@ -303,8 +289,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Casa strugurilor Žlahtina", "Pe insula Krk", "Vinificație tradițională", "Vin alb exportat"],
       en: ["Home of Žlahtina grape", "On Krk island", "Traditional winemaking", "Exported white wine"],
     },
-    imageHint: "Vineyards in the Vrbnik field on Krk island",
-  },
+    imageHint: "Vineyards in the Vrbnik field on Krk island", image: "/poi-images/croatia-vrbnik-vineyards-economic-v2.webp"},
   {
     id: "croatia-dingac-vineyards-economic-v2",
     type: "industry",
@@ -322,8 +307,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Primul vin protejat", "Pante sudice abrupte", "Soiul Plavac Mali", "Conținut ridicat de alcool"],
       en: ["First protected wine", "Steep southern slopes", "Plavac Mali variety", "High alcohol content"],
     },
-    imageHint: "Steep vineyards overlooking the sea in Dingač",
-  },
+    imageHint: "Steep vineyards overlooking the sea in Dingač", image: "/poi-images/croatia-dingac-vineyards-economic-v2.webp"},
   {
     id: "croatia-neretva-tangerine-orchards-economic-v2",
     type: "industry",
@@ -341,8 +325,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Milioane de pomi", "Recoltă de toamnă", "Export în Europa", "Sol foarte fertil"],
       en: ["Millions of fruit trees", "Autumn harvest", "Exports to Europe", "Very fertile soil"],
     },
-    imageHint: "Tangerine trees laden with orange fruit",
-  },
+    imageHint: "Tangerine trees laden with orange fruit", image: "/poi-images/croatia-neretva-tangerine-orchards-economic-v2.webp"},
   {
     id: "croatia-belje-agro-complex-economic-v2",
     type: "industry",
@@ -360,8 +343,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Fondat în 1697", "Situat în Baranja", "Cramă uriașă", "Parte a grupului Fortenova"],
       en: ["Founded in 1697", "Located in Baranja", "Huge wine cellar", "Part of Fortenova Group"],
     },
-    imageHint: "Large vineyard and modern farm of Belje",
-  },
+    imageHint: "Large vineyard and modern farm of Belje", image: "/poi-images/croatia-belje-agro-complex-economic-v2.webp"},
   {
     id: "croatia-rasa-mining-town-economic-v2",
     type: "town",
@@ -379,8 +361,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Fost centru carbonifer", "Construit în 547 de zile", "Design modernist", "Situat în Istria"],
       en: ["Former coal center", "Built in 547 days", "Modernist design", "Located in Istria"],
     },
-    imageHint: "Modernist church and square of Raša town",
-  },
+    imageHint: "Modernist church and square of Raša town", image: "/poi-images/croatia-rasa-mining-town-economic-v2.webp"},
   {
     id: "croatia-djuro-djakovic-factory-economic-v2",
     type: "factory",
@@ -455,8 +436,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Cea mai modernă fabrică", "Parte a grupului BAT", "Situată în Istria", "Exportator major"],
       en: ["Most modern tobacco plant", "Part of BAT Group", "Located in Istria", "Major exporter"],
     },
-    imageHint: "Modern industrial building of TDR in Kanfanar",
-  },
+    imageHint: "Modern industrial building of TDR in Kanfanar", image: "/poi-images/croatia-tdr-kanfanar-economic-v2.webp"},
   {
     id: "croatia-hs-produkt-factory-economic-v2",
     type: "factory",
@@ -474,8 +454,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Producătorul puștii VHS", "Exportator major în SUA", "Sediul în Karlovac", "Peste 1000 de angajați"],
       en: ["Maker of the VHS rifle", "Major US exporter", "Based in Karlovac", "Over 1000 employees"],
     },
-    imageHint: "Modern manufacturing facility of HS Produkt",
-  },
+    imageHint: "Modern manufacturing facility of HS Produkt", image: "/poi-images/croatia-hs-produkt-factory-economic-v2.webp"},
   {
     id: "croatia-kandit-osijek-economic-v2",
     type: "factory",
@@ -493,8 +472,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Sediul în Osijek", "Fabrică nouă din 2014", "Fondată în 1920", "Al doilea producător de cioco"],
       en: ["Based in Osijek", "New factory since 2014", "Founded in 1920", "Second largest chocolate maker"],
     },
-    imageHint: "New Kandit factory building in Osijek",
-  },
+    imageHint: "New Kandit factory building in Osijek", image: "/poi-images/croatia-kandit-osijek-economic-v2.webp"},
   {
     id: "croatia-mirna-rovinj-economic-v2",
     type: "factory",
@@ -531,8 +509,7 @@ export const croatiaEconomicV2: POI[] = [
       ro: ["Situată pe insula Brač", "Fabrică modernă din 2013", "Acvacultură și conserve", "Accent puternic pe export"],
       en: ["Located on Brač island", "Modern plant since 2013", "Fish farming and canning", "Strong export focus"],
     },
-    imageHint: "Modern industrial plant in Postira on Brač",
-  },
+    imageHint: "Modern industrial plant in Postira on Brač", image: "/poi-images/croatia-sardina-postira-economic-v2.webp"},
   {
     id: "croatia-vindija-dairy-economic-v2",
     type: "factory",

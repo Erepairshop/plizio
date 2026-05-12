@@ -19,8 +19,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Peste 100 de milioane de tone de trafic anual", "Locație strategică în Strâmtoarea Gibraltar", "Cel mai mare port de containere din Mediterană", "Peste 30.000 de locuri de muncă directe"],
       en: ["Over 100 million tons of annual throughput", "Strategic location on the Strait of Gibraltar", "Largest container port in the Mediterranean", "Employs over 30,000 people directly"],
     },
-    imageHint: "Aerial view of Algeciras container terminal with cranes",
-  },
+    imageHint: "Aerial view of Algeciras container terminal with cranes", image: "/poi-images/spain-port-algeciras-economic-v2.webp"},
   {
     id: "spain-port-valencia-economic-v2",
     type: "port",
@@ -39,8 +38,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Lider în traficul de containere din Mediterană", "Conexiuni cu peste 1.000 de porturi globale", "Trafic de 5,6 milioane TEU în 2021", "Centrul logisticii maritime din estul Spaniei"],
       en: ["Leader in Mediterranean container traffic", "Connections to over 1,000 ports worldwide", "5.6 million TEU throughput in 2021", "Center of maritime logistics in eastern Spain"],
     },
-    imageHint: "Port of Valencia container ships and logistics area",
-  },
+    imageHint: "Port of Valencia container ships and logistics area", image: "/poi-images/spain-port-valencia-economic-v2.webp"},
   {
     id: "spain-port-barcelona-economic-v2",
     type: "port",
@@ -59,8 +57,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Cel mai mare port de croazieră din Europa", "Punct major de export pentru industria auto", "2.000 de ani de istorie comercială", "Trafic de peste 3,5 milioane de containere"],
       en: ["Largest cruise port in Europe", "Major export point for the auto industry", "2,000 years of trading history", "Handling of over 3.5 million containers"],
     },
-    imageHint: "Barcelona port logistics area and cruise terminal",
-  },
+    imageHint: "Barcelona port logistics area and cruise terminal", image: "/poi-images/spain-port-barcelona-economic-v2.webp"},
   {
     id: "spain-port-bilbao-economic-v2",
     type: "port",
@@ -79,8 +76,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Cel mai important port din Golful Biscaia", "Centru pentru produse din oțel și petrol", "Conexiuni zilnice cu feribotul spre Marea Britanie", "Peste 30 de milioane de tone trafic anual"],
       en: ["Most important port on the Bay of Biscay", "Center for steel and oil products", "Daily ferry connections to Great Britain", "Over 30 million tons of annual throughput"],
     },
-    imageHint: "Industrial docks of Port of Bilbao",
-  },
+    imageHint: "Industrial docks of Port of Bilbao", image: "/poi-images/spain-port-bilbao-economic-v2.webp"},
   {
     id: "spain-seat-martorell-economic-v2",
     type: "factory",
@@ -119,8 +115,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Fondată în 1958 ca fabrică Citroën", "Produce peste 2.000 de vehicule pe zi", "Exportă în peste 100 de țări", "Specializată în utilitare și mașini compacte"],
       en: ["Founded in 1958 as a Citroën plant", "Produces over 2,000 vehicles per day", "Exports to over 100 countries", "Specializes in vans and compact cars"],
     },
-    imageHint: "Stellantis Vigo automobile factory exterior",
-  },
+    imageHint: "Stellantis Vigo automobile factory exterior", image: "/poi-images/spain-stellantis-vigo-economic-v2.webp"},
   {
     id: "spain-almeria-greenhouses-economic-v2",
     type: "industry",
@@ -159,8 +154,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Cel mai mare grup de modă din lume", "Fondat de Amancio Ortega", "Centru logistic cu sisteme automatizate", "Centrul strategiilor de 'Fast Fashion'"],
       en: ["World's largest fashion group", "Founded by Amancio Ortega", "Logistics center with automated systems", "Center for 'Fast Fashion' strategies"],
     },
-    imageHint: "Modern Inditex headquarters building in Arteixo",
-  },
+    imageHint: "Modern Inditex headquarters building in Arteixo", image: "/poi-images/spain-inditex-hq-economic-v2.webp"},
   {
     id: "spain-cuatro-torres-economic-v2",
     type: "landmark",
@@ -179,8 +173,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Cele mai înalte clădiri din Spania", "Torre de Cristal are 249 de metri înălțime", "Fost teren de antrenament al Real Madrid", "Birouri pentru peste 10.000 de angajați"],
       en: ["Tallest buildings in Spain", "Torre de Cristal is 249 meters high", "Former training ground of Real Madrid", "Offices for over 10,000 employees"],
     },
-    imageHint: "Four skyscrapers of Cuatro Torres in Madrid",
-  },
+    imageHint: "Four skyscrapers of Cuatro Torres in Madrid", image: "/poi-images/spain-cuatro-torres-economic-v2.webp"},
   {
     id: "spain-azca-district-economic-v2",
     type: "landmark",
@@ -199,8 +192,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Planificat în anii 1950", "Locația Turnului Picasso", "Nod bancar important", "Combină birourile cu spații rezidențiale"],
       en: ["Planned in the 1950s", "Location of the Torre Picasso", "Important banking hub", "Combines offices with residential spaces"],
     },
-    imageHint: "AZCA business district skyscrapers in Madrid",
-  },
+    imageHint: "AZCA business district skyscrapers in Madrid", image: "/poi-images/spain-azca-district-economic-v2.webp"},
   {
     id: "spain-22-arrob-barcelona-economic-v2",
     type: "industry",
@@ -239,8 +231,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Utilizate din epoca bronzului", "Cea mai mare mină de suprafață din Europa în sec. XIX", "Originea numelui grupului Rio Tinto", "Loc de cercetare pentru NASA (similar cu Marte)"],
       en: ["Used since the Bronze Age", "Europe's largest open-pit mine in the 19th century", "Namesake of the Rio Tinto Group", "Research site for NASA (Mars-like)"],
     },
-    imageHint: "Open pit mine and red river of Rio Tinto",
-  },
+    imageHint: "Open pit mine and red river of Rio Tinto", image: "/poi-images/spain-rio-tinto-mines-economic-v2.webp"},
   {
     id: "spain-puertollano-industrial-economic-v2",
     type: "industry",
@@ -279,8 +270,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Fondat în anii 1960", "Unul dintre cele mai mari clustere chimice din Europa", "Conexiune directă cu portul maritim", "Important pentru producția de îngrășăminte"],
       en: ["Founded in the 1960s", "One of Europe's largest chemical clusters", "Direct link to the seaport", "Important for fertilizer production"],
     },
-    imageHint: "Industrial skyline of Huelva chemical plants",
-  },
+    imageHint: "Industrial skyline of Huelva chemical plants", image: "/poi-images/spain-huelva-chemical-pole-economic-v2.webp"},
   {
     id: "spain-solar-platform-almeria-economic-v2",
     type: "industry",
@@ -299,8 +289,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Peste 3.000 de ore de soare pe an", "Centru de testare pentru turnuri solare", "Operat de CIEMAT", "Cooperări internaționale"],
       en: ["Over 3,000 hours of sunshine per year", "Test center for solar towers", "Operated by CIEMAT", "International collaborations"],
     },
-    imageHint: "Solar tower and heliostats at Plataforma Solar de Almería",
-  },
+    imageHint: "Solar tower and heliostats at Plataforma Solar de Almería", image: "/poi-images/spain-solar-platform-almeria-economic-v2.webp"},
   {
     id: "spain-gemasolar-plant-economic-v2",
     type: "industry",
@@ -319,8 +308,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Prima de acest fel din lume", "Poate produce 15 ore fără soare", "Peste 2.600 de heliostați (oglinzi)", "Economie de 30.000 de tone de CO2 anual"],
       en: ["First of its kind worldwide", "Can produce for 15 hours without sun", "Over 2,600 heliostats (mirrors)", "Saving 30,000 tons of CO2 annually"],
     },
-    imageHint: "Circular array of mirrors and central tower at Gemasolar",
-  },
+    imageHint: "Circular array of mirrors and central tower at Gemasolar", image: "/poi-images/spain-gemasolar-plant-economic-v2.webp"},
   {
     id: "spain-arcelormittal-aviles-economic-v2",
     type: "factory",
@@ -339,8 +327,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Producție integrată de oțel", "Unul dintre cei mai mari angajatori din Asturia", "Aprovizionează industria auto și de electrocasnice", "Tehnologie modernă a furnalelor"],
       en: ["Integrated steel production", "One of Asturias' largest employers", "Supplies the auto and appliance industry", "Modern blast furnace technology"],
     },
-    imageHint: "Heavy industry blast furnaces in Avilés",
-  },
+    imageHint: "Heavy industry blast furnaces in Avilés", image: "/poi-images/spain-arcelormittal-aviles-economic-v2.webp"},
   {
     id: "spain-cartagena-refinery-economic-v2",
     type: "factory",
@@ -379,8 +366,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Suprafață de peste 2,2 km²", "Peste 20.000 de tone de produse zilnic", "Aprovizionează 12 milioane de persoane", "Cel mai mare nod logistic din Madrid"],
       en: ["Area of over 2.2 km²", "Over 20,000 tons of products daily", "Supplies 12 million people", "Largest logistics hub in Madrid"],
     },
-    imageHint: "Busy fish market hall in Mercamadrid",
-  },
+    imageHint: "Busy fish market hall in Mercamadrid", image: "/poi-images/spain-mercamadrid-economic-v2.webp"},
   {
     id: "spain-mercabarna-economic-v2",
     type: "industry",
@@ -399,8 +385,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Aprovizionează peste 10 milioane de oameni", "Centru pentru fructe, legume și flori", "Peste 700 de companii specializate", "Nod de export pentru sudul Europei"],
       en: ["Supplies over 10 million people", "Center for fruits, vegetables, and flowers", "Over 700 specialized companies", "Export hub for Southern Europe"],
     },
-    imageHint: "Wholesale fruit and vegetable stands at Mercabarna",
-  },
+    imageHint: "Wholesale fruit and vegetable stands at Mercabarna", image: "/poi-images/spain-mercabarna-economic-v2.webp"},
   {
     id: "spain-airbus-getafe-economic-v2",
     type: "factory",
@@ -419,8 +404,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Specializată pe secțiunile de coadă", "Peste 4.000 de angajați calificați", "Centru important pentru materiale compozite", "Deține propria pistă de aterizare"],
       en: ["Specializes in tail sections", "Over 4,000 highly qualified employees", "Important center for composite materials", "Has its own runway"],
     },
-    imageHint: "Airbus airplane components in Getafe factory hall",
-  },
+    imageHint: "Airbus airplane components in Getafe factory hall", image: "/poi-images/spain-airbus-getafe-economic-v2.webp"},
   {
     id: "spain-airbus-seville-economic-v2",
     type: "factory",
@@ -439,8 +423,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Asamblarea finală a modelului A400M", "Centru pentru transportoare militare", "Parte din parcul tehnologic aerospațial", "Livrări către armate din întreaga lume"],
       en: ["Final assembly of the A400M", "Center for military transporters", "Part of the Aerospace Technology Park", "Deliveries to armies worldwide"],
     },
-    imageHint: "Airbus A400M transport plane in assembly hangar",
-  },
+    imageHint: "Airbus A400M transport plane in assembly hangar", image: "/poi-images/spain-airbus-seville-economic-v2.webp"},
   {
     id: "spain-castellon-ceramic-cluster-economic-v2",
     type: "industry",
@@ -459,8 +442,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Peste 90% din producția spaniolă", "Exporturi majore în întreaga lume", "Tradiție din Evul Mediu", "Sediul unor producători de plăci de top"],
       en: ["Over 90% of Spanish production", "Major exports to the whole world", "Tradition since the Middle Ages", "Headquarters of leading tile manufacturers"],
     },
-    imageHint: "Ceramic tiles factory and showroom in Castellón",
-  },
+    imageHint: "Ceramic tiles factory and showroom in Castellón", image: "/poi-images/spain-castellon-ceramic-cluster-economic-v2.webp"},
   {
     id: "spain-elche-footwear-economic-v2",
     type: "industry",
@@ -479,8 +461,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Peste 40% din încălțămintea spaniolă", "Centru de inovație în design de modă", "Târguri comerciale importante", "Angajează mii de lucrători calificați"],
       en: ["Over 40% of Spanish shoes", "Center for fashion design innovation", "Important trade fairs in the town", "Employs thousands of skilled workers"],
     },
-    imageHint: "Traditional shoemaking workshop in Elche",
-  },
+    imageHint: "Traditional shoemaking workshop in Elche", image: "/poi-images/spain-elche-footwear-economic-v2.webp"},
   {
     id: "spain-almaden-mercury-mines-economic-v2",
     type: "mine",
@@ -499,8 +480,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Peste 2.000 de ani de istorie minieră", "Au produs 1/3 din mercurul mondial", "Patrimoniu Mondial UNESCO", "Activitate încetat în anul 2003"],
       en: ["Over 2,000 years of mining history", "Produced 1/3 of the world's mercury", "UNESCO World Heritage Site", "Closure in 2003"],
     },
-    imageHint: "Entrance to historical Almadén mercury mine",
-  },
+    imageHint: "Entrance to historical Almadén mercury mine", image: "/poi-images/spain-almaden-mercury-mines-economic-v2.webp"},
   {
     id: "spain-sagunto-industrial-port-economic-v2",
     type: "port",
@@ -519,8 +499,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Centru al industriei oțelului", "Deține un terminal de gaz natural", "Important pentru logistica auto", "Parte din Autoritatea Portuară Valencia"],
       en: ["Center of the steel industry", "Has a natural gas terminal (regasification)", "Important for automotive logistics", "Part of the Port Authority of Valencia"],
     },
-    imageHint: "Steel industry plants near Sagunto port",
-  },
+    imageHint: "Steel industry plants near Sagunto port", image: "/poi-images/spain-sagunto-industrial-port-economic-v2.webp"},
   {
     id: "spain-las-cruces-mine-economic-v2",
     type: "mine",
@@ -539,8 +518,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Utilizează hidrometalurgia", "Produce cupru catodic (puritate 99,9%)", "Situată în apropiere de Sevilla", "Standarde de mediu stricte"],
       en: ["Uses hydrometallurgy", "Produces cathode copper (99.9% purity)", "Located near Seville", "Strict environmental regulations"],
     },
-    imageHint: "Large excavator at Las Cruces open pit mine",
-  },
+    imageHint: "Large excavator at Las Cruces open pit mine", image: "/poi-images/spain-las-cruces-mine-economic-v2.webp"},
   {
     id: "spain-escombreras-valley-economic-v2",
     type: "industry",
@@ -579,8 +557,7 @@ export const spainEconomicV2: POI[] = [
       ro: ["Acoperă 25% din producția chimică a Spaniei", "Peste 30 de firme internaționale prezente", "Infrastructură integrată pentru gaze", "Export prin portul Tarragona"],
       en: ["Covers 25% of Spain's chemical production", "Over 30 international companies on site", "Integrated infrastructure for gases", "Export through the Port of Tarragona"],
     },
-    imageHint: "Large petrochemical industrial complex in Tarragona",
-  },
+    imageHint: "Large petrochemical industrial complex in Tarragona", image: "/poi-images/spain-tarragona-petrochemical-economic-v2.webp"},
   {
     id: "spain-guissona-food-complex-economic-v2",
     type: "factory",

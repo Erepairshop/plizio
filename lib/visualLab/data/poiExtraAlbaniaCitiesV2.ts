@@ -19,8 +19,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Găzduiește Elbasan Arena", "Deține o cetate otomană", "Situat pe traseul Via Egnatia", "Centrul industriei siderurgice"],
       en: ["Home to the Elbasan Arena", "Features an Ottoman castle", "Located on the Via Egnatia", "Center of the steel industry"],
     },
-    imageHint: "Elbasan fortress walls and clock tower",
-  },
+    imageHint: "Elbasan fortress walls and clock tower", image: "/poi-images/albania-elbasan-cities-v2.webp"},
   {
     id: "albania-kamez-cities-v2",
     type: "city",
@@ -39,8 +38,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Fondat ca centru agricol", "Sediul Universității Agricole", "Explozie demografică după 1990", "Parte a zonei metropolitane Tirana"],
       en: ["Founded as an agricultural center", "Home to the Agricultural University", "Population boom after 1990", "Part of the Tirana metro area"],
     },
-    imageHint: "Kamëz city center and boulevard",
-  },
+    imageHint: "Kamëz city center and boulevard", image: "/poi-images/albania-kamez-cities-v2.webp"},
   {
     id: "albania-lushnje-cities-v2",
     type: "city",
@@ -59,8 +57,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Locul Congresului din 1920", "Centrul câmpiei Myzeqe", "Nod feroviar important", "Locul fondării Albaniei moderne"],
       en: ["Site of the 1920 Congress", "Center of the Myzeqe plain", "Important railway junction", "Birthplace of modern Albania"],
     },
-    imageHint: "Lushnjë city center and memorial",
-  },
+    imageHint: "Lushnjë city center and memorial", image: "/poi-images/albania-lushnje-cities-v2.webp"},
   {
     id: "albania-pogradec-cities-v2",
     type: "city",
@@ -79,8 +76,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Situat pe malul lacului Ohrid", "Cunoscut pentru păstrăvul Koran", "Oraș de graniță cu Macedonia de Nord", "Regiune inclusă în UNESCO"],
       en: ["Located on Lake Ohrid", "Famous for Koran trout", "Border town with North Macedonia", "Part of a UNESCO World Heritage region"],
     },
-    imageHint: "Pogradec lakeside promenade at sunset",
-  },
+    imageHint: "Pogradec lakeside promenade at sunset", image: "/poi-images/albania-pogradec-cities-v2.webp"},
   {
     id: "albania-kavaje-cities-v2",
     type: "city",
@@ -99,8 +95,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Turn cu ceas otoman din 1817", "Muzeu etnografic local", "Centru de producție a ceramicii", "Situat lângă plaja Golem"],
       en: ["Ottoman clock tower from 1817", "Home to an ethnographic museum", "Center of ceramic production", "Located near Golem beach"],
     },
-    imageHint: "Kavajë clock tower and mosque",
-  },
+    imageHint: "Kavajë clock tower and mosque", image: "/poi-images/albania-kavaje-cities-v2.webp"},
   {
     id: "albania-lac-cities-v2",
     type: "city",
@@ -119,8 +114,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Loc de pelerinaj important", "Biserica Sfântul Anton", "Trecut industrial marcat", "Capitala districtului Kurbin"],
       en: ["Major pilgrimage site in Albania", "Home to St. Anthony's Church", "Industrial history", "Capital of Kurbin District"],
     },
-    imageHint: "St. Anthony Church on the hill above Laç",
-  },
+    imageHint: "St. Anthony Church on the hill above Laç", image: "/poi-images/albania-lac-cities-v2.webp"},
   {
     id: "albania-lezhe-cities-v2",
     type: "city",
@@ -139,8 +133,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Locul Ligii din 1444", "Mormântul lui Skanderbeg", "Așezarea antică Lissus", "Castelul Lezhë pe deal"],
       en: ["Site of the 1444 League", "Burial place of Skanderbeg", "Ancient name was Lissus", "Lezhë Castle on the hill"],
     },
-    imageHint: "Memorial of Skanderbeg in Lezhë",
-  },
+    imageHint: "Memorial of Skanderbeg in Lezhë", image: "/poi-images/albania-lezhe-cities-v2.webp"},
   {
     id: "albania-kruje-cities-v2",
     type: "city",
@@ -159,8 +152,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Sediul Muzeului Skanderbeg", "Vechiul bazar istoric", "Fosta capitală a Albaniei", "Cetate strategică pe munte"],
       en: ["Home to Skanderbeg Museum", "Historic Old Bazaar", "Former capital of Albania", "Strategic mountaintop castle"],
     },
-    imageHint: "Krujë Castle and old bazaar street",
-  },
+    imageHint: "Krujë Castle and old bazaar street", image: "/poi-images/albania-kruje-cities-v2.webp"},
   {
     id: "albania-patos-cities-v2",
     type: "city",
@@ -179,8 +171,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Centrul extracției de petrol", "Fondat în jurul anului 1949", "Oraș industrial planificat", "Situat lângă Fier"],
       en: ["Center of oil extraction", "Founded around 1949", "Industrial planned city", "Located near Fier"],
     },
-    imageHint: "Oil pumps in the landscape of Patos",
-  },
+    imageHint: "Oil pumps in the landscape of Patos", image: "/poi-images/albania-patos-cities-v2.webp"},
   {
     id: "albania-kucove-cities-v2",
     type: "city",
@@ -199,8 +190,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Numit anterior Qyteti Stalin", "Primul centru petrolier al țării", "Arhitectură industrială sovietică", "Bază aeriană NATO"],
       en: ["Once named Qyteti Stalin", "Country's first oil center", "Soviet industrial architecture", "NATO air base"],
     },
-    imageHint: "Industrial skyline of Kuçovë with oil rigs",
-  },
+    imageHint: "Industrial skyline of Kuçovë with oil rigs", image: "/poi-images/albania-kucove-cities-v2.webp"},
   {
     id: "albania-kukes-cities-v2",
     type: "city",
@@ -219,8 +209,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Nominalizat la Premiul Nobel (2000)", "Oraș nou din 1962", "La confluența râurilor Drin", "Punct de frontieră spre Kosovo"],
       en: ["Nominated for Nobel Peace Prize", "New town built since 1962", "At the confluence of Drin rivers", "Major border crossing to Kosovo"],
     },
-    imageHint: "Kukës city with the Gjallica mountain background",
-  },
+    imageHint: "Kukës city with the Gjallica mountain background", image: "/poi-images/albania-kukes-cities-v2.webp"},
   {
     id: "albania-peshkopi-cities-v2",
     type: "city",
@@ -239,8 +228,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Cunoscut pentru izvoare termale", "Centrul regiunii Dibra", "Lângă muntele Korab", "Arhitectură tradițională din piatră"],
       en: ["Famous for thermal springs", "Center of the Dibra region", "Near Mount Korab", "Traditional stone architecture"],
     },
-    imageHint: "Peshkopi thermal baths and mountain views",
-  },
+    imageHint: "Peshkopi thermal baths and mountain views", image: "/poi-images/albania-peshkopi-cities-v2.webp"},
   {
     id: "albania-burrel-cities-v2",
     type: "city",
@@ -259,8 +247,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Centrul districtului Mat", "Cunoscut pentru minele de crom", "Patria regelui Zog I", "Fondat pe un platou"],
       en: ["Center of Mat District", "Known for chrome mining", "Home of King Zog I", "Founded on a plateau"],
     },
-    imageHint: "Burrel main square and mountains",
-  },
+    imageHint: "Burrel main square and mountains", image: "/poi-images/albania-burrel-cities-v2.webp"},
   {
     id: "albania-cerrik-cities-v2",
     type: "city",
@@ -279,8 +266,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Fost centru de rafinare", "Lângă orașul Elbasan", "Fondat în jurul anului 1952", "Piață agricolă importantă"],
       en: ["Former oil refining center", "Located near Elbasan", "Founded around 1952", "Key agricultural market"],
     },
-    imageHint: "Cërrik town hall and main street",
-  },
+    imageHint: "Cërrik town hall and main street", image: "/poi-images/albania-cerrik-cities-v2.webp"},
   {
     id: "albania-shijak-cities-v2",
     type: "city",
@@ -299,8 +285,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Situat pe râul Erzen", "Piață istorică locală", "Producător important de vin", "Fondat în secolul al XIX-lea"],
       en: ["Located on Erzen River", "Historic trading market", "Key wine producer", "Founded in the 19th century"],
     },
-    imageHint: "Shijak town center and Erzen river",
-  },
+    imageHint: "Shijak town center and Erzen river", image: "/poi-images/albania-shijak-cities-v2.webp"},
   {
     id: "albania-corovode-cities-v2",
     type: "city",
@@ -319,8 +304,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Poarta spre Canionul Osum", "Centrul regiunii Skrapar", "Faimos pentru producția de Raki", "Oraș înconjurat de munți"],
       en: ["Gateway to Osum Canyon", "Center of Skrapar region", "Famous for Raki production", "Nestled between mountains"],
     },
-    imageHint: "Osum River canyon near Çorovodë",
-  },
+    imageHint: "Osum River canyon near Çorovodë", image: "/poi-images/albania-corovode-cities-v2.webp"},
   {
     id: "albania-librazhd-cities-v2",
     type: "city",
@@ -339,8 +323,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Poarta spre Parcul Shebenik", "Situat pe Via Egnatia", "Cunoscut pentru miere", "Traversat de râul Shkumbin"],
       en: ["Gateway to Shebenik Park", "Located on the Via Egnatia", "Known for honey production", "Shkumbin River flows through"],
     },
-    imageHint: "Librazhd town with mountains and river",
-  },
+    imageHint: "Librazhd town with mountains and river", image: "/poi-images/albania-librazhd-cities-v2.webp"},
   {
     id: "albania-tepelene-cities-v2",
     type: "city",
@@ -359,8 +342,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Cetatea lui Ali Pașa", "Faimos pentru apa minerală", "Situat pe râul Vjosa", "Vizitat de Lord Byron"],
       en: ["Castle of Ali Pasha", "Famous for mineral water", "Located on the Vjosa River", "Visited by Lord Byron"],
     },
-    imageHint: "Tepelenë fortress overlooking the Vjosa river",
-  },
+    imageHint: "Tepelenë fortress overlooking the Vjosa river", image: "/poi-images/albania-tepelene-cities-v2.webp"},
   {
     id: "albania-gramsh-cities-v2",
     type: "city",
@@ -379,8 +361,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Fost centru de armament", "Situat pe râul Devoll", "Hidrocentrala Banjë aproape", "Poarta spre canionul Holta"],
       en: ["Former weapons industry center", "Located on Devoll River", "Banjë hydro plant nearby", "Gateway to Holta Canyon"],
     },
-    imageHint: "Gramsh town center with surrounding hills",
-  },
+    imageHint: "Gramsh town center with surrounding hills", image: "/poi-images/albania-gramsh-cities-v2.webp"},
   {
     id: "albania-permet-cities-v2",
     type: "city",
@@ -399,8 +380,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Orașul trandafirilor", "Izvoarele termale Benja", "Situat pe râul Vjosa", "Faimos pentru dulceața Gliko"],
       en: ["City of Roses", "Benja thermal baths", "Located on the Vjosa River", "Famous for Gliko sweets"],
     },
-    imageHint: "The big rock (Guri i Qytetit) in Përmet",
-  },
+    imageHint: "The big rock (Guri i Qytetit) in Përmet", image: "/poi-images/albania-permet-cities-v2.webp"},
   {
     id: "albania-ballsh-cities-v2",
     type: "city",
@@ -419,8 +399,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Centru de rafinare a petrolului", "Lângă orașul antic Byllis", "Fondat în secolul XX", "Principalul angajator din Mallakastra"],
       en: ["Center of oil refining", "Near the ancient city Byllis", "Founded in the 20th century", "Key employer in Mallakastra"],
     },
-    imageHint: "Industrial plants and hills around Ballsh",
-  },
+    imageHint: "Industrial plants and hills around Ballsh", image: "/poi-images/albania-ballsh-cities-v2.webp"},
   {
     id: "albania-fushe-kruje-cities-v2",
     type: "town",
@@ -439,8 +418,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Statuia lui George W. Bush", "Centru industrial și comercial", "Lângă aeroportul Tirana", "Nod de transport important"],
       en: ["Statue of George W. Bush", "Industrial and trade hub", "Near Tirana Airport", "Key transport junction"],
     },
-    imageHint: "Statue of George W. Bush in Fushë-Krujë",
-  },
+    imageHint: "Statue of George W. Bush in Fushë-Krujë", image: "/poi-images/albania-fushe-kruje-cities-v2.webp"},
   {
     id: "albania-rreshen-cities-v2",
     type: "city",
@@ -459,8 +437,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Centrul regiunii Mirdita", "Sediu episcopal catolic", "Istorie în minerit (cupru)", "Catedrală nouă în centru"],
       en: ["Center of Mirdita region", "Catholic episcopal seat", "Copper mining history", "New cathedral in city center"],
     },
-    imageHint: "Cathedral of Rrëshen in the town square",
-  },
+    imageHint: "Cathedral of Rrëshen in the town square", image: "/poi-images/albania-rreshen-cities-v2.webp"},
   {
     id: "albania-puke-cities-v2",
     type: "city",
@@ -479,8 +456,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Cel mai înalt oraș din țară", "Centrul schiului albanez", "Cunoscut pentru păduri de pini", "Stațiune climaterică montană"],
       en: ["Highest city in the country", "Center of Albanian skiing", "Known for pine forests", "Mountain health resort"],
     },
-    imageHint: "Pukë town surrounded by pine forests",
-  },
+    imageHint: "Pukë town surrounded by pine forests", image: "/poi-images/albania-puke-cities-v2.webp"},
   {
     id: "albania-koplik-cities-v2",
     type: "city",
@@ -519,8 +495,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Fondat ca oraș minier în 1946", "Centrul extracției de cărbune", "Situat pe râul Vjosa", "Patrimoniu industrial"],
       en: ["Founded as a mining town in 1946", "Center for coal mining", "Located on the Vjosa River", "Industrial heritage"],
     },
-    imageHint: "Memaliaj town view with the Vjosa river",
-  },
+    imageHint: "Memaliaj town view with the Vjosa river", image: "/poi-images/albania-memaliaj-cities-v2.webp"},
   {
     id: "albania-erseke-cities-v2",
     type: "city",
@@ -539,8 +514,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Centrul regiunii Kolonjë", "La poalele muntelui Gramoz", "Cunoscut pentru merele albaneze", "Oraș situat pe un platou înalt"],
       en: ["Center of Kolonjë region", "At the foot of Mount Gramoz", "Known for Albanian apples", "High-altitude plateau town"],
     },
-    imageHint: "Ersekë town square with mountains",
-  },
+    imageHint: "Ersekë town square with mountains", image: "/poi-images/albania-erseke-cities-v2.webp"},
   {
     id: "albania-bajram-curri-cities-v2",
     type: "city",
@@ -559,8 +533,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Poarta spre Valea Valbona", "Numit anterior Tropojë", "Centrul districtului Tropojë", "Peisaj montan din Prokletije"],
       en: ["Gateway to Valbona Valley", "Formerly called Tropojë", "Center of Tropojë District", "Prokletije mountain scenery"],
     },
-    imageHint: "Bajram Curri town center and Alps",
-  },
+    imageHint: "Bajram Curri town center and Alps", image: "/poi-images/albania-bajram-curri-cities-v2.webp"},
   {
     id: "albania-selenice-cities-v2",
     type: "city",
@@ -579,8 +552,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Mină de bitum faimoasă", "Exploatată din antichitate", "Lângă râul Vjosa", "Centru minier important"],
       en: ["World-famous bitumen mine", "Mined since antiquity", "Near the Vjosa River", "Major mining center"],
     },
-    imageHint: "Bitumen mines near Selenicë",
-  },
+    imageHint: "Bitumen mines near Selenicë", image: "/poi-images/albania-selenice-cities-v2.webp"},
   {
     id: "albania-bilisht-cities-v2",
     type: "city",
@@ -599,8 +571,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Centrul regiunii Devolli", "Lângă granița cu Grecia", "Punct de frontieră Kapshticë", "Oraș agricol la altitudine"],
       en: ["Center of Devolli region", "Near the Greek border", "Kapshticë border crossing", "High-altitude agricultural town"],
     },
-    imageHint: "Bilisht town and Devolli valley",
-  },
+    imageHint: "Bilisht town and Devolli valley", image: "/poi-images/albania-bilisht-cities-v2.webp"},
   {
     id: "albania-roskovec-cities-v2",
     type: "city",
@@ -619,8 +590,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Centru de producție a uleiului", "Situat în câmpia Myzeqe", "Nod de comerț agricol", "Puțuri de petrol în apropiere"],
       en: ["Center of olive oil production", "Located in Myzeqe plain", "Agricultural trade hub", "Nearby oil wells"],
     },
-    imageHint: "Olive groves around Roskovec",
-  },
+    imageHint: "Olive groves around Roskovec", image: "/poi-images/albania-roskovec-cities-v2.webp"},
   {
     id: "albania-peqin-cities-v2",
     type: "city",
@@ -639,8 +609,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Stație pe Via Egnatia", "Fortăreață otomană (castel)", "Turn cu ceas istoric", "Situat pe râul Shkumbin"],
       en: ["Ancient Via Egnatia station", "Ottoman fortress (castle)", "Historic clock tower", "Located on Shkumbin River"],
     },
-    imageHint: "Peqin castle and clock tower",
-  },
+    imageHint: "Peqin castle and clock tower", image: "/poi-images/albania-peqin-cities-v2.webp"},
   {
     id: "albania-krume-cities-v2",
     type: "city",
@@ -659,8 +628,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Centrul regiunii Has", "Cunoscut pentru cupru", "La poalele muntelui Pashtrik", "Aproape de granița cu Kosovo"],
       en: ["Center of Has region", "Known for copper mining", "Foot of Pashtrik mountain", "Near Kosovo border"],
     },
-    imageHint: "Krumë town and Pashtrik mountain",
-  },
+    imageHint: "Krumë town and Pashtrik mountain", image: "/poi-images/albania-krume-cities-v2.webp"},
   {
     id: "albania-libohove-cities-v2",
     type: "city",
@@ -679,8 +647,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Platan uriaș de 500 de ani", "Castelul Libohovë", "Vedere spre valea Drino", "Conace tradiționale"],
       en: ["Giant 500-year-old plane tree", "Libohovë Castle", "View over Drino Valley", "Traditional manor houses"],
     },
-    imageHint: "The giant plane tree of Libohovë",
-  },
+    imageHint: "The giant plane tree of Libohovë", image: "/poi-images/albania-libohove-cities-v2.webp"},
   {
     id: "albania-vore-cities-v2",
     type: "city",
@@ -699,8 +666,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Nod feroviar important", "Lângă aeroportul Tirana", "Hub logistic și industrial", "Legătura Tirana-Durrës"],
       en: ["Important railway junction", "Near Tirana Airport", "Logistics and industrial hub", "Connects Tirana and Durrës"],
     },
-    imageHint: "Vorë city center and highway junction",
-  },
+    imageHint: "Vorë city center and highway junction", image: "/poi-images/albania-vore-cities-v2.webp"},
   {
     id: "albania-himare-cities-v2",
     type: "town",
@@ -719,8 +685,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Perla Rivierei Albaneze", "Castelul antic Himarë", "Populație bilingvă", "Cunoscut pentru ulei de măsline"],
       en: ["Pearl of the Albanian Riviera", "Ancient Castle of Himarë", "Bilingual population", "Known for olive oil"],
     },
-    imageHint: "Himarë bay and old town on the hill",
-  },
+    imageHint: "Himarë bay and old town on the hill", image: "/poi-images/albania-himare-cities-v2.webp"},
   {
     id: "albania-delvine-cities-v2",
     type: "city",
@@ -739,8 +704,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Centru istoric otoman", "Ruine de castel pe deal", "Complexul Xhermëhalla", "Lângă Ochiul Albastru"],
       en: ["Historic Ottoman center", "Fortress ruins on the hill", "Xhermëhalla complex", "Located near Blue Eye spring"],
     },
-    imageHint: "Delvinë town with mountain backdrop",
-  },
+    imageHint: "Delvinë town with mountain backdrop", image: "/poi-images/albania-delvine-cities-v2.webp"},
   {
     id: "albania-orikum-cities-v2",
     type: "town",
@@ -759,8 +723,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Orașul antic Oricum", "Port naval important", "Situat în golful Vlorë", "Lângă pasul Llogara"],
       en: ["Ancient city of Oricum", "Major naval port", "Located on Vlorë Bay", "Near Llogara Pass"],
     },
-    imageHint: "Orikum bay and archaeological site",
-  },
+    imageHint: "Orikum bay and archaeological site", image: "/poi-images/albania-orikum-cities-v2.webp"},
   {
     id: "albania-polican-cities-v2",
     type: "city",
@@ -779,8 +742,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Fost oraș de armament", "La poalele muntelui Tomorr", "Fondat în anii 1960", "Cunoscut pentru viticultură"],
       en: ["Former weapons factory town", "At the foot of Mount Tomorr", "Founded in the 1960s", "Known for viticulture"],
     },
-    imageHint: "Poliçan town with Mount Tomorr background",
-  },
+    imageHint: "Poliçan town with Mount Tomorr background", image: "/poi-images/albania-polican-cities-v2.webp"},
   {
     id: "albania-shengjin-cities-v2",
     type: "port",
@@ -799,8 +761,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Port adriatic important", "Duna Rana e Hedhun", "Lângă orașul Lezhë", "Destinație turistică populară"],
       en: ["Major Adriatic port", "Rana e Hedhun sand dune", "Located near Lezhë", "Popular tourist destination"],
     },
-    imageHint: "Shëngjin port and beach area",
-  },
+    imageHint: "Shëngjin port and beach area", image: "/poi-images/albania-shengjin-cities-v2.webp"},
   {
     id: "albania-rubik-cities-v2",
     type: "town",
@@ -819,8 +780,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Biserică din secolul XII", "Fost centru de cupru", "Situat pe râul Fan", "Zona culturală Mirdita"],
       en: ["12th-century church", "Former copper mining hub", "Located on Fan River", "Mirdita cultural region"],
     },
-    imageHint: "The church of Rubik on the rocky cliff",
-  },
+    imageHint: "The church of Rubik on the rocky cliff", image: "/poi-images/albania-rubik-cities-v2.webp"},
   {
     id: "albania-kelcyre-cities-v2",
     type: "town",
@@ -839,8 +799,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Canionul Këlcyrë", "Situat pe râul Vjosa", "Castelul istoric Ali Pașa", "Centrul văii Vjosa"],
       en: ["Këlcyrë Gorge", "Located on Vjosa River", "Historic Ali Pasha castle", "Center of Vjosa Valley"],
     },
-    imageHint: "Këlcyrë gorge and Vjosa river",
-  },
+    imageHint: "Këlcyrë gorge and Vjosa river", image: "/poi-images/albania-kelcyre-cities-v2.webp"},
   {
     id: "albania-maliq-cities-v2",
     type: "city",
@@ -859,8 +818,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Fost centru al zahărului", "Pe fundul fostului lac", "Oraș agricol în sud-est", "Lângă orașul Korçë"],
       en: ["Former sugar industry hub", "Built on drained lake bed", "SE Albanian agricultural town", "Located near Korçë"],
     },
-    imageHint: "Maliq town center and fields",
-  },
+    imageHint: "Maliq town center and fields", image: "/poi-images/albania-maliq-cities-v2.webp"},
   {
     id: "albania-prrenjas-cities-v2",
     type: "city",
@@ -879,8 +837,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Minerit de fier și nichel", "Lângă lacul Ohrid", "Regiune montană de graniță", "Stație feroviară importantă"],
       en: ["Iron and nickel mining", "Located near Lake Ohrid", "Mountainous border region", "Important railway stop"],
     },
-    imageHint: "Prrenjas landscape with mines and mountains",
-  },
+    imageHint: "Prrenjas landscape with mines and mountains", image: "/poi-images/albania-prrenjas-cities-v2.webp"},
   {
     id: "albania-sukth-cities-v2",
     type: "town",
@@ -899,8 +856,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Lângă orașul Durrës", "Situat pe râul Erzen", "Zonă agricolă importantă", "Parte a primăriei Shijak"],
       en: ["Located near Durrës", "Situated on Erzen River", "Important agricultural zone", "Part of Shijak municipality"],
     },
-    imageHint: "Sukth town and Erzen river landscape",
-  },
+    imageHint: "Sukth town and Erzen river landscape", image: "/poi-images/albania-sukth-cities-v2.webp"},
   {
     id: "albania-mamurras-cities-v2",
     type: "town",
@@ -919,8 +875,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Nod rutier pe autostradă", "Oraș comercial agricol", "La nord de capitală", "Lângă coasta Adriaticii"],
       en: ["Junction on the highway", "Trade town for farm goods", "North of the capital", "Near the Adriatic coast"],
     },
-    imageHint: "Mamurras town center near the highway",
-  },
+    imageHint: "Mamurras town center near the highway", image: "/poi-images/albania-mamurras-cities-v2.webp"},
   {
     id: "albania-bulqize-cities-v2",
     type: "city",
@@ -939,8 +894,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Cea mai mare mină de crom", "Oraș minier la altitudine", "În regiunea Dibra", "Caracter industrial marcat"],
       en: ["World's largest chrome mine", "High-altitude mining town", "Located in Dibra region", "Industrial character"],
     },
-    imageHint: "Bulqizë chrome mine and mountain valley",
-  },
+    imageHint: "Bulqizë chrome mine and mountain valley", image: "/poi-images/albania-bulqize-cities-v2.webp"},
   {
     id: "albania-divjake-cities-v2",
     type: "town",
@@ -959,8 +913,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Laguna Karavasta (pelicani)", "Păduri de pini renumite", "Situat lângă mare", "Parc național important"],
       en: ["Karavasta Lagoon (pelicans)", "Famous pine forests", "Located near the sea", "Important national park"],
     },
-    imageHint: "Karavasta lagoon and Dalmatian pelicans",
-  },
+    imageHint: "Karavasta lagoon and Dalmatian pelicans", image: "/poi-images/albania-divjake-cities-v2.webp"},
   {
     id: "albania-belsh-cities-v2",
     type: "town",
@@ -979,8 +932,7 @@ export const albaniaCitiesV2: POI[] = [
       ro: ["Centrul celor 84 de lacuri", "Regiunea platoului Dumre", "Destinație de excursie", "Așezare iliră antică"],
       en: ["Center of the 84 lakes", "Dumre plateau region", "Popular day-trip spot", "Ancient Illyrian settlement"],
     },
-    imageHint: "Belsh town on the shore of a karst lake",
-  },
+    imageHint: "Belsh town on the shore of a karst lake", image: "/poi-images/albania-belsh-cities-v2.webp"},
   {
     id: "albania-konispol-cities-v2",
     type: "town",

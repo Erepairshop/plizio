@@ -19,8 +19,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Singura focă de apă dulce", "Specie endemică în Baikal", "Populație de circa 100.000", "Se scufundă până la 400 m"],
       en: ["Only freshwater seal species", "Endemic to Lake Baikal", "Population around 100,000", "Dives up to 400 meters"],
     },
-    imageHint: "Baikal seal nerpa on ice",
-  },
+    imageHint: "Baikal seal nerpa on ice", image: "/poi-images/russia-lake-baikal-nerpa-life-v2.webp"},
   {
     id: "russia-kronotsky-reserve-life-v2",
     type: "wildlife",
@@ -39,8 +38,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Peste 800 de urși bruni", "Fondată în anul 1934", "Include Valea Gheizerelor", "Patrimoniu Mondial UNESCO"],
       en: ["Over 800 brown bears", "Founded in 1934", "Includes Valley of Geysers", "UNESCO World Heritage site"],
     },
-    imageHint: "Kamchatka brown bear catching salmon",
-  },
+    imageHint: "Kamchatka brown bear catching salmon", image: "/poi-images/russia-kronotsky-reserve-life-v2.webp"},
   {
     id: "russia-wrangel-island-life-v2",
     type: "wildlife",
@@ -79,8 +77,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Habitatul tigrului siberian", "Înființată în anul 1935", "Patrimoniu UNESCO", "Biodiversitate bogată"],
       en: ["Home of the Amur tiger", "Founded in 1935", "UNESCO World Heritage site", "Rich biodiversity"],
     },
-    imageHint: "Amur tiger in snowy forest",
-  },
+    imageHint: "Amur tiger in snowy forest", image: "/poi-images/russia-sikhote-alin-life-v2.webp"},
   {
     id: "russia-caucasus-reserve-life-v2",
     type: "wildlife",
@@ -99,8 +96,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Protejează bizonul caucazian", "Suprafață de circa 2.800 km²", "Înființată în 1924", "Ecosistem montan înalt"],
       en: ["Protects Caucasian bison", "Area of ~2,800 km²", "Established in 1924", "High mountain ecosystem"],
     },
-    imageHint: "Caucasian bison in mountain meadow",
-  },
+    imageHint: "Caucasian bison in mountain meadow", image: "/poi-images/russia-caucasus-reserve-life-v2.webp"},
   {
     id: "russia-land-of-leopard-life-v2",
     type: "wildlife",
@@ -119,8 +115,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Cel mai rar leopard din lume", "Înființat în anul 2012", "Protejează și tigri siberieni", "Lângă Vladivostok"],
       en: ["Rarest leopard in the world", "Established in 2012", "Protects Amur tigers too", "Near Vladivostok"],
     },
-    imageHint: "Amur leopard in temperate forest",
-  },
+    imageHint: "Amur leopard in temperate forest", image: "/poi-images/russia-land-of-leopard-life-v2.webp"},
   {
     id: "russia-putorana-reserve-life-v2",
     type: "wildlife",
@@ -139,8 +134,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Cea mai mare turmă de reni", "Patrimoniu UNESCO", "Habitatul oii de zăpadă", "Peste 25.000 de cascade"],
       en: ["Largest reindeer herd", "UNESCO World Heritage site", "Home to Putorana snow sheep", "Over 25,000 waterfalls"],
     },
-    imageHint: "Reindeer herd on Putorana plateau",
-  },
+    imageHint: "Reindeer herd on Putorana plateau", image: "/poi-images/russia-putorana-reserve-life-v2.webp"},
   {
     id: "russia-altai-reserve-life-v2",
     type: "wildlife",
@@ -159,8 +153,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Protejează leopardul zăpezilor", "Patrimoniu UNESCO", "Include lacul Telețkoe", "Înființată în anul 1932"],
       en: ["Snow leopard sanctuary", "UNESCO World Heritage site", "Includes Lake Teletskoye", "Established in 1932"],
     },
-    imageHint: "Snow leopard in Altai mountains",
-  },
+    imageHint: "Snow leopard in Altai mountains", image: "/poi-images/russia-altai-reserve-life-v2.webp"},
   {
     id: "russia-barguzinsky-reserve-life-v2",
     type: "wildlife",
@@ -179,8 +172,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Cea mai veche rezervație", "Protejează zibelina", "Înființată în 1916", "Situată pe malul Baikalului"],
       en: ["Oldest reserve in Russia", "Protects the sable", "Established in 1916", "Located by Lake Baikal"],
     },
-    imageHint: "Russian sable in pine forest",
-  },
+    imageHint: "Russian sable in pine forest", image: "/poi-images/russia-barguzinsky-reserve-life-v2.webp"},
   {
     id: "russia-voronezh-reserve-life-v2",
     type: "wildlife",
@@ -219,8 +211,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Centru de creștere a bizonilor", "Cea mai mică rezervație din Rusia", "Situată lângă Moscova", "Înființată în anul 1945"],
       en: ["European bison nursery", "Smallest reserve in Russia", "Located near Moscow", "Established in 1945"],
     },
-    imageHint: "European bison in snowy Moscow forest",
-  },
+    imageHint: "European bison in snowy Moscow forest", image: "/poi-images/russia-prioksko-terrasny-life-v2.webp"},
   {
     id: "russia-astrakhan-reserve-life-v2",
     type: "wildlife",
@@ -279,8 +270,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Fondată în anul 1864", "Peste 1.000 de specii", "În centrul Moscovei", "Cea mai veche din Rusia"],
       en: ["Founded in 1864", "Over 1,000 species", "In central Moscow", "Oldest zoo in Russia"],
     },
-    imageHint: "Moscow Zoo entrance and animals",
-  },
+    imageHint: "Moscow Zoo entrance and animals", image: "/poi-images/russia-moscow-zoo-life-v2.webp"},
   {
     id: "russia-main-botanical-garden-life-v2",
     type: "park",
@@ -299,8 +289,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Cea mai mare din Europa", "Înființată în 1945", "Peste 18.000 specii", "Suprafață de 360 hectare"],
       en: ["Largest in Europe", "Founded in 1945", "Over 18,000 plant species", "Area of ~360 hectares"],
     },
-    imageHint: "Main Botanical Garden Moscow greenhouses",
-  },
+    imageHint: "Main Botanical Garden Moscow greenhouses", image: "/poi-images/russia-main-botanical-garden-life-v2.webp"},
   {
     id: "russia-sochi-arboretum-life-v2",
     type: "park",
@@ -319,8 +308,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Plante subtropicale", "Înființat în anul 1889", "Peste 1.800 de specii", "Vedere la Marea Neagră"],
       en: ["Subtropical plants", "Founded in 1889", "Over 1,800 species", "View of the Black Sea"],
     },
-    imageHint: "Sochi Arboretum palms and fountain",
-  },
+    imageHint: "Sochi Arboretum palms and fountain", image: "/poi-images/russia-sochi-arboretum-life-v2.webp"},
   {
     id: "russia-curonian-spit-life-v2",
     type: "wildlife",
@@ -339,8 +327,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Dune de nisip mișcătoare", "Pădurea Dansatoare", "Patrimoniu UNESCO", "Rută de migrație a păsărilor"],
       en: ["Migrating sand dunes", "The Dancing Forest", "UNESCO World Heritage site", "Major bird migration route"],
     },
-    imageHint: "Dancing forest trees Curonian Spit",
-  },
+    imageHint: "Dancing forest trees Curonian Spit", image: "/poi-images/russia-curonian-spit-life-v2.webp"},
   {
     id: "russia-lapland-reserve-life-v2",
     type: "wildlife",
@@ -359,8 +346,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Turme de reni sălbatici", "La nord de cercul polar", "Ecosistem de tundră", "Înființată în anul 1930"],
       en: ["Wild reindeer herds", "North of Arctic Circle", "Mountain tundra ecosystem", "Established in 1930"],
     },
-    imageHint: "Wild reindeer in Lapland tundra",
-  },
+    imageHint: "Wild reindeer in Lapland tundra", image: "/poi-images/russia-lapland-reserve-life-v2.webp"},
   {
     id: "russia-black-lands-life-v2",
     type: "wildlife",
@@ -379,8 +365,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Protejează antilopa saiga", "Singura din Europa", "Peisaj de semideșert", "Înființată în anul 1990"],
       en: ["Saiga antelope sanctuary", "Only one in Europe", "Semi-desert landscape", "Established in 1990"],
     },
-    imageHint: "Saiga antelope in Russian steppe",
-  },
+    imageHint: "Saiga antelope in Russian steppe", image: "/poi-images/russia-black-lands-life-v2.webp"},
   {
     id: "russia-great-arctic-reserve-life-v2",
     type: "wildlife",
@@ -419,8 +404,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Cercetarea leopardului", "Munții Saian", "Ibex siberian", "Înființată în anul 1976"],
       en: ["Snow leopard research", "Sayan Mountains", "Siberian ibex habitat", "Established in 1976"],
     },
-    imageHint: "Siberian ibex on mountain cliff",
-  },
+    imageHint: "Siberian ibex on mountain cliff", image: "/poi-images/russia-sayano-shushenski-life-v2.webp"},
   {
     id: "russia-commander-islands-life-v2",
     type: "wildlife",
@@ -499,8 +483,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Caucazul de Nord", "Peste 100 de ghețari", "Capră neagră caucaziană", "Înființată în anul 1936"],
       en: ["High Caucasus", "Over 100 glaciers", "Caucasian chamois", "Established in 1936"],
     },
-    imageHint: "Caucasian chamois in high mountains",
-  },
+    imageHint: "Caucasian chamois in high mountains", image: "/poi-images/russia-teberda-reserve-life-v2.webp"},
   {
     id: "russia-darwin-reserve-life-v2",
     type: "wildlife",
@@ -539,8 +522,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Desmanul rus", "Stație pentru cocori", "Râul Oka", "Înființată în anul 1935"],
       en: ["Russian desman", "Crane breeding station", "Oka River", "Established in 1935"],
     },
-    imageHint: "Russian desman swimming in water",
-  },
+    imageHint: "Russian desman swimming in water", image: "/poi-images/russia-oka-reserve-life-v2.webp"},
   {
     id: "russia-central-forest-reserve-life-v2",
     type: "forest",
@@ -579,8 +561,7 @@ export const russiaLifeV2: POI[] = [
       ro: ["Prima fermă de elani", "Stâncile Manpupuner", "Pădurile virgine Komi", "Patrimoniu UNESCO"],
       en: ["First moose farm", "Manpupuner rocks", "Komi Virgin Forests", "UNESCO World Heritage site"],
     },
-    imageHint: "Moose farm in Komi forest",
-  },
+    imageHint: "Moose farm in Komi forest", image: "/poi-images/russia-pechora-ilych-life-v2.webp"},
   {
     id: "russia-novosibirsk-zoo-life-v2",
     type: "wildlife",

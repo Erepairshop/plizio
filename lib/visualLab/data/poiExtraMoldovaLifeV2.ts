@@ -19,8 +19,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Cea mai veche rezervație din Moldova", "Suprafață de 5.177 hectare", "Peste 1000 de specii de plante", "Adăpostește pisici sălbatice și cerbi"],
       en: ["Oldest reserve in Moldova", "Area of 5,177 hectares", "Over 1,000 plant species", "Inhabited by wild cats and deer"],
     },
-    imageHint: "Codru forest reserve landscape Moldova",
-  },
+    imageHint: "Codru forest reserve landscape Moldova", image: "/poi-images/moldova-codru-reserve-life-v2.webp"},
   {
     id: "moldova-padurea-domneasca-life-v2",
     type: "wildlife",
@@ -59,8 +58,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Înființată în anul 1991", "Dominată de păduri de fag", "Relief deluros până la 400m", "Peste 900 specii de plante"],
       en: ["Established in 1991", "Dominated by common beech trees", "Hilly terrain up to 400m", "Over 900 species of plants"],
     },
-    imageHint: "Beech forest Plaiul Fagului Moldova",
-  },
+    imageHint: "Beech forest Plaiul Fagului Moldova", image: "/poi-images/moldova-plaiul-fagului-life-v2.webp"},
   {
     id: "moldova-prutul-de-jos-life-v2",
     type: "wildlife",
@@ -79,8 +77,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Rezervație a Biosferei UNESCO din 2018", "Include lacul relict Beleu", "Peste 190 de specii de păsări", "Zonă umedă de importanță Ramsar"],
       en: ["UNESCO Biosphere Reserve since 2018", "Includes the relict Lake Beleu", "Over 190 bird species", "Ramsar wetland site"],
     },
-    imageHint: "Lake Beleu migratory birds Moldova",
-  },
+    imageHint: "Lake Beleu migratory birds Moldova", image: "/poi-images/moldova-prutul-de-jos-life-v2.webp"},
   {
     id: "moldova-iagorlic-reserve-life-v2",
     type: "wildlife",
@@ -99,8 +96,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Înființată în 1988", "Focus pe ecosisteme acvatice", "Ihtiofaună bogată", "Situată în regiunea transnistreană"],
       en: ["Established in 1988", "Focus on aquatic ecosystems", "Rich fish fauna", "Located in the Transnistrian region"],
     },
-    imageHint: "Iagorlic river reserve Dniester Moldova",
-  },
+    imageHint: "Iagorlic river reserve Dniester Moldova", image: "/poi-images/moldova-iagorlic-reserve-life-v2.webp"},
   {
     id: "moldova-chisinau-botanical-garden-life-v2",
     type: "park",
@@ -119,8 +115,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Fondată în anul 1950", "Peste 10.000 specii de plante", "Rozariu mare și sector de liane", "Sistem de lacuri artificiale"],
       en: ["Established in 1950", "Over 10,000 plant species", "Large rosarium and liana section", "Artificial lake system"],
     },
-    imageHint: "Botanical Garden Chisinau blooming flowers",
-  },
+    imageHint: "Botanical Garden Chisinau blooming flowers", image: "/poi-images/moldova-chisinau-botanical-garden-life-v2.webp"},
   {
     id: "moldova-chisinau-zoo-life-v2",
     type: "wildlife",
@@ -139,8 +134,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Deschisă la 9 mai 1978", "Peste 1000 de animale", "Include leoparzi ai zăpezilor", "Destinație populară pentru familii"],
       en: ["Opened on May 9, 1978", "Over 1,000 animals", "Includes rare snow leopards", "Popular family destination"],
     },
-    imageHint: "Chisinau Zoo entrance and enclosures",
-  },
+    imageHint: "Chisinau Zoo entrance and enclosures", image: "/poi-images/moldova-chisinau-zoo-life-v2.webp"},
   {
     id: "moldova-taul-park-life-v2",
     type: "park",
@@ -159,8 +153,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Suprafață de 46 hectare", "Cel mai mare parc peisajistic", "Specii exotice din Siberia", "Înconjoară conacul Pommer"],
       en: ["Area of 46 hectares", "Largest landscape park in Moldova", "Exotic tree species from Siberia", "Surrounds the Pommer manor"],
     },
-    imageHint: "Taul Park dendrological collection Moldova",
-  },
+    imageHint: "Taul Park dendrological collection Moldova", image: "/poi-images/moldova-taul-park-life-v2.webp"},
   {
     id: "moldova-saharna-reserve-life-v2",
     type: "wildlife",
@@ -179,8 +172,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Cunoscută pentru cele 22 cascade", "Cea mai înaltă cascadă are 10m", "Plante relicte glaciare", "Zonă populară de drumeții"],
       en: ["Known for 22 waterfalls", "Highest waterfall is 10m high", "Glacial relict plants", "Popular hiking destination"],
     },
-    imageHint: "Saharna waterfalls and cliffs Moldova",
-  },
+    imageHint: "Saharna waterfalls and cliffs Moldova", image: "/poi-images/moldova-saharna-reserve-life-v2.webp"},
   {
     id: "moldova-tipova-reserve-life-v2",
     type: "wildlife",
@@ -199,8 +191,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Defileuri spectaculoase pe Nistru", "Habitat pentru șoimul călător", "Ferigi rare în crăpături", "Include cascade în trepte"],
       en: ["Spectacular Dniester gorges", "Habitat for peregrine falcons", "Rare ferns in rock crevices", "Features tiered waterfalls"],
     },
-    imageHint: "Tipova cliffs overlooking Dniester river",
-  },
+    imageHint: "Tipova cliffs overlooking Dniester river", image: "/poi-images/moldova-tipova-reserve-life-v2.webp"},
   {
     id: "moldova-naslavcea-clisura-life-v2",
     type: "wildlife",
@@ -219,8 +210,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Cel mai nordic punct al țării", "Prezența tufului vulcanic", "Fosile de pești și plante", "Vedere spre lacul de acumulare"],
       en: ["Northernmost point of Moldova", "Presence of volcanic tuff", "Fossilized fish and plants", "View of the Dniester reservoir"],
     },
-    imageHint: "Naslavcea Dniester river bend northern Moldova",
-  },
+    imageHint: "Naslavcea Dniester river bend northern Moldova", image: "/poi-images/moldova-naslavcea-clisura-life-v2.webp"},
   {
     id: "moldova-hundred-mounds-life-v2",
     type: "wildlife",
@@ -239,8 +229,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Peste 3.500 de movile", "Parte din Pădurea Domnească", "Origine geologică incertă", "Plante de stepă rare"],
       en: ["Over 3,500 mounds", "Part of the Royal Forest", "Mysterious geological origin", "Rare steppe vegetation"],
     },
-    imageHint: "Suta de Movile mounds landscape Moldova",
-  },
+    imageHint: "Suta de Movile mounds landscape Moldova", image: "/poi-images/moldova-hundred-mounds-life-v2.webp"},
   {
     id: "moldova-beleu-lake-life-v2",
     type: "lake",
@@ -259,8 +248,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Vechime de cca. 5000 ani", "Adâncime medie de 1-2m", "Loc de popas pentru pelicani", "Parte a biosferei UNESCO"],
       en: ["Around 5,000 years old", "Average depth of 1-2m", "Stopover for pelicans", "Part of UNESCO Biosphere"],
     },
-    imageHint: "Beleu lake surface with birds Moldova",
-  },
+    imageHint: "Beleu lake surface with birds Moldova", image: "/poi-images/moldova-beleu-lake-life-v2.webp"},
   {
     id: "moldova-manta-lake-life-v2",
     type: "lake",
@@ -279,8 +267,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Cel mai mare lac natural", "Vegetație de stufăriș bogată", "Prezența nuferilor albi", "Zonă importantă pentru pescuit"],
       en: ["Largest natural lake in Moldova", "Extensive reed beds", "Presence of white water lilies", "Important fishing area"],
     },
-    imageHint: "Manta lake water lilies Moldova",
-  },
+    imageHint: "Manta lake water lilies Moldova", image: "/poi-images/moldova-manta-lake-life-v2.webp"},
   {
     id: "moldova-fetesti-reserve-life-v2",
     type: "wildlife",
@@ -299,8 +286,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Supranumită 'Mica Elveție'", "Recifuri calcaroase sarmațiene", "Peste 160 specii de plante", "Defileuri adânci în piatră"],
       en: ["Nicknamed 'Little Switzerland'", "Sarmatian limestone reefs", "Over 160 plant species", "Deep rocky gorges"],
     },
-    imageHint: "Fetesti landscape Little Switzerland Moldova",
-  },
+    imageHint: "Fetesti landscape Little Switzerland Moldova", image: "/poi-images/moldova-fetesti-reserve-life-v2.webp"},
   {
     id: "moldova-la-castel-life-v2",
     type: "wildlife",
@@ -379,8 +365,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Meandre spectaculoase ale Răutului", "Habitat pentru numeroși lilieci", "Stânci calcaroase sarmațiene", "Parte din Parcul Național Orhei"],
       en: ["Spectacular Răut river meanders", "Habitat for many bat species", "Sarmatian limestone cliffs", "Part of the Orhei National Park"],
     },
-    imageHint: "Trebujeni Raut river canyon Moldova",
-  },
+    imageHint: "Trebujeni Raut river canyon Moldova", image: "/poi-images/moldova-trebujeni-reserve-life-v2.webp"},
   {
     id: "moldova-capriana-scoreni-life-v2",
     type: "forest",
@@ -399,8 +384,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Inima Codrilor centrali", "Stejari de peste 500 de ani", "Casă pentru cerbi și căprioare", "Zonă de cercetare științifică"],
       en: ["Heart of the central Codri", "Oaks over 500 years old", "Home to deer and roe deer", "Scientific research area"],
     },
-    imageHint: "Old oak forest Capriana Moldova",
-  },
+    imageHint: "Old oak forest Capriana Moldova", image: "/poi-images/moldova-capriana-scoreni-life-v2.webp"},
   {
     id: "moldova-tipova-waterfalls-life-v2",
     type: "wildlife",
@@ -419,8 +403,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Curs în cascade succesive", "Specii rare de mușchi", "Oază în peisajul arid", "Destinație de drumeție la Țîpova"],
       en: ["Cascading tiered flow", "Rare moss species", "Oasis in an arid landscape", "Hiking spot near Tipova"],
     },
-    imageHint: "Tipova waterfalls landscape Moldova",
-  },
+    imageHint: "Tipova waterfalls landscape Moldova", image: "/poi-images/moldova-tipova-waterfalls-life-v2.webp"},
   {
     id: "moldova-saharna-waterfalls-life-v2",
     type: "wildlife",
@@ -439,8 +422,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Total de 22 de cascade", "Cascada principală are 10m", "Bogată în plante endemice", "Amfiteatru natural"],
       en: ["22 cascades in total", "Main fall is 10m high", "Rich in endemic plants", "Natural amphitheater formation"],
     },
-    imageHint: "Saharna waterfall Gropul Tiganului Moldova",
-  },
+    imageHint: "Saharna waterfall Gropul Tiganului Moldova", image: "/poi-images/moldova-saharna-waterfalls-life-v2.webp"},
   {
     id: "moldova-duruitoarea-gorges-life-v2",
     type: "wildlife",
@@ -479,8 +461,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Recif lung de peste 2 km", "Fund de mare antic", "Include peșteri adânci", "Floră de stepă relictă"],
       en: ["Over 2 km long reef", "Ancient seabed remnant", "Includes deep caves", "Relict steppe flora"],
     },
-    imageHint: "Butesti reef limestone formation Moldova",
-  },
+    imageHint: "Butesti reef limestone formation Moldova", image: "/poi-images/moldova-butesti-reef-life-v2.webp"},
   {
     id: "moldova-cobani-molla-life-v2",
     type: "wildlife",
@@ -499,8 +480,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Cel mai masiv recif din lunca Prutului", "Centru pentru insecte rare", "Raritate geologică", "Vedere spre lunca Prutului"],
       en: ["Most massive reef in the Prut valley", "Hub for rare insects", "Geological rarity", "Overlooks the Prut floodplains"],
     },
-    imageHint: "Stinca Mare Cobani limestone reef Moldova",
-  },
+    imageHint: "Stinca Mare Cobani limestone reef Moldova", image: "/poi-images/moldova-cobani-molla-life-v2.webp"},
   {
     id: "moldova-dendrarium-chisinau-life-v2",
     type: "park",
@@ -519,8 +499,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Fondat în anul 1973", "Peste 1000 specii lemnoase", "Renumit pentru rozariul său", "Ecosistem urban vital"],
       en: ["Established in 1973", "Over 1,000 woody species", "Renowned for its rosarium", "Vital urban ecosystem"],
     },
-    imageHint: "Dendrarium Park Chisinau autumn trees",
-  },
+    imageHint: "Dendrarium Park Chisinau autumn trees", image: "/poi-images/moldova-dendrarium-chisinau-life-v2.webp"},
   {
     id: "moldova-ivancea-reserve-life-v2",
     type: "wildlife",
@@ -539,8 +518,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Mix de pădure și lacuri", "Important pentru păsări migratoare", "Lângă conacul din Ivancea", "Bogată în plante medicinale"],
       en: ["Combination of forest and lakes", "Important for migratory birds", "Near the Ivancea manor", "Rich in medicinal herbs"],
     },
-    imageHint: "Ivancea lake and forest Moldova",
-  },
+    imageHint: "Ivancea lake and forest Moldova", image: "/poi-images/moldova-ivancea-reserve-life-v2.webp"},
   {
     id: "moldova-lower-dniester-life-v2",
     type: "wildlife",
@@ -559,8 +537,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Zonă umedă Ramsar", "Fondat ca Parcul Național în 2022", "Zonă importantă de cuibărit", "Peste 200 specii de păsări"],
       en: ["Ramsar wetland site", "Established as National Park in 2022", "Key nesting area for herons", "Over 200 bird species"],
     },
-    imageHint: "Lower Dniester wetlands birdlife Moldova",
-  },
+    imageHint: "Lower Dniester wetlands birdlife Moldova", image: "/poi-images/moldova-lower-dniester-life-v2.webp"},
   {
     id: "moldova-emil-racovita-cave-life-v2",
     type: "wildlife",
@@ -579,8 +556,7 @@ export const moldovaLifeV2: POI[] = [
       ro: ["A treia mare peșteră de ghips", "Peste 90 km de galerii", "Lacuri subterane unice", "Prezența mineralului 'crivana'"],
       en: ["3rd largest gypsum cave globally", "Over 90 km of galleries", "Unique underground lakes", "Home to 'crivana' minerals"],
     },
-    imageHint: "Emil Racovita gypsum cave interior Moldova",
-  },
+    imageHint: "Emil Racovita gypsum cave interior Moldova", image: "/poi-images/moldova-emil-racovita-cave-life-v2.webp"},
   {
     id: "moldova-garbovat-forest-life-v2",
     type: "forest",

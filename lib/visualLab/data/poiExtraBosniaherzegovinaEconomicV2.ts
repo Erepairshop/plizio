@@ -39,8 +39,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Putere instalată de aproximativ 723 MW", "Construcția a început în anul 1959", "Furnizează agent termic pentru orașul Tuzla", "Operată de compania Elektroprivreda BiH"],
       en: ["Installed capacity of approximately 723 MW", "Construction began in the year 1959", "Provides district heating for the city of Tuzla", "Operated by the company Elektroprivreda BiH"],
     },
-    imageHint: "Tuzla thermal power plant cooling towers",
-  },
+    imageHint: "Tuzla thermal power plant cooling towers", image: "/poi-images/bosniaherzegovina-tuzla-power-plant-economic-v2.webp"},
   {
     id: "bosniaherzegovina-kakanj-coal-power-economic-v2",
     type: "industry",
@@ -59,8 +58,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Locația fabricii de ciment Heidelberg Materials", "Termocentrala Kakanj are o putere de 450 MW", "Minerit de cărbune de peste 100 de ani", "Nod rutier important pe autostrada A1"],
       en: ["Location of the Heidelberg Materials cement factory", "The Kakanj power plant has 450 MW capacity", "Coal mining active for over 100 years", "Important transport hub on the A1 motorway"],
     },
-    imageHint: "Kakanj industrial facility and power plant",
-  },
+    imageHint: "Kakanj industrial facility and power plant", image: "/poi-images/bosniaherzegovina-kakanj-coal-power-economic-v2.webp"},
   {
     id: "bosniaherzegovina-mostar-aluminium-economic-v2",
     type: "factory",
@@ -79,8 +77,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Fondat în anul 1975", "Cel mai mare exportator al țării în perioadele de vârf", "Specializat în aliaje și lingouri", "Colaborează cu producători internaționali de automobile"],
       en: ["Founded in the year 1975", "Largest exporter of the country during peak times", "Specialized in alloys and ingots", "Cooperates with international automobile manufacturers"],
     },
-    imageHint: "Aluminium factory industrial plant Mostar",
-  },
+    imageHint: "Aluminium factory industrial plant Mostar", image: "/poi-images/bosniaherzegovina-mostar-aluminium-economic-v2.webp"},
   {
     id: "bosniaherzegovina-modrica-oil-refinery-economic-v2",
     type: "factory",
@@ -139,8 +136,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Cel mai mare producător de zeoliți din regiune", "Angajează peste 1.500 de persoane", "Fostă parte a concernului Birač", "Utilizează zăcăminte locale de bauxită din Milići"],
       en: ["Largest zeolite producer in the region", "Employs over 1.500 workers", "Formerly part of the Birač concern", "Uses local bauxite deposits from Milići"],
     },
-    imageHint: "Alumina factory industrial plant Zvornik",
-  },
+    imageHint: "Alumina factory industrial plant Zvornik", image: "/poi-images/bosniaherzegovina-zvornik-alumina-economic-v2.webp"},
   {
     id: "bosniaherzegovina-jablanica-hydro-economic-v2",
     type: "industry",
@@ -159,8 +155,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Pusă în funcțiune în anul 1955", "Baraj în arc cu înălțimea de 85 de metri", "Putere instalată de 180 MW", "Regulator important pentru rețeaua electrică"],
       en: ["Commissioned in the year 1955", "Arch dam with a height of 85 meters", "Installed capacity of 180 MW", "Important regulator for the power grid"],
     },
-    imageHint: "Jablanica dam and hydroelectric power plant",
-  },
+    imageHint: "Jablanica dam and hydroelectric power plant", image: "/poi-images/bosniaherzegovina-jablanica-hydro-economic-v2.webp"},
   {
     id: "bosniaherzegovina-lukavac-cement-economic-v2",
     type: "factory",
@@ -179,8 +174,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1974", "Privatizată în anul 2001", "Utilizează combustibili alternativi pentru economisirea energiei", "Furnizează ciment pentru proiecte majore de infrastructură"],
       en: ["Founded in the year 1974", "Privatized in the year 2001", "Uses alternative fuels for energy savings", "Supplies cement for major infrastructure projects"],
     },
-    imageHint: "Modern cement factory industrial site Lukavac",
-  },
+    imageHint: "Modern cement factory industrial site Lukavac", image: "/poi-images/bosniaherzegovina-lukavac-cement-economic-v2.webp"},
   {
     id: "bosniaherzegovina-gacko-power-plant-economic-v2",
     type: "industry",
@@ -199,8 +193,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Punerea în funcțiune a primului bloc în 1983", "Putere instalată de 300 MW", "Dispune de propria mină de suprafață", "Importantă pentru exportul de energie către Muntenegru"],
       en: ["Commissioning of the first unit in 1983", "Installed capacity of 300 MW", "Has its own open-pit coal mine", "Important for energy export to Montenegro"],
     },
-    imageHint: "Gacko thermal power plant chimney and mine",
-  },
+    imageHint: "Gacko thermal power plant chimney and mine", image: "/poi-images/bosniaherzegovina-gacko-power-plant-economic-v2.webp"},
   {
     id: "bosniaherzegovina-ugljevik-power-plant-economic-v2",
     type: "industry",
@@ -219,8 +212,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Coșul de fum are 310 metri înălțime", "Produce anual aproximativ 1,6 TWh de electricitate", "Zăcământ mare de lignit direct la fața locului", "Modernizarea instalației de desulfurare în 2020"],
       en: ["The chimney is 310 meters high", "Produces annually approx. 1.6 TWh of electricity", "Large lignite deposit directly on-site", "Modernization of the desulfurization plant in 2020"],
     },
-    imageHint: "Ugljevik power plant with very tall chimney",
-  },
+    imageHint: "Ugljevik power plant with very tall chimney", image: "/poi-images/bosniaherzegovina-ugljevik-power-plant-economic-v2.webp"},
   {
     id: "bosniaherzegovina-stanari-power-plant-economic-v2",
     type: "industry",
@@ -239,8 +231,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Finalizată în anul 2016", "Utilizează tehnologia modernă a cazanelor CFB", "Putere de 300 MW", "Primul proiect de acest tip cu capital privat"],
       en: ["Completed in the year 2016", "Uses modern CFB boiler technology", "Capacity of 300 MW", "First project of its kind with private capital"],
     },
-    imageHint: "Modern Stanari thermal power plant facility",
-  },
+    imageHint: "Modern Stanari thermal power plant facility", image: "/poi-images/bosniaherzegovina-stanari-power-plant-economic-v2.webp"},
   {
     id: "bosniaherzegovina-vares-silver-mine-economic-v2",
     type: "mine",
@@ -259,8 +250,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Reluarea mineritului în anul 2024", "Investiție de peste 200 de milioane de euro", "Cele mai moderne standarde de mediu în minerit", "Vareș are o tradiție minieră din Evul Mediu"],
       en: ["Resumption of mining in the year 2024", "Investment of over 200 million Euros", "Modern environmental standards in mining", "Vareš has a mining tradition since the Middle Ages"],
     },
-    imageHint: "Vares mining site and modern processing plant",
-  },
+    imageHint: "Vares mining site and modern processing plant", image: "/poi-images/bosniaherzegovina-vares-silver-mine-economic-v2.webp"},
   {
     id: "bosniaherzegovina-omarska-iron-mine-economic-v2",
     type: "mine",
@@ -279,8 +269,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Mină de suprafață cu rezerve mari", "Sursă principală de venit pentru regiunea Prijedor", "Minereul este transportat cu trenul la Zenica", "Aparține liderului mondial ArcelorMittal"],
       en: ["Open-pit mine with large reserves", "Main source of income for the Prijedor region", "Ore is transported by rail to Zenica", "Belongs to the global market leader ArcelorMittal"],
     },
-    imageHint: "Large open pit iron ore mine Omarska",
-  },
+    imageHint: "Large open pit iron ore mine Omarska", image: "/poi-images/bosniaherzegovina-omarska-iron-mine-economic-v2.webp"},
   {
     id: "bosniaherzegovina-konjic-igman-factory-economic-v2",
     type: "factory",
@@ -319,8 +308,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1950", "Privatizată în anul 2002", "Produce ulei de floarea-soarelui, rapiță și soia", "Deține propriul debarcader pe râul Sava"],
       en: ["Founded in the year 1950", "Privatized in the year 2002", "Produces sunflower, rapeseed, and soybean oil", "Has its own dock on the Sava River"],
     },
-    imageHint: "Bimal edible oil factory in Brcko",
-  },
+    imageHint: "Bimal edible oil factory in Brcko", image: "/poi-images/bosniaherzegovina-brcko-bimal-factory-economic-v2.webp"},
   {
     id: "bosniaherzegovina-visoko-prevent-factory-economic-v2",
     type: "factory",
@@ -339,8 +327,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Furnizează huse pentru mărci precum VW și BMW", "Cel mai mare angajator privat din Bosnia", "Continuă tradiția tăbăcăriei de piele", "Parte a grupului global Prevent"],
       en: ["Supplies covers for brands like VW and BMW", "Largest private employer in Bosnia", "Continues the tradition of leather tanning", "Part of the globally active Prevent Group"],
     },
-    imageHint: "Prevent factory industrial building Visoko",
-  },
+    imageHint: "Prevent factory industrial building Visoko", image: "/poi-images/bosniaherzegovina-visoko-prevent-factory-economic-v2.webp"},
   {
     id: "bosniaherzegovina-gorazde-bekto-precisa-economic-v2",
     type: "factory",
@@ -359,8 +346,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Specializată în construcția de scule high-tech", "Lucrează pentru industria auto și electrică", "Goražde este considerat 'Minunea de pe Drina'", "Cotă de export foarte ridicată către Europa de Vest"],
       en: ["Specialized in high-tech toolmaking", "Works for the automotive and electrical industries", "Goražde is known as the 'Wonder on the Drina'", "Very high export rate to Western Europe"],
     },
-    imageHint: "Modern factory exterior Bekto Precisa Gorazde",
-  },
+    imageHint: "Modern factory exterior Bekto Precisa Gorazde", image: "/poi-images/bosniaherzegovina-gorazde-bekto-precisa-economic-v2.webp"},
   {
     id: "bosniaherzegovina-hadzici-coca-cola-economic-v2",
     type: "factory",
@@ -379,8 +365,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Cel mai mare producător de băuturi din țară", "Angajează sute de lucrători locali", "Investește masiv în proiecte de sustenabilitate", "Centru logistic central pentru Bosnia"],
       en: ["Largest beverage producer in the country", "Employs hundreds of local workers", "Invests heavily in sustainability projects", "Central logistics hub for Bosnia"],
     },
-    imageHint: "Coca-Cola production facility Hadzici",
-  },
+    imageHint: "Coca-Cola production facility Hadzici", image: "/poi-images/bosniaherzegovina-hadzici-coca-cola-economic-v2.webp"},
   {
     id: "bosniaherzegovina-grude-violeta-factory-economic-v2",
     type: "factory",
@@ -419,8 +404,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Specializat în profiluri extrudate", "Cotă mare de export către UE", "Deține instalații moderne de eloxare", "Cel mai important factor economic din Široki Brijeg"],
       en: ["Specialized in extruded profiles", "High share of exports to the EU", "Possesses modern anodizing plants", "Most important economic factor in Široki Brijeg"],
     },
-    imageHint: "FEAL aluminium profiles factory building",
-  },
+    imageHint: "FEAL aluminium profiles factory building", image: "/poi-images/bosniaherzegovina-siroki-brijeg-feal-economic-v2.webp"},
   {
     id: "bosniaherzegovina-brcko-river-port-economic-v2",
     type: "port",
@@ -459,8 +443,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Situată între râurile Sava și Drina", "Centrul procesării alimentelor", "Cel mai important producător de porumb și grâu", "Locația multor depozite de silozuri mari"],
       en: ["Located between the Sava and Drina rivers", "Center of food processing", "Most important producer of corn and wheat", "Location of many large silo facilities"],
     },
-    imageHint: "Vast agricultural fields Semberija Bijeljina",
-  },
+    imageHint: "Vast agricultural fields Semberija Bijeljina", image: "/poi-images/bosniaherzegovina-semberija-agriculture-economic-v2.webp"},
   {
     id: "bosniaherzegovina-vitez-business-zone-economic-v2",
     type: "city",
@@ -479,8 +462,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Unul dintre cele mai mari centre comerciale din țară", "Angajează câteva mii de persoane", "Cunoscută pentru comerțul cu mobilă și textile", "Exemplu de antreprenoriat de succes"],
       en: ["One of the largest shopping centers in the country", "Employs several thousand people", "Known for furniture and textile trade", "An example of successful entrepreneurship"],
     },
-    imageHint: "Large commercial and industrial park Vitez",
-  },
+    imageHint: "Large commercial and industrial park Vitez", image: "/poi-images/bosniaherzegovina-vitez-business-zone-economic-v2.webp"},
   {
     id: "bosniaherzegovina-visegrad-hydro-economic-v2",
     type: "industry",
@@ -499,8 +481,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Pusă în funcțiune în anul 1989", "Putere instalată de 315 MW", "Furnizează o mare parte din energia pentru RS", "Situată chiar înainte de granița cu Serbia"],
       en: ["Commissioned in the year 1989", "Installed capacity of 315 MW", "Supplies a large portion of energy for RS", "Located just before the border with Serbia"],
     },
-    imageHint: "Visegrad dam and hydroelectric power station",
-  },
+    imageHint: "Visegrad dam and hydroelectric power station", image: "/poi-images/bosniaherzegovina-visegrad-hydro-economic-v2.webp"},
   {
     id: "bosniaherzegovina-rama-hydro-economic-v2",
     type: "industry",
@@ -519,8 +500,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Finalizată în anul 1968", "Barajul are 100 de metri înălțime", "Putere instalată de 160 MW", "Aparține sistemului Elektroprivreda HZHB"],
       en: ["Completed in the year 1968", "The dam is 100 meters high", "Installed capacity of 160 MW", "Part of the Elektroprivreda HZHB system"],
     },
-    imageHint: "Rama dam and beautiful reservoir landscape",
-  },
+    imageHint: "Rama dam and beautiful reservoir landscape", image: "/poi-images/bosniaherzegovina-rama-hydro-economic-v2.webp"},
   {
     id: "bosniaherzegovina-maglaj-natron-hayat-economic-v2",
     type: "factory",
@@ -539,8 +519,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1956", "Parteneriat cu grupul Hayat din 2005", "Cel mai mare angajator din Valea Bosnei", "Produce hârtie kraft și cartoane"],
       en: ["Founded in the year 1956", "Partnership with the Hayat Group since 2005", "Largest employer in the Bosna valley", "Produces kraft paper and cardboard"],
     },
-    imageHint: "Large paper mill industrial complex Maglaj",
-  },
+    imageHint: "Large paper mill industrial complex Maglaj", image: "/poi-images/bosniaherzegovina-maglaj-natron-hayat-economic-v2.webp"},
   {
     id: "bosniaherzegovina-tuzla-salt-works-economic-v2",
     type: "mine",
@@ -559,8 +538,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Extracția sării din epoca romană", "Fabrica modernă există din 1885", "Marca 'Tuzlanska so' este cunoscută regional", "Importantă pentru industria chimică"],
       en: ["Salt extraction since Roman times", "Modern factory exists since 1885", "Brand name 'Tuzlanska so' is regionally famous", "Important for the chemical industry"],
     },
-    imageHint: "Salt production facility and silos Tuzla",
-  },
+    imageHint: "Salt production facility and silos Tuzla", image: "/poi-images/bosniaherzegovina-tuzla-salt-works-economic-v2.webp"},
   {
     id: "bosniaherzegovina-banja-luka-business-district-economic-v2",
     type: "city",

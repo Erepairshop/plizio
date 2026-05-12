@@ -19,8 +19,7 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Fondat în anul 1929", "Emite monede euro proprii", "Timbrele sunt celebre printre colecționari", "Sediul în Palatul Guvernatoratului"],
       en: ["Founded in 1929", "Issues its own Euro coins", "Stamps are famous among collectors", "Located in the Governorate Palace"],
     },
-    imageHint: "Vatican coins and stamps display",
-  },
+    imageHint: "Vatican coins and stamps display", image: "/poi-images/vatican-philatelic-numismatic-office-economic-v2.webp"},
   {
     id: "vatican-supermarket-annona-economic-v2",
     type: "landmark",
@@ -59,8 +58,7 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Fondată în anul 1587", "Utilizează tehnologie de ultimă oră", "Tipărește în peste 15 limbi", "Produce 'Acta Apostolicae Sedis'"],
       en: ["Founded in 1587", "Uses state-of-the-art technology", "Prints in over 15 languages", "Produces the 'Acta Apostolicae Sedis'"],
     },
-    imageHint: "Vatican printing press machinery",
-  },
+    imageHint: "Vatican printing press machinery", image: "/poi-images/vatican-printing-press-economic-v2.webp"},
   {
     id: "vatican-publishing-house-economic-v2",
     type: "industry",
@@ -99,8 +97,7 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Instalate în anul 2008", "Înlocuiesc 2.400 de țigle cu azbest", "Economisesc 200 tone de CO2 anual", "Unul dintre cele mai verzi proiecte din Roma"],
       en: ["Installed in 2008", "Replaced 2,400 asbestos tiles", "Saves 200 tons of CO2 annually", "One of the greenest projects in Rome"],
     },
-    imageHint: "Paul VI Hall solar panels roof view",
-  },
+    imageHint: "Paul VI Hall solar panels roof view", image: "/poi-images/vatican-paul-vi-hall-solar-economic-v2.webp"},
   {
     id: "vatican-post-office-main-economic-v2",
     type: "landmark",
@@ -119,8 +116,7 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Fondată în anul 1929", "Circa 2,5 milioane de scrisori anual", "Cutii poștale galbene proprii", "Membră a Uniunii Poștale Universale"],
       en: ["Founded in 1929", "Handles approx. 2.5 million letters per year", "Features its own yellow mailboxes", "UPU member since 1929"],
     },
-    imageHint: "Vatican Post Office yellow mailbox",
-  },
+    imageHint: "Vatican Post Office yellow mailbox", image: "/poi-images/vatican-post-office-main-economic-v2.webp"},
   {
     id: "vatican-gas-station-economic-v2",
     type: "landmark",
@@ -179,8 +175,7 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Peste 6 milioane de vizitatori anual", "Principala sursă de venit a statului", "Biletele costă de la 20 de euro", "Situată pe Viale Vaticano"],
       en: ["Over 6 million visitors per year", "Primary source of state income", "Tickets start from 20 euros", "Located on Viale Vaticano"],
     },
-    imageHint: "Vatican Museums entrance queue",
-  },
+    imageHint: "Vatican Museums entrance queue", image: "/poi-images/vatican-museum-ticket-office-economic-v2.webp"},
   {
     id: "vatican-mosaic-studio-economic-v2",
     type: "factory",
@@ -199,8 +194,7 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea", "Folosește 28.000 de nuanțe diferite", "Vinde opere către colecționari", "Restaurează mozaicurile bazilicii"],
       en: ["Founded in the 16th century", "Uses 28,000 different colors", "Sells works to private collectors", "Restores mosaics in St. Peter's Basilica"],
     },
-    imageHint: "Vatican Mosaic Studio workshop",
-  },
+    imageHint: "Vatican Mosaic Studio workshop", image: "/poi-images/vatican-mosaic-studio-economic-v2.webp"},
   {
     id: "vatican-central-heating-plant-economic-v2",
     type: "industry",
@@ -219,8 +213,7 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Modernizată complet în 1990", "Controlează climatul în muzee", "Utilizează tehnologie pe gaz natural", "Esențială pentru conservarea artei"],
       en: ["Extensively modernized in 1990", "Controls museum climate settings", "Uses efficient natural gas tech", "Vital for art preservation"],
     },
-    imageHint: "Vatican central heating industrial pipes",
-  },
+    imageHint: "Vatican central heating industrial pipes", image: "/poi-images/vatican-central-heating-plant-economic-v2.webp"},
   {
     id: "vatican-governorate-palace-admin-economic-v2",
     type: "palace",
@@ -239,8 +232,7 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Sediul guvernului vatican", "Gestionează protecția civilă", "Responsabil de infrastructură", "Situat în spatele bazilicii"],
       en: ["Seat of the Vatican government", "Manages civil protection", "Responsible for infrastructure", "Located behind St. Peter's Basilica"],
     },
-    imageHint: "Vatican Governorate Palace facade",
-  },
+    imageHint: "Vatican Governorate Palace facade", image: "/poi-images/vatican-governorate-palace-admin-economic-v2.webp"},
   {
     id: "vatican-mint-building-economic-v2",
     type: "industry",
@@ -259,8 +251,7 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["S-au bătut monede aici până în 1970", "Azi monedele sunt bătute în Roma", "Depozit pentru rezerve de aur", "Protocol special de securitate"],
       en: ["Minting occurred here until 1970", "Coins are now minted in Rome", "Warehouse for gold and silver reserves", "Special security protocols apply"],
     },
-    imageHint: "Palazzo della Zecca Vatican exterior",
-  },
+    imageHint: "Palazzo della Zecca Vatican exterior", image: "/poi-images/vatican-mint-building-economic-v2.webp"},
   {
     id: "vatican-garage-autoparco-economic-v2",
     type: "landmark",
@@ -299,8 +290,7 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Fondat în anul 1861", "Apare în șapte limbi", "Finanțat privat prin abonamente", "Sediul lângă poarta Sfânta Ana"],
       en: ["Founded in 1861", "Published in seven languages", "Financed via private subscriptions", "Located near St. Anne's Gate"],
     },
-    imageHint: "L'Osservatore Romano newspaper office",
-  },
+    imageHint: "L'Osservatore Romano newspaper office", image: "/poi-images/vatican-osserrvatore-romano-office-economic-v2.webp"},
   {
     id: "vatican-radio-management-economic-v2",
     type: "industry",
@@ -339,8 +329,7 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Cea mai mare librărie din stat", "Oferă cataloage în 10 limbi", "Venituri majore din merchandising", "Proiectată de arhitecți moderni"],
       en: ["Largest bookstore in the state", "Offers catalogs in 10 languages", "Significant merchandising revenue", "Designed by modern architects"],
     },
-    imageHint: "Vatican Museums bookstore interior",
-  },
+    imageHint: "Vatican Museums bookstore interior", image: "/poi-images/vatican-museum-bookstore-economic-v2.webp"},
   {
     id: "vatican-floreria-apostolica-economic-v2",
     type: "industry",
@@ -379,8 +368,7 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Vinde mătănii binecuvântate", "Administrat de călugărițe", "Accesibil doar după urcarea pe cupolă", "Punct poștal propriu pe acoperiș"],
       en: ["Sells blessed rosaries", "Run by religious sisters", "Accessible only after climbing the dome", "Features its own rooftop post station"],
     },
-    imageHint: "St Peter's Basilica roof gift shop",
-  },
+    imageHint: "St Peter's Basilica roof gift shop", image: "/poi-images/vatican-st-peters-dome-shop-economic-v2.webp"},
   {
     id: "vatican-library-bookshop-economic-v2",
     type: "landmark",
@@ -399,8 +387,7 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Oferă printuri de artă de calitate", "Produse în ediție limitată", "Veniturile susțin restaurările", "Situat în Cortile del Belvedere"],
       en: ["Offers high-quality art prints", "Products in limited editions", "Revenue supports restoration work", "Located in the Belvedere Courtyard"],
     },
-    imageHint: "Vatican Library shop display",
-  },
+    imageHint: "Vatican Library shop display", image: "/poi-images/vatican-library-bookshop-economic-v2.webp"},
   {
     id: "vatican-telephone-service-economic-v2",
     type: "industry",
@@ -419,8 +406,7 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Cod de țară propriu: +379", "Fondat în anul 1930", "Gestionează peste 2.000 de linii", "Vinde cartele de colecție"],
       en: ["Has its own country code +379", "Founded in 1930", "Manages over 2,000 lines", "Offers exclusive collector cards"],
     },
-    imageHint: "Vatican telephone service cards",
-  },
+    imageHint: "Vatican telephone service cards", image: "/poi-images/vatican-telephone-service-economic-v2.webp"},
   {
     id: "vatican-secretariat-for-economy-economic-v2",
     type: "industry",
@@ -439,8 +425,7 @@ export const vaticanEconomicV2: POI[] = [
       ro: ["Fondat în anul 2014", "Controlează toate cheltuielile", "Sediul în Turnul lui Ioan al XXIII-lea", "Parte a reformei curiei"],
       en: ["Founded in 2014", "Controls all expenditures", "Located in the Tower of John XXIII", "Part of the Curia reform"],
     },
-    imageHint: "Tower of John XXIII Vatican",
-  },
+    imageHint: "Tower of John XXIII Vatican", image: "/poi-images/vatican-secretariat-for-economy-economic-v2.webp"},
   {
     id: "vatican-clothing-service-economic-v2",
     type: "industry",

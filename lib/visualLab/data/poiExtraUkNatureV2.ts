@@ -19,8 +19,7 @@ export const ukNatureV2: POI[] = [
       ro: ["Înălțime maximă de 1345 metri", "Ruinele unui observator meteorologic din 1883", "Versantul nordic are stânci de 700 metri", "Peste 100.000 de ascensiuni în fiecare an"],
       en: ["Summit elevation of 1,345 meters", "Ruins of an observatory active 1883-1904", "North face features 700-meter cliffs", "Over 100,000 ascents recorded annually"],
     },
-    imageHint: "Ben Nevis mountain summit with snow patches",
-  },
+    imageHint: "Ben Nevis mountain summit with snow patches", image: "/poi-images/uk-ben-nevis-nature-v2.webp"},
   {
     id: "uk-loch-ness-nature-v2",
     type: "lake",
@@ -39,8 +38,7 @@ export const ukNatureV2: POI[] = [
       ro: ["Adâncime maximă de 230 metri", "Conține 7,4 kilometri cubi de apă", "Face parte din Canalul Caledonian", "Lungime de aproximativ 36 kilometri"],
       en: ["Maximum depth of 230 meters", "Contains 7.4 cubic kilometers of water", "Part of the Caledonian Canal system", "Length of approximately 36 kilometers"],
     },
-    imageHint: "Loch Ness lake with Urquhart Castle ruins",
-  },
+    imageHint: "Loch Ness lake with Urquhart Castle ruins", image: "/poi-images/uk-loch-ness-nature-v2.webp"},
   {
     id: "uk-giants-causeway-nature-v2",
     type: "landmark",
@@ -59,8 +57,7 @@ export const ukNatureV2: POI[] = [
       ro: ["Sit Patrimoniu Mondial UNESCO din 1986", "Coloanele sunt predominant hexagonale", "Cele mai înalte coloane au 12 metri", "Situat pe coasta comitatului Antrim"],
       en: ["UNESCO World Heritage site since 1986", "Columns are mostly hexagonal in shape", "Tallest columns reach 12 meters height", "Located on the coast of County Antrim"],
     },
-    imageHint: "Giant's Causeway hexagonal basalt columns by the sea",
-  },
+    imageHint: "Giant's Causeway hexagonal basalt columns by the sea", image: "/poi-images/uk-giants-causeway-nature-v2.webp"},
   {
     id: "uk-snowdon-nature-v2",
     type: "peak",
@@ -79,8 +76,7 @@ export const ukNatureV2: POI[] = [
       ro: ["Înălțime maximă de 1085 metri", "Cale ferată cu cremalieră din 1896", "Compus în principal din rocă riolit", "Centrul primului parc național din Țara Galilor"],
       en: ["Summit elevation of 1,085 meters", "Mountain railway operates since 1896", "Formed primarily from rhyolite rock", "Heart of Wales' first National Park"],
     },
-    imageHint: "Snowdon mountain summit and Snowdonia ridges",
-  },
+    imageHint: "Snowdon mountain summit and Snowdonia ridges", image: "/poi-images/uk-snowdon-nature-v2.webp"},
   {
     id: "uk-river-thames-nature-v2",
     type: "river",
@@ -99,8 +95,7 @@ export const ukNatureV2: POI[] = [
       ro: ["Lungime totală de 346 kilometri", "Dispune de 45 de ecluze pe cursul principal", "Fluviu cu maree în aval de Teddington", "Traversează Oxford, Windsor și Londra"],
       en: ["Total length of 346 kilometers", "Features 45 locks on the non-tidal reach", "Tidal river downstream of Teddington", "Flows through Oxford, Windsor, and London"],
     },
-    imageHint: "River Thames flowing through green English countryside",
-  },
+    imageHint: "River Thames flowing through green English countryside", image: "/poi-images/uk-river-thames-nature-v2.webp"},
   {
     id: "uk-the-needles-nature-v2",
     type: "landmark",
@@ -119,8 +114,7 @@ export const ukNatureV2: POI[] = [
       ro: ["Formate din rocă pură de cretă", "Farul actual a fost construit în 1859", "A patra stâncă s-a prăbușit în 1764", "Simbol emblematic al Insulei Wight"],
       en: ["Composed of pure chalk rock", "Lighthouse built in 1859", "A fourth stack collapsed in 1764", "Iconic landmark of the Isle of Wight"],
     },
-    imageHint: "The Needles chalk stacks and lighthouse Isle of Wight",
-  },
+    imageHint: "The Needles chalk stacks and lighthouse Isle of Wight", image: "/poi-images/uk-the-needles-nature-v2.webp"},
   {
     id: "uk-lake-windermere-nature-v2",
     type: "lake",
@@ -139,8 +133,7 @@ export const ukNatureV2: POI[] = [
       ro: ["Lungime de peste 18 kilometri", "Adâncime maximă de 67 metri", "Găzduiește 18 insule diferite", "Un feribot auto face legătura între maluri"],
       en: ["Length of over 18 kilometers", "Maximum depth of 67 meters", "Contains 18 separate islands", "Car ferry operates across its center"],
     },
-    imageHint: "Windermere lake in the Lake District with mountains",
-  },
+    imageHint: "Windermere lake in the Lake District with mountains", image: "/poi-images/uk-lake-windermere-nature-v2.webp"},
   {
     id: "uk-sherwood-forest-nature-v2",
     type: "forest",
@@ -159,8 +152,7 @@ export const ukNatureV2: POI[] = [
       ro: ["Găzduiește stejarul Major Oak de 800 ani", "Rezervație naturală națională din 2002", "Fost domeniu de vânătoare al regilor englezi", "Suprafață de aproximativ 423 hectare"],
       en: ["Home to the 800-year-old Major Oak", "National Nature Reserve since 2002", "Former hunting grounds for English kings", "Area of approximately 423 hectares"],
     },
-    imageHint: "Ancient Major Oak tree in Sherwood Forest",
-  },
+    imageHint: "Ancient Major Oak tree in Sherwood Forest", image: "/poi-images/uk-sherwood-forest-nature-v2.webp"},
   {
     id: "uk-cheddar-gorge-nature-v2",
     type: "valley",
@@ -179,8 +171,7 @@ export const ukNatureV2: POI[] = [
       ro: ["Adâncime maximă de 137 metri", "Locul unde a fost găsit Omul de Cheddar", "Găzduiește peșteri spectaculoase", "Habitat important pentru șoimii călători"],
       en: ["Maximum depth of 137 meters", "Site where 9,000-year-old Cheddar Man was found", "Contains extensive limestone show caves", "Important habitat for peregrine falcons"],
     },
-    imageHint: "Cheddar Gorge limestone cliffs and winding road",
-  },
+    imageHint: "Cheddar Gorge limestone cliffs and winding road", image: "/poi-images/uk-cheddar-gorge-nature-v2.webp"},
   {
     id: "uk-seven-sisters-nature-v2",
     type: "landmark",
@@ -199,8 +190,7 @@ export const ukNatureV2: POI[] = [
       ro: ["Formate din sedimente marine", "Parte a Parcului Național South Downs", "Falezele se erodează cu 60 cm pe an", "Cel mai înalt punct are 150 metri"],
       en: ["Formed from marine sediment deposits", "Part of the South Downs National Park", "Cliffs erode by about 60 cm annually", "Highest point reaches 150 meters height"],
     },
-    imageHint: "Seven Sisters white chalk cliffs East Sussex",
-  }
+    imageHint: "Seven Sisters white chalk cliffs East Sussex", image: "/poi-images/uk-seven-sisters-nature-v2.webp"}
 ,
   {
     id: "uk-white-cliffs-of-dover-nature-v2",
@@ -240,8 +230,7 @@ export const ukNatureV2: POI[] = [
       ro: ["Are 18 kilometri lungime și 67 metri adâncime.", "Conține un total de 18 insule.", "Centru popular pentru navigație și sporturi nautice.", "Face parte din situl UNESCO Lake District."],
       en: ["Is 18 kilometers long and up to 67 meters deep.", "Contains a total of 18 islands.", "Popular center for sailing and water sports.", "Part of the Lake District UNESCO World Heritage site."],
     },
-    imageHint: "Lake Windermere with sailboats and green hills",
-  }
+    imageHint: "Lake Windermere with sailboats and green hills", image: "/poi-images/uk-windermere-nature-v2.webp"}
 ,
   {
     id: "uk-scafell-pike-nature-v2",

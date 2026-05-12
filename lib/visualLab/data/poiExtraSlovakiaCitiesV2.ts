@@ -19,8 +19,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Singura capitală din lume care se învecinează cu două state", "Castelul Bratislava este simbolul reprezentativ al orașului", "Prima mențiune documentară datează din anul 907", "Sediul președintelui și al parlamentului slovac"],
       en: ["Only national capital bordering two independent countries", "Bratislava Castle is the city's most prominent landmark", "First written mention dates back to 907 AD", "Seat of the Slovak President and Parliament"],
     },
-    imageHint: "Bratislava Castle and Danube river at sunset",
-  },
+    imageHint: "Bratislava Castle and Danube river at sunset", image: "/poi-images/slovakia-bratislava-cities-v2.webp"},
   {
     id: "slovakia-kosice-cities-v2",
     type: "city",
@@ -39,8 +38,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Capitală Europeană a Culturii în anul 2013", "Cel mai vechi maraton din Europa are loc aici din 1924", "Primul oraș din Europa care a primit propria stemă (1369)", "Important centru al industriei siderurgice din țară"],
       en: ["European Capital of Culture in 2013", "Oldest marathon in Europe held here since 1924", "First city in Europe to receive its own coat of arms (1369)", "Major hub for the steel industry in Slovakia"],
     },
-    imageHint: "St. Elisabeth Cathedral in Košice city center",
-  },
+    imageHint: "St. Elisabeth Cathedral in Košice city center", image: "/poi-images/slovakia-kosice-cities-v2.webp"},
   {
     id: "slovakia-presov-cities-v2",
     type: "city",
@@ -59,8 +57,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Sediul Mitropoliei Greco-Catolice din Slovacia", "Solivar este un monument unic al extracției sării", "A fost fondat de coloniști germani în secolul al XII-lea", "Deține un observator astronomic și un planetariu"],
       en: ["Seat of the Greek Catholic Metropolis of Slovakia", "Solivar is a unique monument of salt production history", "Founded by German settlers in the 12th century", "Features an astronomical observatory and planetarium"],
     },
-    imageHint: "Historic main square of Prešov with St. Nicholas Cathedral",
-  },
+    imageHint: "Historic main square of Prešov with St. Nicholas Cathedral", image: "/poi-images/slovakia-presov-cities-v2.webp"},
   {
     id: "slovakia-nitra-cities-v2",
     type: "city",
@@ -79,8 +76,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Considerat leagănul creștinismului în Slovacia", "Prima biserică creștină de pe teritoriul slovac (828)", "Centru important pentru agricultură și expoziții", "Orașul este situat la poalele muntelui Zobor"],
       en: ["Considered the cradle of Christianity in Slovakia", "Site of the first Christian church in Slovak territory (828 AD)", "Major center for agriculture and international trade fairs", "Located at the foot of the Zobor Mountain"],
     },
-    imageHint: "Nitra Castle on the hill overlooking the city",
-  },
+    imageHint: "Nitra Castle on the hill overlooking the city", image: "/poi-images/slovakia-nitra-cities-v2.webp"},
   {
     id: "slovakia-trnava-cities-v2",
     type: "city",
@@ -99,8 +95,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Primul oraș din Slovacia de astăzi care a primit drepturi de cetate (1238)", "Sediul Universității din Trnava în secolul al XVII-lea", "Centru al vieții religioase în Regatul Ungariei", "Locație importantă a industriei auto (Stellantis)"],
       en: ["First town in present-day Slovakia to receive royal privileges (1238)", "Home to a famous university in the 17th century", "Religious center of the Kingdom of Hungary for centuries", "Major hub for the automotive industry (Stellantis plant)"],
     },
-    imageHint: "Trnava main square with the City Tower and churches",
-  },
+    imageHint: "Trnava main square with the City Tower and churches", image: "/poi-images/slovakia-trnava-cities-v2.webp"},
   {
     id: "slovakia-martin-cities-v2",
     type: "city",
@@ -119,8 +114,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Sediul Matica slovenská, fundația culturală națională", "Găzduiește Muzeul Satului Slovac (muzeu în aer liber)", "A fost centrul mișcării naționale în secolul al XIX-lea", "Cunoscut pentru producția de tehnică militară și tractoare"],
       en: ["Seat of Matica slovenská, the national cultural institution", "Home to the Museum of the Slovak Village (open-air museum)", "Center of the Slovak national movement in the 19th century", "Known historically for heavy machinery and military production"],
     },
-    imageHint: "Building of Matica slovenská in Martin",
-  },
+    imageHint: "Building of Matica slovenská in Martin", image: "/poi-images/slovakia-martin-cities-v2.webp"},
   {
     id: "slovakia-trencin-cities-v2",
     type: "city",
@@ -139,8 +133,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Inscripția romană atestă prezența legiunilor romane", "Punct strategic important pe Drumul Chihlimbarului", "Gazda cunoscutului festival de muzică Pohoda", "Centrul istoric găzduiește o sinagogă impresionantă"],
       en: ["The Roman inscription confirms the presence of Roman legions", "Important strategic point on the ancient Amber Road", "Host city of the popular Pohoda music festival", "The historical center features a prominent synagogue"],
     },
-    imageHint: "Trenčín Castle illuminated on the rock above the city",
-  },
+    imageHint: "Trenčín Castle illuminated on the rock above the city", image: "/poi-images/slovakia-trencin-cities-v2.webp"},
   {
     id: "slovakia-prievidza-cities-v2",
     type: "city",
@@ -159,8 +152,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["A fost menționat documentar încă din anul 1113", "Centrul exploatării cărbunelui brun din Slovacia", "Oferă acces către Parcul Național Mala Fatra", "Biserica Piaristă este o bijuterie barocă a orașului"],
       en: ["First documented in the Zobor Abbey records in 1113", "Historic hub of Slovak brown coal mining", "Gateway to the nearby Malá Fatra National Park", "The Piarist Church is a masterpiece of Baroque architecture"],
     },
-    imageHint: "Piarist Church of St. Demetrius in Prievidza",
-  },
+    imageHint: "Piarist Church of St. Demetrius in Prievidza", image: "/poi-images/slovakia-prievidza-cities-v2.webp"},
   {
     id: "slovakia-zvolen-cities-v2",
     type: "city",
@@ -179,8 +171,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Castelul Zvolen a fost construit de Ludovic I", "Găzduiește colecții ale Galeriei Naționale Slovace", "Deține una dintre cele mai vechi universități tehnice", "Ruinele 'Castelului Pustiu' se află pe un deal din apropiere"],
       en: ["Zvolen Castle was built by King Louis I of Hungary", "Houses extensive collections of the Slovak National Gallery", "Home to the Technical University in Zvolen, founded in 1952", "The 'Deserted Castle' ruins are located on a nearby hill"],
     },
-    imageHint: "Zvolen Castle (Zvolenský zámok) exterior view",
-  },
+    imageHint: "Zvolen Castle (Zvolenský zámok) exterior view", image: "/poi-images/slovakia-zvolen-cities-v2.webp"},
   {
     id: "slovakia-povazska-bystrica-cities-v2",
     type: "city",
@@ -199,8 +190,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Cunoscut pentru fosta producție de motociclete Manet", "Cheile Manín sunt cea mai îngustă vale din Slovacia", "Ruinele cetății Bystrica se află deasupra orașului", "Important centru pentru inginerie și metalurgie"],
       en: ["Famous for the historical production of Manet motorcycles", "The Manín Gorge nearby is the narrowest canyon in Slovakia", "Ruins of the Bystrica Castle overlook the city", "Major hub for mechanical engineering and metal processing"],
     },
-    imageHint: "Highway bridge over Považská Bystrica with hills in background",
-  },
+    imageHint: "Highway bridge over Považská Bystrica with hills in background", image: "/poi-images/slovakia-povazska-bystrica-cities-v2.webp"},
   {
     id: "slovakia-michalovce-cities-v2",
     type: "city",
@@ -219,8 +209,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Castelul baroc găzduiește Muzeul Zemplín", "Cel mai important punct industrial de la granița de est", "Centrul vieții culturale din regiunea Zemplín", "Orașul are o lungă tradiție în viticultură"],
       en: ["The Baroque palace houses the Zemplín District Museum", "Main industrial hub in the eastern border region", "Heart of cultural life in the Zemplín region", "The area has a long history of viticulture and winemaking"],
     },
-    imageHint: "Michalovce city center and the Zemplín Museum building",
-  },
+    imageHint: "Michalovce city center and the Zemplín Museum building", image: "/poi-images/slovakia-michalovce-cities-v2.webp"},
   {
     id: "slovakia-nove-zamky-cities-v2",
     type: "city",
@@ -239,8 +228,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["A fost una dintre cele mai moderne fortărețe din Europa", "Nod feroviar important în sudul țării", "Cunoscut pentru cultivarea legumelor și a tutunului", "A fost aproape complet distrus în Al Doilea Război Mondial"],
       en: ["Was once one of the most advanced fortresses in Europe", "Crucial railway junction in southern Slovakia", "Center for agricultural production, especially vegetables", "Heavily damaged by bombing during World War II"],
     },
-    imageHint: "Air view of Nové Zámky showing the hexagonal street pattern",
-  },
+    imageHint: "Air view of Nové Zámky showing the hexagonal street pattern", image: "/poi-images/slovakia-nove-zamky-cities-v2.webp"},
   {
     id: "slovakia-spisska-nova-ves-cities-v2",
     type: "city",
@@ -259,8 +247,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Turnul Bisericii Adormirea Maicii Domnului are 87 de metri", "Important centru minier în trecut", "Găzduiește una dintre cele mai moderne grădini zoologice", "Centrul regiunii Spiš, o zonă cu istorie bogată"],
       en: ["The Roman Catholic Church tower stands at 87 meters tall", "Historically a prominent mining town in the region", "Home to one of the most visited zoos in Slovakia", "Capital of the Spiš province until 1922"],
     },
-    imageHint: "Tall church tower of Spišská Nová Ves on the long square",
-  },
+    imageHint: "Tall church tower of Spišská Nová Ves on the long square", image: "/poi-images/slovakia-spisska-nova-ves-cities-v2.webp"},
   {
     id: "slovakia-komarno-cities-v2",
     type: "city",
@@ -279,8 +266,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Cea mai mare fortăreață a Monarhiei Austro-Ungare", "Important port dunărean și șantier naval slovac", "Locul de naștere al compozitorului de operetă Franz Lehár", "Sediul Universității Selye pentru minoritatea maghiară"],
       en: ["Largest fortification system of the Austro-Hungarian Empire", "Major Danube port and center for Slovak shipbuilding", "Birthplace of the famous operetta composer Franz Lehár", "Home to the Selye János University, serving the Hungarian minority"],
     },
-    imageHint: "Courtyard of Europe (Nádvorie Európy) buildings in Komárno",
-  },
+    imageHint: "Courtyard of Europe (Nádvorie Európy) buildings in Komárno", image: "/poi-images/slovakia-komarno-cities-v2.webp"},
   {
     id: "slovakia-humenne-cities-v2",
     type: "city",
@@ -299,8 +285,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Castelul a fost sediul familiei nobiliare Drugeth", "Centru important al industriei chimice (fibre)", "Punct de plecare pentru drumeții în munții Vihorlat", "Are o zonă pietonală cu numeroase fântâni arteziene"],
       en: ["The palace was the historical seat of the Drugeth family", "Major center for the chemical industry (synthetic fibers)", "Primary gateway for hiking in the Vihorlat Mountains", "The main pedestrian zone is known for its many fountains"],
     },
-    imageHint: "Humenné Renaissance palace and surrounding park",
-  },
+    imageHint: "Humenné Renaissance palace and surrounding park", image: "/poi-images/slovakia-humenne-cities-v2.webp"},
   {
     id: "slovakia-levice-cities-v2",
     type: "city",
@@ -319,8 +304,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Cetatea Levice a fost construită în secolul al XIII-lea", "Cel mai mare oraș din regiunea istorică Tekov", "Centru important pentru industria alimentară și textilă", "Centrala nucleară Mochovce este situată în apropiere"],
       en: ["Levice Castle was established in the 13th century", "Largest town in the historical Tekov region", "Main center for food processing and textile industries", "Located near the Mochovce nuclear power plant"],
     },
-    imageHint: "Levice Castle ruins and the Tekov Museum",
-  },
+    imageHint: "Levice Castle ruins and the Tekov Museum", image: "/poi-images/slovakia-levice-cities-v2.webp"},
   {
     id: "slovakia-bardejov-cities-v2",
     type: "city",
@@ -339,8 +323,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Cunoscut pentru Bazilica gotică Sfântul Egidiu", "Primăria istorică datează din anul 1505", "Deține o stațiune balneară renumită (Bardejovské Kúpele)", "Zidurile cetății sunt printre cele mai intacte din țară"],
       en: ["Famous for the Gothic Basilica of St. Giles", "The Renaissance town hall dates back to 1505", "Home to the renowned Bardejov Spa resort", "Features one of Europe's best-preserved town fortification systems"],
     },
-    imageHint: "Bardejov UNESCO town square with the historic town hall",
-  },
+    imageHint: "Bardejov UNESCO town square with the historic town hall", image: "/poi-images/slovakia-bardejov-cities-v2.webp"},
   {
     id: "slovakia-liptovsky-mikulas-cities-v2",
     type: "city",
@@ -359,8 +342,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Poarta către cel mai mare parc acvatic, Tatralandia", "Centrul regiunii istorice Liptov", "Centru important pentru prelucrarea pielii și textile", "Lângă cel mai mare lac de acumulare, Liptovská Mara"],
       en: ["Gateway to Tatralandia, the largest water park in Slovakia", "Heart of the historical Liptov region", "Historically significant for leather and textile industries", "Located next to the Liptovská Mara dam reservoir"],
     },
-    imageHint: "Liptovský Mikuláš town center with Tatra mountains in background",
-  },
+    imageHint: "Liptovský Mikuláš town center with Tatra mountains in background", image: "/poi-images/slovakia-liptovsky-mikulas-cities-v2.webp"},
   {
     id: "slovakia-lucenec-cities-v2",
     type: "city",
@@ -379,8 +361,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Sinagoga este un monument important al stilului Secession", "Important centru al industriei sticlei și textilelor în trecut", "Centrul regiunii Novohrad", "Orașul a devenit cunoscut printr-o bătălie din 1451"],
       en: ["The synagogue is a major Art Nouveau architectural monument", "Historically a center for glass and textile production", "Administrative and cultural heart of the Novohrad region", "Site of the Battle of Lučenec in 1451"],
     },
-    imageHint: "Large reconstructed synagogue building in Lučenec",
-  },
+    imageHint: "Large reconstructed synagogue building in Lučenec", image: "/poi-images/slovakia-lucenec-cities-v2.webp"},
   {
     id: "slovakia-piestany-cities-v2",
     type: "city",
@@ -399,8 +380,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Renumit pentru nămolul sulfuric și apele termale curative", "Simbolul orașului este statuia 'Bărbatului care rupe cârja'", "Podul Colonnade leagă orașul de Insula Băilor", "Gazda a numeroase evenimente sportive și muzicale"],
       en: ["Famous for therapeutic sulfuric mud and thermal water", "The city's symbol is a statue of a man breaking his crutch", "The Colonnade Bridge connects the town to the Spa Island", "Internationally recognized center for balneology"],
     },
-    imageHint: "Statue of the Crutch-breaker in Piešťany spa",
-  },
+    imageHint: "Statue of the Crutch-breaker in Piešťany spa", image: "/poi-images/slovakia-piestany-cities-v2.webp"},
   {
     id: "slovakia-ruzomberok-cities-v2",
     type: "city",
@@ -419,8 +399,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Sediul Universității Catolice din Ružomberok", "Cel mai important centru de producție a celulozei (Mondi)", "Centrul turismului în regiunea Liptovul de Jos", "Găzduiește Galeria Ľudovít Fulla"],
       en: ["Home to the Catholic University in Ružomberok", "Location of one of Europe's largest paper mills (Mondi)", "Regional hub for tourism in the Lower Liptov area", "Houses the Ľudovít Fulla Gallery of modern art"],
     },
-    imageHint: "Ružomberok town hall and historic center buildings",
-  },
+    imageHint: "Ružomberok town hall and historic center buildings", image: "/poi-images/slovakia-ruzomberok-cities-v2.webp"},
   {
     id: "slovakia-topolcany-cities-v2",
     type: "city",
@@ -439,8 +418,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Cunoscut pentru renumita fabrică de bere Topvar", "Important centru al producției de mobilier", "Cetatea Topoľčany se află la cca. 15 km distanță", "Centrul regional al văii mijlocii a râului Nitra"],
       en: ["Famous for the long-standing Topvar brewery", "Major hub for the Slovak furniture manufacturing industry", "Topoľčany Castle ruins are located 15km away in Podhradie", "Administrative center of the Middle Nitra region"],
     },
-    imageHint: "Topoľčany town hall on the main square",
-  },
+    imageHint: "Topoľčany town hall on the main square", image: "/poi-images/slovakia-topolcany-cities-v2.webp"},
   {
     id: "slovakia-trebisov-cities-v2",
     type: "city",
@@ -459,8 +437,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Castelul găzduiește Muzeul Regiunii Bodrogul de Sud", "Parcul este unul dintre cele mai mari de acest fel din țară", "Nod feroviar important (linie cu ecartament larg)", "Situat în regiunea viticolă Tokaj a Slovaciei"],
       en: ["The palace houses the Museum and Cultural Center of Southern Zemplín", "The city park is one of the largest landscape parks in Slovakia", "Strategic railway hub with broad-gauge connection to Ukraine", "Located within the Slovak portion of the Tokaj wine region"],
     },
-    imageHint: "Andrássy Palace in Trebišov with the park",
-  },
+    imageHint: "Andrássy Palace in Trebišov with the park", image: "/poi-images/slovakia-trebisov-cities-v2.webp"},
   {
     id: "slovakia-cadca-cities-v2",
     type: "city",
@@ -479,8 +456,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Nod de transport important pe magistrala nord-sud", "Centrul vieții culturale din regiunea Kysuce", "În apropiere se află sferele de piatră unice de la Megoňky", "Locație tradițională pentru industria textilă și a lemnului"],
       en: ["Strategic transport hub near the Jablunkov Pass", "Cultural and administrative heart of the Kysuce region", "Near the unique Megoňky natural sandstone spheres", "Historically significant for textile and wood processing"],
     },
-    imageHint: "Čadca town center with the Parish Church of St. Bartholomew",
-  },
+    imageHint: "Čadca town center with the Parish Church of St. Bartholomew", image: "/poi-images/slovakia-cadca-cities-v2.webp"},
   {
     id: "slovakia-rimavska-sobota-cities-v2",
     type: "city",
@@ -499,8 +475,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Centrul regiunii istorice Gemer", "Muzeul Gemer a fost fondat încă din anul 1882", "Centru important pentru industria alimentară (zahăr, carne)", "Are o piață centrală pătrată cu clădiri clasiciste"],
       en: ["Historic center of the Gemer region", "The Gemer-Malohont Museum was established in 1882", "Significant for the food processing industry", "The main square features prominent Neoclassical architecture"],
     },
-    imageHint: "Rimavská Sobota main square with the church",
-  },
+    imageHint: "Rimavská Sobota main square with the church", image: "/poi-images/slovakia-rimavska-sobota-cities-v2.webp"},
   {
     id: "slovakia-dunajska-streda-cities-v2",
     type: "city",
@@ -519,8 +494,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Cel mai important centru al comunității maghiare din Slovacia", "Thermalpark Dunajská Streda este o destinație turistică populară", "Locul de origine al clubului de fotbal de succes DAC", "Centru important pentru procesarea alimentelor și logistică"],
       en: ["Key cultural and political hub for the Hungarian minority", "The Thermalpark is one of the most visited spas in the country", "Home to the DAC 1904 professional football club", "Located in the most fertile agricultural region of Slovakia"],
     },
-    imageHint: "Dunajská Streda thermal park pools and hotel",
-  },
+    imageHint: "Dunajská Streda thermal park pools and hotel", image: "/poi-images/slovakia-dunajska-streda-cities-v2.webp"},
   {
     id: "slovakia-vranov-nad-toplou-cities-v2",
     type: "city",
@@ -539,8 +513,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Locație importantă a industriei lemnului și chimice", "Deține o bazilică barocă importantă dedicată Sf. Maria", "Centrul regional al districtului Vranov", "Situat la granița dintre regiunile Zemplín și Šariš"],
       en: ["Home to the Bukóza major wood processing and chemical plant", "Features the prominent Baroque Basilica of the Virgin Mary", "Administrative center for the Vranov nad Topľou District", "Situated at the historical border of Zemplín and Šariš regions"],
     },
-    imageHint: "Baroque Basilica of the Virgin Mary in Vranov nad Topľou",
-  },
+    imageHint: "Baroque Basilica of the Virgin Mary in Vranov nad Topľou", image: "/poi-images/slovakia-vranov-nad-toplou-cities-v2.webp"},
   {
     id: "slovakia-brezno-cities-v2",
     type: "city",
@@ -559,8 +532,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["A fost odinioară un oraș minier regal", "Important centru pentru prelucrarea metalelor și industria grea", "Centru turistic în zona Parcului Național Tatra Joasă", "Turnul orașului, simbol local, are 31 de metri înălțime"],
       en: ["Historically a royal mining town founded by German settlers", "Major hub for metallurgy and heavy industry in central Slovakia", "Primary access point to the southern slopes of the Low Tatras", "The historic municipal tower stands 31 meters high"],
     },
-    imageHint: "Brezno main square with the historic tower and park",
-  },
+    imageHint: "Brezno main square with the historic tower and park", image: "/poi-images/slovakia-brezno-cities-v2.webp"},
   {
     id: "slovakia-hlohovec-cities-v2",
     type: "city",
@@ -579,8 +551,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Castelul găzduiește Muzeul de Istorie Locală", "Centru important al industriei farmaceutice (Zentiva)", "Deține Teatrul Empire, cea mai veche clădire de teatru din țară", "Există un observator astronomic și un planetariu în oraș"],
       en: ["The Hlohovec Castle houses the Museum of National History", "Major center for the pharmaceutical industry (Zentiva plant)", "Home to the Empire Theater, the oldest theater building in Slovakia", "The city operates its own astronomical observatory"],
     },
-    imageHint: "Hlohovec Castle and the Empire Theater building",
-  },
+    imageHint: "Hlohovec Castle and the Empire Theater building", image: "/poi-images/slovakia-hlohovec-cities-v2.webp"},
   {
     id: "slovakia-snina-cities-v2",
     type: "city",
@@ -599,8 +570,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Deține un castel clasicist renovat", "Aproape de rezervația Vihorlat și lacul Morské oko", "Important punct industrial în estul extrem al țării", "Are un ștrand biologic unic în regiune"],
       en: ["Features a beautifully renovated Neoclassical palace", "Close to the Vihorlat Primeval Beech Forests UNESCO site", "Major manufacturing hub in the far east of Slovakia", "Home to a unique ecological swimming pool filtered by plants"],
     },
-    imageHint: "Snina palace and the statue of Hercules in the garden",
-  },
+    imageHint: "Snina palace and the statue of Hercules in the garden", image: "/poi-images/slovakia-snina-cities-v2.webp"},
   {
     id: "slovakia-senica-cities-v2",
     type: "city",
@@ -619,8 +589,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Locație importantă a industriei fibrelor sintetice", "Găzduiește Galeria Záhorie a lui Ján Mudroch", "Destinație populară pentru aviație sportivă (aerodromul Senica)", "Centrul cultural al regiunii Záhorie de Nord"],
       en: ["Historically significant for the synthetic fiber industry", "Home to the Záhorie Gallery, showcasing regional art", "Known for its active sport airfield and aviation club", "Administrative center of the northern Záhorie region"],
     },
-    imageHint: "Senica city center and the Záhorie Gallery building",
-  },
+    imageHint: "Senica city center and the Záhorie Gallery building", image: "/poi-images/slovakia-senica-cities-v2.webp"},
   {
     id: "slovakia-pezinok-cities-v2",
     type: "city",
@@ -639,8 +608,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Unul dintre cele mai importante centre viticole din Slovacia", "Deține un castel de apă superb în centrul orașului", "Gazdă periodică a festivalurilor de recoltare a vinului", "A fost un centru de extracție a aurului în trecut"],
       en: ["Major center of the Little Carpathian wine route", "The Pezinok Castle in the center is famous for its wine cellars", "Hosts the popular annual 'Vinobranie' harvest festival", "Historically significant for gold mining in the nearby hills"],
     },
-    imageHint: "Pezinok Castle and surrounding park",
-  },
+    imageHint: "Pezinok Castle and surrounding park", image: "/poi-images/slovakia-pezinok-cities-v2.webp"},
   {
     id: "slovakia-banovce-nad-bebravou-cities-v2",
     type: "city",
@@ -659,8 +627,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Locație importantă a industriei auto (piese pentru camioane)", "Centrul regional al districtului Bánovce", "Cunoscut pentru producția de textile și încălțăminte", "Deține o biserică gotică valoroasă din secolul al XV-lea"],
       en: ["Major production site for heavy automotive parts", "Administrative center of the Bánovce nad Bebravou District", "Historically famous for 'Zornica' clothing production", "Features the Gothic Church of St. Nicholas from the 1400s"],
     },
-    imageHint: "Church of St. Nicholas in Bánovce nad Bebravou",
-  },
+    imageHint: "Church of St. Nicholas in Bánovce nad Bebravou", image: "/poi-images/slovakia-banovce-nad-bebravou-cities-v2.webp"},
   {
     id: "slovakia-dolny-kubin-cities-v2",
     type: "city",
@@ -679,8 +646,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Sediul Galeriei Orava și al Bibliotecii Orava", "Centru important pentru prelucrarea metalelor", "Locul de naștere al poetului Pavol Országh Hviezdoslav", "Are un pod de lemn acoperit distinctiv peste râul Orava"],
       en: ["Home to the Orava Gallery, one of Slovakia's best art museums", "Major industrial hub for metallurgy and metal components", "Birthplace of P.O. Hviezdoslav, Slovakia's greatest poet", "Features a rare wooden colonnade bridge spanning the river"],
     },
-    imageHint: "Wooden colonnade bridge in Dolný Kubín over Orava river",
-  },
+    imageHint: "Wooden colonnade bridge in Dolný Kubín over Orava river", image: "/poi-images/slovakia-dolny-kubin-cities-v2.webp"},
   {
     id: "slovakia-ziar-nad-hronom-cities-v2",
     type: "city",
@@ -699,8 +665,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Locul unde se află cea mai mare fabrică de aluminiu din țară", "Castelul a fost reședința de vară a episcopilor", "Deține un observator astronomic și planetariu modern", "Nod de transport important în centrul Slovaciei"],
       en: ["Home to Slovalco, the largest aluminum smelter in the country", "The local palace was the historical seat of the Banská Bystrica bishops", "Operates a prominent regional observatory and planetarium", "Founded as 'Svätý Kríž' (Holy Cross) in the medieval period"],
     },
-    imageHint: "Renaissance-Baroque palace in Žiar nad Hronom",
-  },
+    imageHint: "Renaissance-Baroque palace in Žiar nad Hronom", image: "/poi-images/slovakia-ziar-nad-hronom-cities-v2.webp"},
   {
     id: "slovakia-roznava-cities-v2",
     type: "city",
@@ -719,8 +684,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Important oraș minier în Evul Mediu (aur, argint, fier)", "Sediul unei episcopii catolice", "Turnul de veghe din mijlocul pieței este simbolul orașului", "Centrul regiunii istorice Gemer"],
       en: ["Historically a major mining town for precious metals and iron", "Seat of the Roman Catholic Diocese of Rožňava", "The 38-meter watchtower offers a panoramic view of the town", "Gateway to the Slovak Karst National Park"],
     },
-    imageHint: "Rožňava main square with the historic watchtower",
-  },
+    imageHint: "Rožňava main square with the historic watchtower", image: "/poi-images/slovakia-roznava-cities-v2.webp"},
   {
     id: "slovakia-puchov-cities-v2",
     type: "city",
@@ -739,8 +703,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Sediul producătorului de anvelope Matador (Continental)", "Cunoscut pentru renumitul producător de textile Makyta", "Dă numele culturii preistorice Púchov", "Nod feroviar strategic între Slovacia și Cehia"],
       en: ["Home to the Matador (Continental) tire factory", "Headquarters of the Makyta fashion and textile company", "Gives its name to the archaeological Púchov culture", "Strategic railway junction near the Lyský Pass border crossing"],
     },
-    imageHint: "Púchov town square with modern administrative buildings",
-  },
+    imageHint: "Púchov town square with modern administrative buildings", image: "/poi-images/slovakia-puchov-cities-v2.webp"},
   {
     id: "slovakia-handlova-cities-v2",
     type: "city",
@@ -759,8 +722,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Cea mai veche locație de extracție a cărbunelui brun din țară", "Fondat de colonistul Heinrich Kricker în anul 1376", "Centru al tradițiilor miniere din regiune", "Înconjurat de munții Vtáčnik"],
       en: ["Site of the first industrial coal mining in Slovakia", "Established in 1376 by the German settler Henricus Kricker", "Home to the Slovak Mining Museum branch", "Nestled in the valley between Vtáčnik and Žiar mountains"],
     },
-    imageHint: "Handlová town center with the Church of St. Catherine",
-  },
+    imageHint: "Handlová town center with the Church of St. Catherine", image: "/poi-images/slovakia-handlova-cities-v2.webp"},
   {
     id: "slovakia-malacky-cities-v2",
     type: "city",
@@ -779,8 +741,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Castelul Pálffy a fost sediul unei familii nobiliare influente", "Centru important pentru industria mobilei și alimentară", "Deține o sinagogă valoroasă în stil maur", "Un aerodrom militar major se află în apropiere"],
       en: ["The Pálffy Mansion served as a noble seat for centuries", "Major hub for international logistics and manufacturing", "The town features a stunning Moorish-style synagogue", "Located near the Kuchyňa Air Base"],
     },
-    imageHint: "Pálffy Mansion and park in Malacky",
-  },
+    imageHint: "Pálffy Mansion and park in Malacky", image: "/poi-images/slovakia-malacky-cities-v2.webp"},
   {
     id: "slovakia-sered-cities-v2",
     type: "city",
@@ -799,8 +760,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Locul de origine al celebrului producător de biscuiți Sedita", "Sediul cramei de vin spumant Hubert J.E.", "Găzduiește Muzeul Holocaustului într-un fost lagăr", "Centru important pentru logistică și depozitare"],
       en: ["Home to the Sedita factory, makers of famous Slovak biscuits", "Production site of the renowned Hubert J.E. sparkling wines", "Site of the Holocaust Museum in a former labor camp", "Major hub for railway and road freight logistics"],
     },
-    imageHint: "Sereď town square with the City Hall building",
-  },
+    imageHint: "Sereď town square with the City Hall building", image: "/poi-images/slovakia-sered-cities-v2.webp"},
   {
     id: "slovakia-kezmarok-cities-v2",
     type: "city",
@@ -819,8 +779,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Biserica de lemn a fost construită fără niciun cui de metal", "A fost un oraș regal liber important timp de secole", "Cetatea a fost sediul familiei nobiliare Thököly", "Cunoscut pentru festivalul anual de artizanat european"],
       en: ["The wooden articular church was built without using metal nails", "Historically a rival to Levoča as a major royal free town", "The Kežmarok Castle is uniquely located within the town grid", "Hosts the popular 'EĽRO' European Folk Craft festival"],
     },
-    imageHint: "Wooden UNESCO church in Kežmarok",
-  },
+    imageHint: "Wooden UNESCO church in Kežmarok", image: "/poi-images/slovakia-kezmarok-cities-v2.webp"},
   {
     id: "slovakia-stara-lubovna-cities-v2",
     type: "city",
@@ -839,8 +798,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Cetatea a adăpostit odinioară bijuteriile coroanei poloneze", "Deține un muzeu al satului important la poalele cetății", "Centru important pentru industria băuturilor (Nestville)", "Punct central al regiunii etnografice a goralilor"],
       en: ["The castle once served as a safe haven for Polish crown jewels", "Features a large open-air museum showcasing local folk architecture", "Home to the Nestville Park, a major distillery and tourist attraction", "Historically one of the 16 Spiš towns pledged to Poland"],
     },
-    imageHint: "Stará Ľubovňa Castle on the hill above the town",
-  },
+    imageHint: "Stará Ľubovňa Castle on the hill above the town", image: "/poi-images/slovakia-stara-lubovna-cities-v2.webp"},
   {
     id: "slovakia-galanta-cities-v2",
     type: "city",
@@ -859,8 +817,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Deține două castele ale familiei Esterházy", "Centru important al industriei electronice (Samsung)", "Faimos prin lucrarea 'Dansurile din Galanta' de Zoltán Kodály", "Centru pentru logistică și comerț în Câmpia Dunării"],
       en: ["Home to two distinct Esterházy palaces (Renaissance and Neo-Gothic)", "Site of a massive Samsung electronics manufacturing plant", "Immortalized by composer Zoltán Kodály's 'Dances of Galanta'", "Major railway junction in southwestern Slovakia"],
     },
-    imageHint: "Neo-Gothic Esterházy palace in Galanta",
-  },
+    imageHint: "Neo-Gothic Esterházy palace in Galanta", image: "/poi-images/slovakia-galanta-cities-v2.webp"},
   {
     id: "slovakia-senec-cities-v2",
     type: "city",
@@ -879,8 +836,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Lacurile Însorite atrag mii de turiști în timpul verii", "Găzduiește un aquapark mare și numeroase hoteluri", "Locație strategică pentru centre logistice pe autostrada D1", "Deține o coloană a ciumei și o sinagogă istorică"],
       en: ["The Sunny Lakes area covers over 100 hectares of water", "Home to Aquapark Senec, open year-round", "Major logistics and distribution hub due to proximity to the D1", "Known for its multicultural history and vibrant summer festivals"],
     },
-    imageHint: "Sunny Lakes (Slnečné jazerá) recreation area in Senec",
-  },
+    imageHint: "Sunny Lakes (Slnečné jazerá) recreation area in Senec", image: "/poi-images/slovakia-senec-cities-v2.webp"},
   {
     id: "slovakia-detva-cities-v2",
     type: "city",
@@ -899,8 +855,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Gazda marelui festival de folclor de sub Poľana", "Cunoscut pentru producția de utilaje grele de construcții", "Faimos pentru crucile de lemn sculptate tradiționale", "Portul popular tradițional din Detva este unic"],
       en: ["Hosts the Folklore Festival under Poľana, one of Slovakia's largest", "Home to the PPS Group, major manufacturer of heavy machinery", "Famous for tall, hand-painted wooden 'Detva crosses'", "The local folk costume is distinguished by its short shirts for men"],
     },
-    imageHint: "Folklore festival stage in Detva with people in costumes",
-  },
+    imageHint: "Folklore festival stage in Detva with people in costumes", image: "/poi-images/slovakia-detva-cities-v2.webp"},
   {
     id: "slovakia-skalica-cities-v2",
     type: "city",
@@ -919,8 +874,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Rotunda Sfântul Gheorghe este una dintre cele mai vechi din țară", "Cunoscut pentru 'Skalický trdelník' (produs cu indicație geografică)", "Centru important al viticulturii (vinul Skalický rubín)", "Deține o casă de cultură superbă proiectată de Dušan Jurkovič"],
       en: ["The Rotunda of St. George is a Romanesque gem from the 11th century", "First Slovak food product to receive EU protected status (Trdelník)", "Famous for the 'Skalický rubín' red wine", "The Culture House is a masterpiece of National Romantic architecture"],
     },
-    imageHint: "Romanesque Rotunda of St. George in Skalica",
-  },
+    imageHint: "Romanesque Rotunda of St. George in Skalica", image: "/poi-images/slovakia-skalica-cities-v2.webp"},
   {
     id: "slovakia-levoca-cities-v2",
     type: "city",
@@ -939,8 +893,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Altarul meșterului Paul are 18,6 metri înălțime", "Zidul cetății este aproape complet conservat", "Important loc de pelerinaj (Muntele Maria)", "Primăria istorică este o capodoperă a Renașterii"],
       en: ["The Master Paul altar stands at 18.6 meters tall", "Features one of the most complete medieval fortification systems", "The Mariánska hora hill is a major international pilgrimage site", "The town was the historical capital of the Spiš province"],
     },
-    imageHint: "Levoča main square with the historic town hall and church",
-  },
+    imageHint: "Levoča main square with the historic town hall and church", image: "/poi-images/slovakia-levoca-cities-v2.webp"},
   {
     id: "slovakia-sabinov-cities-v2",
     type: "city",
@@ -959,8 +912,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["A fost fondat în secolul al XIII-lea de coloniști germani", "Deține un centru medieval bine conservat", "Important centru pentru industria alimentară și a lemnului", "Gazdă periodică a unor evenimente culturale regionale"],
       en: ["One of the five royal towns of the Šariš Pentapolitana", "Site of the filming of 'The Shop on Main Street' (1965)", "Home to major food processing and agricultural businesses", "Features remnants of medieval town walls and bastions"],
     },
-    imageHint: "Sabinov town center buildings",
-  },
+    imageHint: "Sabinov town center buildings", image: "/poi-images/slovakia-sabinov-cities-v2.webp"},
   {
     id: "slovakia-velky-krtis-cities-v2",
     type: "city",
@@ -979,8 +931,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Centru important al industriei textile", "Centrul viticulturii din regiunea Modrý Kameň", "A fost declarat oraș abia în anul 1968", "Cetatea Modrý Kameň se află în imediata apropiere"],
       en: ["The youngest district capital in Slovakia, becoming a town in 1968", "Major production hub for the garment and textile industries", "Located within a prominent viticultural area", "Close to the Modrý Kameň Castle and Toy Museum"],
     },
-    imageHint: "Veľký Krtíš town center and surroundings",
-  },
+    imageHint: "Veľký Krtíš town center and surroundings", image: "/poi-images/slovakia-velky-krtis-cities-v2.webp"},
   {
     id: "slovakia-myjava-cities-v2",
     type: "city",
@@ -999,8 +950,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Sediul primului Consiliu Național Slovac (1848)", "Gazda unuia dintre cele trei mari festivale de folclor din țară", "Cunoscut pentru producția de armături și inginerie", "Centrul regional al colinelor Myjava"],
       en: ["Site of the first meeting of the Slovak National Council in 1848", "Hosts the International Folklore Festival Myjava annually in June", "Major manufacturing center for water and gas fittings", "The area is known for its distinct 'Kopanice' scattered settlements"],
     },
-    imageHint: "Folklore festival in Myjava with traditional music",
-  },
+    imageHint: "Folklore festival in Myjava with traditional music", image: "/poi-images/slovakia-myjava-cities-v2.webp"},
   {
     id: "slovakia-revuca-cities-v2",
     type: "city",
@@ -1019,8 +969,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Clădirea primului gimnaziu slovac este monument național", "Locație importantă a industriei magnezitului", "Poarta către Parcul Național Muránska planina", "Centru tradițional al regiunii istorice Gemer"],
       en: ["The First Slovak Literary Gymnasium is now a museum", "Regional center for mining and processing of magnesite", "Strategic gateway to the Muránska planina National Park", "The town has roots in the 14th-century iron mining industry"],
     },
-    imageHint: "Building of the first Slovak gymnasium in Revúca",
-  },
+    imageHint: "Building of the first Slovak gymnasium in Revúca", image: "/poi-images/slovakia-revuca-cities-v2.webp"},
   {
     id: "slovakia-samorin-cities-v2",
     type: "city",
@@ -1039,8 +988,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Găzduiește X-Bionic Sphere, un centru de antrenament olimpic", "Locație importantă pentru sporturi ecvestre și atletism", "Deține o biserică valoroasă în stil romanic târziu", "A fost un oraș comercial important în Evul Mediu"],
       en: ["Home to the X-Bionic Sphere, an official Olympic training center", "Hosts major international equestrian and athletic events", "Features a historic Reformed church with 13th-century roots", "Strategically located near the Gabčíkovo dam reservoir"],
     },
-    imageHint: "Modern X-Bionic Sphere sports complex in Šamorín",
-  },
+    imageHint: "Modern X-Bionic Sphere sports complex in Šamorín", image: "/poi-images/slovakia-samorin-cities-v2.webp"},
   {
     id: "slovakia-sabur-cities-v2",
     type: "city",
@@ -1059,8 +1007,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Cunoscut pentru fosta producție de frigidere Calex", "Deține un castel superb în stil renașcentist-baroc", "Centrul districtului Zlaté Moravce", "Locație importantă pentru industria cărămizii și textilă"],
       en: ["Historically famous for the Calex refrigerator factory", "Features a prominent Migazzi family palace and park", "Administrative hub of the Zlaté Moravce district", "The area is known for its traditional wine production"],
     },
-    imageHint: "Migazzi family palace in Zlaté Moravce",
-  },
+    imageHint: "Migazzi family palace in Zlaté Moravce", image: "/poi-images/slovakia-sabur-cities-v2.webp"},
   {
     id: "slovakia-bytca-cities-v2",
     type: "city",
@@ -1079,8 +1026,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Palatul de Nuntă a fost construit de Juraj Thurzo în 1601", "Locul de naștere al politicianului Jozef Tiso", "Important centru pentru inginerie și industria lemnului", "Castelul găzduiește una dintre cele mai mari arhive de stat"],
       en: ["The Wedding Palace was built by Palatine Juraj Thurzo in 1601", "Birthplace of Jozef Tiso, president of the First Slovak Republic", "Major local industries include engineering and wood processing", "The castle complex houses a significant state regional archive"],
     },
-    imageHint: "Renaissance Wedding Palace (Sobášny palác) in Bytča",
-  },
+    imageHint: "Renaissance Wedding Palace (Sobášny palác) in Bytča", image: "/poi-images/slovakia-bytca-cities-v2.webp"},
   {
     id: "slovakia-svaty-jur-cities-v2",
     type: "city",
@@ -1099,8 +1045,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["A fost oraș regal liber timp de mai multe secole", "Cunoscut pentru altarul gotic al Sfântului Gheorghe", "Lângă rezervația naturală Šúr (zonă de mlaștină)", "Găzduiește numeroase crame de renume"],
       en: ["Received its royal free town status in 1647", "The Church of St. George features a rare sandstone altar from 1527", "Located next to the unique Šúr biological wetland reserve", "Historically a major center for high-quality wine exports"],
     },
-    imageHint: "Historic center of Svätý Jur with the church tower",
-  },
+    imageHint: "Historic center of Svätý Jur with the church tower", image: "/poi-images/slovakia-svaty-jur-cities-v2.webp"},
   {
     id: "slovakia-moldava-nad-bodvou-cities-v2",
     type: "city",
@@ -1119,8 +1064,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Centru al vieții culturale pentru minoritatea maghiară locală", "Punct industrial (industria metalurgică și alimentară)", "Are o primărie istorică interesantă", "Poartă către Parcul Național Carstul Slovac"],
       en: ["Significant cultural hub for the regional Hungarian minority", "Home to diverse industries including metal fabrication", "Features a prominent Reformed church and historic town hall", "Strategically located on the main road to Hungary"],
     },
-    imageHint: "Moldava nad Bodvou town center and churches",
-  },
+    imageHint: "Moldava nad Bodvou town center and churches", image: "/poi-images/slovakia-moldava-nad-bodvou-cities-v2.webp"},
   {
     id: "slovakia-holic-cities-v2",
     type: "city",
@@ -1139,8 +1083,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Castelul Holíč a fost reședința de vară a Mariei Tereza", "Cunoscut pentru producția faimoasei faianțe de Holíč", "Deține singurele vestigii megalitice conservate din Europa Centrală", "Centru important pentru industria pielăriei și textilă"],
       en: ["The Holíč Palace was the favorite summer retreat of Maria Theresa", "Famous for the 18th-century Holíč Majolica ceramic manufacture", "Features a unique set of prehistoric cult stones (megaliths)", "Home to the oldest wind mill of Dutch type in Slovakia"],
     },
-    imageHint: "Imperial Baroque Palace of Holíč with its bastions",
-  },
+    imageHint: "Imperial Baroque Palace of Holíč with its bastions", image: "/poi-images/slovakia-holic-cities-v2.webp"},
   {
     id: "slovakia-sturovo-cities-v2",
     type: "city",
@@ -1159,8 +1102,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Podul Maria Valeria leagă Štúrovo de Esztergom", "Ștrandul termal Vadaš este unul dintre cele mai mari din Slovacia", "Cel mai călduros oraș din Slovacia datorită poziției geografice", "Punct de trecere a frontierei feroviar important spre Ungaria"],
       en: ["The Maria Valeria Bridge was reconstructed in 2001 after 57 years", "Home to the massive Vadaš Thermal Resort complex", "Consistently records the highest average temperatures in Slovakia", "Major stop for international express trains between Prague and Budapest"],
     },
-    imageHint: "Maria Valeria Bridge connecting Štúrovo and Esztergom",
-  },
+    imageHint: "Maria Valeria Bridge connecting Štúrovo and Esztergom", image: "/poi-images/slovakia-sturovo-cities-v2.webp"},
   {
     id: "slovakia-filakovo-cities-v2",
     type: "city",
@@ -1179,8 +1121,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Cetatea Fiľakovo a rezistat odinioară invaziilor tătare", "Găzduiește un muzeu interesant în turnul Bebek", "Centru pentru industria de emailare și aparate de încălzit (Thorma)", "Punct cultural important pentru minoritatea maghiară din regiune"],
       en: ["The castle was built on a volcanic neck in the 12th century", "The Bebek Tower within the castle houses a permanent exhibition", "Famous for the Thorma factory producing stoves and ovens", "Hosts the annual 'Palóc' cultural days celebrating local traditions"],
     },
-    imageHint: "Fiľakovo Castle ruins on the rock above the city",
-  },
+    imageHint: "Fiľakovo Castle ruins on the rock above the city", image: "/poi-images/slovakia-filakovo-cities-v2.webp"},
   {
     id: "slovakia-sastin-straze-cities-v2",
     type: "city",
@@ -1199,8 +1140,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Bazilica este sanctuarul național al slovacilor", "Sute de mii de pelerini vizitează orașul în fiecare an", "Locație importantă pentru extracția nisipului cuarțos de calitate", "Format prin fuziunea a două așezări istorice"],
       en: ["The Basilica was consecrated in 1764 in the presence of Maria Theresa", "Designated as Slovakia's national shrine dedicated to Our Lady of Sorrows", "Home to large-scale high-quality industrial sand quarries", "The major pilgrimage takes place annually on September 15th"],
     },
-    imageHint: "Basilica of the Seven Sorrows of Mary in Šaštín",
-  },
+    imageHint: "Basilica of the Seven Sorrows of Mary in Šaštín", image: "/poi-images/slovakia-sastin-straze-cities-v2.webp"},
   {
     id: "slovakia-liptovsky-hradok-cities-v2",
     type: "city",
@@ -1219,8 +1159,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Deține un castel de apă pitoresc și un complex rezidențial", "Sediul primei școli de silvicultură din țară", "Centru pentru industria lemnului și inginerie", "Cunoscut pentru arboretumul său unic"],
       en: ["The town features a restored 14th-century water castle", "Home to Slovakia's oldest secondary forestry school, founded in 1796", "The Hrádok Arboretum is the highest-altitude botanical garden of its kind", "Strategic center for the Slovak timber and wood industry"],
     },
-    imageHint: "Liptovský Hrádok water castle and manor house",
-  },
+    imageHint: "Liptovský Hrádok water castle and manor house", image: "/poi-images/slovakia-liptovsky-hradok-cities-v2.webp"},
   {
     id: "slovakia-krompachy-cities-v2",
     type: "city",
@@ -1239,8 +1178,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Cea mai importantă locație pentru producția de cupru din țară", "Găzduiește stațiunea de schi populară Plejsy", "A fost fondat în secolul al XIV-lea ca oraș minier", "Centru important pentru industria electrotehnică"],
       en: ["Home to Kovohuty, the only copper refinery in Slovakia", "The Plejsy Ski Resort has hosted multiple European Cup events", "Historically a royal mining town focused on iron and copper", "Major employer in the town is the SEZ electrical engineering plant"],
     },
-    imageHint: "Krompachy city center with mountains in background",
-  },
+    imageHint: "Krompachy city center with mountains in background", image: "/poi-images/slovakia-krompachy-cities-v2.webp"},
   {
     id: "slovakia-modra-cities-v2",
     type: "city",
@@ -1259,8 +1197,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Centrul producției faimoasei majolici de Modra", "Locul unde a murit eroul național slovac Ľudovít Štúr", "Locație importantă pentru viticultură și oenologie", "Deține un nucleu istoric medieval bine conservat"],
       en: ["Famous for 'Modra Majolica', recognized as intangible cultural heritage", "Home to the Ľudovít Štúr Museum, dedicated to the codifier of Slovak language", "Host of the annual 'Days of Open Cellars' wine event", "Features remnants of 17th-century town fortifications"],
     },
-    imageHint: "Modra main square with the church and historic houses",
-  },
+    imageHint: "Modra main square with the church and historic houses", image: "/poi-images/slovakia-modra-cities-v2.webp"},
   {
     id: "slovakia-zeliezovce-cities-v2",
     type: "city",
@@ -1279,8 +1216,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Franz Schubert a petrecut aici două veri ca profesor de muzică", "Castelul găzduiește casa memorială Schubert", "Locație importantă a industriei alimentare", "Deține un parc englezesc impresionant"],
       en: ["Franz Schubert composed his 'Divertissement à l'hongroise' here", "Home to the Owl Castle, the Esterházy family's former residence", "Known for its large-scale agricultural production", "The Sacher family (of cake fame) also resided in the town"],
     },
-    imageHint: "Esterházy palace and Schubert memorial in Želiezovce",
-  },
+    imageHint: "Esterházy palace and Schubert memorial in Želiezovce", image: "/poi-images/slovakia-zeliezovce-cities-v2.webp"},
   {
     id: "slovakia-turcianske-teplice-cities-v2",
     type: "city",
@@ -1299,8 +1235,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Izvoarele curative erau cunoscute încă din secolul al XIII-lea", "Specializat în tratarea afecțiunilor renale și urologice", "Deține o 'Baie de Aur' unică în regiune", "Punct de plecare popular pentru drumeții în Parcul Național Fatra Mare"],
       en: ["First recorded use of the thermal springs dates back to 1281", "Slovakia's only spa specializing in urological and nephrological treatments", "Features the luxurious Spa & Aquapark with medicinal thermal pools", "Located in the geographic center of Slovakia"],
     },
-    imageHint: "Turčianske Teplice spa buildings and park",
-  },
+    imageHint: "Turčianske Teplice spa buildings and park", image: "/poi-images/slovakia-turcianske-teplice-cities-v2.webp"},
   {
     id: "slovakia-spisska-bela-cities-v2",
     type: "city",
@@ -1319,8 +1254,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Castelul Strážky găzduiește colecții ale Galeriei Naționale", "Deține Muzeul de Optică J.M. Petzval", "Locație importantă pentru agricultură și industria alimentară", "Are o biserică valoroasă în stil gotic târziu"],
       en: ["The Strážky Manor is a gem of Renaissance architecture in the Spiš", "Home to a museum dedicated to the inventor of the camera lens", "Historically famous for tobacco and spirit production", "Features a distinctive lens-shaped historical square"],
     },
-    imageHint: "Renaissance Strážky Manor near Spišská Belá",
-  },
+    imageHint: "Renaissance Strážky Manor near Spišská Belá", image: "/poi-images/slovakia-spisska-bela-cities-v2.webp"},
   {
     id: "slovakia-lipany-cities-v2",
     type: "city",
@@ -1339,8 +1273,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Cunoscut pentru industria textilă tradițională", "Deține o biserică gotică valoroasă din secolul al XIV-lea", "Nod feroviar și rutier important pe valea Torysa", "Gazda a numeroase evenimente sportive și culturale"],
       en: ["Major production center for workwear and fashion textiles", "The Church of St. Martin features a valuable Gothic altar", "Recently opened a large geothermal aquapark", "Historically one of the most important market towns in the region"],
     },
-    imageHint: "Lipany town center with the Gothic church",
-  },
+    imageHint: "Lipany town center with the Gothic church", image: "/poi-images/slovakia-lipany-cities-v2.webp"},
   {
     id: "slovakia-tvrdosin-cities-v2",
     type: "city",
@@ -1359,8 +1292,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Biserica de lemn Toți Sfinții datează din secolul al XV-lea", "Important centru industrial (furnizori auto)", "Găzduiește Galeria de Artă Maria Medvecká", "Poartă către lacul de acumulare Orava"],
       en: ["The All Saints wooden church received a UNESCO Europa Nostra award", "Major manufacturing hub for cable harnesses and plastic components", "The town gallery showcases works by the famous painter Maria Medvecká", "First recorded as a customs station on the trade route to Poland"],
     },
-    imageHint: "UNESCO wooden church in Tvrdošín",
-  },
+    imageHint: "UNESCO wooden church in Tvrdošín", image: "/poi-images/slovakia-tvrdosin-cities-v2.webp"},
   {
     id: "slovakia-namestovo-cities-v2",
     type: "city",
@@ -1379,8 +1311,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Locație importantă a industriei textile și electronice", "Punct de plecare pentru croaziere spre Insula Slanica", "Centrul administrativ al districtului Námestovo", "Vechiul oraș istoric a fost aproape complet inundat de lac"],
       en: ["Major center for industrial production in the upper Orava region", "Gateway to Slanica Island, an art gallery in the middle of the lake", "Hosts popular international fishing and sailing competitions", "One of the fastest-growing towns in northern Slovakia"],
     },
-    imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)",
-  },
+    imageHint: "Námestovo town by the Orava Reservoir (Oravská priehrada)", image: "/poi-images/slovakia-namestovo-cities-v2.webp"},
   {
     id: "slovakia-vlkolinec-cities-v2",
     type: "village",
@@ -1399,8 +1330,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Format din 45 de case de lemn originale", "Este o localitate încă locuită permanent", "Considerat un muzeu viu al arhitecturii populare", "Situat în peisajul montan nealterat al Munților Fatra Mare"],
       en: ["Consists of 45 historic log houses with stone foundations", "The village remains a living community with permanent residents", "Added to the UNESCO World Heritage List in 1993", "Named after the Slovak word for 'wolf' (vlk)"],
     },
-    imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village",
-  },
+    imageHint: "Traditional colorful log houses in Vlkolínec UNESCO village", image: "/poi-images/slovakia-vlkolinec-cities-v2.webp"},
   {
     id: "slovakia-cicmany-cities-v2",
     type: "village",
@@ -1419,8 +1349,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Prima rezervație de arhitectură populară din lume (1977)", "Ornamentele provin din tradiția locală a broderiei", "Important centru pentru sporturi de iarnă și turism", "Găzduiește un muzeu etnografic interesant"],
       en: ["World's first folk architecture reserve, established in 1977", "The patterns were originally painted to protect the wood from sun", "Home to the Raden's House museum of local culture", "Hosts the annual meeting of Slovak folk ensembles"],
     },
-    imageHint: "Wooden houses with white ornaments in Čičmany",
-  },
+    imageHint: "Wooden houses with white ornaments in Čičmany", image: "/poi-images/slovakia-cicmany-cities-v2.webp"},
   {
     id: "slovakia-kremnica-cities-v2",
     type: "town",
@@ -1439,8 +1368,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Monetăria din Kremnica este una dintre cele mai vechi din lume", "Aici s-au bătut faimoșii ducați de Kremnica", "Deține o cetate orășenească cu biserica Sfânta Ecaterina", "Considerat centrul geografic al Europei (biserica din apropiere)"],
       en: ["The Kremnica Mint is the world's oldest continuously operating mint", "Produced the high-purity gold Kremnica Ducats for centuries", "The Town Castle is one of the best-preserved fortifications", "Features the Museum of Coins and Medals"],
     },
-    imageHint: "Kremnica town castle and the historic mint building",
-  },
+    imageHint: "Kremnica town castle and the historic mint building", image: "/poi-images/slovakia-kremnica-cities-v2.webp"},
   {
     id: "slovakia-banska-stiavnica-cities-v2",
     type: "town",
@@ -1459,8 +1387,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Sediul primei Academii Miniere din lume (1762)", "Cunoscut pentru sistemul ingenios de lacuri artificiale 'tajchy'", "Deține două cetăți: Cetatea Veche și Cetatea Nouă", "Prima utilizare a prafului de pușcă în minerit a avut loc aici"],
       en: ["Home to the world's first technical university, the Mining Academy", "Famous for 'Tajchy', a complex 18th-century water reservoir system", "Features the Calvary, a stunning Baroque complex on a hill", "The town layout is uniquely adapted to steep mountainous terrain"],
     },
-    imageHint: "Banská Štiavnica historic center with the Calvary on hill",
-  },
+    imageHint: "Banská Štiavnica historic center with the Calvary on hill", image: "/poi-images/slovakia-banska-stiavnica-cities-v2.webp"},
   {
     id: "slovakia-podolinec-cities-v2",
     type: "town",
@@ -1479,8 +1406,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Deține ziduri de cetate aproape complet conservate", "Mănăstirea piaristă a fost un centru educațional important", "A fost unul dintre cele 16 orașe din Spiš gajate Poloniei", "Are un turn-clopotniță de sine stătător distinctiv"],
       en: ["One of the few towns in Slovakia with intact medieval walls", "The Piarist complex was once called the 'Spiš Oxford'", "Received city rights as early as 1292", "Features a unique Renaissance belfry in the town square"],
     },
-    imageHint: "Podolínec historic square with the belfry and monastery",
-  },
+    imageHint: "Podolínec historic square with the belfry and monastery", image: "/poi-images/slovakia-podolinec-cities-v2.webp"},
   {
     id: "slovakia-spisska-kapitula-cities-v2",
     type: "landmark",
@@ -1499,8 +1425,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Dominat de Catedrala Sfântul Martin în stil romanic târziu", "Așezare complet înconjurată de ziduri de apărare", "Centru important pentru educația teologică", "Face parte din complexul Cetății Spiš"],
       en: ["The St. Martin's Cathedral contains valuable 15th-century paintings", "The town consists of a single street lined with canonical houses", "Established as the center of ecclesiastical power in Spiš", "The site has been a UNESCO World Heritage site since 1993"],
     },
-    imageHint: "St. Martin's Cathedral in Spišská Kapitula",
-  },
+    imageHint: "St. Martin's Cathedral in Spišská Kapitula", image: "/poi-images/slovakia-spisska-kapitula-cities-v2.webp"},
   {
     id: "slovakia-vysoke-tatry-cities-v2",
     type: "city",
@@ -1519,8 +1444,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Unul dintre cele mai mari orașe ca suprafață din Slovacia", "Include centrele cunoscute Starý Smokovec și Tatranská Lomnica", "Sediul administrației Parcului Național Tatra (TANAP)", "Principalul punct de plecare pentru expediții montane"],
       en: ["The town covers almost the entire Slovak part of the High Tatras", "Formed in 1947 by merging various mountain resorts", "Administrative center is located in Starý Smokovec", "Host to the oldest climatic health resorts in the region"],
     },
-    imageHint: "Tatra mountains view from Tatranská Lomnica",
-  },
+    imageHint: "Tatra mountains view from Tatranská Lomnica", image: "/poi-images/slovakia-vysoke-tatry-cities-v2.webp"},
   {
     id: "slovakia-velka-loma-cities-v2",
     type: "village",
@@ -1539,8 +1463,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Deține două castele baroce importante", "Locația renumitului Black Stork Golf Resort", "Sit arheologic important (Burchbrich)", "Punct tradițional de acces către Munții Tatra"],
       en: ["Home to the largest golf complex in Slovakia, Black Stork", "Features the late-Baroque Berzeviczy family manor houses", "Archaeological evidence shows settlement since the Stone Age", "Strategically located on the main road to Tatranská Lomnica"],
     },
-    imageHint: "Golf course in Veľká Lomnica with High Tatras in background",
-  },
+    imageHint: "Golf course in Veľká Lomnica with High Tatras in background", image: "/poi-images/slovakia-velka-loma-cities-v2.webp"},
   {
     id: "slovakia-tisovec-cities-v2",
     type: "town",
@@ -1559,8 +1482,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Deține o cale ferată cu cremalieră și abur unică în Europa", "Locație importantă pentru prelucrarea pietrei și metalelor", "Găzduiește un gimnaziu evanghelic cu tradiție lungă", "Centrul istoric al regiunii Malohont"],
       en: ["The rack railway to Pohronská Polhora is a unique technical monument", "Home to a famous Lutheran Lyceum with a rich history", "Located in the deep valley of the Rimava River", "Historically significant for its large-scale iron works"],
     },
-    imageHint: "Steam rack railway train in Tisovec mountains",
-  },
+    imageHint: "Steam rack railway train in Tisovec mountains", image: "/poi-images/slovakia-tisovec-cities-v2.webp"},
   {
     id: "slovakia-vlkas-cities-v2",
     type: "town",
@@ -1579,8 +1501,7 @@ export const slovakiaCitiesV2: POI[] = [
       ro: ["Locație importantă pentru furnizori auto internaționali", "Deține o biserică neogotică impresionantă", "Centrul viticulturii din regiunea Žitava", "Cunoscut pentru excavații arheologice importante"],
       en: ["Host to several major foreign industrial investments", "Features the Neo-Gothic Church of the Blessed Virgin Mary", "Center of a traditional wine-producing district", "Strategic location on the route between Nitra and Levice"],
     },
-    imageHint: "Neo-Gothic church in Vráble town center",
-  },
+    imageHint: "Neo-Gothic church in Vráble town center", image: "/poi-images/slovakia-vlkas-cities-v2.webp"},
   {
     id: "slovakia-gabcikovo-cities-v2",
     type: "town",

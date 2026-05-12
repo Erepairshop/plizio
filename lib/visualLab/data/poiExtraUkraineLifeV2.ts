@@ -19,8 +19,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Cea mai veche rezervație de stepă din lume", "Rezervație a Biosferei UNESCO din 1984", "Peste 11.000 de hectare de stepă virgină", "Adăpostește cai Przewalski și zebre"],
       en: ["Oldest steppe reserve in the world", "UNESCO Biosphere Reserve since 1984", "Over 11,000 hectares of virgin steppe", "Home to Przewalski's horses and zebras"],
     },
-    imageHint: "Askaniya-Nova steppe with zebras and antelopes",
-  },
+    imageHint: "Askaniya-Nova steppe with zebras and antelopes", image: "/poi-images/ukraine-askaniya-nova-life-v2.webp"},
   {
     id: "ukraine-carpathian-biosphere-life-v2",
     type: "forest",
@@ -39,8 +38,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Găzduiește cea mai mare vale a narciselor din Europa", "Parte a Patrimoniului Mondial UNESCO", "Fondată în anul 1968", "Cuprinde masivul Ciornohora"],
       en: ["Home to the largest narcissus valley in Europe", "Part of the UNESCO World Heritage Ancient Beech Forests", "Established in 1968", "Includes the Chornohora massif"],
     },
-    imageHint: "Carpathian Mountains forest and valley of daffodils",
-  },
+    imageHint: "Carpathian Mountains forest and valley of daffodils", image: "/poi-images/ukraine-carpathian-biosphere-life-v2.webp"},
   {
     id: "ukraine-shatsk-national-park-life-v2",
     type: "lake",
@@ -59,8 +57,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 1983", "Sveatiaz este cel mai adânc lac din Ucraina", "Sit Ramsar de importanță internațională", "Suprafață de aproximativ 490 km pătrați"],
       en: ["Established in 1983", "Svitiaz is the deepest lake in Ukraine", "Ramsar wetland of international importance", "Area of approximately 490 square kilometers"],
     },
-    imageHint: "Shatsk Lakes aerial view with Svitiaz Lake",
-  },
+    imageHint: "Shatsk Lakes aerial view with Svitiaz Lake", image: "/poi-images/ukraine-shatsk-national-park-life-v2.webp"},
   {
     id: "ukraine-synevyr-national-park-life-v2",
     type: "park",
@@ -79,8 +76,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 1989", "Cuprinde mlaștina Hluhania", "Adăpostește peste 500 de specii de plante", "Lacul se află la 989 de metri altitudine"],
       en: ["Established in 1989", "Includes the Hluhanya bog", "Home to over 500 plant species", "The lake is located at 989 meters altitude"],
     },
-    imageHint: "Synevyr Lake in the Carpathian mountains",
-  },
+    imageHint: "Synevyr Lake in the Carpathian mountains", image: "/poi-images/ukraine-synevyr-national-park-life-v2.webp"},
   {
     id: "ukraine-oleshky-sands-life-v2",
     type: "wildlife",
@@ -99,8 +95,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Suprafață de aproximativ 161 km pătrați", "Declarat parc național în anul 2010", "Dunele pot atinge 20 de metri înălțime", "Fost poligon militar de antrenament"],
       en: ["Area of approximately 161 square kilometers", "Established as a national park in 2010", "Dunes can reach up to 20 meters in height", "Former military training ground"],
     },
-    imageHint: "Oleshky Sands desert dunes in Ukraine",
-  },
+    imageHint: "Oleshky Sands desert dunes in Ukraine", image: "/poi-images/ukraine-oleshky-sands-life-v2.webp"},
   {
     id: "ukraine-dzharylhatsk-life-v2",
     type: "wildlife",
@@ -119,8 +114,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Insula are aproximativ 42 km lungime", "Adăpostește peste 250 de specii de păsări", "Fondat în anul 2009", "Are două faruri istorice"],
       en: ["The island is approximately 42 km long", "Home to over 250 bird species", "Established in 2009", "Features two historical lighthouses"],
     },
-    imageHint: "Dzharylhatsk island with lighthouse and wild horses",
-  },
+    imageHint: "Dzharylhatsk island with lighthouse and wild horses", image: "/poi-images/ukraine-dzharylhatsk-life-v2.webp"},
   {
     id: "ukraine-danube-biosphere-life-v2",
     type: "wildlife",
@@ -139,8 +133,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Găzduiește cea mai mare colonie de pelicani din Europa", "Rezervație a Biosferei UNESCO din 1998", "Loc important de popas pentru păsările migratoare", "Cuprinde orașul Vîlkovo"],
       en: ["Home to the largest pelican colony in Europe", "UNESCO Biosphere Reserve since 1998", "Important stopover for migratory birds", "Includes the town of Vylkove"],
     },
-    imageHint: "Danube Delta canals with pelicans in Ukraine",
-  },
+    imageHint: "Danube Delta canals with pelicans in Ukraine", image: "/poi-images/ukraine-danube-biosphere-life-v2.webp"},
   {
     id: "ukraine-tuzly-lagoons-life-v2",
     type: "wildlife",
@@ -159,8 +152,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Adăpostește peste 260 de specii de păsări", "Fondat în anul 2010", "Cuprinde 13 lagune diferite", "Loc important pentru flamingi"],
       en: ["Home to over 260 bird species", "Established in 2010", "Comprises 13 different lagoons", "Important site for flamingos"],
     },
-    imageHint: "Tuzly Lagoons wetlands with birds",
-  },
+    imageHint: "Tuzly Lagoons wetlands with birds", image: "/poi-images/ukraine-tuzly-lagoons-life-v2.webp"},
   {
     id: "ukraine-black-sea-biosphere-life-v2",
     type: "wildlife",
@@ -179,8 +171,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondată în anul 1927", "Adăpostește peste 300 de specii de păsări", "Protejează mlaștini sărate rare", "Parte a rețelei mondiale UNESCO din 1984"],
       en: ["Established in 1927", "Home to over 300 bird species", "Protects rare salt marshes", "Part of UNESCO world networks since 1984"],
     },
-    imageHint: "Black Sea Biosphere Reserve shoreline with birds",
-  },
+    imageHint: "Black Sea Biosphere Reserve shoreline with birds", image: "/poi-images/ukraine-black-sea-biosphere-life-v2.webp"},
   {
     id: "ukraine-podilski-tovtry-life-v2",
     type: "park",
@@ -199,8 +190,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Suprafață de aproximativ 2.613 km pătrați", "Fondat în anul 1996", "Cuprinde lanțul de dealuri Tovtri", "Adăpostește peste 60 de specii de plante din Cartea Roșie"],
       en: ["Area of approximately 2,613 square kilometers", "Established in 1996", "Includes the Tovtry hill range", "Home to over 60 Red List plant species"],
     },
-    imageHint: "Podilski Tovtry hills and Dniester river canyon",
-  },
+    imageHint: "Podilski Tovtry hills and Dniester river canyon", image: "/poi-images/ukraine-podilski-tovtry-life-v2.webp"},
   {
     id: "ukraine-sofiyivka-park-life-v2",
     type: "park",
@@ -219,8 +209,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în 1796 de Stanisław Potocki", "Suprafață de aproximativ 179 de hectare", "Numit după soția lui Potocki, Sofia", "Găzduiește peste 2.000 de specii de arbori"],
       en: ["Founded in 1796 by Stanisław Potocki", "Area of approximately 179 hectares", "Named after Potocki's wife Sofia", "Home to over 2,000 tree species"],
     },
-    imageHint: "Sofiyivka Park lake and classic architecture",
-  },
+    imageHint: "Sofiyivka Park lake and classic architecture", image: "/poi-images/ukraine-sofiyivka-park-life-v2.webp"},
   {
     id: "ukraine-kyiv-zoo-life-v2",
     type: "wildlife",
@@ -239,8 +228,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondată în anul 1909", "Găzduiește peste 2.000 de animale", "Se întinde pe o suprafață de 34 de hectare", "Membru al rețelei EAZA"],
       en: ["Established in 1909", "Home to over 2,000 animals", "Spans an area of 34 hectares", "Member of the EAZA network"],
     },
-    imageHint: "Kyiv Zoo entrance or animals",
-  },
+    imageHint: "Kyiv Zoo entrance or animals", image: "/poi-images/ukraine-kyiv-zoo-life-v2.webp"},
   {
     id: "ukraine-gryshko-botanical-life-v2",
     type: "park",
@@ -259,8 +247,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondată în anul 1935", "Deține una dintre cele mai mari colecții de liliac", "Se întinde pe aproximativ 130 de hectare", "Adăpostește o faimoasă seră tropicală"],
       en: ["Established in 1935", "Has one of the largest lilac collections", "Spans approximately 130 hectares", "Home to a famous tropical greenhouse"],
     },
-    imageHint: "Gryshko Botanical Garden lilac blooming in Kyiv",
-  },
+    imageHint: "Gryshko Botanical Garden lilac blooming in Kyiv", image: "/poi-images/ukraine-gryshko-botanical-life-v2.webp"},
   {
     id: "ukraine-mykolaiv-zoo-life-v2",
     type: "wildlife",
@@ -279,8 +266,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondată în anul 1901", "Găzduiește peste 450 de specii de animale", "Membru al asociației mondiale WAZA", "Deține un acvariu mare"],
       en: ["Established in 1901", "Home to over 450 animal species", "Member of the WAZA world association", "Features a large aquarium"],
     },
-    imageHint: "Mykolaiv Zoo entrance and animal enclosures",
-  },
+    imageHint: "Mykolaiv Zoo entrance and animal enclosures", image: "/poi-images/ukraine-mykolaiv-zoo-life-v2.webp"},
   {
     id: "ukraine-kharkiv-zoo-life-v2",
     type: "wildlife",
@@ -299,8 +285,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondată în anul 1895", "Prima grădină zoologică din Ucraina", "Se întinde pe o suprafață de 22 de hectare", "Găzduiește peste 400 de specii de animale"],
       en: ["Established in 1895", "First zoo in Ukraine", "Spans an area of 22 hectares", "Home to over 400 animal species"],
     },
-    imageHint: "Kharkiv Zoo modern enclosures",
-  },
+    imageHint: "Kharkiv Zoo modern enclosures", image: "/poi-images/ukraine-kharkiv-zoo-life-v2.webp"},
   {
     id: "ukraine-oleksandriya-dendropark-life-v2",
     type: "park",
@@ -319,8 +304,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 1788", "Suprafață de aproximativ 400 de hectare", "Deține peste 2.500 de specii de plante", "A fost fondat de Alexandra von Engelhardt"],
       en: ["Established in 1788", "Area of approximately 400 hectares", "Possesses over 2,500 plant species", "Founded by Alexandra von Engelhardt"],
     },
-    imageHint: "Oleksandriya Dendropark bridges and forest",
-  },
+    imageHint: "Oleksandriya Dendropark bridges and forest", image: "/poi-images/ukraine-oleksandriya-dendropark-life-v2.webp"},
   {
     id: "ukraine-nikitsky-botanical-life-v2",
     type: "park",
@@ -339,8 +323,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondată în anul 1812", "Găzduiește peste 30.000 de specii de plante", "Deține un ierbar important", "Cunoscută pentru expoziția anuală de crizanteme"],
       en: ["Established in 1812", "Home to over 30,000 plant species", "Possesses a significant herbarium", "Famous for the annual chrysanthemum show"],
     },
-    imageHint: "Nikitsky Botanical Garden palms and flowers",
-  },
+    imageHint: "Nikitsky Botanical Garden palms and flowers", image: "/poi-images/ukraine-nikitsky-botanical-life-v2.webp"},
   {
     id: "ukraine-desniansko-starohutskyi-life-v2",
     type: "wildlife",
@@ -359,8 +342,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 1999", "Parte a rezervației transfrontaliere Briansk", "Habitat important pentru elani și râși", "Cuprinde aproximativ 17.000 de hectare"],
       en: ["Established in 1999", "Part of the cross-border Bryansk reserve", "Important habitat for elk and lynx", "Spans approximately 17,000 hectares"],
     },
-    imageHint: "Desna River floodplains and forest",
-  },
+    imageHint: "Desna River floodplains and forest", image: "/poi-images/ukraine-desniansko-starohutskyi-life-v2.webp"},
   {
     id: "ukraine-lower-dniester-life-v2",
     type: "wildlife",
@@ -379,8 +361,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 2008", "Sit Ramsar de importanță internațională", "Adăpostește peste 200 de specii de păsări", "Suprafață de 21.000 de hectare"],
       en: ["Established in 2008", "Ramsar wetland of international importance", "Home to over 200 bird species", "Spans an area of 21,000 hectares"],
     },
-    imageHint: "Dniester Delta wetlands and reeds",
-  },
+    imageHint: "Dniester Delta wetlands and reeds", image: "/poi-images/ukraine-lower-dniester-life-v2.webp"},
   {
     id: "ukraine-ichnianskyi-life-v2",
     type: "park",
@@ -399,8 +380,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 2004", "Protejează peisaje mlăștinoase rare", "Adăpostește peste 50 de specii de mamifere", "Cuprinde aproximativ 9.700 de hectare"],
       en: ["Established in 2004", "Protects rare marsh landscapes", "Home to over 50 mammal species", "Spans approximately 9,700 hectares"],
     },
-    imageHint: "Ichnianskyi Park forest and river",
-  },
+    imageHint: "Ichnianskyi Park forest and river", image: "/poi-images/ukraine-ichnianskyi-life-v2.webp"},
   {
     id: "ukraine-pyriatynskyi-life-v2",
     type: "wildlife",
@@ -419,8 +399,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 2009", "Adăpostește peste 150 de specii de păsări", "Protejează păduri de luncă rare", "Suprafață de aproximativ 12.000 de hectare"],
       en: ["Established in 2009", "Home to over 150 bird species", "Protects rare floodplain forests", "Area of approximately 12,000 hectares"],
     },
-    imageHint: "Udai River floodplains in Pyriatynskyi Park",
-  },
+    imageHint: "Udai River floodplains in Pyriatynskyi Park", image: "/poi-images/ukraine-pyriatynskyi-life-v2.webp"},
   {
     id: "ukraine-homilshanski-lisy-life-v2",
     type: "forest",
@@ -439,8 +418,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Unii stejari au o vechime de peste 400 de ani", "Fondat în anul 2004", "Cuprinde aproximativ 14.000 de hectare", "Adăpostește specii rare de orhidee"],
       en: ["Some oaks are over 400 years old", "Established in 2004", "Spans approximately 14,000 hectares", "Home to rare orchid species"],
     },
-    imageHint: "Ancient oak forest in Homilshanski Lisy",
-  },
+    imageHint: "Ancient oak forest in Homilshanski Lisy", image: "/poi-images/ukraine-homilshanski-lisy-life-v2.webp"},
   {
     id: "ukraine-holy-mountains-life-v2",
     type: "landmark",
@@ -459,8 +437,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 1997", "Adăpostește peste 900 de specii de plante", "Suprafață de 40.000 de hectare", "Stâncile de cretă domină râul Doneț"],
       en: ["Established in 1997", "Home to over 900 plant species", "Area of 40,000 hectares", "Chalk cliffs tower over the Donets River"],
     },
-    imageHint: "Holy Mountains chalk cliffs and monastery",
-  },
+    imageHint: "Holy Mountains chalk cliffs and monastery", image: "/poi-images/ukraine-holy-mountains-life-v2.webp"},
   {
     id: "ukraine-biloozerskyi-life-v2",
     type: "forest",
@@ -479,8 +456,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 2009", "Loc important pentru cercetare forestieră", "Adăpostește păsări de pradă rare", "Suprafață de aproximativ 7.000 de hectare"],
       en: ["Established in 2009", "Important site for forestry research", "Home to rare birds of prey", "Area of approximately 7,000 hectares"],
     },
-    imageHint: "Biloozerskyi Park pine forest",
-  },
+    imageHint: "Biloozerskyi Park pine forest", image: "/poi-images/ukraine-biloozerskyi-life-v2.webp"},
   {
     id: "ukraine-zalissia-life-v2",
     type: "wildlife",
@@ -499,8 +475,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 2009", "Cuprinde peste 14.000 de hectare", "Loc important pentru reintroducerea zimbrilor", "Constă în principal din păduri mixte de pini"],
       en: ["Established in 2009", "Spans over 14,000 hectares", "Important site for European bison reintroduction", "Consists mainly of mixed pine forests"],
     },
-    imageHint: "European bison in Zalissia forest",
-  },
+    imageHint: "European bison in Zalissia forest", image: "/poi-images/ukraine-zalissia-life-v2.webp"},
   {
     id: "ukraine-bugs-guard-life-v2",
     type: "river",
@@ -519,8 +494,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 2009", "Una dintre cele șapte minuni naturale ale Ucrainei", "Destinație populară pentru rafting", "Adăpostește specii de plante endemice rare"],
       en: ["Established in 2009", "One of the Seven Natural Wonders of Ukraine", "Popular destination for rafting", "Home to rare endemic plant species"],
     },
-    imageHint: "Southern Bug river canyon and granite rocks",
-  },
+    imageHint: "Southern Bug river canyon and granite rocks", image: "/poi-images/ukraine-bugs-guard-life-v2.webp"},
   {
     id: "ukraine-skolivski-beskydy-life-v2",
     type: "park",
@@ -539,8 +513,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 1999", "Cuprinde aproximativ 35.000 de hectare", "Adăpostește zimbri și urși bruni", "Include masivul stâncos istoric Tusthan"],
       en: ["Established in 1999", "Spans approximately 35,000 hectares", "Home to European bison and brown bears", "Includes the historical Tusthan rock fortress"],
     },
-    imageHint: "Skolivski Beskydy waterfall and mountains",
-  },
+    imageHint: "Skolivski Beskydy waterfall and mountains", image: "/poi-images/ukraine-skolivski-beskydy-life-v2.webp"},
   {
     id: "ukraine-azov-syvash-life-v2",
     type: "wildlife",
@@ -559,8 +532,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 1993", "Adăpostește cerbi și culani", "Cuprinde peste 52.000 de hectare", "Sivaș este cunoscut sub numele de 'Marea Putredă'"],
       en: ["Established in 1993", "Home to deer and kulans", "Spans over 52,000 hectares", "Syvash is known as the 'Rotten Sea'"],
     },
-    imageHint: "Azov-Syvash coastal landscape with deer",
-  },
+    imageHint: "Azov-Syvash coastal landscape with deer", image: "/poi-images/ukraine-azov-syvash-life-v2.webp"},
   {
     id: "ukraine-meotida-life-v2",
     type: "wildlife",
@@ -579,8 +551,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 2009", "Cel mai important loc de cuibărit pentru chirighițe", "Cuprinde aproximativ 13.000 de hectare", "Protejează fauna de coastă rară"],
       en: ["Established in 2009", "Most important nesting site for Sandwich terns", "Spans approximately 13,000 hectares", "Protects rare coastal fauna"],
     },
-    imageHint: "Meotida sandbars and seagulls",
-  },
+    imageHint: "Meotida sandbars and seagulls", image: "/poi-images/ukraine-meotida-life-v2.webp"},
   {
     id: "ukraine-pripyat-stokhid-life-v2",
     type: "wildlife",
@@ -599,8 +570,7 @@ export const ukraineLifeV2: POI[] = [
       ro: ["Fondat în anul 2007", "Supranumit adesea 'Amazonia ucraineană'", "Adăpostește specii rare de păsări de apă", "Cuprinde aproximativ 39.000 de hectare"],
       en: ["Established in 2007", "Often referred to as 'Ukrainian Amazonia'", "Home to rare waterfowl species", "Spans approximately 39,000 hectares"],
     },
-    imageHint: "Pripyat River wetlands and marshes",
-  },
+    imageHint: "Pripyat River wetlands and marshes", image: "/poi-images/ukraine-pripyat-stokhid-life-v2.webp"},
   {
     id: "ukraine-podesinnia-life-v2",
     type: "wildlife",

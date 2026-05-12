@@ -19,8 +19,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Cel mai mare port din Albania", "Gestionează 90% din comerțul maritim", "Terminal major pentru feriboturi adriatice", "Parte a Coridorului Paneuropean VIII"],
       en: ["Largest port in Albania", "Handles 90% of maritime trade", "Major terminal for Adriatic ferries", "Part of Pan-European Corridor VIII"],
     },
-    imageHint: "Aerial view of the industrial Port of Durres with shipping containers",
-  },
+    imageHint: "Aerial view of the industrial Port of Durres with shipping containers", image: "/poi-images/albania-port-of-durres-economic-v2.webp"},
   {
     id: "albania-koman-hydroelectric-plant-economic-v2",
     type: "industry",
@@ -39,8 +38,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Construită între 1980 și 1988", "Putere instalată de 600 MW", "Parte a cascadei râului Drin", "Barajul are o înălțime de 115 metri"],
       en: ["Built between 1980 and 1988", "Installed capacity of 600 MW", "Part of the Drin River cascade", "Dam height reaches 115 meters"],
     },
-    imageHint: "Large hydroelectric dam and power station at Koman Lake",
-  },
+    imageHint: "Large hydroelectric dam and power station at Koman Lake", image: "/poi-images/albania-koman-hydroelectric-plant-economic-v2.webp"},
   {
     id: "albania-patos-marinza-oil-field-economic-v2",
     type: "mine",
@@ -59,8 +57,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Descoperit în anul 1928", "Cel mai mare câmp onshore din Europa", "Produce petrol greu", "Angajator major în regiunea Fier"],
       en: ["Discovered in 1928", "Largest onshore oil field in Europe", "Produces heavy crude oil", "Major employer in the Fier region"],
     },
-    imageHint: "Oil pumps and industrial drilling rigs in Patos-Marinza",
-  },
+    imageHint: "Oil pumps and industrial drilling rigs in Patos-Marinza", image: "/poi-images/albania-patos-marinza-oil-field-economic-v2.webp"},
   {
     id: "albania-bulqize-chrome-mine-economic-v2",
     type: "mine",
@@ -99,8 +96,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Fondat în anii 1970", "Cel mai mare complex industrial din țară", "Exportă oțel în regiunea Balcanilor", "Nod feroviar important"],
       en: ["Founded in the 1970s", "Largest industrial complex in Albania", "Exports steel to the Balkans", "Key railway logistics hub"],
     },
-    imageHint: "Large industrial steel mill complex with chimneys in Elbasan",
-  },
+    imageHint: "Large industrial steel mill complex with chimneys in Elbasan", image: "/poi-images/albania-elbasan-steel-mill-economic-v2.webp"},
   {
     id: "albania-tirana-airport-economic-v2",
     type: "industry",
@@ -119,8 +115,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Singurul aeroport internațional major", "Numit după Maica Tereza", "Terminal de marfă modernizat", "Peste 5 milioane de pasageri anual"],
       en: ["Main international airport", "Named after Mother Teresa", "Modernized cargo facilities", "Handles over 5 million passengers annually"],
     },
-    imageHint: "Modern terminal of Tirana International Airport",
-  },
+    imageHint: "Modern terminal of Tirana International Airport", image: "/poi-images/albania-tirana-airport-economic-v2.webp"},
   {
     id: "albania-fierza-hydroelectric-plant-economic-v2",
     type: "industry",
@@ -139,8 +134,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Barajul are 166 metri înălțime", "Construcția a început în 1971", "Capacitate de 500 MW", "Reglează debitul râului Drin"],
       en: ["Dam height of 166 meters", "Construction started in 1971", "Generating capacity of 500 MW", "Regulates the Drin River flow"],
     },
-    imageHint: "High dam wall and large reservoir lake in Fierza",
-  },
+    imageHint: "High dam wall and large reservoir lake in Fierza", image: "/poi-images/albania-fierza-hydroelectric-plant-economic-v2.webp"},
   {
     id: "albania-port-of-vlore-economic-v2",
     type: "port",
@@ -159,8 +153,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Al doilea port maritim al țării", "Aproape de strâmtoarea Otranto", "Include un terminal petrolier", "Centru important pentru pescuit"],
       en: ["Second largest seaport in the country", "Close to the Strait of Otranto", "Features a petroleum terminal", "Significant fishing industry base"],
     },
-    imageHint: "Vlore port with ferries and industrial docks",
-  },
+    imageHint: "Vlore port with ferries and industrial docks", image: "/poi-images/albania-port-of-vlore-economic-v2.webp"},
   {
     id: "albania-ballsh-oil-refinery-economic-v2",
     type: "factory",
@@ -179,8 +172,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Singura unitate majoră de procesare", "Vitală pentru independența energetică", "Produce bitum pentru export", "Sursă de locuri de muncă în Mallakastra"],
       en: ["Only major deep-processing refinery", "Vital for energy independence", "Produces bitumen for export", "Key employer in the Mallakastra region"],
     },
-    imageHint: "Industrial pipes and towers of an oil refinery in Ballsh",
-  },
+    imageHint: "Industrial pipes and towers of an oil refinery in Ballsh", image: "/poi-images/albania-ballsh-oil-refinery-economic-v2.webp"},
   {
     id: "albania-vau-i-dejes-power-plant-economic-v2",
     type: "industry",
@@ -199,8 +191,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Pusă în funcțiune în 1971", "Putere instalată de 250 MW", "Formează un lac de 25 km²", "Importanță majoră în controlul inundațiilor"],
       en: ["Commissioned in 1971", "Installed capacity of 250 MW", "Forms a 25 square km reservoir", "Key for flood control in the region"],
     },
-    imageHint: "Hydroelectric power plant building and spillway at Vau i Dejes",
-  },
+    imageHint: "Hydroelectric power plant building and spillway at Vau i Dejes", image: "/poi-images/albania-vau-i-dejes-power-plant-economic-v2.webp"},
   {
     id: "albania-lushnje-agricultural-hub-economic-v2",
     type: "industry",
@@ -219,8 +210,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Centrul câmpiei Myzeqe", "Sediul unor mari procesatori alimentari", "Cea mai mare piață agricolă", "Lider în producția de sere"],
       en: ["Heart of the Myzeqe agricultural plain", "Home to major food processing plants", "Main market for agricultural goods", "Leader in greenhouse production"],
     },
-    imageHint: "Vast agricultural fields and greenhouses near Lushnje",
-  },
+    imageHint: "Vast agricultural fields and greenhouses near Lushnje", image: "/poi-images/albania-lushnje-agricultural-hub-economic-v2.webp"},
   {
     id: "albania-korca-brewery-economic-v2",
     type: "factory",
@@ -239,8 +229,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1928", "Prima fabrică de bere din Albania", "Multiple premii internaționale", "Angajator important în Korçë"],
       en: ["Founded in 1928", "First brewery in Albania", "Winner of multiple international awards", "Significant employer in the Korçë region"],
     },
-    imageHint: "Exterior of the historic Birra Korca brewery factory",
-  },
+    imageHint: "Exterior of the historic Birra Korca brewery factory", image: "/poi-images/albania-korca-brewery-economic-v2.webp"},
   {
     id: "albania-kruje-cement-plant-economic-v2",
     type: "factory",
@@ -259,8 +248,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Investiție majoră străină", "Produce pentru întreaga regiune", "Cariere de calcar proprii în apropiere", "Tehnologie modernă de filtrare"],
       en: ["Major foreign investment project", "Supplies the entire Balkan region", "Operates nearby limestone quarries", "Equipped with modern filtration tech"],
     },
-    imageHint: "Large industrial cement factory with silos near Kruje",
-  },
+    imageHint: "Large industrial cement factory with silos near Kruje", image: "/poi-images/albania-kruje-cement-plant-economic-v2.webp"},
   {
     id: "albania-tirana-business-park-economic-v2",
     type: "industry",
@@ -279,8 +267,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Primul parc de afaceri din țară", "Construit la standarde germane", "Centru pentru IT și servicii", "Locație strategică lângă autostradă"],
       en: ["First dedicated business park in Albania", "Built to high international standards", "Hub for IT and professional services", "Strategically located on the main highway"],
     },
-    imageHint: "Modern office buildings and landscaped areas of a business park",
-  },
+    imageHint: "Modern office buildings and landscaped areas of a business park", image: "/poi-images/albania-tirana-business-park-economic-v2.webp"},
   {
     id: "albania-port-of-shengjin-economic-v2",
     type: "port",
@@ -299,8 +286,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Cel mai nordic port din Albania", "Principalul port pentru mărfuri spre Kosovo", "Extindere planificată a terminalului", "Centru de logistică de coastă"],
       en: ["Northernmost seaport in Albania", "Primary port for goods destined for Kosovo", "Terminal expansion in progress", "Hub for coastal logistics"],
     },
-    imageHint: "Port docks with small ships and fishing boats in Shengjin",
-  },
+    imageHint: "Port docks with small ships and fishing boats in Shengjin", image: "/poi-images/albania-port-of-shengjin-economic-v2.webp"},
   {
     id: "albania-kucove-oil-field-economic-v2",
     type: "mine",
@@ -319,8 +305,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Primele foraje în anii 1920", "Centrul asistenței petroliere sovietice", "Deține instalații de extracție istorice", "Locație strategică pentru o bază NATO"],
       en: ["First drilling in the 1920s", "Hub of Soviet-era oil assistance", "Features historic oil derricks", "Location of a major NATO airbase"],
     },
-    imageHint: "Vintage oil derricks and modern drilling equipment in Kucove",
-  },
+    imageHint: "Vintage oil derricks and modern drilling equipment in Kucove", image: "/poi-images/albania-kucove-oil-field-economic-v2.webp"},
   {
     id: "albania-port-of-sarande-economic-v2",
     type: "port",
@@ -339,8 +324,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Cel mai important port pentru turism", "Feriboturi regulate către Corfu", "Terminal pentru nave de croazieră", "Centru al comerțului regional"],
       en: ["Albania's most important tourist port", "Daily ferry services to Corfu", "Deep-water terminal for cruise liners", "Hub for regional cross-border trade"],
     },
-    imageHint: "Sarande harbor with cruise ships and ferries",
-  },
+    imageHint: "Sarande harbor with cruise ships and ferries", image: "/poi-images/albania-port-of-sarande-economic-v2.webp"},
   {
     id: "albania-durres-railway-hub-economic-v2",
     type: "industry",
@@ -359,8 +343,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Centrul căilor ferate albaneze", "Conexiune directă cu portul", "Vital pentru transportul de minereu", "Sediul companiei naționale de căi ferate"],
       en: ["Heart of the Albanian railway system", "Direct connection to the seaport", "Key for transporting ore and steel", "Headquarters of the national rail company"],
     },
-    imageHint: "Railway tracks and freight trains at the Durres station",
-  },
+    imageHint: "Railway tracks and freight trains at the Durres station", image: "/poi-images/albania-durres-railway-hub-economic-v2.webp"},
   {
     id: "albania-shkoder-industrial-zone-economic-v2",
     type: "factory",
@@ -379,8 +362,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Centru al industriei textile", "Important pentru fabricarea încălțămintei", "Exportă în principal către UE", "Cea mai veche zonă industrială din nord"],
       en: ["Hub for the textile and garment industry", "Major production site for footwear", "Exports primarily to EU markets", "Oldest industrial center in northern Albania"],
     },
-    imageHint: "Modern factory buildings in the industrial outskirts of Shkoder",
-  },
+    imageHint: "Modern factory buildings in the industrial outskirts of Shkoder", image: "/poi-images/albania-shkoder-industrial-zone-economic-v2.webp"},
   {
     id: "albania-prrenjas-nickel-mine-economic-v2",
     type: "mine",
@@ -419,8 +401,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Fosta cea mai mare mină de cărbune", "Orașul a fost fondat datorită minei", "Extracția cărbunelui brun", "Sit industrial istoric important"],
       en: ["Formerly the largest coal mine in Albania", "The town was founded to serve the mine", "Produced lignite coal for industry", "Significant historical industrial site"],
     },
-    imageHint: "Old coal mining structures and industrial heritage site in Memaliaj",
-  },
+    imageHint: "Old coal mining structures and industrial heritage site in Memaliaj", image: "/poi-images/albania-memaliaj-coal-mine-economic-v2.webp"},
   {
     id: "albania-rubik-copper-plant-economic-v2",
     type: "factory",
@@ -439,8 +420,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Locație tradițională pentru topirea cuprului", "Important pentru metalurgie", "Aproape de depozitele de minereu Mirdita", "Peisaj urban dominat de industrie"],
       en: ["Traditional site for copper smelting", "Key metallurgical hub in the north", "Close to Mirdita's mineral deposits", "Defines the town's industrial character"],
     },
-    imageHint: "Industrial copper smelting plant in a valley in Rubik",
-  },
+    imageHint: "Industrial copper smelting plant in a valley in Rubik", image: "/poi-images/albania-rubik-copper-plant-economic-v2.webp"},
   {
     id: "albania-lac-industrial-zone-economic-v2",
     type: "factory",
@@ -459,8 +439,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Fost centru pentru superfosfați", "Complex chimic major în regiune", "Vital pentru sprijinirea agriculturii", "Transformat în pol de logistică"],
       en: ["Former center for superphosphate production", "Largest chemical complex in the region", "Historically vital for agriculture", "Transitioned into a logistics and recycling hub"],
     },
-    imageHint: "Large chemical factory complex and industrial area in Lac",
-  },
+    imageHint: "Large chemical factory complex and industrial area in Lac", image: "/poi-images/albania-lac-industrial-zone-economic-v2.webp"},
   {
     id: "albania-berat-textile-mill-economic-v2",
     type: "factory",
@@ -479,8 +458,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Cea mai mare fabrică de textile din Albania", "Cunoscută în trecut sub numele 'Mao Zedong'", "Centru de procesare a bumbacului", "Angajator istoric major în Berat"],
       en: ["Formerly the largest textile plant in Albania", "Historically named after Mao Zedong", "Center for cotton processing and spinning", "Key historical driver of the local economy"],
     },
-    imageHint: "Old industrial textile factory buildings in Berat",
-  },
+    imageHint: "Old industrial textile factory buildings in Berat", image: "/poi-images/albania-berat-textile-mill-economic-v2.webp"},
   {
     id: "albania-pogradec-nickel-mine-economic-v2",
     type: "mine",
@@ -499,8 +477,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Exportă minereu în Europa Centrală", "Sursă importantă de locuri de muncă", "Utilizează linia feroviară spre Durrës", "Produce minereu industrial de calitate"],
       en: ["Exports ore to Central European markets", "Key mining location in the southeast", "Utilizes the railway connection to Durrës", "Produces high-grade industrial mineral ore"],
     },
-    imageHint: "Mining pits and mineral processing equipment near Pogradec",
-  },
+    imageHint: "Mining pits and mineral processing equipment near Pogradec", image: "/poi-images/albania-pogradec-nickel-mine-economic-v2.webp"},
   {
     id: "albania-kukes-airport-economic-v2",
     type: "industry",
@@ -519,8 +496,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Al doilea aeroport internațional", "Finanțat de Emiratele Arabe Unite", "Important pentru liniile low-cost", "Hub pentru conectivitate regională"],
       en: ["Albania's second international airport", "Funded by the United Arab Emirates", "Focuses on low-cost carrier services", "Hub for regional economic connectivity"],
     },
-    imageHint: "Modern terminal and runway of Kukes Airport",
-  },
+    imageHint: "Modern terminal and runway of Kukes Airport", image: "/poi-images/albania-kukes-airport-economic-v2.webp"},
   {
     id: "albania-divjake-gas-field-economic-v2",
     type: "mine",
@@ -539,8 +515,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Centru al extracției de gaze", "Alimentează industria locală", "Noduri de conducte importante", "Puncte de extracție în apropierea coastei"],
       en: ["Major hub for natural gas production", "Supplies regional industrial plants", "Key pipeline intersection point", "Coastal gas extraction facilities"],
     },
-    imageHint: "Natural gas extraction facility and pipelines in Divjake",
-  },
+    imageHint: "Natural gas extraction facility and pipelines in Divjake", image: "/poi-images/albania-divjake-gas-field-economic-v2.webp"},
   {
     id: "albania-sarande-ferry-terminal-economic-v2",
     type: "port",
@@ -559,8 +534,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Principala rută comercială spre Corfu", "Sute de pasageri zilnic", "Punct vamal și de frontieră important", "Centru de creștere pentru sectorul serviciilor"],
       en: ["Primary trade route to Corfu, Greece", "Handles hundreds of passengers daily", "Major customs and border post", "Hub for the expanding service sector"],
     },
-    imageHint: "Busy ferry terminal with ships docking in Sarande",
-  },
+    imageHint: "Busy ferry terminal with ships docking in Sarande", image: "/poi-images/albania-sarande-ferry-terminal-economic-v2.webp"},
   {
     id: "albania-vlore-industrial-park-economic-v2",
     type: "industry",
@@ -579,8 +553,7 @@ export const albaniaEconomicV2: POI[] = [
       ro: ["Focus pe energie și logistică", "Acces direct la drumul de coastă", "Găzduiește grupuri industriale internaționale", "Vital pentru economia maritimă"],
       en: ["Focuses on energy and logistics sectors", "Direct access to main coastal highways", "Home to international industrial firms", "Vital for the regional maritime economy"],
     },
-    imageHint: "Modern industrial warehouses and factories near the coast of Vlore",
-  },
+    imageHint: "Modern industrial warehouses and factories near the coast of Vlore", image: "/poi-images/albania-vlore-industrial-park-economic-v2.webp"},
   {
     id: "albania-bitincka-mining-area-economic-v2",
     type: "mine",

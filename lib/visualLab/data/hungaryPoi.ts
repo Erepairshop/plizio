@@ -147,8 +147,7 @@ export const hungaryRegions: POI[] = [
         "The city is a major center for education, with numerous prestigious universities.",
         "Heroes' Square is one of the most important and most visited squares in the city."
       ]
-    },
-  },
+    }, image: "/poi-images/budapest.webp"},
   {
     id: "baranya",
     type: "region",

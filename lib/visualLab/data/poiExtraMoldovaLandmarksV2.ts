@@ -59,8 +59,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["Număr chilii: peste 18", "Locație: Malul abrupt al Nistrului", "Înălțime: 100 metri deasupra râului", "Record: Cea mai mare mănăstire rupestră"],
       en: ["Number of cells: 18+", "Location: Dniester high bank", "Elevation: 100 meters above river", "Feature: Largest cave monastery"],
     },
-    imageHint: "Tipova cave monastery windows in white cliff",
-  },
+    imageHint: "Tipova cave monastery windows in white cliff", image: "/poi-images/moldova-tipova-monastery-landmarks-v2.webp"},
   {
     id: "moldova-manuc-bey-mansion-landmarks-v2",
     type: "palace",
@@ -79,8 +78,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["Perioadă construcție: 1817-1881", "Stil: Clasicism francez", "Locație: Hîncești", "Număr camere: peste 100"],
       en: ["Construction: 1817-1881", "Style: French Classicism", "Location: Hîncești", "Number of rooms: 100+"],
     },
-    imageHint: "Manuc Bey Mansion Hincesti yellow facade",
-  },
+    imageHint: "Manuc Bey Mansion Hincesti yellow facade", image: "/poi-images/moldova-manuc-bey-mansion-landmarks-v2.webp"},
   {
     id: "moldova-nativity-cathedral-chisinau-landmarks-v2",
     type: "cathedral",
@@ -99,8 +97,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1836", "Arhitect: Abraham Melnikov", "Stil: Neoclasic", "Locație: Parcul Central"],
       en: ["Year of completion: 1836", "Architect: Abraham Melnikov", "Style: Neoclassical", "Location: Central Park"],
     },
-    imageHint: "Chișinău Nativity Cathedral white building with domes",
-  },
+    imageHint: "Chișinău Nativity Cathedral white building with domes", image: "/poi-images/moldova-nativity-cathedral-chisinau-landmarks-v2.webp"},
   {
     id: "moldova-national-history-museum-landmarks-v2",
     type: "museum",
@@ -119,8 +116,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["Piese în colecție: 300.000+", "Clădire: Fost gimnaziu", "Locație: Chișinău", "Fondat: 1983"],
       en: ["Items in collection: 300,000+", "Building: Former gymnasium", "Location: Chișinău", "Established: 1983"],
     },
-    imageHint: "National Museum of History of Moldova red brick building",
-  },
+    imageHint: "National Museum of History of Moldova red brick building", image: "/poi-images/moldova-national-history-museum-landmarks-v2.webp"},
   {
     id: "moldova-ethnography-museum-landmarks-v2",
     type: "museum",
@@ -139,8 +135,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["Anul fondării: 1889", "Stil: Maur", "Cel mai vechi muzeu", "Piesă celebră: Schelet de dinoteriu"],
       en: ["Founded in: 1889", "Style: Moorish", "Oldest museum in MD", "Famous exhibit: Deinotherium skeleton"],
     },
-    imageHint: "National Museum of Ethnography Chisinau Moorish style windows",
-  },
+    imageHint: "National Museum of Ethnography Chisinau Moorish style windows", image: "/poi-images/moldova-ethnography-museum-landmarks-v2.webp"},
   {
     id: "moldova-mimi-castle-landmarks-v2",
     type: "palace",
@@ -159,8 +154,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1893", "Ctitor: Constantin Mimi", "Locație: Bulboaca", "Tip: Castel viticol"],
       en: ["Built in: 1893", "Owner: Constantin Mimi", "Location: Bulboaca", "Type: Wine castle"],
     },
-    imageHint: "Castel Mimi Bulboaca stone facade and garden",
-  },
+    imageHint: "Castel Mimi Bulboaca stone facade and garden", image: "/poi-images/moldova-mimi-castle-landmarks-v2.webp"},
   {
     id: "moldova-purcari-castle-landmarks-v2",
     type: "palace",
@@ -179,8 +173,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["Anul fondării: 1827", "Locație: Purcari", "Stil: Château francez", "Produse: Vinuri premiate"],
       en: ["Founded in: 1827", "Location: Purcari", "Style: French Château", "Products: Award-winning wines"],
     },
-    imageHint: "Purcari Castle winery facade and vineyards",
-  },
+    imageHint: "Purcari Castle winery facade and vineyards", image: "/poi-images/moldova-purcari-castle-landmarks-v2.webp"},
   {
     id: "moldova-bender-fortress-landmarks-v2",
     type: "castle",
@@ -199,8 +192,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1538", "Ctitor: Soliman Magnificul", "Locație: Bender (Tighina)", "Suprafață: 20 hectare"],
       en: ["Year of construction: 1538", "Builder: Suleiman the Magnificent", "Location: Bender", "Area: 20 hectares"],
     },
-    imageHint: "Bender Fortress stone walls and red roofs",
-  },
+    imageHint: "Bender Fortress stone walls and red roofs", image: "/poi-images/moldova-bender-fortress-landmarks-v2.webp"},
   {
     id: "moldova-transfiguration-cathedral-bender-landmarks-v2",
     type: "cathedral",
@@ -219,8 +211,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1815-1820", "Stil: Neoclasic", "Locație: Centrul orașului Bender", "Cupolă: Aurită"],
       en: ["Built: 1815-1820", "Style: Neoclassical", "Location: Bender city center", "Dome: Golden-colored"],
     },
-    imageHint: "Transfiguration Cathedral Bender yellow walls golden dome",
-  },
+    imageHint: "Transfiguration Cathedral Bender yellow walls golden dome", image: "/poi-images/moldova-transfiguration-cathedral-bender-landmarks-v2.webp"},
   {
     id: "moldova-struve-geodetic-arc-rudi-landmarks-v2",
     type: "landmark",
@@ -239,8 +230,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["Statut: Patrimoniu UNESCO", "Anul măsurătorii: 1848", "Savant: Friedrich G. W. Struve", "Scop: Geodezie"],
       en: ["UNESCO status: World Heritage", "Year: 1848", "Scientist: Friedrich G. W. Struve", "Purpose: Earth measurement"],
     },
-    imageHint: "Struve Geodetic Arc monument at Rudi",
-  },
+    imageHint: "Struve Geodetic Arc monument at Rudi", image: "/poi-images/moldova-struve-geodetic-arc-rudi-landmarks-v2.webp"},
   {
     id: "moldova-chisinau-water-tower-landmarks-v2",
     type: "tower",
@@ -279,8 +269,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["Exilul lui Pușkin: 1820-1823", "Deschidere: 1948", "Tip: Muzeu literar", "Clădire: Casă tradițională"],
       en: ["Pushkin's stay: 1820-1823", "Opened in: 1948", "Type: Literary museum", "Building: Traditional cottage"],
     },
-    imageHint: "Alexander Pushkin house museum Chisinau traditional style",
-  },
+    imageHint: "Alexander Pushkin house museum Chisinau traditional style", image: "/poi-images/moldova-pushkin-museum-chisinau-landmarks-v2.webp"},
   {
     id: "moldova-organ-hall-chisinau-landmarks-v2",
     type: "theater",
@@ -319,8 +308,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["Nume: Maria Bieșu", "Fondat: 1957", "Locuri: 1200", "Locație: Piața Marii Adunări Naționale"],
       en: ["Name: Maria Bieșu", "Founded in: 1957", "Seats: 1,200", "Location: Chișinău Main Square"],
     },
-    imageHint: "Maria Bieșu National Opera and Ballet Theater Chisinau",
-  },
+    imageHint: "Maria Bieșu National Opera and Ballet Theater Chisinau", image: "/poi-images/moldova-national-opera-theater-landmarks-v2.webp"},
   {
     id: "moldova-pommer-mansion-taul-landmarks-v2",
     type: "palace",
@@ -378,8 +366,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["Fondat: 1939", "Locație: Casa Dadiani", "Exponate: Peste 30.000", "Profil: Artă națională și europeană"],
       en: ["Founded: 1939", "Location: Dadiani House", "Items: Over 30,000", "Focus: Moldovan fine arts"],
     },
-    imageHint: "National Museum of Art of Moldova Chisinau",
-  },
+    imageHint: "National Museum of Art of Moldova Chisinau", image: "/poi-images/moldova-national-museum-of-art-landmarks-v2.webp"},
   {
     id: "moldova-eiffel-bridge-ungheni-landmarks-v2",
     type: "bridge",
@@ -397,8 +384,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["An darea în exploatare: 1877", "Proiectant: Gustave Eiffel", "Tip: Pod feroviar peste Prut", "Legătură strategică cu România"],
       en: ["Completed: 1877", "Designer: Gustave Eiffel", "Length: approx. 165 meters", "Connects Moldova and Romania"],
     },
-    imageHint: "Eiffel Bridge over Prut river Ungheni",
-  },
+    imageHint: "Eiffel Bridge over Prut river Ungheni", image: "/poi-images/moldova-eiffel-bridge-ungheni-landmarks-v2.webp"},
   {
     id: "moldova-mazarache-church-landmarks-v2",
     type: "church",
@@ -416,8 +402,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1752", "Cea mai veche clădire din oraș", "Stil: Moldovenesc medieval", "Lăcaș de cult ortodox"],
       en: ["Built: 1752", "Oldest building in Chisinau", "Style: Moldovan medieval", "National historical monument"],
     },
-    imageHint: "Mazarache Church Chisinau oldest building",
-  },
+    imageHint: "Mazarache Church Chisinau oldest building", image: "/poi-images/moldova-mazarache-church-landmarks-v2.webp"},
   {
     id: "moldova-chisinau-railway-station-landmarks-v2",
     type: "landmark",
@@ -435,8 +420,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["An reconstrucție: 1948", "Arhitect: Alexei Șciusev", "Stil: Realism socialist", "Principalul nod feroviar"],
       en: ["Rebuilt: 1948", "Architect: Alexei Shchusev", "Style: Socialist Realism", "Main railway hub of the city"],
     },
-    imageHint: "Chisinau Railway Station building facade",
-  },
+    imageHint: "Chisinau Railway Station building facade", image: "/poi-images/moldova-chisinau-railway-station-landmarks-v2.webp"},
   {
     id: "moldova-national-library-landmarks-v2",
     type: "landmark",
@@ -454,8 +438,7 @@ export const moldovaLandmarksV2: POI[] = [
       ro: ["An fondare: 1832", "Colecție: Peste 2,5 mil. piese", "Instituție de cercetare", "Situată în centru istoric"],
       en: ["Founded: 1832", "Collection: >2.5 million items", "Research institution", "Located in historic building"],
     },
-    imageHint: "National Library of Moldova Chisinau building",
-  },
+    imageHint: "National Library of Moldova Chisinau building", image: "/poi-images/moldova-national-library-landmarks-v2.webp"},
   {
     id: "moldova-besalma-museum-landmarks-v2",
     type: "museum",

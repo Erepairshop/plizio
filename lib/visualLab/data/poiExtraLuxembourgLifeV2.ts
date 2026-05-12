@@ -18,8 +18,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Cuprinde aproximativ 80 de hectare de luciu de apă", "Peste 230 de specii de păsări au fost observate aici", "Fost sit de extracție a pietrișului", "Găzduiește centrul de informare Biodiversum"],
       en: ["Covers approximately 80 hectares of water surface", "Over 230 bird species have been observed here", "Site of former gravel pit lakes", "Home to the Biodiversum nature center"],
     },
-    imageHint: "Haff Reimech nature reserve lakes and reed beds",
-  },
+    imageHint: "Haff Reimech nature reserve lakes and reed beds", image: "/poi-images/luxembourg-haff-reimech-life-v2.webp"},
   {
     id: "luxembourg-parc-merveilleux-life-v2",
     type: "wildlife",
@@ -37,8 +36,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Singurul parc zoologic din Luxemburg", "Animale din Africa, America, Australia și Asia", "Deschis în anul 1956", "Dispune de două sere tropicale mari"],
       en: ["The only animal park in Luxembourg", "Features animals from Africa, America, Australia, and Asia", "Opened in 1956", "Includes two large tropical houses"],
     },
-    imageHint: "Parc Merveilleux Bettembourg zoo entrance or animals",
-  },
+    imageHint: "Parc Merveilleux Bettembourg zoo entrance or animals", image: "/poi-images/luxembourg-parc-merveilleux-life-v2.webp"},
   {
     id: "luxembourg-escher-deierepark-life-v2",
     type: "wildlife",
@@ -56,8 +54,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Găzduiește aproximativ 150 de animale din 25 de specii", "Intrarea este gratuită pentru public", "Include o grădină zoologică cu animale de mângâiat", "Situat în zona de agrement Gaalgebierg"],
       en: ["Home to about 150 animals from 25 species", "Free admission for the general public", "Includes a petting zoo for children", "Located within the Gaalgebierg recreation area"],
     },
-    imageHint: "Escher Deierepark animals in forest enclosure",
-  },
+    imageHint: "Escher Deierepark animals in forest enclosure", image: "/poi-images/luxembourg-escher-deierepark-life-v2.webp"},
   {
     id: "luxembourg-upper-sure-nature-park-life-v2",
     type: "park",
@@ -75,8 +72,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Fondat în anul 1999", "Acoperă o suprafață de 200 de kilometri pătrați", "Cea mai importantă rezervă de apă potabilă a țării", "Oferă numeroase trasee pentru ecoturism"],
       en: ["Established in 1999", "Covers an area of 200 square kilometers", "The country's most important drinking water reservoir", "Offers numerous hiking trails for eco-tourism"],
     },
-    imageHint: "Upper Sure Nature Park landscape with lake and hills",
-  },
+    imageHint: "Upper Sure Nature Park landscape with lake and hills", image: "/poi-images/luxembourg-upper-sure-nature-park-life-v2.webp"},
   {
     id: "luxembourg-our-nature-park-life-v2",
     type: "park",
@@ -94,8 +90,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Înființat în anul 2005", "Centru pentru produse regionale precum hrișca", "Cuprinde opt comune luxemburgheze", "Zonă importantă de protecție pentru scoica perlieră"],
       en: ["Established in 2005", "Center for regional products like buckwheat", "Includes eight Luxembourgish municipalities", "Key conservation area for the freshwater pearl mussel"],
     },
-    imageHint: "Our Nature Park valley scenery and winding river",
-  },
+    imageHint: "Our Nature Park valley scenery and winding river", image: "/poi-images/luxembourg-our-nature-park-life-v2.webp"},
   {
     id: "luxembourg-mellerdall-geopark-life-v2",
     type: "park",
@@ -113,8 +108,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Statut UNESCO obținut în anul 2022", "Include faimosul traseu Müllerthal Trail", "Geologie formată din gresie de Lias", "Protejează specii rare de ferigi și mușchi"],
       en: ["UNESCO Global Geopark status since 2022", "Encompasses the famous Müllerthal Trail", "Geology based on Luxembourg Sandstone from the Lias", "Protects rare fern and moss species"],
     },
-    imageHint: "Mëllerdall Geopark sandstone rocks and green forest",
-  },
+    imageHint: "Mëllerdall Geopark sandstone rocks and green forest", image: "/poi-images/luxembourg-mellerdall-geopark-life-v2.webp"},
   {
     id: "luxembourg-schlammwiss-life-v2",
     type: "wildlife",
@@ -132,8 +126,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Cea mai mare zonă de stufăriș din țară", "Locația unei stații științifice de inelare", "Găzduiește buhaiul de baltă (specie rară)", "Biotop crucial în valea râului Syr"],
       en: ["Largest reed bed landscape in the country", "Site of a scientific bird ringing station", "Home to rare Eurasian bitterns", "Critical biotope in the Syre valley"],
     },
-    imageHint: "Schlammwiss nature reserve reed beds and bird station",
-  },
+    imageHint: "Schlammwiss nature reserve reed beds and bird station", image: "/poi-images/luxembourg-schlammwiss-life-v2.webp"},
   {
     id: "luxembourg-aarnescht-life-v2",
     type: "wildlife",
@@ -151,8 +144,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Cunoscută pentru peste 25 de specii de orhidee", "Cuprinde circa 75 de hectare de zonă protejată", "Habitat important pentru fluturi rari", "Caracterizată prin sol calcaros"],
       en: ["Famous for over 25 species of wild orchids", "Covers about 75 hectares of protected land", "Key habitat for rare butterfly species", "Characterized by calcareous soil conditions"],
     },
-    imageHint: "Aarnescht nature reserve with wild orchids and sunny slopes",
-  },
+    imageHint: "Aarnescht nature reserve with wild orchids and sunny slopes", image: "/poi-images/luxembourg-aarnescht-life-v2.webp"},
   {
     id: "luxembourg-ellergronn-life-v2",
     type: "wildlife",
@@ -170,8 +162,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Parte a Rezervației Biosferei UNESCO Minette", "Găzduiește un centru de protecție a naturii", "Fostul amplasament al minei Katzenberg", "Amestec de păduri, iazuri și pajiști uscate"],
       en: ["Part of the UNESCO Minette Biosphere Reserve", "Hosts a nature conservation center", "Former site of the Katzenberg mine", "Mix of forests, ponds, and dry grasslands"],
     },
-    imageHint: "Ellergronn nature center and reclaimed mining landscape",
-  },
+    imageHint: "Ellergronn nature center and reclaimed mining landscape", image: "/poi-images/luxembourg-ellergronn-life-v2.webp"},
   {
     id: "luxembourg-sonnebierg-life-v2",
     type: "wildlife",
@@ -189,8 +180,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Una dintre cele mai biodiverse coaste din țară", "Renumită pentru gențiana de primăvară", "Oferă o vedere panoramică asupra văii Alzette", "Trasee naturale ghidate pentru vizitatori"],
       en: ["One of the most biodiverse slopes in the country", "Famous for its spring gentians", "Offers panoramic views over the Alzette valley", "Features guided nature trails for visitors"],
     },
-    imageHint: "Sonnebierg nature reserve flowers and valley view",
-  },
+    imageHint: "Sonnebierg nature reserve flowers and valley view", image: "/poi-images/luxembourg-sonnebierg-life-v2.webp"},
   {
     id: "luxembourg-dumontshaff-life-v2",
     type: "wildlife",
@@ -208,8 +198,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Proiect de revitalizare a luncii râului Alzette", "Dispune de foișoare pentru ornitologi", "Cel mai important loc pentru berze albe în sud", "Protejează pajiștile umede și brațele vechi"],
       en: ["Project for revitalizing the Alzette floodplains", "Features bird watching blinds for ornithologists", "Key site for white storks in southern Luxembourg", "Protects wet meadows and river oxbows"],
     },
-    imageHint: "Dumontshaff wetlands with storks and river",
-  },
+    imageHint: "Dumontshaff wetlands with storks and river", image: "/poi-images/luxembourg-dumontshaff-life-v2.webp"},
   {
     id: "luxembourg-biodiversum-life-v2",
     type: "museum",
@@ -227,8 +216,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Clădire din lemn cu arhitectură distinctivă", "Deschis în anul 2016", "Oferă informații despre rezervațiile țării", "Punct de plecare pentru multe trasee tematice"],
       en: ["Architecturally striking wooden building", "Opened in 2016", "Provides info on national nature reserves", "Starting point for many nature trails"],
     },
-    imageHint: "Biodiversum Remerschen wooden building on lake",
-  },
+    imageHint: "Biodiversum Remerschen wooden building on lake", image: "/poi-images/luxembourg-biodiversum-life-v2.webp"},
   {
     id: "luxembourg-arboretum-kirchberg-life-v2",
     type: "park",
@@ -246,8 +234,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Acoperă o suprafață de circa 30 de hectare", "Găzduiește peste 500 de specii diferite de arbori", "Parte a parcului Parc Central din Kirchberg", "Colecție științifică de arbori europeni"],
       en: ["Covers about 30 hectares of land", "Home to over 500 different woody species", "Part of the Parc Central on Kirchberg", "Scientific collection of European trees"],
     },
-    imageHint: "Arboretum Kirchberg park trees and modern buildings",
-  },
+    imageHint: "Arboretum Kirchberg park trees and modern buildings", image: "/poi-images/luxembourg-arboretum-kirchberg-life-v2.webp"},
   {
     id: "luxembourg-rose-garden-limpertsberg-life-v2",
     type: "park",
@@ -265,8 +252,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Limpertsberg era centrul culturii trandafirilor", "Luxemburg exporta trandafiri în toată lumea", "Găzduiește multe soiuri create în Luxemburg", "Situată în apropierea universității"],
       en: ["Limpertsberg was once the center of rose breeding", "Luxembourg exported roses worldwide", "Home to many Luxembourgish rose varieties", "Located near the University campus"],
     },
-    imageHint: "Limpertsberg rose garden flowers and park",
-  },
+    imageHint: "Limpertsberg rose garden flowers and park", image: "/poi-images/luxembourg-rose-garden-limpertsberg-life-v2.webp"},
   {
     id: "luxembourg-bambesch-life-v2",
     type: "forest",
@@ -284,8 +270,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Cuprinde peste 600 de hectare de pădure", "Destinație favorită pentru mountain biking", "Locația centrului național de tenis", "Multe trasee naturale marcate"],
       en: ["Covers over 600 hectares of forest land", "Popular destination for mountain bikers", "Home to the National Tennis Center", "Features many marked nature trails"],
     },
-    imageHint: "Bambesch forest trails and tall beech trees",
-  },
+    imageHint: "Bambesch forest trails and tall beech trees", image: "/poi-images/luxembourg-bambesch-life-v2.webp"},
   {
     id: "luxembourg-grunewald-life-v2",
     type: "forest",
@@ -303,8 +288,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Suprafață totală de aproximativ 2.500 de hectare", "Cea mai importantă zonă de izvoare pentru oraș", "Fost domeniu regal de vânătoare", "Traversată de apeducte romane (Raschpëtzer)"],
       en: ["Total area of about 2,500 hectares", "Most important spring area for Luxembourg City", "Formerly a royal hunting ground", "Crisscrossed by Roman aqueducts (Raschpëtzer)"],
     },
-    imageHint: "Grunewald forest landscape and ancient trees",
-  },
+    imageHint: "Grunewald forest landscape and ancient trees", image: "/poi-images/luxembourg-grunewald-life-v2.webp"},
   {
     id: "luxembourg-petruss-park-life-v2",
     type: "park",
@@ -341,8 +325,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Dispune de un mare loc de joacă", "Loc de întâlnire popular pentru joggeri", "Găzduiește un pavilion de muzică", "Oferă o peluză vastă pentru relaxare"],
       en: ["Features a large adventure playground", "Popular meeting point for joggers", "Home to a classic music pavilion", "Offers a large lawn for relaxation"],
     },
-    imageHint: "Parc de Merl pond and fountain in Luxembourg City",
-  },
+    imageHint: "Parc de Merl pond and fountain in Luxembourg City", image: "/poi-images/luxembourg-parc-de-merl-life-v2.webp"},
   {
     id: "luxembourg-municipal-park-life-v2",
     type: "park",
@@ -379,8 +362,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Fostă grădină privată a unui antreprenor", "Conține lucrări de Lucien Wercollier", "Colecție specială de magnolii", "Locație liniștită, departe de străzile principale"],
       en: ["Formerly the private garden of an entrepreneur", "Contains works by Lucien Wercollier", "Features a special collection of magnolias", "Peaceful location away from main traffic"],
     },
-    imageHint: "Tony Neuman Park sculptures and green lawn",
-  },
+    imageHint: "Tony Neuman Park sculptures and green lawn", image: "/poi-images/luxembourg-tony-neuman-park-life-v2.webp"},
   {
     id: "luxembourg-am-groussebesch-life-v2",
     type: "wildlife",
@@ -398,8 +380,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Zonă importantă de protecție Natura 2000", "Proporție mare de lemn mort pentru biodiversitate", "Găzduiește păduri de fag cu vinariță", "Parte a unui coridor forestier extins"],
       en: ["Important Natura 2000 protected area", "High proportion of dead wood for biodiversity", "Home to rare woodruff-beech forests", "Part of an extensive forest network"],
     },
-    imageHint: "Am Groussebesch forest reserve ancient beech trees",
-  },
+    imageHint: "Am Groussebesch forest reserve ancient beech trees", image: "/poi-images/luxembourg-am-groussebesch-life-v2.webp"},
   {
     id: "luxembourg-canecher-wengertsbierg-life-v2",
     type: "wildlife",
@@ -455,8 +436,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Fost teren agricol utilizat intensiv", "Habitat important pentru broasca de copac", "Servește la protecția împotriva inundațiilor", "Observații ornitologice posibile tot anul"],
       en: ["Former intensively used agricultural land", "Important habitat for the European tree frog", "Serves for Alzette flood protection", "Bird watching is possible year-round"],
     },
-    imageHint: "Streissel nature reserve ponds and wet meadows",
-  },
+    imageHint: "Streissel nature reserve ponds and wet meadows", image: "/poi-images/luxembourg-streissel-life-v2.webp"},
   {
     id: "luxembourg-krounebierg-park-life-v2",
     type: "park",
@@ -474,8 +454,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Locația unui turn de observare mare", "Include o piscină publică extinsă", "Traseu tematic al planetelor pentru vizitatori", "În proximitatea centrului geografic al țării"],
       en: ["Site of a large observation tower", "Includes a major public swimming complex", "Features a marked planetary educational trail", "Very close to the geographical center of Luxembourg"],
     },
-    imageHint: "Krounebierg park Mersch view and tower",
-  },
+    imageHint: "Krounebierg park Mersch view and tower", image: "/poi-images/luxembourg-krounebierg-park-life-v2.webp"},
   {
     id: "luxembourg-manternacher-fiels-life-v2",
     type: "wildlife",
@@ -493,8 +472,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Găzduiește păduri rare de tei și arțar", "Traversată de traseul premiat Traumschleife", "Zonă de protecție pentru șoimul călător", "Conține terase de vii istorice în interiorul pădurii"],
       en: ["Home to rare linden-maple ravine forests", "Traversed by the award-winning Traumschleife trail", "Conservation area for the peregrine falcon", "Contains historical vineyard terraces within the woods"],
     },
-    imageHint: "Manternacher Fiels forest ravine and rocks",
-  },
+    imageHint: "Manternacher Fiels forest ravine and rocks", image: "/poi-images/luxembourg-manternacher-fiels-life-v2.webp"},
   {
     id: "luxembourg-beetebuerger-besch-life-v2",
     type: "forest",
@@ -512,8 +490,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Cuprinde părți din Parc Merveilleux", "Habitat important pentru ciocănitoarea de grădină", "Deține un traseu de fitness în pădure", "Se învecinează direct cu orașul Bettembourg"],
       en: ["Includes parts of the Parc Merveilleux", "Important habitat for the middle spotted woodpecker", "Features a large forest fitness trail", "Bordering the urban area of Bettembourg"],
     },
-    imageHint: "Beetebuerger Besch forest path and sunbeams",
-  },
+    imageHint: "Beetebuerger Besch forest path and sunbeams", image: "/poi-images/luxembourg-beetebuerger-besch-life-v2.webp"},
   {
     id: "luxembourg-mirador-steinfort-life-v2",
     type: "wildlife",
@@ -531,8 +508,7 @@ export const luxembourgLifeV2: POI[] = [
       ro: ["Specializat în pedagogie forestieră", "Găzduiește expoziții despre istoria industrială", "Punct de plecare pentru traseul 'Eisch'", "Promovează conservarea soiurilor vechi de fructe"],
       en: ["Specializes in forest pedagogy", "Hosts exhibitions on industrial history", "Starting point for several regional nature trails", "Promotes the preservation of old fruit varieties"],
     },
-    imageHint: "Mirador Steinfort nature center building",
-  },
+    imageHint: "Mirador Steinfort nature center building", image: "/poi-images/luxembourg-mirador-steinfort-life-v2.webp"},
   {
     id: "luxembourg-cornelysmillen-life-v2",
     type: "wildlife",

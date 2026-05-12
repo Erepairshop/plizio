@@ -19,8 +19,7 @@ export const vaticanLandmarksV2: POI[] = [
       ro: ["Fondată în secolul al V-lea", "Cea mai veche biserică din Vatican", "Renovată în 1481 de Papa Sixtus al IV-lea", "Centrul comunității etiopiene locale"],
       en: ["Founded in the 5th century", "Oldest surviving church in Vatican City", "Renovated in 1481 by Pope Sixtus IV", "Cultural hub for the Ethiopian community"],
     },
-    imageHint: "Santo Stefano degli Abissini church Vatican",
-  },
+    imageHint: "Santo Stefano degli Abissini church Vatican", image: "/poi-images/vatican-santo-stefano-abissini-landmarks-v2.webp"},
   {
     id: "vatican-sant-anna-palafrenieri-landmarks-v2",
     type: "church",
@@ -39,8 +38,7 @@ export const vaticanLandmarksV2: POI[] = [
       ro: ["Construită în 1565 de Giacomo Vignola", "Prima biserică cu plan eliptic din Roma", "Parohia oficială a Statului Vatican", "Situată lângă poarta de acces Sant'Anna"],
       en: ["Built in 1565 by Giacomo Vignola", "First church with an elliptical plan in Rome", "Official parish church of Vatican City", "Located adjacent to the Saint Anne Gate"],
     },
-    imageHint: "Sant'Anna dei Palafrenieri church Vatican",
-  },
+    imageHint: "Sant'Anna dei Palafrenieri church Vatican", image: "/poi-images/vatican-sant-anna-palafrenieri-landmarks-v2.webp"},
   {
     id: "vatican-palazzo-tribunale-landmarks-v2",
     type: "landmark",
@@ -59,8 +57,7 @@ export const vaticanLandmarksV2: POI[] = [
       ro: ["Sediul sistemului judiciar vatican", "Găzduiește Tribunalul de Primă Instanță", "Situat în apropierea Pieței Santa Marta", "Finalizat în timpul mandatului Papei Pius XI"],
       en: ["Seat of the Vatican judicial system", "Houses the Court of First Instance", "Located near the Piazza Santa Marta", "Built during the papacy of Pius XI"],
     },
-    imageHint: "Palazzo del Tribunale Vatican City",
-  },
+    imageHint: "Palazzo del Tribunale Vatican City", image: "/poi-images/vatican-palazzo-tribunale-landmarks-v2.webp"},
   {
     id: "vatican-radio-landmarks-v2",
     type: "landmark",
@@ -79,8 +76,7 @@ export const vaticanLandmarksV2: POI[] = [
       ro: ["Fondat pe 12 februarie 1931", "Prima emisiune a fost rostită de Papa Pius XI", "Conceput tehnic de Guglielmo Marconi", "Sediul se află în turnul istoric Leone IV"],
       en: ["Founded on February 12, 1931", "First broadcast made by Pope Pius XI", "Technical setup by Guglielmo Marconi", "Located in the historic Leone IV Tower"],
     },
-    imageHint: "Vatican Radio tower Leone IV",
-  },
+    imageHint: "Vatican Radio tower Leone IV", image: "/poi-images/vatican-radio-landmarks-v2.webp"},
   {
     id: "vatican-lourdes-grotto-landmarks-v2",
     type: "monument",
@@ -99,8 +95,7 @@ export const vaticanLandmarksV2: POI[] = [
       ro: ["Cadou din partea Episcopului de Tarbes în 1902", "Situată în inima Grădinilor Vaticanului", "Replică a peșterii Massabielle din Franța", "Loc pentru rugăciunea de seară a Rozariului"],
       en: ["Gift from the Bishop of Tarbes in 1902", "Located in the heart of the Vatican Gardens", "Replica of the Massabielle cave in France", "Used for the Pope's evening rosary prayer"],
     },
-    imageHint: "Lourdes Grotto Vatican Gardens",
-  },
+    imageHint: "Lourdes Grotto Vatican Gardens", image: "/poi-images/vatican-lourdes-grotto-landmarks-v2.webp"},
   {
     id: "vatican-san-pellegrino-landmarks-v2",
     type: "church",

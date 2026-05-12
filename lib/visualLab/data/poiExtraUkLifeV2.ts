@@ -19,8 +19,7 @@ export const ukLifeV2: POI[] = [
       ro: ["Fondată în anul 1840", "Patrimoniu UNESCO din 2003", "Peste 50.000 de specii de plante", "Găzduiește celebra Casă a Palmierilor"],
       en: ["Founded in the year 1840", "UNESCO World Heritage since 2003", "Over 50,000 living plant species", "Home to the famous Palm House"],
     },
-    imageHint: "Kew Gardens Palm House exterior with pond",
-  },
+    imageHint: "Kew Gardens Palm House exterior with pond", image: "/poi-images/uk-kew-gardens-life-v2.webp"},
   {
     id: "uk-peak-district-life-v2",
     type: "park",
@@ -39,8 +38,7 @@ export const ukLifeV2: POI[] = [
       ro: ["Primul parc național din Marea Britanie", "Fondat pe 17 aprilie 1951", "Suprafață de 1.438 km pătrați", "Cel mai înalt punct este Kinder Scout"],
       en: ["First national park in Great Britain", "Established on April 17, 1951", "Area of 1,438 square kilometres", "Highest point is Kinder Scout"],
     },
-    imageHint: "Peak District landscape with stone walls",
-  },
+    imageHint: "Peak District landscape with stone walls", image: "/poi-images/uk-peak-district-life-v2.webp"},
   {
     id: "uk-lake-district-life-v2",
     type: "park",
@@ -59,8 +57,7 @@ export const ukLifeV2: POI[] = [
       ro: ["Găzduiește vârful Scafell Pike", "Cel mai mare parc național din Anglia", "Conține cel mai adânc lac, Wastwater", "Patrimoniu UNESCO din 2017"],
       en: ["Home to Scafell Pike mountain", "Largest national park in England", "Contains the deepest lake, Wastwater", "UNESCO World Heritage since 2017"],
     },
-    imageHint: "Lake District hills reflecting in a lake",
-  },
+    imageHint: "Lake District hills reflecting in a lake", image: "/poi-images/uk-lake-district-life-v2.webp"},
   {
     id: "uk-snowdonia-life-v2",
     type: "park",
@@ -79,8 +76,7 @@ export const ukLifeV2: POI[] = [
       ro: ["Numele galez este Eryri", "Vârful Snowdon are 1.085 m", "Fondat în anul 1951", "Acoperă o suprafață de 2.130 km²"],
       en: ["Welsh name is Eryri", "Highest mountain Snowdon (1,085 m)", "Established in 1951", "Area of 2,130 square kilometres"],
     },
-    imageHint: "Mount Snowdon peak in North Wales",
-  },
+    imageHint: "Mount Snowdon peak in North Wales", image: "/poi-images/uk-snowdonia-life-v2.webp"},
   {
     id: "uk-cairngorms-life-v2",
     type: "park",
@@ -99,8 +95,7 @@ export const ukLifeV2: POI[] = [
       ro: ["Cel mai mare parc național din UK", "Înființat în anul 2003", "Include cinci din cele mai înalte vârfuri", "Găzduiește reni sălbatici"],
       en: ["Largest national park in the UK", "Established in 2003", "Contains five of the six highest peaks", "Home to free-ranging reindeer"],
     },
-    imageHint: "Cairngorms mountains with heather in Scotland",
-  },
+    imageHint: "Cairngorms mountains with heather in Scotland", image: "/poi-images/uk-cairngorms-life-v2.webp"},
   {
     id: "uk-london-zoo-life-v2",
     type: "wildlife",
@@ -119,8 +114,7 @@ export const ukLifeV2: POI[] = [
       ro: ["Deschisă pe 27 aprilie 1828", "Cea mai veche zoo științifică", "Proiectată de Decimus Burton", "Peste 650 de specii de animale"],
       en: ["Opened on April 27, 1828", "Oldest scientific zoo in the world", "Designed by Decimus Burton", "More than 650 animal species"],
     },
-    imageHint: "London Zoo entrance sign with animals",
-  },
+    imageHint: "London Zoo entrance sign with animals", image: "/poi-images/uk-london-zoo-life-v2.webp"},
   {
     id: "uk-slimbridge-wetland-life-v2",
     type: "wildlife",
@@ -139,8 +133,7 @@ export const ukLifeV2: POI[] = [
       ro: ["Înființat în anul 1946", "Sediul Wildfowl & Wetlands Trust", "Cea mai mare colecție de anatide", "Punct cheie pentru păsări migratoare"],
       en: ["Established in 1946", "Headquarters of the Wildfowl & Wetlands Trust", "World's largest captive wildfowl collection", "Key stopover for migratory birds"],
     },
-    imageHint: "Slimbridge Wetland Centre with flamingos",
-  },
+    imageHint: "Slimbridge Wetland Centre with flamingos", image: "/poi-images/uk-slimbridge-wetland-life-v2.webp"},
   {
     id: "uk-eden-project-life-v2",
     type: "park",
@@ -159,8 +152,7 @@ export const ukLifeV2: POI[] = [
       ro: ["Deschis pe 17 martie 2001", "Format din două biomuri mari", "Cea mai mare pădure tropicală interioară", "Situat într-o fostă mină de argilă"],
       en: ["Opened on March 17, 2001", "Consists of two massive biomes", "World's largest indoor rainforest", "Located in a reclaimed clay pit"],
     },
-    imageHint: "Eden Project geodesic biomes at dusk",
-  },
+    imageHint: "Eden Project geodesic biomes at dusk", image: "/poi-images/uk-eden-project-life-v2.webp"},
   {
     id: "uk-new-forest-life-v2",
     type: "forest",
@@ -179,8 +171,7 @@ export const ukLifeV2: POI[] = [
       ro: ["Creat ca pădure de vânătoare în 1079", "Statut de parc național din 2005", "Cunoscut pentru poneii New Forest", "Predomină peisajul de câmpie cu iarbă"],
       en: ["Created as a hunting forest in 1079", "National Park status since 2005", "Famous for New Forest ponies", "Mostly open heathland and woods"],
     },
-    imageHint: "New Forest pony grazing in open woodland",
-  },
+    imageHint: "New Forest pony grazing in open woodland", image: "/poi-images/uk-new-forest-life-v2.webp"},
   {
     id: "uk-loch-lomond-life-v2",
     type: "park",
@@ -199,8 +190,7 @@ export const ukLifeV2: POI[] = [
       ro: ["Primul parc național al Scoției", "Înființat în anul 2002", "Conține 21 de Munros (munți > 914m)", "Suprafață de 1.865 km²"],
       en: ["Scotland's first national park", "Established in 2002", "Contains 21 Munros (peaks over 914m)", "Covers 1,865 square kilometres"],
     },
-    imageHint: "Loch Lomond lake with mountains in Scotland",
-  }
+    imageHint: "Loch Lomond lake with mountains in Scotland", image: "/poi-images/uk-loch-lomond-life-v2.webp"}
 ,
   {
     id: "uk-whipsnade-zoo-life-v2",
@@ -240,8 +230,7 @@ export const ukLifeV2: POI[] = [
       ro: ["A doua cea mai veche grădină botanică din Regatul Unit", "Găzduiește peste 13.500 de specii de plante", "Include o seră istorică pentru palmieri din 1858", "Înființată inițial ca o grădină de plante medicinale"],
       en: ["Second oldest botanical garden in the United Kingdom", "Home to over 13,500 different plant species", "Features a historic Palm House built in 1858", "Originally established as a medicinal physic garden"],
     },
-    imageHint: "Royal Botanic Garden Edinburgh palm house exterior",
-  },
+    imageHint: "Royal Botanic Garden Edinburgh palm house exterior", image: "/poi-images/uk-royal-botanic-garden-edinburgh-life-v2.webp"},
   {
     id: "uk-strangford-lough-life-v2",
     type: "lake",
@@ -260,8 +249,7 @@ export const ukLifeV2: POI[] = [
       ro: ["Acoperă o suprafață de aproximativ 150 km²", "Prima rezervație naturală marină din Regatul Unit", "Găzduiește peste 2.000 de specii de animale diferite", "Cunoscut pentru curenții de maree puternici de la intrare"],
       en: ["Covers an area of approximately 150 square kilometers", "First Marine Nature Reserve in the United Kingdom", "Home to over 2,000 different marine species", "Famous for strong tidal currents at the 'Narrows' entrance"],
     },
-    imageHint: "Strangford Lough aerial view with islands",
-  },
+    imageHint: "Strangford Lough aerial view with islands", image: "/poi-images/uk-strangford-lough-life-v2.webp"},
   {
     id: "uk-bempton-cliffs-life-v2",
     type: "wildlife",
@@ -280,8 +268,7 @@ export const ukLifeV2: POI[] = [
       ro: ["Administrat de RSPB din anii 1970", "Singura colonie de gâște de mare de pe continentul englez", "Stâncile au o înălțime de până la 120 de metri", "Cea mai bună perioadă de vizitare este aprilie-august"],
       en: ["Managed by the RSPB since the 1970s", "England's only mainland colony of gannets", "The chalk cliffs rise up to 120 meters high", "Peak viewing season is from April to August"],
     },
-    imageHint: "Bempton Cliffs with nesting seabirds and chalk cliffs",
-  },
+    imageHint: "Bempton Cliffs with nesting seabirds and chalk cliffs", image: "/poi-images/uk-bempton-cliffs-life-v2.webp"},
   {
     id: "uk-pembrokeshire-coast-national-park-life-v2",
     type: "park",
@@ -300,8 +287,7 @@ export const ukLifeV2: POI[] = [
       ro: ["Înființat ca parc național în anul 1952", "Include insula Skomer, faimoasă pentru papagalii de mare", "Poteca de coastă are o lungime de circa 300 km", "Habitat important pentru focile cenușii"],
       en: ["Established in 1952 as a National Park", "Includes Skomer Island, famous for its puffins", "The Coast Path stretching for 186 miles (300 km)", "Crucial habitat for Atlantic grey seals"],
     },
-    imageHint: "Pembrokeshire Coast rugged cliffs and ocean",
-  },
+    imageHint: "Pembrokeshire Coast rugged cliffs and ocean", image: "/poi-images/uk-pembrokeshire-coast-national-park-life-v2.webp"},
   {
     id: "uk-exmoor-national-park-life-v2",
     type: "park",
@@ -320,8 +306,7 @@ export const ukLifeV2: POI[] = [
       ro: ["Desemnat parc național în anul 1954", "Găzduiește cele mai înalte faleze marine din Anglia", "Locul de origine al rasei rare de ponei Exmoor", "Primul parc internațional pentru cerul întunecat din Europa (2011)"],
       en: ["Designated as a National Park in 1954", "Contains the highest sea cliffs in England", "Home to the ancient and rare Exmoor pony breed", "Europe's first International Dark Sky Reserve (2011)"],
     },
-    imageHint: "Exmoor National Park moorland and wild ponies",
-  }
+    imageHint: "Exmoor National Park moorland and wild ponies", image: "/poi-images/uk-exmoor-national-park-life-v2.webp"}
 ,
   {
     id: "uk-dartmoor-life-v2",

@@ -18,8 +18,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Pas montan strategic la granița cu Polonia", "Peste 140.000 de soldați au murit în timpul operațiunii", "Găzduiește un cimitir sovietic și unul cehoslovac", "Turnul de observație oferă o vedere spre Valea Morții"],
       en: ["Strategic Carpathian pass on the Polish border", "Over 140,000 soldiers died during the operation", "Houses a Soviet and Czechoslovak military cemetery", "Observation tower overlooks the Valley of Death"],
     },
-    imageHint: "Dukla Pass World War II memorial and tank museum",
-  },
+    imageHint: "Dukla Pass World War II memorial and tank museum", image: "/poi-images/slovakia-dukla-pass-history-v2.webp"},
   {
     id: "slovakia-havranok-history-v2",
     type: "ruins",
@@ -37,8 +36,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Cel mai important centru celtic din Slovacia", "Conține rămășițele unui loc de sacrificiu ritualic", "Excavat parțial în timpul construcției barajului", "Include reconstrucția unui castel medieval de lemn"],
       en: ["Most important Celtic center in Slovakia", "Contains remains of a ritual sacrifice site", "Partially excavated during dam construction", "Reconstruction of a medieval wooden castle"],
     },
-    imageHint: "Havranok archaeological site Celtic reconstructions",
-  },
+    imageHint: "Havranok archaeological site Celtic reconstructions", image: "/poi-images/slovakia-havranok-history-v2.webp"},
   {
     id: "slovakia-gerulata-history-v2",
     type: "ruins",
@@ -56,8 +54,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Parte a Patrimoniului Mondial UNESCO din 2021", "Fost sediu al unei unități de cavalerie auxiliară", "Muzeul expune monede și ceramică romană", "Cea mai importantă dovadă a prezenței romane lângă Bratislava"],
       en: ["Part of UNESCO World Heritage since 2021", "Former station of an auxiliary cavalry unit", "Museum displays Roman coins and ceramics", "Key evidence of Roman presence near Bratislava"],
     },
-    imageHint: "Gerulata Roman ruins Rusovce",
-  },
+    imageHint: "Gerulata Roman ruins Rusovce", image: "/poi-images/slovakia-gerulata-history-v2.webp"},
   {
     id: "slovakia-pusty-hrad-history-v2",
     type: "ruins",
@@ -75,8 +72,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Suprafața totală este de aproximativ 7,6 hectare", "Cele mai vechi părți datează din secolul al XII-lea", "Distrus în secolul al XV-lea în timpul asediilor", "Săpături arheologice regulate în timpul verii"],
       en: ["Total area spans approximately 7.6 hectares", "Oldest sections date back to the 12th century", "Destroyed in the 15th century during sieges", "Regular archaeological excavations occur in summer"],
     },
-    imageHint: "Pusty hrad Zvolen castle ruins aerial",
-  },
+    imageHint: "Pusty hrad Zvolen castle ruins aerial", image: "/poi-images/slovakia-pusty-hrad-history-v2.webp"},
   {
     id: "slovakia-snp-museum-history-v2",
     type: "monument",
@@ -94,8 +90,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Proiectat de arhitectul Dušan Kuzma", "Forma simbolizează o lume divizată", "Muzeu în aer liber cu echipament militar greu", "Banská Bystrica a fost centrul insurecției"],
       en: ["Designed by architect Dušan Kuzma", "The shape symbolizes a divided world", "Open-air museum features heavy military equipment", "Banská Bystrica was the center of the uprising"],
     },
-    imageHint: "SNP Museum Banska Bystrica architecture",
-  },
+    imageHint: "SNP Museum Banska Bystrica architecture", image: "/poi-images/slovakia-snp-museum-history-v2.webp"},
   {
     id: "slovakia-primatial-palace-history-v2",
     type: "palace",
@@ -113,8 +108,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Găzduiește tapiserii englezești rare din secolul al XVII-lea", "Sediul primarului orașului Bratislava", "Curtea interioară conține fântâna Sfântul Gheorghe", "A fost construit între 1778 și 1781"],
       en: ["Houses rare 17th-century English tapestries", "Current seat of the Mayor of Bratislava", "The courtyard features the St. George fountain", "Constructed between 1778 and 1781"],
     },
-    imageHint: "Primatial Palace Bratislava pink facade",
-  },
+    imageHint: "Primatial Palace Bratislava pink facade", image: "/poi-images/slovakia-primatial-palace-history-v2.webp"},
   {
     id: "slovakia-svaty-anton-history-v2",
     type: "palace",
@@ -132,8 +126,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Are 4 porți, 12 coșuri, 52 de camere și 365 de ferestre", "Fostă reședință a familiilor Koháry și Coburg", "Înconjurat de un vast parc englezesc", "Mobilier original din secolele XVIII și XIX"],
       en: ["Features 4 gates, 12 chimneys, 52 rooms, and 365 windows", "Former residence of the Koháry and Coburg families", "Surrounded by an extensive English-style park", "Contains original 18th and 19th-century furniture"],
     },
-    imageHint: "Svaty Anton manor house Slovakia",
-  },
+    imageHint: "Svaty Anton manor house Slovakia", image: "/poi-images/slovakia-svaty-anton-history-v2.webp"},
   {
     id: "slovakia-hronsky-benadik-history-v2",
     type: "church",
@@ -151,8 +144,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Biserica deține o relicvă prețioasă a Sfântului Sânge", "A fost o fortăreață defensivă importantă împotriva turcilor", "Portalul este una dintre cele mai frumoase lucrări gotice din țară", "Sfințită de regele Geza I în anul 1075"],
       en: ["The church holds a precious Holy Blood relic", "Once a key defensive fortress against Ottoman Turks", "The portal is among the finest Gothic works in the country", "Consecrated in 1075 by King Geza I"],
     },
-    imageHint: "Hronsky Benadik abbey monastery",
-  },
+    imageHint: "Hronsky Benadik abbey monastery", image: "/poi-images/slovakia-hronsky-benadik-history-v2.webp"},
   {
     id: "slovakia-rozhanovce-battlefield-history-v2",
     type: "battlefield",
@@ -170,8 +162,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Considerată cea mai importantă bătălie medievală din Slovacia", "A pus capăt domniei oligarhilor în regiune", "O piatră memorială comemorează astăzi evenimentul", "Orașul Košice l-a sprijinit pe rege în bătălie"],
       en: ["Considered the most important medieval battle in Slovakia", "Ended the rule of local oligarchs in the region", "A memorial stone marks the event today", "The city of Košice supported the king in the fight"],
     },
-    imageHint: "Rozhanovce battlefield memorial stone",
-  },
+    imageHint: "Rozhanovce battlefield memorial stone", image: "/poi-images/slovakia-rozhanovce-battlefield-history-v2.webp"},
   {
     id: "slovakia-parkany-battlefield-history-v2",
     type: "battlefield",
@@ -189,8 +180,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["A dus la recucerirea fortăreței Esztergom", "Jan Sobieski a scăpat la limită de moarte în prima zi", "Un monument în Štúrovo îl comemorează pe regele polonez", "Punct strategic la traversarea Dunării"],
       en: ["Led to the recapture of the Esztergom fortress", "Jan Sobieski narrowly escaped death on the first day", "A monument in Štúrovo honors the Polish king", "Strategic point for crossing the Danube river"],
     },
-    imageHint: "Sturovo Jan Sobieski monument",
-  },
+    imageHint: "Sturovo Jan Sobieski monument", image: "/poi-images/slovakia-parkany-battlefield-history-v2.webp"},
   {
     id: "slovakia-pressburg-907-battlefield-history-v2",
     type: "battlefield",
@@ -208,8 +198,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["A dus la dispariția Imperiului Moraviei Mari", "Bătălia a avut loc în apropierea castelului Bratislava", "Una dintre cele mai importante bătălii din Evul Mediu timpuriu", "Luitpold de Bavaria a murit în luptă"],
       en: ["Contributed to the downfall of Great Moravia", "The battle took place near the Bratislava Castle", "One of the most significant early medieval battles", "Luitpold of Bavaria fell during the combat"],
     },
-    imageHint: "Bratislava castle and Danube aerial history",
-  },
+    imageHint: "Bratislava castle and Danube aerial history", image: "/poi-images/slovakia-pressburg-907-battlefield-history-v2.webp"},
   {
     id: "slovakia-cerveny-klastor-history-v2",
     type: "museum",
@@ -227,8 +216,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Fondată în secolul al XIV-lea pe malul râului Dunajec", "Găzduiește cel mai vechi ierbar din Europa Centrală", "Numită după culoarea țiglelor și a cărămizilor", "A servit drept fortăreață împotriva husiților în secolul XV"],
       en: ["Founded in the 14th century on the Dunajec riverbank", "Houses the oldest herbarium in Central Europe", "Named after the red color of its roof tiles and bricks", "Served as a fortress against Hussites in the 15th century"],
     },
-    imageHint: "Cerveny Klastor monastery Pieniny",
-  },
+    imageHint: "Cerveny Klastor monastery Pieniny", image: "/poi-images/slovakia-cerveny-klastor-history-v2.webp"},
   {
     id: "slovakia-viglas-palace-history-v2",
     type: "palace",
@@ -246,8 +234,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIV-lea de regele Ludovic I", "Locul preferat al împăratului Sigismund de Luxemburg", "Grav avariat și ars în al Doilea Război Mondial", "Astăzi este folosit ca hotel istoric și muzeu"],
       en: ["Built in the 14th century by King Louis I", "Favorite residence of Emperor Sigismund of Luxembourg", "Heavily damaged and burned during World War II", "Currently functions as a historic hotel and museum"],
     },
-    imageHint: "Viglas castle Slovakia reconstructed",
-  },
+    imageHint: "Viglas castle Slovakia reconstructed", image: "/poi-images/slovakia-viglas-palace-history-v2.webp"},
   {
     id: "slovakia-markusovce-mansion-history-v2",
     type: "palace",
@@ -265,8 +252,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Pavilionul Dardanely servește azi ca muzeu al instrumentelor cu clape", "Fostul sediu al influentei familii Máriássy", "Clădirea datează inițial din anul 1643", "Cunoscut pentru decorațiunile sale în stuc rococo"],
       en: ["The Dardanely pavilion serves as a museum of keyboard instruments", "Former seat of the influential Máriássy family", "The building originally dates back to 1643", "Famous for its Rococo stucco decorations"],
     },
-    imageHint: "Markusovce mansion Dardanely pavilion",
-  },
+    imageHint: "Markusovce mansion Dardanely pavilion", image: "/poi-images/slovakia-markusovce-mansion-history-v2.webp"},
   {
     id: "slovakia-topolcianky-palace-history-v2",
     type: "palace",
@@ -284,8 +270,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Deține una dintre cele mai mari biblioteci de castel din Slovacia", "Președintele T. G. Masaryk a petrecut aici multe veri", "Curtea interioară renascentistă este deschisă publicului", "Castelul găzduiește colecții valoroase de porțelan"],
       en: ["Contains one of the largest castle libraries in Slovakia", "President T. G. Masaryk spent many summers here", "The Renaissance courtyard is open to the public", "The manor houses valuable porcelain collections"],
     },
-    imageHint: "Topolcianky manor house facade",
-  },
+    imageHint: "Topolcianky manor house facade", image: "/poi-images/slovakia-topolcianky-palace-history-v2.webp"},
   {
     id: "slovakia-sered-holocaust-museum-history-v2",
     type: "museum",
@@ -303,8 +288,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Singurul lagăr de acest tip conservat în Slovacia", "Include cinci barăci de cazarmă renovate", "A fost deschis ca muzeu în anul 2016", "Un vagon de vite simbolizează transportul spre lagărele de exterminare"],
       en: ["Only preserved camp of its kind in Slovakia", "Comprises five renovated barracks buildings", "Opened as a museum in 2016", "A cattle wagon symbolizes the transport to death camps"],
     },
-    imageHint: "Sered Holocaust Museum barracks",
-  },
+    imageHint: "Sered Holocaust Museum barracks", image: "/poi-images/slovakia-sered-holocaust-museum-history-v2.webp"},
   {
     id: "slovakia-drazovce-church-history-v2",
     type: "church",
@@ -322,8 +306,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Una dintre cele mai vechi clădiri bisericești din Slovacia", "Reprezentată pe fosta bancnotă de 50 de coroane", "Construită pe fundațiile unei vechi așezări slave", "Un motiv popular pentru fotografi și cineaști"],
       en: ["One of the oldest church buildings in Slovakia", "Depicted on the former 50-koruna banknote", "Built on the foundations of an older Slavic fort", "A popular subject for photographers and filmmakers"],
     },
-    imageHint: "Drazovce Romanesque church on hill",
-  },
+    imageHint: "Drazovce Romanesque church on hill", image: "/poi-images/slovakia-drazovce-church-history-v2.webp"},
   {
     id: "slovakia-krupina-vartovka-history-v2",
     type: "tower",
@@ -341,8 +324,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["A servit ca stație de semnalizare într-un sistem de avertizare mai mare", "Are aproximativ 13 metri înălțime, cu o bază pătrată", "Oferă o vedere panoramică asupra munților Krupina", "Și-a pierdut importanța militară în secolul al XVIII-lea"],
       en: ["Served as a signal station within a larger warning system", "Stands about 13 meters tall with a square base", "Offers a broad view over the Krupina Highlands", "Lost its military significance in the 18th century"],
     },
-    imageHint: "Krupina Vartovka watchtower",
-  },
+    imageHint: "Krupina Vartovka watchtower", image: "/poi-images/slovakia-krupina-vartovka-history-v2.webp"},
   {
     id: "slovakia-gymes-ruins-history-v2",
     type: "ruins",
@@ -360,8 +342,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["A supraviețuit numeroaselor atacuri turcești", "Are ziduri și turnuri neobișnuit de masive", "A fost abandonată definitiv în secolul al XIX-lea", "Oferă vedere spre câmpia Nitrei"],
       en: ["Survived numerous Ottoman Turk attacks", "Features unusually massive walls and towers", "Finally abandoned in the 19th century", "Overlooks the Nitra river plain"],
     },
-    imageHint: "Gymes castle ruins Slovakia",
-  },
+    imageHint: "Gymes castle ruins Slovakia", image: "/poi-images/slovakia-gymes-ruins-history-v2.webp"},
   {
     id: "slovakia-uhrovec-ruins-history-v2",
     type: "ruins",
@@ -379,8 +360,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Capela castelului deține fragmente originale de frescă", "Nu a fost niciodată cucerit prin forță militară", "Datorită locației izolate, s-a păstrat mult din substanță", "Este în prezent restaurat de voluntari"],
       en: ["The castle chapel contains original fresco fragments", "Never conquered by military force", "Due to its isolated location, much of the structure remains", "Currently undergoing extensive restoration by volunteers"],
     },
-    imageHint: "Uhrovec castle ruins aerial",
-  },
+    imageHint: "Uhrovec castle ruins aerial", image: "/poi-images/slovakia-uhrovec-ruins-history-v2.webp"},
   {
     id: "slovakia-sklabina-ruins-history-v2",
     type: "ruins",
@@ -398,8 +378,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Construită în secolul al XIII-lea pe locul unei fortificații", "Arsă de trupele germane în 1944 ca act de răzbunare", "Găzduiește un mic muzeu despre istoria castelului", "Situată la poalele munților Fatra Mare"],
       en: ["Built in the 13th century on an earlier fort site", "Burned down by German troops in 1944 as an act of revenge", "Houses a small museum dedicated to castle history", "Located at the foothills of the Greater Fatra mountains"],
     },
-    imageHint: "Sklabina castle ruins Turiec",
-  },
+    imageHint: "Sklabina castle ruins Turiec", image: "/poi-images/slovakia-sklabina-ruins-history-v2.webp"},
   {
     id: "slovakia-tematin-ruins-history-v2",
     type: "ruins",
@@ -417,8 +396,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Construită în secolul al XIII-lea ca cetate regală", "A aparținut odată faimosului Matei Csák", "Distrusă de trupele imperiale în 1710", "Accesibilă doar pe jos prin trasee montane"],
       en: ["Built in the 13th century as a royal castle", "Once owned by the famous Matthew Csák", "Destroyed by imperial troops in 1710", "Accessible only on foot via hiking trails"],
     },
-    imageHint: "Tematin castle ruins Slovakia aerial",
-  },
+    imageHint: "Tematin castle ruins Slovakia aerial", image: "/poi-images/slovakia-tematin-ruins-history-v2.webp"},
   {
     id: "slovakia-muran-ruins-history-v2",
     type: "ruins",
@@ -436,8 +414,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Situată la 935 de metri deasupra mării", "Distrusă de un incendiu devastator în anul 1760", "Porțile castelului sunt încă bine conservate", "Cetate importantă în timpul răscoalelor nobiliare"],
       en: ["Situated at 935 meters above sea level", "Destroyed by a devastating fire in 1760", "The castle gates are still well-preserved", "Important fortress during anti-Habsburg uprisings"],
     },
-    imageHint: "Muran castle ruins Slovakia",
-  },
+    imageHint: "Muran castle ruins Slovakia", image: "/poi-images/slovakia-muran-ruins-history-v2.webp"},
   {
     id: "slovakia-sitno-archaeology-history-v2",
     type: "ruins",
@@ -455,8 +432,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Cea mai înaltă așezare fortificată a culturii Lusaciene", "Ruinele unui castel medieval sunt vizibile în sit", "Locul este înconjurat de numeroase legende", "Parte a zonei UNESCO Banská Štiavnica"],
       en: ["Highest-altitude hillfort of the Lusatian culture", "Medieval castle ruins are visible on the site", "The location is surrounded by numerous legends", "Part of the Banská Štiavnica UNESCO area"],
     },
-    imageHint: "Sitno hill fort ruins",
-  },
+    imageHint: "Sitno hill fort ruins", image: "/poi-images/slovakia-sitno-archaeology-history-v2.webp"},
   {
     id: "slovakia-molpir-hillfort-history-v2",
     type: "ruins",
@@ -474,8 +450,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Are trei curți fortificate pe o suprafață de 12 hectare", "Distrugerea a fost cauzată probabil de atacurile sciților", "Un traseu educațional străbate situl arheologic", "S-au găsit măști ritualice și ofrande"],
       en: ["Features three fortified courtyards over 12 hectares", "Destruction was likely caused by Scythian attacks", "An educational trail leads through the archaeological site", "Finds include ritual masks and offerings"],
     },
-    imageHint: "Molpir archaeological site Smolenice",
-  },
+    imageHint: "Molpir archaeological site Smolenice", image: "/poi-images/slovakia-molpir-hillfort-history-v2.webp"},
   {
     id: "slovakia-bina-fortifications-history-v2",
     type: "ruins",
@@ -493,8 +468,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["A servit ca o tabără fortificată uriașă (hring)", "Trei linii concentrice de valuri sunt parțial vizibile", "Loc legendar legat de încoronarea Sfântului Ștefan", "Monument important al tehnicii militare medievale timpurii"],
       en: ["Served as a massive fortified camp (hring)", "Three concentric wall lines are still partially visible", "Legendary site linked to the coronation of St. Stephen", "Significant monument of early medieval military engineering"],
     },
-    imageHint: "Bina earthen walls Slovakia",
-  },
+    imageHint: "Bina earthen walls Slovakia", image: "/poi-images/slovakia-bina-fortifications-history-v2.webp"},
   {
     id: "slovakia-velka-maca-archaeology-history-v2",
     type: "ruins",
@@ -531,8 +505,7 @@ export const slovakiaHistoryV2: POI[] = [
       ro: ["Găzduiește astăzi Galeria Orașului Bratislava", "Deține două cabinete cu lambriuri de lemn prețioase", "A fost construit între 1768 și 1770", "Fostă proprietate a contelui Emil Mirbach"],
       en: ["Currently houses the Bratislava City Gallery", "Features two cabinets with valuable wooden paneling", "Constructed between 1768 and 1770", "Former property of Count Emil Mirbach"],
     },
-    imageHint: "Mirbach Palace Bratislava facade",
-  },
+    imageHint: "Mirbach Palace Bratislava facade", image: "/poi-images/slovakia-mirbach-palace-history-v2.webp"},
   {
     id: "slovakia-apponyi-palace-history-v2",
     type: "palace",

@@ -19,8 +19,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1998", "Covor de flori la fiecare doi ani", "Primăria datează din secolul XV", "Casele breslelor în stil baroc"],
       en: ["UNESCO World Heritage since 1998", "Flower carpet every two years", "15th-century City Hall building", "Baroque-style guildhalls"],
     },
-    imageHint: "Brussels Grand Place square with guildhalls",
-  },
+    imageHint: "Brussels Grand Place square with guildhalls", image: "/poi-images/belgium-grand-place-landmarks-v2.webp"},
   {
     id: "belgium-atomium-landmarks-v2",
     type: "monument",
@@ -39,8 +38,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Înălțime totală de 102 metri", "Nouă sfere interconectate", "Proiectat de André Waterkeyn", "Planificat inițial ca temporar"],
       en: ["Total height of 102 meters", "Nine interconnected spheres", "Designed by André Waterkeyn", "Originally planned as temporary"],
     },
-    imageHint: "Atomium monument in Brussels daytime",
-  },
+    imageHint: "Atomium monument in Brussels daytime", image: "/poi-images/belgium-atomium-landmarks-v2.webp"},
   {
     id: "belgium-gravensteen-landmarks-v2",
     type: "castle",
@@ -59,8 +57,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Singurul castel medieval cu donjon", "Restaurare amplă din 1885", "Găzduiește un muzeu al torturii", "Emblemă a orașului Gent"],
       en: ["Only Flemish castle with keep", "Extensive restoration from 1885", "Houses a museum of torture", "Symbol of the city of Ghent"],
     },
-    imageHint: "Gravensteen castle Ghent moat",
-  },
+    imageHint: "Gravensteen castle Ghent moat", image: "/poi-images/belgium-gravensteen-landmarks-v2.webp"},
   {
     id: "belgium-antwerp-central-station-landmarks-v2",
     type: "landmark",
@@ -79,8 +76,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Înălțimea domului este de 75 metri", "Proiectată de Louis Delacenserie", "Una dintre cele mai frumoase gări", "Patru niveluri pentru trafic feroviar"],
       en: ["Dome height of 75 meters", "Designed by Louis Delacenserie", "One of world's most beautiful stations", "Four levels for train traffic"],
     },
-    imageHint: "Antwerp Central Station interior architecture",
-  },
+    imageHint: "Antwerp Central Station interior architecture", image: "/poi-images/belgium-antwerp-central-station-landmarks-v2.webp"},
   {
     id: "belgium-manneken-pis-landmarks-v2",
     type: "monument",
@@ -99,8 +95,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Statuia actuală datează din 1619", "Posedă peste 1.000 de costume", "Originalul se află în Muzeul Orașului", "Înălțime de doar 61 de centimetri"],
       en: ["Current statue dates to 1619", "Owns over 1,000 costumes", "Original kept in City Museum", "Height of only 61 centimeters"],
     },
-    imageHint: "Manneken Pis statue Brussels fountain",
-  },
+    imageHint: "Manneken Pis statue Brussels fountain", image: "/poi-images/belgium-manneken-pis-landmarks-v2.webp"},
   {
     id: "belgium-cathedral-of-our-lady-antwerp-landmarks-v2",
     type: "cathedral",
@@ -119,8 +114,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Înălțimea turnului de 123 metri", "Construcția a durat 169 de ani", "Patru capodopere de Rubens", "Plan cu șapte nave"],
       en: ["Tower height of 123 meters", "Construction took 169 years", "Houses four Rubens masterpieces", "Seven-aisled ground plan"],
     },
-    imageHint: "Cathedral of Our Lady Antwerp spire",
-  },
+    imageHint: "Cathedral of Our Lady Antwerp spire", image: "/poi-images/belgium-cathedral-of-our-lady-antwerp-landmarks-v2.webp"},
   {
     id: "belgium-st-bavos-cathedral-landmarks-v2",
     type: "cathedral",
@@ -139,8 +133,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Găzduiește Altarul din Gent (1432)", "Locul botezului lui Carol al V-lea", "Turnul are 89 de metri înălțime", "Criptă din secolul al X-lea"],
       en: ["Houses the Ghent Altarpiece (1432)", "Site of Charles V's baptism", "89-meter tall church tower", "Crypt dates to the 10th century"],
     },
-    imageHint: "St Bavo's Cathedral Ghent exterior",
-  },
+    imageHint: "St Bavo's Cathedral Ghent exterior", image: "/poi-images/belgium-st-bavos-cathedral-landmarks-v2.webp"},
   {
     id: "belgium-royal-palace-brussels-landmarks-v2",
     type: "palace",
@@ -159,8 +152,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Deschis vizitatorilor în timpul verii", "Fațadă mai lungă decât Buckingham Palace", "Construit pe dealul Koudenberg", "Nu este reședința regală efectivă"],
       en: ["Open to visitors during summer", "Façade longer than Buckingham Palace", "Built on the Koudenberg hill", "Not used as a royal residence"],
     },
-    imageHint: "Royal Palace of Brussels front view",
-  },
+    imageHint: "Royal Palace of Brussels front view", image: "/poi-images/belgium-royal-palace-brussels-landmarks-v2.webp"},
   {
     id: "belgium-lions-mound-landmarks-v2",
     type: "monument",
@@ -179,8 +171,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["226 de trepte până la leu", "Finalizat în anul 1826", "Statuia leului cântărește 28 tone", "Vedere asupra câmpului de luptă"],
       en: ["226 steps lead to the lion", "Completed in 1826", "Lion statue weighs 28 tons", "Overlooks the battlefield"],
     },
-    imageHint: "Lion's Mound Waterloo monument",
-  },
+    imageHint: "Lion's Mound Waterloo monument", image: "/poi-images/belgium-lions-mound-landmarks-v2.webp"},
   {
     id: "belgium-cathedral-of-st-michael-and-st-gudula-landmarks-v2",
     type: "cathedral",
@@ -199,8 +190,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Înălțimea turnurilor de 64 metri", "Construcția a durat peste 300 ani", "Vitralii remarcabile", "Posedă un carilon cu 49 de clopote"],
       en: ["Tower height of 64 meters", "Took over 300 years to build", "Excellent stained-glass windows", "Contains a 49-bell carillon"],
     },
-    imageHint: "Cathedral of St Michael and St Gudula Brussels towers",
-  },
+    imageHint: "Cathedral of St Michael and St Gudula Brussels towers", image: "/poi-images/belgium-cathedral-of-st-michael-and-st-gudula-landmarks-v2.webp"},
   {
     id: "belgium-mas-museum-landmarks-v2",
     type: "museum",
@@ -219,8 +209,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Înălțime de 60 de metri", "Platformă de observare gratuită", "Inaugurat în anul 2011", "Peste 500.000 de piese de muzeu"],
       en: ["Height of 60 meters", "Free observation deck at top", "Opened in the year 2011", "Over 500,000 museum pieces"],
     },
-    imageHint: "MAS Museum Antwerp red sandstone building",
-  },
+    imageHint: "MAS Museum Antwerp red sandstone building", image: "/poi-images/belgium-mas-museum-landmarks-v2.webp"},
   {
     id: "belgium-plantin-moretus-museum-landmarks-v2",
     type: "museum",
@@ -239,8 +228,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 2005", "Două prese de tipar din cca. 1600", "Casă de locuit și atelier", "Posedă o Biblie Gutenberg"],
       en: ["UNESCO Heritage since 2005", "Two presses from around 1600", "Residence and workshop combined", "Houses a Gutenberg Bible"],
     },
-    imageHint: "Plantin-Moretus Museum Antwerp printing press",
-  },
+    imageHint: "Plantin-Moretus Museum Antwerp printing press", image: "/poi-images/belgium-plantin-moretus-museum-landmarks-v2.webp"},
   {
     id: "belgium-basilica-of-the-holy-blood-landmarks-v2",
     type: "church",
@@ -259,8 +247,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Relicvă prezentă din secolul XII", "Procesiunea anuală a Sângelui Sfânt", "Parterul este aproape neschimbat", "Situată în Piața Burg"],
       en: ["Relic here since 12th century", "Annual Procession of Holy Blood", "Lower level largely unchanged", "Located on the Burg square"],
     },
-    imageHint: "Basilica of the Holy Blood Bruges facade",
-  },
+    imageHint: "Basilica of the Holy Blood Bruges facade", image: "/poi-images/belgium-basilica-of-the-holy-blood-landmarks-v2.webp"},
   {
     id: "belgium-chateau-de-beloeil-landmarks-v2",
     type: "castle",
@@ -279,8 +266,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Grădină barocă de 25 hectare", "Bibliotecă cu 20.000 de volume", "Înconjurat de un șanț cu apă", "Colecție de artă importantă"],
       en: ["25-hectare Baroque garden", "Library with 20,000 books", "Surrounded by a water moat", "Significant art collection"],
     },
-    imageHint: "Chateau de Beloeil castle and lake",
-  },
+    imageHint: "Chateau de Beloeil castle and lake", image: "/poi-images/belgium-chateau-de-beloeil-landmarks-v2.webp"},
   {
     id: "belgium-church-of-our-lady-bruges-landmarks-v2",
     type: "church",
@@ -299,8 +285,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Cel mai înalt turn de cărămidă", "Mormintele lui Carol Temerarul", "Singura sculptură de Michelangelo în afara Italiei", "Construcție de peste două secole"],
       en: ["Tallest brick tower in the world", "Tombs of Charles the Bold", "Only Michelangelo statue outside Italy", "Took over two centuries to build"],
     },
-    imageHint: "Church of Our Lady Bruges brick tower",
-  },
+    imageHint: "Church of Our Lady Bruges brick tower", image: "/poi-images/belgium-church-of-our-lady-bruges-landmarks-v2.webp"},
   {
     id: "belgium-saint-peters-abbey-landmarks-v2",
     type: "landmark",
@@ -319,8 +304,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Fondată de Sfântul Amandus", "Biserică abacială barocă (sec. XVII)", "Deține propria podgorie", "Acum centru cultural al orașului"],
       en: ["Founded by Saint Amandus", "17th-century Baroque abbey church", "Features its own vineyard", "Now a city cultural center"],
     },
-    imageHint: "Saint Peter's Abbey Ghent buildings",
-  },
+    imageHint: "Saint Peter's Abbey Ghent buildings", image: "/poi-images/belgium-saint-peters-abbey-landmarks-v2.webp"},
   {
     id: "belgium-royal-museums-of-fine-arts-landmarks-v2",
     type: "museum",
@@ -339,8 +323,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Peste 20.000 de opere de artă", "Include Muzeul Magritte", "Fondat sub Napoleon", "Colecție importantă de Bruegel"],
       en: ["Over 20,000 works of art", "Includes the Magritte Museum", "Founded under Napoleon", "Significant Bruegel collection"],
     },
-    imageHint: "Royal Museums of Fine Arts Brussels entrance",
-  },
+    imageHint: "Royal Museums of Fine Arts Brussels entrance", image: "/poi-images/belgium-royal-museums-of-fine-arts-landmarks-v2.webp"},
   {
     id: "belgium-town-hall-leuven-landmarks-v2",
     type: "monument",
@@ -359,8 +342,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["236 de statui pe fațadă", "Construită între 1448 și 1469", "A supraviețuit ambelor războaie", "Trei etaje în stil gotic"],
       en: ["236 statues on the façade", "Built between 1448 and 1469", "Survived both World Wars", "Three stories in Gothic style"],
     },
-    imageHint: "Leuven Town Hall Gothic facade statues",
-  },
+    imageHint: "Leuven Town Hall Gothic facade statues", image: "/poi-images/belgium-town-hall-leuven-landmarks-v2.webp"},
   {
     id: "belgium-st-peters-church-leuven-landmarks-v2",
     type: "church",
@@ -379,8 +361,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Patrimoniu UNESCO (turnul)", "Pictura lui Dieric Bouts (1464)", "Turnurile au rămas neterminate", "Fondată în anul 986"],
       en: ["UNESCO World Heritage (tower)", "Dieric Bouts painting (1464)", "Towers remained unfinished", "Founded in the year 986"],
     },
-    imageHint: "St Peter's Church Leuven unfinished towers",
-  },
+    imageHint: "St Peter's Church Leuven unfinished towers", image: "/poi-images/belgium-st-peters-church-leuven-landmarks-v2.webp"},
   {
     id: "belgium-orval-abbey-landmarks-v2",
     type: "landmark",
@@ -399,8 +380,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Fondată în anul 1132", "Proprie berărie trapistă", "Legenda păstrăvului de aur", "Muzeu farmaceutic la fața locului"],
       en: ["Founded in the year 1132", "Own Trappist brewery", "Legend of the golden trout", "On-site pharmaceutical museum"],
     },
-    imageHint: "Orval Abbey ruins and monastery",
-  },
+    imageHint: "Orval Abbey ruins and monastery", image: "/poi-images/belgium-orval-abbey-landmarks-v2.webp"},
   {
     id: "belgium-modave-castle-landmarks-v2",
     type: "castle",
@@ -419,8 +399,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["20 de săli splendid decorate", "Sediul istoric al conților de Marchin", "Stucaturi de Jan Christian Hansche", "Înconjurat de o rezervație naturală"],
       en: ["20 lavishly decorated rooms", "Ancestral home of Counts of Marchin", "Stucco work by Jan Christian Hansche", "Surrounded by a nature reserve"],
     },
-    imageHint: "Modave Castle on cliff",
-  },
+    imageHint: "Modave Castle on cliff", image: "/poi-images/belgium-modave-castle-landmarks-v2.webp"},
   {
     id: "belgium-cinquantenaire-arch-landmarks-v2",
     type: "monument",
@@ -439,8 +418,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Finalizat în anul 1905", "Încoronat de o cvadrigă", "Parte a Parcului Cinquantenaire", "Găzduiește Muzeul Armatei"],
       en: ["Completed in the year 1905", "Crowned by a bronze quadriga", "Part of the Cinquantenaire Park", "Houses the Military Museum"],
     },
-    imageHint: "Cinquantenaire Arch Brussels Jubelpark",
-  }
+    imageHint: "Cinquantenaire Arch Brussels Jubelpark", image: "/poi-images/belgium-cinquantenaire-arch-landmarks-v2.webp"}
 ,
   {
     id: "belgium-brussels-justice-palace-landmarks-v2",
@@ -478,8 +456,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["A cincea cea mai mare biserică din lume", "Construită în stil Art Deco", "Lungime totală de 164,5 metri", "Finalizată complet în anul 1970"],
       en: ["Fifth largest church in the world", "Built in Art Deco style", "Total length of 164.5 meters", "Construction spanned from 1905 to 1970"],
     },
-    imageHint: "Basilica of the Sacred Heart Koekelberg exterior",
-  },
+    imageHint: "Basilica of the Sacred Heart Koekelberg exterior", image: "/poi-images/belgium-koekelberg-basilica-landmarks-v2.webp"},
   {
     id: "belgium-antwerp-port-house-landmarks-v2",
     type: "landmark",
@@ -497,8 +474,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Proiectată de Zaha Hadid Architects", "Inaugurată în septembrie 2016", "Structura de sticlă are 111 metri lungime", "Găzduiește peste 500 de angajați"],
       en: ["Designed by Zaha Hadid Architects", "Opened in September 2016", "The glass structure is 111 meters long", "Provides workspace for 500 employees"],
     },
-    imageHint: "Antwerp Port House Zaha Hadid architecture",
-  },
+    imageHint: "Antwerp Port House Zaha Hadid architecture", image: "/poi-images/belgium-antwerp-port-house-landmarks-v2.webp"},
   {
     id: "belgium-laeken-royal-greenhouses-landmarks-v2",
     type: "landmark",
@@ -516,8 +492,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Construite între 1874 și 1895", "Proiectate de arhitectul Alphonse Balat", "Suprafață totală de 2,5 hectare", "Deschise publicului doar 3 săptămâni pe an"],
       en: ["Built between 1874 and 1895", "Designed by architect Alphonse Balat", "Total surface area of 2.5 hectares", "Open to the public for only 3 weeks a year"],
     },
-    imageHint: "Royal Greenhouses of Laeken glass dome",
-  },
+    imageHint: "Royal Greenhouses of Laeken glass dome", image: "/poi-images/belgium-laeken-royal-greenhouses-landmarks-v2.webp"},
   {
     id: "belgium-freyr-castle-landmarks-v2",
     type: "castle",
@@ -535,8 +510,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Grădini datând din anul 1760", "Deține portocali vechi de 300 de ani", "Arhitectură renascentistă și barocă", "Situat direct pe malul fluviului Meuse"],
       en: ["Gardens date back to 1760", "Home to 300-year-old orange trees", "Renaissance and Baroque architecture", "Located on the banks of the Meuse river"],
     },
-    imageHint: "Castle of Freyr and Meuse river",
-  },
+    imageHint: "Castle of Freyr and Meuse river", image: "/poi-images/belgium-freyr-castle-landmarks-v2.webp"},
   {
     id: "belgium-alden-biesen-landmarks-v2",
     type: "castle",
@@ -554,8 +528,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Fondată de Ordinul Teuton în 1220", "Restaurată după un incendiu major în 1971", "Include o biserică și grădini baroce", "Cea mai mare comanderie din regiune"],
       en: ["Founded by the Teutonic Order in 1220", "Restored after a major fire in 1971", "Includes a church and Baroque gardens", "Largest commandery between Rhine and Meuse"],
     },
-    imageHint: "Alden Biesen castle and gardens",
-  },
+    imageHint: "Alden Biesen castle and gardens", image: "/poi-images/belgium-alden-biesen-landmarks-v2.webp"},
   {
     id: "belgium-ghent-st-nicholas-church-landmarks-v2",
     type: "church",
@@ -573,8 +546,7 @@ export const belgiumLandmarksV2: POI[] = [
       ro: ["Construită în stil gotic scaldian", "Utilizează piatră gri de Tournai", "Are un turn-lanternă central", "Datată din secolul al XIII-lea"],
       en: ["Built in the Scheldt Gothic style", "Constructed with blue-gray Tournai stone", "Features a central lantern tower", "Dating back to the early 13th century"],
     },
-    imageHint: "St Nicholas Church Ghent exterior",
-  },
+    imageHint: "St Nicholas Church Ghent exterior", image: "/poi-images/belgium-ghent-st-nicholas-church-landmarks-v2.webp"},
   {
     id: "belgium-brussels-bourse-landmarks-v2",
     type: "landmark",

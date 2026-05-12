@@ -19,8 +19,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Se află la doar 4 km de orașul danez Helsingør", "Turnul Kärnan este restul unei fortificații din secolul al XIV-lea", "Găzduiește sediul central al IKEA Suedia", "A fost menționat pentru prima dată în documente în anul 1085"],
       en: ["Located only 4 km from the Danish city of Helsingør", "The Kärnan tower is the remains of a 14th-century fortress", "Home to the headquarters of IKEA Sweden", "First mentioned in official documents in 1085"],
     },
-    imageHint: "Helsingborg harbor with Kärnan tower in background",
-  },
+    imageHint: "Helsingborg harbor with Kärnan tower in background", image: "/poi-images/sweden-helsingborg-cities-v2.webp"},
   {
     id: "sweden-norrkoping-cities-v2",
     type: "city",
@@ -39,8 +38,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Deține unul dintre cele mai bine conservate peisaje industriale din Europa", "Orașul operează una dintre puținele rețele de tramvai din Suedia", "A fost centrul industriei textile suedeze în secolul al XVIII-lea", "Găzduiește renumitul Visualiseringscenter C"],
       en: ["Features one of Europe's best-preserved industrial landscapes", "The city operates one of Sweden's few tram networks", "Was the center of the Swedish textile industry in the 18th century", "Home to the renowned Visualization Center C"],
     },
-    imageHint: "Industrial landscape of Norrköping along the river",
-  },
+    imageHint: "Industrial landscape of Norrköping along the river", image: "/poi-images/sweden-norrkoping-cities-v2.webp"},
   {
     id: "sweden-boras-cities-v2",
     type: "city",
@@ -59,8 +57,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Sediul Universității de Textile și al Muzeului Textilelor", "Găzduiește o statuie Pinocchio de 9 metri numită 'Walking to Borås'", "Este considerat unul dintre cele mai ploioase orașe din Suedia", "Locul de fondare al multor mari companii de vânzare prin corespondență"],
       en: ["Home to the Swedish School of Textiles and the Textile Museum", "Houses a 9-meter tall Pinocchio statue named 'Walking to Borås'", "Considered one of the rainiest cities in Sweden", "Founding place of many large mail-order companies"],
     },
-    imageHint: "Modern street art and sculptures in Borås city center",
-  },
+    imageHint: "Modern street art and sculptures in Borås city center", image: "/poi-images/sweden-boras-cities-v2.webp"},
   {
     id: "sweden-eskilstuna-cities-v2",
     type: "city",
@@ -79,8 +76,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Găzduiește ReTuna, primul centru comercial de reciclare din lume", "Cunoscut pentru grădina zoologică Parken Zoo cu tigri albi rari", "A fost cunoscut istoric sub numele de 'orașul forjorilor'", "Situat pe râul Eskilstunaån, care leagă lacurile Hjälmaren și Mälaren"],
       en: ["Home to ReTuna, the world's first recycling shopping mall", "Famous for the Parken Zoo featuring rare white tigers", "Historically known as the 'City of Smiths'", "Located on the Eskilstunaån river connecting lakes Hjälmaren and Mälaren"],
     },
-    imageHint: "Eskilstuna city center river view",
-  },
+    imageHint: "Eskilstuna city center river view", image: "/poi-images/sweden-eskilstuna-cities-v2.webp"},
   {
     id: "sweden-gavle-cities-v2",
     type: "city",
@@ -99,8 +95,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Capra din Gävle, făcută din paie, este ridicată aproape în fiecare an din 1966", "Găzduiește Muzeul Căilor Ferate Suedeze", "A primit drepturi de oraș în anul 1446", "Gevalia este cel mai mare producător de cafea din Scandinavia"],
       en: ["The straw Gävle Goat is built almost every Christmas since 1966", "Home to the Swedish Railway Museum", "Granted city rights in 1446", "Gevalia is the largest coffee producer in Scandinavia"],
     },
-    imageHint: "Giant straw Gävle Goat in the snowy city square",
-  },
+    imageHint: "Giant straw Gävle Goat in the snowy city square", image: "/poi-images/sweden-gavle-cities-v2.webp"},
   {
     id: "sweden-vaxjo-cities-v2",
     type: "city",
@@ -119,8 +114,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Și-a stabilit obiectivul de a deveni complet fără combustibili fosili până în 2030", "Găzduiește Muzeul Suedez al Sticlei", "Catedrala din Växjö datează inițial din secolul al XII-lea", "Este un centru educațional important cu Universitatea Linnaeus"],
       en: ["Has set a goal to be fossil-fuel-free by 2030", "Home to the Swedish Glass Museum", "Växjö Cathedral originally dates back to the 12th century", "Major educational hub with Linnaeus University"],
     },
-    imageHint: "Växjö Cathedral with its unique twin towers",
-  },
+    imageHint: "Växjö Cathedral with its unique twin towers", image: "/poi-images/sweden-vaxjo-cities-v2.webp"},
   {
     id: "sweden-sodertalje-cities-v2",
     type: "city",
@@ -139,8 +133,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Sediul producătorului de vehicule Scania AB", "Găzduiește Tom Tits Experiment, cel mai mare centru științific din Suedia", "Canalul Södertälje este cel mai mare canal cu ecluze din Scandinavia", "Are o populație foarte diversă, cu mulți locuitori de origine asiriană"],
       en: ["Headquarters of the vehicle manufacturer Scania AB", "Home to Tom Tits Experiment, Sweden's largest science center", "The Södertälje Canal is the largest lock canal in Scandinavia", "Has a very diverse population with many residents of Assyrian heritage"],
     },
-    imageHint: "Aerial view of the Södertälje Canal and industrial area",
-  },
+    imageHint: "Aerial view of the Södertälje Canal and industrial area", image: "/poi-images/sweden-sodertalje-cities-v2.webp"},
   {
     id: "sweden-trollhattan-cities-v2",
     type: "city",
@@ -159,8 +152,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Cascadele din Trollhättan eliberează mase uriașe de apă la anumite ore în timpul verii", "A fost locația principală a mărcii de automobile Saab", "Găzduiește 'Trollywood', centrul producției de film suedeze", "Scările de ecluze impresionante depășesc o diferență de înălțime de 32 de metri"],
       en: ["The Trollhättan Falls release massive amounts of water at scheduled times in summer", "Was the main location for the Saab automobile brand", "Home to 'Trollywood', the center of Swedish film production", "The impressive flight of locks handles a 32-meter height difference"],
     },
-    imageHint: "Massive waterfalls in Trollhättan during water release",
-  },
+    imageHint: "Massive waterfalls in Trollhättan during water release", image: "/poi-images/sweden-trollhattan-cities-v2.webp"},
   {
     id: "sweden-falun-cities-v2",
     type: "city",
@@ -179,8 +171,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Mina de cupru a fost odată cea mai mare din lume", "Culoarea 'roșu de Falun' este obținută din produsele secundare ale mineritului de cupru", "Găzduiește stadionul național de schi Lugnet cu trambuline de schi distinctive", "A fost al doilea oraș ca mărime din Suedia în secolul al XVII-lea"],
       en: ["The copper mine was once the largest in the world", "The 'Falun red' paint is made from by-products of the copper mining", "Home to the Lugnet national ski stadium with prominent ski jumps", "Was Sweden's second-largest city in the 17th century"],
     },
-    imageHint: "The Great Pit of the Falun Copper Mine",
-  },
+    imageHint: "The Great Pit of the Falun Copper Mine", image: "/poi-images/sweden-falun-cities-v2.webp"},
   {
     id: "sweden-kalmar-cities-v2",
     type: "city",
@@ -199,8 +190,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Castelul Kalmar este considerat una dintre cele mai bine conservate cetăți renascentiste din Europa de Nord", "Podul Öland leagă orașul de insula Öland", "A fost unul dintre cele mai importante orașe din Suedia în Evul Mediu", "Găzduiește Muzeul Județean Kalmar cu descoperiri de pe nava de război Kronan"],
       en: ["Kalmar Castle is considered one of North Europe's best-preserved Renaissance fortresses", "The Öland Bridge connects the city to the island of Öland", "Was one of Sweden's most important cities during the Middle Ages", "Home to the Kalmar County Museum with finds from the warship Kronan"],
     },
-    imageHint: "Kalmar Castle with its towers and moat",
-  },
+    imageHint: "Kalmar Castle with its towers and moat", image: "/poi-images/sweden-kalmar-cities-v2.webp"},
   {
     id: "sweden-skovde-cities-v2",
     type: "city",
@@ -219,8 +209,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Găzduiește o mare fabrică de motoare Volvo", "Este o locație importantă a forțelor armate suedeze", "Podișul Billingen oferă numeroase posibilități de recreere", "Este considerat unul dintre locurile de top din Suedia pentru dezvoltarea jocurilor pe calculator"],
       en: ["Home to a large Volvo engine plant", "A major location for the Swedish Armed Forces", "The Billingen plateau offers extensive outdoor recreation activities", "Considered one of Sweden's leading locations for computer game development"],
     },
-    imageHint: "Skövde city center with Billingen mountain in background",
-  },
+    imageHint: "Skövde city center with Billingen mountain in background", image: "/poi-images/sweden-skovde-cities-v2.webp"},
   {
     id: "sweden-kristianstad-cities-v2",
     type: "city",
@@ -239,8 +228,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Găzduiește cel mai de jos punct din Suedia, la 2,41 metri sub nivelul mării", "Biserica Sfintei Treimi este considerată una dintre cele mai frumoase clădiri renascentiste din Europa de Nord", "A fost un oraș danez până în 1658", "Situat în rezervația biosferei UNESCO Vattenrike"],
       en: ["Home to Sweden's lowest point at 2.41 meters below sea level", "Holy Trinity Church is considered one of North Europe's finest Renaissance buildings", "Was a Danish city until 1658", "Located within the Vattenrike UNESCO Biosphere Reserve"],
     },
-    imageHint: "Holy Trinity Church in Kristianstad",
-  },
+    imageHint: "Holy Trinity Church in Kristianstad", image: "/poi-images/sweden-kristianstad-cities-v2.webp"},
   {
     id: "sweden-landskrona-cities-v2",
     type: "city",
@@ -259,8 +247,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Citadela din Landskrona are unul dintre cele mai bine conservate sisteme de șanțuri din Europa", "Orașul operează singurul sistem de troleibuze din Suedia", "Ven este renumit pentru vestigiile observatorului lui Tycho Brahe", "A fost fondat în 1413 de regele danezo-suedez Erik al Pomeraniei"],
       en: ["Landskrona Citadel has one of Europe's best-preserved moat systems", "The city operates the only trolleybus system in Sweden", "Ven is famous for the remains of Tycho Brahe's observatory", "Founded in 1413 by the Danish-Swedish King Erik of Pomerania"],
     },
-    imageHint: "Landskrona Citadel with its surrounding moats",
-  },
+    imageHint: "Landskrona Citadel with its surrounding moats", image: "/poi-images/sweden-landskrona-cities-v2.webp"},
   {
     id: "sweden-motala-cities-v2",
     type: "city",
@@ -279,8 +266,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Este locul de start și sosire al Vätternrundan, cea mai mare cursă de ciclism de agrement din lume", "Găzduiește Motala Verkstad, odinioară una dintre cele mai importante companii industriale din Suedia", "Canalul Göta își are sediul aici și un sistem de ecluze impresionant", "A fost construit după planurile lui Baltzar von Platen cu un plan în formă de evantai"],
       en: ["Start and finish location for Vätternrundan, the world's largest recreational bicycle race", "Home to Motala Verkstad, once one of Sweden's most important industrial companies", "The Göta Canal has its headquarters here along with an impressive lock system", "Laid out in a fan-shaped plan according to Baltzar von Platen's designs"],
     },
-    imageHint: "Motala harbor and the Göta Canal entrance",
-  },
+    imageHint: "Motala harbor and the Göta Canal entrance", image: "/poi-images/sweden-motala-cities-v2.webp"},
   {
     id: "sweden-karlskrona-cities-v2",
     type: "city",
@@ -299,8 +285,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Este singura bază navală rămasă în Suedia", "Orașul se întinde pe 30 de insule din arhipelagul Blekinge", "Găzduiește Muzeul Naval Suedez cu o hală de submarine", "Fredrikskyrkan și Trefaldighetskyrkan sunt biserici baroce importante"],
       en: ["Sweden's only remaining naval base", "The city is spread over 30 islands in the Blekinge archipelago", "Home to the Swedish Naval Museum featuring a submarine hall", "Fredrikskyrkan and Trefaldighetskyrkan are significant Baroque churches"],
     },
-    imageHint: "Karlskrona naval port and baroque square",
-  },
+    imageHint: "Karlskrona naval port and baroque square", image: "/poi-images/sweden-karlskrona-cities-v2.webp"},
   {
     id: "sweden-uddevalla-cities-v2",
     type: "city",
@@ -319,8 +304,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Deține cele mai mari zăcăminte de bancuri de scoici din lume la Kuröd", "Podul Uddevalla este unul dintre cele mai lungi poduri suspendate pe cabluri din Suedia", "A fost istoric parte a Norvegiei înainte de a deveni suedez în 1658", "Stațiunea Gustafsberg este una dintre cele mai vechi stațiuni balneare din țară"],
       en: ["Features the world's largest shell bank deposits at Kuröd", "The Uddevalla Bridge is one of Sweden's longest cable-stayed bridges", "Historically part of Norway before becoming Swedish in 1658", "The Gustafsberg seaside resort is one of the oldest in the country"],
     },
-    imageHint: "The Uddevalla Bridge spanning the Byfjorden",
-  },
+    imageHint: "The Uddevalla Bridge spanning the Byfjorden", image: "/poi-images/sweden-uddevalla-cities-v2.webp"},
   {
     id: "sweden-varberg-cities-v2",
     type: "city",
@@ -339,8 +323,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Fortăreața Varberg găzduiește 'Omul de la Bocksten', o mumie din mlaștină din secolul al XIV-lea", "Baia rece (Kallbadhuset) este o clădire iconică din lemn în stil maur", "Stația de radio Grimeton din apropiere face parte din Patrimoniul Mondial UNESCO", "Apelviken din Varberg este considerat unul dintre cele mai bune locuri de windsurfing din Europa de Nord"],
       en: ["Varberg Fortress houses the 'Bocksten Man', a 14th-century bog body", "The Cold Bath House (Kallbadhuset) is an iconic Moorish-style wooden building", "The nearby Grimeton Radio Station is a UNESCO World Heritage site", "Apelviken in Varberg is considered one of North Europe's best windsurfing spots"],
     },
-    imageHint: "Varberg Cold Bath House and the Fortress",
-  },
+    imageHint: "Varberg Cold Bath House and the Fortress", image: "/poi-images/sweden-varberg-cities-v2.webp"},
   {
     id: "sweden-trelleborg-cities-v2",
     type: "city",
@@ -359,8 +342,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Cetatea vikingă Trelleborgen a fost reconstruită pe fundațiile originale din secolul al X-lea", "Deține unul dintre cele mai mari porturi Ro-Ro din Scandinavia", "Este renumit pentru aleea cu palmieri care oferă orașului un aer exotic vara", "Sediul Trelleborg AB, un grup global de produse din cauciuc"],
       en: ["The Trelleborgen Viking fortress was reconstructed on original 10th-century foundations", "Features one of the largest Ro-Ro ports in Scandinavia", "Famous for the palm tree avenue that gives the city an exotic feel in summer", "Headquarters of Trelleborg AB, a global rubber engineering group"],
     },
-    imageHint: "Reconstructed Viking fortress Trelleborgen",
-  },
+    imageHint: "Reconstructed Viking fortress Trelleborgen", image: "/poi-images/sweden-trelleborg-cities-v2.webp"},
   {
     id: "sweden-lidkoping-cities-v2",
     type: "city",
@@ -379,8 +361,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Găzduiește fabrica de porțelan Rörstrand, una dintre cele mai vechi din Europa", "Vechea primărie din piața centrală a fost inițial un pavilion de vânătoare", "Castelul Läckö este situat pe o peninsulă în lacul Vänern", "A fost fondat în 1446 ca primul oraș de pe lacul Vänern"],
       en: ["Home to the Rörstrand porcelain factory, one of the oldest in Europe", "The old town hall in the main square was originally a hunting lodge", "Läckö Castle is located on a peninsula in Lake Vänern", "Founded in 1446 as the first city on Lake Vänern"],
     },
-    imageHint: "Lidköping old town hall in the main square",
-  },
+    imageHint: "Lidköping old town hall in the main square", image: "/poi-images/sweden-lidkoping-cities-v2.webp"},
   {
     id: "sweden-enkoping-cities-v2",
     type: "town",
@@ -399,8 +380,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Deține peste 20 de parcuri tematice diferite în zona urbană", "Este considerat unul dintre cele mai vechi orașe din Suedia, cu rădăcini în secolul al XII-lea", "Este renumit pentru Drömparken (Parcul Viselor), proiectat de arhitectul Piet Oudolf", "Este promovat ca 'cel mai apropiat oraș din Suedia' datorită locației sale centrale"],
       en: ["Features over 20 different thematic parks within the city area", "Considered one of Sweden's oldest cities with roots back to the 12th century", "Famous for the Drömparken (Dream Park) designed by Piet Oudolf", "Marketed as 'Sweden's closest city' due to its central location"],
     },
-    imageHint: "Flower gardens in one of Enköping's many parks",
-  },
+    imageHint: "Flower gardens in one of Enköping's many parks", image: "/poi-images/sweden-enkoping-cities-v2.webp"},
   {
     id: "sweden-nykoping-cities-v2",
     type: "city",
@@ -419,8 +399,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Locul infamului 'Ospeț de la Nyköping' din anul 1317", "Nyköpingshus a fost odinioară una dintre cele mai puternice cetăți din Suedia", "Orașul este situat la gura de vărsare a râului Nyköpingsån în Marea Baltică", "A fost capitala ducatului Södermanland în secolul al XVI-lea"],
       en: ["Site of the infamous 'Nyköping Banquet' in 1317", "Nyköpingshus was once one of Sweden's most powerful fortresses", "The city is located at the mouth of the Nyköpingsån river into the Baltic Sea", "Was the capital of the Duchy of Södermanland in the 16th century"],
     },
-    imageHint: "Nyköpingshus fortress by the river",
-  },
+    imageHint: "Nyköpingshus fortress by the river", image: "/poi-images/sweden-nykoping-cities-v2.webp"},
   {
     id: "sweden-pitea-cities-v2",
     type: "city",
@@ -439,8 +418,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Cunoscut pentru Pite Havsbad, numită și 'Riviera Nordului'", "Fondat în 1621 și mutat în locația actuală în anul 1666", "Găzduiește una dintre cele mai mari fabrici de hârtie din Europa", "Este renumit pentru specialitatea culinară locală 'Pitepalt'"],
       en: ["Famous for Pite Havsbad, often called the 'Riviera of the North'", "Founded in 1621 and moved to its current location in 1666", "Home to one of the largest paper mills in Europe", "Famous for the local culinary specialty 'Pitepalt'"],
     },
-    imageHint: "Sandy beaches of Pite Havsbad in summer",
-  },
+    imageHint: "Sandy beaches of Pite Havsbad in summer", image: "/poi-images/sweden-pitea-cities-v2.webp"},
   {
     id: "sweden-skelleftea-cities-v2",
     type: "city",
@@ -459,8 +437,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Găzduiește Sara Kulturhus, una dintre cele mai înalte clădiri de lemn din lume", "Locația Northvolt, una dintre cele mai mari fabrici de baterii din Europa", "Bonnstan este o așezare parohială bine conservată din secolul al XVII-lea", "Adesea numit 'Orașul Aurului' datorită zăcămintelor bogate de aur din regiune"],
       en: ["Home to Sara Kulturhus, one of the world's tallest wooden buildings", "Site of Northvolt, one of Europe's largest battery factories", "Bonnstan is a well-preserved 17th-century parish village", "Often called the 'Gold Town' due to rich gold deposits in the region"],
     },
-    imageHint: "Modern wooden Sara Kulturhus building in Skellefteå",
-  },
+    imageHint: "Modern wooden Sara Kulturhus building in Skellefteå", image: "/poi-images/sweden-skelleftea-cities-v2.webp"},
   {
     id: "sweden-angelholm-cities-v2",
     type: "town",
@@ -479,8 +456,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Sediul producătorului suedez de mașini sport Koenigsegg", "Faimos pentru monumentul OZN din Ängelholm, situat în pădurea Kronoskogen", "Muzeul Căilor Ferate din oraș prezintă istoria feroviară suedeză", "Fondat în 1516 de regele danez Christian al II-lea"],
       en: ["Headquarters of the Swedish supercar manufacturer Koenigsegg", "Famous for the Ängelholm UFO monument in the Kronoskogen forest", "The city's Railway Museum showcases Swedish rail history", "Founded in 1516 by Danish King Christian II"],
     },
-    imageHint: "Koenigsegg factory or the sandy beach of Ängelholm",
-  },
+    imageHint: "Koenigsegg factory or the sandy beach of Ängelholm", image: "/poi-images/sweden-angelholm-cities-v2.webp"},
   {
     id: "sweden-katrineholm-cities-v2",
     type: "town",
@@ -499,8 +475,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["S-a format abia după construcția căii ferate în secolul al XIX-lea", "Este adesea numit 'orașul grădină'", "Este un centru pentru sportul suedez bandy", "Numit după conacul Cathrineholm"],
       en: ["Emerging only after the construction of the railway in the 19th century", "Often referred to as the 'Garden City'", "A center for the Swedish sport of bandy", "Named after the Cathrineholm manor house"],
     },
-    imageHint: "Katrineholm railway station and central area",
-  },
+    imageHint: "Katrineholm railway station and central area", image: "/poi-images/sweden-katrineholm-cities-v2.webp"},
   {
     id: "sweden-vastervik-cities-v2",
     type: "city",
@@ -519,8 +494,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Găzduiește festivalul anual de cântece din Västervik la ruinele castelului Stegeholm", "Arhipelagul cuprinde aproape 5.000 de insule", "Este cunoscut ca fiind una dintre cele mai bune zone pentru bouldering din Suedia", "A fost un important oraș cetate strategic în Evul Mediu"],
       en: ["Host of the annual Västervik Folk Song Festival at the Stegeholm castle ruins", "The archipelago consists of nearly 5,000 islands", "Known as one of the best areas for bouldering in Sweden", "Was an important strategic fortress city in the Middle Ages"],
     },
-    imageHint: "Stegeholm castle ruins in Västervik",
-  },
+    imageHint: "Stegeholm castle ruins in Västervik", image: "/poi-images/sweden-vastervik-cities-v2.webp"},
   {
     id: "sweden-karlshamn-cities-v2",
     type: "city",
@@ -539,8 +513,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Statuia 'Emigranții' de Axel Olsson comemorează migrația către America", "Găzduiește Muzeul Punsch într-o clădire de fabrică istorică", "Parcul Eriksberg Wildlife & Nature se află în apropiere", "Fondat în 1664 și numit după regele Carol al X-lea Gustav"],
       en: ["The 'Emigrants' statue by Axel Olsson commemorates the migration to America", "Home to the Punch Museum in a historic factory building", "The Eriksberg Wildlife & Nature Park is located nearby", "Founded in 1664 and named after King Karl X Gustav"],
     },
-    imageHint: "The Emigrants statue in Karlshamn harbor",
-  },
+    imageHint: "The Emigrants statue in Karlshamn harbor", image: "/poi-images/sweden-karlshamn-cities-v2.webp"},
   {
     id: "sweden-hudiksvall-cities-v2",
     type: "town",
@@ -559,8 +532,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Este adesea numit 'Glada Hudik' (Hudik cel Vesel)", "Depozitele roșii de pe malul apei sunt un simbol al orașului", "Fondat în 1582 de regele Ioan al III-lea", "Este o poartă către natura virgină a Coastei Înalte (Höga Kusten)"],
       en: ["Often referred to as 'Glada Hudik' (Happy Hudik)", "The red wooden warehouses by the water are a city landmark", "Founded in 1582 by King John III", "Gateway to the pristine nature of the High Coast (Höga Kusten)"],
     },
-    imageHint: "Red wooden warehouses along the Hudiksvall harbor",
-  },
+    imageHint: "Red wooden warehouses along the Hudiksvall harbor", image: "/poi-images/sweden-hudiksvall-cities-v2.webp"},
   {
     id: "sweden-varnamo-cities-v2",
     type: "town",
@@ -579,8 +551,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Muzeul Vandalorum a fost co-proiectat de arhitectul Renzo Piano", "Situat pe râul Lagan și în apropierea Parcului Național Store Mosse", "Are o tradiție puternică în fabricarea mobilei", "Numele înseamnă 'casa de lângă stăvilar'"],
       en: ["The Vandalorum museum was co-designed by architect Renzo Piano", "Located on the river Lagan and near the Store Mosse National Park", "Has a strong tradition in furniture manufacturing", "The name translates to 'house by the weir'"],
     },
-    imageHint: "Vandalorum art and design center in Värnamo",
-  },
+    imageHint: "Vandalorum art and design center in Värnamo", image: "/poi-images/sweden-varnamo-cities-v2.webp"},
   {
     id: "sweden-ystad-cities-v2",
     type: "city",
@@ -599,8 +570,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Deține peste 300 de case pe jumătate din lemn din Evul Mediu", "Mănăstirea din Ystad este una dintre cele mai bine conservate mănăstiri medievale din Suedia", "Ales Stenar, o impresionantă așezare de pietre în formă de navă, se află în apropiere", "Găzduiește Ystad Studios, unul dintre cele mai mari studiouri de film din Scandinavia"],
       en: ["Features over 300 medieval half-timbered houses", "Ystad Abbey is one of Sweden's best-preserved medieval monasteries", "Ales Stenar, an impressive megalithic ship setting, is located nearby", "Home to Ystad Studios, one of Scandinavia's largest film studios"],
     },
-    imageHint: "Half-timbered houses in a cobblestone alley in Ystad",
-  },
+    imageHint: "Half-timbered houses in a cobblestone alley in Ystad", image: "/poi-images/sweden-ystad-cities-v2.webp"},
   {
     id: "sweden-kristinehamn-cities-v2",
     type: "town",
@@ -619,8 +589,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Sculptura lui Picasso, înaltă de 15 metri, este una dintre cele mai înalte ale artistului din lume", "Numit după regina Christina în 1642", "Situat pe malul arhipelagului nordic al lacului Vänern", "A fost cel mai important port de export pentru fierul din regiunea Bergslagen"],
       en: ["The Picasso sculpture is one of the artist's tallest at 15 meters high", "Named after Queen Christina in 1642", "Located on the archipelago of northern Lake Vänern", "Was formerly the most important export port for iron from the Bergslagen region"],
     },
-    imageHint: "The giant Picasso sculpture at the shore of Lake Vänern",
-  },
+    imageHint: "The giant Picasso sculpture at the shore of Lake Vänern", image: "/poi-images/sweden-kristinehamn-cities-v2.webp"},
   {
     id: "sweden-harnosand-cities-v2",
     type: "city",
@@ -639,8 +608,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Găzduiește muzeul în aer liber Murberget, unul dintre cele mai mari din Suedia", "Catedrala din Härnösand este cea mai mică catedrală din Suedia", "A fost primul oraș din Europa cu iluminat public electric (1885)", "Situat la capătul sudic al Patrimoniului Mondial UNESCO Coasta Înaltă"],
       en: ["Home to the Murberget open-air museum, one of Sweden's largest", "Härnösand Cathedral is the smallest cathedral in Sweden", "Was the first city in Europe to have electric street lighting (1885)", "Located at the southern end of the High Coast UNESCO World Heritage site"],
     },
-    imageHint: "Härnösand Cathedral and the bridge to the island",
-  },
+    imageHint: "Härnösand Cathedral and the bridge to the island", image: "/poi-images/sweden-harnosand-cities-v2.webp"},
   {
     id: "sweden-ostersund-cities-v2",
     type: "city",
@@ -659,8 +627,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Este o locație obișnuită pentru Cupa Mondială de biatlon", "Găzduiește Jamtli, un muzeu regional premiat", "Legenda monstrului Storsjöodjuret este similară cu cea a lui Loch Ness", "A fost fondat în 1786 ca singurul oraș din Jämtland"],
       en: ["Regular host of the Biathlon World Cup", "Home to Jamtli, an award-winning regional museum", "The legend of the Storsjöodjuret monster is similar to Loch Ness", "Founded in 1786 as the only city in Jämtland"],
     },
-    imageHint: "Östersund skyline with Lake Storsjön in the foreground",
-  },
+    imageHint: "Östersund skyline with Lake Storsjön in the foreground", image: "/poi-images/sweden-ostersund-cities-v2.webp"},
   {
     id: "sweden-hassleholm-cities-v2",
     type: "town",
@@ -679,8 +646,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["S-a dezvoltat rapid după deschiderea liniei de cale ferată în 1860", "Găzduiește Muzeul Hässleholm pentru istorie militară și tehnică", "Casa de cultură este un loc de întâlnire modern în centrul orașului", "Muntele Hovdala din apropiere are un castel istoric"],
       en: ["Developed rapidly after the opening of the railway line in 1860", "Home to Hässleholm's Museum of military and technical history", "The Culture House is a modern meeting point in the city center", "Nearby Hovdala features a historic manor castle"],
     },
-    imageHint: "Hässleholm railway station area",
-  },
+    imageHint: "Hässleholm railway station area", image: "/poi-images/sweden-hassleholm-cities-v2.webp"},
   {
     id: "sweden-koping-cities-v2",
     type: "town",
@@ -699,8 +665,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Chimistul Carl Wilhelm Scheele și-a petrecut aici ultimii ani din viață", "A fost menționat în documente în 1474 ca loc de tranzacționare", "Găzduiește Muzeul Köping cu accent pe industrie și istorie", "Orașul are un port interior important pe lacul Mälaren"],
       en: ["Chemist Carl Wilhelm Scheele spent his final years of life here", "Documented as a trading place in 1474", "Home to the Köping Museum with a focus on industry and history", "The city has an important inland port on Lake Mälaren"],
     },
-    imageHint: "Köping harbor view or central museum",
-  },
+    imageHint: "Köping harbor view or central museum", image: "/poi-images/sweden-koping-cities-v2.webp"},
   {
     id: "sweden-oskarshamn-cities-v2",
     type: "city",
@@ -719,8 +684,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Găzduiește șantierul naval Oskarshamn, unul dintre cele mai mari din țară", "Portul este unul dintre cele mai adânci de pe coasta de est a Suediei", "A fost numit după regele Oscar I în 1856", "Insula Blå Jungfrun, un parc național, se află în strâmtoarea Kalmar în fața orașului"],
       en: ["Home to the Oskarshamn Shipyard, one of the country's largest", "The harbor is one of the deepest on the Swedish east coast", "Named after King Oscar I in 1856", "The island of Blå Jungfrun, a national park, is located in the Kalmar Strait offshore"],
     },
-    imageHint: "Ferry terminal in Oskarshamn with Gotland ferry",
-  },
+    imageHint: "Ferry terminal in Oskarshamn with Gotland ferry", image: "/poi-images/sweden-oskarshamn-cities-v2.webp"},
   {
     id: "sweden-mariestad-cities-v2",
     type: "town",
@@ -739,8 +703,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Domul din Mariestad este una dintre puținele biserici din Suedia construite după Reformă", "Fondat în 1583 de către ducele Carol", "Numit după soția sa, ducesa Maria de Palatinat", "Este considerat unul dintre cele mai bine conservate orașe din lemn din Suedia"],
       en: ["Mariestad Cathedral is one of the few churches in Sweden built after the Reformation", "Founded in 1583 by Duke Karl", "Named after his wife, Duchess Maria of the Palatinate", "Considered one of Sweden's best-preserved wooden towns"],
     },
-    imageHint: "Mariestad Cathedral near the lake shore",
-  },
+    imageHint: "Mariestad Cathedral near the lake shore", image: "/poi-images/sweden-mariestad-cities-v2.webp"},
   {
     id: "sweden-borlange-cities-v2",
     type: "city",
@@ -759,8 +722,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Găzduiește marea oțelărie SSAB", "Este cunoscut pentru fostul festival de muzică Peace & Love", "Sediul Administrației Suedeze de Transport (Trafikverket) se află aici", "A crescut rapid odată cu industrializarea de la sfârșitul secolului al XIX-lea"],
       en: ["Home to the large SSAB steelworks", "Famous for the former Peace & Love music festival", "Headquarters of the Swedish Transport Administration (Trafikverket)", "Grew rapidly with industrialization in the late 19th century"],
     },
-    imageHint: "SSAB steel plant or central square in Borlänge",
-  },
+    imageHint: "SSAB steel plant or central square in Borlänge", image: "/poi-images/sweden-borlange-cities-v2.webp"},
   {
     id: "sweden-sandviken-cities-v2",
     type: "town",
@@ -779,8 +741,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Sediul grupului global de inginerie Sandvik AB", "Cunoscut pentru clubul de bandy Sandvikens AIK", "Göransson Arena este o sală de evenimente importantă a orașului", "Fondat în secolul al XIX-lea ca așezare muncitorească pentru industria oțelului"],
       en: ["Headquarters of the global engineering group Sandvik AB", "Famous for the Sandvikens AIK bandy club", "Göransson Arena is a major event hall in the city", "Founded in the 19th century as a company town for the steel industry"],
     },
-    imageHint: "Göransson Arena in Sandviken",
-  },
+    imageHint: "Göransson Arena in Sandviken", image: "/poi-images/sweden-sandviken-cities-v2.webp"},
   {
     id: "sweden-falkenberg-cities-v2",
     type: "town",
@@ -799,8 +760,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Tullbron (Podul Vămii) din secolul al XVIII-lea este un simbol al orașului", "Situat la gura de vărsare a râului Ätran, bogat în somon", "Găzduiește berăria Falcon", "Este o destinație foarte populară pentru turiștii de vară din Suedia"],
       en: ["The 18th-century Tullbron (Toll Bridge) is a landmark of the city", "Located at the mouth of the salmon-rich Ätran river", "Home to the Falcon brewery", "A very popular destination for summer tourists in Sweden"],
     },
-    imageHint: "The historic Tullbron bridge in Falkenberg",
-  },
+    imageHint: "The historic Tullbron bridge in Falkenberg", image: "/poi-images/sweden-falkenberg-cities-v2.webp"},
   {
     id: "sweden-arvika-cities-v2",
     type: "town",
@@ -819,8 +779,7 @@ export const swedenCitiesV2: POI[] = [
       ro: ["Găzduiește Muzeul Rackstad, dedicat faimoasei colonii de artiști", "Este cunoscut pentru scena sa muzicală vibrantă", "Fabrica de vehicule Arvika este un angajator important în regiune", "A fost declarat oraș în anul 1911"],
       en: ["Home to the Rackstad Museum, dedicated to the famous artists' colony", "Known for its vibrant music scene", "The Arvika vehicle factory is a major employer in the region", "Granted city status in 1911"],
     },
-    imageHint: "Arvika city center by the lake",
-  },
+    imageHint: "Arvika city center by the lake", image: "/poi-images/sweden-arvika-cities-v2.webp"},
   {
     id: "sweden-tranas-cities-v2",
     type: "town",

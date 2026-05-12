@@ -19,8 +19,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Cea mai înaltă regiune a țării", "Relief puternic fragmentat prin eroziune", "Centrul silviculturii moldovenești", "Altitudine medie de peste 300 metri"],
       en: ["Highest region of the country", "Relief heavily fragmented by erosion", "Center of Moldovan forestry", "Average altitude over 300 meters"],
     },
-    imageHint: "Codru forest hills Moldova",
-  },
+    imageHint: "Codru forest hills Moldova", image: "/poi-images/moldova-codru-highlands-relief-v2.webp"},
   {
     id: "moldova-dniester-plateau-relief-v2",
     type: "landmark",
@@ -39,8 +38,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Formațiuni calcaroase dominante", "Maluri abrupte de-a lungul Nistrului", "Prezența a numeroase peșteri carstice", "Punctele maxime ating 350 metri"],
       en: ["Dominant limestone formations", "Steep banks along the Dniester", "Presence of numerous karst caves", "Maximum points reach 350 meters"],
     },
-    imageHint: "Dniester river cliffs Moldova",
-  },
+    imageHint: "Dniester river cliffs Moldova", image: "/poi-images/moldova-dniester-plateau-relief-v2.webp"},
   {
     id: "moldova-balti-steppe-relief-v2",
     type: "landmark",
@@ -59,8 +57,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Cea mai importantă regiune agricolă din nord", "Soluri cu grosime de până la 1,5 metri", "Altitudine medie de 150-200 metri", "Vegetație tipică de silvostepă"],
       en: ["Most important agricultural region in the north", "Soils up to 1.5 meters deep", "Average altitude of 150-200 meters", "Typical forest-steppe vegetation"],
     },
-    imageHint: "Balti steppe fields Moldova",
-  },
+    imageHint: "Balti steppe fields Moldova", image: "/poi-images/moldova-balti-steppe-relief-v2.webp"},
   {
     id: "moldova-south-moldavian-plain-relief-v2",
     type: "landmark",
@@ -79,8 +76,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Cea mai joasă regiune a Moldovei", "Intens utilizată în agricultură", "Cantități reduse de precipitații", "Compusă din văi fluviale largi"],
       en: ["Lowest region of Moldova", "Intensively used for agriculture", "Low annual precipitation", "Composed of wide river valleys"],
     },
-    imageHint: "South Moldavian plain landscape",
-  },
+    imageHint: "South Moldavian plain landscape", image: "/poi-images/moldova-south-moldavian-plain-relief-v2.webp"},
   {
     id: "moldova-magura-hill-relief-v2",
     type: "peak",
@@ -99,8 +95,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Altitudine de 389 metri", "Aspect de insulă peste câmpie", "Situri arheologice identificate aici", "Destinație populară pentru drumeții"],
       en: ["Altitude of 389 meters", "Island-like appearance over the plain", "Archaeological sites found here", "Popular destination for hiking"],
     },
-    imageHint: "Magura hill Moldova sunset",
-  },
+    imageHint: "Magura hill Moldova sunset", image: "/poi-images/moldova-magura-hill-relief-v2.webp"},
   {
     id: "moldova-hundred-hills-relief-v2",
     type: "landmark",
@@ -119,8 +114,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Origine disputată științific", "Peste 3.500 de movile inventariate", "Cea mai înaltă movilă are 30 metri", "Parte a rezervației 'Pădurea Domnească'"],
       en: ["Origin scientifically disputed", "Over 3,500 mounds inventoried", "Highest mound is 30 meters tall", "Part of 'Pădurea Domnească' reserve"],
     },
-    imageHint: "Suta de Movile hills Moldova",
-  },
+    imageHint: "Suta de Movile hills Moldova", image: "/poi-images/moldova-hundred-hills-relief-v2.webp"},
   {
     id: "moldova-prut-toltry-relief-v2",
     type: "landmark",
@@ -179,8 +173,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Cunoscută pentru pereții stâncoși", "Face parte din Toltrele Prutului", "Microclimat specific zonei", "Rezervație peisagistică importantă"],
       en: ["Known for its rocky walls", "Part of the Prut Toltry", "Specific local microclimate", "Important landscape reserve"],
     },
-    imageHint: "Fetesti cliffs Moldova landscape",
-  },
+    imageHint: "Fetesti cliffs Moldova landscape", image: "/poi-images/moldova-fetesti-switzerland-relief-v2.webp"},
   {
     id: "moldova-vaden-hill-relief-v2",
     type: "peak",
@@ -219,8 +212,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Așezare rupestră istorică", "Faleze calcaroase abrupte", "Lângă orașul Soroca", "Rezervație geologică protejată"],
       en: ["Historic rock settlement", "Steep limestone cliffs", "Near Soroca city", "Protected geological site"],
     },
-    imageHint: "Bechir ravine Soroca rock",
-  },
+    imageHint: "Bechir ravine Soroca rock", image: "/poi-images/moldova-bechir-ravine-relief-v2.webp"},
   {
     id: "moldova-raut-river-canyon-relief-v2",
     type: "valley",
@@ -239,8 +231,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Defileu adânc de peste 100 metri", "Arcade calcaroase fascinante", "Locația multor mănăstiri rupestre", "Parte a Parcului Național Orhei"],
       en: ["Over 100 meters deep canyon", "Fascinating limestone arches", "Site of many cave monasteries", "Part of Orhei National Park"],
     },
-    imageHint: "Orheiul Vechi Raut river canyon",
-  },
+    imageHint: "Orheiul Vechi Raut river canyon", image: "/poi-images/moldova-raut-river-canyon-relief-v2.webp"},
   {
     id: "moldova-saharna-ravines-relief-v2",
     type: "valley",
@@ -259,8 +250,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Include 22 de cascade", "Stânci abrupte de până la 160 m", "Mănăstire rupestră în versanți", "Centru important de pelerinaj"],
       en: ["Contains 22 waterfalls", "Steep rocks up to 160 meters", "Rock monastery in the slopes", "Significant pilgrimage center"],
     },
-    imageHint: "Saharna ravine waterfall Moldova",
-  },
+    imageHint: "Saharna ravine waterfall Moldova", image: "/poi-images/moldova-saharna-ravines-relief-v2.webp"},
   {
     id: "moldova-tipova-cliffs-relief-v2",
     type: "landmark",
@@ -279,8 +269,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Pereți verticali deasupra Nistrului", "Prezența a numeroase izvoare carstice", "Locația unor fortificații antice", "Rezervație peisagistică protejată"],
       en: ["Vertical walls above the Dniester", "Presence of numerous karst springs", "Site of ancient fortifications", "Protected landscape reserve"],
     },
-    imageHint: "Tipova cliffs Dniester river",
-  },
+    imageHint: "Tipova cliffs Dniester river", image: "/poi-images/moldova-tipova-cliffs-relief-v2.webp"},
   {
     id: "moldova-lapusna-hills-relief-v2",
     type: "landmark",
@@ -299,8 +288,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Dealuri cu înălțimi de până la 250 m", "Versanți terasați intens", "Parte a regiunii istorice Moldova", "Centru major al cultivării prunelor"],
       en: ["Hills up to 250 meters high", "Intensively terraced slopes", "Part of historical Moldova", "Center of plum cultivation"],
     },
-    imageHint: "Lapusna hills Moldova orchard",
-  },
+    imageHint: "Lapusna hills Moldova orchard", image: "/poi-images/moldova-lapusna-hills-relief-v2.webp"},
   {
     id: "moldova-cogalnic-plain-relief-v2",
     type: "landmark",
@@ -319,8 +307,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Stepă tipică din sudul Moldovei", "Soluri foarte fertile", "Acoperire forestieră redusă", "Relief mai plat decât în nord"],
       en: ["Typical southern Moldovan steppe", "Very fertile soils", "Low forest coverage", "Flatter relief than in the north"],
     },
-    imageHint: "Cogalnic plain steppe Moldova",
-  },
+    imageHint: "Cogalnic plain steppe Moldova", image: "/poi-images/moldova-cogalnic-plain-relief-v2.webp"},
   {
     id: "moldova-middle-prut-plain-relief-v2",
     type: "landmark",
@@ -339,8 +326,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Zonă umedă importantă", "Prezența multor lacuri și brațe vechi", "Dealuri modelate de eroziune", "Altitudini între 50 și 150 m"],
       en: ["Significant wetland area", "Presence of many lakes and oxbows", "Hills shaped by erosion", "Altitudes between 50 and 150 m"],
     },
-    imageHint: "Prut river valley plain Moldova",
-  },
+    imageHint: "Prut river valley plain Moldova", image: "/poi-images/moldova-middle-prut-plain-relief-v2.webp"},
   {
     id: "moldova-ialpug-valley-relief-v2",
     type: "valley",
@@ -359,8 +345,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Cel mai important sistem de drenaj din sud", "Centrul regiunii Găgăuzia", "Râul are debit redus pe timp de vară", "Lățimea văii atinge 5 kilometri"],
       en: ["Most important drainage system in the south", "Center of the Gagauzia region", "River has low flow in summer", "Valley width reaches 5 kilometers"],
     },
-    imageHint: "Ialpug valley landscape Gagausia",
-  },
+    imageHint: "Ialpug valley landscape Gagausia", image: "/poi-images/moldova-ialpug-valley-relief-v2.webp"},
   {
     id: "moldova-bic-river-valley-relief-v2",
     type: "valley",
@@ -379,8 +364,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Cea mai importantă axă de transport", "Centrul industriei moldovenești", "Versanți asimetrici caracteristici", "Debit redus al râului Bîc"],
       en: ["Most important transport axis", "Center of Moldovan industry", "Characteristic asymmetrical slopes", "Low water flow of the Bîc river"],
     },
-    imageHint: "Bic river valley Chisinau",
-  },
+    imageHint: "Bic river valley Chisinau", image: "/poi-images/moldova-bic-river-valley-relief-v2.webp"},
   {
     id: "moldova-ciuluc-hills-relief-v2",
     type: "landmark",
@@ -439,8 +423,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Peșteri cu vestigii din epoca de piatră", "Formațiune lungă de peste 2 km", "Face parte din toltrele Moldovei", "Popular printre alpiniști"],
       en: ["Caves with Stone Age findings", "Formation over 2 km long", "Part of the Moldovan Toltry", "Popular among rock climbers"],
     },
-    imageHint: "Butesti gorge Camenca river",
-  },
+    imageHint: "Butesti gorge Camenca river", image: "/poi-images/moldova-butesti-gorge-relief-v2.webp"},
   {
     id: "moldova-botna-valley-relief-v2",
     type: "valley",
@@ -459,8 +442,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Zona centrală a vinului moldovenesc", "Peisaj colinar domol", "Se varsă în râul Nistru", "Multe iazuri în cursul superior"],
       en: ["Heartland of Moldovan wine", "Gentle hilly landscape", "Flows into the Dniester", "Many reservoirs in the upper course"],
     },
-    imageHint: "Botna valley vineyards Moldova",
-  },
+    imageHint: "Botna valley vineyards Moldova", image: "/poi-images/moldova-botna-valley-relief-v2.webp"},
   {
     id: "moldova-lower-prut-plain-relief-v2",
     type: "landmark",
@@ -479,8 +461,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Cel mai jos punct al țării (2 m)", "Include cel mai mare lac (Beleū)", "Rezervație a Biosferei UNESCO", "Microclimat foarte umed"],
       en: ["Lowest point of the country (2 m)", "Includes the largest lake (Beleū)", "UNESCO Biosphere Reserve", "Very humid microclimate"],
     },
-    imageHint: "Lower Prut wetlands landscape",
-  },
+    imageHint: "Lower Prut wetlands landscape", image: "/poi-images/moldova-lower-prut-plain-relief-v2.webp"},
   {
     id: "moldova-northern-plateau-relief-v2",
     type: "landmark",
@@ -499,8 +480,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Soluri de cernoziom profunde", "Predominant teren arabil", "Traversat de afluenții Prutului", "Climat mai răcoros decât în sud"],
       en: ["Deep chernozem soils", "Predominantly arable land", "Traversed by Prut tributaries", "Cooler climate than in the south"],
     },
-    imageHint: "Northern Moldova plateau fields",
-  },
+    imageHint: "Northern Moldova plateau fields", image: "/poi-images/moldova-northern-plateau-relief-v2.webp"},
   {
     id: "moldova-nisporeni-hills-relief-v2",
     type: "peak",

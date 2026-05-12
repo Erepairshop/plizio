@@ -19,8 +19,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1421", "Al doilea oraș ca mărime din Moldova", "Important centru industrial", "Sediul Universității Alecu Russo"],
       en: ["Founded in 1421", "Second largest city in Moldova", "Major industrial center", "Home to the Alecu Russo University"],
     },
-    imageHint: "Aerial view of Balti central square and cathedral",
-  },
+    imageHint: "Aerial view of Balti central square and cathedral", image: "/poi-images/moldova-balti-cities-v2.webp"},
   {
     id: "moldova-bender-cities-v2",
     type: "city",
@@ -39,8 +38,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Deține o cetate otomană", "Menționat prima dată în 1408", "Important nod feroviar", "Situat în zona de securitate"],
       en: ["Features an Ottoman fortress", "First mentioned in 1408", "Important railway junction", "Located in the security zone"],
     },
-    imageHint: "Medieval Bender Fortress walls by the Dniester river",
-  },
+    imageHint: "Medieval Bender Fortress walls by the Dniester river", image: "/poi-images/moldova-bender-cities-v2.webp"},
   {
     id: "moldova-ribnita-cities-v2",
     type: "city",
@@ -59,8 +57,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1628", "Centru al industriei siderurgice", "Deține un teleferic distinctiv", "Catedrala Arhanghelul Mihail"],
       en: ["Founded in 1628", "Center of the steel industry", "Features a distinctive cable car", "Michael the Archangel Cathedral"],
     },
-    imageHint: "Industrial skyline of Ribnita with the Dniester river",
-  },
+    imageHint: "Industrial skyline of Ribnita with the Dniester river", image: "/poi-images/moldova-ribnita-cities-v2.webp"},
   {
     id: "moldova-cahul-cities-v2",
     type: "city",
@@ -79,8 +76,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Sediul universității de stat", "Cunoscut pentru apele minerale", "Punct de frontieră cu România", "Gazdă a festivalurilor folclorice"],
       en: ["Home to a state university", "Known for mineral waters", "Important border crossing to Romania", "Host of folklore festivals"],
     },
-    imageHint: "Cahul State University building facade",
-  },
+    imageHint: "Cahul State University building facade", image: "/poi-images/moldova-cahul-cities-v2.webp"},
   {
     id: "moldova-ungheni-cities-v2",
     type: "city",
@@ -99,8 +95,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Deține Podul Eiffel", "Centru al fabricării covoarelor", "Important nod feroviar", "Menționat prima dată în 1462"],
       en: ["Home to the Eiffel Bridge", "Center of carpet manufacturing", "Important railway hub", "First mentioned in 1462"],
     },
-    imageHint: "Eiffel Bridge over the Prut river in Ungheni",
-  },
+    imageHint: "Eiffel Bridge over the Prut river in Ungheni", image: "/poi-images/moldova-ungheni-cities-v2.webp"},
   {
     id: "moldova-soroca-cities-v2",
     type: "city",
@@ -119,8 +114,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Cetatea medievală Soroca", "Cunoscut pentru 'Dealul Țiganilor'", "Monumentul Lumânarea Recunoștinței", "Poziție strategică pe râu"],
       en: ["Medieval Soroca Fortress", "Known for the 'Gypsy Hill'", "Candle of Gratitude monument", "Strategic river location"],
     },
-    imageHint: "Circular stone fortress of Soroca by the river",
-  },
+    imageHint: "Circular stone fortress of Soroca by the river", image: "/poi-images/moldova-soroca-cities-v2.webp"},
   {
     id: "moldova-dubasari-cities-v2",
     type: "city",
@@ -139,8 +133,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Hidrocentrală importantă", "Lacul de acumulare Dubăsari", "Scenă în conflictul transnistrean", "Fondat în secolul al XVIII-lea"],
       en: ["Significant hydroelectric dam", "Large Dubăsari reservoir", "Site during the Transnistria conflict", "Founded in the 18th century"],
     },
-    imageHint: "Hydroelectric dam on the Dniester river in Dubasari",
-  },
+    imageHint: "Hydroelectric dam on the Dniester river in Dubasari", image: "/poi-images/moldova-dubasari-cities-v2.webp"},
   {
     id: "moldova-comrat-cities-v2",
     type: "capital",
@@ -159,8 +152,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Capitala Găgăuziei", "Sediul Universității din Comrat", "Limba găgăuză este oficială", "Catedrala Sfântul Ioan Botezătorul"],
       en: ["Capital of Gagauzia", "Home to Comrat State University", "Gagauz is an official language", "Cathedral of St. John the Baptist"],
     },
-    imageHint: "Main administrative building in Comrat with Gagauzia flag",
-  },
+    imageHint: "Main administrative building in Comrat with Gagauzia flag", image: "/poi-images/moldova-comrat-cities-v2.webp"},
   {
     id: "moldova-edinet-cities-v2",
     type: "city",
@@ -179,8 +171,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1431", "Faimos pentru Parcul Vasile Alecsandri", "Important centru agricol", "Comunitate evreiască istorică"],
       en: ["First mentioned in 1431", "Famous for Vasile Alecsandri Park", "Important agricultural center", "Historically significant Jewish community"],
     },
-    imageHint: "Green alleys of Vasile Alecsandri park in Edinet",
-  },
+    imageHint: "Green alleys of Vasile Alecsandri park in Edinet", image: "/poi-images/moldova-edinet-cities-v2.webp"},
   {
     id: "moldova-causeni-cities-v2",
     type: "city",
@@ -199,8 +190,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Biserica Adormirea Maicii Domnului", "Biserică construită semi-îngropat", "Fresce medievale valoroase", "Centru al viticulturii"],
       en: ["Assumption of Mary Church (18th c.)", "Church built below ground level", "Valuable medieval frescoes", "Center of viticulture"],
     },
-    imageHint: "The semi-underground Assumption of Mary church in Causeni",
-  },
+    imageHint: "The semi-underground Assumption of Mary church in Causeni", image: "/poi-images/moldova-causeni-cities-v2.webp"},
   {
     id: "moldova-taraclia-cities-v2",
     type: "city",
@@ -219,8 +209,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Centrul bulgarilor basarabeni", "Sediul Universității din Taraclia", "Populație majoritar bulgară", "Fondat în anul 1813"],
       en: ["Center of Bessarabian Bulgarians", "Home to Taraclia State University", "Majority Bulgarian population", "Founded in 1813"],
     },
-    imageHint: "Taraclia State University building decorated with Bulgarian motifs",
-  },
+    imageHint: "Taraclia State University building decorated with Bulgarian motifs", image: "/poi-images/moldova-taraclia-cities-v2.webp"},
   {
     id: "moldova-durlesti-cities-v2",
     type: "city",
@@ -239,8 +228,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Parte a municipiului Chișinău", "Important centru viticol", "Fondat în anul 1470", "Zonă rezidențială populară"],
       en: ["Part of Chișinău municipality", "Important wine production site", "Founded in 1470", "Popular residential area"],
     },
-    imageHint: "Suburban landscape of Durlesti with residential houses",
-  },
+    imageHint: "Suburban landscape of Durlesti with residential houses", image: "/poi-images/moldova-durlesti-cities-v2.webp"},
   {
     id: "moldova-falesti-cities-v2",
     type: "city",
@@ -259,8 +247,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1429", "Deține un muzeu de istorie locală", "Important nod feroviar", "Centru al industriei zahărului"],
       en: ["First mentioned in 1429", "Features a significant local museum", "Important railway junction", "Center of the sugar industry"],
     },
-    imageHint: "Street view of central Falesti with local administrative buildings",
-  },
+    imageHint: "Street view of central Falesti with local administrative buildings", image: "/poi-images/moldova-falesti-cities-v2.webp"},
   {
     id: "moldova-hincesti-cities-v2",
     type: "city",
@@ -279,8 +266,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Găzduiește Conacul Manuc Bei", "Fostul nume a fost Kotovsk", "Fondat în anul 1500", "Situat în valea Cogâlnicului"],
       en: ["Home to the Manuc Bei Manor", "Former name was Kotovsk", "Founded in 1500", "Located in the Cogâlnic valley"],
     },
-    imageHint: "The restored Manuc Bei Manor architecture in Hincesti",
-  },
+    imageHint: "The restored Manuc Bei Manor architecture in Hincesti", image: "/poi-images/moldova-hincesti-cities-v2.webp"},
   {
     id: "moldova-vulcanesti-cities-v2",
     type: "city",
@@ -299,8 +285,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Victorie asupra otomanilor în 1770", "Monumentul Bătăliei de la Cahul", "Cel mai sudic punct al Găgăuziei", "Important nod feroviar"],
       en: ["Victory over Ottomans in 1770", "Battle of Cahul Monument", "Southernmost point of Gagauzia", "Important railway junction"],
     },
-    imageHint: "Tall obelisk monument of the Battle of Cahul in Vulcanesti",
-  },
+    imageHint: "Tall obelisk monument of the Battle of Cahul in Vulcanesti", image: "/poi-images/moldova-vulcanesti-cities-v2.webp"},
   {
     id: "moldova-ceadir-lunga-cities-v2",
     type: "city",
@@ -319,8 +304,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1819", "Deține un aerodrom", "Cunoscut pentru creșterea cailor", "Important producător de vin"],
       en: ["Founded in 1819", "Features a small airfield", "Known for horse breeding", "Important wine producer"],
     },
-    imageHint: "Church of the Nativity of Christ in Ceadir-Lunga",
-  },
+    imageHint: "Church of the Nativity of Christ in Ceadir-Lunga", image: "/poi-images/moldova-ceadir-lunga-cities-v2.webp"},
   {
     id: "moldova-ialoveni-cities-v2",
     type: "city",
@@ -339,8 +323,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Cunoscutele beciuri Mileștii Mici", "Cea mai mare colecție de vinuri", "Menționat prima dată în 1502", "Centrul raionului Ialoveni"],
       en: ["Mileștii Mici wine cellars", "Largest wine collection in the world", "First mentioned in 1502", "Center of Ialoveni district"],
     },
-    imageHint: "Underground wine storage tunnels of Mileștii Mici",
-  },
+    imageHint: "Underground wine storage tunnels of Mileștii Mici", image: "/poi-images/moldova-ialoveni-cities-v2.webp"},
   {
     id: "moldova-singerei-cities-v2",
     type: "city",
@@ -359,8 +342,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1586", "Fostul nume a fost Lazovsk", "Zonă importantă de cereale", "Situat pe râul Ciuluc"],
       en: ["Founded in 1586", "Former name was Lazovsk", "Important cereal growing area", "Located on the Ciuluc river"],
     },
-    imageHint: "Main square of Singerei with local monument",
-  },
+    imageHint: "Main square of Singerei with local monument", image: "/poi-images/moldova-singerei-cities-v2.webp"},
   {
     id: "moldova-ocnita-cities-v2",
     type: "city",
@@ -379,8 +361,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Cel mai nordic oraș al țării", "Punct de trecere a frontierei", "Fondat în anul 1897", "Depou feroviar mare"],
       en: ["Northernmost city in the country", "Important border crossing", "Founded in 1897", "Large railway depot"],
     },
-    imageHint: "Ocnita railway station building architecture",
-  },
+    imageHint: "Ocnita railway station building architecture", image: "/poi-images/moldova-ocnita-cities-v2.webp"},
   {
     id: "moldova-briceni-cities-v2",
     type: "city",
@@ -399,8 +380,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1562", "Centru pomicol (mere)", "Poluare redusă a aerului", "Aproape de punctul triplex"],
       en: ["First mentioned in 1562", "Center of fruit growing (apples)", "Low air pollution levels", "Near the triple border point"],
     },
-    imageHint: "Apple orchards surrounding the town of Briceni",
-  },
+    imageHint: "Apple orchards surrounding the town of Briceni", image: "/poi-images/moldova-briceni-cities-v2.webp"},
   {
     id: "moldova-drochia-cities-v2",
     type: "city",
@@ -419,8 +399,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Catedrala Maicii Domnului", "Centru al producției de zahăr", "Menționat prima dată în 1777", "Important nod feroviar"],
       en: ["Cathedral of the Mother of God", "Center of sugar production", "First mentioned in 1777", "Important railway junction"],
     },
-    imageHint: "Modern Cathedral of the Mother of God in Drochia",
-  },
+    imageHint: "Modern Cathedral of the Mother of God in Drochia", image: "/poi-images/moldova-drochia-cities-v2.webp"},
   {
     id: "moldova-stefan-voda-cities-v2",
     type: "city",
@@ -439,8 +418,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fostul nume a fost Suvorov", "Centrul regiunii viticole Purcari", "Fondat în anul 1964", "Important punct agricol"],
       en: ["Former name was Suvorov", "Center of the Purcari wine region", "Founded in 1964", "Important agricultural site"],
     },
-    imageHint: "Purcari vineyards near Stefan Voda town",
-  },
+    imageHint: "Purcari vineyards near Stefan Voda town", image: "/poi-images/moldova-stefan-voda-cities-v2.webp"},
   {
     id: "moldova-rezina-cities-v2",
     type: "city",
@@ -459,8 +437,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Mare fabrică de ciment (Lafarge)", "Pod peste râul Nistru", "Menționat prima dată în 1495", "Aproape de Mănăstirea Saharna"],
       en: ["Large cement plant (Lafarge)", "Bridge over the Dniester river", "First mentioned in 1495", "Near the Saharna Monastery"],
     },
-    imageHint: "Lafarge cement factory towers in Rezina by the river",
-  },
+    imageHint: "Lafarge cement factory towers in Rezina by the river", image: "/poi-images/moldova-rezina-cities-v2.webp"},
   {
     id: "moldova-glodeni-cities-v2",
     type: "city",
@@ -479,8 +456,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Rezervația Pădurea Domnească", "Zonă cu zimbri în apropiere", "Menționat prima dată în 1673", "Centru al industriei zahărului"],
       en: ["Pădurea Domnească reserve", "European bison habitat nearby", "First mentioned in 1673", "Sugar industry hub"],
     },
-    imageHint: "European bison in the Padurea Domneasca reserve near Glodeni",
-  },
+    imageHint: "European bison in the Padurea Domneasca reserve near Glodeni", image: "/poi-images/moldova-glodeni-cities-v2.webp"},
   {
     id: "moldova-riscani-cities-v2",
     type: "city",
@@ -499,8 +475,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1602", "Centru al procesării laptelui", "Aproape de râul Prut", "Piață importantă de cereale"],
       en: ["Founded in 1602", "Center for dairy processing", "Near the Prut river", "Significant grain market"],
     },
-    imageHint: "Aerial view of Riscani town center and surrounding fields",
-  },
+    imageHint: "Aerial view of Riscani town center and surrounding fields", image: "/poi-images/moldova-riscani-cities-v2.webp"},
   {
     id: "moldova-cantemir-cities-v2",
     type: "city",
@@ -519,8 +494,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1973", "Numit după Dimitrie Cantemir", "Importantă fabrică de vin", "Situat la granița cu România"],
       en: ["Founded in 1973", "Named after Dimitrie Cantemir", "Significant winery located here", "Situated on the border with Romania"],
     },
-    imageHint: "Statue of Dimitrie Cantemir in the city center",
-  },
+    imageHint: "Statue of Dimitrie Cantemir in the city center", image: "/poi-images/moldova-cantemir-cities-v2.webp"},
   {
     id: "moldova-basarabeasca-cities-v2",
     type: "city",
@@ -539,8 +513,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1846", "Nod feroviar strategic", "Fostul nume a fost Romanovca", "Punct de frontieră cu Ucraina"],
       en: ["Founded in 1846", "Strategic railway junction", "Former name was Romanovca", "Border crossing point to Ukraine"],
     },
-    imageHint: "Railway depot and station in Basarabeasca",
-  },
+    imageHint: "Railway depot and station in Basarabeasca", image: "/poi-images/moldova-basarabeasca-cities-v2.webp"},
   {
     id: "moldova-cimislia-cities-v2",
     type: "city",
@@ -559,8 +532,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1620", "Piață importantă de vite", "Centru al țesutului covoarelor", "Intersecție rutieră majoră"],
       en: ["First mentioned in 1620", "Significant livestock market", "Carpet weaving center", "Major road intersection hub"],
     },
-    imageHint: "Traditional Moldovan carpets on display in Cimislia",
-  },
+    imageHint: "Traditional Moldovan carpets on display in Cimislia", image: "/poi-images/moldova-cimislia-cities-v2.webp"},
   {
     id: "moldova-leova-cities-v2",
     type: "city",
@@ -579,8 +551,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1489", "Port important pe Prut (istoric)", "Pod de frontieră spre România", "Importante mori de cereale"],
       en: ["First mentioned in 1489", "Important Prut port (historically)", "Border bridge to Romania", "Significant flour mills"],
     },
-    imageHint: "Prut river bridge connecting Leova to Romania",
-  },
+    imageHint: "Prut river bridge connecting Leova to Romania", image: "/poi-images/moldova-leova-cities-v2.webp"},
   {
     id: "moldova-nisporeni-cities-v2",
     type: "city",
@@ -599,8 +570,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Menționat prima dată în 1618", "Aproape de Mănăstirea Vărzărești", "Centru al producției de vin", "Cel mai înalt punct din Moldova e aproape"],
       en: ["First mentioned in 1618", "Near the Vărzărești Monastery", "Wine production center", "Highest point of Moldova is nearby"],
     },
-    imageHint: "Aerial view of Nisporeni town surrounded by hills",
-  },
+    imageHint: "Aerial view of Nisporeni town surrounded by hills", image: "/poi-images/moldova-nisporeni-cities-v2.webp"},
   {
     id: "moldova-grigoriopol-cities-v2",
     type: "city",
@@ -619,8 +589,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în 1792 pentru armeni", "Situat pe malul Nistrului", "Important centru agricol", "Deține o biserică armenească"],
       en: ["Founded in 1792 for Armenians", "Located on the Dniester river", "Important agricultural site", "Features an Armenian church"],
     },
-    imageHint: "Armenian church architecture in Grigoriopol",
-  },
+    imageHint: "Armenian church architecture in Grigoriopol", image: "/poi-images/moldova-grigoriopol-cities-v2.webp"},
   {
     id: "moldova-camenca-cities-v2",
     type: "city",
@@ -639,8 +608,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Importanta stațiune 'Nistru'", "Fondat în anul 1608", "Cel mai nordic oraș transnistrean", "Faimos pentru terasele de viță"],
       en: ["Significant 'Nistru' health resort", "Founded in 1608", "Northernmost Transnistrian city", "Famous for wine terraces"],
     },
-    imageHint: "Terraced vineyards on the hills of Camenca",
-  },
+    imageHint: "Terraced vineyards on the hills of Camenca", image: "/poi-images/moldova-camenca-cities-v2.webp"},
   {
     id: "moldova-slobozia-cities-v2",
     type: "city",
@@ -659,8 +627,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1769", "Centrul raionului Slobozia", "Importantă industrie de conserve", "Aproape de granița ucraineană"],
       en: ["Founded in 1769", "Center of the Slobozia district", "Significant canning industry", "Near the Ukrainian border"],
     },
-    imageHint: "Traditional stone church in Slobozia",
-  },
+    imageHint: "Traditional stone church in Slobozia", image: "/poi-images/moldova-slobozia-cities-v2.webp"},
   {
     id: "moldova-dnestrovsc-cities-v2",
     type: "city",
@@ -679,8 +646,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Sediul centralei Cuciurgan", "Fondat în anul 1961", "Cea mai mare centrală din regiune", "Zonă de agrement populară la lac"],
       en: ["Home to the Cuciurgan power plant", "Founded in 1961", "Largest power plant in the region", "Popular lakeside recreation area"],
     },
-    imageHint: "Tall chimneys of the Cuciurgan power plant in Dnestrovsc",
-  },
+    imageHint: "Tall chimneys of the Cuciurgan power plant in Dnestrovsc", image: "/poi-images/moldova-dnestrovsc-cities-v2.webp"},
   {
     id: "moldova-codru-cities-v2",
     type: "city",
@@ -699,8 +665,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Parte a municipiului Chișinău", "Centru de cercetare agricolă", "Fondat în anul 1977", "Amplasare deluroasă pitorească"],
       en: ["Part of Chișinău municipality", "Center for agricultural research", "Founded in 1977", "Picturesque hillside location"],
     },
-    imageHint: "Modern research laboratory building in Codru",
-  },
+    imageHint: "Modern research laboratory building in Codru", image: "/poi-images/moldova-codru-cities-v2.webp"},
   {
     id: "moldova-cricova-cities-v2",
     type: "city",
@@ -719,8 +684,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Orașul subteran al vinului", "Peste 120 km de tuneluri", "Colecția națională de vinuri", "Renumit pentru spumante"],
       en: ["Underground 'Wine City'", "Over 120 km of tunnels", "National wine collection", "Renowned for sparkling wine"],
     },
-    imageHint: "Underground street sign 'Cabernet' in Cricova wine cellars",
-  },
+    imageHint: "Underground street sign 'Cabernet' in Cricova wine cellars", image: "/poi-images/moldova-cricova-cities-v2.webp"},
   {
     id: "moldova-cupcini-cities-v2",
     type: "city",
@@ -739,8 +703,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Centru al industriei zahărului", "Menționat prima dată în 1431", "Important nod feroviar", "Fabrică mare de pâine"],
       en: ["Center of the sugar industry", "First mentioned in 1431", "Important railway junction", "Large commercial bakery"],
     },
-    imageHint: "Industrial sugar processing plant in Cupcini",
-  },
+    imageHint: "Industrial sugar processing plant in Cupcini", image: "/poi-images/moldova-cupcini-cities-v2.webp"},
   {
     id: "moldova-otaci-cities-v2",
     type: "city",
@@ -759,8 +722,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Punct strategic de frontieră", "Menționat prima dată în 1419", "Traversare importantă a Nistrului", "Comunitate romă semnificativă"],
       en: ["Strategic border crossing", "First mentioned in 1419", "Important Dniester crossing point", "Significant Roma community"],
     },
-    imageHint: "International bridge over the Dniester at Otaci border",
-  },
+    imageHint: "International bridge over the Dniester at Otaci border", image: "/poi-images/moldova-otaci-cities-v2.webp"},
   {
     id: "moldova-costesti-cities-v2",
     type: "city",
@@ -779,8 +741,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Hidrocentrala Stânca-Costești", "Al doilea lac de acumulare ca mărime", "Traversare importantă a Prutului", "Zonă piscicolă semnificativă"],
       en: ["Stânca-Costești Hydroelectric Plant", "Second largest reservoir in region", "Important Prut crossing point", "Significant fishing area"],
     },
-    imageHint: "Large dam and hydroelectric plant of Stanca-Costesti",
-  },
+    imageHint: "Large dam and hydroelectric plant of Stanca-Costesti", image: "/poi-images/moldova-costesti-cities-v2.webp"},
   {
     id: "moldova-biruinta-cities-v2",
     type: "city",
@@ -799,8 +760,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1963", "Centru al industriei zahărului", "Situat aproape de Bălți", "Așezare planificată industrial"],
       en: ["Founded in 1963", "Sugar industry center", "Located near the city of Bălți", "Planned industrial settlement"],
     },
-    imageHint: "Typical mid-20th century industrial town architecture in Biruinta",
-  },
+    imageHint: "Typical mid-20th century industrial town architecture in Biruinta", image: "/poi-images/moldova-biruinta-cities-v2.webp"},
   {
     id: "moldova-cornesti-cities-v2",
     type: "city",
@@ -819,8 +779,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Nod feroviar important", "Menționat prima dată în 1437", "Situat în zona Codrilor", "Centru pentru silvicultură"],
       en: ["Important railway junction", "First mentioned in 1437", "Located in the Codru forest area", "Center for forestry"],
     },
-    imageHint: "Railway tracks passing through the forested hills near Cornesti",
-  },
+    imageHint: "Railway tracks passing through the forested hills near Cornesti", image: "/poi-images/moldova-cornesti-cities-v2.webp"},
   {
     id: "moldova-crasnoe-cities-v2",
     type: "city",
@@ -839,8 +798,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1957", "Fabrică importantă de conserve", "Situat în valea Nistrului", "Populație majoritar rusofonă"],
       en: ["Founded in 1957", "Significant canning factory", "Located in the Dniester valley", "Predominantly Russian-speaking"],
     },
-    imageHint: "Food processing factory exterior in Crasnoe",
-  },
+    imageHint: "Food processing factory exterior in Crasnoe", image: "/poi-images/moldova-crasnoe-cities-v2.webp"},
   {
     id: "moldova-frunza-cities-v2",
     type: "city",
@@ -859,8 +817,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1969", "Centru de procesare a zahărului", "Numit după Mihail Frunze", "Aproape de granița ucraineană"],
       en: ["Founded in 1969", "Sugar processing center", "Named after Mikhail Frunze", "Near the Ukrainian border"],
     },
-    imageHint: "Soviet-style cultural center building in Frunza",
-  },
+    imageHint: "Soviet-style cultural center building in Frunza", image: "/poi-images/moldova-frunza-cities-v2.webp"},
   {
     id: "moldova-ghindesti-cities-v2",
     type: "city",
@@ -879,8 +836,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fabrică mare de zahăr", "Menționat prima dată în 1641", "Situat pe râul Răut", "Stație importantă de încărcare"],
       en: ["Large sugar factory", "First mentioned in 1641", "Located on the Răut river", "Important loading railway station"],
     },
-    imageHint: "Răut river flowing through the town of Ghindesti",
-  },
+    imageHint: "Răut river flowing through the town of Ghindesti", image: "/poi-images/moldova-ghindesti-cities-v2.webp"},
   {
     id: "moldova-iargara-cities-v2",
     type: "city",
@@ -899,8 +855,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Nod feroviar semnificativ", "Menționat prima dată în 1817", "Silozuri de cereale importante", "Aproape de câmpia Prutului"],
       en: ["Significant railway junction", "First mentioned in 1817", "Important grain elevators", "Near the Prut plain"],
     },
-    imageHint: "Large grain silos near the Iargara railway tracks",
-  },
+    imageHint: "Large grain silos near the Iargara railway tracks", image: "/poi-images/moldova-iargara-cities-v2.webp"},
   {
     id: "moldova-maiac-cities-v2",
     type: "city",
@@ -919,8 +874,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Sediul centrului radio Maiac", "Fondat în anul 1968", "Instalații mari de antene", "Aproape de granița ucraineană"],
       en: ["Home to the Maiac radio center", "Founded in 1968", "Massive transmission antennas", "Near the Ukrainian border"],
     },
-    imageHint: "Forest of tall radio transmission masts in Maiac",
-  },
+    imageHint: "Forest of tall radio transmission masts in Maiac", image: "/poi-images/moldova-maiac-cities-v2.webp"},
   {
     id: "moldova-marculesti-cities-v2",
     type: "city",
@@ -939,8 +893,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Aeroportul Internațional Mărculești", "Menționat prima dată în 1552", "Fost aerodrom militar", "Punct logistic important"],
       en: ["Mărculești International Airport", "First mentioned in 1552", "Former military airbase", "Important logistics hub"],
     },
-    imageHint: "Main runway and terminal of Marculesti Airport",
-  },
+    imageHint: "Main runway and terminal of Marculesti Airport", image: "/poi-images/moldova-marculesti-cities-v2.webp"},
   {
     id: "moldova-lipcani-cities-v2",
     type: "city",
@@ -959,8 +912,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Poziție la punctul triplex", "Menționat prima dată în 1429", "Traversare importantă a Prutului", "Fost ștetl evreiesc istoric"],
       en: ["Triple border location", "First mentioned in 1429", "Important Prut crossing point", "Historical Jewish shtetl"],
     },
-    imageHint: "Prut river views near the border town of Lipcani",
-  },
+    imageHint: "Prut river views near the border town of Lipcani", image: "/poi-images/moldova-lipcani-cities-v2.webp"},
   {
     id: "moldova-bucovat-cities-v2",
     type: "city",
@@ -979,8 +931,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1420", "Situat pe râul Bîc", "Centru al industriei de conserve", "Cuibărit în dealurile Codrilor"],
       en: ["Founded in 1420", "Located on the Bîc river", "Canning industry center", "Nestled in the Codru hills"],
     },
-    imageHint: "Bucovat town surrounded by green Codru forests",
-  },
+    imageHint: "Bucovat town surrounded by green Codru forests", image: "/poi-images/moldova-bucovat-cities-v2.webp"},
   {
     id: "moldova-tvardita-cities-v2",
     type: "city",
@@ -999,8 +950,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1830", "Sediul vinăriei Tvardița", "Tradiții culturale bulgare", "Statut de oraș din 2013"],
       en: ["Founded in 1830", "Home to Tvardița winery", "Bulgarian cultural traditions", "City status since 2013"],
     },
-    imageHint: "Bulgarian orthodox church architecture in Tvardita",
-  },
+    imageHint: "Bulgarian orthodox church architecture in Tvardita", image: "/poi-images/moldova-tvardita-cities-v2.webp"},
   {
     id: "moldova-vadul-lui-voda-cities-v2",
     type: "city",

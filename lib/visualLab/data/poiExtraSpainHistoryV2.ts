@@ -19,8 +19,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Inițial o așezare iberică numită Arse", "Zidurile fortăreței se întind pe aproape un kilometru", "Conține ruinele unui forum roman și ale unor temple", "Declarat monument național în anul 1931"],
       en: ["Originally an Iberian settlement known as Arse", "The fortress walls extend for nearly one kilometer", "Contains ruins of a Roman forum and several temples", "Declared a National Monument in 1931"],
     },
-    imageHint: "Ancient ruins of Sagunto Castle walls and Roman forum",
-  },
+    imageHint: "Ancient ruins of Sagunto Castle walls and Roman forum", image: "/poi-images/spain-sagunto-ruins-history-v2.webp"},
   {
     id: "spain-numancia-ruins-history-v2",
     type: "ruins",
@@ -39,8 +38,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Distrus de Scipio Aemilianus după un asediu de opt luni", "Locuitorii au ales sinuciderea colectivă în loc de sclavie", "Situl prezintă două orașe suprapuse: celtiber și roman", "Situat pe dealul Muela de Garray, lângă Soria"],
       en: ["Destroyed by Scipio Aemilianus after an eight-month siege", "Inhabitants chose collective suicide over Roman slavery", "The site shows two superimposed cities: Celtiberian and Roman", "Located on the Muela de Garray hill near Soria"],
     },
-    imageHint: "Archaeological site of Numantia ruins on a hill",
-  },
+    imageHint: "Archaeological site of Numantia ruins on a hill", image: "/poi-images/spain-numancia-ruins-history-v2.webp"},
   {
     id: "spain-italica-ruins-history-v2",
     type: "ruins",
@@ -59,8 +57,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Fondat în 206 î.Hr. de către Publius Cornelius Scipio", "Amfiteatrul avea o capacitate de până la 25.000 de spectatori", "Păstrează podele splendide cu mozaic în casele aristocratice", "A servit ca locație de filmare pentru serialul Game of Thrones"],
       en: ["Founded in 206 BC by Publius Cornelius Scipio", "The amphitheater could hold up to 25,000 spectators", "Features splendid mosaic floors in aristocratic villas", "Used as a filming location for Game of Thrones"],
     },
-    imageHint: "Roman amphitheater ruins of Italica near Seville",
-  },
+    imageHint: "Roman amphitheater ruins of Italica near Seville", image: "/poi-images/spain-italica-ruins-history-v2.webp"},
   {
     id: "spain-merida-theatre-history-v2",
     type: "ruins",
@@ -79,8 +76,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Inaugurat între anii 16 și 15 î.Hr. de către Agrippa", "Peretele scenei (Scaenae frons) are două rânduri de coloane", "Parte a Patrimoniului Mondial UNESCO Ansamblul Mérida", "A fost îngropat aproape complet sub pământ timp de secole"],
       en: ["Inaugurated between 16 and 15 BC by Agrippa", "The stage wall (Scaenae frons) features two tiers of columns", "Part of the UNESCO World Heritage Archaeological Ensemble of Mérida", "Was buried almost completely underground for centuries"],
     },
-    imageHint: "The Scaenae frons of the Roman Theatre in Merida",
-  },
+    imageHint: "The Scaenae frons of the Roman Theatre in Merida", image: "/poi-images/spain-merida-theatre-history-v2.webp"},
   {
     id: "spain-tarraco-amphitheatre-history-v2",
     type: "ruins",
@@ -99,8 +95,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Construit în secolul al II-lea d.Hr. pentru 14.000 de spectatori", "Locul martiriului Sfântului Fructuosus în anul 259", "Conține ruinele unei basilici vizigote în interiorul arenei", "Parte din Patrimoniul Mondial UNESCO Ansamblul Tarraco"],
       en: ["Built in the 2nd century AD for 14,000 spectators", "Site of the martyrdom of Saint Fructuosus in 259 AD", "Contains ruins of a Visigothic basilica inside the arena", "Part of the UNESCO World Heritage Roman ruins of Tarraco"],
     },
-    imageHint: "Roman amphitheater of Tarragona by the sea",
-  },
+    imageHint: "Roman amphitheater of Tarragona by the sea", image: "/poi-images/spain-tarraco-amphitheatre-history-v2.webp"},
   {
     id: "spain-medina-azahara-ruins-history-v2",
     type: "ruins",
@@ -119,8 +114,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Construit de Abd ar-Rahman al III-lea începând cu 936", "A fost distrus la doar 74 de ani de la fondare", "Renumit pentru somptuoasa Sală a Ambasadorilor (Salón Rico)", "Patrimoniu Mondial UNESCO din anul 2018"],
       en: ["Built by Abd ar-Rahman III starting in 936 AD", "Destroyed only 74 years after its foundation", "Famous for the ornate Hall of Ambassadors (Salón Rico)", "UNESCO World Heritage site since 2018"],
     },
-    imageHint: "Archaeological ruins of Medina Azahara palace halls",
-  },
+    imageHint: "Archaeological ruins of Medina Azahara palace halls", image: "/poi-images/spain-medina-azahara-ruins-history-v2.webp"},
   {
     id: "spain-alcazar-segovia-history-v2",
     type: "castle",
@@ -139,8 +133,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["A servit drept inspirație pentru castelul Cenușăreasa al lui Disney", "A fost închisoare de stat și sediul Școlii Regale de Artilerie", "Aici Isabela I a fost proclamată regină a Castiliei", "Are un turn distinctiv numit Turnul lui Ioan al II-lea"],
       en: ["Inspiration for Walt Disney's Cinderella Castle", "Served as a state prison and Royal Artillery School", "Isabella I was proclaimed Queen of Castile here", "Features a prominent tower named after John II"],
     },
-    imageHint: "The fairytale-like Alcazar of Segovia on a rocky outcrop",
-  },
+    imageHint: "The fairytale-like Alcazar of Segovia on a rocky outcrop", image: "/poi-images/spain-alcazar-segovia-history-v2.webp"},
   {
     id: "spain-el-escorial-palace-history-v2",
     type: "palace",
@@ -159,8 +152,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Construit în stilul auster herrerian în secolul al XVI-lea", "Găzduiește Panteonul Regilor cu mormintele aproape tuturor monarhilor", "Biblioteca conține peste 40.000 de volume istorice", "Planul clădirii ar simboliza grătarul Sfântului Laurențiu"],
       en: ["Built in the austere Herrerian style in the 16th century", "Houses the Pantheon of the Kings with tombs of nearly all monarchs", "The library contains over 40,000 historic volumes", "The floor plan is said to represent Saint Lawrence's gridiron"],
     },
-    imageHint: "The massive grid-shaped building of El Escorial",
-  },
+    imageHint: "The massive grid-shaped building of El Escorial", image: "/poi-images/spain-el-escorial-palace-history-v2.webp"},
   {
     id: "spain-royal-palace-madrid-history-v2",
     type: "palace",
@@ -179,8 +171,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Cel mai mare palat regal din Europa de Vest după suprafață", "Construit pe locul vechiului Alcázar, ars în 1734", "Găzduiește singura colecție completă de cvartet Stradivarius din lume", "Deține o importantă Armurărie Regală (Armería Real)"],
       en: ["Largest royal palace in Western Europe by floor area", "Built on the site of the old Alcázar which burned down in 1734", "Houses the world's only complete Stradivarius string quartet", "Contains an important Royal Armoury (Armería Real)"],
     },
-    imageHint: "Exterior facade of the Royal Palace of Madrid",
-  },
+    imageHint: "Exterior facade of the Royal Palace of Madrid", image: "/poi-images/spain-royal-palace-madrid-history-v2.webp"},
   {
     id: "spain-valley-fallen-monument-history-v2",
     type: "monument",
@@ -199,8 +190,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Este dominat de o cruce de piatră înaltă de 150 de metri", "Basilica a fost săpată direct în stânca muntelui", "Peste 33.000 de morți din ambele tabere sunt îngropați aici", "Rămășițele lui Franco au fost exhumate și mutate în 2019"],
       en: ["Dominated by a 150-meter-high stone cross", "The basilica is carved directly into the granite rock", "Over 33,000 victims from both sides are buried here", "Franco's remains were exhumed and moved to a cemetery in 2019"],
     },
-    imageHint: "The giant stone cross of the Valley of the Fallen monument",
-  },
+    imageHint: "The giant stone cross of the Valley of the Fallen monument", image: "/poi-images/spain-valley-fallen-monument-history-v2.webp"},
   {
     id: "spain-belchite-ruins-history-v2",
     type: "ruins",
@@ -219,8 +209,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Locul unei bătălii sângeroase în anul 1937", "Franco a ordonat ca orașul să nu fie reconstruit, ca simbol al victoriei", "Ruinele bisericilor și caselor prezintă încă urme de gloanțe", "Folosit frecvent ca locație pentru filme precum 'Labirintul lui Pan'"],
       en: ["Site of a bloody battle in 1937", "Franco ordered the town not to be rebuilt as a symbol of his victory", "Ruins of churches and houses still show bullet holes", "Frequently used as a filming location, including for 'Pan's Labyrinth'"],
     },
-    imageHint: "Skeletal ruins of a church in the ghost town of Belchite",
-  },
+    imageHint: "Skeletal ruins of a church in the ghost town of Belchite", image: "/poi-images/spain-belchite-ruins-history-v2.webp"},
   {
     id: "spain-castle-loarre-history-v2",
     type: "castle",
@@ -239,8 +228,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Fondat de regele Sancho Garcés al III-lea ca fortăreață de frontieră", "Conține o biserică romanică remarcabilă în interior", "Zidurile sunt adaptate formei neregulate a stâncii", "A fost principala locație de filmare pentru 'Kingdom of Heaven'"],
       en: ["Founded by King Sancho Garcés III as a frontier fortress", "Features a remarkable Romanesque church inside the compound", "The walls are adapted to the irregular shape of the rock outcrop", "Served as the primary filming location for 'Kingdom of Heaven'"],
     },
-    imageHint: "Romanesque Castle of Loarre on a mountain ridge",
-  },
+    imageHint: "Romanesque Castle of Loarre on a mountain ridge", image: "/poi-images/spain-castle-loarre-history-v2.webp"},
   {
     id: "spain-battle-bailen-history-v2",
     type: "battlefield",
@@ -259,8 +247,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Trupele spaniole au fost conduse de generalul Castaños", "Aproximativ 18.000 de soldați francezi sub Dupont au capitulat", "Victoria a spulberat mitul invincibilității lui Napoleon", "Un monument din sat comemorează astăzi acest eveniment istoric"],
       en: ["Spanish forces were led by General Francisco Javier Castaños", "Around 18,000 French soldiers under General Dupont surrendered", "The victory shattered the myth of Napoleonic invincibility", "A monument in the town now commemorates the historic event"],
     },
-    imageHint: "Monument commemorating the Battle of Bailen",
-  },
+    imageHint: "Monument commemorating the Battle of Bailen", image: "/poi-images/spain-battle-bailen-history-v2.webp"},
   {
     id: "spain-battle-las-navas-tolosa-history-v2",
     type: "battlefield",
@@ -279,8 +266,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Condusă de regii Castiliei, Aragonului și Navarrei", "A marcat începutul colapsului stăpânirii maure în Spania", "Un muzeu aflat la trecătoarea Despeñaperros expune vestigii", "Victoria este considerată un punct de cotitură în istoria Spaniei"],
       en: ["Led by the Kings of Castile, Aragon, and Navarre", "Marked the beginning of the collapse of Moorish rule", "A museum at the Despeñaperros pass exhibits battle artifacts", "The victory is celebrated as a major turning point in Spanish history"],
     },
-    imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
-  },
+    imageHint: "Landscape of Las Navas de Tolosa with battle memorial", image: "/poi-images/spain-battle-las-navas-tolosa-history-v2.webp"},
   {
     id: "spain-battle-brunete-history-v2",
     type: "battlefield",
@@ -299,8 +285,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Implicarea Brigăzilor Internaționale de partea republicană", "Bătălia a cauzat aproximativ 40.000 de victime în total", "S-a desfășurat în condiții de căldură extremă de peste 40 grade", "A fost marcată de utilizarea masivă a aviației și tancurilor"],
       en: ["Involved International Brigades fighting on the Republican side", "The battle resulted in an estimated 40,000 casualties", "Fought during a heatwave with temperatures exceeding 40°C", "Characterized by massive use of aircraft and tanks"],
     },
-    imageHint: "Memorial plaque at the site of the Battle of Brunete",
-  },
+    imageHint: "Memorial plaque at the site of the Battle of Brunete", image: "/poi-images/spain-battle-brunete-history-v2.webp"},
   {
     id: "spain-dolmens-antequera-history-v2",
     type: "ruins",
@@ -319,8 +304,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Dolmenul Menga este unul dintre cele mai mari din Europa", "Menga este orientat spre muntele Peña de los Enamorados", "Construite acum aproximativ 5.000 până la 6.500 de ani", "Patrimoniu Mondial UNESCO din anul 2016"],
       en: ["The Menga dolmen is one of the largest such structures in Europe", "Menga is oriented towards the Peña de los Enamorados mountain", "Built approximately 5,000 to 6,500 years ago", "UNESCO World Heritage site since 2016"],
     },
-    imageHint: "Entrance to the prehistoric Menga dolmen in Antequera",
-  },
+    imageHint: "Entrance to the prehistoric Menga dolmen in Antequera", image: "/poi-images/spain-dolmens-antequera-history-v2.webp"},
   {
     id: "spain-altamira-cave-history-v2",
     type: "ruins",
@@ -339,8 +323,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Deseori numită 'Capela Sixtină a preistoriei'", "Picturile au o vechime de aproximativ 14.000 până la 35.000 de ani", "Peștera originală este închisă publicului pentru protecție", "O replică exactă (Neocueva) poate fi vizitată la muzeu"],
       en: ["Often called the 'Sistine Chapel of Prehistoric Art'", "The paintings are approximately 14,000 to 35,000 years old", "The original cave is closed to the public to preserve the art", "An exact replica (Neocueva) can be visited in the nearby museum"],
     },
-    imageHint: "Famous bison cave painting from Altamira",
-  },
+    imageHint: "Famous bison cave painting from Altamira", image: "/poi-images/spain-altamira-cave-history-v2.webp"},
   {
     id: "spain-atapuerca-site-history-v2",
     type: "landmark",
@@ -359,8 +342,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Locul descoperirii speciei Homo antecessor", "Cele mai vechi fosile au o vechime de peste un milion de ani", "Sima de los Huesos conține mii de oase umane antice", "Patrimoniu Mondial UNESCO din anul 2000"],
       en: ["Discovery site of the hominid species Homo antecessor", "The oldest fossils date back over one million years", "The Sima de los Huesos site contains thousands of human bones", "UNESCO World Heritage site since 2000"],
     },
-    imageHint: "Archaeological excavation site at the Gran Dolina in Atapuerca",
-  },
+    imageHint: "Archaeological excavation site at the Gran Dolina in Atapuerca", image: "/poi-images/spain-atapuerca-site-history-v2.webp"},
   {
     id: "spain-lugo-walls-ruins-history-v2",
     type: "ruins",
@@ -379,8 +361,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Construite la sfârșitul secolului al III-lea pentru apărare", "Zidul are o lungime de peste 2 kilometri și 71 de turnuri", "Partea superioară a zidului este o cale pietonală continuă", "Patrimoniu Mondial UNESCO din noiembrie 2000"],
       en: ["Built in the late 3rd century to defend Lucus Augusti", "The perimeter is over 2 kilometers long with 71 towers", "The top of the wall is a continuous pedestrian walkway", "UNESCO World Heritage site since November 2000"],
     },
-    imageHint: "Intact Roman city walls of Lugo with watchtowers",
-  },
+    imageHint: "Intact Roman city walls of Lugo with watchtowers", image: "/poi-images/spain-lugo-walls-ruins-history-v2.webp"},
   {
     id: "spain-tower-hercules-landmark-history-v2",
     type: "tower",
@@ -399,8 +380,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Construit în secolul I d.Hr. de Gaius Sevius Lupus", "A fost restaurat în stil neoclasic în secolul al XVIII-lea", "Turnul are 55 de metri înălțime și domină Atlanticul", "Patrimoniu Mondial UNESCO din anul 2009"],
       en: ["Built in the 1st century AD by Gaius Sevius Lupus", "Was given a neoclassical facade in the 18th century", "The tower stands 55 meters tall overlooking the Atlantic", "UNESCO World Heritage site since 2009"],
     },
-    imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
-  },
+    imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna", image: "/poi-images/spain-tower-hercules-landmark-history-v2.webp"},
   {
     id: "spain-palace-olite-history-v2",
     type: "palace",
@@ -419,8 +399,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Extins în secolul al XV-lea sub Carol al III-lea", "A fost considerat unul dintre cele mai luxoase palate europene", "Are o structură de răcire a gheții în formă de ou uriaș", "Restaurat în secolul XX după un incendiu grav în 1813"],
       en: ["Expanded in the 15th century under Charles III", "Was considered one of the most luxurious palaces in Europe", "Features a distinctive giant egg-shaped ice chamber", "Restored in the 20th century after a massive fire in 1813"],
     },
-    imageHint: "The ornate towers of the Palace of Olite",
-  },
+    imageHint: "The ornate towers of the Palace of Olite", image: "/poi-images/spain-palace-olite-history-v2.webp"},
   {
     id: "spain-poblet-monastery-history-v2",
     type: "landmark",
@@ -439,8 +418,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Fondată în 1151 de către Ramon Berenguer al IV-lea", "Găzduiește mormintele somptuoase ale lui Iacob I și Petru al IV-lea", "Una dintre cele mai mari mănăstiri cisterciene locuite din lume", "Patrimoniu Mondial UNESCO din anul 1991"],
       en: ["Founded in 1151 by Ramon Berenguer IV", "Houses the ornate tombs of James I and Peter IV", "One of the largest inhabited Cistercian monasteries in the world", "UNESCO World Heritage site since 1991"],
     },
-    imageHint: "The fortified walls and church of Poblet Monastery",
-  },
+    imageHint: "The fortified walls and church of Poblet Monastery", image: "/poi-images/spain-poblet-monastery-history-v2.webp"},
   {
     id: "spain-yuste-monastery-history-v2",
     type: "landmark",
@@ -459,8 +437,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Compusă din două părți: mănăstirea și palatul împăratului", "Carol al V-lea a murit aici în anul 1558", "Situată în regiunea pitorească La Vera din Extremadura", "Deține titlul de Marcă a Patrimoniului European"],
       en: ["Composed of two complexes: the monastery and the Emperor's palace", "Charles V died here in 1558", "Located in the scenic La Vera region of Extremadura", "Designated as a European Heritage site"],
     },
-    imageHint: "Monastery of Yuste and the Emperor's residence",
-  },
+    imageHint: "Monastery of Yuste and the Emperor's residence", image: "/poi-images/spain-yuste-monastery-history-v2.webp"},
   {
     id: "spain-san-juan-pena-history-v2",
     type: "landmark",
@@ -479,8 +456,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Găzduiește panteonul primilor regi ai Aragonului", "Cloastrul romanic are capiteluri sculptate cu mare măiestrie", "Legenda spune că aici a fost păstrat Sfântul Graal", "A fost abandonată parțial după un incendiu în 1675"],
       en: ["Houses the pantheon of the first Kings of Aragon", "The Romanesque cloister features masterfully carved capitals", "Legend says it once housed the Holy Grail", "Partially abandoned after a fire in 1675"],
     },
-    imageHint: "Monastery of San Juan de la Peña tucked under a rock cliff",
-  },
+    imageHint: "Monastery of San Juan de la Peña tucked under a rock cliff", image: "/poi-images/spain-san-juan-pena-history-v2.webp"},
   {
     id: "spain-baelo-claudia-ruins-history-v2",
     type: "ruins",
@@ -499,8 +475,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Considerat cel mai complet plan de oraș roman din Spania", "Are un teatru bine conservat și un forum lângă mare", "Fondat în secolul al II-lea î.Hr.", "Abandonat în secolul al IV-lea după cutremure și atacuri de pirați"],
       en: ["Considered the most complete Roman town plan in Spain", "Features a well-preserved theater and a forum next to the beach", "Founded in the 2nd century BC", "Abandoned in the 4th century AD after earthquakes and pirate raids"],
     },
-    imageHint: "Roman ruins of Baelo Claudia with Bolonia beach in the background",
-  },
+    imageHint: "Roman ruins of Baelo Claudia with Bolonia beach in the background", image: "/poi-images/spain-baelo-claudia-ruins-history-v2.webp"},
   {
     id: "spain-empuries-ruins-history-v2",
     type: "ruins",
@@ -519,8 +494,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Fondat de grecii din Phocaea în secolul al VI-lea î.Hr.", "Locul unde a debarcat Scipio Africanul în 218 î.Hr.", "Conține un sanctuar important dedicat lui Asclepios", "Situat direct pe malul Golfului Roses, pe Costa Brava"],
       en: ["Founded by Greeks from Phocaea in the 6th century BC", "Site where Scipio Africanus landed in 218 BC to conquer Hispania", "Features an important sanctuary dedicated to Asclepius", "Located directly on the Gulf of Roses in Costa Brava"],
     },
-    imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
-  },
+    imageHint: "Greek and Roman ruins of Empuries overlooking the sea", image: "/poi-images/spain-empuries-ruins-history-v2.webp"},
   {
     id: "spain-castle-coca-history-v2",
     type: "castle",
@@ -539,8 +513,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Construit de Alonso de Fonseca, arhiepiscop de Sevilla", "Are un sistem defensiv complex cu trei rânduri de ziduri", "Spre deosebire de alte castele, nu a servit niciodată drept reședință", "Considerat unul dintre cele mai frumoase castele din cărămidă"],
       en: ["Built by Alonso de Fonseca, Archbishop of Seville", "Features a complex defensive system with three wall rings", "Unlike many other castles, it never served as a royal residence", "Considered one of the finest brick castles in the world"],
     },
-    imageHint: "Ornate Mudejar brickwork of Coca Castle",
-  },
+    imageHint: "Ornate Mudejar brickwork of Coca Castle", image: "/poi-images/spain-castle-coca-history-v2.webp"},
   {
     id: "spain-castle-butron-history-v2",
     type: "castle",
@@ -559,8 +532,7 @@ export const spainHistoryV2: POI[] = [
       ro: ["Inițial sediul familiei nobiliare Butrón în secolul al XI-lea", "Clădirea actuală a fost proiectată de Marchizul de Cubas", "Are un donjon impunător și turnuri circulare la colțuri", "Înconjurat de un parc vast cu palmieri exotici"],
       en: ["Originally the seat of the Butrón noble family in the 11th century", "The current structure was designed by the Marquis of Cubas", "Features a prominent keep and round corner towers", "Surrounded by a vast park with exotic palm trees"],
     },
-    imageHint: "Neo-Gothic fantasy style of Butron Castle",
-  },
+    imageHint: "Neo-Gothic fantasy style of Butron Castle", image: "/poi-images/spain-castle-butron-history-v2.webp"},
   {
     id: "spain-corbera-ebre-ruins-history-v2",
     type: "ruins",

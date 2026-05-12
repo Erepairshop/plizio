@@ -19,8 +19,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Cel mai înalt punct al țării", "2386 de metri deasupra mării", "Parte a Alpilor Dinarici", "Munte de frontieră cu Muntenegru"],
       en: ["Highest point in the country", "2,386 meters above sea level", "Part of the Dinaric Alps", "Border mountain with Montenegro"],
     },
-    imageHint: "Maglic mountain peak Bosnia Montenegro border",
-  },
+    imageHint: "Maglic mountain peak Bosnia Montenegro border", image: "/poi-images/bosniaherzegovina-maglic-nature-v2.webp"},
   {
     id: "bosniaherzegovina-neretva-river-nature-v2",
     type: "river",
@@ -39,8 +38,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 225 km", "Cel mai rece râu din lume în cursul superior", "Se varsă în Marea Adriatică", "Cunoscut pentru podul din Mostar"],
       en: ["Length of about 225 kilometers", "Coldest river in the world in upper course", "Flows into the Adriatic Sea", "Famous for the bridge in Mostar"],
     },
-    imageHint: "Neretva river emerald green water Mostar",
-  },
+    imageHint: "Neretva river emerald green water Mostar", image: "/poi-images/bosniaherzegovina-neretva-river-nature-v2.webp"},
   {
     id: "bosniaherzegovina-una-river-nature-v2",
     type: "river",
@@ -59,8 +57,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lungime de 212 kilometri", "Numele înseamnă 'singura'", "Centrul Parcului Național Una", "Râu de frontieră cu Croația"],
       en: ["Length of 212 kilometers", "Name means 'the one and only'", "Center of the Una National Park", "Border river with Croatia"],
     },
-    imageHint: "Una river waterfalls Bihać Bosnia",
-  },
+    imageHint: "Una river waterfalls Bihać Bosnia", image: "/poi-images/bosniaherzegovina-una-river-nature-v2.webp"},
   {
     id: "bosniaherzegovina-drina-river-nature-v2",
     type: "river",
@@ -79,8 +76,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lungime de 346 kilometri", "Format din unirea râurilor Tara și Piva", "Al doilea afluent ca mărime al Savei", "Celebru datorită romanului lui Ivo Andrić"],
       en: ["Length of 346 kilometers", "Formed by the Tara and Piva rivers", "Second largest tributary of the Sava", "Famous from Ivo Andrić's novel"],
     },
-    imageHint: "Drina river canyon Višegrad bridge",
-  },
+    imageHint: "Drina river canyon Višegrad bridge", image: "/poi-images/bosniaherzegovina-drina-river-nature-v2.webp"},
   {
     id: "bosniaherzegovina-bosna-river-nature-v2",
     type: "river",
@@ -99,8 +95,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lungime de 271 kilometri", "Izvorăște la Vrelo Bosne", "Se varsă în Sava la Šamac", "Dă numele regiunii Bosnia"],
       en: ["Length of 271 kilometers", "Source at Vrelo Bosne", "Flows into the Sava at Šamac", "Eponymous river of Bosnia"],
     },
-    imageHint: "Vrelo Bosne source near Sarajevo",
-  },
+    imageHint: "Vrelo Bosne source near Sarajevo", image: "/poi-images/bosniaherzegovina-bosna-river-nature-v2.webp"},
   {
     id: "bosniaherzegovina-vrbas-river-nature-v2",
     type: "river",
@@ -119,8 +114,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lungime de 235 kilometri", "Afluent al râului Sava", "Centru pentru sporturi nautice", "Are două hidrocentrale"],
       en: ["Length of 235 kilometers", "Tributary of the Sava", "Center for water sports", "Features two hydroelectric plants"],
     },
-    imageHint: "Vrbas river canyon rafting Banja Luka",
-  },
+    imageHint: "Vrbas river canyon rafting Banja Luka", image: "/poi-images/bosniaherzegovina-vrbas-river-nature-v2.webp"},
   {
     id: "bosniaherzegovina-strbacki-buk-nature-v2",
     type: "landmark",
@@ -139,8 +133,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Înălțime de 24,5 metri", "Situată în Parcul Național Una", "Chiar pe granița cu Croația", "Cea mai înaltă cascadă de pe Una"],
       en: ["Height of 24.5 meters", "Located in Una National Park", "Right on the Croatian border", "Highest waterfall on the Una"],
     },
-    imageHint: "Strbacki buk waterfall Una river",
-  },
+    imageHint: "Strbacki buk waterfall Una river", image: "/poi-images/bosniaherzegovina-strbacki-buk-nature-v2.webp"},
   {
     id: "bosniaherzegovina-igman-mountain-nature-v2",
     type: "mountain",
@@ -159,8 +152,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Temperatură record de -43,5 °C", "Trambuline de schi olimpice", "Vârful cel mai înalt 1502 m", "Zonă populară de drumeții"],
       en: ["Record temperature of -43.5 °C", "Olympic ski jumping hills", "Highest peak 1,502 meters", "Popular hiking area"],
     },
-    imageHint: "Igman mountain Sarajevo Olympic jumps",
-  },
+    imageHint: "Igman mountain Sarajevo Olympic jumps", image: "/poi-images/bosniaherzegovina-igman-mountain-nature-v2.webp"},
   {
     id: "bosniaherzegovina-trebevic-mountain-nature-v2",
     type: "mountain",
@@ -179,8 +171,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Înălțime de 1627 metri", "Locul pistei de bob din 1984", "Situat chiar lângă Sarajevo", "Dotat cu o telecabină"],
       en: ["Elevation of 1,627 meters", "Site of the 1984 bobsleigh track", "Located right by Sarajevo", "Features a scenic cable car"],
     },
-    imageHint: "Trebevic mountain Sarajevo view cable car",
-  },
+    imageHint: "Trebevic mountain Sarajevo view cable car", image: "/poi-images/bosniaherzegovina-trebevic-mountain-nature-v2.webp"},
   {
     id: "bosniaherzegovina-prenj-mountain-nature-v2",
     type: "mountain",
@@ -199,8 +190,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Vârful Zelena glava 2103 m", "Himalaya Herțegovinei", "Popular printre alpiniști", "Munți foarte secetoși"],
       en: ["Highest peak Zelena glava 2,103 m", "Himalaya of Herzegovina", "Popular with mountaineers", "Very arid mountain range"],
     },
-    imageHint: "Prenj mountain rugged peaks Herzegovina",
-  },
+    imageHint: "Prenj mountain rugged peaks Herzegovina", image: "/poi-images/bosniaherzegovina-prenj-mountain-nature-v2.webp"},
   {
     id: "bosniaherzegovina-cvrsnica-mountain-nature-v2",
     type: "peak",
@@ -219,8 +209,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Vârful Pločno 2228 m", "Fenomenul Hajdučka vrata", "Parte a parcului Blidinje", "Cel mai înalt vârf din Herțegovina de Vest"],
       en: ["Highest peak Pločno 2,228 m", "Hajdučka vrata stone arch", "Part of Blidinje Nature Park", "Highest point in West Herzegovina"],
     },
-    imageHint: "Hajducka vrata stone arch Cvrsnica",
-  },
+    imageHint: "Hajducka vrata stone arch Cvrsnica", image: "/poi-images/bosniaherzegovina-cvrsnica-mountain-nature-v2.webp"},
   {
     id: "bosniaherzegovina-blidinje-lake-nature-v2",
     type: "lake",
@@ -239,8 +228,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Altitudine de 1184 metri", "Adâncime maximă de 3 metri", "Centrul Parcului Natural Blidinje", "Format prin topirea ghețarilor"],
       en: ["Elevation of 1,184 meters", "Maximum 3 meters deep", "Center of Blidinje Nature Park", "Formed by glacial meltwater"],
     },
-    imageHint: "Blidinje lake mountain plateau",
-  },
+    imageHint: "Blidinje lake mountain plateau", image: "/poi-images/bosniaherzegovina-blidinje-lake-nature-v2.webp"},
   {
     id: "bosniaherzegovina-boracko-lake-nature-v2",
     type: "lake",
@@ -259,8 +247,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lac glaciar natural", "Altitudine de 405 metri", "Adâncime maximă de 17 metri", "Apă de munte foarte clară"],
       en: ["Natural glacial lake", "Elevation of 405 meters", "Maximum 17 meters deep", "Very clear mountain water"],
     },
-    imageHint: "Boracko lake mountains Konjic",
-  },
+    imageHint: "Boracko lake mountains Konjic", image: "/poi-images/bosniaherzegovina-boracko-lake-nature-v2.webp"},
   {
     id: "bosniaherzegovina-jablanicko-lake-nature-v2",
     type: "lake",
@@ -279,8 +266,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lac creat artificial", "Lungime de aprox. 30 km", "Creat în anul 1953", "Bogat în pește"],
       en: ["Artificially created lake", "Length of about 30 kilometers", "Created in 1953", "Rich in fish species"],
     },
-    imageHint: "Jablanicko lake Neretva river",
-  },
+    imageHint: "Jablanicko lake Neretva river", image: "/poi-images/bosniaherzegovina-jablanicko-lake-nature-v2.webp"},
   {
     id: "bosniaherzegovina-rama-lake-nature-v2",
     type: "lake",
@@ -299,8 +285,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lac artificial pe râul Rama", "Mănăstire pe peninsula Šćit", "Adâncime maximă de 95 metri", "Țărm foarte dantelat"],
       en: ["Artificial lake on Rama river", "Monastery on Šćit peninsula", "Maximum 95 meters deep", "Very indented shoreline"],
     },
-    imageHint: "Rama lake Scit monastery peninsula",
-  },
+    imageHint: "Rama lake Scit monastery peninsula", image: "/poi-images/bosniaherzegovina-rama-lake-nature-v2.webp"},
   {
     id: "bosniaherzegovina-hutovo-blato-nature-v2",
     type: "wildlife",
@@ -319,8 +304,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Peste 240 specii de păsări", "Parc natural din 1995", "Compus din mlaștini și lacuri", "Sit protejat Ramsar"],
       en: ["Over 240 bird species", "Nature park since 1995", "Consists of swamps and lakes", "Ramsar protected wetland"],
     },
-    imageHint: "Hutovo blato wetlands birds",
-  },
+    imageHint: "Hutovo blato wetlands birds", image: "/poi-images/bosniaherzegovina-hutovo-blato-nature-v2.webp"},
   {
     id: "bosniaherzegovina-zelengora-mountain-nature-v2",
     type: "mountain",
@@ -339,8 +323,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Vârful Bregoč 2014 m", "9 lacuri glaciare naturale", "Parte a Parcului Sutjeska", "Numele înseamnă 'Muntele Verde'"],
       en: ["Highest peak Bregoč 2,014 m", "9 natural glacial lakes", "Part of Sutjeska National Park", "Name means 'Green Mountain'"],
     },
-    imageHint: "Zelengora mountain glacial lake mountain eyes",
-  },
+    imageHint: "Zelengora mountain glacial lake mountain eyes", image: "/poi-images/bosniaherzegovina-zelengora-mountain-nature-v2.webp"},
   {
     id: "bosniaherzegovina-tara-river-nature-v2",
     type: "river",
@@ -359,8 +342,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Cel mai adânc canion din Europa", "Renumit pentru rafting", "Apă foarte clară", "Calitate de apă potabilă"],
       en: ["Deepest canyon in Europe", "Famous for white-water rafting", "Very clear water", "Drinking water quality"],
     },
-    imageHint: "Tara river canyon rafting Bosnia Montenegro",
-  },
+    imageHint: "Tara river canyon rafting Bosnia Montenegro", image: "/poi-images/bosniaherzegovina-tara-river-nature-v2.webp"},
   {
     id: "bosniaherzegovina-pliva-river-nature-v2",
     type: "river",
@@ -379,8 +361,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Cascadă de 22 de metri", "Se varsă în Vrbas", "Faimos pentru morile de apă", "Foarte bogat în pește"],
       en: ["22-meter high waterfall", "Mouth into the Vrbas", "Known for historic watermills", "Very rich in fish"],
     },
-    imageHint: "Pliva waterfall Jajce city center",
-  }
+    imageHint: "Pliva waterfall Jajce city center", image: "/poi-images/bosniaherzegovina-pliva-river-nature-v2.webp"}
 ,
   {
     id: "bosniaherzegovina-bjelasnica-nature-v2",
@@ -418,8 +399,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Vârful Ogorjelica la 1.916 metri", "Gazda probelor feminine de schi în 1984", "Peste 20 km de trasee montane marcate", "Destinație populară pentru parapantism"],
       en: ["Highest peak is Ogorjelica at 1,916m", "Hosted women's Olympic ski events in 1984", "Over 20 km of marked hiking trails", "Popular destination for paragliding"],
     },
-    imageHint: "Jahorina ski slopes and mountain pine trees",
-  },
+    imageHint: "Jahorina ski slopes and mountain pine trees", image: "/poi-images/bosniaherzegovina-jahorina-nature-v2.webp"},
   {
     id: "bosniaherzegovina-bileca-lake-nature-v2",
     type: "lake",
@@ -456,8 +436,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Suprafață de circa 17 km²", "Baraj finalizat în 1964", "Popular pentru sporturi nautice și pescuit", "Sursă vitală de apă pentru industrie"],
       en: ["Surface area of approx. 17 sq km", "Dam completed in 1964", "Popular for water sports and fishing", "Important industrial water source"],
     },
-    imageHint: "Modrac lake with boats and distant hills",
-  },
+    imageHint: "Modrac lake with boats and distant hills", image: "/poi-images/bosniaherzegovina-modrac-lake-nature-v2.webp"},
   {
     id: "bosniaherzegovina-sana-river-nature-v2",
     type: "river",
@@ -475,8 +454,7 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ro: ["Lungime de circa 146 kilometri", "Bogat în păstrăv și lipan", "Numele derivă din latinul 'Sanus'", "Traversează orașele Sanski Most și Prijedor"],
       en: ["Length of approx. 146 kilometers", "Rich in trout and grayling fish", "Name derived from Latin 'Sanus' (healthy)", "Flows through Sanski Most and Prijedor"],
     },
-    imageHint: "clear green Sana river flowing through nature",
-  },
+    imageHint: "clear green Sana river flowing through nature", image: "/poi-images/bosniaherzegovina-sana-river-nature-v2.webp"},
   {
     id: "bosniaherzegovina-bliha-waterfall-nature-v2",
     type: "river",

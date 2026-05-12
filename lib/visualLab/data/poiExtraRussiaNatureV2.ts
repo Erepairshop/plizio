@@ -19,8 +19,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Adâncimea maximă este de 1.642 metri.", "Vârsta estimată este de 25 de milioane de ani.", "Găzduiește nerpa, singura focă de apă dulce din lume.", "Sit al Patrimoniului Mondial UNESCO din 1996."],
       en: ["Maximum depth is 1,642 meters.", "Estimated age is 25 million years.", "Home to the Nerpa, the world's only freshwater seal.", "UNESCO World Heritage site since 1996."],
     },
-    imageHint: "Lake Baikal crystal clear ice in winter",
-  },
+    imageHint: "Lake Baikal crystal clear ice in winter", image: "/poi-images/russia-lake-baikal-nature-v2.webp"},
   {
     id: "russia-mount-elbrus-nature-v2",
     type: "peak",
@@ -39,8 +38,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Înălțimea vârfului vestic este de 5.642 metri.", "Face parte din cele șapte culmi (Seven Summits).", "Găzduiește 22 de ghețari majori.", "Ultima erupție a avut loc acum aproximativ 2.000 de ani."],
       en: ["West summit elevation is 5,642 meters.", "One of the Seven Summits of the world.", "Home to 22 large glaciers.", "Last eruption occurred about 2,000 years ago."],
     },
-    imageHint: "Mount Elbrus double peaks with snow",
-  },
+    imageHint: "Mount Elbrus double peaks with snow", image: "/poi-images/russia-mount-elbrus-nature-v2.webp"},
   {
     id: "russia-volga-river-nature-v2",
     type: "river",
@@ -59,8 +57,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Lungimea totală este de 3.530 de kilometri.", "Izvorăște din Podișul Valdai, la nord de Moscova.", "Deține cea mai mare deltă fluvială din Europa.", "Unsprezece dintre cele mai mari 20 de orașe rusești sunt pe malurile sale."],
       en: ["Total length of 3,530 kilometers.", "Originates in the Valdai Hills north of Moscow.", "Features the largest river delta in Europe.", "Eleven of Russia's twenty largest cities are on its banks."],
     },
-    imageHint: "Volga River aerial view near Samara",
-  },
+    imageHint: "Volga River aerial view near Samara", image: "/poi-images/russia-volga-river-nature-v2.webp"},
   {
     id: "russia-lena-pillars-nature-v2",
     type: "landmark",
@@ -99,8 +96,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Descoperită abia în 1941 de Tatiana Ustinova.", "A doua cea mai mare concentrație de gheizere din lume.", "Cel mai mare gheizer se numește Velikan (Uriașul).", "Parte a sitului UNESCO Vulcanii din Kamceatka."],
       en: ["Discovered only in 1941 by Tatyana Ustinova.", "Second largest concentration of geysers in the world.", "The largest geyser is named Velikan (Giant).", "Part of the UNESCO Volcanoes of Kamchatka site."],
     },
-    imageHint: "Valley of Geysers Kamchatka steam",
-  },
+    imageHint: "Valley of Geysers Kamchatka steam", image: "/poi-images/russia-valley-of-geysers-nature-v2.webp"},
   {
     id: "russia-ural-mountains-nature-v2",
     type: "mountain",
@@ -119,8 +115,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Narodnaia, de 1.895 metri.", "Printre cei mai vechi munți din lume.", "Bogăți în resurse minerale precum aur, fier și nestemate.", "S-au format acum aproximativ 250-300 milioane de ani."],
       en: ["Highest peak is Mount Narodnaya at 1,895 meters.", "Among the oldest mountain ranges in the world.", "Rich in mineral resources like gold, iron, and gemstones.", "Formed approximately 250 to 300 million years ago."],
     },
-    imageHint: "Ural Mountains landscape northern peaks",
-  },
+    imageHint: "Ural Mountains landscape northern peaks", image: "/poi-images/russia-ural-mountains-nature-v2.webp"},
   {
     id: "russia-lena-river-nature-v2",
     type: "river",
@@ -139,8 +134,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Lungime de 4.400 de kilometri.", "Izvorăște din Munții Baikal, lângă lacul Baikal.", "Delta Lenei este o rezervație ecologică importantă.", "Al 11-lea cel mai lung râu din lume."],
       en: ["Length of 4,400 kilometers.", "Originates in the Baikal Mountains near Lake Baikal.", "The Lena Delta is a major ecological protected area.", "Eleventh longest river in the world."],
     },
-    imageHint: "Lena River delta aerial view",
-  },
+    imageHint: "Lena River delta aerial view", image: "/poi-images/russia-lena-river-nature-v2.webp"},
   {
     id: "russia-putorana-plateau-nature-v2",
     type: "mountain",
@@ -159,8 +153,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 250.000 km pătrați.", "Sit al Patrimoniului Mondial UNESCO din 2010.", "Găzduiește cea mai înaltă cascadă din Rusia (Kizhi).", "Compus aproape în întregime din bazalt trapp."],
       en: ["Area of approximately 250,000 square kilometers.", "UNESCO World Heritage site since 2010.", "Home to Russia's highest waterfall (Kizhi).", "Composed almost entirely of trap basalt."],
     },
-    imageHint: "Putorana Plateau waterfalls and canyon",
-  },
+    imageHint: "Putorana Plateau waterfalls and canyon", image: "/poi-images/russia-putorana-plateau-nature-v2.webp"},
   {
     id: "russia-klyuchevskaya-sopka-nature-v2",
     type: "peak",
@@ -179,8 +172,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Înălțime de aproximativ 4.750 de metri.", "Prima erupție înregistrată în 1697.", "Munte sfânt pentru popoarele indigene din Kamceatka.", "Parte a Patrimoniului Mondial UNESCO Vulcanii din Kamceatka."],
       en: ["Elevation of approximately 4,750 meters.", "First recorded eruption in 1697.", "Sacred to the indigenous peoples of Kamchatka.", "Part of the UNESCO Volcanoes of Kamchatka World Heritage."],
     },
-    imageHint: "Klyuchevskaya Sopka volcano erupting",
-  },
+    imageHint: "Klyuchevskaya Sopka volcano erupting", image: "/poi-images/russia-klyuchevskaya-sopka-nature-v2.webp"},
   {
     id: "russia-lake-ladoga-nature-v2",
     type: "lake",
@@ -199,8 +191,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 17.700 km pătrați.", "Găzduiește peste 600 de insule.", "Singurul habitat al focii inelate de Ladoga.", "Parte importantă a rutei comerciale de la varegi la greci."],
       en: ["Area of approximately 17,700 square kilometers.", "Home to over 600 islands.", "The only habitat of the Ladoga ringed seal.", "Important part of the 'Route from the Varangians to the Greeks'."],
     },
-    imageHint: "Lake Ladoga rocky shores and islands",
-  },
+    imageHint: "Lake Ladoga rocky shores and islands", image: "/poi-images/russia-lake-ladoga-nature-v2.webp"},
   {
     id: "russia-lake-onega-nature-v2",
     type: "lake",
@@ -219,8 +210,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 9.700 km pătrați.", "Cunoscut pentru picturile sale rupestre preistorice.", "Conectat de lacul Ladoga prin râul Svir.", "Are aproximativ 1.650 de insule."],
       en: ["Area of approximately 9,700 square kilometers.", "Known for its prehistoric rock carvings (petroglyphs).", "Connected to Lake Ladoga by the Svir River.", "Contains around 1,650 islands."],
     },
-    imageHint: "Lake Onega sunset with Kishi island",
-  },
+    imageHint: "Lake Onega sunset with Kishi island", image: "/poi-images/russia-lake-onega-nature-v2.webp"},
   {
     id: "russia-virgin-komi-forests-nature-v2",
     type: "forest",
@@ -239,8 +229,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Suprafață de 32.800 de kilometri pătrați.", "Prima rezervație naturală UNESCO din Rusia (1995).", "Compuse în principal din molid, pin și brad.", "Includ Rezervația Naturală Peciora-Ilici."],
       en: ["Area of 32,800 square kilometers.", "Russia's first UNESCO World Natural Heritage site (1995).", "Consists mainly of spruce, pine, and fir trees.", "Includes the Pechora-Ilych Nature Reserve."],
     },
-    imageHint: "Virgin Komi Forests taiga landscape",
-  },
+    imageHint: "Virgin Komi Forests taiga landscape", image: "/poi-images/russia-virgin-komi-forests-nature-v2.webp"},
   {
     id: "russia-sikhote-alin-nature-v2",
     type: "mountain",
@@ -259,8 +248,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Cel mai important refugiu al tigrului siberian (Amur).", "Sit al Patrimoniului Mondial UNESCO din 2001.", "Cel mai înalt vârf este Tordoki-Iani (2.090 m).", "Locul faimoasei căderi de meteorit din 1947."],
       en: ["Key habitat for the endangered Amur (Siberian) tiger.", "UNESCO World Heritage site since 2001.", "Highest peak is Tordoki-Yani (2,090 m).", "Site of the massive 1947 meteorite fall."],
     },
-    imageHint: "Sikhote-Alin mountains amur tiger habitat",
-  },
+    imageHint: "Sikhote-Alin mountains amur tiger habitat", image: "/poi-images/russia-sikhote-alin-nature-v2.webp"},
   {
     id: "russia-wrangel-island-nature-v2",
     type: "wildlife",
@@ -279,8 +267,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Ultimul refugiu al mamuților lânoși până acum 4.000 de ani.", "Sit al Patrimoniului Mondial UNESCO din 2004.", "Cea mai mare densitate de bârloage de urși polari din lume.", "Găzduiește singura colonie de reproducere a gâștei de zăpadă din Asia."],
       en: ["Last refuge of woolly mammoths until 4,000 years ago.", "UNESCO World Heritage site since 2004.", "Highest density of polar bear dens in the world.", "Home to the only snow goose nesting colony in Asia."],
     },
-    imageHint: "Wrangel Island polar bear on tundra",
-  },
+    imageHint: "Wrangel Island polar bear on tundra", image: "/poi-images/russia-wrangel-island-nature-v2.webp"},
   {
     id: "russia-lake-teletskoye-nature-v2",
     type: "lake",
@@ -299,8 +286,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Adâncimea maximă este de 325 de metri.", "Peste 70 de râuri se varsă în lac.", "Râul Biia este singurul emisar.", "Parte din „Munții de Aur din Altai” (UNESCO)."],
       en: ["Maximum depth is 325 meters.", "Over 70 rivers flow into the lake.", "The Biya River is its only outlet.", "Part of the 'Golden Mountains of Altai' UNESCO site."],
     },
-    imageHint: "Lake Teletskoye mountains mirror reflection",
-  },
+    imageHint: "Lake Teletskoye mountains mirror reflection", image: "/poi-images/russia-lake-teletskoye-nature-v2.webp"},
   {
     id: "russia-kungur-ice-cave-nature-v2",
     type: "landmark",
@@ -319,8 +305,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Lungimea totală a galeriilor este de 5,7 kilometri.", "Conține 48 de grote și aproximativ 70 de lacuri subterane.", "Gheața din unele grote nu se topește niciodată.", "Primele tururi ghidate au avut loc încă din secolul al XIX-lea."],
       en: ["Total length of passages is 5.7 kilometers.", "Contains 48 grottoes and about 70 underground lakes.", "The ice in some grottoes never melts.", "First guided tours took place in the 19th century."],
     },
-    imageHint: "Kungur Ice Cave stalactites and lights",
-  },
+    imageHint: "Kungur Ice Cave stalactites and lights", image: "/poi-images/russia-kungur-ice-cave-nature-v2.webp"},
   {
     id: "russia-manpupuner-nature-v2",
     type: "landmark",
@@ -339,8 +324,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Coloanele au înălțimi între 30 și 42 de metri.", "Una dintre cele „Șapte Minuni ale Rusiei”.", "Loc sfânt pentru poporul Mansi.", "Accesibil doar cu elicopterul sau printr-o drumeție lungă."],
       en: ["The pillars range from 30 to 42 meters in height.", "One of the 'Seven Wonders of Russia'.", "A sacred place for the Mansi people.", "Accessible only by helicopter or long hiking trek."],
     },
-    imageHint: "Manpupuner rock formations seven pillars",
-  },
+    imageHint: "Manpupuner rock formations seven pillars", image: "/poi-images/russia-manpupuner-nature-v2.webp"},
   {
     id: "russia-orda-cave-nature-v2",
     type: "landmark",
@@ -359,8 +343,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Peste 5 kilometri din peșteră sunt sub apă.", "Vizibilitatea sub apă depășește 45 de metri.", "Temperatura apei este constantă, în jur de 5 °C.", "O destinație populară pentru scufundări extreme în peșteri."],
       en: ["Over 5 kilometers of the cave are underwater.", "Underwater visibility exceeds 45 meters.", "Water temperature is constant at around 5°C.", "A famous destination for extreme cave diving."],
     },
-    imageHint: "Orda Cave underwater diver gypsum walls",
-  },
+    imageHint: "Orda Cave underwater diver gypsum walls", image: "/poi-images/russia-orda-cave-nature-v2.webp"},
   {
     id: "russia-chara-sands-nature-v2",
     type: "landmark",
@@ -379,8 +362,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Zona de nisip are circa 10 km lungime și 5 km lățime.", "Dunele ating înălțimi de până la 30 de metri.", "Contrast direct între nisipul deșertic și ghețarii din apropiere.", "Format din depozitele unui lac glaciar."],
       en: ["The sand area is about 10 km long and 5 km wide.", "Dunes reach heights of up to 30 meters.", "Features a sharp contrast between sand and nearby glaciers.", "Formed by sediments from a glacial-era lake."],
     },
-    imageHint: "Chara Sands dunes with mountains background",
-  },
+    imageHint: "Chara Sands dunes with mountains background", image: "/poi-images/russia-chara-sands-nature-v2.webp"},
   {
     id: "russia-vasyugan-swamp-nature-v2",
     type: "wildlife",
@@ -399,8 +381,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 53.000 km pătrați.", "Cea mai importantă rezervă de apă dulce din regiune.", "Găzduiește specii rare de păsări.", "Conține depozite uriașe de turbă."],
       en: ["Area of approximately 53,000 square kilometers.", "Major freshwater reservoir for the region.", "Habitat for rare birds like the red-throated loon.", "Contains vast deposits of peat."],
     },
-    imageHint: "Vasyugan Swamp aerial landscape",
-  },
+    imageHint: "Vasyugan Swamp aerial landscape", image: "/poi-images/russia-vasyugan-swamp-nature-v2.webp"},
   {
     id: "russia-commander-islands-nature-v2",
     type: "wildlife",
@@ -419,8 +400,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Numite după exploratorul Vitus Bering.", "Habitatul vacii de mare a lui Steller, acum dispărută.", "Colonii importante de foci cu blană și vidre de mare.", "Parte dintr-o mare rezervație a biosferei."],
       en: ["Named after the explorer Vitus Bering.", "Former home of the now-extinct Steller's sea cow.", "Host to large colonies of fur seals and sea otters.", "Part of a large biosphere reserve."],
     },
-    imageHint: "Commander Islands sea otters and cliffs",
-  },
+    imageHint: "Commander Islands sea otters and cliffs", image: "/poi-images/russia-commander-islands-nature-v2.webp"},
   {
     id: "russia-franz-josef-land-nature-v2",
     type: "wildlife",
@@ -439,8 +419,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Compus din 191 de insule nelocuite.", "Habitat important pentru morse și urși polari.", "Temperatura medie depășește rar punctul de îngheț.", "Parte a Parcului Național „Arctica Rusă”."],
       en: ["Consists of 191 mostly uninhabited islands.", "Crucial habitat for walruses and polar bears.", "Average temperatures rarely rise above freezing.", "Part of the 'Russian Arctic' National Park."],
     },
-    imageHint: "Franz Josef Land icebergs and walruses",
-  },
+    imageHint: "Franz Josef Land icebergs and walruses", image: "/poi-images/russia-franz-josef-land-nature-v2.webp"},
   {
     id: "russia-golden-mountains-of-altai-nature-v2",
     type: "mountain",
@@ -459,8 +438,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Sit al Patrimoniului Mondial UNESCO din 1998.", "Habitat important pentru leopardul zăpezilor.", "Include rezervațiile naturale Altai și Katun.", "Cunoscut drept „Tibetul siberian”."],
       en: ["UNESCO World Heritage site since 1998.", "Major habitat for the endangered snow leopard.", "Includes the Altai and Katun nature reserves.", "Often referred to as the 'Siberian Tibet'."],
     },
-    imageHint: "Golden Mountains of Altai landscapes",
-  },
+    imageHint: "Golden Mountains of Altai landscapes", image: "/poi-images/russia-golden-mountains-of-altai-nature-v2.webp"},
   {
     id: "russia-kuril-islands-nature-v2",
     type: "landmark",
@@ -479,8 +457,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Compuse din aproximativ 56 de insule mari.", "Găzduiesc circa 100 de vulcani, dintre care 40 activi.", "Bogate în izvoare termale și lacuri de crater.", "Subiectul unei dispute teritoriale de lungă durată."],
       en: ["Consists of about 56 major islands.", "Home to nearly 100 volcanoes, 40 of which are active.", "Rich in hot springs and volcanic crater lakes.", "Subject of a long-standing territorial dispute."],
     },
-    imageHint: "Kuril Islands volcanic peaks and sea",
-  },
+    imageHint: "Kuril Islands volcanic peaks and sea", image: "/poi-images/russia-kuril-islands-nature-v2.webp"},
   {
     id: "russia-sayano-shushensky-nature-v2",
     type: "wildlife",
@@ -499,8 +476,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Rezervație a biosferei UNESCO.", "Una dintre cele mai nordice zone cu leoparzi ai zăpezilor.", "Se învecinează cu imensul lac de acumulare Saiano-Șușenskoe.", "Găzduiește peste 1.000 de specii de plante."],
       en: ["UNESCO Biosphere Reserve.", "One of the northernmost habitats for snow leopards.", "Borders the massive Sayano-Shushenskoye Reservoir.", "Home to over 1,000 species of vascular plants."],
     },
-    imageHint: "Sayano-Shushensky reserve mountains and lake",
-  },
+    imageHint: "Sayano-Shushensky reserve mountains and lake", image: "/poi-images/russia-sayano-shushensky-nature-v2.webp"},
   {
     id: "russia-ob-river-nature-v2",
     type: "river",
@@ -539,8 +515,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Adâncimea maximă ajunge la 24 de metri.", "Găzduiește unele dintre cele mai mari hidrocentrale din lume.", "Cursul superior trece prin lacul Baikal (via râul Angara).", "Fluviul este liber de gheață doar 4-5 luni pe an."],
       en: ["Maximum depth reaches up to 24 meters.", "Host to some of the world's largest hydroelectric plants.", "Its upper course (Angara) flows from Lake Baikal.", "The river is ice-free for only 4-5 months per year."],
     },
-    imageHint: "Yenisei River landscape taiga",
-  },
+    imageHint: "Yenisei River landscape taiga", image: "/poi-images/russia-yenisei-river-nature-v2.webp"},
   {
     id: "russia-taimyr-peninsula-nature-v2",
     type: "wildlife",
@@ -559,8 +534,7 @@ export const russiaNatureV2: POI[] = [
       ro: ["Cel mai nordic punct este Capul Celiuskin.", "Găzduiește lacul Taimîr, unul dintre cele mai nordice lacuri mari.", "Vegetația constă aproape exclusiv din mușchi și licheni.", "Climat extrem cu noapte polară și soare de miezul nopții."],
       en: ["Northernmost point is Cape Chelyuskin.", "Home to Lake Taimyr, one of the northernmost large lakes.", "Vegetation consists almost entirely of mosses and lichens.", "Extreme climate featuring polar nights and midnight sun."],
     },
-    imageHint: "Taimyr Peninsula tundra and musk ox",
-  },
+    imageHint: "Taimyr Peninsula tundra and musk ox", image: "/poi-images/russia-taimyr-peninsula-nature-v2.webp"},
   {
     id: "russia-dombay-ulgen-nature-v2",
     type: "peak",

@@ -19,8 +19,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Construit în jurul anului 1900 î.Hr.", "Suprafață de peste 20.000 m²", "Descoperit de Arthur Evans în 1900", "Fresce colorate precum Săritorul peste taur"],
       en: ["Built around 1900 BC", "Size of over 20,000 square meters", "Discovered by Arthur Evans in 1900", "Famous for bull-leaping frescoes"],
     },
-    imageHint: "Ancient ruins of the Palace of Knossos with red columns",
-  },
+    imageHint: "Ancient ruins of the Palace of Knossos with red columns", image: "/poi-images/greece-knossos-history-v2.webp"},
   {
     id: "greece-parthenon-history-v2",
     type: "monument",
@@ -39,8 +38,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Construit între 447 și 432 î.Hr.", "Arhitecții au fost Ictinos și Callicrate", "Utilizarea marmurei pentelice", "Deteriorat grav de o explozie în 1687"],
       en: ["Built between 447 and 432 BC", "Architects were Ictinus and Callicrates", "Constructed using Pentelic marble", "Severely damaged by an explosion in 1687"],
     },
-    imageHint: "The Parthenon temple on the Acropolis of Athens",
-  },
+    imageHint: "The Parthenon temple on the Acropolis of Athens", image: "/poi-images/greece-parthenon-history-v2.webp"},
   {
     id: "greece-delphi-history-v2",
     type: "ruins",
@@ -59,8 +57,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Sediul lui Omphalos, centrul lumii", "Gazda Jocurilor Pythice", "Templul lui Apollo din sec. IV î.Hr.", "Patrimoniu UNESCO din 1987"],
       en: ["Home of the Omphalos, navel of the world", "Host of the Pythian Games", "Temple of Apollo dates to 4th century BC", "UNESCO World Heritage site since 1987"],
     },
-    imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
-  },
+    imageHint: "Ancient ruins of Delphi with the Tholos of Athena", image: "/poi-images/greece-delphi-history-v2.webp"},
   {
     id: "greece-olympia-history-v2",
     type: "ruins",
@@ -79,8 +76,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Primele jocuri în 776 î.Hr.", "Locația statuii lui Zeus de Phidias", "Locul aprinderii torței olimpice", "Stadionul avea 45.000 de locuri"],
       en: ["First games held in 776 BC", "Site of Phidias's Statue of Zeus", "Location for lighting the Olympic torch", "Stadium capacity of 45,000 spectators"],
     },
-    imageHint: "Archaeological site of Ancient Olympia stadium entrance",
-  },
+    imageHint: "Archaeological site of Ancient Olympia stadium entrance", image: "/poi-images/greece-olympia-history-v2.webp"},
   {
     id: "greece-epidaurus-theater-history-v2",
     type: "theater",
@@ -99,8 +95,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Capacitate de până la 14.000 spectatori", "Auzibilitate excelentă în fiecare rând", "Proiectat de Polykleitos cel Tânăr", "Redescoperit în anul 1881"],
       en: ["Capacity for up to 14,000 spectators", "Superb audibility in every row", "Designed by Polykleitos the Younger", "Rediscovered in 1881"],
     },
-    imageHint: "Aerial view of the ancient theater of Epidaurus",
-  },
+    imageHint: "Aerial view of the ancient theater of Epidaurus", image: "/poi-images/greece-epidaurus-theater-history-v2.webp"},
   {
     id: "greece-mycenae-history-v2",
     type: "ruins",
@@ -119,8 +114,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Sediul legendarului rege Agamemnon", "Locul 'Măștii de aur a lui Agamemnon'", "Tezaurul lui Atreus (mormânt cu cupolă)", "Patrimoniu UNESCO din 1999"],
       en: ["Seat of the legendary King Agamemnon", "Site of the 'Gold Mask of Agamemnon'", "Treasury of Atreus (tholos tomb)", "UNESCO World Heritage site since 1999"],
     },
-    imageHint: "The Lion Gate at the entrance of Mycenae",
-  },
+    imageHint: "The Lion Gate at the entrance of Mycenae", image: "/poi-images/greece-mycenae-history-v2.webp"},
   {
     id: "greece-meteora-history-v2",
     type: "landmark",
@@ -139,8 +133,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Inițial au fost construite 24 mănăstiri", "Astăzi mai sunt locuite 6", "Patrimoniu UNESCO din 1988", "Accesul se făcea doar prin scări de frânghie"],
       en: ["Originally 24 monasteries were built", "Only 6 are still inhabited today", "UNESCO World Heritage site since 1988", "Access was once via rope ladders only"],
     },
-    imageHint: "Monasteries perched on high rocks in Meteora",
-  },
+    imageHint: "Monasteries perched on high rocks in Meteora", image: "/poi-images/greece-meteora-history-v2.webp"},
   {
     id: "greece-thermopylae-history-v2",
     type: "battlefield",
@@ -159,8 +152,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Leonidas a condus 300 de spartani", "Un monument onorează pe cei căzuți", "Linia țărmului s-a schimbat semnificativ", "Placă memorială cu inscripția lui Simonide"],
       en: ["Leonidas led 300 Spartans", "A monument honors the fallen", "The coastline has shifted significantly since antiquity", "Commemorative plaque with Simonides's inscription"],
     },
-    imageHint: "Statue of King Leonidas at Thermopylae",
-  },
+    imageHint: "Statue of King Leonidas at Thermopylae", image: "/poi-images/greece-thermopylae-history-v2.webp"},
   {
     id: "greece-marathon-history-v2",
     type: "battlefield",
@@ -179,8 +171,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Mormântul celor 192 de atenieni căzuți", "Victorie sub generalul Miltiade", "Legenda alergătorului Pheidippides", "Coloana victoriei la locul bătăliei"],
       en: ["Tumulus of the 192 fallen Athenians", "Victory under General Miltiades", "Legend of the runner Pheidippides", "Victory trophy column at the site"],
     },
-    imageHint: "Burial mound of the Athenians at Marathon",
-  },
+    imageHint: "Burial mound of the Athenians at Marathon", image: "/poi-images/greece-marathon-history-v2.webp"},
   {
     id: "greece-mystras-history-v2",
     type: "ruins",
@@ -199,8 +190,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Fondat de franci în 1249", "Patrimoniu UNESCO din 1989", "Locul încoronării lui Constantin XI", "Rămășițele palatului despotului"],
       en: ["Founded by Franks in 1249", "UNESCO World Heritage site since 1989", "Coronation site of Constantine XI", "Remains of the Despot's Palace"],
     },
-    imageHint: "Byzantine church and ruins in Mystras",
-  },
+    imageHint: "Byzantine church and ruins in Mystras", image: "/poi-images/greece-mystras-history-v2.webp"},
   {
     id: "greece-delos-history-v2",
     type: "ruins",
@@ -219,8 +209,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Sediul Ligii de la Delos", "Faimoasa Terasă a Leilor", "Teatru pentru 5.500 spectatori", "Muzeu arheologic în aer liber complet"],
       en: ["Seat of the Delian League", "Famous Terrace of the Lions", "Theater for 5,500 spectators", "Entirely an archaeological open-air museum"],
     },
-    imageHint: "Terrace of the Lions on Delos island",
-  },
+    imageHint: "Terrace of the Lions on Delos island", image: "/poi-images/greece-delos-history-v2.webp"},
   {
     id: "greece-vergina-history-v2",
     type: "ruins",
@@ -239,8 +228,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Mormântul lui Filip II (tatăl lui Alexandru)", "Larnax de aur cu simbolul stelei", "Patrimoniu UNESCO din 1996", "Muzeu în interiorul unui tumul"],
       en: ["Tomb of Philip II (Alexander's father)", "Golden larnax with star symbol", "UNESCO World Heritage site since 1996", "Museum located inside a burial mound"],
     },
-    imageHint: "The golden larnax of Philip II of Macedon",
-  },
+    imageHint: "The golden larnax of Philip II of Macedon", image: "/poi-images/greece-vergina-history-v2.webp"},
   {
     id: "greece-pella-history-v2",
     type: "ruins",
@@ -279,8 +267,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Templul Atenei Lindia (sec. IV î.Hr.)", "Castel ioanit din secolul XIV", "Gravură antică a unei nave în stâncă", "Cel mai important sit arheologic din Rodos"],
       en: ["Temple of Athena Lindia (4th century BC)", "14th-century fortress of the Knights", "Ancient ship engraving in the rock", "Most important archaeological site on Rhodes"],
     },
-    imageHint: "Ancient columns and medieval walls of Lindos Acropolis",
-  },
+    imageHint: "Ancient columns and medieval walls of Lindos Acropolis", image: "/poi-images/greece-lindos-acropolis-history-v2.webp"},
   {
     id: "greece-grand-master-palace-history-v2",
     type: "palace",
@@ -299,8 +286,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Construit în secolul XIV", "Distrus de o explozie în 1856", "Reconstruit de italieni în 1937", "Găzduiește mozaicuri antice din Kos"],
       en: ["Built in the 14th century", "Destroyed by an explosion in 1856", "Rebuilt by the Italians in 1937", "Houses ancient mosaics from Kos"],
     },
-    imageHint: "The medieval Palace of the Grand Master in Rhodes",
-  },
+    imageHint: "The medieval Palace of the Grand Master in Rhodes", image: "/poi-images/greece-grand-master-palace-history-v2.webp"},
   {
     id: "greece-spinalonga-history-v2",
     type: "castle",
@@ -319,8 +305,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Cetate venețiană din 1579", "Colonie de leproși între 1903 și 1957", "Protecția strategică a portului Elounda", "Invincibilă în fața otomanilor până în 1715"],
       en: ["Venetian fortress built in 1579", "Leper colony from 1903 to 1957", "Strategic protection for Elounda harbor", "Impregnable to Ottomans until 1715"],
     },
-    imageHint: "The fortified island of Spinalonga in Crete",
-  },
+    imageHint: "The fortified island of Spinalonga in Crete", image: "/poi-images/greece-spinalonga-history-v2.webp"},
   {
     id: "greece-tiryns-history-v2",
     type: "ruins",
@@ -339,8 +324,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Perioada de glorie în sec. XIII î.Hr.", "Ziduri de până la 8 metri grosime", "Patrimoniu UNESCO din 1999", "Faimos pentru galeriile subterane"],
       en: ["Peak of importance in 13th century BC", "Walls up to 8 meters thick", "UNESCO World Heritage site since 1999", "Famous for its vaulted galleries"],
     },
-    imageHint: "Massive Cyclopean walls of ancient Tiryns",
-  },
+    imageHint: "Massive Cyclopean walls of ancient Tiryns", image: "/poi-images/greece-tiryns-history-v2.webp"},
   {
     id: "greece-sounion-poseidon-history-v2",
     type: "monument",
@@ -359,8 +343,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Coloane dorice din marmură albă", "Lord Byron și-a gravat numele aici", "Locul legendei regelui Egeu", "60 de metri deasupra nivelului mării"],
       en: ["Doric columns of white marble", "Lord Byron carved his name into a pillar", "Site of the legend of King Aegeus", "Located 60 meters above sea level"],
     },
-    imageHint: "Temple of Poseidon at Cape Sounion during sunset",
-  },
+    imageHint: "Temple of Poseidon at Cape Sounion during sunset", image: "/poi-images/greece-sounion-poseidon-history-v2.webp"},
   {
     id: "greece-ancient-corinth-history-v2",
     type: "ruins",
@@ -379,8 +362,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Templul lui Apollo (cca. 540 î.Hr.)", "Centrul Ligii Corintiene", "Vizitat de Apostolul Pavel", "Acrocorintul ca fortăreață deasupra orașului"],
       en: ["Temple of Apollo (c. 540 BC)", "Center of the League of Corinth", "Visited by Apostle Paul", "Acrocorinth fortress overlooks the city"],
     },
-    imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
-  },
+    imageHint: "Columns of the Temple of Apollo in Ancient Corinth", image: "/poi-images/greece-ancient-corinth-history-v2.webp"},
   {
     id: "greece-messene-history-v2",
     type: "ruins",
@@ -399,8 +381,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Zid de incintă enorm (9 km lungime)", "Stadion și teatru superbe", "Fondat de Epaminondas", "Sanctuarul lui Artemis pe sit"],
       en: ["Enormous city wall (9 km long)", "Superb stadium and theater ruins", "Founded by Epaminondas", "Sanctuary of Artemis on site"],
     },
-    imageHint: "Ruins of the stadium and agora in Ancient Messene",
-  },
+    imageHint: "Ruins of the stadium and agora in Ancient Messene", image: "/poi-images/greece-messene-history-v2.webp"},
   {
     id: "greece-bassae-apollo-history-v2",
     type: "monument",
@@ -419,8 +400,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Primul sit UNESCO din Grecia", "Combină toate cele trei ordine antice", "Construit între 420-400 î.Hr.", "Situat la 1131 m altitudine"],
       en: ["First UNESCO World Heritage site in Greece", "Combines all three ancient orders of columns", "Built around 420-400 BC", "Located at 1131 meters altitude"],
     },
-    imageHint: "The Temple of Apollo Epicurius under its protective tent",
-  },
+    imageHint: "The Temple of Apollo Epicurius under its protective tent", image: "/poi-images/greece-bassae-apollo-history-v2.webp"},
   {
     id: "greece-dodona-history-v2",
     type: "ruins",
@@ -439,8 +419,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Menționat în Iliada lui Homer", "Teatru antic impresionant", "Centrul molosienilor", "Întrebările erau gravate pe tăblițe de plumb"],
       en: ["Mentioned in Homer's Iliad", "Impressive ancient theater", "Center of the Molossians", "Inquiries were carved onto lead tablets"],
     },
-    imageHint: "Ruins of the ancient theater of Dodona",
-  },
+    imageHint: "Ruins of the ancient theater of Dodona", image: "/poi-images/greece-dodona-history-v2.webp"},
   {
     id: "greece-philippi-history-v2",
     type: "ruins",
@@ -459,8 +438,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Bătălia de la Filipi (42 î.Hr.)", "Patrimoniu UNESCO din 2016", "Bazilici creștine timpurii conservate", "Situat pe Via Egnatia"],
       en: ["Battle of Philippi (42 BC)", "UNESCO World Heritage site since 2016", "Early Christian basilicas preserved", "Located along the Via Egnatia"],
     },
-    imageHint: "Archaeological ruins and basilicas of Philippi",
-  },
+    imageHint: "Archaeological ruins and basilicas of Philippi", image: "/poi-images/greece-philippi-history-v2.webp"},
   {
     id: "greece-monemvasia-history-v2",
     type: "town",
@@ -479,8 +457,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Fondat în secolul VI", "Fost port de export pentru vinul Malvasia", "Orașul de sus și de jos sunt separate", "Ziduri venețiene bine conservate"],
       en: ["Founded in the 6th century", "Former export port for Malvasia wine", "Separate upper and lower towns", "Well-preserved Venetian walls"],
     },
-    imageHint: "The rock of Monemvasia with the medieval town",
-  },
+    imageHint: "The rock of Monemvasia with the medieval town", image: "/poi-images/greece-monemvasia-history-v2.webp"},
   {
     id: "greece-white-tower-history-v2",
     type: "tower",
@@ -499,8 +476,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Construit în secolul XV", "Numit anterior 'Turnul Însângerat'", "Înălțime de 33,9 metri", "Astăzi muzeu de istorie a orașului"],
       en: ["Built in the 15th century", "Formerly known as the 'Bloody Tower'", "Height of 33.9 meters", "Now a museum of city history"],
     },
-    imageHint: "The White Tower of Thessaloniki by the sea",
-  },
+    imageHint: "The White Tower of Thessaloniki by the sea", image: "/poi-images/greece-white-tower-history-v2.webp"},
   {
     id: "greece-akrotiri-history-v2",
     type: "ruins",
@@ -519,8 +495,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Sistem de canalizare sofisticat", "Picturi murale magnifice (fresce)", "Nu s-au găsit schelete (evacuare)", "Așezare din epoca bronzului"],
       en: ["Highly advanced drainage system", "Magnificent wall paintings (frescoes)", "No skeletons found (successful evacuation)", "Bronze Age settlement"],
     },
-    imageHint: "Archaeological excavation of the ancient town of Akrotiri",
-  },
+    imageHint: "Archaeological excavation of the ancient town of Akrotiri", image: "/poi-images/greece-akrotiri-history-v2.webp"},
   {
     id: "greece-arch-galerius-history-v2",
     type: "monument",
@@ -539,8 +514,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Construit în jurul anului 300 d.Hr.", "Parte a cartierului palatului imperial", "Reliefurile arată scene de luptă", "Cunoscut local sub numele de 'Kamara'"],
       en: ["Built around 300 AD", "Part of the imperial palace complex", "Reliefs depict battle scenes", "Locally known as 'Kamara'"],
     },
-    imageHint: "The Arch of Galerius in Thessaloniki with stone reliefs",
-  },
+    imageHint: "The Arch of Galerius in Thessaloniki with stone reliefs", image: "/poi-images/greece-arch-galerius-history-v2.webp"},
   {
     id: "greece-palamidi-fortress-history-v2",
     type: "castle",
@@ -559,8 +533,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["857 de trepte duc sus", "Construită între 1711 și 1714", "Formată din 8 bastioane", "A servit ca închisoare pentru Kolokotronis"],
       en: ["857 steps lead up to the top", "Built between 1711 and 1714", "Consists of 8 bastions", "Served as a prison for Greek hero Kolokotronis"],
     },
-    imageHint: "Bastions of the Palamidi fortress overlooking the sea",
-  },
+    imageHint: "Bastions of the Palamidi fortress overlooking the sea", image: "/poi-images/greece-palamidi-fortress-history-v2.webp"},
   {
     id: "greece-salamis-battle-history-v2",
     type: "battlefield",
@@ -579,8 +552,7 @@ export const greeceHistoryV2: POI[] = [
       ro: ["Victorie sub Temistocle", "Regele persan Xerxes a privit lupta", "Asigurarea libertății grecești", "Monument modern pe insulă"],
       en: ["Victory under Themistocles", "Persian King Xerxes watched the battle", "Secured Greek independence", "Modern monument on the island"],
     },
-    imageHint: "Monument of the battle of Salamis near the coast",
-  },
+    imageHint: "Monument of the battle of Salamis near the coast", image: "/poi-images/greece-salamis-battle-history-v2.webp"},
   {
     id: "greece-samothrace-temple-history-v2",
     type: "ruins",

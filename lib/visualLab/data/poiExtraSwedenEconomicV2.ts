@@ -19,8 +19,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Cel mai adânc nivel de exploatare este la 1365 de metri", "Producția zilnică echivalează cu oțelul pentru șase turnuri Eiffel", "Centrul orașului Kiruna este mutat din cauza activității miniere", "Minereul este transportat pe cale ferată spre Narvik și Luleå"],
       en: ["Deepest mining level is at 1365 meters underground", "Daily production covers the steel needs of six Eiffel Towers", "The city center of Kiruna is being moved due to mining expansion", "Ore is transported via the Iron Ore Line to Narvik and Luleå"],
     },
-    imageHint: "Kiruna underground iron ore mine machinery",
-  },
+    imageHint: "Kiruna underground iron ore mine machinery", image: "/poi-images/sweden-kiruna-mine-economic-v2.webp"},
   {
     id: "sweden-gothenburg-port-economic-v2",
     type: "port",
@@ -59,8 +58,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Capacitate de producție de până la 60 GWh pe an", "Utilizează exclusiv energie hidroelectrică pentru producție", "Include o instalație integrată de reciclare a bateriilor", "Parteneriate cu mari producători auto precum Volkswagen"],
       en: ["Production capacity goal of up to 60 GWh per year", "Uses exclusively hydroelectric power for manufacturing", "Features an integrated battery recycling plant on site", "Collaborations with major automakers like Volkswagen and BMW"],
     },
-    imageHint: "Large modern industrial battery factory Northvolt",
-  },
+    imageHint: "Large modern industrial battery factory Northvolt", image: "/poi-images/sweden-northvolt-ett-economic-v2.webp"},
   {
     id: "sweden-ssab-lulea-economic-v2",
     type: "factory",
@@ -99,8 +97,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Are peste 15.000 de angajați în această locație", "Include cercetare, dezvoltare și fabricarea motoarelor", "Găzduiește una dintre cele mai moderne turnătorii din lume", "Centru pentru dezvoltarea sistemelor de camioane autonome"],
       en: ["Employs over 15,000 workers at this location", "Includes research, development, and engine manufacturing", "Home to one of the world's most modern foundries", "Hub for the development of autonomous truck systems"],
     },
-    imageHint: "Scania truck factory and headquarters building",
-  },
+    imageHint: "Scania truck factory and headquarters building", image: "/poi-images/sweden-scania-sodertalje-economic-v2.webp"},
   {
     id: "sweden-abb-vasteras-economic-v2",
     type: "industry",
@@ -119,8 +116,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Compania predecesoare ASEA a fost fondată în 1883", "Locul unde s-a dezvoltat transmisia în curent continuu (HVDC)", "Unul dintre cele mai mari centre de cercetare în robotică", "ABB este cel mai mare angajator privat din Västerås"],
       en: ["Predecessor company ASEA was founded here in 1883", "Birthplace of High Voltage Direct Current (HVDC) technology", "One of the world's largest research centers for robotics", "ABB is the largest private employer in Västerås"],
     },
-    imageHint: "ABB industrial research and manufacturing facility",
-  },
+    imageHint: "ABB industrial research and manufacturing facility", image: "/poi-images/sweden-abb-vasteras-economic-v2.webp"},
   {
     id: "sweden-saab-linkoping-economic-v2",
     type: "factory",
@@ -139,8 +135,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Locul de producție al avionului de luptă multirol JAS 39 Gripen", "Are aproximativ 5.000 de angajați în divizia de aeronautică", "Dispune de un aerodrom propriu pentru teste de zbor", "Colaborare cu Boeing pentru dezvoltarea avioanelor de antrenament"],
       en: ["Manufacturing site of the JAS 39 Gripen multirole fighter", "Employs around 5,000 people in the aeronautics division", "Features its own factory airfield for flight testing", "Collaboration with Boeing on training aircraft development"],
     },
-    imageHint: "Saab aerospace hangar with military aircraft",
-  },
+    imageHint: "Saab aerospace hangar with military aircraft", image: "/poi-images/sweden-saab-linkoping-economic-v2.webp"},
   {
     id: "sweden-sandvik-sandviken-economic-v2",
     type: "factory",
@@ -159,8 +154,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Fondată în 1862 de către Göran Fredrik Göransson", "Prima companie care a utilizat comercial metoda Bessemer", "Specializată în scule de așchiere și țevi din oțel inoxidabil", "Găzduiește un centru amplu de cercetare și dezvoltare"],
       en: ["Founded in 1862 by Göran Fredrik Göransson", "First company to commercially utilize the Bessemer process", "Specialized in metal cutting tools and stainless steel tubes", "Features a large research and development center on site"],
     },
-    imageHint: "Sandvik industrial complex and steel manufacturing",
-  },
+    imageHint: "Sandvik industrial complex and steel manufacturing", image: "/poi-images/sweden-sandvik-sandviken-economic-v2.webp"},
   {
     id: "sweden-aitik-mine-economic-v2",
     type: "mine",
@@ -179,8 +173,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Cea mai mare mină de cupru din Uniunea Europeană", "Utilizează unele dintre cele mai mari autobasculante din lume", "Peste 40 de milioane de tone de minereu sunt extrase anual", "Sisteme de transport fără șofer sunt în curs de testare"],
       en: ["Largest copper mine in the European Union", "Uses some of the world's largest haul trucks", "Over 40 million tons of ore are extracted annually", "Autonomous hauling systems are being tested on-site"],
     },
-    imageHint: "Large open pit copper mine with massive trucks",
-  },
+    imageHint: "Large open pit copper mine with massive trucks", image: "/poi-images/sweden-aitik-mine-economic-v2.webp"},
   {
     id: "sweden-kista-science-city-economic-v2",
     type: "industry",
@@ -199,8 +192,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Sediul central global al companiei Ericsson", "Peste 1.000 de companii își au sediul în acest cluster", "Îmbină industria, cercetarea și mediul universitar", "Centru pentru dezvoltarea 5G și tehnologiei mobile"],
       en: ["Home to Ericsson's global headquarters", "Over 1,000 companies are based in the cluster", "Unique mix of industry, research, and universities", "Major hub for 5G development and mobile technology"],
     },
-    imageHint: "Modern office buildings in Kista Science City Stockholm",
-  },
+    imageHint: "Modern office buildings in Kista Science City Stockholm", image: "/poi-images/sweden-kista-science-city-economic-v2.webp"},
   {
     id: "sweden-stenungsund-petrochemical-economic-v2",
     type: "factory",
@@ -219,8 +211,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Include companii precum Borealis, Perstorp și AkzoNobel", "Dispune de un port specializat pentru petrol și produse chimice", "Produce materii prime pentru construcții și industria auto", "Concentrat pe tranziția către materii prime bio"],
       en: ["Home to companies like Borealis, Perstorp, and AkzoNobel", "Features a specialized oil and chemical harbor", "Produces raw materials for construction and automotive industries", "Focusing on transitioning to bio-based raw materials"],
     },
-    imageHint: "Petrochemical refinery towers in Stenungsund",
-  },
+    imageHint: "Petrochemical refinery towers in Stenungsund", image: "/poi-images/sweden-stenungsund-petrochemical-economic-v2.webp"},
   {
     id: "sweden-ssab-oxelosund-economic-v2",
     type: "factory",
@@ -239,8 +230,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Lider mondial în oțel rezistent la uzură (Hardox)", "Prima unitate SSAB care trece la cuptoare cu arc electric", "Portul propriu este unul dintre cele mai adânci de la Marea Baltică", "Furnizor important pentru industria minieră și a macaralelor"],
       en: ["World leader in wear-resistant steel (Hardox)", "First SSAB plant to convert to electric arc furnaces", "The private harbor is one of the deepest on the Baltic Sea", "Major supplier for the mining and crane industries"],
     },
-    imageHint: "Steel factory by the sea with shipping docks",
-  },
+    imageHint: "Steel factory by the sea with shipping docks", image: "/poi-images/sweden-ssab-oxelosund-economic-v2.webp"},
   {
     id: "sweden-forsmark-npp-economic-v2",
     type: "industry",
@@ -259,8 +249,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Operează trei reactoare cu apă în fierbere", "Locul depozitului național pentru deșeuri radioactive (SFR)", "A fost pusă în funcțiune în anul 1980", "Răcirea se face cu apă din Marea Baltică"],
       en: ["Operates three boiling water reactors", "Site of the Swedish final repository for radioactive waste (SFR)", "First unit was commissioned in 1980", "Uses Baltic Sea water for cooling"],
     },
-    imageHint: "Forsmark nuclear power plant buildings by the coast",
-  },
+    imageHint: "Forsmark nuclear power plant buildings by the coast", image: "/poi-images/sweden-forsmark-npp-economic-v2.webp"},
   {
     id: "sweden-oskarshamn-npp-economic-v2",
     type: "industry",
@@ -279,8 +268,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Reactorul 3 are o putere netă de 1.400 MW", "Găzduiește depozitul central interimar pentru combustibil uzat (Clab)", "Primul reactor a fost conectat la rețea în 1972", "Este deținută majoritar de grupul Uniper"],
       en: ["Unit 3 has a net capacity of 1,400 MW", "Hosts the central interim storage for spent nuclear fuel (Clab)", "The first reactor went online in 1972", "Majority-owned by the Uniper group"],
     },
-    imageHint: "Oskarshamn nuclear facility Simpevarp",
-  },
+    imageHint: "Oskarshamn nuclear facility Simpevarp", image: "/poi-images/sweden-oskarshamn-npp-economic-v2.webp"},
   {
     id: "sweden-ringhals-npp-economic-v2",
     type: "industry",
@@ -299,8 +287,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Operează în prezent două reactoare active (3 și 4)", "Produce aproximativ 12% din electricitatea Suediei", "Singura locație din Suedia cu reactoare cu apă sub presiune", "Are o capacitate instalată de aproximativ 2.200 MW"],
       en: ["Currently operates two active reactors (3 and 4)", "Produces about 12% of Sweden's total electricity", "Only site in Sweden using pressurized water reactors", "Has an installed capacity of approximately 2,200 MW"],
     },
-    imageHint: "Ringhals nuclear plant at the Swedish west coast",
-  },
+    imageHint: "Ringhals nuclear plant at the Swedish west coast", image: "/poi-images/sweden-ringhals-npp-economic-v2.webp"},
   {
     id: "sweden-harspranget-power-economic-v2",
     type: "industry",
@@ -319,8 +306,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Capacitate instalată de 977 MW", "Producție anuală de aproximativ 2,1 TWh", "Sala turbinelor este construită în subteran, în stâncă", "Aici a început prima linie comercială de 400 kV"],
       en: ["Installed capacity of 977 MW", "Annual production of approximately 2.1 terawatt-hours", "The underground powerhouse is carved into the rock", "The world's first commercial 400 kV line started here"],
     },
-    imageHint: "Large dam and hydroelectric power plant Harsprånget",
-  },
+    imageHint: "Large dam and hydroelectric power plant Harsprånget", image: "/poi-images/sweden-harspranget-power-economic-v2.webp"},
   {
     id: "sweden-ikea-almhult-economic-v2",
     type: "industry",
@@ -359,8 +345,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Găzduiește Școala Suedeză de Textile (Textilhögskolan)", "Centru pentru numeroase companii de comerț la distanță", "Locația complexului 'Textile Fashion Center'", "Cunoscut istoric ca orașul comercianților ambulanți ('knalle')"],
       en: ["Home to the Swedish School of Textiles", "Center for many Swedish mail-order and e-commerce firms", "Hosts the 'Textile Fashion Center'", "Historically known as the city of wandering merchants ('knalle')"],
     },
-    imageHint: "Modern textile and fashion center building Borås",
-  },
+    imageHint: "Modern textile and fashion center building Borås", image: "/poi-images/sweden-boras-textile-economic-v2.webp"},
   {
     id: "sweden-karlskoga-bofors-economic-v2",
     type: "factory",
@@ -399,8 +384,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Peste 2.000 de cercetători lucrează la AstraZeneca în această locație", "Parte a proiectului 'GoCo Health Innovation City'", "Focus pe boli cardiovasculare, metabolice și respiratorii", "Colaborare strânsă cu Academia Sahlgrenska din Göteborg"],
       en: ["Over 2,000 researchers work at AstraZeneca on-site", "Part of the 'GoCo Health Innovation City' project", "Focus on cardiovascular, metabolic, and respiratory diseases", "Close collaboration with Sahlgrenska Academy in Gothenburg"],
     },
-    imageHint: "Modern pharmaceutical research laboratory building",
-  },
+    imageHint: "Modern pharmaceutical research laboratory building", image: "/poi-images/sweden-molndal-life-science-economic-v2.webp"},
   {
     id: "sweden-trollhattan-innovatum-economic-v2",
     type: "industry",
@@ -419,8 +403,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Locul unde se află PTC (Production Technology Center)", "Legătură strânsă cu GKN Aerospace (fostul Volvo Aero)", "Centru pentru producția de film ('Trollywood')", "Focus pe fabricație aditivă și robotică"],
       en: ["Home to the PTC (Production Technology Center)", "Strong links to GKN Aerospace (formerly Volvo Aero)", "Center for film production, known as 'Trollywood'", "Focus on additive manufacturing and robotics"],
     },
-    imageHint: "Industrial heritage buildings converted to science park",
-  },
+    imageHint: "Industrial heritage buildings converted to science park", image: "/poi-images/sweden-trollhattan-innovatum-economic-v2.webp"},
   {
     id: "sweden-ludvika-power-grid-economic-v2",
     type: "factory",
@@ -479,8 +462,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Produce celuloză pentru hârtie și textile", "Furnizează energie termică comunităților din apropiere", "Include o gateră de mari dimensiuni în incintă", "Deținută de peste 50.000 de proprietari de păduri prin Södra"],
       en: ["Produces market pulp for paper and textiles", "Supplies district heating to nearby communities", "Includes a large sawmill on the same site", "Owned by over 50,000 forest owners through the Södra cooperative"],
     },
-    imageHint: "Large industrial pulp mill with wood storage",
-  },
+    imageHint: "Large industrial pulp mill with wood storage", image: "/poi-images/sweden-monsteras-mill-economic-v2.webp"},
   {
     id: "sweden-hallstavik-mill-economic-v2",
     type: "factory",
@@ -499,8 +481,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Utilizează 100% fibre proaspete din pădurile suedeze", "Pionier în utilizarea căldurii reziduale din procesul de producție", "Port propriu pentru exportul către restul Europei", "Produce hârtie pentru reviste globale cunoscute"],
       en: ["Uses 100% fresh fibers from Swedish forests", "Pioneer in recovering heat from the production process", "Private port facilities for exports to Europe", "Produces paper for well-known global magazines"],
     },
-    imageHint: "Industrial paper mill Hallstavik with shipping port",
-  },
+    imageHint: "Industrial paper mill Hallstavik with shipping port", image: "/poi-images/sweden-hallstavik-mill-economic-v2.webp"},
   {
     id: "sweden-gavle-port-economic-v2",
     type: "port",
@@ -559,8 +540,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Cel mai mare port pentru feriboturi feroviare de la Marea Baltică", "Conexiuni către Travemünde, Rostock și Sassnitz", "Gestionează peste 1 milion de camioane anual", "Cel mai sudic port al Suediei"],
       en: ["Largest railway ferry port on the Baltic Sea", "Direct connections to Travemünde, Rostock, and Sassnitz", "Handles over 1 million trucks per year", "The southernmost port in Sweden"],
     },
-    imageHint: "Ferry terminal and trucks in Trelleborg port",
-  },
+    imageHint: "Ferry terminal and trucks in Trelleborg port", image: "/poi-images/sweden-trelleborg-port-economic-v2.webp"},
   {
     id: "sweden-malmo-harbor-economic-v2",
     type: "port",
@@ -579,8 +559,7 @@ export const swedenEconomicV2: POI[] = [
       ro: ["Nod central pentru vehicule noi în Scandinavia", "Fostul amplasament al șantierului naval Kockums", "Centru logistic major pentru produsele IKEA", "Integrare operațională strânsă cu portul Copenhaga"],
       en: ["Major hub for new car imports to Scandinavia", "Former site of the massive Kockums shipyard", "Large distribution center for IKEA products", "Operates as a single entity with the Port of Copenhagen"],
     },
-    imageHint: "Malmö harbor area with cars and cargo",
-  },
+    imageHint: "Malmö harbor area with cars and cargo", image: "/poi-images/sweden-malmo-harbor-economic-v2.webp"},
   {
     id: "sweden-svappavaara-mine-economic-v2",
     type: "mine",

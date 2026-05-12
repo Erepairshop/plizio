@@ -19,8 +19,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Pusă în funcțiune în anul 2002", "Turnuri de răcire cu înălțimea de 155 de metri", "Operată de compania energetică ČEZ", "Principalul exportator de energie al țării"],
       en: ["Commissioned in 2002", "Cooling towers stand 155 meters tall", "Operated by the ČEZ Group", "Largest electricity exporter in the country"],
     },
-    imageHint: "Temelin Nuclear Power Plant cooling towers and reactor buildings",
-  },
+    imageHint: "Temelin Nuclear Power Plant cooling towers and reactor buildings", image: "/poi-images/czechrepublic-temelin-nuclear-plant-economic-v2.webp"},
   {
     id: "czechrepublic-pilsner-urquell-brewery-economic-v2",
     type: "factory",
@@ -59,8 +58,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Investiție de peste 1 miliard de euro", "Producția a început în noiembrie 2008", "Exportă în peste 70 de țări", "Peste 3000 de angajați direcți"],
       en: ["Investment of over 1 billion Euros", "Production started in November 2008", "Exports to more than 70 countries", "Over 3,000 direct employees"],
     },
-    imageHint: "Hyundai car factory assembly line or exterior",
-  },
+    imageHint: "Hyundai car factory assembly line or exterior", image: "/poi-images/czechrepublic-hyundai-nosovice-economic-v2.webp"},
   {
     id: "czechrepublic-dukovany-nuclear-plant-economic-v2",
     type: "industry",
@@ -79,8 +77,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Primul bloc conectat la rețea în 1985", "Producție anuală de aproximativ 14 TWh", "8 turnuri de răcire de 125 de metri", "Situată în sud-estul Moraviei"],
       en: ["First unit connected to grid in 1985", "Annual production of approx 14 TWh", "8 cooling towers at 125 meters tall", "Located in southeastern Moravia"],
     },
-    imageHint: "Dukovany nuclear power plant with cooling towers",
-  },
+    imageHint: "Dukovany nuclear power plant with cooling towers", image: "/poi-images/czechrepublic-dukovany-nuclear-plant-economic-v2.webp"},
   {
     id: "czechrepublic-tatra-trucks-factory-economic-v2",
     type: "factory",
@@ -139,8 +136,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Capacitate de 5,4 milioane de tone pe an", "Fondată în 1939 ca uzină de hidrogenare", "Conectată la conducta Drujba", "Parte a grupului polonez ORLEN"],
       en: ["Processing capacity of 5.4 million tons", "Founded in 1939 as a hydrogenation plant", "Connected to the Druzhba pipeline", "Part of the Polish ORLEN Group"],
     },
-    imageHint: "Large industrial oil refinery in Litvinov",
-  },
+    imageHint: "Large industrial oil refinery in Litvinov", image: "/poi-images/czechrepublic-orlen-unipetrol-litvinov-economic-v2.webp"},
   {
     id: "czechrepublic-tpca-toyota-kolin-economic-v2",
     type: "factory",
@@ -159,8 +155,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Capacitate de 300.000 de mașini pe an", "Producția de serie a început în 2005", "Produce modelele Toyota Aygo X și Yaris", "Cel mai mare angajator din regiunea Kolín"],
       en: ["Production capacity of 300,000 cars", "Serial production started in 2005", "Builds Toyota Aygo X and Yaris models", "Key employer in the Kolín region"],
     },
-    imageHint: "Modern automotive factory exterior in Kolin",
-  },
+    imageHint: "Modern automotive factory exterior in Kolin", image: "/poi-images/czechrepublic-tpca-toyota-kolin-economic-v2.webp"},
   {
     id: "czechrepublic-bilina-coal-mine-economic-v2",
     type: "mine",
@@ -179,8 +174,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Adâncime de peste 200 de metri", "Extracție de lignit de înaltă calitate", "Utilizarea excavatoarelor gigantice", "Alimentează centrala termică Ledvice"],
       en: ["Depth of over 200 meters", "High-quality brown coal extraction", "Uses giant bucket-wheel excavators", "Supplies the Ledvice power plant"],
     },
-    imageHint: "Giant bucket-wheel excavator in an open coal mine",
-  },
+    imageHint: "Giant bucket-wheel excavator in an open coal mine", image: "/poi-images/czechrepublic-bilina-coal-mine-economic-v2.webp"},
   {
     id: "czechrepublic-kohinoor-hardtmuth-economic-v2",
     type: "factory",
@@ -199,8 +193,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Inventarea minei de creion în 1802", "Exportă în peste 80 de țări", "Numele provine de la faimosul diamant", "Producția celebrelor creioane galbene '1500'"],
       en: ["Invention of the pencil lead in 1802", "Exporting to over 80 countries", "Named after the famous diamond", "Producer of the iconic '1500' yellow pencil"],
     },
-    imageHint: "Koh-i-Noor Hardtmuth factory building or pencils",
-  },
+    imageHint: "Koh-i-Noor Hardtmuth factory building or pencils", image: "/poi-images/czechrepublic-kohinoor-hardtmuth-economic-v2.webp"},
   {
     id: "czechrepublic-petrof-pianos-economic-v2",
     type: "factory",
@@ -219,8 +212,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Fondată de Antonín Petrof", "Exportă în 65 de țări din lume", "Afacere de familie la a 5-a generație", "Centru propriu de cercetare și dezvoltare"],
       en: ["Founded by Antonín Petrof", "Exports to 65 countries worldwide", "5th generation family business", "In-house research and development"],
     },
-    imageHint: "Grand piano production in Petrof factory",
-  },
+    imageHint: "Grand piano production in Petrof factory", image: "/poi-images/czechrepublic-petrof-pianos-economic-v2.webp"},
   {
     id: "czechrepublic-zentiva-prague-economic-v2",
     type: "factory",
@@ -239,8 +231,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Producție de 120 milioane de cutii", "Prezență în peste 50 de piețe", "Rădăcini ce datează din secolul XV", "Centru de dezvoltare a genericelor"],
       en: ["Production of 120 million packs", "Presence in over 50 markets", "Roots dating back to the 15th century", "Hub for generic drug development"],
     },
-    imageHint: "Modern pharmaceutical laboratory or factory exterior",
-  },
+    imageHint: "Modern pharmaceutical laboratory or factory exterior", image: "/poi-images/czechrepublic-zentiva-prague-economic-v2.webp"},
   {
     id: "czechrepublic-unipetrol-spolana-economic-v2",
     type: "factory",
@@ -259,8 +250,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Fondat în 1898", "Singurul producător ceh de PVC", "Suprafață de peste 250 de hectare", "Peste 80% din producție merge la export"],
       en: ["Founded in 1898", "Only Czech producer of PVC", "Area of over 250 hectares", "Export share exceeding 80%"],
     },
-    imageHint: "Industrial chemical plant with pipes and chimneys",
-  },
+    imageHint: "Industrial chemical plant with pipes and chimneys", image: "/poi-images/czechrepublic-unipetrol-spolana-economic-v2.webp"},
   {
     id: "czechrepublic-continental-barum-economic-v2",
     type: "factory",
@@ -279,8 +269,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Producție de 20 milioane anvelope pe an", "Fondată în 1948 prin fuziune", "Peste 4500 de angajați la locație", "Parte a Continental AG din 1993"],
       en: ["Produces 20 million tires annually", "Founded in 1948 through fusion", "Over 4,500 employees on site", "Part of Continental AG since 1993"],
     },
-    imageHint: "Industrial tire manufacturing facility in Otrokovice",
-  },
+    imageHint: "Industrial tire manufacturing facility in Otrokovice", image: "/poi-images/czechrepublic-continental-barum-economic-v2.webp"},
   {
     id: "czechrepublic-prague-stock-exchange-economic-v2",
     type: "landmark",
@@ -299,8 +288,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Principalul indice este PX", "Membru al Vienna Stock Exchange Group", "Sistem electronic de tranzacționare", "Fondată inițial în 1871"],
       en: ["Main index is the PX", "Member of the Vienna Stock Exchange Group", "Electronic trading system", "Originally founded in 1871"],
     },
-    imageHint: "Modern financial building exterior in Prague",
-  },
+    imageHint: "Modern financial building exterior in Prague", image: "/poi-images/czechrepublic-prague-stock-exchange-economic-v2.webp"},
   {
     id: "czechrepublic-port-of-decin-economic-v2",
     type: "port",
@@ -319,8 +307,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Cel mai nordic port ceh pe Elba", "Manipulare de mărfuri grele și containere", "Operare tot anul (funcție de nivel)", "Conexiune feroviară directă"],
       en: ["Northernmost Czech port on the Elbe", "Handles heavy cargo and containers", "Year-round operation (level dependent)", "Direct rail connection"],
     },
-    imageHint: "River port with cranes and cargo ships in Decin",
-  },
+    imageHint: "River port with cranes and cargo ships in Decin", image: "/poi-images/czechrepublic-port-of-decin-economic-v2.webp"},
   {
     id: "czechrepublic-aero-vodochody-economic-v2",
     type: "factory",
@@ -339,8 +326,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Fondată în 1919", "Producătorul avionului L-39 Albatros", "Dispune de propriul aerodrom", "Peste 6500 de avioane produse"],
       en: ["Founded in 1919", "Producer of the L-39 Albatros", "Operates its own private airfield", "Over 6,500 aircraft produced"],
     },
-    imageHint: "Aero L-39 Albatros aircraft at a factory",
-  },
+    imageHint: "Aero L-39 Albatros aircraft at a factory", image: "/poi-images/czechrepublic-aero-vodochody-economic-v2.webp"},
   {
     id: "czechrepublic-amazon-fulfillment-dobroviz-economic-v2",
     type: "industry",
@@ -359,8 +345,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Suprafață de 95.000 de metri pătrați", "Deschis în anul 2015", "Peste 3000 de angajați permanenți", "Tehnologie de sortare de ultimă oră"],
       en: ["Area of 95,000 square meters", "Opened in 2015", "Over 3,000 permanent employees", "State-of-the-art sorting technology"],
     },
-    imageHint: "Huge modern warehouse building exterior",
-  },
+    imageHint: "Huge modern warehouse building exterior", image: "/poi-images/czechrepublic-amazon-fulfillment-dobroviz-economic-v2.webp"},
   {
     id: "czechrepublic-liberty-ostrava-steel-economic-v2",
     type: "industry",
@@ -399,8 +384,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Fondată în 1904", "Produsul principal: îngrășăminte cu azot", "Parte a grupului Agrofert", "Situată direct pe malul Elbei"],
       en: ["Founded in 1904", "Main products are nitrogen fertilizers", "Part of the Agrofert Group", "Located directly on the Elbe river"],
     },
-    imageHint: "Large chemical factory complex next to a river",
-  },
+    imageHint: "Large chemical factory complex next to a river", image: "/poi-images/czechrepublic-lovochemie-lovosice-economic-v2.webp"},
   {
     id: "czechrepublic-crystalex-novy-bor-economic-v2",
     type: "factory",
@@ -419,8 +403,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Lider mondial în pahare cu picior", "Exportă în peste 70 de țări", "Utilizează cristal fără plumb", "Centrul industriei sticlei boemiene"],
       en: ["World leader in stemware production", "Exports to over 70 countries", "Uses lead-free crystal glass", "Hub of the Bohemian glass industry"],
     },
-    imageHint: "Elegant crystal wine glasses in a factory showroom",
-  },
+    imageHint: "Elegant crystal wine glasses in a factory showroom", image: "/poi-images/czechrepublic-crystalex-novy-bor-economic-v2.webp"},
   {
     id: "czechrepublic-becherovka-distillery-economic-v2",
     type: "factory",
@@ -439,8 +422,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Inventat de Josef Vitus Becher", "Peste 20 de plante secrete", "Exportă în peste 40 de țări", "Fabrică modernă în Bohatice"],
       en: ["Invented by Josef Vitus Becher", "Over 20 secret herbs", "Exports to more than 40 countries", "Modern production facility in Bohatice"],
     },
-    imageHint: "Becherovka bottles and production facility",
-  },
+    imageHint: "Becherovka bottles and production facility", image: "/poi-images/czechrepublic-becherovka-distillery-economic-v2.webp"},
   {
     id: "czechrepublic-okd-mining-karvina-economic-v2",
     type: "mine",
@@ -459,8 +441,7 @@ export const czechrepublicEconomicV2: POI[] = [
       ro: ["Minerit la peste 1000 m adâncime", "Operator de stat", "Esențial pentru producția de oțel", "Sediul în Karviná"],
       en: ["Deep mining at over 1,000 meters", "State-owned operator", "Crucial for steel production", "Headquartered in Karviná"],
     },
-    imageHint: "Hard coal mine shaft tower",
-  },
+    imageHint: "Hard coal mine shaft tower", image: "/poi-images/czechrepublic-okd-mining-karvina-economic-v2.webp"},
   {
     id: "czechrepublic-kofola-factory-krnov-economic-v2",
     type: "factory",

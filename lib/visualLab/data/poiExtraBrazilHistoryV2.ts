@@ -26,8 +26,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       de: ["Eine gut erhaltene Kolonialstadt, die im 18. Jahrhundert das Zentrum des brasilianischen Goldrausches war.", "Liegt im Gebiet der Föderativen Republik Brasilien."],
       hu: ["Egy kiválóan megőrzött gyarmati város, amely a 18. században a brazil aranyláz központja volt.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Un oraș colonial bine conservat, care a fost centrul goanei după aur din Brazilia în secolul al XVIII-lea.", "Se află pe teritoriul Republicii Federative a Braziliei."]
-    },
-  },
+    }, image: "/poi-images/ouro-preto-history-v2.webp"},
   {
     id: "pelourinho-history-v2",
     type: "historical",
@@ -52,8 +51,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       de: ["Das historische Zentrum von Salvador da Bahia mit seinen bunten Kolonialhäusern und afro-brasilianischer Kultur.", "Liegt im Gebiet der Föderativen Republik Brasilien."],
       hu: ["Salvador da Bahia történelmi központja színes gyarmati házakkal és afro-brazil kultúrával.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Centrul istoric al orașului Salvador da Bahia, cu case coloniale colorate și cultură afro-braziliană.", "Se află pe teritoriul Republicii Federative a Braziliei."]
-    },
-  },
+    }, image: "/poi-images/pelourinho-history-v2.webp"},
   {
     id: "sao-miguel-missoes-history-v2",
     type: "historical",
@@ -78,8 +76,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       de: ["Ruinen einer Jesuitenreduktion aus dem 17. Jahrhundert im Süden Brasiliens.", "Liegt im Gebiet der Föderativen Republik Brasilien."],
       hu: ["Egy 17. századi jezsuita misszió romjai Dél-Brazíliában.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Ruinele unei reduceri iezuite din secolul al XVII-lea în sudul Braziliei.", "Se află pe teritoriul Republicii Federative a Braziliei."]
-    },
-  },
+    }, image: "/poi-images/sao-miguel-missoes-history-v2.webp"},
   {
     id: "tiradentes-history-v2",
     type: "historical",
@@ -104,8 +101,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       de: ["Eine charmante Kolonialstadt, benannt nach einem Helden der brasilianischen Unabhängigkeitsbewegung.", "Liegt im Gebiet der Föderativen Republik Brasilien."],
       hu: ["Egy bájos gyarmati város, amelyet a brazil függetlenségi mozgalom egyik hőséről neveztek el.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Un oraș colonial fermecător, numit după un erou al mișcării de independență a Braziliei.", "Se află pe teritoriul Republicii Federative a Braziliei."]
-    },
-  },
+    }, image: "/poi-images/tiradentes-history-v2.webp"},
   {
     id: "congonhas-sanctuary-history-v2",
     type: "historical",
@@ -130,8 +126,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       de: ["UNESCO-Weltkulturerbe.", "Zw\\\\u00f6lf Prophetenstatuen.", "Barocke Kunst.", "Wichtiger Wallfahrtsort.", "Erbaut im 18. Jahrhundert.", "Ein Wallfahrtsort mit berühmten Skulpturen des Künstlers Aleijadinho aus dem 18. Jahrhundert.", "Liegt im Gebiet der Föderativen Republik Brasilien."],
       hu: ["Zarándokhely, amely a 18. századi Aleijadinho művész híres szobrairól ismert.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Un loc de pelerinaj cu sculpturi faimoase ale artistului Aleijadinho din secolul al XVIII-lea.", "Se află pe teritoriul Republicii Federative a Braziliei."]
-    },
-  },
+    }, image: "/poi-images/congonhas-sanctuary-history-v2.webp"},
   {
     id: "diamantina-history-v2",
     type: "historical",
@@ -156,8 +151,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       de: ["Eine historische Kolonialstadt, die durch den Diamantenabbau im 18. und 19. Jahrhundert reich wurde.", "Liegt im Gebiet der Föderativen Republik Brasilien."],
       ro: ["Un oraș colonial istoric care s-a îmbogățit din mineritul de diamante în secolele XVIII și XIX.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["A historic colonial town that grew rich from diamond mining in the 18th and 19th centuries.", "Located within the Federative Republic of Brazil."]
-    }
-  },
+    }, image: "/poi-images/diamantina-history-v2.webp"},
   {
     id: "paraty-history-v2",
     type: "historical",
@@ -182,8 +176,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       de: ["Eine idyllische Küstenstadt, die früher ein wichtiger Hafen für den Goldtransport nach Portugal war.", "Liegt im Gebiet der Föderativen Republik Brasilien."],
       ro: ["Un oraș de coastă idilic, care a fost odată un port important pentru transportul aurului către Portugalia.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["An idyllic coastal town that was formerly an important port for transporting gold to Portugal.", "Located within the Federative Republic of Brazil."]
-    }
-  },
+    }, image: "/poi-images/paraty-history-v2.webp"},
   {
     id: "alcantara-history-v2",
     type: "historical",
@@ -208,8 +201,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       de: ["Eine historische Stadt voller kolonialer Ruinen, die einst das Zentrum des Baumwollanbaus war.", "Liegt im Gebiet der Föderativen Republik Brasilien."],
       ro: ["Un oraș istoric plin de ruine coloniale, care a fost odată centrul cultivării bumbacului.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["A historic city full of colonial ruins that was once the center of cotton cultivation.", "Located within the Federative Republic of Brazil."]
-    }
-  },
+    }, image: "/poi-images/alcantara-history-v2.webp"},
   {
     id: "sao-cristovao-history-v2",
     type: "historical",
@@ -234,8 +226,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       de: ["Eine der ältesten Städte Brasiliens mit dem UNESCO-geschützten São-Francisco-Platz.", "Liegt im Gebiet der Föderativen Republik Brasilien."],
       ro: ["Unul dintre cele mai vechi orașe din Brazilia, cu Piața São Francisco protejată de UNESCO.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["One of Brazil's oldest cities, featuring the UNESCO-protected São Francisco Square.", "Located within the Federative Republic of Brazil."]
-    }
-  },
+    }, image: "/poi-images/sao-cristovao-history-v2.webp"},
   {
     id: "goias-velho-history-v2",
     type: "historical",
@@ -260,8 +251,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       de: ["Die ehemalige Hauptstadt des Bundesstaates Goiás, bekannt für ihre koloniale Architektur und Traditionen.", "Liegt im Gebiet der Föderativen Republik Brasilien."],
       ro: ["Fosta capitală a statului Goiás, cunoscută pentru arhitectura sa colonială și tradițiile sale.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["The former capital of the state of Goiás, known for its colonial architecture and traditions.", "Located within the Federative Republic of Brazil."]
-    }
-  },
+    }, image: "/poi-images/goias-velho-history-v2.webp"},
   {
     id: "cais-do-valongo-history-v2",
     type: "historical",
@@ -311,8 +301,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Minas Gerais állam legrégebbi városa, amely barokk építészetben és történelemben gazdag.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Cel mai vechi oraș din statul Minas Gerais, bogat în arhitectură barocă și istorie.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["The oldest city in the state of Minas Gerais, rich in Baroque architecture and history.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/mariana-history-v2.webp"},
   {
     id: "sabara-history-v2",
     type: "historical",
@@ -337,8 +326,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Történelmi város Belo Horizonte közelében, amely barokk örökségéről és a Jabuticaba fesztiválról ismert.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Un oraș istoric lângă Belo Horizonte, cunoscut pentru moștenirea sa barocă și festivalul Jabuticaba.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["A historic city near Belo Horizonte, known for its Baroque heritage and the Jabuticaba festival.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/sabara-history-v2.webp"},
   {
     id: "sao-joao-del-rei-history-v2",
     type: "historical",
@@ -363,8 +351,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Történelmi város Minas Gerais államban, amely gazdag barokk építészetéről és régi vasútvonaláról híres.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Un oraș istoric din Minas Gerais, faimos pentru arhitectura sa barocă bogată și linia veche de cale ferată.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["City of Bells.", "Birthplace of Tancredo Neves.", "Steam train connection to Tiradentes.", "Magnificent Baroque churches.", "Historic center.", "A historic city in Minas Gerais, famous for its rich Baroque architecture and the old railway line.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/sao-joao-del-rei-history-v2.webp"},
   {
     id: "serra-da-capivara-history-v2",
     type: "historical",
@@ -414,8 +401,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Egy pompás operaház Manausban, amelyet a kaucsukláz idején, a 19. század végén építettek.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["O casă de operă magnifică în Manaus, construită în timpul boom-ului cauciucului la sfârșitul secolului al XIX-lea.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["A magnificent opera house in Manaus, built during the rubber boom in the late 19th century.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/teatro-amazonas-history-v2.webp"},
   {
     id: "iguape-history-v2",
     type: "historical",
@@ -440,8 +426,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Történelmi város São Paulóban, amely egykor az aranymosásnak és a rizstermesztésnek köszönhetően virágzott.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Un oraș istoric din São Paulo, care a înflorit odată datorită spălării aurului și cultivării orezului.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["A historic city in São Paulo that once flourished due to gold panning and rice cultivation.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/iguape-history-v2.webp"},
   {
     id: "cananeia-history-v2",
     type: "historical",
@@ -466,8 +451,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Brazília egyik legrégebbi települése, festői tengerparti régióban.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Pretinde a fi cel mai vechi ora\\\\u0219 din Brazilia.", "Port istoric.", "Arhitectur\\\\u0103 colonial\\\\u0103.", "Aproape de Ilha do Cardoso.", "Fondat \\\\u00een jurul anului 1531.", "Una dintre cele mai vechi așezări din Brazilia, situată într-o regiune de coastă pitorească.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["Claims to be the oldest city in Brazil.", "Historic port.", "Colonial architecture.", "Near Ilha do Cardoso.", "Founded around 1531.", "One of the oldest settlements in Brazil, located in a picturesque coastal region.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/cananeia-history-v2.webp"},
   {
     id: "antonina-history-v2",
     type: "historical",
@@ -517,8 +501,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Bájos történelmi város Paranában, híres hagyományos Barreado ételéről és az atlanti esőerdőn át vezető vonatútjáról.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Un oraș istoric fermecător din Paraná, faimos pentru felul de mâncare tradițional Barreado și plimbarea cu trenul prin pădurea atlantică.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["A charming historic town in Paraná, famous for its traditional Barreado dish and the train ride through the Atlantic Forest.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/morretes-history-v2.webp"},
   {
     id: "pirenopolis-history-v2",
     type: "historical",
@@ -543,8 +526,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Történelmi város Goiásban, amely gyarmati örökségéről és a Cavalhadas fesztiválról ismert.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Un oraș istoric din Goiás, cunoscut pentru moștenirea sa colonială și festivalul Cavalhadas.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["Known as Piri.", "Historic center is a protected monument.", "Cavalhadas festival.", "Surrounded by waterfalls.", "A historic town in Goiás known for its colonial heritage and the Cavalhadas festival.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/pirenopolis-history-v2.webp"},
   {
     id: "cachoeira-history-v2",
     type: "historical",
@@ -569,8 +551,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Történelmi város Bahia államban, amely az afro-brazil kultúra és történelem fontos központja.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Un oraș istoric în statul Bahia, care este un centru important al culturii și istoriei afro-braziliene.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["A historic city in the state of Bahia that is an important center of Afro-Brazilian culture and history.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/cachoeira-history-v2.webp"},
   {
     id: "forte-reis-magos-history-v2",
     type: "historical",
@@ -595,8 +576,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Csillag alakú erőd Natalban, amelyet a 16. században építettek a portugálok a part védelmére.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["O fortăreață în formă de stea în Natal, construită de portughezi în secolul al XVI-lea pentru a apăra coasta.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["Built in 1598.", "Star-shaped layout.", "Located at the mouth of the Potengi River.", "Oldest structure in Natal.", "Contains the Marco de Touros.", "A star-shaped fortress in Natal, built by the Portuguese in the 16th century to defend the coast.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/forte-reis-magos-history-v2.webp"},
   {
     id: "forte-copacabana-history-v2",
     type: "historical",
@@ -621,8 +601,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Történelmi katonai bázis a Copacabana végén, amely ma egy hadtörténeti múzeumnak ad otthont.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["O bază militară istorică la capătul plajei Copacabana, care găzduiește astăzi un muzeu militar.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["Built in 1914.", "Houses the Army Historical Museum.", "German Krupp cannons.", "Site of the Revolt of the 18 of the Fort.", "Offers a panoramic view of Copacabana.", "A historic military base at the end of Copacabana beach, now housing a military museum.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/forte-copacabana-history-v2.webp"},
   {
     id: "palacio-catete-history-v2",
     type: "historical",
@@ -647,8 +626,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Brazília egykori elnöki palotája Rio de Janeiróban, amely ma a Köztársaság Múzeumaként működik.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Fostul palat prezidențial al Braziliei din Rio de Janeiro, care servește acum ca Muzeul Republicii.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["The former presidential palace of Brazil in Rio de Janeiro, now serving as the Museum of the Republic.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/palacio-catete-history-v2.webp"},
   {
     id: "theatro-da-paz-history-v2",
     type: "historical",
@@ -673,8 +651,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Egy pompás operaház Belémben, amelyet a kaucsukláz virágkorában építettek.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["O operă magnifică din Belém, construită în perioada de glorie a boom-ului cauciucului.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["Built in 1878.", "Neoclassical style.", "Frescoes by Domenico de Angelis.", "Symbol of rubber wealth.", "Capacity for 900 spectators.", "A magnificent opera house in Belém, built during the heyday of the rubber boom.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/theatro-da-paz-history-v2.webp"},
   {
     id: "forte-do-presepio-history-v2",
     type: "historical",
@@ -699,8 +676,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Az első portugál védelmi létesítmény az Amazonas régióban, amely Belém városának eredetét jelöli.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Prima instalație de apărare portugheză din regiunea Amazonului, care marchează originea orașului Belém.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["The first Portuguese defense installation in the Amazon region, marking the origin of the city of Belém.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/forte-do-presepio-history-v2.webp"},
   {
     id: "farol-da-barra-history-v2",
     type: "historical",
@@ -725,8 +701,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Történelmi világítótorony Salvadorban, amely a Forte de Santo Antônio da Barra erődben található.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["Un far istoric în Salvador, situat în Forte de Santo Antônio da Barra.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["One of the oldest lighthouses in the Americas.", "Built in 1698.", "Part of the Nautical Museum of Bahia.", "Popular spot for sunsets.", "Black and white striped pattern.", "A historic lighthouse in Salvador, located within the Forte de Santo Antônio da Barra.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/farol-da-barra-history-v2.webp"},
   {
     id: "igreja-sao-francisco-history-v2",
     type: "historical",
@@ -751,8 +726,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Lenyűgöző barokk templom Salvadorban, melynek belsejét szinte teljesen aranyfüst borítja.", "A Brazil Szövetségi Köztársaság területén található."],
       ro: ["O impresionantă biserică barocă din Salvador, al cărei interior este aproape complet acoperit cu foiță de aur.", "Se află pe teritoriul Republicii Federative a Braziliei."],
       en: ["An impressive Baroque church in Salvador, whose interior is almost completely covered in gold leaf.", "Located within the Federative Republic of Brazil."],
-    }
-  },
+    }, image: "/poi-images/igreja-sao-francisco-history-v2.webp"},
   {
     id: "real-gabinete-history-v2",
     type: "historical",

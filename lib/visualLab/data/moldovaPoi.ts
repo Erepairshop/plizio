@@ -76,8 +76,7 @@ export const moldovaPoi: POI[] = [
         "The proximity to Chișinău has transformed the city into an important residential and commuter hub for the capital.",
         "Nearby telecommunication infrastructure includes the tallest transmission tower in the country."
       ]
-    }
-  },
+    }, image: "/poi-images/MD-027-straseni-city.webp"},
   {
     id: "MD-027-capriana-monastery",
     type: "historical",
@@ -153,8 +152,7 @@ export const moldovaPoi: POI[] = [
         "Local industry includes large-scale extraction of high-quality sand and gravel from nearby quarries.",
         "Socialist realist architecture, including statues in the central park, reflects the city's Soviet-era development."
       ]
-    }
-  },
+    }, image: "/poi-images/MD-028-anenii-noi-city.webp"},
   {
     id: "MD-028-serpeni-bridgehead",
     type: "historical",
@@ -230,8 +228,7 @@ export const moldovaPoi: POI[] = [
         "OrheiLand has become a popular modern attraction for families from across the region.",
         "The nearby archaeological site of Orheiul Vechi provides essential context for the area's historical development."
       ]
-    }
-  },
+    }, image: "/poi-images/MD-029-orhei-city.webp"},
   {
     id: "MD-029-curchi-monastery",
     type: "historical",
@@ -307,8 +304,7 @@ export const moldovaPoi: POI[] = [
         "FC Sheriff Tiraspol has brought the city international attention through European football competitions.",
         "The Transnistrian ruble, used for local transactions, is not recognized internationally."
       ]
-    }
-  },
+    }, image: "/poi-images/MD-030-tiraspol-city.webp"},
   {
     id: "MD-030-kvint-distillery",
     type: "landmark",

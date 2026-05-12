@@ -19,8 +19,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondat în anul 1957", "Cel mai mare terminal de automobile din Mediterană", "Trafic anual de peste 20 de milioane de tone", "Principalul punct de ieșire la mare pentru Austria și Ungaria"],
       en: ["Founded in 1957", "One of the largest car terminals in the Mediterranean", "Annual throughput exceeds 20 million tons", "Main maritime gateway for Austria and Hungary"],
     },
-    imageHint: "Aerial view of the Port of Koper container terminal",
-  },
+    imageHint: "Aerial view of the Port of Koper container terminal", image: "/poi-images/slovenia-luka-koper-economic-v2.webp"},
   {
     id: "slovenia-krka-novo-mesto-economic-v2",
     type: "factory",
@@ -39,8 +38,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1954", "Exportă în peste 70 de țări", "Peste 12.000 de angajați la nivel mondial", "Specializată în medicamente eliberate pe bază de rețetă"],
       en: ["Founded in 1954", "Exports to over 70 countries", "Over 12,000 employees worldwide", "Specialized in prescription pharmaceuticals"],
     },
-    imageHint: "Modern factory complex of Krka in Novo Mesto",
-  },
+    imageHint: "Modern factory complex of Krka in Novo Mesto", image: "/poi-images/slovenia-krka-novo-mesto-economic-v2.webp"},
   {
     id: "slovenia-revoz-novo-mesto-economic-v2",
     type: "factory",
@@ -79,8 +77,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1950", "Peste 6.000 de angajați în Velenje", "Parte a grupului Hisense din 2018", "Rată de export de peste 90%"],
       en: ["Founded in 1950", "Over 6,000 employees in Velenje", "Part of Hisense Group since 2018", "Export rate exceeds 90 percent"],
     },
-    imageHint: "Gorenje industrial complex in Velenje",
-  },
+    imageHint: "Gorenje industrial complex in Velenje", image: "/poi-images/slovenia-gorenje-velenje-economic-v2.webp"},
   {
     id: "slovenia-nek-krsko-economic-v2",
     type: "industry",
@@ -99,8 +96,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["În funcțiune din 1983", "Reactor cu apă sub presiune Westinghouse", "Furnizează energie pentru Slovenia și Croația", "Putere netă de aproximativ 700 megawați"],
       en: ["Operational since 1983", "Westinghouse pressurized water reactor", "Supplies power to both Slovenia and Croatia", "Net capacity of around 700 megawatts"],
     },
-    imageHint: "Exterior of the Krško Nuclear Power Plant with cooling towers",
-  },
+    imageHint: "Exterior of the Krško Nuclear Power Plant with cooling towers", image: "/poi-images/slovenia-nek-krsko-economic-v2.webp"},
   {
     id: "slovenia-talum-kidricevo-economic-v2",
     type: "factory",
@@ -119,8 +115,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1954", "Specializată în aliaje de aluminiu", "Exportator major către Uniunea Europeană", "Lider în reciclarea aluminiului"],
       en: ["Founded in 1954", "Specialized in aluminum alloys", "Major exporter to the European Union", "Leader in aluminum recycling"],
     },
-    imageHint: "Talum industrial site in Kidričevo",
-  },
+    imageHint: "Talum industrial site in Kidričevo", image: "/poi-images/slovenia-talum-kidricevo-economic-v2.webp"},
   {
     id: "slovenia-steklarna-rogaska-economic-v2",
     type: "factory",
@@ -139,8 +134,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1927", "Producție artizanală de cristal", "Produce trofee pentru evenimente sportive mondiale", "Exportă în peste 50 de țări"],
       en: ["Founded in 1927", "Handcrafted crystal production", "Produces trophies for major global sports events", "Exports to over 50 countries"],
     },
-    imageHint: "Skilled glassblower working at Steklarna Rogaška",
-  },
+    imageHint: "Skilled glassblower working at Steklarna Rogaška", image: "/poi-images/slovenia-steklarna-rogaska-economic-v2.webp"},
   {
     id: "slovenia-lek-ljubljana-economic-v2",
     type: "factory",
@@ -159,8 +153,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1946", "Parte a grupului Sandoz/Novartis", "Lider în dezvoltarea de biosimilare", "Deține mai multe puncte de lucru în Slovenia"],
       en: ["Founded in 1946", "Part of the Sandoz/Novartis Group", "Leader in biosimilar development", "Operates multiple sites across Slovenia"],
     },
-    imageHint: "Modern pharmaceutical laboratory at Lek Ljubljana",
-  },
+    imageHint: "Modern pharmaceutical laboratory at Lek Ljubljana", image: "/poi-images/slovenia-lek-ljubljana-economic-v2.webp"},
   {
     id: "slovenia-akrapovic-ivancna-gorica-economic-v2",
     type: "factory",
@@ -179,8 +172,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în 1990 de Igor Akrapovič", "Furnizor pentru MotoGP și Formula 1", "Specialist în tehnologia titanului", "Câștigător a numeroase premii de design"],
       en: ["Founded in 1990 by Igor Akrapovič", "Supplier for MotoGP and Formula 1", "Specialist in titanium technology", "Multiple winner of international design awards"],
     },
-    imageHint: "Akrapovič titanium exhaust system for a sports car",
-  },
+    imageHint: "Akrapovič titanium exhaust system for a sports car", image: "/poi-images/slovenia-akrapovic-ivancna-gorica-economic-v2.webp"},
   {
     id: "slovenia-pipistrel-ajdovscina-economic-v2",
     type: "factory",
@@ -199,8 +191,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1989", "Primul avion electric certificat din lume", "Câștigător al multor competiții NASA", "Achiziționată de Textron în 2022"],
       en: ["Founded in 1989", "World's first certified electric aircraft", "Winner of multiple NASA challenges", "Part of Textron since 2022"],
     },
-    imageHint: "Pipistrel Velis Electro plane on an airfield",
-  },
+    imageHint: "Pipistrel Velis Electro plane on an airfield", image: "/poi-images/slovenia-pipistrel-ajdovscina-economic-v2.webp"},
   {
     id: "slovenia-idrija-mercury-mine-economic-v2",
     type: "mine",
@@ -219,8 +210,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Descoperirea mercurului în 1490", "Patrimoniu UNESCO din 2012", "Odată a doua mină ca mărime din lume", "Astăzi deschisă ca mină-muzeu"],
       en: ["Mercury discovered in 1490", "UNESCO World Heritage site since 2012", "Formerly second largest mine worldwide", "Now open as a museum mine"],
     },
-    imageHint: "Entrance to the Anthony Main Road of the Idrija mine",
-  },
+    imageHint: "Entrance to the Anthony Main Road of the Idrija mine", image: "/poi-images/slovenia-idrija-mercury-mine-economic-v2.webp"},
   {
     id: "slovenia-mezica-mine-economic-v2",
     type: "mine",
@@ -239,8 +229,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Minerit din perioada romană", "Peste 1.000 de kilometri de galerii", "Închiderea minei în anul 1994", "Tururi unice cu caiacul sub pământ"],
       en: ["Mining since Roman times", "Over 1,000 kilometers of tunnels", "Mine closure in 1994", "Unique underground kayaking tours"],
     },
-    imageHint: "Tourists cycling through an underground mine tunnel",
-  },
+    imageHint: "Tourists cycling through an underground mine tunnel", image: "/poi-images/slovenia-mezica-mine-economic-v2.webp"},
   {
     id: "slovenia-sostanj-power-plant-economic-v2",
     type: "industry",
@@ -259,8 +248,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Cea mai mare termocentrală din țară", "Folosește lignit de la Velenje", "Blocul 6 a devenit operațional în 2015", "Furnizor important de încălzire centralizată"],
       en: ["Largest thermal power plant in the country", "Fueled by Velenje lignite", "Unit 6 operational since 2015", "Major district heating supplier"],
     },
-    imageHint: "Large cooling tower of the Šoštanj power plant",
-  },
+    imageHint: "Large cooling tower of the Šoštanj power plant", image: "/poi-images/slovenia-sostanj-power-plant-economic-v2.webp"},
   {
     id: "slovenia-velenje-coal-mine-economic-v2",
     type: "mine",
@@ -279,8 +267,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Singura mină de cărbune activă din Slovenia", "Extracție de lignit la adâncimi mari", "Găzduiește Muzeul Mineritului din Slovenia", "Centrul regiunii industriale Velenje"],
       en: ["Slovenia's only active coal mine", "Lignite extraction at significant depths", "Home to the Slovenian Coal Mining Museum", "Hub of the Velenje industrial region"],
     },
-    imageHint: "Mining equipment at the Velenje coal mine surface",
-  },
+    imageHint: "Mining equipment at the Velenje coal mine surface", image: "/poi-images/slovenia-velenje-coal-mine-economic-v2.webp"},
   {
     id: "slovenia-cinkarna-celje-economic-v2",
     type: "industry",
@@ -299,8 +286,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1873", "Specializată în dioxid de titan", "Angajator major în orașul Celje", "Exportă pe piețele globale"],
       en: ["Founded in 1873", "Specialized in titanium dioxide", "Major employer in Celje", "Exports to global markets"],
     },
-    imageHint: "Industrial skyline of Cinkarna Celje factory",
-  },
+    imageHint: "Industrial skyline of Cinkarna Celje factory", image: "/poi-images/slovenia-cinkarna-celje-economic-v2.webp"},
   {
     id: "slovenia-perutnina-ptuj-economic-v2",
     type: "factory",
@@ -319,8 +305,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1905", "Lider de piață în regiune", "Producție proprie de furaje", "Exportă în peste 20 de țări"],
       en: ["Founded in 1905", "Regional market leader", "In-house feed production", "Exports to over 20 countries"],
     },
-    imageHint: "Modern food processing facility of Perutnina Ptuj",
-  },
+    imageHint: "Modern food processing facility of Perutnina Ptuj", image: "/poi-images/slovenia-perutnina-ptuj-economic-v2.webp"},
   {
     id: "slovenia-radenska-boraceva-economic-v2",
     type: "factory",
@@ -379,8 +364,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Peste 500 de magazine retail", "Peste 21 de milioane de vizitatori anual", "Fost cel mai mare depozit vamal din Iugoslavia", "Centru pentru inovație și start-up-uri"],
       en: ["Over 500 retail stores", "Over 21 million annual visitors", "Formerly Yugoslavia's largest customs warehouse", "Hub for innovation and start-ups"],
     },
-    imageHint: "Aerial view of the massive BTC City complex in Ljubljana",
-  },
+    imageHint: "Aerial view of the massive BTC City complex in Ljubljana", image: "/poi-images/slovenia-btc-city-ljubljana-economic-v2.webp"},
   {
     id: "slovenia-secovlje-salt-pans-economic-v2",
     type: "industry",
@@ -399,8 +383,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Peste 700 de ani de tradiție", "Extracția florii de sare (Fleur de Sel)", "Combinație între parc natural și industrie", "Folosește puterea soarelui și a vântului"],
       en: ["Over 700 years of salt-making tradition", "Harvesting of premium Fleur de Sel", "Combination of nature park and industry", "Uses solar and wind evaporation"],
     },
-    imageHint: "Traditional salt harvesting at Sečovlje pans",
-  },
+    imageHint: "Traditional salt harvesting at Sečovlje pans", image: "/poi-images/slovenia-secovlje-salt-pans-economic-v2.webp"},
   {
     id: "slovenia-impol-slovenska-bistrica-economic-v2",
     type: "factory",
@@ -419,8 +402,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Tradiție din anul 1825", "Specialist în aliaje de aluminiu", "Exportă aproape întreaga producție", "Furnizor cheie pentru industria UE"],
       en: ["Tradition dating back to 1825", "Specialist in aluminum alloys", "Exports nearly its entire production", "Key supplier for EU industry"],
     },
-    imageHint: "Aluminum rolling process in the Impol factory",
-  },
+    imageHint: "Aluminum rolling process in the Impol factory", image: "/poi-images/slovenia-impol-slovenska-bistrica-economic-v2.webp"},
   {
     id: "slovenia-sava-tires-kranj-economic-v2",
     type: "factory",
@@ -439,8 +421,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Parte a grupului Goodyear", "Peste 1.500 de angajați în Kranj", "Producție pentru piețele mondiale", "Lider de piață în Slovenia"],
       en: ["Part of the Goodyear Group", "Over 1,500 employees in Kranj", "Production for global markets", "Market leader in Slovenia"],
     },
-    imageHint: "New tires stacked in a storage facility in Kranj",
-  },
+    imageHint: "New tires stacked in a storage facility in Kranj", image: "/poi-images/slovenia-sava-tires-kranj-economic-v2.webp"},
   {
     id: "slovenia-helios-domzale-economic-v2",
     type: "factory",
@@ -459,8 +440,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1924", "Parte a grupului Kansai Paint", "Lider în Europa Centrală și de Est", "Specialist în acoperiri industriale"],
       en: ["Founded in 1924", "Part of the Kansai Paint Group", "Leader in Central and Eastern Europe", "Specialist in industrial coatings"],
     },
-    imageHint: "Industrial paint mixing equipment at the Helios factory",
-  },
+    imageHint: "Industrial paint mixing equipment at the Helios factory", image: "/poi-images/slovenia-helios-domzale-economic-v2.webp"},
   {
     id: "slovenia-paloma-sladki-vrh-economic-v2",
     type: "factory",
@@ -479,8 +459,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Tradiție din anul 1873", "Lider de piață în regiunea Adriatică", "Peste 140 de ani de producție", "Parte a grupului SHP"],
       en: ["Tradition since 1873", "Market leader in the Adriatic region", "Over 140 years of papermaking", "Part of the SHP Group"],
     },
-    imageHint: "Paper manufacturing machine at the Paloma factory",
-  },
+    imageHint: "Paper manufacturing machine at the Paloma factory", image: "/poi-images/slovenia-paloma-sladki-vrh-economic-v2.webp"},
   {
     id: "slovenia-zito-ljubljana-economic-v2",
     type: "factory",
@@ -499,8 +478,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1947", "Cea mai mare brutărie din țară", "Parte a grupului Podravka", "Gamă largă de produse alimentare de bază"],
       en: ["Founded in 1947", "Largest bakery in the country", "Member of the Podravka Group", "Wide range of staple food products"],
     },
-    imageHint: "Freshly baked bread at a Žito industrial bakery",
-  },
+    imageHint: "Freshly baked bread at a Žito industrial bakery", image: "/poi-images/slovenia-zito-ljubljana-economic-v2.webp"},
   {
     id: "slovenia-unior-zrece-economic-v2",
     type: "factory",
@@ -519,8 +497,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Tradiție din anul 1919", "Una dintre cele mai mari forje din Europa", "Specialist în unelte pentru biciclete", "Angajator major în regiunea Rogla"],
       en: ["Tradition since 1919", "One of the largest forging plants in Europe", "Specialist in bicycle-specific tools", "Key employer in the Rogla region"],
     },
-    imageHint: "Precision hand tools manufactured at the Unior plant",
-  },
+    imageHint: "Precision hand tools manufactured at the Unior plant", image: "/poi-images/slovenia-unior-zrece-economic-v2.webp"},
   {
     id: "slovenia-zlatolicje-hydro-power-economic-v2",
     type: "industry",
@@ -539,8 +516,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Cea mai puternică hidrocentrală din Slovenia", "Situată pe râul Drava", "În funcțiune din 1968", "Parte a lanțului de centrale de pe Drava"],
       en: ["Most powerful hydroelectric plant in Slovenia", "Located on the Drava River", "Operational since 1968", "Part of the Drava power plant chain"],
     },
-    imageHint: "Aerial view of the Zlatoličje dam and power station",
-  },
+    imageHint: "Aerial view of the Zlatoličje dam and power station", image: "/poi-images/slovenia-zlatolicje-hydro-power-economic-v2.webp"},
   {
     id: "slovenia-trbovlje-chimney-economic-v2",
     type: "industry",
@@ -559,8 +535,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Cea mai înaltă structură din Slovenia (360 m)", "Cel mai înalt coș industrial din Europa", "Construit în doar 210 zile", "Simbol al moștenirii industriale"],
       en: ["Tallest structure in Slovenia (360 m)", "Tallest industrial chimney in Europe", "Construction took only 210 days", "Symbol of industrial heritage"],
     },
-    imageHint: "The towering Trbovlje chimney rising above the valley",
-  },
+    imageHint: "The towering Trbovlje chimney rising above the valley", image: "/poi-images/slovenia-trbovlje-chimney-economic-v2.webp"},
   {
     id: "slovenia-ljubljanske-mlekarne-economic-v2",
     type: "factory",
@@ -579,8 +554,7 @@ export const sloveniaEconomicV2: POI[] = [
       ro: ["Cea mai mare unitate de lactate din Slovenia", "Procesează exclusiv lapte sloven", "Parte a grupului Lactalis", "Producător al popularei înghețate Planica"],
       en: ["Largest dairy company in Slovenia", "Processes exclusively Slovenian milk", "Part of the Lactalis Group", "Manufacturer of the popular Planica ice cream"],
     },
-    imageHint: "Dairy production line at Ljubljanske mlekarne",
-  },
+    imageHint: "Dairy production line at Ljubljanske mlekarne", image: "/poi-images/slovenia-ljubljanske-mlekarne-economic-v2.webp"},
   {
     id: "slovenia-intereuropa-koper-economic-v2",
     type: "industry",

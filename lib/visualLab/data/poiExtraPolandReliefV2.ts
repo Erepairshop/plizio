@@ -32,8 +32,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-rysy-peak-relief-v2.webp"},
   {
     id: "poland-tatra-mountains-relief-v2",
     type: "mountain",
@@ -64,8 +63,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-tatra-mountains-relief-v2.webp"},
   {
     id: "poland-sniezka-peak-relief-v2",
     type: "peak",
@@ -96,8 +94,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-sniezka-peak-relief-v2.webp"},
   {
     id: "poland-bieszczady-mountains-relief-v2",
     type: "mountain",
@@ -128,8 +125,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-bieszczady-mountains-relief-v2.webp"},
   {
     id: "poland-tarnica-peak-relief-v2",
     type: "peak",
@@ -160,8 +156,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-tarnica-peak-relief-v2.webp"},
   {
     id: "poland-stolowe-mountains-relief-v2",
     type: "mountain",
@@ -192,8 +187,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-stolowe-mountains-relief-v2.webp"},
   {
     id: "poland-pieniny-mountains-relief-v2",
     type: "mountain",
@@ -224,8 +218,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-pieniny-mountains-relief-v2.webp"},
   {
     id: "poland-holy-cross-mountains-relief-v2",
     type: "mountain",
@@ -256,8 +249,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-holy-cross-mountains-relief-v2.webp"},
   {
     id: "poland-lysica-peak-relief-v2",
     type: "peak",
@@ -288,8 +280,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-lysica-peak-relief-v2.webp"},
   {
     id: "poland-beskid-slaski-range-relief-v2",
     type: "mountain",
@@ -320,8 +311,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-beskid-slaski-range-relief-v2.webp"},
   {
     id: "poland-skrzyczne-peak-relief-v2",
     type: "peak",
@@ -352,8 +342,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-skrzyczne-peak-relief-v2.webp"},
   {
     id: "poland-turbacz-peak-relief-v2",
     type: "peak",
@@ -384,8 +373,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-turbacz-peak-relief-v2.webp"},
   {
     id: "poland-jura-upland-relief-v2",
     type: "mountain",
@@ -416,8 +404,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-jura-upland-relief-v2.webp"},
   {
     id: "poland-lublin-upland-relief-v2",
     type: "landmark",
@@ -448,8 +435,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-lublin-upland-relief-v2.webp"},
   {
     id: "poland-sandomierz-basin-relief-v2",
     type: "valley",
@@ -481,8 +467,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-sandomierz-basin-relief-v2.webp"},
   {
     id: "poland-masurian-lake-district-relief-v2",
     type: "lake",
@@ -513,8 +498,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-masurian-lake-district-relief-v2.webp"},
   {
     id: "poland-lacka-dune-relief-v2",
     type: "landmark",
@@ -545,8 +529,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-lacka-dune-relief-v2.webp"},
   {
     id: "poland-jelenia-gora-valley-relief-v2",
     type: "valley",
@@ -577,8 +560,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-jelenia-gora-valley-relief-v2.webp"},
   {
     id: "poland-beskid-zywiecki-range-relief-v2",
     type: "mountain",
@@ -609,8 +591,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-beskid-zywiecki-range-relief-v2.webp"},
   {
     id: "poland-sudetes-mountains-relief-v2",
     type: "mountain",
@@ -641,8 +622,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-sudetes-mountains-relief-v2.webp"},
   {
     id: "poland-beskid-niski-range-relief-v2",
     type: "mountain",
@@ -673,8 +653,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-beskid-niski-range-relief-v2.webp"},
   {
     id: "poland-pogorze-przemyskie-upland-relief-v2",
     type: "mountain",
@@ -705,8 +684,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-pogorze-przemyskie-upland-relief-v2.webp"},
   {
     id: "poland-beskid-sadecki-range-relief-v2",
     type: "mountain",
@@ -737,8 +715,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-beskid-sadecki-range-relief-v2.webp"},
   {
     id: "poland-gorce-mountains-relief-v2",
     type: "mountain",
@@ -769,8 +746,7 @@ export const polandReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-gorce-mountains-relief-v2.webp"},
   {
     id: "poland-north-european-plain-relief-v2",
     type: "landmark",

@@ -31,8 +31,7 @@ export const polandHistoryV2: POI[] = [
       hu: ["A csata dátuma: 1410. július 15.", "Szembenálló felek: Lengyel-Litván Unió és a Német Lovagrend.", "A szövetséges sereget II. Jagelló Ulászló király vezette.", "A Német Lovagrend nagymestere, Ulrich von Jungingen, elesett a csatában.", "A harcosok becsült száma meghaladta az 50 000 főt.", "A helyszínen ma múzeum és emlékmű áll.", "Az éves csata-újrajátszás több tízezer látogatót vonz.", "A csatamező a Varmia-mazúriai vajdaságban található.", "A győzelem megállította a Német Lovagrend keleti terjeszkedését.", "Lengyelország és Litvánia történetének egyik legfontosabb csatájának tartják.", "Vytautas litván nagyfejedelem is fontos parancsnok volt.", "A csata körülbelül 10 órán át tartott."],
       ro: ["Data bătăliei: 15 iulie 1410.", "Părți în conflict: Uniunea Polono-Lituaniană împotriva Ordinului Teutonic.", "Forțele aliate au fost comandate de regele Władysław al II-lea Jagiełło.", "Marele Maestru al Ordinului Teutonic, Ulrich von Jungingen, a fost ucis în luptă.", "Numărul estimat de combatanți a depășit 50.000.", "Un muzeu și un monument se află acum la fața locului.", "Reconstituirea anuală atrage zeci de mii de spectatori.", "Câmpul de luptă este situat în Voievodatul Varmia-Masuria.", "Victoria a oprit expansiunea Ordinului Teutonic spre est.", "Considerată una dintre cele mai importante bătălii din istoria Poloniei și a Lituaniei.", "Marele Duce Lituanian Vytautas a fost un comandant important.", "Bătălia a durat aproximativ 10 ore."],
       en: ["Date of the battle: July 15, 1410.", "Fought between the Polish-Lithuanian Union and the Teutonic Order.", "Allied forces were commanded by King Władysław II Jagiełło.", "The Teutonic Order's Grand Master, Ulrich von Jungingen, was killed in battle.", "The estimated number of combatants exceeded 50,000.", "A museum and memorial mound now stand on the site.", "The annual reenactment attracts tens of thousands of spectators.", "The battlefield is located in the Warmian-Masurian Voivodeship.", "The victory halted the eastward expansion of the Teutonic Order.", "Considered one of the most important battles in the history of Poland and Lithuania.", "Lithuanian Grand Duke Vytautas was a key commander.", "The battle lasted for about 10 hours."],
-    },
-  },
+    }, image: "/poi-images/poland-grunwald-battlefield-history-v2.webp"},
   {
     id: "poland-biskupin-settlement-history-v2",
     type: "museum",
@@ -63,8 +62,7 @@ export const polandHistoryV2: POI[] = [
       hu: ["A kora vaskorból származik, kb. i. e. 738-ból.", "A lausitzi kultúra része.", "1933-ban egy helyi tanár fedezte fel.", "A Biskupin-tó egy félszigetén található.", "Az eredeti település tölgy- és fenyőfából épült.", "Egy 500 méter hosszú sánc vette körül.", "A település több mint 100, sorokba rendezett házból állt.", "Becsült lakossága 600-800 fő volt.", "Megőrzöttsége miatt „lengyel Pompejinek” nevezik.", "Évente régészeti fesztivált rendeznek itt.", "Felfedezése szenzációnak számított a lengyel régészetben.", "Az utcákat fapallókkal borították."],
       ro: ["Datează din prima epocă a fierului, în jurul anului 738 î.Hr.", "Parte a culturii lusatiane.", "Descoperită în 1933 de un profesor local.", "Situată pe o peninsulă în lacul Biskupin.", "Așezarea originală a fost construită din lemn de stejar și pin.", "Înconjurată de un val de pământ lung de 500 de metri.", "Așezarea era formată din peste 100 de case dispuse în rânduri.", "Populație estimată: 600-800 de persoane.", "Numită „Pompeiiul polonez” pentru starea sa de conservare.", "Aici are loc un festival arheologic anual.", "Descoperirea sa a fost o senzație în arheologia poloneză.", "Străzile erau pavate cu scânduri de lemn."],
       en: ["Dates from the Early Iron Age, around 738 BC.", "Part of the Lusatian culture.", "Discovered in 1933 by a local teacher.", "Located on a peninsula in Lake Biskupin.", "The original settlement was built of oak and pine wood.", "Surrounded by a 500-meter-long rampart.", "The settlement consisted of over 100 houses arranged in rows.", "Estimated population of 600-800 people.", "Called the 'Polish Pompeii' for its preservation.", "An annual archaeological festival is held here.", "Its discovery was a sensation in Polish archaeology.", "The streets were covered with wooden planks."],
-    },
-  },
+    }, image: "/poi-images/poland-biskupin-settlement-history-v2.webp"},
   {
     id: "poland-westerplatte-history-v2",
     type: "monument",
@@ -95,8 +93,7 @@ export const polandHistoryV2: POI[] = [
       hu: ["A második világháború első európai ütközetének helyszíne.", "A támadás 1939. szeptember 1-jén, 4:48-kor kezdődött.", "A lengyel helyőrség körülbelül 200 katonából állt.", "A védekezés hét napig tartott, szeptember 7-ig.", "A támadást a német Schleswig-Holstein csatahajó indította.", "A Partvédők Emlékművét 1966-ban avatták fel.", "Az emlékmű 25 méter magas.", "Csak maroknyi lengyel védő esett el a harcokban.", "A lengyel védelem parancsnoka Henryk Sucharski őrnagy volt.", "Westerplatte a háború előtt lengyel katonai raktár volt.", "A laktanya romjait az emlékhely részeként megőrizték.", "„Westerplatte még mindig védekezik” – vált híres rádióüzenetté."],
       ro: ["Locul primei bătălii a celui de-al Doilea Război Mondial în Europa.", "Atacul a început la ora 4:48 AM, pe 1 septembrie 1939.", "Garnizoana poloneză era formată din aproximativ 200 de soldați.", "Apărarea a durat șapte zile, până pe 7 septembrie.", "Atacul a fost inițiat de cuirasatul german Schleswig-Holstein.", "Monumentul Apărătorilor Coastei a fost dezvelit în 1966.", "Monumentul are o înălțime de 25 de metri.", "Doar o mână de apărători polonezi au fost uciși în luptă.", "Comandantul apărării poloneze a fost maiorul Henryk Sucharski.", "Westerplatte era un depozit militar polonez înainte de război.", "Ruinele cazărmilor sunt păstrate ca parte a memorialului.", "„Westerplatte încă se apără” a devenit un faimos anunț radio."],
       en: ["Site of the first battle of World War II in Europe.", "The attack began at 4:48 AM on September 1, 1939.", "The Polish garrison consisted of about 200 soldiers.", "The defense lasted for seven days, until September 7.", "The assault was initiated by the German battleship Schleswig-Holstein.", "The Monument to the Coast Defenders was unveiled in 1966.", "The monument stands 25 meters (82 ft) tall.", "Only a handful of Polish defenders were killed in the fighting.", "The commander of the Polish defense was Major Henryk Sucharski.", "Westerplatte was a Polish Military Transit Depot before the war.", "The ruins of the barracks are preserved as part of the memorial.", "'Westerplatte fights on' became a famous radio broadcast line."],
-    },
-  },
+    }, image: "/poi-images/poland-westerplatte-history-v2.webp"},
   {
     id: "poland-wawel-castle-history-v2",
     type: "castle",
@@ -127,8 +124,7 @@ export const polandHistoryV2: POI[] = [
       hu: ["A lengyel királyok rezidenciája 1795-ig.", "A krakkói Wawel-dombon található.", "A komplexum magában foglalja a várat, a Wawel-székesegyházat és más épületeket.", "Román, gótikus, reneszánsz és barokk építészeti stílusok keveréke.", "A Wawel-székesegyház a lengyel uralkodók koronázási helyszíne volt.", "Itt található II. Zsigmond Ágost király híres flamand faliszőnyeg-gyűjteménye.", "A Wawel-sárkány legendája a dombhoz kötődik.", "1978-ban az UNESCO Világörökség részévé nyilvánították.", "A vár súlyosan megrongálódott Lengyelország felosztásai során.", "Ma az ország egyik vezető művészeti múzeumaként működik.", "Itt őrzik a lengyel koronázási kardot, a Szczerbiecet.", "A királyi lakosztályok látogathatók."],
       ro: ["Reședința regilor polonezi până în 1795.", "Situat pe Dealul Wawel din Cracovia.", "Complexul include castelul, Catedrala Wawel și alte clădiri.", "Reprezintă un amestec de arhitectură romanică, gotică, renascentistă și barocă.", "Catedrala Wawel a fost locul de încoronare a monarhilor polonezi.", "Găzduiește faimoasa colecție de tapiserii flamande a regelui Sigismund al II-lea Augustus.", "Legenda Dragonului Wawel este asociată cu dealul.", "Declarat sit al Patrimoniului Mondial UNESCO în 1978.", "Castelul a fost grav avariat în timpul împărțirilor Poloniei.", "Astăzi servește ca unul dintre cele mai importante muzee de artă din țară.", "Conține sabia de încoronare a monarhilor polonezi, Szczerbiec.", "Apartamentele regale sunt deschise publicului."],
       en: ["Residence of Polish kings until 1795.", "Located on Wawel Hill in Kraków.", "The complex includes the castle, Wawel Cathedral, and other buildings.", "Represents a blend of Romanesque, Gothic, Renaissance, and Baroque architecture.", "Wawel Cathedral was the coronation site of Polish monarchs.", "Houses the famous collection of Flemish tapestries by King Sigismund II Augustus.", "The legend of the Wawel Dragon is associated with the hill.", "Declared a UNESCO World Heritage Site in 1978.", "The castle was heavily damaged during the Partitions of Poland.", "Today it serves as one of the country's premier art museums.", "Contains the Polish monarchs' coronation sword, Szczerbiec.", "The Royal Private Apartments are open to the public."],
-    },
-  },
+    }, image: "/poi-images/poland-wawel-castle-history-v2.webp"},
   {
     id: "poland-malbork-castle-history-v2",
     type: "castle",
@@ -159,8 +155,7 @@ export const polandHistoryV2: POI[] = [
       hu: ["Területét tekintve a világ legnagyobb téglavára.", "A Német Lovagrend építette.", "Az építkezés a 13. században kezdődött.", "1309 és 1457 között a nagymester székhelye volt.", "A Nogat folyó partján fekszik.", "1997-ben az UNESCO Világörökség részévé nyilvánították.", "A magas-, közép- és alsóvárból áll.", "A vár területe körülbelül 21 hektár.", "A második világháborúban körülbelül 50%-ban elpusztult.", "A helyreállítási munkálatok a mai napig tartanak.", "Múzeumnak ad otthont, többek között borostyán gyűjteménnyel.", "A középkori erődépítészet kiemelkedő példája."],
       ro: ["Cel mai mare castel de cărămidă din lume ca suprafață.", "Construit de Ordinul Teutonic.", "Construcția a început în secolul al XIII-lea.", "A servit ca reședință a Marelui Maestru între 1309 și 1457.", "Situat pe malul râului Nogat.", "Declarat sit al Patrimoniului Mondial UNESCO în 1997.", "Constă din Castelul Înalt, Mijlociu și de Jos.", "Castelul acoperă o suprafață de aproximativ 21 de hectare.", "A fost distrus în proporție de aproximativ 50% în Al Doilea Război Mondial.", "Lucrările de restaurare continuă și astăzi.", "Găzduiește un muzeu cu diverse colecții, inclusiv de chihlimbar.", "Un exemplu remarcabil de fortăreață medievală."],
       en: ["Largest brick castle in the world by land area.", "Built by the Teutonic Order.", "Construction began in the 13th century.", "Served as the Grand Master's seat from 1309 to 1457.", "Located on the bank of the Nogat River.", "Designated a UNESCO World Heritage site in 1997.", "Consists of the High, Middle, and Lower Castles.", "The castle complex covers about 21 hectares (52 acres).", "Was about 50% destroyed during World War II.", "Restoration work continues to this day.", "Houses a museum with various collections, including amber.", "A quintessential example of a medieval fortress."],
-    },
-  },
+    }, image: "/poi-images/poland-malbork-castle-history-v2.webp"},
   {
     id: "poland-auschwitz-birkenau-history-v2",
     type: "museum",
@@ -191,8 +186,7 @@ export const polandHistoryV2: POI[] = [
       hu: ["A legnagyobb náci koncentrációs és megsemmisítő tábor.", "1940 és 1945 között működött.", "Több mint 1,1 millió embert gyilkoltak meg itt.", "Az áldozatok körülbelül 90%-a zsidó volt.", "Három fő táborból állt: Auschwitz I, Auschwitz II-Birkenau és Auschwitz III-Monowitz.", "1945. január 27-én a szovjet hadsereg szabadította fel.", "1979-ben felvették az UNESCO Világörökségi listájára.", "Az Auschwitz I kapuján a cinikus „Arbeit macht frei” felirat áll.", "Auschwitz II-Birkenau volt a fő megsemmisítő központ.", "Évente több mint kétmillió ember látogatja.", "Az emlékhely területe közel 200 hektár.", "A holokauszt szimbóluma és az emlékezés helyszíne."],
       ro: ["Cel mai mare lagăr de concentrare și exterminare nazist.", "Operațional din 1940 până în 1945.", "Peste 1,1 milioane de oameni au fost uciși aici.", "Aproximativ 90% dintre victime erau evrei.", "Format din trei lagăre principale: Auschwitz I, Auschwitz II-Birkenau și Auschwitz III-Monowitz.", "Eliberat de armata sovietică la 27 ianuarie 1945.", "Inclus în Patrimoniul Mondial UNESCO în 1979.", "Poarta de la Auschwitz I poartă inscripția cinică „Arbeit macht frei” (Munca te eliberează).", "Auschwitz II-Birkenau a fost principalul centru de exterminare.", "Vizitat de peste două milioane de persoane anual.", "Memorialul acoperă o suprafață de aproape 200 de hectare.", "Un simbol al Holocaustului și un loc de comemorare."],
       en: ["Largest Nazi concentration and extermination camp.", "Operational from 1940 to 1945.", "Over 1.1 million people were murdered here.", "Approximately 90% of the victims were Jewish.", "Comprised of three main camps: Auschwitz I, Auschwitz II-Birkenau, and Auschwitz III-Monowitz.", "Liberated by the Soviet army on January 27, 1945.", "Inscribed on the UNESCO World Heritage list in 1979.", "The gate of Auschwitz I bears the cynical inscription 'Arbeit macht frei' (Work sets you free).", "Auschwitz II-Birkenau was the main extermination center.", "Visited by over two million people annually.", "The memorial site covers an area of nearly 200 hectares.", "A symbol of the Holocaust and a place of remembrance."],
-    },
-  },
+    }, image: "/poi-images/poland-auschwitz-birkenau-history-v2.webp"},
   {
     id: "poland-wolfs-lair-history-v2",
     type: "ruins",
@@ -223,8 +217,7 @@ export const polandHistoryV2: POI[] = [
       hu: ["Hitler első keleti fronti főhadiszállása.", "1941 júniusától 1944 novemberéig működött.", "Hitler több mint 800 napot töltött itt.", "A mai Lengyelországban, Kętrzyn (egykori Rastenburg) közelében található.", "A komplexum körülbelül 80 épületből és bunkerből állt.", "A Stauffenberg-féle 1944. július 20-i merénylet helyszíne.", "A bunkerek vasbeton falai akár 8 méter vastagok is voltak.", "A visszavonuló németek 1945 januárjában felrobbantották a komplexumot.", "A neve Hitler „Farkas” becenevére utal.", "Az álcázás kulcsfontosságú volt, hálókat és műfákat használtak.", "Saját vasútállomása és két repülőtere volt.", "Ma turisztikai látványosság, a helyszínen szállodával és étteremmel."],
       ro: ["Primul cartier general al lui Hitler pe Frontul de Est.", "Operațional din iunie 1941 până în noiembrie 1944.", "Hitler a petrecut peste 800 de zile aici.", "Situat lângă Kętrzyn (fostul Rastenburg) în Polonia de astăzi.", "Complexul cuprindea aproximativ 80 de clădiri și buncăre.", "Locul tentativei de asasinat de la 20 iulie 1944 de către Stauffenberg.", "Buncărele aveau pereți de beton armat de până la 8 metri grosime.", "Germanii în retragere au aruncat în aer complexul în ianuarie 1945.", "Numele se referă la porecla lui Hitler, „Lupul”.", "Camuflajul era esențial, cu plase și copaci artificiali.", "Avea propria sa gară și două aerodromuri.", "Astăzi este o atracție turistică, cu un hotel și un restaurant la fața locului."],
       en: ["Hitler's first Eastern Front headquarters.", "Operational from June 1941 to November 1944.", "Hitler spent over 800 days here.", "Located near Kętrzyn (formerly Rastenburg) in modern-day Poland.", "The complex comprised around 80 buildings and bunkers.", "Site of the 20 July 1944 assassination attempt by Stauffenberg.", "Bunkers had reinforced concrete walls up to 8 meters thick.", "The retreating Germans blew up the complex in January 1945.", "The name refers to Hitler's nickname, 'Wolf'.", "Camouflage was crucial, using nets and artificial trees.", "Had its own railway station and two airfields.", "Today it is a tourist attraction, with an on-site hotel and restaurant."],
-    },
-  },
+    }, image: "/poi-images/poland-wolfs-lair-history-v2.webp"},
   {
     id: "poland-wilanow-palace-history-v2",
     type: "palace",
@@ -255,8 +248,7 @@ export const polandHistoryV2: POI[] = [
       hu: ["A 17. század végén épült III. Sobieski János király számára.", "Tervezője Augustyn Locci olasz építész volt.", "Ritka példája egy olyan épületnek, amely túlélte a varsói háborúkat és felkeléseket.", "A neve a „Villa Nova” kifejezésből származik.", "Az építészet ötvözi az európai művészetet a régi lengyel építési hagyományokkal.", "A köznyelvben „lengyel Versailles-nak” nevezik.", "A palotát egy 45 hektáros park veszi körül.", "1805-ben itt nyílt meg Lengyelország egyik első nyilvános múzeuma.", "A homlokzatot gazdagon díszítik mitológiai és allegorikus szobrok.", "Belsejében eredeti királyi lakosztályok láthatók.", "Értékes lengyel portréfestészeti gyűjteménynek ad otthont.", "A lengyel nemzeti kultúra egyik legszebb emlékének tartják."],
       ro: ["Construit pentru regele Ioan al III-lea Sobieski la sfârșitul secolului al XVII-lea.", "Proiectat de arhitectul italian Augustyn Locci.", "Un exemplu rar de clădire care a supraviețuit războaielor și insurecțiilor din Varșovia.", "Numele derivă din „Villa Nova”.", "Arhitectura combină arta europeană cu tradiția veche poloneză de construcție.", "Cunoscut colocvial ca „Versailles-ul polonez”.", "Palatul este înconjurat de un parc de 45 de hectare.", "Unul dintre primele muzee publice din Polonia a fost deschis aici în 1805.", "Fațada este bogat decorată cu sculpturi mitologice și alegorice.", "Interiorul prezintă apartamente regale originale.", "Găzduiește o colecție valoroasă de portrete poloneze.", "Considerat unul dintre cele mai frumoase monumente ale culturii naționale poloneze."],
       en: ["Built for King Jan III Sobieski in the late 17th century.", "Designed by Italian architect Augustyn Locci.", "A rare example of a structure that survived Warsaw's wars and uprisings.", "The name derives from 'Villa Nova'.", "The architecture combines European art with old Polish building tradition.", "Colloquially known as the 'Polish Versailles'.", "The palace is surrounded by a 45-hectare park.", "One of Poland's first public museums was opened here in 1805.", "The facade is richly decorated with mythological and allegorical sculptures.", "The interior features original royal apartments.", "Houses a valuable collection of Polish portrait painting.", "Considered one of the most beautiful monuments of Polish national culture."],
-    },
-  },
+    }, image: "/poi-images/poland-wilanow-palace-history-v2.webp"},
   {
     id: "poland-jasna-gora-monastery-history-v2",
     type: "church",
@@ -287,8 +279,7 @@ export const polandHistoryV2: POI[] = [
       hu: ["1382-ben alapították a pálos szerzetesek.", "Lengyelország fő zarándokhelye.", "Itt található a Częstochowai Fekete Madonna ikonja.", "Az ikont „Lengyelország Királynőjeként” tisztelik.", "A kolostor 1655-ben sikeresen ellenállt a svéd ostromnak („az Özönvíz”).", "A harangtorony 106,3 méterével az egyik legmagasabb Lengyelországban.", "A kolostor bazilikája a barokk építészet remekműve.", "II. János Pál pápa többször is meglátogatta a szentélyt.", "Évente 3-4 millió zarándok keresi fel.", "A kolostor fegyvertára régi fegyverek gyűjteményét mutatja be.", "A „Jasna Góra” név lengyelül „Fényes Hegyet” jelent.", "A Szűz Mária-kápolna falait fogadalmi ajándékok borítják."],
       ro: ["Fondată în 1382 de călugării paulini.", "Principalul loc de pelerinaj din Polonia.", "Găzduiește icoana Madonei Negre de la Częstochowa.", "Icoana este venerată ca „Regina Poloniei”.", "Mănăstirea a rezistat cu succes unui asediu suedez în 1655 („Potopul”).", "Turnul clopotniță, de 106,3 metri, este unul dintre cele mai înalte din Polonia.", "Bazilica mănăstirii este o capodoperă a arhitecturii baroce.", "Papa Ioan Paul al II-lea a vizitat sanctuarul de mai multe ori.", "Vizitată anual de 3-4 milioane de pelerini.", "Arsenalul mănăstirii expune o colecție de armament vechi.", "Numele „Jasna Góra” înseamnă „Muntele Luminos” în poloneză.", "Pereții Capelei Sfintei Fecioare sunt acoperiți cu ofrande votive."],
       en: ["Founded in 1382 by Pauline monks.", "The main pilgrimage destination in Poland.", "Houses the icon of the Black Madonna of Częstochowa.", "The icon is venerated as the 'Queen of Poland'.", "The monastery successfully resisted a Swedish siege in 1655 ('The Deluge').", "The bell tower, at 106.3 meters, is one of the tallest in Poland.", "The monastery's basilica is a masterpiece of Baroque architecture.", "Pope John Paul II visited the shrine multiple times.", "Visited by 3-4 million pilgrims annually.", "The monastery's Armoury displays a collection of old weaponry.", "The name 'Jasna Góra' means 'Bright Mount' in Polish.", "The walls of the Chapel of the Holy Virgin are covered in votive offerings."],
-    },
-  },
+    }, image: "/poi-images/poland-jasna-gora-monastery-history-v2.webp"},
   {
     id: "poland-zamosc-old-town-history-v2",
     type: "town",
@@ -319,8 +310,7 @@ export const polandHistoryV2: POI[] = [
       hu: ["1580-ban alapította Jan Zamoyski kancellár.", "Tervezője Bernardo Morando olasz építész volt.", "„A reneszánsz gyöngyszemeként” ismert.", "1992-ben az UNESCO Világörökség részévé nyilvánították.", "Az „ideális város” koncepciója szerint épült.", "A Nagy Piactér pontosan 100 x 100 méteres.", "A városházának lenyűgöző díszlépcsője és magas tornya van.", "A várost erődítménynek tervezték, hét bástyával rendelkezik.", "A piactéri örmény házak különösen gazdagon díszítettek.", "A Zamoyski Akadémiát 1594-ben alapították, ez volt Lengyelország harmadik egyeteme.", "A város nagyrészt sértetlen maradt a második világháború alatt.", "A zamośći zsinagóga a reneszánsz építészet szép példája."],
       ro: ["Fondat în 1580 de cancelarul Jan Zamoyski.", "Proiectat de arhitectul italian Bernardo Morando.", "Cunoscut ca „Perla Renașterii”.", "Declarat sit al Patrimoniului Mondial UNESCO în 1992.", "Construit pe conceptul de „oraș ideal”.", "Piața Mare măsoară exact 100 x 100 de metri.", "Primăria are o scară monumentală impresionantă și un turn înalt.", "Orașul a fost conceput ca o fortăreață și are șapte bastioane.", "Casele armenești din piață sunt deosebit de bogat decorate.", "Academia Zamoyski, fondată în 1594, a fost a treia universitate din Polonia.", "Orașul a rămas în mare parte intact în timpul celui de-al Doilea Război Mondial.", "Sinagoga din Zamość este un frumos exemplu de arhitectură renascentistă."],
       en: ["Founded in 1580 by Chancellor Jan Zamoyski.", "Designed by Italian architect Bernardo Morando.", "Known as the 'Pearl of the Renaissance'.", "Inscribed as a UNESCO World Heritage site in 1992.", "Built based on the concept of an 'ideal city'.", "The Great Market Square measures exactly 100 x 100 meters.", "The Town Hall features an impressive fan-shaped staircase and a tall tower.", "The city was designed as a fortress and has seven bastions.", "The Armenian Houses on the market square are particularly ornate.", "The Zamoyski Academy, founded in 1594, was Poland's third university.", "The town remained largely unscathed during World War II.", "The Zamość Synagogue is a fine example of Renaissance architecture."],
-    },
-  },
+    }, image: "/poi-images/poland-zamosc-old-town-history-v2.webp"},
   {
     id: "poland-krzemionki-mines-history-v2",
     type: "mine",
@@ -351,8 +341,7 @@ export const polandHistoryV2: POI[] = [
       hu: ["A neolitikumtól a kora bronzkorig működött (kb. i. e. 3900–1600).", "Európa egyik legnagyobb őskori ipari területe.", "2019-ben felvették az UNESCO Világörökségi listájára.", "A bányákat csíkos kovakő kitermelésére használták.", "A csíkos kovakövet főként fejszék készítésére használták.", "A komplexum négy bányászati mezőből áll.", "Több mint 4000, akár 9 méter mély aknát fedeztek fel.", "A föld alatti turistaútvonal közel 500 méter hosszú.", "A bányákat 1922-ben fedezték fel újra.", "Őskori sziklarajzokat találtak a falakon.", "A krzemionki kovakőből készült fejszékkel akár 660 km távolságra is kereskedtek.", "A helyszínen régészeti múzeum és skanzen található."],
       ro: ["Operaționale din neolitic până în epoca bronzului timpuriu (cca. 3900–1600 î.Hr.).", "Una dintre cele mai mari zone industriale preistorice din Europa.", "Înscrisă pe lista Patrimoniului Mondial UNESCO în 2019.", "Minele au fost folosite pentru extragerea silexului dungat.", "Silexul dungat era folosit în principal pentru fabricarea topoarelor.", "Complexul este format din patru câmpuri miniere.", "Au fost descoperite peste 4000 de puțuri, adânci de până la 9 metri.", "Traseul turistic subteran are o lungime de aproape 500 de metri.", "Minele au fost redescoperite în 1922.", "Pe pereți au fost găsite desene rupestre preistorice.", "Topoarele din silex de Krzemionki au fost comercializate pe o distanță de până la 660 km.", "La fața locului se află un muzeu arheologic și un sat în aer liber."],
       en: ["Operated from the Neolithic to the Early Bronze Age (c. 3900–1600 BC).", "One of the largest prehistoric industrial sites in Europe.", "Inscribed on the UNESCO World Heritage list in 2019.", "The mines were used for the extraction of striped flint.", "Striped flint was primarily used for manufacturing axes.", "The complex consists of four mining fields.", "Over 4,000 shafts, up to 9 meters deep, have been discovered.", "The underground tourist route is almost 500 meters long.", "The mines were rediscovered in 1922.", "Prehistoric rock carvings have been found on the walls.", "Axes made from Krzemionki flint were traded as far as 660 km away.", "An archaeological museum and open-air village are located on site."],
-    },
-  },
+    }, image: "/poi-images/poland-krzemionki-mines-history-v2.webp"},
   {
     id: "poland-lancut-castle-history-v2",
     type: "castle",
@@ -383,8 +372,7 @@ export const polandHistoryV2: POI[] = [
       hu: ["Eredetileg vár volt, a 17. században alakították át palotává.", "Korábban a Lubomirski és Potocki nemesi családok tulajdonában volt.", "Gazdag és változatos belső tereiről híres.", "Itt található Lengyelország legnagyobb lovaskocsi-gyűjteménye.", "A kastélynak saját, rokokó stílusú magánszínháza van.", "1944-ben múzeummá alakították át.", "A komplexumhoz egy 30 hektáros angolpark tartozik.", "Egyike azon kevés lengyel kastélyoknak, amelyek sértetlenül vészelték át a második világháborút.", "Több mint 22 000 kötetes könyvtárral rendelkezik.", "Az Orangerie-ben régi szobrok kiállítása látható.", "A fürdőhelyiséget stukkók és delfti csempék díszítik.", "Évente zenei fesztivált rendeznek a kastélyban."],
       ro: ["Inițial un castel, transformat în palat în secolul al XVII-lea.", "Fostă proprietate a familiilor nobiliare Lubomirski și Potocki.", "Renumit pentru interioarele sale bogate și diverse.", "Găzduiește cea mai mare colecție de trăsuri din Polonia.", "Castelul are propriul său teatru privat în stil rococo.", "Transformate în muzeu în 1944.", "Complexul include un parc englezesc de 30 de hectare.", "Unul dintre puținele castele poloneze care au supraviețuit intacte celui de-al Doilea Război Mondial.", "Conține o bibliotecă cu peste 22.000 de volume.", "Oranjeria găzduiește o expoziție de sculpturi antice.", "Cabinetul de baie este decorat cu stucaturi și plăci de Delft.", "Un festival anual de muzică are loc la castel."],
       en: ["Originally a castle, transformed into a palace in the 17th century.", "Formerly owned by the Lubomirski and Potocki aristocratic families.", "Famous for its rich and diverse interiors.", "Houses Poland's largest collection of horse-drawn carriages.", "The castle has its own private, Rococo-style theatre.", "Turned into a museum in 1944.", "The complex includes a 30-hectare English-style park.", "One of the few Polish castles to survive WWII unscathed.", "Contains a library with over 22,000 volumes.", "The Orangery houses an exhibition of ancient sculptures.", "The Bathing Pavilion is decorated with stuccowork and Delft tiles.", "An annual music festival is held at the castle."],
-    },
-  },
+    }, image: "/poi-images/poland-lancut-castle-history-v2.webp"},
   {
     id: "poland-ksiaz-castle-history-v2",
     type: "castle",
@@ -415,8 +403,7 @@ export const polandHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-ksiaz-castle-history-v2.webp"},
   {
     id: "poland-ostrow-lednicki-history-v2",
     type: "ruins",
@@ -447,8 +434,7 @@ export const polandHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-ostrow-lednicki-history-v2.webp"},
   {
     id: "poland-gniezno-cathedral-history-v2",
     type: "cathedral",
@@ -479,8 +465,7 @@ export const polandHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-gniezno-cathedral-history-v2.webp"},
   {
     id: "poland-torun-old-town-history-v2",
     type: "town",
@@ -511,8 +496,7 @@ export const polandHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-torun-old-town-history-v2.webp"},
   {
     id: "poland-kazimierz-dolny-history-v2",
     type: "town",
@@ -543,8 +527,7 @@ export const polandHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-kazimierz-dolny-history-v2.webp"},
   {
     id: "poland-frombork-cathedral-history-v2",
     type: "cathedral",
@@ -575,8 +558,7 @@ export const polandHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-frombork-cathedral-history-v2.webp"},
   {
     id: "poland-raclawice-battlefield-history-v2",
     type: "battlefield",
@@ -607,8 +589,7 @@ export const polandHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-raclawice-battlefield-history-v2.webp"},
   {
     id: "poland-pszczyna-castle-history-v2",
     type: "castle",
@@ -639,8 +620,7 @@ export const polandHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-pszczyna-castle-history-v2.webp"},
   {
     id: "poland-kozlowka-palace-history-v2",
     type: "palace",
@@ -671,8 +651,7 @@ export const polandHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-kozlowka-palace-history-v2.webp"},
   {
     id: "poland-srebrna-gora-fortress-history-v2",
     type: "monument",
@@ -703,8 +682,7 @@ export const polandHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-srebrna-gora-fortress-history-v2.webp"},
   {
     id: "poland-modlin-fortress-history-v2",
     type: "monument",
@@ -735,8 +713,7 @@ export const polandHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-modlin-fortress-history-v2.webp"},
   {
     id: "poland-cedynia-battlefield-history-v2",
     type: "battlefield",
@@ -767,8 +744,7 @@ export const polandHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-cedynia-battlefield-history-v2.webp"},
   {
     id: "poland-chelmno-old-town-history-v2",
     type: "town",
@@ -799,8 +775,7 @@ export const polandHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-chelmno-old-town-history-v2.webp"},
   {
     id: "poland-tyniec-abbey-history-v2",
     type: "church",
@@ -831,8 +806,7 @@ export const polandHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-tyniec-abbey-history-v2.webp"},
   {
     id: "poland-kalwaria-zebrzydowska-history-v2",
     type: "park",
@@ -863,8 +837,7 @@ export const polandHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/poland-kalwaria-zebrzydowska-history-v2.webp"},
   {
     id: "poland-muskau-park-history-v2",
     type: "park",

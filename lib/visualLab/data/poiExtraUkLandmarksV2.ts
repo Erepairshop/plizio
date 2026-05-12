@@ -19,8 +19,7 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Anul finalizării: 1859", "Înălțimea turnului: 96 metri", "Diametrul cadranului ceasului: 7 metri", "Redenumire oficială: 2012"],
       en: ["Completed in 1859", "Tower height: 96 meters", "Clock face diameter: 7 meters", "Officially renamed in 2012"],
     },
-    imageHint: "Big Ben and Palace of Westminster at sunset",
-  },
+    imageHint: "Big Ben and Palace of Westminster at sunset", image: "/poi-images/uk-big-ben-landmarks-v2.webp"},
   {
     id: "uk-tower-bridge-landmarks-v2",
     type: "bridge",
@@ -39,8 +38,7 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Inaugurat: 30 iunie 1894", "Lungime totală: 244 metri", "Durata construcției: 8 ani", "Arhitect: Horace Jones"],
       en: ["Opened: June 30, 1894", "Total length: 244 meters", "Construction time: 8 years", "Architect: Horace Jones"],
     },
-    imageHint: "Tower Bridge open with the Thames river",
-  },
+    imageHint: "Tower Bridge open with the Thames river", image: "/poi-images/uk-tower-bridge-landmarks-v2.webp"},
   {
     id: "uk-buckingham-palace-landmarks-v2",
     type: "palace",
@@ -59,8 +57,7 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Anul construcției inițiale: 1703", "Număr de camere: 775", "Cea mai mare grădină privată din Londra", "Schimbarea gărzii are loc zilnic"],
       en: ["Original core built: 1703", "Number of rooms: 775", "Largest private garden in London", "Changing of the Guard occurs daily"],
     },
-    imageHint: "Buckingham Palace front facade with guards",
-  },
+    imageHint: "Buckingham Palace front facade with guards", image: "/poi-images/uk-buckingham-palace-landmarks-v2.webp"},
   {
     id: "uk-edinburgh-castle-landmarks-v2",
     type: "castle",
@@ -79,8 +76,7 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Locație: Un vulcan stins", "Cea mai veche parte: Capela Sf. Margareta (sec. 12)", "Tunul de la ora unu trage zilnic", "Asedii: Peste 26 de-a lungul istoriei"],
       en: ["Location: An extinct volcano", "Oldest part: St Margaret's Chapel (12th C)", "The One O'Clock Gun fires daily", "Sieges: Over 26 in its history"],
     },
-    imageHint: "Edinburgh Castle on Castle Rock",
-  },
+    imageHint: "Edinburgh Castle on Castle Rock", image: "/poi-images/uk-edinburgh-castle-landmarks-v2.webp"},
   {
     id: "uk-windsor-castle-landmarks-v2",
     type: "castle",
@@ -99,8 +95,7 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Fondat de William Cuceritorul", "Suprafața complexului: aprox. 5 hectare", "Găzduiește Capela Sfântului Gheorghe", "Reședința preferată a Reginei Elisabeta a II-a"],
       en: ["Founded by William the Conqueror", "Grounds cover about 13 acres", "Home to St George's Chapel", "Primary residence of Queen Elizabeth II"],
     },
-    imageHint: "Windsor Castle aerial view",
-  },
+    imageHint: "Windsor Castle aerial view", image: "/poi-images/uk-windsor-castle-landmarks-v2.webp"},
   {
     id: "uk-westminster-abbey-landmarks-v2",
     type: "church",
@@ -119,8 +114,7 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Fondată în jurul anului 960 d.Hr.", "Locul tuturor încoronărilor din 1066", "Găzduiește Colțul Poeților", "Patrimoniu UNESCO din 1987"],
       en: ["Founded around 960 AD", "Site of all coronations since 1066", "Contains the Poets' Corner", "UNESCO World Heritage since 1987"],
     },
-    imageHint: "Westminster Abbey facade London",
-  },
+    imageHint: "Westminster Abbey facade London", image: "/poi-images/uk-westminster-abbey-landmarks-v2.webp"},
   {
     id: "uk-british-museum-landmarks-v2",
     type: "museum",
@@ -139,8 +133,7 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1753", "Găzduiește Piatra din Rosetta", "Vizitatori anual: aprox. 6 milioane", "Curtea Mare are un acoperiș de sticlă celebru"],
       en: ["Founded in 1753", "Home to the Rosetta Stone", "Annual visitors: approx. 6 million", "Features the famous Great Court glass roof"],
     },
-    imageHint: "British Museum Great Court glass roof",
-  }
+    imageHint: "British Museum Great Court glass roof", image: "/poi-images/uk-british-museum-landmarks-v2.webp"}
 ,
   {
     id: "uk-york-minster-landmarks-v2",
@@ -180,8 +173,7 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Construită între anii 1675 și 1710.", "Cupola atinge o înălțime de 111 metri.", "Locul nunții Prințului Charles cu Lady Diana Spencer.", "Găzduiește celebra Galerie a Șoaptelor."],
       en: ["Built between 1675 and 1710.", "The dome reaches a height of 111 meters.", "Site of the wedding of Prince Charles and Lady Diana.", "Home to the Whispering Gallery."],
     },
-    imageHint: "St Paul's Cathedral London dome view",
-  },
+    imageHint: "St Paul's Cathedral London dome view", image: "/poi-images/uk-st-pauls-cathedral-landmarks-v2.webp"},
   {
     id: "uk-roman-baths-landmarks-v2",
     type: "landmark",
@@ -200,8 +192,7 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Construite în jurul anului 70 d.Hr. în timpul ocupației romane.", "Temperatura apei este constant în jur de 46 de grade Celsius.", "Zilnic, peste 1 milion de litri de apă curg în băi.", "Desemnat ca sit al Patrimoniului Mondial UNESCO."],
       en: ["Built around 70 AD during the Roman occupation.", "The water temperature is consistently around 46 degrees Celsius.", "Over 1 million liters of water flow into the baths daily.", "Designated as a UNESCO World Heritage site."],
     },
-    imageHint: "The Roman Baths in Bath England green water",
-  },
+    imageHint: "The Roman Baths in Bath England green water", image: "/poi-images/uk-roman-baths-landmarks-v2.webp"},
   {
     id: "uk-durham-cathedral-landmarks-v2",
     type: "cathedral",
@@ -220,8 +211,7 @@ export const ukLandmarksV2: POI[] = [
       ro: ["Fondată în 1093 pentru a adăposti moaștele Sfântului Cuthbert.", "Cunoscută pentru bolțile sale cu nervuri peste naos.", "Turnul central are o înălțime de 66 de metri.", "A servit ca locație de filmare pentru filmele Harry Potter."],
       en: ["Founded in 1093 to house the shrine of Saint Cuthbert.", "Known for its ribbed vaulting over the nave.", "The central tower is 66 meters high.", "Served as a filming location for the Harry Potter movies."],
     },
-    imageHint: "Durham Cathedral Romanesque architecture exterior",
-  },
+    imageHint: "Durham Cathedral Romanesque architecture exterior", image: "/poi-images/uk-durham-cathedral-landmarks-v2.webp"},
   {
     id: "uk-forth-bridge-landmarks-v2",
     type: "bridge",

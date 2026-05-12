@@ -723,8 +723,7 @@ export const andorraRegions: POI[] = [
       hu: ["1978. június 14-én alapították.", "Az 'Engordany' név régebbi, mint az 'Escaldes'.", "Itt található a Parfüm Múzeum.", "A Színek Fesztiválját nyáron itt rendezik meg.", "A termálvizek kénben és ásványi anyagokban gazdagok."],
       ro: ["Fondată la 14 iunie 1978.", "Numele 'Engordany' este mai vechi decât 'Escaldes'.", "Găzduiește Muzeul Parfumului.", "Festivalul Culorilor are loc aici în timpul verii.", "Apa izvoarelor termale este bogată în sulf și minerale."],
       en: ["Founded on June 14, 1978.", "The name 'Engordany' is older than 'Escaldes'.", "Home to the Perfume Museum.", "The Festival of Colours takes place here in summer.", "The water from its thermal springs is rich in sulfur and minerals."]
-    }
-  },
+    }, image: "/poi-images/AD-08.webp"},
   {
     id: "AD-02",
     type: "region",
@@ -748,8 +747,7 @@ export const andorraRegions: POI[] = [
       hu: ["Területe 121 km², a legnagyobb Andorrában.", "Az ország vallási központja a Meritxell szentély miatt.", "Itt található a Soldeu és El Tarter síterep.", "A Roc del Quer fontos turisztikai látványosság.", "Hagyományosan mezőgazdasági jellegű község."],
       ro: ["Are o suprafață de 121 km², cea mai mare din Andorra.", "Centrul religios al țării datorită Sanctuarului din Meritxell.", "Găzduiește sectoarele de schi Soldeu și El Tarter.", "Roc del Quer este o atracție turistică majoră.", "Tradițional o parohie agricolă."],
       en: ["Has an area of 121 km², the largest in Andorra.", "The country's religious center due to the Sanctuary of Meritxell.", "Home to the Soldeu and El Tarter ski sectors.", "The Roc del Quer viewpoint is a major tourist attraction.", "Traditionally an agricultural parish."]
-    }
-  }
+    }, image: "/poi-images/AD-02.webp"}
 ];
 
 export const andorraAllPoi: POI[] = [
