@@ -491,7 +491,6 @@ import { poiExtraFrenchguianaCitiesV2 } from "./poiExtraFrenchguianaCitiesV2";
 import { poiExtraFrenchguianaEconomicV2 } from "./poiExtraFrenchguianaEconomicV2";
 import { poiExtraFrenchguianaHistoryV2 } from "./poiExtraFrenchguianaHistoryV2";
 import { poiExtraFrenchguianaLandmarksV2 } from "./poiExtraFrenchguianaLandmarksV2";
-import { poiExtraFrenchguianaNatureV2 } from "./poiExtraFrenchguianaLifeV2";
 import { poiExtraFrenchguianaReliefV2 } from "./poiExtraFrenchguianaReliefV2";
 import { poiExtraGabonCitiesV2 } from "./poiExtraGabonCitiesV2";
 import { poiExtraGabonEconomicV2 } from "./poiExtraGabonEconomicV2";
