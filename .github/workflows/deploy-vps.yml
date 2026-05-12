@@ -14,7 +14,6 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  ARCHIVE_NAME: plizio-vps.tar.gz
   RELEASE_BASE: /home/erik/plizio
   KEEP_RELEASES: 5
 
@@ -49,61 +48,33 @@ jobs:
       - name: Verify out/ produced
         run: test -f out/index.html && test -d out/_next
 
-      - name: Pack archive
-        run: tar -C out -czf "$ARCHIVE_NAME" .
-
-      - name: Setup SSH
+      - name: Local atomic release + activate
         run: |
-          mkdir -p ~/.ssh
-          chmod 700 ~/.ssh
-          echo "${{ secrets.VPS_SSH_KEY }}" > ~/.ssh/id_ed25519
-          chmod 600 ~/.ssh/id_ed25519
-          ssh-keyscan -H "${{ secrets.VPS_HOST }}" >> ~/.ssh/known_hosts 2>/dev/null || true
-          cat > ~/.ssh/config <<EOF
-          Host vps
-            HostName ${{ secrets.VPS_HOST }}
-            User ${{ secrets.VPS_USER }}
-            IdentityFile ~/.ssh/id_ed25519
-            StrictHostKeyChecking no
-            ServerAliveInterval 30
-            ServerAliveCountMax 240
-            TCPKeepAlive yes
-          EOF
-          chmod 600 ~/.ssh/config
-
-      - name: Upload archive
-        run: scp "$ARCHIVE_NAME" vps:/tmp/
-
-      - name: Atomic release + activate
-        run: |
-          ssh vps bash -s <<'REMOTE'
           set -euo pipefail
-          RELEASE_BASE="/home/erik/plizio"
-          SHA="${GITHUB_SHA:-$(date -u +%Y%m%d-%H%M%S)}"
-          # GH passes the sha through ssh env? no — derive from filename/time
-          REL_DIR="$RELEASE_BASE/releases/$(date -u +%Y%m%d-%H%M%S)"
+          TS=$(date -u +%Y%m%d-%H%M%S)
+          REL_DIR="${{ env.RELEASE_BASE }}/releases/${TS}"
           mkdir -p "$REL_DIR"
-          tar -xzf /tmp/plizio-vps.tar.gz -C "$REL_DIR"
-          rm -f /tmp/plizio-vps.tar.gz
+          # Fast local copy — runner is on the same VPS as the deploy target
+          cp -a out/. "$REL_DIR"/
           test -f "$REL_DIR/index.html" && test -d "$REL_DIR/_next"
-          # Ensure www-data can traverse the new release
+          # Ensure www-data can traverse + read
           chmod 755 "$REL_DIR"
           find "$REL_DIR" -type d -exec chmod 755 {} +
           find "$REL_DIR" -type f -exec chmod 644 {} +
-          # Atomic symlink swap
-          ln -sfn "$REL_DIR" "$RELEASE_BASE/current.new"
-          mv -Tf "$RELEASE_BASE/current.new" "$RELEASE_BASE/current"
-          # Prune older releases beyond KEEP_RELEASES=5
-          ls -1dt "$RELEASE_BASE"/releases/*/ 2>/dev/null | tail -n +6 | xargs -r rm -rf
-          # Reload nginx (no-op if config unchanged; ensures cache flush)
+          # Atomic symlink swap (rename(2) is atomic on POSIX)
+          ln -sfn "$REL_DIR" "${{ env.RELEASE_BASE }}/current.new"
+          mv -Tf "${{ env.RELEASE_BASE }}/current.new" "${{ env.RELEASE_BASE }}/current"
+          # Prune old releases — keep newest N
+          ls -1dt "${{ env.RELEASE_BASE }}"/releases/*/ 2>/dev/null \
+            | tail -n +$((${{ env.KEEP_RELEASES }} + 1)) | xargs -r rm -rf
+          # Reload nginx (passwordless sudo configured)
           sudo systemctl reload nginx
           echo "DEPLOYED: $REL_DIR"
-          REMOTE
 
       - name: Smoke test
         run: |
-          sleep 2
-          STATUS=$(curl -sS -o /tmp/out.html -w "%{http_code}" http://${{ secrets.VPS_HOST }}/ )
+          set -euo pipefail
+          STATUS=$(curl -sS -o /tmp/out.html -w "%{http_code}" http://localhost/)
           echo "HTTP $STATUS"
           test "$STATUS" = "200"
           head -c 200 /tmp/out.html
