@@ -4,9 +4,25 @@ import { useState, useEffect, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { X, Map, Globe2, Landmark, Star } from "lucide-react";
+import dynamic from "next/dynamic";
 import VisualLabIcon from "./VisualLabIcon";
-import { InteractiveMap } from "@/lib/visualLab/components/InteractiveMap";
-import EuropeMap from "./EuropeMap";
+
+// Dynamic imports — keep map bundles OUT of the main page chunk.
+// First country click downloads ~5-10 MB map chunk (was 30s on first load);
+// browser cache makes subsequent clicks instant.
+const MapLoading = () => (
+  <div className="flex items-center justify-center w-full h-full min-h-[400px]">
+    <div className="text-white/60 text-sm">Térkép betöltése...</div>
+  </div>
+);
+const InteractiveMap = dynamic(
+  () => import("@/lib/visualLab/components/InteractiveMap").then((m) => m.InteractiveMap),
+  { loading: MapLoading, ssr: false },
+);
+const EuropeMap = dynamic(() => import("./EuropeMap"), {
+  loading: MapLoading,
+  ssr: false,
+});
 import MeteorCatchGame from "@/app/astro-sachkunde/visual-lab/games/MeteorCatchGame";
 import OrbitSortGame from "@/app/astro-sachkunde/visual-lab/games/OrbitSortGame";
 import SignalRunnerGame from "@/app/astro-sachkunde/visual-lab/games/SignalRunnerGame";

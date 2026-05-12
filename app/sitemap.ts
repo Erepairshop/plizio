@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 import { getGitLastMod } from "@/lib/seo/lastmod";
-import { SITE_URL } from "@/lib/seo/routes";
+import { SITE_URL, hasIndexableContent } from "@/lib/seo/routes";
 import {
   SUPPORTED_LANGS,
   buildCountryPath,
@@ -66,10 +66,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     regions.map((state) => createEntry(buildStatePath(lang, state.id), "app/[lang]/[country]/[state]/page.tsx", 0.8)),
   );
 
+  // SEO: csak az indexálható (megfelelő tartalmú) POI-kat tesszük a sitemap-ba.
+  // Az üres POI-k a robots:noindex flag-et kapnak a page.tsx metadata-jában.
+  const indexablePois = pois.filter(
+    (poi) => poi && poi.type !== "region" && poi.type !== "country" && hasIndexableContent(poi),
+  );
   const poiUrls = SUPPORTED_LANGS.flatMap((lang) =>
-    pois
-      .filter((poi) => poi && poi.type !== "region" && poi.type !== "country")
-      .map((poi) => createEntry(buildPoiPath(lang, poi), "app/[lang]/[country]/[state]/[poi]/page.tsx", 0.6)),
+    indexablePois.map((poi) =>
+      createEntry(buildPoiPath(lang, poi), "app/[lang]/[country]/[state]/[poi]/page.tsx", 0.6),
+    ),
   );
 
   return [...rootUrls, ...countryUrls, ...stateUrls, ...poiUrls];

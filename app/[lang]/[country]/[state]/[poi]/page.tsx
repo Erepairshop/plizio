@@ -12,6 +12,7 @@ import {
   getPoiByRouteParams,
   getRelatedPois,
   getVisualLabHref,
+  hasIndexableContent,
   isLang,
   osmHref,
   poiDescription,
@@ -74,9 +75,11 @@ export async function generateMetadata({
   const description = poiDescription(poi, resolved.lang as Lang);
 
   const ogImage = getPoiImage(poi);
+  const indexable = hasIndexableContent(poi);
   return {
     title,
     description,
+    robots: indexable ? undefined : { index: false, follow: true },
     alternates: {
       canonical: absoluteUrl(buildPoiPath(resolved.lang as Lang, poi)),
       languages: { ...getPoiAlternates(poi), "x-default": absoluteUrl(buildPoiPath("en", poi)) },

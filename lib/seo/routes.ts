@@ -254,6 +254,27 @@ export function getPoiAlternates(poi: POI) {
   return Object.fromEntries(SUPPORTED_LANGS.map((lang) => [lang, absoluteUrl(buildPoiPath(lang, poi))]));
 }
 
+/**
+ * SEO content quality check. Used by both:
+ *   - sitemap.ts: skip empty POIs so Google doesn't waste crawl budget on Soft 404s
+ *   - POI page metadata: emit robots:noindex for empty POIs
+ *
+ * Threshold: at least one description >= 200 chars AND at least 2 facts in any of 4 langs.
+ */
+export function hasIndexableContent(poi: POI): boolean {
+  const desc = poi.description as Record<string, string> | undefined;
+  const facts = poi.facts as Record<string, string[]> | undefined;
+  if (!desc || !facts) return false;
+  const langs = ["de", "hu", "ro", "en"] as const;
+  let hasDesc = false;
+  let hasFacts = false;
+  for (const l of langs) {
+    if ((desc[l]?.length ?? 0) >= 200) hasDesc = true;
+    if ((facts[l]?.length ?? 0) >= 2) hasFacts = true;
+  }
+  return hasDesc && hasFacts;
+}
+
 export function getVisualLabHref(poi: POI) {
   const grade = poi.grades?.[0] ?? 1;
   return `/astro-sachkunde/${grade}/?vlab=${poi.id}`;
