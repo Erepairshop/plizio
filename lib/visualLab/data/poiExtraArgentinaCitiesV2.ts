@@ -1535,14 +1535,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-m-godoy-cruz-cities-v2",
     description: { en: "Part of the Mendoza Greater Area, known for its urban development and close proximity to downtown Mendoza.",
       hu: "Mendoza agglomerációjának szerves része, amely fontos kereskedelmi és ipari központ. A város híres borászatairól és aktív kulturális életéről.",
-      ro: "Godoy Cruz este o parte vibrantă a zonei metropolitane Mendoza, cunoscută pentru centrele sale comerciale și parcurile industriale."
+      ro: "Godoy Cruz este o parte vibrantă a zonei metropolitane Mendoza, cunoscută pentru centrele sale comerciale și parcurile industriale.",
+      de: "Godoy Cruz ist eine bedeutende Stadt im Großraum Mendoza, bekannt für ihre lebendige Weinkultur und Industrie."
     },
     facts: { en: ["Urban development",
       "Mendoza area",
       "Close to capital",
       "Industrial activity"],
       hu: ["Mendoza városával határos", "Számos neves pincészet otthona", "Fejlett kereskedelmi negyed", "Élénk éjszakai élet"],
-      ro: ["Oraș component al Marelui Mendoza", "Centru comercial și de servicii major", "Găzduiește sedii importante de crame", "Populație de peste 190.000 de locuitori"]
+      ro: ["Oraș component al Marelui Mendoza", "Centru comercial și de servicii major", "Găzduiește sedii importante de crame", "Populație de peste 190.000 de locuitori"],
+      de: ["Teil des Ballungsraums Mendoza", "Zentrum der Weinproduktion", "Heimat des Fußballclubs Godoy Cruz", "Wichtiger Wirtschaftsstandort"]
     },
     type: "city",
     parent: "AR-M",
@@ -1569,14 +1571,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-m-lujan-de-cuyo-cities-v2",
     description: { en: "Famous for its premium vineyards, making it a critical region for Mendoza's high-quality wine industry.",
       hu: "Az argentin Malbec bor hazájaként ismert város Mendoza tartományban. Az Andok lábánál fekvő település a borászat és a turizmus kiemelkedő központja.",
-      ro: "Luján de Cuyo este inima regiunii viticole Malbec, fiind situat la poalele munților Cordón del Plata în provincia Mendoza."
+      ro: "Luján de Cuyo este inima regiunii viticole Malbec, fiind situat la poalele munților Cordón del Plata în provincia Mendoza.",
+      de: "Luján de Cuyo gilt als das Herz der argentinischen Malbec-Produktion und liegt am Fuße der majestätischen Anden."
     },
     facts: { en: ["Premium vineyards",
       "Wine industry",
       "Mendoza region",
       "Wine tourism"],
       hu: ["A Malbec bor világfővárosa", "Látványos szőlőültetvények", "Közeli hegyi üdülőhelyek", "Történelmi borászatok"],
-      ro: ["Cunoscut drept Țara Malbecului", "Găzduiește cele mai prestigioase crame din țară", "Destinație turistică montană și viticolă", "Fondat în 1855"]
+      ro: ["Cunoscut drept Țara Malbecului", "Găzduiește cele mai prestigioase crame din țară", "Destinație turistică montană și viticolă", "Fondat în 1855"],
+      de: ["Weltbekanntes Weinbaugebiet", "Spezialisiert auf Malbec-Trauben", "Nähe zur Stadt Mendoza", "Zahlreiche historische Weingüter (Bodegas)"]
     },
     type: "city",
     parent: "AR-M",
@@ -1603,14 +1607,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-n-posadas-cities-v2",
     description: { en: "The capital of Misiones province, sitting on the Paraná River, with a blend of regional culture and modern life.",
       hu: "Misiones tartomány székhelye a Paraná folyó partján, közvetlenül Paraguay szomszédságában. Fontos kereskedelmi és kulturális kapu a régióban.",
-      ro: "Posadas este capitala provinciei Misiones, un oraș portuar modern pe râul Paraná, servind ca nod comercial către Paraguay."
+      ro: "Posadas este capitala provinciei Misiones, un oraș portuar modern pe râul Paraná, servind ca nod comercial către Paraguay.",
+      de: "Posadas ist die Hauptstadt der Provinz Misiones und ein wichtiges Tor zur Region am Ufer des mächtigen Paraná-Flusses."
     },
     facts: { en: ["Provincial capital",
       "Paraná River",
       "Regional culture",
       "Gateway to Misiones"],
       hu: ["Híres folyóparti sétány (Costanera)", "Nemzetközi híd Paraguayba", "Szubtrópusi klíma", "Tartományi kormányzati székhely"],
-      ro: ["Conectat de Paraguay prin podul San Roque González", "Capitala provinciei Misiones", "Nod cultural și administrativ în nord-est", "Faleză extinsă de-a lungul râului Paraná"]
+      ro: ["Conectat de Paraguay prin podul San Roque González", "Capitala provinciei Misiones", "Nod cultural și administrativ în nord-est", "Faleză extinsă de-a lungul râului Paraná"],
+      de: ["Hauptstadt von Misiones", "Liegt am Río Paraná", "Grenzstadt zu Paraguay", "Bedeutendes Handelszentrum"]
     },
     type: "state-capital",
     parent: "AR-N",
@@ -1637,14 +1643,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-n-obera-cities-v2",
     description: { en: "Known as the city of immigrants, reflecting diverse cultural traditions in Misiones province.",
       hu: "Misiones tartomány szívében fekvő város, amely sokszínű bevándorló közösségeiről és a mate tea termesztéséről nevezetes.",
-      ro: "Oberá este al doilea oraș din Misiones, faimos pentru amestecul său de culturi europene și Festivalul Național al Imigranților."
+      ro: "Oberá este al doilea oraș din Misiones, faimos pentru amestecul său de culturi europene și Festivalul Național al Imigranților.",
+      de: "Oberá ist berühmt für seine kulturelle Vielfalt und beherbergt jährlich das große Nationalfest der Einwanderer."
     },
     facts: { en: ["Immigrant heritage",
       "Diverse culture",
       "Misiones region",
       "Festival hub"],
       hu: ["A Bevándorlók Országos Ünnepe", "Mate tea és tea termesztés", "Látványos vízesések a közelben", "Sokszínű kulturális örökség"],
-      ro: ["Supranumit Orașul Grădinilor", "Centru cultural multicultural unic", "Principalul producător de ceai și yerba mate", "Înconjurat de peisaje de pământ roșu și cascade"]
+      ro: ["Supranumit Orașul Grădinilor", "Centru cultural multicultural unic", "Principalul producător de ceai și yerba mate", "Înconjurat de peisaje de pământ roșu și cascade"],
+      de: ["Zweitgrößte Stadt in Misiones", "Gegründet von europäischen Einwanderern", "Gastgeber des Fiesta Nacional del Inmigrante", "Zentrum der Tee- und Mate-Produktion"]
     },
     type: "city",
     parent: "AR-N",
@@ -1671,14 +1679,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-n-eldorado-cities-v2",
     description: { en: "A city in Misiones province, characterized by its natural environment and forestry industry.",
       hu: "Város Misiones tartomány északi részén, amelyet német telepesek alapítottak a Paraná folyó partján. Fontos faipari és mezőgazdasági központ.",
-      ro: "Eldorado este un oraș situat în nordul provinciei Misiones, cunoscut pentru industria sa forestieră și frumusețea naturală densă."
+      ro: "Eldorado este un oraș situat în nordul provinciei Misiones, cunoscut pentru industria sa forestieră și frumusețea naturală densă.",
+      de: "Eldorado wurde von deutschen Einwanderern gegründet und ist heute ein Zentrum der Forstwirtschaft im Norden von Misiones."
     },
     facts: { en: ["Forestry industry",
       "Misiones region",
       "Natural setting",
       "Founded 1919"],
       hu: ["1919-ben alapították", "Erős faipar és mezőgazdaság", "Sűrű szubtrópusi erdők környezetében", "Sajátos közép-európai befolyás"],
-      ro: ["Centru vital pentru exploatarea lemnului", "Fondat de coloniști germani în 1919", "Situat pe malul râului Paraná", "Poartă de acces către regiunea junglei subtropicale"]
+      ro: ["Centru vital pentru exploatarea lemnului", "Fondat de coloniști germani în 1919", "Situat pe malul râului Paraná", "Poartă de acces către regiunea junglei subtropicale"],
+      de: ["1919 von Adolfo Schwelm gegründet", "Starke deutsche kulturelle Einflüsse", "Zentrum der Holzindustrie", "Liegt im subtropischen Regenwald"]
     },
     type: "city",
     parent: "AR-N",
@@ -1705,14 +1715,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-n-puerto-iguazu-cities-v2",
     description: { en: "The gateway to the world-famous Iguazu Falls, located on the border with Brazil and Paraguay.",
       hu: "Az Iguazú-vízesés kapuja, amely a hármas határnál (Argentína, Brazília, Paraguay) fekszik. Világhírű turisztikai célpont Misiones tartományban.",
-      ro: "Puerto Iguazú este orașul de frontieră care găzduiește spectaculoasele Cascade Iguazú, una dintre minunile naturale ale lumii."
+      ro: "Puerto Iguazú este orașul de frontieră care găzduiește spectaculoasele Cascade Iguazú, una dintre minunile naturale ale lumii.",
+      de: "Puerto Iguazú ist der ideale Ausgangspunkt für den Besuch der weltberühmten Iguazú-Wasserfälle im Dreiländereck."
     },
     facts: { en: ["Iguazu Falls gateway",
       "Border city",
       "Tourism hub",
       "Misiones region"],
       hu: ["Közel a világörökségi vízeséshez", "Hármas határpont (Hito Tres Fronteras)", "Trópusi esőerdő környezet", "Nemzetközi repülőtérrel rendelkezik"],
-      ro: ["Situat la punctul de întâlnire a trei țări", "Poartă de acces către Parcul Național Iguazú", "Centru turistic internațional major", "Înconjurat de pădurea tropicală paranaense"]
+      ro: ["Situat la punctul de întâlnire a trei țări", "Poartă de acces către Parcul Național Iguazú", "Centru turistic internațional major", "Înconjurat de pădurea tropicală paranaense"],
+      de: ["Tor zu den Iguazú-Wasserfällen", "Dreiländereck (Argentinien, Brasilien, Paraguay)", "Bedeutendes Tourismuszentrum", "Liegt im Nationalpark Iguazú"]
     },
     type: "city",
     parent: "AR-N",
@@ -1739,14 +1751,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-q-neuquen-cities-v2",
     description: { en: "The capital of Neuquén province, a center of the oil and gas industry in Northern Patagonia.",
       hu: "Patagónia legnépesebb városa és Neuquén tartomány székhelye a Limay és Neuquén folyók találkozásánál. A régió kereskedelmi és energiaipari központja.",
-      ro: "Neuquén este cel mai mare oraș din Patagonia, un centru economic efervescent datorită industriei energetice și agricole."
+      ro: "Neuquén este cel mai mare oraș din Patagonia, un centru economic efervescent datorită industriei energetice și agricole.",
+      de: "Neuquén ist die größte Stadt Patagoniens und das wirtschaftliche Zentrum der gleichnamigen Provinz, geprägt durch die Ölindustrie."
     },
     facts: { en: ["Provincial capital",
       "Oil and gas hub",
       "Patagonia gateway",
       "Neuquén River"],
       hu: ["Patagónia kapuja", "Fontos olaj- és gázipari bázis", "Gyümölcstermesztő övezet", "Dinamikusan növekvő modern város"],
-      ro: ["Cea mai populată capitală din Patagonia", "Nod logistic și energetic strategic", "Situat la confluența râurilor Limay și Neuquén", "Economie bazată pe petrol, gaze și fructe"]
+      ro: ["Cea mai populată capitală din Patagonia", "Nod logistic și energetic strategic", "Situat la confluența râurilor Limay și Neuquén", "Economie bazată pe petrol, gaze și fructe"],
+      de: ["Größte Stadt Patagoniens", "Zentrum der Energie- und Ölförderung", "Liegt am Zusammenfluss von Limay und Neuquén", "Moderne Provinzhauptstadt"]
     },
     type: "state-capital",
     parent: "AR-Q",
@@ -1773,14 +1787,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-q-san-martin-de-los-andes-cities-v2",
     description: { en: "A picturesque mountain resort in the Andes, known for its scenic lakes and ski resort, Chapelco.",
       hu: "Látványos hegyvidéki üdülőváros a Lácar-tó partján, az Andok ölelésében. A város híres alpesi stílusú építészetéről és a Lanín Nemzeti Parkról.",
-      ro: "San Martín de los Andes este un oraș montan de poveste pe malul lacului Lácar, fiind o destinație turistică de lux pe tot parcursul anului."
+      ro: "San Martín de los Andes este un oraș montan de poveste pe malul lacului Lácar, fiind o destinație turistică de lux pe tot parcursul anului.",
+      de: "Diese malerische Stadt am Ufer des Lácar-Sees ist eines der exklusivsten Reiseziele in den patagonischen Anden."
     },
     facts: { en: ["Mountain resort",
       "Lakeside setting",
       "Chapelco ski center",
       "Andean region"],
       hu: ["A Hét Tó Útja kezdőpontja", "Népszerű síközpont (Chapelco)", "Alpesi faházas építészet", "Túra- és horgászparadicsom"],
-      ro: ["Centru major pentru sporturi de iarnă (Cerro Chapelco)", "Intrare principală în Parcul Național Lanín", "Arhitectură specifică din piatră și lemn", "Punct de plecare pentru Drumul celor Șapte Lacuri"]
+      ro: ["Centru major pentru sporturi de iarnă (Cerro Chapelco)", "Intrare principală în Parcul Național Lanín", "Arhitectură specifică din piatră și lemn", "Punct de plecare pentru Drumul celor Șapte Lacuri"],
+      de: ["Am Ufer des Lago Lácar gelegen", "Wichtiges Zentrum für Wintersport (Chapelco)", "Tor zum Nationalpark Lanín", "Bekannt für Architektur im Alpenstil"]
     },
     type: "city",
     parent: "AR-Q",
@@ -1807,14 +1823,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-q-zapala-cities-v2",
     description: { en: "A major logistics and transportation hub in Neuquén province, central to Patagonian travel.",
       hu: "Fontos közlekedési csomópont és bányászati központ Neuquén tartomány szívében. A város stratégiai helyen fekszik az Andok és a pampák között.",
-      ro: "Zapala este un oraș situat în centrul provinciei Neuquén, fiind un punct strategic de tranzit între munți și stepă."
+      ro: "Zapala este un oraș situat în centrul provinciei Neuquén, fiind un punct strategic de tranzit între munți și stepă.",
+      de: "Zapala ist ein strategischer Verkehrsknotenpunkt in Zentral-Neuquén und bekannt für seine lange Bergbautradition."
     },
     facts: { en: ["Logistics hub",
       "Neuquén province",
       "Patagonia transit",
       "Founded 1913"],
       hu: ["Jelentős vasúti csomópont", "Fontos ásványbányászat", "Száraz, szeles patagóniai klíma", "Közeli Laguna Blanca Nemzeti Park"],
-      ro: ["Nod feroviar și rutier important în regiune", "Găzduiește un renumit muzeu mineralogic", "Centru logistic pentru transportul transandin", "Fondat în 1913"]
+      ro: ["Nod feroviar și rutier important în regiune", "Găzduiește un renumit muzeu mineralogic", "Centru logistic pentru transportul transandin", "Fondat în 1913"],
+      de: ["Wichtiger Eisenbahn- und Straßenknotenpunkt", "Zentrum der Zementindustrie", "Heimat des Mineralogischen Museums", "Eingangstor zur patagonischen Steppe"]
     },
     type: "city",
     parent: "AR-Q",
@@ -1841,14 +1859,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-q-cutral-co-cities-v2",
     description: { en: "A key oil-producing city in Neuquén province, contributing significantly to the region's energy economy.",
       hu: "Neuquén tartomány közepén fekvő város, amelynek gazdasága szinte teljes egészében a kőolaj- és földgázkitermelésen alapul.",
-      ro: "Cutral Co este un oraș industrial în stepa Neuquén, a cărui istorie și dezvoltare sunt strâns legate de descoperirea petrolului."
+      ro: "Cutral Co este un oraș industrial în stepa Neuquén, a cărui istorie și dezvoltare sunt strâns legate de descoperirea petrolului.",
+      de: "Cutral Có entstand mitten in der Wüste durch die Entdeckung von Erdöl und ist eng mit der argentinischen Energiegeschichte verbunden."
     },
     facts: { en: ["Oil-producing city",
       "Neuquén province",
       "Energy economy",
       "Founded 1933"],
       hu: ["Olajipari központ", "Félsivatagos környezet", "Szoros kapcsolat Plaza Huincul várossal", "A 'Cutralazo' társadalmi mozgalom helyszíne"],
-      ro: ["Inimă a industriei petroliere din Neuquén", "Formează o zonă urbană comună cu Plaza Huincul", "Oraș rezistent, dezvoltat într-un mediu arid", "Cunoscut pentru monumentele sale gigantice"]
+      ro: ["Inimă a industriei petroliere din Neuquén", "Formează o zonă urbană comună cu Plaza Huincul", "Oraș rezistent, dezvoltat într-un mediu arid", "Cunoscut pentru monumentele sale gigantice"],
+      de: ["Gegründet nach Ölfunden in den 1930ern", "Wirtschaftliches Zentrum der Region Comarca Petrolera", "Bekannt für sein großes Dinosaurier-Denkmal", "Wüstenklima mit starken Winden"]
     },
     type: "city",
     parent: "AR-Q",
@@ -1875,14 +1895,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-r-viedma-cities-v2",
     description: { en: "The capital of Río Negro province, situated at the mouth of the Negro River on the Atlantic coast.",
       hu: "Río Negro tartomány székhelye a Negro folyó partján, közel az Atlanti-óceánhoz. A város fontos közigazgatási és mezőgazdasági centrum.",
-      ro: "Viedma este capitala provinciei Río Negro, un oraș liniștit situat pe malul râului Río Negro, aproape de coasta atlantică."
+      ro: "Viedma este capitala provinciei Río Negro, un oraș liniștit situat pe malul râului Río Negro, aproape de coasta atlantică.",
+      de: "Viedma ist die historische Hauptstadt der Provinz Río Negro und bildet zusammen mit Patagones ein bedeutendes urbanes Zentrum am Fluss."
     },
     facts: { en: ["Provincial capital",
       "Negro River",
       "Atlantic coast",
       "Founded 1779"],
       hu: ["A Negro folyó partján fekszik", "Átellenben van Carmen de Patagones-szel", "Közel az óceánparti strandokhoz", "Tervezték ide a főváros költöztetését"],
-      ro: ["Cea mai veche așezare din Patagonia", "Formează un nod urban cu orașul Carmen de Patagones", "Capitala administrativă a provinciei", "Poartă de acces către plajele din El Cóndor"]
+      ro: ["Cea mai veche așezare din Patagonia", "Formează un nod urban cu orașul Carmen de Patagones", "Capitala administrativă a provinciei", "Poartă de acces către plajele din El Cóndor"],
+      de: ["Hauptstadt der Provinz Río Negro", "Liegt am Ufer des Río Negro", "Älteste Stadt der Region", "Einst als Bundes-Hauptstadt im Gespräch"]
     },
     type: "state-capital",
     parent: "AR-R",
@@ -1909,14 +1931,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-r-san-carlos-de-bariloche-cities-v2",
     description: { en: "A world-renowned ski and tourism destination, famous for its Alpine architecture and chocolate production.",
       hu: "Világhírű turisztikai központ az Andok lábánál, a Nahuel Huapi-tó partján. Alpesi stílusáról, csokoládéjáról és sípályáiról nevezetes.",
-      ro: "Bariloche este cea mai faimoasă destinație turistică din Patagonia, renumită pentru lacurile glaciare, munții spectaculoși și ciocolată."
+      ro: "Bariloche este cea mai faimoasă destinație turistică din Patagonia, renumită pentru lacurile glaciare, munții spectaculoși și ciocolată.",
+      de: "Bariloche ist weltbekannt für seine Schokolade, die wunderschöne Seenlandschaft und als bedeutendstes Skigebiet Südamerikas."
     },
     facts: { en: ["Ski destination",
       "Alpine style",
       "Chocolate industry",
       "Lakeside city"],
       hu: ["Argentína Svájcaként emlegetik", "Híres kézműves csokoládék", "Kiemelkedő tudományos és nukleáris központ", "Téli és nyári turizmus fellegvára"],
-      ro: ["Capitala națională a turismului de aventură", "Găzduiește celebrul hotel Llao Llao", "Arhitectură de inspirație alpină elvețiană", "Situat pe malul lacului Nahuel Huapi"]
+      ro: ["Capitala națională a turismului de aventură", "Găzduiește celebrul hotel Llao Llao", "Arhitectură de inspirație alpină elvețiană", "Situat pe malul lacului Nahuel Huapi"],
+      de: ["Am Ufer des Lago Nahuel Huapi", "Bedeutendstes Wintersportzentrum Argentiniens", "Zentrum für High-Tech und Kernforschung", "Berühmt für handgemachte Schokolade"]
     },
     type: "city",
     parent: "AR-R",
@@ -1943,14 +1967,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-r-general-roca-cities-v2",
     description: { en: "An important city in the Upper Valley, central to the region's fruit and wine industry.",
       hu: "Río Negro tartomány egyik legfontosabb városa, az Alto Valle gyümölcstermesztő vidék központja. A város híres almaterméséről.",
-      ro: "General Roca este un centru agricol vital în Valea Superioară a râului Río Negro, inima producției de mere și pere a Argentinei."
+      ro: "General Roca este un centru agricol vital în Valea Superioară a râului Río Negro, inima producției de mere și pere a Argentinei.",
+      de: "General Roca ist das Herz des oberen Tals des Río Negro und das wichtigste Zentrum für den Anbau von Äpfeln und Birnen."
     },
     facts: { en: ["Upper Valley hub",
       "Fruit production",
       "Wine industry",
       "Río Negro region"],
       hu: ["Országos Almaünnep", "Intenzív öntözéses gazdálkodás", "Fontos oktatási és kulturális centrum", "A Negro folyó völgyében fekszik"],
-      ro: ["Găzduiește Festivalul Național al Mărului", "Centru universitar și judiciar major", "Economie bazată pe exportul de fructe", "Fondat în 1879 ca așezare militară"]
+      ro: ["Găzduiește Festivalul Național al Mărului", "Centru universitar și judiciar major", "Economie bazată pe exportul de fructe", "Fondat în 1879 ca așezare militară"],
+      de: ["Zentrum des Obstbaus", "Gastgeber des Nationalen Apfelfestes", "Wichtiges Bildungszentrum der Region", "Geprägt durch Bewässerungslandwirtschaft"]
     },
     type: "city",
     parent: "AR-R",
@@ -1977,14 +2003,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-r-cipolletti-cities-v2",
     description: { en: "Located at the confluence of the Neuquén and Limay rivers, known for its agro-industrial activity.",
       hu: "Río Negro tartomány nyugati szélén fekvő város, amely Neuquén szomszédságában található. Fontos gyümölcstermesztő és ipari központ.",
-      ro: "Cipolletti este un oraș dinamic situat la granița cu provincia Neuquén, fiind un pilon al dezvoltării agricole și industriale din regiune."
+      ro: "Cipolletti este un oraș dinamic situat la granița cu provincia Neuquén, fiind un pilon al dezvoltării agricole și industriale din regiune.",
+      de: "Cipolletti ist eine dynamische Stadt in Río Negro, die für ihre Obstgärten und ihre enge Verbindung zum benachbarten Neuquén bekannt ist."
     },
     facts: { en: ["Agro-industrial",
       "River confluence",
       "Río Negro region",
       "Founded 1903"],
       hu: ["Gyümölcskonzervek és gyümölcslé gyártása", "Híd köti össze Neuquén városával", "Az Alto Valle régió része", "Dinamikus lakosságnövekedés"],
-      ro: ["Parte integrantă a Văii Superioare a râului Río Negro", "Nod de transport esențial către Neuquén", "Centru major pentru cercetare agricolă", "Oraș cu o creștere demografică accelerată"]
+      ro: ["Parte integrantă a Văii Superioare a râului Río Negro", "Nod de transport esențial către Neuquén", "Centru major pentru cercetare agricolă", "Oraș cu o creștere demografică accelerată"],
+      de: ["Bedeutender Produzent von Tafelobst", "Strategische Lage am Río Negro", "Enge wirtschaftliche Verflechtung mit Neuquén", "Benannt nach dem Ingenieur César Cipolletti"]
     },
     type: "city",
     parent: "AR-R",
@@ -2011,14 +2039,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-a-salta-cities-v2",
     description: { en: "The capital of Salta province, celebrated for its well-preserved colonial architecture and vibrant Andean traditions.",
       hu: "Északnyugat-Argentína gyarmati gyöngyszeme, amelyet 'Salta la Linda' (A szépséges Salta) néven ismernek. Gazdag spanyol örökséggel és lenyűgöző hegyi tájakkal rendelkezik.",
-      ro: "Salta, supranumit „Salta la Linda”, este capitala provinciei omonime și cel mai bine conservat oraș colonial din Argentina."
+      ro: "Salta, supranumit „Salta la Linda”, este capitala provinciei omonime și cel mai bine conservat oraș colonial din Argentina.",
+      de: "Salta, die Schöne, besticht durch ihre außergewöhnlich gut erhaltene Kolonialarchitektur und ihre Lage in den grünen Lerma-Tälern."
     },
     facts: { en: ["Provincial capital",
       "Colonial heritage",
       "Andean culture",
       "Founded 1582"],
       hu: ["A legjobban megőrzött gyarmati város", "A 'Felhők vonata' kiindulópontja", "Andoki kultúra és folklór", "Híres peñák (zenés vendéglők)"],
-      ro: ["Arhitectură colonială spaniolă remarcabilă", "Situat în Valea Lerma la 1.187 metri", "Poartă de acces către Trenul Norilor", "Fondat în 1582 de Hernando de Lerma"]
+      ro: ["Arhitectură colonială spaniolă remarcabilă", "Situat în Valea Lerma la 1.187 metri", "Poartă de acces către Trenul Norilor", "Fondat în 1582 de Hernando de Lerma"],
+      de: ["Eine der schönsten Kolonialstädte Argentiniens", "Hauptstadt der gleichnamigen Provinz", "Bekannt für Folkloremusik und Peñas", "Ausgangspunkt für den Zug zu den Wolken"]
     },
     type: "state-capital",
     parent: "AR-A",
