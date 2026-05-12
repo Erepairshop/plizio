@@ -20,34 +20,41 @@ const _poiById = new Map<string, POI>();
 for (const p of [...dePois, ...ALL_DE_EXTRA_POIS, ...romaniaAllPois, ...hungaryAllPoi, vaticanCountry, ...vaticanPois, ...ALL_COUNTRY_POIS]) {
   if (p && p.id && !_poiById.has(p.id)) _poiById.set(p.id, p);
 }
-// GPS-alapú dedup: ha 2 POI ugyanazon koordinátán (~50m radius), keep az elsőt.
-// Az "ugyanaz a hely más ID-val" Google-szempontból Soft-404 duplicate canonical.
-// Region/country típusokat hagyjuk (ezek admin határok, lehetnek "egymáson").
+// GPS-alapú dedup: ha 2 POI ugyanazon koordinátán (~50m radius), keep az
+// "összetettebbet" (parent + description + image). Region/country mindenhol.
 function poiCoords(p: POI): [number, number] | null {
   if (p.coords && p.coords.length >= 2) return [Number(p.coords[0]), Number(p.coords[1])];
   const c = (p as { coordinates?: { lat: number; lng: number } }).coordinates;
   if (c && typeof c.lat === "number" && typeof c.lng === "number") return [c.lng, c.lat];
   return null;
 }
-const _seenCoords = new Map<string, string>(); // bucket-key -> first poi-id
-const _dedupedPois: POI[] = [];
+function poiScore(p: POI): number {
+  let s = 0;
+  if (p.parent) s += 100; // parent is critical for map rendering
+  if (p.image) s += 10;
+  if (p.description) s += 5;
+  if (p.facts) s += 3;
+  return s;
+}
+const _seenCoords = new Map<string, POI>(); // bucket-key -> best POI so far
+const _passthrough: POI[] = []; // POIs without coords or region/country (keep all)
 for (const p of _poiById.values()) {
   if (!p || p.type === "region" || p.type === "country") {
-    _dedupedPois.push(p);
+    _passthrough.push(p);
     continue;
   }
   const xy = poiCoords(p);
   if (!xy) {
-    _dedupedPois.push(p);
+    _passthrough.push(p);
     continue;
   }
-  // Bucket at ~0.0005° (~50m latitude). Same bucket = same place.
   const key = `${Math.round(xy[1] / 0.0005)}:${Math.round(xy[0] / 0.0005)}`;
-  if (_seenCoords.has(key)) continue;
-  _seenCoords.set(key, p.id);
-  _dedupedPois.push(p);
+  const existing = _seenCoords.get(key);
+  if (!existing || poiScore(p) > poiScore(existing)) {
+    _seenCoords.set(key, p);
+  }
 }
-export const pois = _dedupedPois;
+export const pois: POI[] = [..._passthrough, ...Array.from(_seenCoords.values())];
 const _regionById = new Map<string, POI>();
 for (const r of [...deRegions, ...romaniaRegions, ...hungaryRegions]) {
   if (r && r.id && !_regionById.has(r.id)) _regionById.set(r.id, r);
