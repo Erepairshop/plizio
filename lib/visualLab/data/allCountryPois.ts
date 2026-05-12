@@ -1204,7 +1204,7 @@ export const ALL_COUNTRY_POIS: POI[] = ([
   ...lithuaniaAllPoi,
   ...mkPoisPart1,
   ...mkPoisPart2,
-  ...mkPoisPart4,
+  ...mkPoisPart3,
   ...mkPoisPart4,
   ...mkPoisPart5,
   ...mkPoisPart6,
@@ -2428,7 +2428,6 @@ import { poiExtraDeCities } from "./poiExtraDeCities";
 import { poiExtraDeLebenWirtschaft } from "./poiExtraDeLebenWirtschaft";
 
 // === Added orphan imports (auto) ===
-import { algeriaAllPoi } from "./algeriaPoi";
 import { croatiaAllPoi } from "./croatiaPoi";
 import { icelandCountry } from "./icelandPoi";
 // (removed: latviaPoi → latviaPoi_new is canonical)
@@ -2439,7 +2438,7 @@ import { latviaNature } from "./latviaPoi_new";
 import { lithuaniaAllPoi } from "./lithuaniaPoi";
 import { mkPoisPart1 } from "./northmacedoniaPois_part1";
 import { mkPoisPart2 } from "./northmacedoniaPois_part2";
-import { mkPoisPart4 } from "./northmacedoniaPois_part3";
+import { mkPoisPart3 } from "./northmacedoniaPois_part3";
 import { mkPoisPart4 } from "./northmacedoniaPois_part4";
 import { mkPoisPart5 } from "./northmacedoniaPois_part5";
 import { mkPoisPart6 } from "./northmacedoniaPois_part6";
