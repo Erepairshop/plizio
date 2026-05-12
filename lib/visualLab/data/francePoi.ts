@@ -1359,3 +1359,6 @@ export const franceCities: POI[] = [
 ];
 
 export const franceAllPoi: POI[] = [...franceCountry, ...franceRegions, ...franceCities];
+
+// Re-export from sibling file (legacy import path: "./francePoi")
+export { franceCitiesExtra } from "./franceCitiesExtra";
